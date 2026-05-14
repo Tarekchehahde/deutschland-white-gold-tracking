@@ -56,8 +56,8 @@ Same-Origin: Dashboard lädt JSON von derselben Pages-URL (`/data/...`).
 
 ### Phase 5 — Historie
 
-- [ ] Archiv-JSON oder partitionierte Dateien  
-- [ ] Zweite HTML-Seite `historie.html`  
+- [x] Archiv-JSON oder partitionierte Dateien (`data/archive/archive.json`, `summary.json`, `months/YYYY-MM.json`; Merge via `pipeline/archive_merge.py`)  
+- [x] Zweite HTML-Seite `historie.html`  
 
 ### Phase 6 — Härten
 

@@ -34,3 +34,5 @@ Ordner `dashboard/` — auf `gh-pages` als Site-Root deployt; lädt **`meta.json
 **GitHub Pages:** Im Branch **`gh-pages`** eine leere Datei **`.nojekyll`** im Root halten, damit die Site **nicht durch Jekyll gebaut** wird und statische JSON unter `data/` zuverlässig ausgeliefert werden.
 
 **Zeitreise (Demo):** Query `?demo=oberrhein-april-2023` oder `?demo=oberrhein-november-2023` lädt fixierte JSON-Snapshots unter `data/fixtures/demo/…` (keine echte RSS-Zeitreihe; nur zur Illustration dichter Medienphasen).
+
+**Historie:** Zweite Seite `dashboard/historie.html` — liest `data/archive/summary.json` (kumuliert über Ingest-Läufe). Archiv-Pflege erfolgt im Workflow automatisch; siehe `METRICS.md`.

@@ -12,6 +12,31 @@ body {
   margin-inline: auto;
 }
 
+.site-nav {
+  font-size: 0.9rem;
+  margin-bottom: 0.75rem;
+}
+
+.site-nav a {
+  color: #2563eb;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+.site-nav__sep {
+  margin: 0 0.35rem;
+  color: #888;
+}
+
+.site-nav__here {
+  font-weight: 600;
+  color: #333;
+}
+
 .page-header {
   padding: 1.5rem 0 0.5rem;
 }

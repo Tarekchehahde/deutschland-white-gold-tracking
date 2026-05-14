@@ -34,4 +34,14 @@ Die Keyword-Logik deckt neben Batterien und E-Mobilität auch **natürliche Vork
 | `data/fixtures/articles_recent.json` | Liste der Artikel im Fenster |
 | `data/fixtures/metrics_7d.json` | Aggregierte Kennzahlen (`articles_per_day`, `tag_counts`, …) |
 
-JSON Schemas: `data/schema/meta.schema.json`, `articles_recent.schema.json`, `metrics_7d.schema.json`, `article.schema.json`.
+JSON Schemas: `data/schema/meta.schema.json`, `articles_recent.schema.json`, `metrics_7d.schema.json`, `article.schema.json`, `archive_summary.schema.json`.
+
+## Archiv (Historie, Schema 0.3.0)
+
+| Datei | Inhalt |
+|-------|--------|
+| `data/archive/archive.json` | Alle archivierten Artikel (Dedupe nach URL, Obergrenze aktuell 3500) |
+| `data/archive/summary.json` | Kennzahlen, `articles_per_month`, `recent_for_ui` für `historie.html` |
+| `data/archive/months/YYYY-MM.json` | Partition je Kalendermonat (Erscheinungsdatum UTC) |
+
+Nach jedem erfolgreichen Ingest aktualisiert der Workflow das Archiv und committed Änderungen nach `main` mit `[skip ci]`. Die gleichen Dateien werden nach `site/data/archive/` kopiert und auf **GitHub Pages** ausgeliefert.

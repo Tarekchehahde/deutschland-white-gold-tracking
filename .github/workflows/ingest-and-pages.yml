@@ -9,6 +9,8 @@ on:
       - "config/**"
       - "dashboard/**"
       - "data/fixtures/demo/**"
+      - "pipeline/archive_merge.py"
+      - "data/archive/**"
       - ".github/workflows/ingest-and-pages.yml"
   schedule:
     # ~07:00 / ~20:00 mitteleuropäische Zeit (Sommer CEST ≈ UTC+2 → 05:00 / 18:00 UTC).
@@ -45,11 +47,21 @@ jobs:
           mkdir -p site/data/fixtures
           python pipeline/run.py --output-dir site/data/fixtures --window-days 7
 
+      - name: Merge rolling window into archive
+        run: |
+          python pipeline/archive_merge.py \
+            --recent-json site/data/fixtures/articles_recent.json \
+            --archive-dir data/archive
+
       - name: Assemble static site
         run: |
-          cp dashboard/index.html dashboard/app.js dashboard/styles.css site/
+          mkdir -p site/data/fixtures site/data/archive
+          cp dashboard/index.html dashboard/app.js dashboard/styles.css dashboard/historie.html dashboard/historie.js site/
           touch site/.nojekyll
           if [ -d data/fixtures/demo ]; then mkdir -p site/data/fixtures && cp -r data/fixtures/demo site/data/fixtures/; fi
+          cp data/archive/archive.json data/archive/summary.json site/data/archive/
+          rm -rf site/data/archive/months
+          cp -r data/archive/months site/data/archive/
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
@@ -58,3 +70,15 @@ jobs:
           publish_branch: gh-pages
           publish_dir: site
           force_orphan: false
+
+      - name: Commit archive to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/archive/
+          if git diff --staged --quiet; then
+            echo "No archive changes."
+          else
+            git commit -m "chore(archive): update from ingest [skip ci]"
+            git push
+          fi

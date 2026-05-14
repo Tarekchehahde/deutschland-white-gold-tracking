@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/deutschland-white-gold/archive_summary.schema.json",
+  "title": "archive_summary",
+  "type": "object",
+  "required": ["schema_version", "generated_at_utc", "total_in_archive"],
+  "properties": {
+    "schema_version": { "type": "string", "const": "0.3.0" },
+    "generated_at_utc": { "type": "string", "format": "date-time" },
+    "archive_article_cap": { "type": "integer", "minimum": 1 },
+    "total_in_archive": { "type": "integer", "minimum": 0 },
+    "articles_per_month": {
+      "type": "object",
+      "additionalProperties": { "type": "integer", "minimum": 0 }
+    },
+    "recent_for_ui": {
+      "type": "array",
+      "description": "Neueste Artikel für UI (Subset)",
+      "items": { "type": "object" }
+    }
+  },
+  "additionalProperties": true
+}
