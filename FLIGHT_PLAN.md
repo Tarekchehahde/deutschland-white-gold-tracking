@@ -41,13 +41,13 @@ Same-Origin: Dashboard lädt JSON von derselben Pages-URL (`/data/...`).
 
 ### Phase 2 — Pipeline v0
 
-- [ ] Python: RSS fetch, normalize, dedupe, keyword buckets  
-- [ ] Konfiguration: `config/feeds.yaml` aus SOURCES.md  
+- [x] Python: RSS fetch, normalize, dedupe, Keyword-Filter, Tag-/Regions-Heuristiken (`pipeline/run.py`)
+- [x] Konfiguration: `config/feeds.yaml`, `config/keywords.yaml`
 
 ### Phase 3 — Actions + gh-pages
 
-- [ ] Workflow: Zeitplan UTC, Secrets nur falls nötig  
-- [ ] Deploy-Schritt: Branch `gh-pages`  
+- [x] Workflow: Cron 2× täglich (UTC, Kommentar siehe YAML) + `workflow_dispatch`
+- [x] Deploy: `peaceiris/actions-gh-pages` → Branch **`gh-pages`** (inkl. `.nojekyll`, Dashboard-Assets)
 
 ### Phase 4 — Dashboard v1
 

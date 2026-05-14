@@ -1,0 +1,102 @@
+# Treffer, wenn einer der Strings (casefold) in Titel oder Kurzbeschreibung vorkommt.
+# Erweiterbar ohne Codeänderung.
+
+match_substrings:
+  - lithium
+  - rohstoff
+  - rohstoffe
+  - kritische rohstoffe
+  - bodenschätze
+  - batterie
+  - feststoffbatterie
+  - akku
+  - elektromobilität
+  - elektroauto
+  - e-auto
+  - speicher
+  - abbau
+  - bergbau
+  - exploration
+  - erkundung
+  - förderung
+  - geotherm
+  - thermalwasser
+  - tiefenwasser
+  - brine
+  - direkte lithiumextraktion
+  - extraktion lithium
+  - altmark
+  - salzwedel
+  - zinnwald
+  - erzgebirge
+  - oberrhein
+  - oberrheingraben
+  - rheingraben
+  - landau
+  - vulcan
+  - neptune
+  - CRM-act
+  - critical raw materials
+
+tag_rules:
+  politik:
+    substrings:
+      - regierung
+      - ministerium
+      - minister
+      - eu-kommission
+      - europäische kommission
+      - bundestag
+      - landtag
+      - genehmigung
+      - aufsicht
+  umwelt:
+    substrings:
+      - umwelt
+      - naturschutz
+      - grundwasser
+      - wasserrecht
+      - protest
+      - bürgerinitiative
+      - klima
+  exploration:
+    substrings:
+      - exploration
+      - bohrung
+      - erkundung
+      - lizenz
+      - aufsuchung
+      - probe
+  industrie:
+    substrings:
+      - unternehmen
+      - lieferkette
+      - fabrik
+      - raffinerie
+      - chemie
+
+region_hints:
+  - substring: altmark
+    code: DE-ST
+  - substring: salzwedel
+    code: DE-ST
+  - substring: magdeburg
+    code: DE-ST
+  - substring: sachsen-anhalt
+    code: DE-ST
+  - substring: zinnwald
+    code: DE-SN
+  - substring: erzgebirge
+    code: DE-SN
+  - substring: chemnitz
+    code: DE-SN
+  - substring: leipzig
+    code: DE-SN
+  - substring: oberrhein
+    code: DE-RP
+  - substring: rheinland-pfalz
+    code: DE-RP
+  - substring: landau
+    code: DE-RP
+  - substring: baden-württemberg
+    code: DE-BW

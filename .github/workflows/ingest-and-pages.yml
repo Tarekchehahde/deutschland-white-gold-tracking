@@ -1,0 +1,58 @@
+name: Ingest RSS and publish Pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "pipeline/**"
+      - "config/**"
+      - "dashboard/**"
+      - ".github/workflows/ingest-and-pages.yml"
+  schedule:
+    # ~07:00 / ~20:00 mitteleuropäische Zeit (Sommer CEST ≈ UTC+2 → 05:00 / 18:00 UTC).
+    # Winter weicht ab — bei Bedarf zweimal jährlich anpassen.
+    - cron: "15 5 * * *"
+    - cron: "15 18 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deutschland-white-gold-pages
+  cancel-in-progress: true
+
+jobs:
+  ingest-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install pipeline dependencies
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Run ingest
+        env:
+          GITHUB_SHA: ${{ github.sha }}
+        run: |
+          mkdir -p site/data/fixtures
+          python pipeline/run.py --output-dir site/data/fixtures --window-days 7
+
+      - name: Assemble static site
+        run: |
+          cp dashboard/index.html dashboard/app.js dashboard/styles.css site/
+          touch site/.nojekyll
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: site
+          force_orphan: false

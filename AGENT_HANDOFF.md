@@ -36,10 +36,10 @@
 
 ## Wo weitermachen
 
-1. `FLIGHT_PLAN.md` Phase 0 abschließen (Repo auf GitHub).  
-2. `SOURCES.md` mit echten Feed-URLs füllen.  
-3. JSON-Schema aus `data/schema/` implementieren und Fixtures schreiben.  
-4. Ersten Workflow nur „generate fixtures → push gh-pages“ testen.  
+1. ~~`FLIGHT_PLAN.md` Phase 0–3 Basis~~ — Pipeline + Pages-Deploy sind live.  
+2. **Phase 4**: Charts (Plotly/Vega), Volumen-/Themenmix in `dashboard/`.  
+3. **Phase 5**: Historie (`historie.html` + Archiv-JSON).  
+4. Feeds/Keywords verfeinern (`config/*.yaml`), ohne Code zu ändern wo möglich.  
 
 ## Bekannte fallweise Verwechslungen
 

@@ -1,0 +1,40 @@
+# Startliste für Pipeline v0 — erweiterbar (siehe SOURCES.md).
+# category: national | regional | eu_agency | broadcast
+
+feeds:
+  - id: tagesschau-wirtschaft
+    url: https://www.tagesschau.de/wirtschaft/index~rss2.xml
+    category: national
+  - id: tagesschau-klima
+    url: https://www.tagesschau.de/wissen/klima/index~rss2.xml
+    category: national
+  - id: tagesschau-europa
+    url: https://www.tagesschau.de/ausland/europa/index~rss2.xml
+    category: national
+  - id: tagesschau-st
+    url: https://www.tagesschau.de/inland/regional/sachsenanhalt/index~rss2.xml
+    category: regional
+  - id: tagesschau-sn
+    url: https://www.tagesschau.de/inland/regional/sachsen/index~rss2.xml
+    category: regional
+  - id: tagesschau-rp
+    url: https://www.tagesschau.de/inland/regional/rheinlandpfalz/index~rss2.xml
+    category: regional
+  - id: tagesschau-bw
+    url: https://www.tagesschau.de/inland/regional/badenwuerttemberg/index~rss2.xml
+    category: regional
+  - id: dw-wirtschaft
+    url: https://rss.dw.com/xml/rss-de-eco
+    category: national
+  - id: mdr-sachsen-anhalt
+    url: https://www.mdr.de/sachsen-anhalt/verteilseite1524-rss.xml
+    category: regional
+  - id: deutschlandfunk-wirtschaft
+    url: https://www.deutschlandfunk.de/wirtschaft-106.rss
+    category: broadcast
+  - id: clean-energy-wire
+    url: https://www.cleanenergywire.org/rss.xml
+    category: eu_agency
+  - id: rnd-wirtschaft
+    url: https://www.rnd.de/arc/outboundfeeds/rss/category/wirtschaft/
+    category: national

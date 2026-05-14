@@ -1,6 +1,22 @@
 {
   "schema_version": "0.2.0",
-  "articles_per_day": { "2026-05-13": 1 },
-  "tag_counts": { "politik": 1, "exploration": 1 },
-  "by_source_category": { "regional": 1 }
+  "articles_per_day": {
+    "2026-05-07": 1,
+    "2026-05-08": 1,
+    "2026-05-10": 1,
+    "2026-05-11": 1,
+    "2026-05-12": 2,
+    "2026-05-13": 5,
+    "2026-05-14": 2
+  },
+  "tag_counts": {
+    "exploration": 1,
+    "industrie": 2,
+    "politik": 1,
+    "umwelt": 1
+  },
+  "by_source_category": {
+    "national": 3,
+    "regional": 10
+  }
 }
