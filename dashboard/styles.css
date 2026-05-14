@@ -215,6 +215,91 @@ body {
   background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
 }
 
+.card--tab-bar {
+  margin-top: 0.85rem;
+  padding: 0.85rem 1rem 1rem;
+  border-left: 4px solid rgba(56, 189, 248, 0.85);
+}
+
+.tab-bar-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 0.4rem;
+  color: var(--text-muted-card);
+}
+
+.tab-bar-label--sub {
+  margin-top: 0.75rem;
+}
+
+.tab-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.tab-bar--sub {
+  gap: 0.35rem;
+}
+
+.tab-bar__btn {
+  appearance: none;
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 999px;
+  padding: 0.45rem 0.95rem;
+  border: 1px solid rgba(15, 23, 42, 0.12);
+  background: #f1f5f9;
+  color: #334155;
+  transition: background 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.tab-bar__btn:hover {
+  background: #e2e8f0;
+  border-color: rgba(14, 165, 233, 0.35);
+}
+
+.tab-bar__btn[aria-selected="true"] {
+  background: linear-gradient(135deg, #0ea5e9, #0284c7);
+  color: #fff;
+  border-color: transparent;
+  box-shadow: 0 4px 14px rgba(2, 132, 199, 0.35);
+}
+
+.tab-bar__btn--sub {
+  font-size: 0.82rem;
+  padding: 0.38rem 0.75rem;
+}
+
+.tab-bar__btn:focus-visible {
+  outline: 2px solid var(--accent-sky);
+  outline-offset: 2px;
+}
+
+.demo-banner__to-live {
+  display: inline;
+  margin: 0;
+  margin-left: 0.35rem;
+  padding: 0;
+  border: none;
+  background: none;
+  color: #b45309;
+  font-weight: 700;
+  font-size: inherit;
+  font-family: inherit;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.demo-banner__to-live:hover {
+  color: #92400e;
+}
+
 .card--status {
   border-left: 4px solid var(--accent-emerald);
 }
