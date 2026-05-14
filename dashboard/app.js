@@ -142,9 +142,9 @@ const CATEGORY_DE = {
 };
 
 const plotlyBaseLayout = {
-  paper_bgcolor: "#ffffff",
-  plot_bgcolor: "#fafbfc",
-  font: { family: "system-ui, Segoe UI, Roboto, sans-serif", size: 13, color: "#1a1a1a" },
+  paper_bgcolor: "#f8fafc",
+  plot_bgcolor: "#f1f5f9",
+  font: { family: "system-ui, Segoe UI, Roboto, sans-serif", size: 13, color: "#0f172a" },
   margin: { l: 48, r: 24, t: 44, b: 56 },
   showlegend: false,
 };
@@ -185,8 +185,8 @@ function renderCharts(metrics) {
           mode: "lines+markers",
           x: dates,
           y: counts,
-          line: { color: "#2563eb", width: 2.5, shape: "linear" },
-          marker: { color: "#2563eb", size: 9, line: { color: "#ffffff", width: 1.5 } },
+          line: { color: "#0284c7", width: 3, shape: "linear" },
+          marker: { color: "#0ea5e9", size: 10, line: { color: "#ffffff", width: 2 } },
           hovertemplate: "%{x}<br>Anzahl: %{y}<extra></extra>",
           connectgaps: false,
         },
@@ -216,7 +216,7 @@ function renderCharts(metrics) {
           orientation: "h",
           y: labels,
           x: values,
-          marker: { color: "#0d9488" },
+          marker: { color: "#059669" },
           hovertemplate: "%{y}: %{x}<extra></extra>",
         },
       ],
@@ -246,7 +246,7 @@ function renderCharts(metrics) {
           orientation: "h",
           y: tlabels,
           x: tvals,
-          marker: { color: "#7c3aed" },
+          marker: { color: "#8b5cf6" },
           hovertemplate: "%{y}: %{x}<extra></extra>",
         },
       ],
