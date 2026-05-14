@@ -26,9 +26,9 @@ async function loadSummary() {
 }
 
 const plotlyBaseLayout = {
-  paper_bgcolor: "#ffffff",
-  plot_bgcolor: "#fafbfc",
-  font: { family: "system-ui, Segoe UI, Roboto, sans-serif", size: 13, color: "#1a1a1a" },
+  paper_bgcolor: "#f8fafc",
+  plot_bgcolor: "#f1f5f9",
+  font: { family: "system-ui, Segoe UI, Roboto, sans-serif", size: 13, color: "#0f172a" },
   margin: { l: 48, r: 24, t: 44, b: 72 },
   showlegend: false,
 };
@@ -57,8 +57,8 @@ function renderMonthChart(containerEl, articlesPerMonth) {
         mode: "lines+markers",
         x: months,
         y: counts,
-        line: { color: "#0369a1", width: 2.5 },
-        marker: { color: "#0369a1", size: 9, line: { color: "#ffffff", width: 1.5 } },
+        line: { color: "#0284c7", width: 3 },
+        marker: { color: "#0ea5e9", size: 10, line: { color: "#ffffff", width: 2 } },
         hovertemplate: "%{x}<br>Artikel: %{y}<extra></extra>",
       },
     ],

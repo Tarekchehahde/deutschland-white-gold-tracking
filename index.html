@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <header class="page-header">
+  <header class="page-header page-header--hero">
     <nav class="site-nav" aria-label="Hauptnavigation">
       <span class="site-nav__here">7-Tage-Dashboard</span>
       <span class="site-nav__sep">·</span>
@@ -20,6 +20,46 @@
   <div id="demo-banner" class="demo-banner" hidden></div>
 
   <main>
+    <section class="card card--spotlight" id="charts-section">
+      <div class="card__eyebrow">Überblick</div>
+      <h2>Diagramme — 7-Tage-Fenster</h2>
+      <p class="chart-caption muted">Basierend auf <code>metrics_7d.json</code> nach Keyword-Filter.</p>
+      <div id="chart-volume" class="chart-wrap chart-wrap--hero" aria-label="Liniendiagramm Treffer pro Tag"></div>
+      <div class="charts-row">
+        <div class="charts-row__cell">
+          <div id="chart-sources" class="chart-wrap chart-wrap--compact" aria-label="Quellenmix nach Kategorie"></div>
+        </div>
+        <div class="charts-row__cell">
+          <div id="chart-tags" class="chart-wrap chart-wrap--compact" aria-label="Themen-Tags"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card card--status" id="status">
+      <h2>Status</h2>
+      <p id="meta-line">Lade Daten …</p>
+      <p id="metrics-line" class="muted"></p>
+    </section>
+
+    <section class="card card--articles">
+      <h2>Letzte Artikel</h2>
+      <ul id="article-list" class="article-list"></ul>
+    </section>
+
+    <section class="card" id="keyword-scope">
+      <h2>Rohstoff- und Geologie-Begriffe im Filter</h2>
+      <p class="muted">
+        Das Projekt behandelt Lithium als <strong>natürliche Ressource</strong>: Neben Batteriekette und Elektromobilität sind z.&nbsp;B.
+        <strong>Lagerstätten</strong> und <strong>Rohstoffvorkommen</strong>, <strong>Thermalsole</strong>, Salzlauge/Sole,
+        <strong>Pegmatit</strong> und <strong>Spodumen</strong>, englische Metaphern wie <strong>reservoir</strong>/<strong>pocket</strong> in der Nähe von „Lithium“,
+        sowie Geothermie und Tiefenwasser als Kontext abgebildet — immer über die festen Trigger in der Konfiguration (kein Volltext-Webscraping).
+      </p>
+      <p class="muted">
+        Vollständige, versionierte Liste aller Stichwörter und Regex-Muster:
+        <a href="https://github.com/Tarekchehahde/deutschland-white-gold-tracking/blob/main/config/keywords.yaml"><code>config/keywords.yaml</code></a>.
+      </p>
+    </section>
+
     <section class="card" id="sources-overview">
       <h2>Welche Medien werden ausgewertet?</h2>
       <p class="muted">
@@ -39,20 +79,6 @@
         <li><strong>heise online</strong> — News</li>
         <li><strong>Clean Energy Wire</strong> — Energie-/Klimaberichterstattung (Englisch möglich)</li>
       </ul>
-    </section>
-
-    <section class="card" id="keyword-scope">
-      <h2>Rohstoff- und Geologie-Begriffe im Filter</h2>
-      <p class="muted">
-        Das Projekt behandelt Lithium als <strong>natürliche Ressource</strong>: Neben Batteriekette und Elektromobilität sind z.&nbsp;B.
-        <strong>Lagerstätten</strong> und <strong>Rohstoffvorkommen</strong>, <strong>Thermalsole</strong>, Salzlauge/Sole,
-        <strong>Pegmatit</strong> und <strong>Spodumen</strong>, englische Metaphern wie <strong>reservoir</strong>/<strong>pocket</strong> in der Nähe von „Lithium“,
-        sowie Geothermie und Tiefenwasser als Kontext abgebildet — immer über die festen Trigger in der Konfiguration (kein Volltext-Webscraping).
-      </p>
-      <p class="muted">
-        Vollständige, versionierte Liste aller Stichwörter und Regex-Muster:
-        <a href="https://github.com/Tarekchehahde/deutschland-white-gold-tracking/blob/main/config/keywords.yaml"><code>config/keywords.yaml</code></a>.
-      </p>
     </section>
 
     <section class="card sparse-hint-card" id="sparse-hint" hidden>
@@ -92,31 +118,12 @@
       </div>
     </section>
 
-    <section class="card" id="status">
-      <h2>Status</h2>
-      <p id="meta-line">Lade Daten …</p>
-      <p id="metrics-line" class="muted"></p>
-    </section>
-
-    <section class="card" id="charts-section">
-      <h2>Diagramme (7-Tage-Fenster)</h2>
-      <p class="chart-caption muted">Basierend auf <code>metrics_7d.json</code> nach Keyword-Filter.</p>
-      <div id="chart-volume" class="chart-wrap" aria-label="Liniendiagramm Treffer pro Tag"></div>
-      <div id="chart-sources" class="chart-wrap chart-wrap--compact" aria-label="Quellenmix nach Kategorie"></div>
-      <div id="chart-tags" class="chart-wrap chart-wrap--compact" aria-label="Themen-Tags"></div>
-    </section>
-
-    <section class="card" id="disclaimer-box">
+    <section class="card card--disclaimer" id="disclaimer-box">
       <h2>Hinweis</h2>
       <p>
         Keine Anlageberatung. Es werden nur öffentliche Quellen aggregiert.
         Vollständiger Text: siehe Repository <code>DISCLAIMER.md</code>.
       </p>
-    </section>
-
-    <section class="card">
-      <h2>Letzte Artikel</h2>
-      <ul id="article-list"></ul>
     </section>
   </main>
 
