@@ -88,6 +88,29 @@ def text_matches(text: str, needles: list[str]) -> bool:
     return any(n.casefold() in folded for n in needles)
 
 
+def compile_regex_list(patterns: list[str]) -> list[re.Pattern[str]]:
+    out: list[re.Pattern[str]] = []
+    for p in patterns:
+        if not p or not isinstance(p, str):
+            continue
+        try:
+            out.append(re.compile(p, re.IGNORECASE))
+        except re.error as ex:
+            print(f"Ungültiges match_regex: {p!r} ({ex})", file=sys.stderr)
+    return out
+
+
+def matches_focus(blob: str, kw_cfg: dict[str, Any], regex_list: list[re.Pattern[str]]) -> bool:
+    folded_blob = blob.casefold()
+    for ex in kw_cfg.get("exclude_substrings") or []:
+        if isinstance(ex, str) and ex.casefold() in folded_blob:
+            return False
+    needles = kw_cfg.get("match_substrings") or []
+    if text_matches(blob, needles):
+        return True
+    return any(rx.search(blob) for rx in regex_list)
+
+
 def classify_tags(summary: str, rules: dict[str, Any]) -> list[str]:
     found: list[str] = []
     tag_rules = rules.get("tag_rules") or {}
@@ -150,7 +173,7 @@ def main() -> int:
     root = _repo_root()
     feeds_cfg = load_yaml(root / "config" / "feeds.yaml")
     kw_cfg = load_yaml(root / "config" / "keywords.yaml")
-    needles = kw_cfg.get("match_substrings") or []
+    regex_list = compile_regex_list(kw_cfg.get("match_regex") or [])
     region_hints = kw_cfg.get("region_hints") or []
 
     now = datetime.now(timezone.utc)
@@ -179,7 +202,7 @@ def main() -> int:
                 if published < cutoff:
                     continue
                 blob = entry_summary(e, title)
-                if not text_matches(blob, needles):
+                if not matches_focus(blob, kw_cfg, regex_list):
                     continue
                 raw_items.append(
                     {

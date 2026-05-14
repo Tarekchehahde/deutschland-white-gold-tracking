@@ -1,42 +1,54 @@
-# Treffer, wenn einer der Strings (casefold) in Titel oder Kurzbeschreibung vorkommt.
-# Erweiterbar ohne Codeänderung.
+# Filter für Rohstoff / Lithium / Batterie-Kette — konservativer als v0.
+# Siehe METRICS.md; Pipeline: match_substrings ODER match_regex; Ausschluss via exclude_substrings.
+
+exclude_substrings:
+  - quecksilber
+  - geburtshilfe
+  - genossenschaftsbank
+  - eichenprozessionsspinner
+  - comic als urteil
+  - ruhango-markt
+  - second-hand
+  - zu wenig geburten
+  - stellenabbau
 
 match_substrings:
   - lithium
-  - rohstoff
-  - rohstoffe
+  - lithium-ion
   - kritische rohstoffe
   - bodenschätze
-  - batterie
   - feststoffbatterie
-  - akku
   - elektromobilität
   - elektroauto
   - e-auto
-  - speicher
-  - abbau
-  - bergbau
-  - exploration
-  - erkundung
-  - förderung
   - geotherm
   - thermalwasser
   - tiefenwasser
   - brine
   - direkte lithiumextraktion
   - extraktion lithium
-  - altmark
-  - salzwedel
   - zinnwald
-  - erzgebirge
-  - oberrhein
-  - oberrheingraben
-  - rheingraben
-  - landau
-  - vulcan
-  - neptune
+  - vulcan energy
+  - vulcan energy resources
+  - neptune energy
   - CRM-act
   - critical raw materials
+  - wismut
+  - bergbau
+  - batteriezelle
+  - akkuzelle
+  - direktextraktion
+
+# Zusätzliche Muster (Python re.IGNORECASE). Für Kontext „Lithium/Batterie/Speicher“ ohne False Positives wie „Stellenabbau“.
+match_regex:
+  - '(?i)(strom|akkus|batterie|energie)(speicher|speicherung)'
+  - '(?i)lithium.{0,55}(batterie|gewinnung|mine|vorkommen|lager|projekt|fabrik|werk)'
+  - '(?i)(batterie|akkuzelle|hochvolt).{0,45}lithium'
+  - '(?i)(strategische|kritische)\s+rohstoffe'
+  - '(?i)rohstoff(e)?(strategie|sicherung|abkommen)'
+  - '(?i)(oberrheingraben|oberrhein).{0,80}(lithium|geotherm|brine|thermalwasser)'
+  - '(?i)(altmark|salzwedel).{0,80}(lithium|gasfeld|erdgas|brine|thermal|neptune|extraktion)'
+  - '(?i)(erzgebirge|zinnwald).{0,80}(lithium|bergbau|zinn|wismut|abbau|exploration)'
 
 tag_rules:
   politik:

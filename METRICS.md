@@ -20,6 +20,7 @@ Alle Zahlen im Dashboard beziehen sich auf die **aktuell ingesteten Artikel** un
 
 - **Dedupe**: gleiche canonical URL oder stabiler Hash aus Titel+Datum.  
 - **Transparenz**: Jede Metrik verlinkt auf Rohliste der zugrunde liegenden Artikel-IDs in JSON.
+- **Filter**: `config/keywords.yaml` — `match_substrings`, optional `match_regex`, sowie `exclude_substrings` (z. B. Quecksilber, „Stellenabbau“, irrelevanter Regionalstoff). Feintuning ohne Code möglich.
 
 ## Artefakte (Dashboard, Schema 0.2.0)
 
