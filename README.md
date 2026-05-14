@@ -30,3 +30,5 @@ Siehe [DISCLAIMER.md](DISCLAIMER.md). Das Dashboard ist **keine Anlageberatung**
 ## Lokales Dashboard (Entwurf)
 
 Ordner `dashboard/` — auf `gh-pages` als Site-Root deployt; lädt **`meta.json`**, **`articles_recent.json`**, **`metrics_7d.json`** unter `data/fixtures/` (lokal: gleicher Pfad relativ zum Repo).
+
+**GitHub Pages:** Im Branch **`gh-pages`** eine leere Datei **`.nojekyll`** im Root halten, damit die Site **nicht durch Jekyll gebaut** wird und statische JSON unter `data/` zuverlässig ausgeliefert werden.
