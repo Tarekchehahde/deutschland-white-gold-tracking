@@ -12,7 +12,28 @@
     <p class="subtitle">Monitoring öffentlicher Nachrichten und EU-Stellen — <strong>7-Tage-Ansicht</strong> (Entwurf)</p>
   </header>
 
+  <div id="demo-banner" class="demo-banner" hidden></div>
+
   <main>
+    <section class="card" id="demo-travel">
+      <h2>Zeitreise (Demo)</h2>
+      <p class="muted">
+        Sieben-Tage-Snapshots aus der öffentlichen Berichterstattung (fixierte JSON-Dateien).
+        Die Pipeline speichert keine vollständige RSS-Historie — hier zum Vergleich, wie sich das Dashboard bei einer Schlagzeilenlage anfühlen kann.
+      </p>
+      <ul class="demo-travel-list">
+        <li><a href="./">Aktuelle Daten (Live)</a></li>
+        <li>
+          <a href="?demo=oberrhein-april-2023">April 2023 — Oberrheingraben, KIT-Studie und Thermalwasser-Lithium</a>
+          <span class="muted"> (Medienwelle rund um Reichweite der Ressource)</span>
+        </li>
+        <li>
+          <a href="?demo=oberrhein-november-2023">November 2023 — Landau, Demonstrationsanlage (LEOP)</a>
+          <span class="muted"> (Eröffnung / Außenwirkung)</span>
+        </li>
+      </ul>
+    </section>
+
     <section class="card" id="status">
       <h2>Status</h2>
       <p id="meta-line">Lade Daten …</p>

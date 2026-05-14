@@ -1,0 +1,163 @@
+{
+  "schema_version": "0.2.0",
+  "articles": [
+    {
+      "id": "3dc15151f71ee13342528c57",
+      "title": "Deutschland: Lithiumreserven könnten den heimischen Bedarf decken",
+      "url": "https://www.spiegel.de/wissenschaft/natur/deutschland-lithiumreserven-koennten-den-heimischen-bedarf-decken-a-e3629788-f5c3-419d-9b99-e748e5aea8b0.html",
+      "published_at": "2023-04-23T10:00:00Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Nature-Kontext und Diskussion geologischer vs. Thermalwasser-Ressourcen in Deutschland.",
+      "tags": [
+        "exploration",
+        "umwelt"
+      ],
+      "regions": [
+        "DE-RP",
+        "DE-BW"
+      ]
+    },
+    {
+      "id": "97df2db7d504f03474919a02",
+      "title": "Lithium: Deutschland könnte jahrzehntelang Batterie-Rohstoff fördern",
+      "url": "https://www.spiegel.de/wirtschaft/batterie-rohstoff-deutschland-koennte-jahrzehntelang-lithium-foerdern-a-96535b27-c706-48e2-aacb-7ed25d12cb57.html",
+      "published_at": "2023-04-22T13:15:00Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "SPIEGEL zu KIT-Studie und Deckungsbeitrag bestehender Geothermiekraftwerke.",
+      "tags": [
+        "exploration"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "b8d9d14af7e2218fcda40244",
+      "title": "Lithiumrausch am deutschen Oberrheingraben",
+      "url": "https://www.nzz.ch/wirtschaft/lithiumrausch-am-deutschen-oberrheingraben-der-countdown-zum-start-der-ersten-kommerziellen-produktion-ist-angelaufen-ld.1745683.html",
+      "published_at": "2023-04-21T11:00:00Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Internationale Einordnung zu Projekten und Zeitplan Richtung erste kommerzielle Produktion.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "e55d9becc284156b6ca61a13",
+      "title": "Lithium aus Thermalwasser – Geothermie-Kraftwerke sollen begehrtes Metall fördern",
+      "url": "https://www.deutschlandfunk.de/lithium-thermalwasser-foerderung-deutschland-geothermie-100.html",
+      "published_at": "2023-04-20T15:40:00Z",
+      "source_id": "deutschlandfunk-wirtschaft",
+      "language": "de",
+      "summary": "Überblick zu Landau, Insheim, Bruchsal und Extraktion aus zirkulierendem Thermalwasser.",
+      "tags": [
+        "exploration",
+        "industrie"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "179cc7d09ba9dcc4fe6127d6",
+      "title": "Der Lithium-Schatz im Oberrheingraben ist noch größer als gedacht",
+      "url": "https://www.focus.de/earth/news/oberrheingraben-lithium-reicht-fuer-jahrzehnte_id_204010263.html",
+      "published_at": "2023-04-20T08:55:00Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Medienbericht zu ergänzenden Auswertungen und Reichweite der Thermalwasser-Ressource.",
+      "tags": [
+        "exploration"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "4acdc82c895808986a1a8d7e",
+      "title": "Lithium-Produktion: So könnte Deutschland das »weiße Gold der Energiewende« heben",
+      "url": "https://www.spiegel.de/wissenschaft/technik/lithium-produktion-in-deutschland-der-schatz-im-oberrheingraben-a-c615abff-a66a-41bb-8eb6-4db5a42fdba7.html",
+      "published_at": "2023-04-19T18:10:00Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Technik & Rohstoffe: Oberrheingraben, Geothermie und Perspektiven für eine heimische Kette.",
+      "tags": [
+        "exploration",
+        "industrie",
+        "umwelt"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "132b5bd6a23cac47f42a80ef",
+      "title": "Energiespeichermaterial: Aus heißem Tiefenwasser lässt sich im Oberrheingraben Lithium gewinnen",
+      "url": "https://www.windkraft-journal.de/2023/04/19/energiespeichermaterial-aus-heissem-tiefenwasser-laesst-sich-im-oberrheingraben-lithium-gewinnen/186988",
+      "published_at": "2023-04-19T07:45:00Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Fachmedium zu Thermalwasser, Konzentrationen und Direktextraktion im Oberrheingraben-Kontext.",
+      "tags": [
+        "exploration",
+        "industrie"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "ae7379071a8d10a67e005c72",
+      "title": "Studie: Lithium könnte mit Geothermie gefördert werden",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article247305852/Studie-Lithium-koennte-mit-Geothermie-gefoerdert-werden.html",
+      "published_at": "2023-04-18T14:20:00Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Regionalbericht Baden-Württemberg zur KIT-Studie und gekoppelte Nutzung von Geothermie.",
+      "tags": [
+        "exploration"
+      ],
+      "regions": [
+        "DE-BW"
+      ]
+    },
+    {
+      "id": "c351bbe2b95d48aaa7287d8b",
+      "title": "Studie: Lithium könnte in Deutschland jahrzehntelang mit Geothermie gefördert werden",
+      "url": "https://www.deutschlandfunk.de/lithium-koennte-in-deutschland-jahrzehntelang-mit-geothermie-gefoerdert-werden-100.html",
+      "published_at": "2023-04-17T16:05:00Z",
+      "source_id": "deutschlandfunk-wirtschaft",
+      "language": "de",
+      "summary": "KIT-Forschung zu Thermalwasser im Oberrheingraben und Norddeutschen Becken; Potenzial mehrerer Prozent des jährlichen Bedarfs.",
+      "tags": [
+        "exploration"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "a9d2fb2954816c0b41ab412a",
+      "title": "Lithium aus Deutschland: Der verborgene Schatz im Oberrheingraben",
+      "url": "https://www.dw.com/de/lithium-aus-deutschland-der-verborgene-schatz-im-oberrheingraben/a-54212279",
+      "published_at": "2023-04-17T09:30:00Z",
+      "source_id": "dw-wirtschaft",
+      "language": "de",
+      "summary": "KIT-Methode und Thermalwasser im Oberrheingraben; bis zu rund 200 mg Lithium pro Liter — Diskussion um heimische Versorgung.",
+      "tags": [
+        "exploration",
+        "industrie"
+      ],
+      "regions": [
+        "DE-RP",
+        "DE-BW"
+      ]
+    }
+  ]
+}

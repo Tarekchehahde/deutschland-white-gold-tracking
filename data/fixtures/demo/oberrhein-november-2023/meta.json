@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.2.0",
+  "generated_at_utc": "2023-11-26T23:59:59Z",
+  "window_days": 7,
+  "locale_ui": "de",
+  "sources_revision": "demo-oberrhein-november-2023",
+  "feeds_ok": 0,
+  "feeds_errors": 0,
+  "demo_mode": true,
+  "demo_period_label": "November 2023 — Landau / Demonstrationsanlage & Medien-Fokus Oberrheingraben",
+  "demo_note": "Fixierte Beispieldaten — keine Live-RSS-Auswertung."
+}

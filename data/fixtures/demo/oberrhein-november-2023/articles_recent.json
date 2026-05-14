@@ -1,0 +1,87 @@
+{
+  "schema_version": "0.2.0",
+  "articles": [
+    {
+      "id": "252f6453489c8610009d9a48",
+      "title": "Technologie: Geothermie und Lithium-Rückgewinnung",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/lithium-abbau-geothermie-101.html",
+      "published_at": "2023-11-24T14:00:00Z",
+      "source_id": "tagesschau-klima",
+      "language": "de",
+      "summary": "Überblick zu Verfahren und Standorten im Oberrheingraben.",
+      "tags": [
+        "exploration",
+        "umwelt"
+      ],
+      "regions": [
+        "DE-RP",
+        "DE-BW"
+      ]
+    },
+    {
+      "id": "928ee2efb4bb8222db4fcf39",
+      "title": "Oberrheingraben: Anlage zur Produktion von Lithium eröffnet",
+      "url": "https://www.sueddeutsche.de/wirtschaft/oberrheingraben-anlage-zur-produktion-von-lithium-eroeffnet-dpa.urn-newsml-dpa-com-20090101-231122-99-43596",
+      "published_at": "2023-11-22T18:00:00Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "SZ/dpa zur LEOP in Landau und Thermalwasser-Lithium im Oberrheingraben.",
+      "tags": [
+        "exploration",
+        "industrie"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "37d958aa2ce60a6f90939a63",
+      "title": "Rohstoffe: Wie sinnvoll ist Lithium-Förderung in Deutschland?",
+      "url": "https://www.tagesschau.de/wirtschaft/lithium-landau-pfalz-100.html",
+      "published_at": "2023-11-22T09:14:00Z",
+      "source_id": "tagesschau-rp",
+      "language": "de",
+      "summary": "tagesschau zu Vulcan Energy in Landau, Thermalwasser aus großer Tiefe und Importabhängigkeit.",
+      "tags": [
+        "exploration",
+        "politik",
+        "industrie"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "2c3783ac725d88c2cf33599a",
+      "title": "Anlage zur Produktion von Lithium wird eröffnet",
+      "url": "https://www.zeit.de/news/2023-11/22/anlage-zur-produktion-von-lithium-wird-eroeffnet",
+      "published_at": "2023-11-22T08:00:00Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "ZEIT-news zur Eröffnung einer Anlage im pfälzischen Landau — Kontext Geothermie und Rohstoffversorgung.",
+      "tags": [
+        "exploration",
+        "industrie"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "5a8d47c45080a9b679aed360",
+      "title": "Grundstein für Lithiumproduktion gelegt",
+      "url": "https://www.deutschlandfunk.de/grundstein-fuer-lithiumproduktion-gelegt-106.html",
+      "published_at": "2023-11-20T16:00:00Z",
+      "source_id": "deutschlandfunk-wirtschaft",
+      "language": "de",
+      "summary": "Bericht zur Projektfeier in Landau und zur geplanten Produktion aus Thermalwasser im Oberrheingraben.",
+      "tags": [
+        "exploration",
+        "industrie"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    }
+  ]
+}

@@ -14,15 +14,38 @@ function siteBaseDirHref() {
   return origin + pathname + "/";
 }
 
+/** Optional ?demo=slug loads frozen JSON from data/fixtures/demo/<slug>/ (Zeitreise). */
+function readDemoSlug() {
+  const raw = new URLSearchParams(window.location.search).get("demo");
+  if (!raw) return null;
+  const s = raw.trim();
+  if (!/^[a-z0-9][a-z0-9-]{0,62}$/i.test(s)) return null;
+  return s;
+}
+
 function fixturesBaseHref() {
+  let base;
   if (typeof window.__DWG_DATA_FIXTURES__ === "string" && window.__DWG_DATA_FIXTURES__.trim()) {
     const segment = window.__DWG_DATA_FIXTURES__.trim().replace(/\/?$/, "/");
-    return new URL(segment, window.location.href).href;
+    base = new URL(segment, window.location.href).href;
+  } else if (window.location.pathname.includes("/dashboard")) {
+    base = new URL("../data/fixtures/", window.location.href).href;
+  } else {
+    base = new URL("data/fixtures/", siteBaseDirHref()).href;
   }
-  if (window.location.pathname.includes("/dashboard")) {
-    return new URL("../data/fixtures/", window.location.href).href;
+  const demo = readDemoSlug();
+  if (demo) {
+    return new URL(`demo/${demo}/`, base).href;
   }
-  return new URL("data/fixtures/", siteBaseDirHref()).href;
+  return base;
+}
+
+function escapeHtml(s) {
+  return String(s)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
 }
 
 async function loadJson(filename) {
@@ -35,7 +58,26 @@ async function loadJson(filename) {
 function fmtMeta(meta) {
   const gen = meta.generated_at_utc || "?";
   const days = meta.window_days ?? "?";
-  return `Stand (UTC): ${gen} — Fenster: ${days} Tage — Schema ${meta.schema_version || "?"}`;
+  let line = `Stand (UTC): ${gen} — Fenster: ${days} Tage — Schema ${meta.schema_version || "?"}`;
+  if (meta.demo_mode && meta.demo_period_label) {
+    line += `\nZeitreise (Demo): ${meta.demo_period_label}`;
+  }
+  return line;
+}
+
+function applyDemoBanner(meta) {
+  const el = document.getElementById("demo-banner");
+  if (!el) return;
+  if (meta.demo_mode && meta.demo_period_label) {
+    el.hidden = false;
+    const note = meta.demo_note ? `${escapeHtml(meta.demo_note)} ` : "";
+    el.innerHTML =
+      `<p class="demo-banner__title"><strong>Zeitreise (Demo)</strong> — ${escapeHtml(meta.demo_period_label)}</p>` +
+      `<p class="demo-banner__note muted">${note}<a href="./">Zurück zu Live-Daten</a></p>`;
+  } else {
+    el.hidden = true;
+    el.innerHTML = "";
+  }
 }
 
 function fmtMetricsSnippet(metrics, articleCount) {
@@ -186,6 +228,8 @@ async function main() {
 
     const ac = (articlesRecent.articles || []).length;
     metaLine.textContent = fmtMeta(meta);
+    metaLine.style.whiteSpace = "pre-line";
+    applyDemoBanner(meta);
     metricsLine.textContent = fmtMetricsSnippet(metrics, ac);
 
     renderCharts(metrics);
@@ -207,6 +251,8 @@ async function main() {
     }
   } catch (e) {
     metaLine.textContent = `Daten konnten nicht geladen werden (${e.message}).`;
+    metaLine.style.whiteSpace = "";
+    applyDemoBanner({});
     metricsLine.textContent = "";
     list.innerHTML = "";
     ["chart-volume", "chart-sources", "chart-tags"].forEach((id) => {

@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.2.0",
+  "generated_at_utc": "2023-04-23T23:59:59Z",
+  "window_days": 7,
+  "locale_ui": "de",
+  "sources_revision": "demo-oberrhein-april-2023",
+  "feeds_ok": 0,
+  "feeds_errors": 0,
+  "demo_mode": true,
+  "demo_period_label": "April 2023 — Oberrheingraben / KIT & Thermalwasser-Lithium (öffentliche Berichterstattung)",
+  "demo_note": "Fixierte Beispieldaten aus dieser Mediennachrichtenlage — keine Live-RSS-Auswertung."
+}
