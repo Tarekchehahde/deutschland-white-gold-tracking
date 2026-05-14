@@ -44,10 +44,12 @@ function fmtMeta(meta) {
   return `Stand (UTC): ${gen} — Fenster: ${days} Tage — Schema ${meta.schema_version || "?"}`;
 }
 
-function fmtMetricsSnippet(metrics) {
+function fmtMetricsSnippet(metrics, articleCount) {
   const tags = metrics.tag_counts || {};
   const parts = Object.entries(tags).map(([k, v]) => `${k}: ${v}`);
-  return parts.length ? parts.join(" · ") : "(keine Tag-Zähler im Fixture)";
+  const tagStr = parts.length ? parts.join(" · ") : "Themen-Tags: keine Regeltreffer";
+  const n = typeof articleCount === "number" ? articleCount : "?";
+  return `Treffer im Fenster: ${n} — ${tagStr}`;
 }
 
 async function main() {
@@ -62,8 +64,9 @@ async function main() {
       loadJson("metrics_7d.json"),
     ]);
 
+    const ac = (articlesRecent.articles || []).length;
     metaLine.textContent = fmtMeta(meta);
-    metricsLine.textContent = fmtMetricsSnippet(metrics);
+    metricsLine.textContent = fmtMetricsSnippet(metrics, ac);
 
     list.innerHTML = "";
     for (const a of articlesRecent.articles || []) {
