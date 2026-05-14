@@ -225,8 +225,25 @@ Die folgenden Publisher haben häufig **stadt-/themenbezogene** Feeds — URLs �
 
 ---
 
+## Live-Ingest vs. Zeitreise-Demo „Altmark 2025“
+
+Die **Pipeline** (`pipeline/run.py`) zieht nur die in **`config/feeds.yaml`** eingetragenen **RSS-Feeds** und legt **keine Verfasser:innen** ab — nur die Feed-`id` als `source_id` sowie Titel und Kurztext/snippet für den Keyword-Filter (`config/keywords.yaml`).
+
+| Outlet / Kanal (wie in den Demo-Artikeln vorkommend) | In `feeds.yaml` / Live-Ingest? | Kurz |
+|--------------------------------------------------------|---------------------------------|------|
+| **MDR** Sachsen-Anhalt | ✓ (`mdr-sachsen-anhalt`) | zentral für Altmark-Nahbereich |
+| **tagesschau** (u. a. Regional ST, Wirtschaft, Technologie, …) | ✓ | Regionalfeed ST für Sachsen-Anhalt |
+| **DIE ZEIT** Wirtschaft | ✓ (`zeit-wirtschaft`) | ergänzt überregionale Wellen (vorher nur in der Longlist unten dokumentiert) |
+| **TAG24**, **IWR Online**, **ee-news.ch**, **Earth.com** | ✗ | nur als kuratierte URLs im statischen Demo unter `data/fixtures/demo/` — für Live-Abdeckung müssten stabile RSS-URLs geprüft und whitelistiert werden |
+| **Einzeljournalist:innen / BY-Line** | ✗ | werden aus RSS derzeit **nicht** strukturiert gespeichert |
+
+Ob dieselben Häuser oder konkrete Autor:innen das Thema **aktuell** weiterführen, sieht man bei Live-Daten nur **indirekt** anhand der Trefferliste und Metriken im **letzten 7-Tage-Fenster** — eine durchgehende Personen-Timeline ist mit dem gegenwärtigen Schema nicht vorgesehen.
+
+---
+
 ## Änderungsprotokoll
 
 | Datum | Änderung |
 |-------|----------|
 | 2026-05-14 | Große Erstbefüllung mit RSS/XML-Kandidaten + HTTP-Legende |
+| 2026-05-14 | Abschnitt „Live-Ingest vs. Altmark-Demo“; aktiver Feed **ZEIT Wirtschaft** |

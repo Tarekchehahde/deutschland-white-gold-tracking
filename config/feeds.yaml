@@ -52,6 +52,9 @@ feeds:
   - id: faz-aktuell
     url: https://www.faz.net/rss/aktuell/
     category: national
+  - id: zeit-wirtschaft
+    url: https://newsfeed.zeit.de/wirtschaft/index
+    category: national
   - id: zdf-nachrichten
     url: https://www.zdf.de/rss/zdf/nachrichten
     category: broadcast
