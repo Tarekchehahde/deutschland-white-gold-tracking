@@ -48,6 +48,39 @@ function escapeHtml(s) {
     .replace(/"/g, "&quot;");
 }
 
+/** Klickbare Demo-URLs relativ zur aktuellen GitHub-Pages-Adresse. */
+function fillZeitreiseExamples() {
+  const el = document.getElementById("zeitreise-example-links");
+  if (!el) return;
+  try {
+    el.innerHTML = "";
+    const demos = [
+      ["oberrhein-april-2023", "April 2023 (Oberrheingraben / Studienlage)"],
+      ["oberrhein-november-2023", "November 2023 (Landau / LEOP)"],
+    ];
+    for (const [slug, label] of demos) {
+      const u = new URL(window.location.href);
+      u.searchParams.set("demo", slug);
+      const p = document.createElement("p");
+      p.style.margin = "0.25rem 0 0";
+      const a = document.createElement("a");
+      a.href = u.href;
+      a.textContent = `${label} — ${u.pathname}${u.search}`;
+      p.appendChild(a);
+      el.appendChild(p);
+    }
+    const note = document.createElement("p");
+    note.className = "muted";
+    note.style.marginTop = "0.65rem";
+    note.textContent =
+      "Erwartung: gelber Demo-Kasten unter der Überschrift und deutlich mehr Einträge unter „Letzte Artikel“ als bei Live-Daten.";
+    el.appendChild(note);
+  } catch (_) {
+    el.textContent =
+      "Parameter an die Adresse anhängen: ?demo=oberrhein-april-2023 oder ?demo=oberrhein-november-2023";
+  }
+}
+
 async function loadJson(filename) {
   const url = new URL(filename, fixturesBaseHref());
   const res = await fetch(url.href, { cache: "no-store" });
@@ -227,6 +260,7 @@ function renderCharts(metrics) {
 }
 
 async function main() {
+  fillZeitreiseExamples();
   const metaLine = document.getElementById("meta-line");
   const metricsLine = document.getElementById("metrics-line");
   const list = document.getElementById("article-list");

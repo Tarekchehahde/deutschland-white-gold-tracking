@@ -22,6 +22,10 @@ Alle Zahlen im Dashboard beziehen sich auf die **aktuell ingesteten Artikel** un
 - **Transparenz**: Jede Metrik verlinkt auf Rohliste der zugrunde liegenden Artikel-IDs in JSON.
 - **Filter**: `config/keywords.yaml` — `match_substrings`, optional `match_regex`, sowie `exclude_substrings` (z. B. Quecksilber, „Stellenabbau“, irrelevanter Regionalstoff). Feintuning ohne Code möglich.
 
+### Rohstoff / Geologie / Fluide
+
+Die Keyword-Logik deckt neben Batterien und E-Mobilität auch **natürliche Vorkommen** und verwandte Begriffe ab, z. B. **Lagerstätten**, **Rohstoffvorkommen**, **Thermalsole/Tiefenwasser**, **Salzlauge**, **Pegmatit/Spodumen**, sowie kombinierte Regex für englische Texte (**reservoir**, **pocket** nahe „Lithium“). Es gilt weiterhin: Treffer nur, wenn Titel oder RSS-Kurztext eines konfigurierten Feeds die Regeln erfüllen.
+
 ## Artefakte (Dashboard, Schema 0.2.0)
 
 | Datei | Inhalt |

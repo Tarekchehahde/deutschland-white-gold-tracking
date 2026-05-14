@@ -41,11 +41,25 @@ match_substrings:
   - gigafactory
   - kathodenmaterial
   - nickelsulfat
+  # Geologie / Rohstoffkörper (z. B. Thermalsole, Pegmatit, „Taschen“ in Berichten)
+  - pegmatit
+  - spodumen
+  - salzlauge
+  - tiefengeothermie
+  - mineralische rohstoffe
+  - lithiumgewinnung
+  - lithium-ion-batterie
 
 # Zusätzliche Muster (Python re.IGNORECASE). Für Kontext „Lithium/Batterie/Speicher“ ohne False Positives wie „Stellenabbau“.
 match_regex:
   - '(?i)(strom|akkus|batterie|energie)(speicher|speicherung)'
-  - '(?i)lithium.{0,55}(batterie|gewinnung|mine|vorkommen|lager|projekt|fabrik|werk)'
+  - '(?i)lithium.{0,75}(batterie|gewinnung|mine|vorkommen|lagerstätte|lagerstätten|ressource|reservoir|tasche|taschen|pocket|pockets|projekt|fabrik|werk|sole|brüne|salzlauge)'
+  - '(?i)(lagerstätte|lagerstätten|rohstoffvorkommen).{0,75}lithium'
+  - '(?i)(lithium.{0,30}(pegmatit|spodumen))'
+  - '(?i)((pegmatit|spodumen).{0,55}lithium)'
+  - '(?i)(?:salz)?sole.{0,50}(lithium|gewinnung|extraktion|geotherm|thermal)'
+  - '(?i)(salzlauge|thermalsole).{0,50}(lithium|gewinnung|extraktion|geotherm)'
+  - '(?i)reservoir.{0,55}(lithium|geotherm|thermal|thermalwasser|sole|brüne)'
   - '(?i)(batterie|akkuzelle|hochvolt).{0,45}lithium'
   - '(?i)(strategische|kritische)\s+rohstoffe'
   - '(?i)rohstoff(e)?(strategie|sicherung|abkommen)'
@@ -87,6 +101,11 @@ tag_rules:
       - lizenz
       - aufsuchung
       - probe
+      - lagerstätte
+      - pegmatit
+      - spodumen
+      - salzlauge
+      - geologisch
   industrie:
     substrings:
       - unternehmen

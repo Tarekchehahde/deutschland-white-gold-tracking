@@ -36,6 +36,20 @@
       </ul>
     </section>
 
+    <section class="card" id="keyword-scope">
+      <h2>Rohstoff- und Geologie-Begriffe im Filter</h2>
+      <p class="muted">
+        Das Projekt behandelt Lithium als <strong>natürliche Ressource</strong>: Neben Batteriekette und Elektromobilität sind z.&nbsp;B.
+        <strong>Lagerstätten</strong> und <strong>Rohstoffvorkommen</strong>, <strong>Thermalsole</strong>, Salzlauge/Sole,
+        <strong>Pegmatit</strong> und <strong>Spodumen</strong>, englische Metaphern wie <strong>reservoir</strong>/<strong>pocket</strong> in der Nähe von „Lithium“,
+        sowie Geothermie und Tiefenwasser als Kontext abgebildet — immer über die festen Trigger in der Konfiguration (kein Volltext-Webscraping).
+      </p>
+      <p class="muted">
+        Vollständige, versionierte Liste aller Stichwörter und Regex-Muster:
+        <a href="https://github.com/Tarekchehahde/deutschland-white-gold-tracking/blob/main/config/keywords.yaml"><code>config/keywords.yaml</code></a>.
+      </p>
+    </section>
+
     <section class="card sparse-hint-card" id="sparse-hint" hidden>
       <h2>Warum gerade wenige Treffer?</h2>
       <p>
@@ -64,6 +78,13 @@
           <span class="muted"> (Eröffnung / Außenwirkung)</span>
         </li>
       </ul>
+      <div class="zeitreise-url-box">
+        <p><strong>So sehen Sie die Demos auf genau dieser Website:</strong></p>
+        <p class="muted">
+          Entweder die Links in der Liste nutzen — oder eine der hier eingetragenen Adressen (werden aus Ihrer aktuellen URL gebaut):
+        </p>
+        <div id="zeitreise-example-links" class="muted"></div>
+      </div>
     </section>
 
     <section class="card" id="status">
