@@ -59,10 +59,22 @@ function fmtMeta(meta) {
   const gen = meta.generated_at_utc || "?";
   const days = meta.window_days ?? "?";
   let line = `Stand (UTC): ${gen} — Fenster: ${days} Tage — Schema ${meta.schema_version || "?"}`;
+  const feeds = meta.feeds_ok;
+  if (typeof feeds === "number") {
+    line += `\nRSS-Feeds (konfiguriert): ${feeds}`;
+  }
   if (meta.demo_mode && meta.demo_period_label) {
     line += `\nZeitreise (Demo): ${meta.demo_period_label}`;
   }
   return line;
+}
+
+/** Wenige Treffer sind bei einem engen Thema üblich — Hinweis nur Live-Daten. */
+function applySparseHint(articleCount, meta) {
+  const el = document.getElementById("sparse-hint");
+  if (!el) return;
+  const demo = meta && meta.demo_mode;
+  el.hidden = !!(demo || articleCount > 3);
 }
 
 function applyDemoBanner(meta) {
@@ -230,6 +242,7 @@ async function main() {
     metaLine.textContent = fmtMeta(meta);
     metaLine.style.whiteSpace = "pre-line";
     applyDemoBanner(meta);
+    applySparseHint(ac, meta);
     metricsLine.textContent = fmtMetricsSnippet(metrics, ac);
 
     renderCharts(metrics);
@@ -253,6 +266,7 @@ async function main() {
     metaLine.textContent = `Daten konnten nicht geladen werden (${e.message}).`;
     metaLine.style.whiteSpace = "";
     applyDemoBanner({});
+    applySparseHint(999, {});
     metricsLine.textContent = "";
     list.innerHTML = "";
     ["chart-volume", "chart-sources", "chart-tags"].forEach((id) => {

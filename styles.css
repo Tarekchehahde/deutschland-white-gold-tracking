@@ -26,6 +26,24 @@ body {
   color: #444;
 }
 
+.sources-overview-list {
+  margin: 0.5rem 0 0;
+  padding-left: 1.25rem;
+}
+
+.sources-overview-list li {
+  margin: 0.3rem 0;
+}
+
+.sparse-hint-card {
+  border-color: #bfdbfe;
+  background: #f8fafc;
+}
+
+.sparse-hint-card h2 {
+  font-size: 1rem;
+}
+
 .demo-banner {
   margin-top: 1rem;
   padding: 0.75rem 1rem;

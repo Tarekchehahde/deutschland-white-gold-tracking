@@ -2,17 +2,15 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "6ed1e01d92c71dfaba1ee2ac",
-      "title": "Erzgebirge: Neue Aussichtsplattform macht Wismut-Bergbau sichtbar",
-      "url": "https://www.tagesschau.de/inland/regional/sachsen/mdr-erzgebirge-neue-aussichtsplattform-macht-wismut-bergbau-sichtbar-100.html",
-      "published_at": "2026-05-07T15:32:37Z",
-      "source_id": "tagesschau-sn",
+      "id": "094b8af32d2dedd15bbbf223",
+      "title": "Batterieproduktion in Grünheide: Tesla setzt auf lokale Wertschöpfung",
+      "url": "https://www.heise.de/news/Tesla-inverstiert-in-Gruenheide-Batterienfertigtung-wird-massiv-ausgebaut-11292496.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-13T04:57:00Z",
+      "source_id": "heise-news",
       "language": "de",
-      "summary": "Erzgebirge: Neue Aussichtsplattform macht Wismut-Bergbau sichtbar Bei Hartenstein im Erzgebirge ist eine neue Aussichtsplattform eröffnet worden. Sie liegt am Schacht 371 der früheren Wismut AG und bietet einen Blick auf den ehemaligen Ort für Uranabbau in der DDR.",
+      "summary": "Batterieproduktion in Grünheide: Tesla setzt auf lokale Wertschöpfung Tesla-Chef Elon Musk will von der Batteriezelle bis zum E-Auto alles an einem Standort haben. In Grünheide soll das umgesetzt werden.",
       "tags": [],
-      "regions": [
-        "DE-SN"
-      ]
+      "regions": []
     }
   ]
 }

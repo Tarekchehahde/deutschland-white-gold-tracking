@@ -15,11 +15,43 @@
   <div id="demo-banner" class="demo-banner" hidden></div>
 
   <main>
+    <section class="card" id="sources-overview">
+      <h2>Welche Medien werden ausgewertet?</h2>
+      <p class="muted">
+        Es wird <strong>nicht</strong> das gesamte deutschsprachige Netz durchsucht, sondern nur die konfigurierten <strong>RSS-Feeds</strong>
+        (aktuell siehe <code>config/feeds.yaml</code>). Danach filtert die Pipeline nach einem festen Stichwort-Profil — dadurch kann die Liste auch bei weitergehendem öffentlichen Diskurs kurz ausfallen.
+      </p>
+      <ul class="sources-overview-list">
+        <li><strong>tagesschau</strong> — Wirtschaft, Klima, Europa, Wirtschaft/Technologie; Regional&nbsp;BW, RP, SN, ST</li>
+        <li><strong>Deutsche Welle</strong> — Wirtschaft (RSS)</li>
+        <li><strong>MDR</strong> — Sachsen-Anhalt</li>
+        <li><strong>Deutschlandfunk</strong> — Wirtschaft; Wissenschaft/Wissen</li>
+        <li><strong>ZDF</strong> — Nachrichten</li>
+        <li><strong>DER SPIEGEL</strong> — Schlagzeilen</li>
+        <li><strong>Süddeutsche Zeitung</strong> — Wirtschaft</li>
+        <li><strong>FAZ</strong> — aktuell</li>
+        <li><strong>RND</strong> — Wirtschaft</li>
+        <li><strong>heise online</strong> — News</li>
+        <li><strong>Clean Energy Wire</strong> — Energie-/Klimaberichterstattung (Englisch möglich)</li>
+      </ul>
+    </section>
+
+    <section class="card sparse-hint-card" id="sparse-hint" hidden>
+      <h2>Warum gerade wenige Treffer?</h2>
+      <p>
+        Zur Rolle Deutschlands bei <strong>Lithium und Batteriekette</strong> gibt es durchaus Berichterstattung — aber oft in Schüben.
+        In einem kurzen Zeitfenster liefern selbst große Redaktionen nur wenige RSS-Einträge, deren Titel oder Kurztext zur Keyword-Logik passen.
+      </p>
+      <p class="muted">
+        Für eine Beispielwoche mit <strong>mehr Treffern</strong> (fixierte Archiv-Snapshots, keine echte RSS-Zeitreise im Kalender): Abschnitt <a href="#demo-travel">Zeitreise (Demo)</a>.
+      </p>
+    </section>
+
     <section class="card" id="demo-travel">
       <h2>Zeitreise (Demo)</h2>
       <p class="muted">
-        Sieben-Tage-Snapshots aus der öffentlichen Berichterstattung (fixierte JSON-Dateien).
-        Die Pipeline speichert keine vollständige RSS-Historie — hier zum Vergleich, wie sich das Dashboard bei einer Schlagzeilenlage anfühlen kann.
+        Zwei gespeicherte <strong>7-Tage-Snapshots</strong> aus der öffentlichen Berichterstattung (statische JSON-Dateien) — zum Vergleich mit einer „lauteren“ Nachrichtenlage.
+        Das ist <strong>keine Datumsauswahl</strong> und kein vollständiges Medienarchiv; die Pipeline speichert keine RSS-Historie.
       </p>
       <ul class="demo-travel-list">
         <li><a href="./">Aktuelle Daten (Live)</a></li>
