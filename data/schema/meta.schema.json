@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/deutschland-white-gold/meta.schema.json",
+  "title": "meta",
+  "type": "object",
+  "required": ["schema_version", "generated_at_utc", "window_days"],
+  "properties": {
+    "schema_version": { "type": "string", "const": "0.1.0" },
+    "generated_at_utc": { "type": "string", "format": "date-time" },
+    "window_days": { "type": "integer", "minimum": 1, "maximum": 31 },
+    "locale_ui": { "type": "string", "default": "de" },
+    "sources_revision": { "type": "string", "description": "Git commit oder Datum der SOURCES.md" }
+  },
+  "additionalProperties": true
+}

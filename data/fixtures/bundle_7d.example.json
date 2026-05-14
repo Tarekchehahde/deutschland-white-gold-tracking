@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "schema_version": "0.1.0",
+    "generated_at_utc": "2026-05-14T12:00:00Z",
+    "window_days": 7,
+    "locale_ui": "de",
+    "sources_revision": "fixture"
+  },
+  "articles": [
+    {
+      "id": "fixture-example-1",
+      "title": "Beispiel: Lithium-Rohstoffe in der Altmark (Fixture)",
+      "url": "https://example.org/article/1",
+      "published_at": "2026-05-13T10:00:00Z",
+      "source_id": "fixture-mdr",
+      "language": "de",
+      "summary": "Platzhalter für echte Pipeline-Daten.",
+      "tags": ["politik", "exploration"],
+      "regions": ["DE-ST"]
+    }
+  ],
+  "metrics": {
+    "articles_per_day": { "2026-05-13": 1 },
+    "tag_counts": { "politik": 1, "exploration": 1 },
+    "by_source_category": { "regional": 1 }
+  }
+}

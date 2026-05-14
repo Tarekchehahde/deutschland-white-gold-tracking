@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/deutschland-white-gold/article.schema.json",
+  "title": "article",
+  "type": "object",
+  "required": ["id", "title", "url", "published_at", "source_id", "language"],
+  "properties": {
+    "id": { "type": "string", "description": "stabile ID, z.B. sha256(url)" },
+    "title": { "type": "string" },
+    "url": { "type": "string", "format": "uri" },
+    "published_at": { "type": "string", "format": "date-time" },
+    "source_id": { "type": "string" },
+    "language": { "type": "string", "pattern": "^[a-z]{2}$" },
+    "summary": { "type": "string" },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Themen: exploration, politik, umwelt, ..."
+    },
+    "regions": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "z.B. DE-SN, DE-ST, EU"
+    }
+  },
+  "additionalProperties": true
+}

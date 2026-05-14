@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Generated (optional: wenn generierte Daten nicht auf main liegen sollen)
+# data/generated/
