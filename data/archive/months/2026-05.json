@@ -1,7 +1,7 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-05",
-  "article_count": 7,
+  "article_count": 8,
   "articles": [
     {
       "id": "a998f939ebf30f014496d6f0",
@@ -11,6 +11,17 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "heise+ | Vier smarte Wallboxen für Elektroautos und Hybridfahrzeuge im Test Wer (teil-)elektrisch unterwegs ist, kann mit einem cleveren Charger zu Hause dank dynamischen Stromtarifen oder PV-Überschuss richtig sparen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5dfcfd6e2d4066cfcb05c8bc",
+      "title": "Automobildesign: Heck-Tick",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/elektromobilitaet-bringt-neue-gestaltungsfreiheit-in-das-automobildesign-accg-200829482.html",
+      "published_at": "2026-05-14T12:30:00Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Automobildesign: Heck-Tick Die Elektromobilität bringt neue Gestaltungsfreiheit in das Automobildesign. Da lohnt es sich, die Sache vom Ende her zu denken.",
       "tags": [],
       "regions": []
     },
