@@ -1,0 +1,137 @@
+{
+  "schema_version": "0.2.0",
+  "articles": [
+    {
+      "id": "alt-sd-2025-tag24-091",
+      "title": "Lithium-Vorkommen in der Altmark: Unternehmen sieht großes Potenzial",
+      "url": "https://www.tag24.de/sachsen-anhalt/lithium-vorkommen-in-der-altmark-unternehmen-sieht-grosses-potenzial-3423227",
+      "published_at": "2025-09-24T13:41:00Z",
+      "source_id": "tag24",
+      "language": "de",
+      "summary": "Regionalbericht zu Neptune Energy und dem Pilotbetrieb zur direkten Lithiumextraktion in der Altmark.",
+      "tags": ["exploration", "industrie"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "alt-sd-2025-mdr-interview",
+      "title": "43 Millionen Tonnen Lithium in der Altmark entdeckt: Wie realistisch ist die Förderung?",
+      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/stendal/salzwedel/altmark-lithium-vorkommen-foerderung-interview-102.html",
+      "published_at": "2025-09-27T11:40:00Z",
+      "source_id": "mdr",
+      "language": "de",
+      "summary": "Interview mit Michael Schmidt (DERA) zur Einordnung der Ressourcenzahlen und regulatorischer Hürden.",
+      "tags": ["politik", "exploration"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "alt-sd-2025-mdr-43m",
+      "title": "43 Millionen Tonnen: Riesige Lithium-Ressourcen in der Altmark entdeckt",
+      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/stendal/salzwedel/grosse-lithium-ressourcen-in-altmark-entdeckt-106.html",
+      "published_at": "2025-09-28T12:57:00Z",
+      "source_id": "mdr",
+      "language": "de",
+      "summary": "Meldebogen zu Gutachten (LCE) und Pilotphasen (Ionenaustausch, Adsorption, Demonstrationspfad).",
+      "tags": ["exploration", "industrie"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "alt-sd-2025-mdr-tief",
+      "title": "Firma schürft in dreieinhalb Kilometern Tiefe exklusiv Lithium — doch nicht alle sind begeistert",
+      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/stendal/salzwedel/lithium-foerderung-altmark-neptune-energy-102.html",
+      "published_at": "2025-10-13T08:18:00Z",
+      "source_id": "mdr",
+      "language": "de",
+      "summary": "Hintergrund zu Pilotanlage Steinitz, Rechtslage und gesellschaftlicher Diskurs in der Region.",
+      "tags": ["exploration", "umwelt", "politik"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "alt-sd-2025-iwr",
+      "title": "Altmark im Fokus: Lithiumfund von Neptune Energy könnte Bruttowertschöpfung von 6,4 Mrd. Euro bringen",
+      "url": "https://www.iwr.de/news2.php?id=39396",
+      "published_at": "2025-10-31T11:12:00Z",
+      "source_id": "iwr",
+      "language": "de",
+      "summary": "Kurzmeldung zur IW-Consult-Studie über mögliche gesamtwirtschaftliche Effekte des Projekts.",
+      "tags": ["industrie", "politik"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "alt-sd-2025-ee57258",
+      "title": "Neptune Energy: Lithiumförderung in der Altmark könnte Bruttowertschöpfung in Höhe von 6,4 Milliarden Euro erzeugen",
+      "url": "https://www.eenews.ch/de/wind/article/57258/neptune-energy-lithiumforderung-in-der-altmark-konnte-bruttowertschopfung-in-hohe-von-6-4-milliarden-euro-erzeugen",
+      "published_at": "2025-11-03T12:00:00Z",
+      "source_id": "eenews-ch",
+      "language": "de",
+      "summary": "PM-Zusammenfassung zur IW-Consult-Studie und zum Projektfortschritt.",
+      "tags": ["industrie", "politik"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "alt-sd-2025-mdr-v970528",
+      "title": "Lithiumgewinnung: Junge Altmärker informieren sich über seltenes Metall (Video)",
+      "url": "https://www.mdr.de/video/mdr-videos/c/video-970528.html",
+      "published_at": "2025-11-13T18:00:00Z",
+      "source_id": "mdr",
+      "language": "de",
+      "summary": "MDR Sachsen-Anhalt Heute (Ausstrahlung 13.11.2025): Schul- und Jugendfokus rund um das Projekt.",
+      "tags": ["exploration", "umwelt"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "alt-sd-2025-earth",
+      "title": "World's largest lithium deposit discovered, could power millions of electric cars",
+      "url": "https://www.earth.com/news/worlds-largest-lithium-deposit-discovered-altmark-could-power-millions-of-electric-cars/",
+      "published_at": "2025-11-14T12:00:00Z",
+      "source_id": "earth-com",
+      "language": "en",
+      "summary": "Internationaler Artikel zur Ressourcenbewertung und DLE in der Altmark.",
+      "tags": ["exploration", "industrie"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "alt-sd-2025-ts-salzwedel",
+      "title": "Diskussion: Unternehmen stellt Lithium-Projekt in der Altmark an Schule in Salzwedel vor",
+      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/mdr-unternehmen-stellt-lithium-projekt-in-der-altmark-an-schule-in-salzwedel-vor-100.html",
+      "published_at": "2025-11-18T09:37:00Z",
+      "source_id": "tagesschau",
+      "language": "de",
+      "summary": "Neptune Energy im Schuldialog zu Chancen, Risiken und Umweltaspekten.",
+      "tags": ["politik", "umwelt"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "alt-sd-2025-mdr-schule",
+      "title": "Diskussion: Unternehmen stellt Lithium-Projekt in der Altmark an Schule in Salzwedel vor",
+      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/stendal/salzwedel/altmark-lithium-schule-diskussion-104.html",
+      "published_at": "2025-11-18T09:37:00Z",
+      "source_id": "mdr",
+      "language": "de",
+      "summary": "MDR-Text zur gleichen Salzwedeler Schulveranstaltung.",
+      "tags": ["politik", "umwelt"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "alt-sd-2025-zeit-ki",
+      "title": "Rohstoff für Batterien: KI soll Lithium-Projekt in Altmark voranbringen",
+      "url": "https://www.zeit.de/news/2025-12/17/ki-soll-lithium-projekt-in-altmark-voranbringen",
+      "published_at": "2025-12-17T09:00:00Z",
+      "source_id": "zeit-dpa",
+      "language": "de",
+      "summary": "dpa/ZEIT: Digitalisierung von Bohrungsarchiven und Chat-gestützte geologische Auswertung für Neptune Energy.",
+      "tags": ["industrie", "exploration"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "alt-sd-2025-tag24-ki",
+      "title": "Millionen Tonnen Lithium in der Altmark: KI soll Abbau voranbringen",
+      "url": "https://www.tag24.de/sachsen-anhalt/millionen-tonnen-lithium-in-der-altmark-ki-soll-abbau-voranbringen-3450255",
+      "published_at": "2025-12-17T14:31:00Z",
+      "source_id": "tag24",
+      "language": "de",
+      "summary": "Regionaler Artikel zur KI-Datenbank über Jahrzehnte Erdgasförderung und Pilotphase bis Mitte 2026.",
+      "tags": ["industrie", "exploration"],
+      "regions": ["DE-ST"]
+    }
+  ]
+}

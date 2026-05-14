@@ -48,6 +48,17 @@ function escapeHtml(s) {
     .replace(/"/g, "&quot;");
 }
 
+function applyChartsHeading(meta) {
+  const el = document.getElementById("charts-heading");
+  if (!el) return;
+  const days = meta && typeof meta.window_days === "number" ? meta.window_days : 7;
+  if (meta && meta.demo_mode && typeof meta.demo_charts_title === "string" && meta.demo_charts_title.trim()) {
+    el.textContent = meta.demo_charts_title.trim();
+    return;
+  }
+  el.textContent = `Diagramme — ${days}-Tage-Fenster`;
+}
+
 /** Klickbare Demo-URLs relativ zur aktuellen GitHub-Pages-Adresse. */
 function fillZeitreiseExamples() {
   const el = document.getElementById("zeitreise-example-links");
@@ -57,6 +68,8 @@ function fillZeitreiseExamples() {
     const demos = [
       ["oberrhein-april-2023", "April 2023 (Oberrheingraben / Studienlage)"],
       ["oberrhein-november-2023", "November 2023 (Landau / LEOP)"],
+      ["altmark-november-2025", "November 2025 (Altmark / Neptune Energy)"],
+      ["altmark-sep-dec-2025", "September–Dezember 2025 (Altmark / Neptune Energy)"],
     ];
     for (const [slug, label] of demos) {
       const u = new URL(window.location.href);
@@ -77,7 +90,7 @@ function fillZeitreiseExamples() {
     el.appendChild(note);
   } catch (_) {
     el.textContent =
-      "Parameter an die Adresse anhängen: ?demo=oberrhein-april-2023 oder ?demo=oberrhein-november-2023";
+      "Parameter an die Adresse anhängen: ?demo=oberrhein-april-2023, ?demo=oberrhein-november-2023, ?demo=altmark-november-2025 oder ?demo=altmark-sep-dec-2025";
   }
 }
 
@@ -278,6 +291,7 @@ async function main() {
     const ac = (articlesRecent.articles || []).length;
     metaLine.textContent = fmtMeta(meta);
     metaLine.style.whiteSpace = "pre-line";
+    applyChartsHeading(meta);
     applyDemoBanner(meta);
     applySparseHint(ac, meta);
     metricsLine.textContent = fmtMetricsSnippet(metrics, ac);
@@ -302,6 +316,7 @@ async function main() {
   } catch (e) {
     metaLine.textContent = `Daten konnten nicht geladen werden (${e.message}).`;
     metaLine.style.whiteSpace = "";
+    applyChartsHeading({});
     applyDemoBanner({});
     applySparseHint(999, {});
     metricsLine.textContent = "";

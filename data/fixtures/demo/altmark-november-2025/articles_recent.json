@@ -1,0 +1,60 @@
+{
+  "schema_version": "0.2.0",
+  "articles": [
+    {
+      "id": "altnov-2025-ee57258",
+      "title": "Neptune Energy: Lithiumförderung in der Altmark könnte Bruttowertschöpfung in Höhe von 6,4 Milliarden Euro erzeugen",
+      "url": "https://www.eenews.ch/de/wind/article/57258/neptune-energy-lithiumforderung-in-der-altmark-konnte-bruttowertschopfung-in-hohe-von-6-4-milliarden-euro-erzeugen",
+      "published_at": "2025-11-03T12:00:00Z",
+      "source_id": "eenews-ch",
+      "language": "de",
+      "summary": "PM-Zusammenfassung zu IW-Consult-Studie (Wirtschaftseffekte) und Projektstand Neptune Energy in der Altmark.",
+      "tags": ["industrie", "politik"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "altnov-2025-mdr-v970528",
+      "title": "Lithiumgewinnung: Junge Altmärker informieren sich über seltenes Metall (Video)",
+      "url": "https://www.mdr.de/video/mdr-videos/c/video-970528.html",
+      "published_at": "2025-11-13T18:00:00Z",
+      "source_id": "mdr",
+      "language": "de",
+      "summary": "MDR Sachsen-Anhalt Heute, Ausstrahlung Do 13.11.2025 — Schulfokus und Diskussion rund um das Altmark-Projekt.",
+      "tags": ["exploration", "umwelt"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "altnov-2025-earth-altmark",
+      "title": "World's largest lithium deposit discovered, could power millions of electric cars",
+      "url": "https://www.earth.com/news/worlds-largest-lithium-deposit-discovered-altmark-could-power-millions-of-electric-cars/",
+      "published_at": "2025-11-14T12:00:00Z",
+      "source_id": "earth-com",
+      "language": "en",
+      "summary": "Internationaler Bericht zur unabhängigen Ressourcenbewertung (LCE) und geplantem DLE-Vorgehen in der Altmark.",
+      "tags": ["exploration", "industrie"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "altnov-2025-ts-salzwedel",
+      "title": "Diskussion: Unternehmen stellt Lithium-Projekt in der Altmark an Schule in Salzwedel vor",
+      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/mdr-unternehmen-stellt-lithium-projekt-in-der-altmark-an-schule-in-salzwedel-vor-100.html",
+      "published_at": "2025-11-18T09:37:00Z",
+      "source_id": "tagesschau",
+      "language": "de",
+      "summary": "Neptune Energy im Gespräch mit Schülerinnen und Schülern in Salzwedel zu Chancen, Risiken und Umweltaspekten.",
+      "tags": ["politik", "umwelt"],
+      "regions": ["DE-ST"]
+    },
+    {
+      "id": "altnov-2025-mdr-schule",
+      "title": "Diskussion: Unternehmen stellt Lithium-Projekt in der Altmark an Schule in Salzwedel vor",
+      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/stendal/salzwedel/altmark-lithium-schule-diskussion-104.html",
+      "published_at": "2025-11-18T09:37:00Z",
+      "source_id": "mdr",
+      "language": "de",
+      "summary": "Parallelbericht (MDR) zur Schulveranstaltung mit Neptune Energy in Salzwedel.",
+      "tags": ["politik", "umwelt"],
+      "regions": ["DE-ST"]
+    }
+  ]
+}

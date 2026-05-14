@@ -22,7 +22,7 @@
   <main>
     <section class="card card--spotlight" id="charts-section">
       <div class="card__eyebrow">Überblick</div>
-      <h2>Diagramme — 7-Tage-Fenster</h2>
+      <h2 id="charts-heading">Diagramme — Zeitfenster</h2>
       <div class="context-blurb">
         <p>
           <strong>2023</strong> lag ein Schwerpunkt der Berichterstattung im <strong>Südwesten</strong>:
@@ -34,7 +34,7 @@
           ein anderer Zeitstrahl und Ort als die Oberrhein-Welle <strong>2023</strong>, aber dasselbe Themengebiet: <strong>heimisches Lithium aus der Tiefe</strong>.
         </p>
       </div>
-      <p class="chart-caption muted">Basierend auf <code>metrics_7d.json</code> nach Keyword-Filter.</p>
+      <p class="chart-caption muted">Basierend auf <code>metrics_7d.json</code> (Treffer pro Kalendertag im gewählten Fenster).</p>
       <div id="chart-volume" class="chart-wrap chart-wrap--hero" aria-label="Liniendiagramm Treffer pro Tag"></div>
       <div class="charts-row">
         <div class="charts-row__cell">
@@ -110,7 +110,8 @@
     <section class="card" id="demo-travel">
       <h2>Zeitreise (Demo)</h2>
       <p class="muted">
-        Zwei gespeicherte <strong>7-Tage-Snapshots</strong> aus der öffentlichen Berichterstattung (statische JSON-Dateien) — zum Vergleich mit einer „lauteren“ Nachrichtenlage.
+        Gespeicherte <strong>Zeitreise-Snapshots</strong> aus der öffentlichen Berichterstattung (statische JSON unter <code>data/fixtures/demo/</code>) — zum Vergleich mit einer „lauteren“ Nachrichtenlage.
+        Neben den Oberrhein-Beispielen <strong>2023</strong> gibt es Demos zur Medienwelle <strong>Altmark / Neptune Energy ab 2025</strong> (Brine / DLE).
         Das ist <strong>keine Datumsauswahl</strong> und kein vollständiges Medienarchiv; die Pipeline speichert keine RSS-Historie.
       </p>
       <ul class="demo-travel-list">
@@ -122,6 +123,14 @@
         <li>
           <a href="?demo=oberrhein-november-2023">November 2023 — Landau, Demonstrationsanlage (LEOP)</a>
           <span class="muted"> (Eröffnung / Außenwirkung)</span>
+        </li>
+        <li>
+          <a href="?demo=altmark-november-2025">November 2025 — Altmark / Neptune Energy (30 Tage)</a>
+          <span class="muted"> (Schule Salzwedel, internationale Aufmerksamkeit, PM zur Wirtschaftsstudie)</span>
+        </li>
+        <li>
+          <a href="?demo=altmark-sep-dec-2025">September–Dezember 2025 — Altmark / Neptune Energy (122 Tage)</a>
+          <span class="muted"> (u. a. MDR-Interview Sept., Herbstberichte, Dezember KI/Archive)</span>
         </li>
       </ul>
       <div class="zeitreise-url-box">
