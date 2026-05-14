@@ -61,3 +61,20 @@ feeds:
   - id: heise-news
     url: https://www.heise.de/rss/heise-atom.xml
     category: national
+
+  # Oberrheingraben / Südwest: Thermalsole-Lithium (Landau, Karlsruhe-Umfeld) — zusätzliche Lokalauslese
+  - id: swr-aktuell-rss
+    url: https://www.swr.de/~rss/index.xml
+    category: broadcast
+  - id: rp-online-wirtschaft
+    url: https://rp-online.de/wirtschaft/feed.rss
+    category: regional
+  - id: rp-online-rlp
+    url: https://rp-online.de/rheinland-pfalz/feed.rss
+    category: regional
+  - id: volksfreund
+    url: https://www.volksfreund.de/feed.rss
+    category: regional
+  - id: pfalz-express
+    url: https://www.pfalz-express.de/feed/
+    category: regional

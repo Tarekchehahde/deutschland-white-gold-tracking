@@ -58,7 +58,7 @@ Diese Liste ist **groß by design**: hohe Abdeckung für Metriken, aber **stark 
 | RND — Wirtschaft | https://www.rnd.de/arc/outboundfeeds/rss/category/wirtschaft/ | (–) | Redaktionsnetzwerk |
 | RND — Politik | https://www.rnd.de/arc/outboundfeeds/rss/category/politik/ | (–) | |
 | RND — Panorama | https://www.rnd.de/arc/outboundfeeds/rss/category/panorama/ | (–) | breiter Streuwinkel |
-| RP ONLINE — Wirtschaft | https://rp-online.de/wirtschaft/feed.rss | (–) | Regionalnetzwerk |
+| RP ONLINE — Wirtschaft | https://rp-online.de/wirtschaft/feed.rss | ✓ | Regionalnetzwerk |
 | n-tv — alle RSS Hub | https://www.n-tv.de/incoming/RSS-Feeds-von-n-tv-de-article10735026.html | (–) | Meta |
 | n-tv — Wirtschaft | https://www.n-tv.de/wirtschaft/rss | (–) | Börsen/Wirtschaft |
 | n-tv — Wissenschaft | https://www.n-tv.de/wissen/rss | (–) | |
@@ -116,6 +116,17 @@ Diese Liste ist **groß by design**: hohe Abdeckung für Metriken, aber **stark 
 | Sachsen-Anhalt | https://www.tagesschau.de/inland/regional/sachsenanhalt/index~rss2.xml | ✓ |
 | Schleswig-Holstein | https://www.tagesschau.de/inland/regional/schleswigholstein/index~rss2.xml | ✓ |
 | Thüringen | https://www.tagesschau.de/inland/regional/thueringen/index~rss2.xml | ✓ |
+
+---
+
+## Deutschland — Südwest / Oberrhein (Pipeline-Zusatz, Thermalsole-Lithium)
+
+| Outlet | Feed-URL | HTTP | Notiz |
+|--------|----------|------|--------|
+| RP ONLINE — Rheinland-Pfalz | https://rp-online.de/rheinland-pfalz/feed.rss | ✓ | RLP-Ressort |
+| RP ONLINE — Wirtschaft | https://rp-online.de/wirtschaft/feed.rss | ✓ | VRM-Wirtschaft |
+| Pfalz-Express | https://www.pfalz-express.de/feed/ | ✓ | Landau / Südliche Weinstraße |
+| Volksfreund | https://www.volksfreund.de/feed.rss | ✓ | Trier / Südwest-RLP |
 
 ---
 

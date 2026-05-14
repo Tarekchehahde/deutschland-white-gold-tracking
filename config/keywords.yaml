@@ -29,6 +29,7 @@ match_substrings:
   - zinnwald
   - vulcan energy
   - vulcan energy resources
+  - vulcan
   - neptune energy
   - CRM-act
   - critical raw materials
@@ -71,6 +72,8 @@ match_regex:
   - '(?i)wismut.{0,90}(lithium|zinnwald|akk|batterie|rohstoff)'
   - '(?i)batterie.{0,45}(fabrik|werk|produktion|zelle)'
   - '(?i)(akkuzellen?|hochvoltbatterie).{0,35}(werk|fabrik|standort)'
+  - '(?i)\blandau\b.{0,65}(lithium|geotherm|thermal|vulcan|sole|speicher|akk|batterie|rohstoff)'
+  - '(?i)\bvulcan\b.{0,55}(landau|oberrhein|lithium|pfalz|geotherm|thermal)'
 
 tag_rules:
   politik:
