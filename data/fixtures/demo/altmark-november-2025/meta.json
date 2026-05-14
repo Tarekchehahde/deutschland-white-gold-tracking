@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.2.0",
+  "generated_at_utc": "2025-11-30T23:59:59Z",
+  "window_days": 30,
+  "locale_ui": "de",
+  "sources_revision": "demo-altmark-november-2025",
+  "feeds_ok": 0,
+  "feeds_errors": 0,
+  "demo_mode": true,
+  "demo_period_label": "November 2025 — Altmark / Neptune Energy (öffentliche Berichterstattung, Demo)",
+  "demo_note": "Fixierte Beispieldaten zur Mediennachrichtenlage Altmark / Brine-DLE — keine Live-RSS-Auswertung."
+}
