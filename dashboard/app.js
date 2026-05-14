@@ -181,16 +181,19 @@ function renderCharts(metrics) {
       volumeEl,
       [
         {
-          type: "bar",
+          type: "scatter",
+          mode: "lines+markers",
           x: dates,
           y: counts,
-          marker: { color: "#2563eb", line: { width: 0 } },
+          line: { color: "#2563eb", width: 2.5, shape: "linear" },
+          marker: { color: "#2563eb", size: 9, line: { color: "#ffffff", width: 1.5 } },
           hovertemplate: "%{x}<br>Anzahl: %{y}<extra></extra>",
+          connectgaps: false,
         },
       ],
       {
         ...plotlyBaseLayout,
-        title: { text: "Treffer pro Kalendertag", font: { size: 15 } },
+        title: { text: "Treffer pro Kalendertag (Verlauf)", font: { size: 15 } },
         xaxis: { title: "Datum (UTC)", tickangle: dates.length > 5 ? -35 : 0 },
         yaxis: { title: "Artikel", rangemode: "tozero", dtick: 1 },
       },
