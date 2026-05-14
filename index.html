@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Deutschland White Gold — Dashboard (Entwurf)</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="page-header">
+    <h1>Deutschland White Gold</h1>
+    <p class="subtitle">Monitoring öffentlicher Nachrichten und EU-Stellen — <strong>7-Tage-Ansicht</strong> (Entwurf)</p>
+  </header>
+
+  <main>
+    <section class="card" id="status">
+      <h2>Status</h2>
+      <p id="meta-line">Lade Daten …</p>
+    </section>
+
+    <section class="card" id="disclaimer-box">
+      <h2>Hinweis</h2>
+      <p>
+        Keine Anlageberatung. Es werden nur öffentliche Quellen aggregiert.
+        Vollständiger Text: siehe Repository <code>DISCLAIMER.md</code>.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>Letzte Artikel (Fixture)</h2>
+      <ul id="article-list"></ul>
+    </section>
+  </main>
+
+  <footer class="page-footer">
+    <p>Quellenliste: <code>SOURCES.md</code> — Metriken: <code>METRICS.md</code></p>
+  </footer>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
