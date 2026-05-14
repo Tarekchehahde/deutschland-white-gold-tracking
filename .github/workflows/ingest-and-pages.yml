@@ -26,10 +26,12 @@ on:
       - "data/archive/**"
       - ".github/workflows/ingest-and-pages.yml"
   schedule:
-    # ~07:00 / ~20:00 mitteleuropäische Zeit (Sommer CEST ≈ UTC+2 → 05:00 / 18:00 UTC).
-    # Winter weicht ab — bei Bedarf zweimal jährlich anpassen.
-    - cron: "15 5 * * *"
-    - cron: "15 18 * * *"
+    # TEMP / CRON TEST — revert nach erfolgreichem Lauf zu den Produktionszeiten unten.
+    # Einmaliger Testslot UTC (GitHub kann um wenige Minuten verzögern).
+    - cron: "9 16 * * *"
+    # Produktion (nach Test wieder aktivieren, Test-Zeile entfernen):
+    # - cron: "15 5 * * *"
+    # - cron: "15 18 * * *"
 
 permissions:
   contents: write
