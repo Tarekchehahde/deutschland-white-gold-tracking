@@ -19,6 +19,14 @@
       <p id="metrics-line" class="muted"></p>
     </section>
 
+    <section class="card" id="charts-section">
+      <h2>Diagramme (7-Tage-Fenster)</h2>
+      <p class="chart-caption muted">Basierend auf <code>metrics_7d.json</code> nach Keyword-Filter.</p>
+      <div id="chart-volume" class="chart-wrap" aria-label="Balkendiagramm Treffer pro Tag"></div>
+      <div id="chart-sources" class="chart-wrap chart-wrap--compact" aria-label="Quellenmix nach Kategorie"></div>
+      <div id="chart-tags" class="chart-wrap chart-wrap--compact" aria-label="Themen-Tags"></div>
+    </section>
+
     <section class="card" id="disclaimer-box">
       <h2>Hinweis</h2>
       <p>
@@ -37,6 +45,7 @@
     <p>Quellenliste: <code>SOURCES.md</code> — Metriken: <code>METRICS.md</code></p>
   </footer>
 
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8"></script>
   <script type="module" src="app.js"></script>
 </body>
 </html>

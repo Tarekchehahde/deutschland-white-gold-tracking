@@ -8,7 +8,7 @@
 body {
   margin: 0;
   padding: 0 1rem 2rem;
-  max-width: 52rem;
+  max-width: 56rem;
   margin-inline: auto;
 }
 
@@ -53,4 +53,23 @@ body {
 
 code {
   font-size: 0.88em;
+}
+
+.chart-caption {
+  margin: 0 0 0.75rem;
+  font-size: 0.85rem;
+}
+
+.chart-wrap {
+  width: 100%;
+  min-height: 260px;
+  margin-top: 0.75rem;
+}
+
+.chart-wrap:first-of-type {
+  margin-top: 0;
+}
+
+.chart-wrap--compact {
+  min-height: 220px;
 }
