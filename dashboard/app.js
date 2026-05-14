@@ -7,6 +7,19 @@
  * Optional: window.__DWG_DATA_FIXTURES__ = "../data/fixtures/" überschreibt.
  */
 
+function siteBaseDirHref() {
+  const { origin, pathname } = window.location;
+  if (pathname.endsWith("/")) {
+    return origin + pathname;
+  }
+  if (/\.html$/i.test(pathname)) {
+    const dir = pathname.replace(/[^/]+$/, "");
+    return origin + dir;
+  }
+  /** GitHub Pages: `/repo` ohne trailing slash → sonst `./data/` unter Host-Root (404). */
+  return origin + pathname + "/";
+}
+
 function fixturesBaseHref() {
   if (typeof window.__DWG_DATA_FIXTURES__ === "string" && window.__DWG_DATA_FIXTURES__.trim()) {
     const segment = window.__DWG_DATA_FIXTURES__.trim().replace(/\/?$/, "/");
@@ -15,7 +28,7 @@ function fixturesBaseHref() {
   if (window.location.pathname.includes("/dashboard")) {
     return new URL("../data/fixtures/", window.location.href).href;
   }
-  return new URL("./data/fixtures/", window.location.href).href;
+  return new URL("data/fixtures/", siteBaseDirHref()).href;
 }
 
 async function loadJson(filename) {
