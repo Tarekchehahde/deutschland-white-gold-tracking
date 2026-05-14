@@ -13,6 +13,28 @@
       "regions": []
     },
     {
+      "id": "d1ca1f6d84122c3286b13662",
+      "title": "Verkehrswende: Portal für Elektroauto-Förderung soll am 18. Mai starten",
+      "url": "https://www.golem.de/news/verkehrswende-portal-fuer-elektroauto-foerderung-soll-am-18-mai-starten-2605-208658.html",
+      "published_at": "2026-05-13T15:35:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Verkehrswende: Portal für Elektroauto-Förderung soll am 18. Mai starten Bald können Käufer von Elektroautos ihre staatliche Förderung beantragen. Diese gilt rückwirkend zum 1. Januar 2026. ( Elektroauto , Politik )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7de0bef2fe86659f04438f44",
+      "title": "Vinfast VF6 im Test: Kompakter Hatchback mit vielen Extras und vielen Verbesserungswünschen",
+      "url": "https://www.golem.de/news/vinfast-vf6-im-test-kompakter-hatchback-mit-vielen-extras-und-vielen-verbesserungswuenschen-2605-208573.html",
+      "published_at": "2026-05-13T12:50:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Vinfast VF6 im Test: Kompakter Hatchback mit vielen Extras und vielen Verbesserungswünschen Vinfasts VF6 ist ein klassischer Hatchback mit Potenzial, aber auch einigen Macken. Die betreffen vor allem die Software. Ein Test von Tobias Költzsch ( Elektroauto , Test )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "094b8af32d2dedd15bbbf223",
       "title": "Batterieproduktion in Grünheide: Tesla setzt auf lokale Wertschöpfung",
       "url": "https://www.heise.de/news/Tesla-inverstiert-in-Gruenheide-Batterienfertigtung-wird-massiv-ausgebaut-11292496.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -21,6 +43,42 @@
       "language": "de",
       "summary": "Batterieproduktion in Grünheide: Tesla setzt auf lokale Wertschöpfung Tesla-Chef Elon Musk will von der Batteriezelle bis zum E-Auto alles an einem Standort haben. In Grünheide soll das umgesetzt werden.",
       "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5b6292d2f115f3b5661390af",
+      "title": "Suntec baut Co-Location-Graustromspeicher mit 13,5 Megawattstunden Kapazität",
+      "url": "https://www.pv-magazine.de/2026/05/12/suntec-baut-co-location-graustromspeicher-mit-135-megawattstunden-kapazitaet/",
+      "published_at": "2026-05-12T07:02:13Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Suntec baut Co-Location-Graustromspeicher mit 13,5 Megawattstunden Kapazität Der Batteriespeicher wird in Unterfranken an einem bereits ans Netz angeschlossenen Solarpark mit 5,8 Megawatt Leistung errichtet. Nach Angaben von Suntec hat der Netzbetreiber die Netzentgeltbefreiung bestätigt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c5bf76cc6e820b354091ef2b",
+      "title": "Starkes Wachstum im Großspeichermarkt führt zu Batterie-Rekordzubau von über 2 Gigawattstunden im 1. Quartal 2026",
+      "url": "https://www.pv-magazine.de/2026/05/08/starkes-wachstum-im-grossspeichermarkt-fuehrt-zu-batterie-rekordzubau-von-ueber-2-gigawattstunden-im-1-quartal-2026/",
+      "published_at": "2026-05-08T10:23:46Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Starkes Wachstum im Großspeichermarkt führt zu Batterie-Rekordzubau von über 2 Gigawattstunden im 1. Quartal 2026 Im ersten Quartal 2026 sind in Deutschland geschätzt 2,2 Gigawattstunden an Batteriespeicherkapazität neu in Betrieb genommen worden. Damit ist der Markt weiter um rund 38 Prozent gegenüber dem Wert des ersten Quartals 2025 gewachsen. Während der Photovoltaik-Heimspeichermarkt stagnier",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "eddb01b053ecfe0855a778ce",
+      "title": "Flower baut Batteriespeicher mit 400 Megawattstunden in Hamburg",
+      "url": "https://www.pv-magazine.de/2026/05/08/flower-baut-batteriespeicher-mit-400-megawattstunden-in-hamburg/",
+      "published_at": "2026-05-08T09:54:37Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Flower baut Batteriespeicher mit 400 Megawattstunden in Hamburg Das schwedische Unternehmen hat das 4-Stunden-Speicherprojekt nach eigenen Angaben zur Baureife gebracht. Die Netzanschlusszusage und alle erforderlichen Genehmigungen für das größte Speicherprojekt in einer deutschen Großstadt liegen vor.",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
       "regions": []
     }
   ]
