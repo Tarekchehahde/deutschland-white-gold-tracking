@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2.0",
+  "articles_per_day": {
+    "2023-11-20": 1,
+    "2023-11-22": 3,
+    "2023-11-24": 1
+  },
+  "tag_counts": {
+    "exploration": 5,
+    "industrie": 4,
+    "politik": 1,
+    "umwelt": 1
+  },
+  "by_source_category": {
+    "broadcast": 1,
+    "national": 3,
+    "regional": 1
+  }
+}

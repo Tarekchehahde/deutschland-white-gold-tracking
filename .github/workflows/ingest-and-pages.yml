@@ -8,6 +8,7 @@ on:
       - "pipeline/**"
       - "config/**"
       - "dashboard/**"
+      - "data/fixtures/demo/**"
       - ".github/workflows/ingest-and-pages.yml"
   schedule:
     # ~07:00 / ~20:00 mitteleuropäische Zeit (Sommer CEST ≈ UTC+2 → 05:00 / 18:00 UTC).
@@ -48,6 +49,7 @@ jobs:
         run: |
           cp dashboard/index.html dashboard/app.js dashboard/styles.css site/
           touch site/.nojekyll
+          if [ -d data/fixtures/demo ]; then mkdir -p site/data/fixtures && cp -r data/fixtures/demo site/data/fixtures/; fi
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4

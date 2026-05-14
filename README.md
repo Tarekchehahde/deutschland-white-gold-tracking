@@ -32,3 +32,5 @@ Siehe [DISCLAIMER.md](DISCLAIMER.md). Das Dashboard ist **keine Anlageberatung**
 Ordner `dashboard/` — auf `gh-pages` als Site-Root deployt; lädt **`meta.json`**, **`articles_recent.json`**, **`metrics_7d.json`** unter `data/fixtures/` (lokal: gleicher Pfad relativ zum Repo).
 
 **GitHub Pages:** Im Branch **`gh-pages`** eine leere Datei **`.nojekyll`** im Root halten, damit die Site **nicht durch Jekyll gebaut** wird und statische JSON unter `data/` zuverlässig ausgeliefert werden.
+
+**Zeitreise (Demo):** Query `?demo=oberrhein-april-2023` oder `?demo=oberrhein-november-2023` lädt fixierte JSON-Snapshots unter `data/fixtures/demo/…` (keine echte RSS-Zeitreihe; nur zur Illustration dichter Medienphasen).

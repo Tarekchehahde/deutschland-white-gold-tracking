@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2.0",
+  "articles_per_day": {
+    "2023-04-17": 2,
+    "2023-04-18": 1,
+    "2023-04-19": 2,
+    "2023-04-20": 2,
+    "2023-04-21": 1,
+    "2023-04-22": 1,
+    "2023-04-23": 1
+  },
+  "tag_counts": {
+    "exploration": 9,
+    "industrie": 5,
+    "umwelt": 2
+  },
+  "by_source_category": {
+    "broadcast": 2,
+    "national": 8
+  }
+}
