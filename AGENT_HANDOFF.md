@@ -20,26 +20,26 @@
 | Dashboard | **Static HTML + JS** (Plotly oder Vega) |
 | Zeitplan | 2× täglich — lokale Zeiten **Berlin 07:00 und 20:00** → in Actions als **UTC-Cron** abbilden (DST beachten) |
 
-## Verzeichnis-Lage (Ziel nach Ausrollen)
+## Verzeichnis-Lage (Ist)
 
 ```
 /
 ├── README.md, DISCLAIMER.md, SOURCES.md, METRICS.md
 ├── FLIGHT_PLAN.md, AGENT_HANDOFF.md
-├── pipeline/           # Python (noch zu füllen)
-├── dashboard/          # index.html, JS, CSS → Root von gh-pages Deploy
-├── data/               # generierte JSON (auf gh-pages neben dashboard oder unter /data)
-└── .github/workflows/  # später
+├── pipeline/           # run.py, archive_merge.py, requirements.txt, README.md
+├── config/             # feeds.yaml, keywords.yaml
+├── dashboard/          # index.html, app.js, styles.css; historie.html → Redirect #archiv
+├── data/fixtures/, data/archive/, data/schema/
+└── .github/workflows/ingest-and-pages.yml
 ```
 
-**Deploy-Detail klären**: Entweder gesamter Repo-Inhalt auf `gh-pages` oder nur `dashboard/` + `data/`; Same-Origin für `fetch('/data/...')` sicherstellen.
+**Deploy:** Workflow baut **`site/`** (Dashboard-Assets + kopiert `data/archive/*`, Fixtures vom Ingest) → **`peaceiris/actions-gh-pages`** → Branch **`gh-pages`**. Same-Origin für `fetch` zur gleichen Pages-URL.
 
 ## Wo weitermachen
 
-1. ~~`FLIGHT_PLAN.md` Phase 0–3 Basis~~ — Pipeline + Pages-Deploy sind live.  
-2. **Phase 4**: Charts (Plotly/Vega), Volumen-/Themenmix in `dashboard/`.  
-3. **Phase 5**: Historie (`historie.html` + Archiv-JSON).  
-4. Feeds/Keywords verfeinern (`config/*.yaml`), ohne Code zu ändern wo möglich.  
+1. Phasen 0–5 siehe **`FLIGHT_PLAN.md`** (Dashboard + Archiv + Tabs sind umgesetzt).  
+2. **Phase 6** / Pflege: Feed-/Keyword-Tuning (`config/*.yaml`), gegebenenfalls **Cron-Verhalten** in den Repo-**Actions**-Settings prüfen wenn `schedule`-Läufe ausbleiben.  
+3. Optional: **`workflow_dispatch`** mit Epochen-Merge für Archiv-Backfill (`pipeline/README.md`).  
 
 ## Bekannte fallweise Verwechslungen
 

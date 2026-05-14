@@ -12,7 +12,7 @@
 | Später | Internationale / EU-Medien erweiterbar |
 | GitHub Pages | Branch **`gh-pages`**, Update durch **GitHub Actions** |
 | Rechtliches | **Disclaimer** + **Quellenliste** sichtbar im Dashboard |
-| Hauptansicht | ~**7 Tage**; Historie **separat** |
+| Hauptansicht | ~**7 Tage** rollierend; Historie **als zweites Panel / Tab** auf derselben Seite (`#archiv`) |
 
 ## Architektur-Kurzform
 
@@ -57,7 +57,7 @@ Same-Origin: Dashboard lädt JSON von derselben Pages-URL (`/data/...`).
 ### Phase 5 — Historie
 
 - [x] Archiv-JSON oder partitionierte Dateien (`data/archive/archive.json`, `summary.json`, `months/YYYY-MM.json`; Merge via `pipeline/archive_merge.py`)  
-- [x] Zweite HTML-Seite `historie.html`  
+- [x] Archiv-Ansicht in **`dashboard/index.html`** (Tabs); `historie.html` nur Redirect nach `#archiv`  
 
 ### Phase 6 — Härten
 

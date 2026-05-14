@@ -27,12 +27,16 @@ Siehe [DISCLAIMER.md](DISCLAIMER.md). Das Dashboard ist **keine Anlageberatung**
 - [SOURCES.md](SOURCES.md) — Feed-Whitelist und EU-Stellen (Pflege)  
 - [METRICS.md](METRICS.md) — Metrik-Definitionen (transparent)
 
-## Lokales Dashboard (Entwurf)
+## Lokales Dashboard
 
-Ordner `dashboard/` — auf `gh-pages` als Site-Root deployt; lädt **`meta.json`**, **`articles_recent.json`**, **`metrics_7d.json`** unter `data/fixtures/` (lokal: gleicher Pfad relativ zum Repo).
+Ordner `dashboard/` — auf `gh-pages` als Site-Root deployt; **`index.html`** lädt **`meta.json`**, **`articles_recent.json`**, **`metrics_7d.json`** unter **`site/data/fixtures/`** (Pfad auf Pages gleicher Origin unter `/data/fixtures/`).
 
-**GitHub Pages:** Im Branch **`gh-pages`** eine leere Datei **`.nojekyll`** im Root halten, damit die Site **nicht durch Jekyll gebaut** wird und statische JSON unter `data/` zuverlässig ausgeliefert werden.
+**GitHub Pages:** Branch **`gh-pages`**, Root enthält **`.nojekyll`** (kein Jekyll), damit `/data/...` JSON zuverlässig ausgeliefert wird.
 
-**Zeitreise (Demo):** Query `?demo=oberrhein-april-2023` oder `?demo=oberrhein-november-2023` lädt fixierte JSON-Snapshots unter `data/fixtures/demo/…` (keine echte RSS-Zeitreihe; nur zur Illustration dichter Medienphasen).
+**Navigation:** Ein SPA-artiges Layout auf **`index.html`**: Registerkarten **Zeitfenster** vs **Archiv-Historie**; im Zeitfenster Unter-Tabs **Live (7 Tage)** und **Zeitreise-Demos**. URLs: **`#zeitfenster`** / **`#archiv`**, optional **`?demo=<slug>`** für Demo-Fixtures (siehe `data/fixtures/demo/`).
 
-**Historie:** Zweite Seite `dashboard/historie.html` — liest `data/archive/summary.json` (kumuliert über Ingest-Läufe). Archiv-Pflege erfolgt im Workflow automatisch; siehe `METRICS.md`.
+**Zeitreise (Demo):** Statische Snapshots unter `data/fixtures/demo/<slug>/` — keine echte RSS-Zeitreihe.
+
+**Historie / Archiv:** Panel auf derselben Seite; Daten aus **`data/archive/summary.json`**. **`historie.html`** leitet nur noch nach **`index.html#archiv`** weiter (Bookmarks). Archiv-Pflege im Workflow — siehe `METRICS.md` und **`pipeline/README.md`** (`archive_merge.py`, optional `workflow_dispatch` Epochen-Ingest).
+
+**CI:** `.github/workflows/ingest-and-pages.yml` — Cron **05:15 / 18:15 UTC** (sommers grob Berlin-Morgen/Abend, DST nicht automatisch korrigiert); **`workflow_dispatch`** inkl. optionalem Epochen-Schritt.

@@ -6,8 +6,9 @@ Alle Zahlen im Dashboard beziehen sich auf die **aktuell ingesteten Artikel** un
 
 | Ansicht | Daten |
 |---------|--------|
-| Haupt-Dashboard | Rollierend **letzte 7 Tage** (konfigurierbar, Datum nach Erscheinen/Fetch) |
-| Historie | Separates Dashboard / zusätzliche JSON-Archive |
+| Zeitfenster (Live) | Rollierend **letzte 7 Tage** (`pipeline/run.py`, konfigurierbar; Datum nach Erscheinen/Fetch) |
+| Zeitfenster (Demo) | Fixierte Snapshots unter `data/fixtures/demo/<slug>/` (Registerkarten + `?demo=` auf **`index.html`**) |
+| Archiv-Historie | Gleiche **`index.html`**, Panel „Archiv“ (`#archiv`); **`data/archive/summary.json`** + Monats-JSON unter `data/archive/months/` |
 
 ## Geplante Basismetriken (v1)
 
@@ -41,7 +42,7 @@ JSON Schemas: `data/schema/meta.schema.json`, `articles_recent.schema.json`, `me
 | Datei | Inhalt |
 |-------|--------|
 | `data/archive/archive.json` | Alle archivierten Artikel (Dedupe nach URL, Obergrenze aktuell 3500) |
-| `data/archive/summary.json` | Kennzahlen, `articles_per_month`, `recent_for_ui` für `historie.html` |
+| `data/archive/summary.json` | Kennzahlen, `articles_per_month`, `recent_for_ui` für das Archiv-Panel in **`index.html`** |
 | `data/archive/months/YYYY-MM.json` | Partition je Kalendermonat (Erscheinungsdatum UTC) |
 
 Nach jedem erfolgreichen Ingest aktualisiert der Workflow das Archiv und committed Änderungen nach `main` mit `[skip ci]`. Die gleichen Dateien werden nach `site/data/archive/` kopiert und auf **GitHub Pages** ausgeliefert.
