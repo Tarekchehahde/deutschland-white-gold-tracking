@@ -20,7 +20,6 @@ match_substrings:
   - feststoffbatterie
   - elektromobilität
   - elektroauto
-  - e-auto
   - geotherm
   - thermalwasser
   - tiefenwasser
@@ -33,11 +32,15 @@ match_substrings:
   - neptune energy
   - CRM-act
   - critical raw materials
-  - wismut
-  - bergbau
   - batteriezelle
   - akkuzelle
   - direktextraktion
+  - lithium-ionen
+  - batteriefabrik
+  - akkufabrik
+  - gigafactory
+  - kathodenmaterial
+  - nickelsulfat
 
 # Zusätzliche Muster (Python re.IGNORECASE). Für Kontext „Lithium/Batterie/Speicher“ ohne False Positives wie „Stellenabbau“.
 match_regex:
@@ -48,7 +51,12 @@ match_regex:
   - '(?i)rohstoff(e)?(strategie|sicherung|abkommen)'
   - '(?i)(oberrheingraben|oberrhein).{0,80}(lithium|geotherm|brine|thermalwasser)'
   - '(?i)(altmark|salzwedel).{0,80}(lithium|gasfeld|erdgas|brine|thermal|neptune|extraktion)'
-  - '(?i)(erzgebirge|zinnwald).{0,80}(lithium|bergbau|zinn|wismut|abbau|exploration)'
+  - '(?i)(erzgebirge|zinnwald).{0,80}(lithium|zinnwald|\bzinn\b|exploration|aufsuchung)'
+  - '(?i)bergbau.{0,60}(lithium|kobalt|nickel|rohstoff|akk|batterie|zinnwald)'
+  - '(?i)(lithium|kobalt|nickel).{0,60}bergbau'
+  - '(?i)wismut.{0,90}(lithium|zinnwald|akk|batterie|rohstoff)'
+  - '(?i)batterie.{0,45}(fabrik|werk|produktion|zelle)'
+  - '(?i)(akkuzellen?|hochvoltbatterie).{0,35}(werk|fabrik|standort)'
 
 tag_rules:
   politik:

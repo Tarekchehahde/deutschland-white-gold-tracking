@@ -38,3 +38,26 @@ feeds:
   - id: rnd-wirtschaft
     url: https://www.rnd.de/arc/outboundfeeds/rss/category/wirtschaft/
     category: national
+
+  # Zusätzliche Breite (öffentliche RSS; Keyword-Filter bleibt eng)
+  - id: tagesschau-wirtschaft-technologie
+    url: https://www.tagesschau.de/wirtschaft/technologie/index~rss2.xml
+    category: national
+  - id: spiegel-schlagzeilen
+    url: https://www.spiegel.de/schlagzeilen/index.rss
+    category: national
+  - id: sueddeutsche-wirtschaft
+    url: https://rss.sueddeutsche.de/rss/Wirtschaft
+    category: national
+  - id: faz-aktuell
+    url: https://www.faz.net/rss/aktuell/
+    category: national
+  - id: zdf-nachrichten
+    url: https://www.zdf.de/rss/zdf/nachrichten
+    category: broadcast
+  - id: deutschlandfunk-wissen
+    url: https://www.deutschlandfunk.de/wissen-106.rss
+    category: broadcast
+  - id: heise-news
+    url: https://www.heise.de/rss/heise-atom.xml
+    category: national
