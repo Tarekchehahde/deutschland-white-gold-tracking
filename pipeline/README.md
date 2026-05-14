@@ -16,6 +16,21 @@ Konfiguration:
 
 Ausgabe (Schema `0.2.0`): `meta.json`, `articles_recent.json`, `metrics_7d.json`
 
+### Epochen-Ingest (`--since-date`)
+
+Für einen **unteren Zeitpunkt** statt rollierendem Fenster (z. B. Backfill ab 2025):
+
+```bash
+python pipeline/run.py \
+  --output-dir tmp_epoch_out \
+  --since-date 2025-01-01 \
+  --max-entries-per-feed 400
+```
+
+**RSS-Grenze:** Feeds enthalten nur die letzten N Einträge; `--since-date` filtert nach unten, kann aber keine älteren Artikel wiederherstellen, die nicht mehr im Feed stehen. Einträge ohne parsierbares Datum werden im Epochen-Modus verworfen.
+
+CI: Workflow **Ingest RSS and publish Pages** → `workflow_dispatch` mit Option „Epoch ingest into archive“ (gleiche Parameter wie oben, dann `archive_merge.py`).
+
 ## Archiv-Merge (Historie, Schema `0.3.0`)
 
 Nach einem Ingest die Fenster-Artikel ins persistente Archiv mergen (Dedupe nach URL, Deckel 3500, Monats-Partitionen):

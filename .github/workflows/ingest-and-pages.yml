@@ -2,6 +2,19 @@ name: Ingest RSS and publish Pages
 
 on:
   workflow_dispatch:
+    inputs:
+      run_epoch_merge:
+        description: "Vor regulärem Ingest Epochen-Zug ab epoch_since ins Archiv mergen (RSS nur letzte N Items/Feed)."
+        type: boolean
+        default: false
+      epoch_since:
+        description: "Untere Datumsgrenze YYYY-MM-DD (UTC) für Epochen-Schritt"
+        type: string
+        default: "2025-01-01"
+      max_entries_per_feed:
+        description: "Max. RSS-Einträge pro Feed im Epochen-Schritt"
+        type: string
+        default: "400"
   push:
     branches: [main]
     paths:
@@ -39,6 +52,20 @@ jobs:
 
       - name: Install pipeline dependencies
         run: pip install -r pipeline/requirements.txt
+
+      - name: Epoch ingest into archive (manual)
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.run_epoch_merge == 'true' }}
+        env:
+          GITHUB_SHA: ${{ github.sha }}
+        run: |
+          mkdir -p tmp_epoch_out
+          python pipeline/run.py \
+            --output-dir tmp_epoch_out \
+            --since-date "${{ github.event.inputs.epoch_since }}" \
+            --max-entries-per-feed "${{ github.event.inputs.max_entries_per_feed }}"
+          python pipeline/archive_merge.py \
+            --recent-json tmp_epoch_out/articles_recent.json \
+            --archive-dir data/archive
 
       - name: Run ingest
         env:

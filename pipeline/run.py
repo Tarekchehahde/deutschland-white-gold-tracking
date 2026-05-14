@@ -25,7 +25,19 @@ UA = (
     "deutschland-white-gold-tracking)"
 )
 SCHEMA_VERSION = "0.2.0"
-MAX_ENTRIES_PER_FEED = 80
+MAX_ENTRIES_DEFAULT = 80
+
+
+def parse_since_date(raw: str) -> datetime | None:
+    """Untere Datumsgrenze für Epochen-Ingest (UTC, Tagesbeginn)."""
+    s = (raw or "").strip()
+    if not s:
+        return None
+    try:
+        return datetime.strptime(s, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except ValueError:
+        print(f"Ungültiges --since-date {raw!r}, erwarte YYYY-MM-DD", file=sys.stderr)
+        return None
 
 
 def _repo_root() -> Path:
@@ -168,6 +180,19 @@ def main() -> int:
         help="Directory for meta.json, articles_recent.json, metrics_7d.json",
     )
     parser.add_argument("--window-days", type=int, default=7)
+    parser.add_argument(
+        "--since-date",
+        default="",
+        help="Untere Grenze YYYY-MM-DD (UTC). Wenn gesetzt, wird das Zeitfenster nicht über "
+        "--window-days begrenzt (Epochen-/Archiv-Ingest). RSS liefert jedoch nur die letzten N Einträge pro Feed.",
+    )
+    parser.add_argument(
+        "--max-entries-per-feed",
+        type=int,
+        default=MAX_ENTRIES_DEFAULT,
+        metavar="N",
+        help=f"Max. Einträge pro Feed (Standard {MAX_ENTRIES_DEFAULT}). Für Epochen-Läufe oft 300–400.",
+    )
     args = parser.parse_args()
 
     root = _repo_root()
@@ -177,7 +202,17 @@ def main() -> int:
     region_hints = kw_cfg.get("region_hints") or []
 
     now = datetime.now(timezone.utc)
-    cutoff = now - timedelta(days=args.window_days)
+    since_raw = (args.since_date or "").strip()
+    since_dt = parse_since_date(since_raw) if since_raw else None
+    if since_raw and since_dt is None:
+        return 2
+
+    if since_dt is not None:
+        earliest = since_dt
+    else:
+        earliest = now - timedelta(days=args.window_days)
+
+    max_entries = max(1, int(args.max_entries_per_feed))
 
     raw_items: list[dict[str, Any]] = []
     errors: list[str] = []
@@ -186,11 +221,13 @@ def main() -> int:
         fid = feed.get("id", "unknown")
         url = feed.get("url")
         cat = feed.get("category", "unknown")
+        lang = feed.get("language") if isinstance(feed.get("language"), str) else ""
+        lang = (lang.strip()[:8] or "de").lower()
         if not url:
             continue
         try:
             parsed = fetch_feed(url)
-            entries = (parsed.entries or [])[:MAX_ENTRIES_PER_FEED]
+            entries = (parsed.entries or [])[:max_entries]
             for e in entries:
                 link = entry_link(e)
                 if not link:
@@ -198,9 +235,13 @@ def main() -> int:
                 title = (e.get("title") or "").strip() or "(ohne Titel)"
                 published = parse_dt(e)
                 if published is None:
+                    if since_dt is not None:
+                        continue
                     published = now
-                if published < cutoff:
+                if published < earliest:
                     continue
+                if published > now:
+                    published = now
                 blob = entry_summary(e, title)
                 if not matches_focus(blob, kw_cfg, regex_list):
                     continue
@@ -211,6 +252,7 @@ def main() -> int:
                         "published_at": published,
                         "source_id": fid,
                         "feed_category": cat,
+                        "language": lang,
                         "summary_text": blob[:500],
                         "tags": classify_tags(blob, kw_cfg),
                         "regions": classify_regions(blob, region_hints),
@@ -235,7 +277,7 @@ def main() -> int:
                 "url": url,
                 "published_at": it["published_at"].strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "source_id": it["source_id"],
-                "language": "de",
+                "language": it.get("language") or "de",
                 "summary": it["summary_text"][:400],
                 "tags": it["tags"],
                 "regions": it["regions"],
@@ -269,7 +311,11 @@ def main() -> int:
         "sources_revision": sources_revision,
         "feeds_ok": len(feeds_cfg.get("feeds") or []),
         "feeds_errors": len(errors),
+        "max_entries_per_feed": max_entries,
     }
+    if since_dt is not None:
+        meta["epoch_since_utc"] = since_dt.strftime("%Y-%m-%dT00:00:00Z")
+        meta["epoch_mode"] = True
 
     out = args.output_dir
     out.mkdir(parents=True, exist_ok=True)

@@ -81,3 +81,18 @@ feeds:
   - id: pfalz-express
     url: https://www.pfalz-express.de/feed/
     category: regional
+
+  # Tech / Energie-Fachmedien (Breitenfeed; Keyword-Profil filtert auf Lithium/Thema)
+  - id: golem-rss
+    url: https://rss.golem.de/rss.php?feed=RSS2.0
+    category: national
+  - id: t3n-news
+    url: https://t3n.de/news/feed/
+    category: national
+  - id: arstechnica-all
+    url: https://feeds.arstechnica.com/arstechnica/index
+    category: national
+    language: en
+  - id: pv-magazine-de
+    url: https://www.pv-magazine.de/feed/
+    category: national
