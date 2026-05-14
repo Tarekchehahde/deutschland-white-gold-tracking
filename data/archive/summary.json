@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.3.0",
+  "generated_at_utc": "2026-05-14T13:20:45Z",
+  "archive_article_cap": 3500,
+  "total_in_archive": 1,
+  "articles_per_month": {
+    "2026-05": 1
+  },
+  "recent_for_ui": [
+    {
+      "id": "094b8af32d2dedd15bbbf223",
+      "title": "Batterieproduktion in Grünheide: Tesla setzt auf lokale Wertschöpfung",
+      "url": "https://www.heise.de/news/Tesla-inverstiert-in-Gruenheide-Batterienfertigtung-wird-massiv-ausgebaut-11292496.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-13T04:57:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Batterieproduktion in Grünheide: Tesla setzt auf lokale Wertschöpfung Tesla-Chef Elon Musk will von der Batteriezelle bis zum E-Auto alles an einem Standort haben. In Grünheide soll das umgesetzt werden.",
+      "tags": [],
+      "regions": []
+    }
+  ]
+}
