@@ -40,6 +40,11 @@ function fixturesBaseHref() {
   return base;
 }
 
+/** Statisches Demo-Metrik-File für Live-Vergleich (nicht vom gleichen Request wie Live-Daten). */
+function altmarkDemoCompareMetricsUrl() {
+  return new URL("data/fixtures/demo/altmark-sep-dec-2025/metrics_7d.json", siteBaseDirHref()).href;
+}
+
 function escapeHtml(s) {
   return String(s)
     .replace(/&/g, "&amp;")
@@ -275,6 +280,80 @@ function renderCharts(metrics) {
   }
 }
 
+/** Nur bei Live-Daten: gruppierte Balken Tag-Schwerpunkte vs. Altmark-Demo Sep–Dez 2025. */
+function renderCompareTagsLiveVsDemo(liveMetrics, demoMetrics, demoSlug) {
+  const wrap = document.getElementById("chart-compare-tags");
+  const cap = document.getElementById("chart-compare-caption");
+  if (!wrap || !cap) return;
+
+  const hide = () => {
+    cap.hidden = true;
+    cap.textContent = "";
+    wrap.hidden = true;
+    purgeOrClear(wrap);
+  };
+
+  if (demoSlug || !demoMetrics || typeof Plotly === "undefined") {
+    hide();
+    return;
+  }
+
+  const L = liveMetrics.tag_counts || {};
+  const D = demoMetrics.tag_counts || {};
+  const keys = new Set([...Object.keys(L), ...Object.keys(D)]);
+  if (keys.size === 0) {
+    hide();
+    return;
+  }
+
+  const sorted = [...keys].sort(
+    (a, b) => Math.max(L[b] || 0, D[b] || 0) - Math.max(L[a] || 0, D[a] || 0),
+  );
+  const liveVals = sorted.map((k) => L[k] || 0);
+  const demoVals = sorted.map((k) => D[k] || 0);
+
+  cap.hidden = false;
+  wrap.hidden = false;
+  cap.textContent =
+    "Vergleich Themen-Tags: Live (rollierende 7 Tage, RSS wie in feeds.yaml + Keyword-Filter) neben der Demo-Epoche „altmark-sep-dec-2025“ (kuratierte Schnappschüsse). Keine gemeinsame Zeitachse — nur Verteilungs-/Schwerpunktvergleich.";
+  purgeOrClear(wrap);
+
+  Plotly.newPlot(
+    wrap,
+    [
+      {
+        type: "bar",
+        name: "Live (7 Tage)",
+        orientation: "h",
+        y: sorted,
+        x: liveVals,
+        marker: { color: "#0284c7" },
+        hovertemplate: "%{y}: %{x}<extra></extra>",
+      },
+      {
+        type: "bar",
+        name: "Demo Altmark Sep–Dez 2025",
+        orientation: "h",
+        y: sorted,
+        x: demoVals,
+        marker: { color: "#c084fc" },
+        hovertemplate: "%{y}: %{x}<extra></extra>",
+      },
+    ],
+    {
+      ...plotlyBaseLayout,
+      title: { text: "Themen-Tags: Live vs. Demo-Epoche Altmark 2025", font: { size: 15 } },
+      barmode: "group",
+      showlegend: true,
+      legend: { orientation: "h", yanchor: "top", y: -0.12, x: 0 },
+      xaxis: { title: "Anzahl Treffer", rangemode: "tozero", dtick: 1 },
+      yaxis: { automargin: true },
+      margin: { ...plotlyBaseLayout.margin, l: 110, b: 72 },
+    },
+    plotlyConfig,
+  );
+}
+
 async function main() {
   fillZeitreiseExamples();
   const metaLine = document.getElementById("meta-line");
@@ -297,6 +376,18 @@ async function main() {
     metricsLine.textContent = fmtMetricsSnippet(metrics, ac);
 
     renderCharts(metrics);
+
+    const slug = readDemoSlug();
+    let demoCmp = null;
+    if (!slug) {
+      try {
+        const r = await fetch(altmarkDemoCompareMetricsUrl(), { cache: "no-store" });
+        if (r.ok) demoCmp = await r.json();
+      } catch (_) {
+        demoCmp = null;
+      }
+    }
+    renderCompareTagsLiveVsDemo(metrics, demoCmp, slug);
 
     list.innerHTML = "";
     for (const a of articlesRecent.articles || []) {
@@ -321,11 +412,16 @@ async function main() {
     applySparseHint(999, {});
     metricsLine.textContent = "";
     list.innerHTML = "";
-    ["chart-volume", "chart-sources", "chart-tags"].forEach((id) => {
+    ["chart-volume", "chart-sources", "chart-tags", "chart-compare-tags"].forEach((id) => {
       const el = document.getElementById(id);
       purgeOrClear(el);
       if (el) el.innerHTML = "";
     });
+    const cc = document.getElementById("chart-compare-caption");
+    if (cc) {
+      cc.hidden = true;
+      cc.textContent = "";
+    }
   }
 }
 
