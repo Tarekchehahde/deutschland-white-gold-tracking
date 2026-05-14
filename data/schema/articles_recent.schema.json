@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/deutschland-white-gold/articles_recent.schema.json",
+  "title": "articles_recent",
+  "type": "object",
+  "required": ["schema_version", "articles"],
+  "properties": {
+    "schema_version": { "type": "string", "const": "0.2.0" },
+    "articles": {
+      "type": "array",
+      "items": { "$ref": "article.schema.json" }
+    }
+  },
+  "additionalProperties": false
+}

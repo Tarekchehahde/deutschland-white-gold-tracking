@@ -29,4 +29,4 @@ Siehe [DISCLAIMER.md](DISCLAIMER.md). Das Dashboard ist **keine Anlageberatung**
 
 ## Lokales Dashboard (Entwurf)
 
-Ordner `dashboard/` — später auf `gh-pages` deploybar; lädt JSON aus gleicher Origin (`data/`).
+Ordner `dashboard/` — auf `gh-pages` als Site-Root deployt; lädt **`meta.json`**, **`articles_recent.json`**, **`metrics_7d.json`** unter `data/fixtures/` (lokal: gleicher Pfad relativ zum Repo).

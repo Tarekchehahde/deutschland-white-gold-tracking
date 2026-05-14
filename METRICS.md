@@ -21,4 +21,12 @@ Alle Zahlen im Dashboard beziehen sich auf die **aktuell ingesteten Artikel** un
 - **Dedupe**: gleiche canonical URL oder stabiler Hash aus Titel+Datum.  
 - **Transparenz**: Jede Metrik verlinkt auf Rohliste der zugrunde liegenden Artikel-IDs in JSON.
 
-*(Schema-Versionierung in `data/schema/` ergänzen.)*
+## Artefakte (Dashboard, Schema 0.2.0)
+
+| Datei | Inhalt |
+|-------|--------|
+| `data/fixtures/meta.json` (Prod: z. B. gleicher Pfad ohne `fixtures`) | Fenster, Zeitstempel, `sources_revision` |
+| `data/fixtures/articles_recent.json` | Liste der Artikel im Fenster |
+| `data/fixtures/metrics_7d.json` | Aggregierte Kennzahlen (`articles_per_day`, `tag_counts`, …) |
+
+JSON Schemas: `data/schema/meta.schema.json`, `articles_recent.schema.json`, `metrics_7d.schema.json`, `article.schema.json`.

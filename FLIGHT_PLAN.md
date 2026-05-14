@@ -27,17 +27,17 @@ Same-Origin: Dashboard lädt JSON von derselben Pages-URL (`/data/...`).
 
 ## Phasen
 
-### Phase 0 — Foundation (aktuell)
+### Phase 0 — Foundation
 
 - [x] README, Disclaimer, SOURCES-, METRICS-, FLIGHT_PLAN, AGENT_HANDOFF  
 - [x] JSON-Schema-Stubs  
 - [x] Dashboard-Stub (DE), Hinweis Disclaimer  
-- [ ] Eigenes GitHub-Repo anlegen und diesen Ordner als Root pushen  
+- [x] Eigenes GitHub-Repo anlegen und diesen Ordner als Root pushen  
 
 ### Phase 1 — Data Contract
 
-- [ ] `articles_recent.json`, `metrics_7d.json`, `meta.json` finalisieren  
-- [ ] Beispiel-JSON mit Fixture-Daten  
+- [x] `articles_recent.json`, `metrics_7d.json`, `meta.json` finalisieren (Schema **0.2.0**, getrennte Dateien)  
+- [x] Beispiel-JSON mit Fixture-Daten unter `data/fixtures/`  
 
 ### Phase 2 — Pipeline v0
 
@@ -66,5 +66,5 @@ Same-Origin: Dashboard lädt JSON von derselben Pages-URL (`/data/...`).
 
 ## Offene Punkte (vor Infrastructure)
 
-- Konkrete RSS-URLs für v1-Whitelist eintragen (`SOURCES.md`).  
+- ~~Konkrete RSS-URLs für v1-Whitelist eintragen (`SOURCES.md`).~~ (breite Liste liegt vor; Pipeline kuratiert später.)  
 - Keyword-Listen für DE (und EU-Behörden-Terminologie) abstimmen.  
