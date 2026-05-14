@@ -203,7 +203,7 @@ function renderCharts(metrics) {
           mode: "lines+markers",
           x: dates,
           y: counts,
-          line: { color: "#0284c7", width: 3, shape: "linear" },
+          line: { color: "#0284c7", width: 3, shape: "spline", smoothing: 1.2 },
           marker: { color: "#0ea5e9", size: 10, line: { color: "#ffffff", width: 2 } },
           hovertemplate: "%{x}<br>Anzahl: %{y}<extra></extra>",
           connectgaps: false,
