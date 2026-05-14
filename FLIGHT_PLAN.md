@@ -51,8 +51,8 @@ Same-Origin: Dashboard lädt JSON von derselben Pages-URL (`/data/...`).
 
 ### Phase 4 — Dashboard v1
 
-- [ ] Charts: Volumen, Themenmix, Tabelle  
-- [ ] „Zuletzt aktualisiert“, Links zu Originalartikeln  
+- [x] Charts: Volumen pro Tag (Plotly), Quellenmix nach Kategorie, Themen-Tags (bei Daten)
+- [x] Zeitstempel in Status (`Stand UTC` aus `meta.json`); Artikelliste mit Links zur Quelle
 
 ### Phase 5 — Historie
 

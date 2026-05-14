@@ -12,7 +12,7 @@ Dieser Ordner ist als **Wurzel eines eigenen öffentlichen GitHub-Repositories**
 |------------|---------|
 | Pipeline | Python (zeitgesteuert GitHub Actions, später 2× täglich) |
 | Daten | Versionierte JSON-Artefakte |
-| Dashboard | Statisches HTML + JS (z. B. Plotly/Vega), UI **Deutsch (v1)** |
+| Dashboard | Statisches HTML + JS (**Plotly.js** CDN für Diagramme), UI **Deutsch (v1)** |
 | Hosting | Branch **`gh-pages`**, Aktualisierung durch **GitHub Actions** (RSS-Ingest → Deploy) |
 | Kosten | 0 € (öffentliches Repo + GitHub Pages + Actions) |
 
