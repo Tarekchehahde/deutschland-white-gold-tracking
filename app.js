@@ -15,15 +15,18 @@ function siteBaseDirHref() {
 }
 
 /** Optional ?demo=slug loads frozen JSON from data/fixtures/demo/<slug>/ (Zeitreise). */
-function readDemoSlug() {
-  const raw = new URLSearchParams(window.location.search).get("demo");
-  if (!raw) return null;
-  const s = raw.trim();
+function normalizeDemoSlug(raw) {
+  if (raw == null || raw === "") return null;
+  const s = String(raw).trim();
   if (!/^[a-z0-9][a-z0-9-]{0,62}$/i.test(s)) return null;
   return s;
 }
 
-function fixturesBaseHref() {
+function readDemoSlug() {
+  return normalizeDemoSlug(new URLSearchParams(window.location.search).get("demo"));
+}
+
+function fixturesBaseHrefFromSlug(slug) {
   let base;
   if (typeof window.__DWG_DATA_FIXTURES__ === "string" && window.__DWG_DATA_FIXTURES__.trim()) {
     const segment = window.__DWG_DATA_FIXTURES__.trim().replace(/\/?$/, "/");
@@ -33,7 +36,7 @@ function fixturesBaseHref() {
   } else {
     base = new URL("data/fixtures/", siteBaseDirHref()).href;
   }
-  const demo = readDemoSlug();
+  const demo = normalizeDemoSlug(slug);
   if (demo) {
     return new URL(`demo/${demo}/`, base).href;
   }
@@ -78,6 +81,7 @@ function fillZeitreiseExamples() {
     ];
     for (const [slug, label] of demos) {
       const u = new URL(window.location.href);
+      u.hash = "zeitfenster";
       u.searchParams.set("demo", slug);
       const p = document.createElement("p");
       p.style.margin = "0.25rem 0 0";
@@ -91,7 +95,7 @@ function fillZeitreiseExamples() {
     note.className = "muted";
     note.style.marginTop = "0.65rem";
     note.textContent =
-      "Erwartung: gelber Demo-Kasten unter der Überschrift und deutlich mehr Einträge unter „Letzte Artikel“ als bei Live-Daten.";
+      "Erwartung: gelber Demo-Kasten unter der Überschrift und deutlich mehr Einträge unter „Letzte Artikel“ als bei Live-Daten — Umschalten über Registerkarten oben.";
     el.appendChild(note);
   } catch (_) {
     el.textContent =
@@ -99,8 +103,8 @@ function fillZeitreiseExamples() {
   }
 }
 
-async function loadJson(filename) {
-  const url = new URL(filename, fixturesBaseHref());
+async function loadJson(filename, fixturesBase) {
+  const url = new URL(filename, fixturesBase);
   const res = await fetch(url.href, { cache: "no-store" });
   if (!res.ok) throw new Error(`${filename}: HTTP ${res.status}`);
   return res.json();
@@ -136,7 +140,7 @@ function applyDemoBanner(meta) {
     const note = meta.demo_note ? `${escapeHtml(meta.demo_note)} ` : "";
     el.innerHTML =
       `<p class="demo-banner__title"><strong>Zeitreise (Demo)</strong> — ${escapeHtml(meta.demo_period_label)}</p>` +
-      `<p class="demo-banner__note muted">${note}<a href="./">Zurück zu Live-Daten</a></p>`;
+      `<p class="demo-banner__note muted">${note}<button type="button" class="demo-banner__to-live">Zu Live-Daten wechseln</button></p>`;
   } else {
     el.hidden = true;
     el.innerHTML = "";
@@ -354,17 +358,177 @@ function renderCompareTagsLiveVsDemo(liveMetrics, demoMetrics, demoSlug) {
   );
 }
 
-async function main() {
-  fillZeitreiseExamples();
+function archiveBaseHref() {
+  return new URL("data/archive/", siteBaseDirHref()).href;
+}
+
+async function loadSummary() {
+  const url = new URL("summary.json", archiveBaseHref());
+  const res = await fetch(url.href, { cache: "no-store" });
+  if (!res.ok) throw new Error(`summary.json: HTTP ${res.status}`);
+  return res.json();
+}
+
+function renderArchiveMonthChart(containerEl, articlesPerMonth) {
+  if (!containerEl || typeof Plotly === "undefined") {
+    if (containerEl) containerEl.innerHTML = '<p class="muted">Diagrammbibliothek nicht geladen.</p>';
+    return;
+  }
+  const months = Object.keys(articlesPerMonth || {}).sort();
+  const counts = months.map((m) => articlesPerMonth[m]);
+
+  if (months.length === 0) {
+    containerEl.innerHTML =
+      '<p class="muted">Noch keine Archiv-Treffer — nach den ersten Ingest-Läufen füllt sich die Historie.</p>';
+    return;
+  }
+
+  Plotly.newPlot(
+    containerEl,
+    [
+      {
+        type: "scatter",
+        mode: "lines+markers",
+        x: months,
+        y: counts,
+        line: { color: "#0284c7", width: 3, shape: "spline", smoothing: 1.2 },
+        marker: { color: "#0ea5e9", size: 10, line: { color: "#ffffff", width: 2 } },
+        hovertemplate: "%{x}<br>Artikel: %{y}<extra></extra>",
+      },
+    ],
+    {
+      ...plotlyBaseLayout,
+      title: { text: "Archiv: Treffer pro Monat (Erscheinungsdatum UTC)", font: { size: 15 } },
+      xaxis: { title: "Monat", tickangle: months.length > 8 ? -45 : 0 },
+      yaxis: { title: "Artikel", rangemode: "tozero", dtick: 1 },
+    },
+    plotlyConfig,
+  );
+}
+
+async function loadAndRenderArchiv() {
+  const metaEl = document.getElementById("historie-meta");
+  const listEl = document.getElementById("historie-article-list");
+  const chartEl = document.getElementById("chart-archive-months");
+  if (!metaEl || !listEl || !chartEl) return;
+
+  try {
+    const summary = await loadSummary();
+    const gen = summary.generated_at_utc || "?";
+    const total = summary.total_in_archive ?? "?";
+    const cap = summary.archive_article_cap ?? "?";
+    metaEl.textContent = `Stand Archiv (UTC): ${gen} — Einträge gesamt: ${total} (Obergrenze ${cap}) — Schema ${summary.schema_version || "?"}`;
+
+    renderArchiveMonthChart(chartEl, summary.articles_per_month);
+
+    listEl.innerHTML = "";
+    const recent = summary.recent_for_ui || [];
+    if (recent.length === 0) {
+      const li = document.createElement("li");
+      li.className = "muted";
+      li.textContent = "Noch keine Artikel im Archiv.";
+      listEl.appendChild(li);
+      return;
+    }
+    for (const a of recent) {
+      const li = document.createElement("li");
+      const link = document.createElement("a");
+      link.href = a.url;
+      link.textContent = a.title;
+      link.rel = "noopener noreferrer";
+      link.target = "_blank";
+      li.appendChild(link);
+      const sub = document.createElement("span");
+      sub.className = "muted";
+      sub.textContent = ` — ${a.source_id}, ${a.published_at}`;
+      li.appendChild(sub);
+      listEl.appendChild(li);
+    }
+  } catch (e) {
+    metaEl.textContent = `Archiv konnte nicht geladen werden (${e.message}).`;
+    listEl.innerHTML = "";
+    purgeOrClear(chartEl);
+    if (chartEl) chartEl.innerHTML = "";
+  }
+}
+
+function resizePlotlyByIds(ids) {
+  if (typeof Plotly === "undefined") return;
+  requestAnimationFrame(() => {
+    ids.forEach((id) => {
+      const el = document.getElementById(id);
+      if (!el) return;
+      try {
+        Plotly.Plots.resize(el);
+      } catch (_) {
+        /* Graph evtl. noch nicht gerendert */
+      }
+    });
+  });
+}
+
+function readPrimaryFromLocation() {
+  const h = (window.location.hash || "").replace(/^#/, "").toLowerCase();
+  if (h === "archiv" || h === "historie") return "archiv";
+  return "zeitfenster";
+}
+
+function syncUrlState(primary, demoSlug) {
+  const url = new URL(window.location.href);
+  if (primary === "archiv") {
+    url.hash = "archiv";
+    url.searchParams.delete("demo");
+  } else {
+    url.hash = "zeitfenster";
+    const d = normalizeDemoSlug(demoSlug);
+    if (d) url.searchParams.set("demo", d);
+    else url.searchParams.delete("demo");
+  }
+  history.replaceState(null, "", url);
+}
+
+function applyPrimaryTabUI(primary) {
+  const zeitBtn = document.getElementById("tab-primary-zeit");
+  const archBtn = document.getElementById("tab-primary-archiv");
+  const panelZ = document.getElementById("panel-zeitfenster");
+  const panelA = document.getElementById("panel-archiv");
+  const subBar = document.getElementById("tab-bar-sub");
+  const subLbl = document.getElementById("tab-bar-sub-label");
+  if (!zeitBtn || !archBtn || !panelZ || !panelA) return;
+
+  const isArch = primary === "archiv";
+  zeitBtn.setAttribute("aria-selected", String(!isArch));
+  archBtn.setAttribute("aria-selected", String(isArch));
+  panelZ.hidden = isArch;
+  panelA.hidden = !isArch;
+  if (subBar) subBar.hidden = isArch;
+  if (subLbl) subLbl.hidden = isArch;
+}
+
+function applySubtabUI(slug) {
+  const norm = normalizeDemoSlug(slug);
+  document.querySelectorAll("#tab-bar-sub .tab-bar__btn").forEach((btn) => {
+    const raw = btn.getAttribute("data-demo");
+    const btnSlug = raw === "" || raw == null ? null : normalizeDemoSlug(raw);
+    btn.setAttribute("aria-selected", String(norm === btnSlug));
+  });
+}
+
+let zeitfensterDemoSlug = null;
+
+async function loadAndRenderZeitfenster(demoSlug) {
+  zeitfensterDemoSlug = normalizeDemoSlug(demoSlug);
+  const fixturesBase = fixturesBaseHrefFromSlug(zeitfensterDemoSlug);
   const metaLine = document.getElementById("meta-line");
   const metricsLine = document.getElementById("metrics-line");
   const list = document.getElementById("article-list");
+  if (!metaLine || !metricsLine || !list) return;
 
   try {
     const [meta, articlesRecent, metrics] = await Promise.all([
-      loadJson("meta.json"),
-      loadJson("articles_recent.json"),
-      loadJson("metrics_7d.json"),
+      loadJson("meta.json", fixturesBase),
+      loadJson("articles_recent.json", fixturesBase),
+      loadJson("metrics_7d.json", fixturesBase),
     ]);
 
     const ac = (articlesRecent.articles || []).length;
@@ -377,9 +541,8 @@ async function main() {
 
     renderCharts(metrics);
 
-    const slug = readDemoSlug();
     let demoCmp = null;
-    if (!slug) {
+    if (!zeitfensterDemoSlug) {
       try {
         const r = await fetch(altmarkDemoCompareMetricsUrl(), { cache: "no-store" });
         if (r.ok) demoCmp = await r.json();
@@ -387,7 +550,7 @@ async function main() {
         demoCmp = null;
       }
     }
-    renderCompareTagsLiveVsDemo(metrics, demoCmp, slug);
+    renderCompareTagsLiveVsDemo(metrics, demoCmp, zeitfensterDemoSlug);
 
     list.innerHTML = "";
     for (const a of articlesRecent.articles || []) {
@@ -425,4 +588,90 @@ async function main() {
   }
 }
 
-main();
+function wireTabs() {
+  const zeitBtn = document.getElementById("tab-primary-zeit");
+  const archBtn = document.getElementById("tab-primary-archiv");
+  const banner = document.getElementById("demo-banner");
+
+  zeitBtn?.addEventListener("click", async () => {
+    syncUrlState("zeitfenster", zeitfensterDemoSlug);
+    applyPrimaryTabUI("zeitfenster");
+    applySubtabUI(zeitfensterDemoSlug);
+    await loadAndRenderZeitfenster(zeitfensterDemoSlug);
+    resizePlotlyByIds(["chart-volume", "chart-sources", "chart-tags", "chart-compare-tags"]);
+  });
+
+  archBtn?.addEventListener("click", async () => {
+    syncUrlState("archiv", null);
+    applyPrimaryTabUI("archiv");
+    await loadAndRenderArchiv();
+    resizePlotlyByIds(["chart-archive-months"]);
+  });
+
+  document.querySelectorAll("#tab-bar-sub .tab-bar__btn").forEach((btn) => {
+    btn.addEventListener("click", async () => {
+      const raw = btn.getAttribute("data-demo");
+      const slug = raw === "" || raw == null ? null : normalizeDemoSlug(raw);
+      syncUrlState("zeitfenster", slug);
+      applyPrimaryTabUI("zeitfenster");
+      applySubtabUI(slug);
+      await loadAndRenderZeitfenster(slug);
+      resizePlotlyByIds(["chart-volume", "chart-sources", "chart-tags", "chart-compare-tags"]);
+    });
+  });
+
+  banner?.addEventListener("click", async (e) => {
+    const t = e.target;
+    if (!(t instanceof HTMLElement)) return;
+    if (!t.classList.contains("demo-banner__to-live")) return;
+    syncUrlState("zeitfenster", null);
+    applyPrimaryTabUI("zeitfenster");
+    applySubtabUI(null);
+    await loadAndRenderZeitfenster(null);
+    resizePlotlyByIds(["chart-volume", "chart-sources", "chart-tags", "chart-compare-tags"]);
+  });
+
+  window.addEventListener("hashchange", async () => {
+    const want = readPrimaryFromLocation();
+    const panelA = document.getElementById("panel-archiv");
+    if (!panelA) return;
+    const onArch = !panelA.hidden;
+    if (want === "archiv" && onArch) return;
+    if (want === "zeitfenster" && !onArch) return;
+
+    if (want === "archiv") {
+      syncUrlState("archiv", null);
+      applyPrimaryTabUI("archiv");
+      await loadAndRenderArchiv();
+      resizePlotlyByIds(["chart-archive-months"]);
+    } else {
+      syncUrlState("zeitfenster", readDemoSlug());
+      applyPrimaryTabUI("zeitfenster");
+      const d = readDemoSlug();
+      applySubtabUI(d);
+      await loadAndRenderZeitfenster(d);
+      resizePlotlyByIds(["chart-volume", "chart-sources", "chart-tags", "chart-compare-tags"]);
+    }
+  });
+}
+
+async function bootstrap() {
+  fillZeitreiseExamples();
+  wireTabs();
+
+  const primary = readPrimaryFromLocation();
+  const demoFromUrl = readDemoSlug();
+
+  if (primary === "archiv") {
+    syncUrlState("archiv", null);
+    applyPrimaryTabUI("archiv");
+    await loadAndRenderArchiv();
+  } else {
+    applyPrimaryTabUI("zeitfenster");
+    zeitfensterDemoSlug = demoFromUrl;
+    applySubtabUI(demoFromUrl);
+    await loadAndRenderZeitfenster(demoFromUrl);
+  }
+}
+
+bootstrap();
