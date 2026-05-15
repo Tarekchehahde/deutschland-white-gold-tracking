@@ -1,12 +1,34 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-05-15T08:18:02Z",
+  "generated_at_utc": "2026-05-15T19:55:37Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 9,
+  "total_in_archive": 11,
   "articles_per_month": {
-    "2026-05": 9
+    "2026-05": 11
   },
   "recent_for_ui": [
+    {
+      "id": "47aa6d4407789710b765422f",
+      "title": "Studie sieht hohe Erlösrisiken für neue Gaskraftwerke in Deutschland",
+      "url": "https://www.pv-magazine.de/2026/05/15/studie-sieht-hohe-erloesrisiken-fuer-neue-gaskraftwerke-in-deutschland/",
+      "published_at": "2026-05-15T12:57:19Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Studie sieht hohe Erlösrisiken für neue Gaskraftwerke in Deutschland Die Analysten von Thema gehen davon aus, dass Gaskraftwerke nur in wenigen Knappheitsjahren ausreichend Erlöse mit Blick auf die Amortisation erzielen werden. Allerdings schmälern auch ein zu starker Ausbau von Gaskraftwerken und zusätzlich installierte Batteriespeicher sowie andere Flexibilitäten die Einnahmen über die gesamte L",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b89017c166317d547f1ceb3f",
+      "title": "Anzeige: Lithium-AA-Akkus im 8er-Pack mit Ladebox wieder zum Tiefstpreis bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-lithium-aa-akkus-im-8er-pack-mit-ladebox-wieder-zum-tiefstpreis-bei-amazon-2605-208703.html",
+      "published_at": "2026-05-15T08:44:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Lithium-AA-Akkus im 8er-Pack mit Ladebox wieder zum Tiefstpreis bei Amazon Diese AA-Lithium-Akkus mit 3.600 mWh und Ladecase sind jetzt befristet zum bisherigen Tiefstpreis bei Amazon erhältlich. ( Technik/Hardware , Amazon )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "231192ece2a6f4c921492013",
       "title": "VW ID.Era 9x im Test: Jetzt kommt’s dicke",
