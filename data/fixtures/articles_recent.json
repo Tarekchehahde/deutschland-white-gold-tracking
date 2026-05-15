@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "231192ece2a6f4c921492013",
+      "title": "VW ID.Era 9x im Test: Jetzt kommt’s dicke",
+      "url": "https://www.spiegel.de/mobilitaet/auto/vw-id-era-9x-im-test-jetzt-kommts-dicke-a-efb382b8-2656-408c-bc87-91bd4ca8bd46",
+      "published_at": "2026-05-15T04:38:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "VW ID.Era 9x im Test: Jetzt kommt’s dicke In Europa hat VW das Jahr der kleinen Elektroautos ausgerufen und predigt mit dem ID.Polo die Idee vom Volks-Wagen. In China dagegen rollen die Niedersachsen ihr bislang dickstes Ding auf die Straße. Was kann der Koloss?",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "a998f939ebf30f014496d6f0",
       "title": "heise+ | Vier smarte Wallboxen für Elektroautos und Hybridfahrzeuge im Test",
       "url": "https://www.heise.de/tests/Vier-smarte-Wallboxen-fuer-Elektroautos-und-Hybridfahrzeuge-im-Test-10640187.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
@@ -13,17 +24,6 @@
       "regions": []
     },
     {
-      "id": "5dfcfd6e2d4066cfcb05c8bc",
-      "title": "Automobildesign: Heck-Tick",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/elektromobilitaet-bringt-neue-gestaltungsfreiheit-in-das-automobildesign-accg-200829482.html",
-      "published_at": "2026-05-14T12:30:00Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Automobildesign: Heck-Tick Die Elektromobilität bringt neue Gestaltungsfreiheit in das Automobildesign. Da lohnt es sich, die Sache vom Ende her zu denken.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "d1ca1f6d84122c3286b13662",
       "title": "Verkehrswende: Portal für Elektroauto-Förderung soll am 18. Mai starten",
       "url": "https://www.golem.de/news/verkehrswende-portal-fuer-elektroauto-foerderung-soll-am-18-mai-starten-2605-208658.html",
@@ -31,28 +31,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Verkehrswende: Portal für Elektroauto-Förderung soll am 18. Mai starten Bald können Käufer von Elektroautos ihre staatliche Förderung beantragen. Diese gilt rückwirkend zum 1. Januar 2026. ( Elektroauto , Politik )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7de0bef2fe86659f04438f44",
-      "title": "Vinfast VF6 im Test: Kompakter Hatchback mit vielen Extras und vielen Verbesserungswünschen",
-      "url": "https://www.golem.de/news/vinfast-vf6-im-test-kompakter-hatchback-mit-vielen-extras-und-vielen-verbesserungswuenschen-2605-208573.html",
-      "published_at": "2026-05-13T12:50:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Vinfast VF6 im Test: Kompakter Hatchback mit vielen Extras und vielen Verbesserungswünschen Vinfasts VF6 ist ein klassischer Hatchback mit Potenzial, aber auch einigen Macken. Die betreffen vor allem die Software. Ein Test von Tobias Költzsch ( Elektroauto , Test )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "094b8af32d2dedd15bbbf223",
-      "title": "Batterieproduktion in Grünheide: Tesla setzt auf lokale Wertschöpfung",
-      "url": "https://www.heise.de/news/Tesla-inverstiert-in-Gruenheide-Batterienfertigtung-wird-massiv-ausgebaut-11292496.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-13T04:57:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Batterieproduktion in Grünheide: Tesla setzt auf lokale Wertschöpfung Tesla-Chef Elon Musk will von der Batteriezelle bis zum E-Auto alles an einem Standort haben. In Grünheide soll das umgesetzt werden.",
       "tags": [],
       "regions": []
     },

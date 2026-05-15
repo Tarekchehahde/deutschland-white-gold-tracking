@@ -3,14 +3,15 @@
   "articles_per_day": {
     "2026-05-08": 2,
     "2026-05-12": 1,
-    "2026-05-13": 3,
-    "2026-05-14": 2
+    "2026-05-13": 1,
+    "2026-05-14": 1,
+    "2026-05-15": 1
   },
   "tag_counts": {
     "industrie": 1,
     "politik": 1
   },
   "by_source_category": {
-    "national": 8
+    "national": 6
   }
 }
