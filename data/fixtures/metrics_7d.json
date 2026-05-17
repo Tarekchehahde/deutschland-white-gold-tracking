@@ -2,7 +2,8 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-05-12": 1,
-    "2026-05-15": 2
+    "2026-05-15": 1,
+    "2026-05-17": 1
   },
   "tag_counts": {},
   "by_source_category": {
