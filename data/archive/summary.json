@@ -1,12 +1,34 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-05-17T07:44:41Z",
+  "generated_at_utc": "2026-05-17T19:37:26Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 12,
+  "total_in_archive": 14,
   "articles_per_month": {
-    "2026-05": 12
+    "2026-05": 14
   },
   "recent_for_ui": [
+    {
+      "id": "d18afd1865cecc048ad49d0d",
+      "title": "Hoffnungsträger Ukraine: Wird die Ukraine zum Rohstoffriesen?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wird-die-ukraine-zum-rohstoffriesen-accg-200835226.html",
+      "published_at": "2026-05-17T11:55:27Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Hoffnungsträger Ukraine: Wird die Ukraine zum Rohstoffriesen? China dominiert kritische Rohstoffe. Viele sehen in der Ukraine eine Alternative. Forscher haben jetzt untersucht, wie groß das Potential ist.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0e095a112a908ffd6cb0fdb5",
+      "title": "Mai-EnergiewendeForum: Energiemanagementsystem – das Herzstück des ProSumers!",
+      "url": "https://www.pfalz-express.de/mai-energiewendeforum-energiemanagementsystem-das-herzstueck-des-prosumers/",
+      "published_at": "2026-05-17T08:17:53Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Mai-EnergiewendeForum: Energiemanagementsystem – das Herzstück des ProSumers! Ranschbach. Der Verein Initiative Südpfalz-Energie e.V. (ISE e.V.) lädt herzlich zu seinem nächsten Mai-EnergiewendeForum ein. In Zeiten steigender Energiepreise und zunehmender Eigenversorgung wird das intelligente Zusammenspiel der eigenen Energiekomponenten immer wichtiger. Eine Photovoltaikanlage, ein Batteriespeiche",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "b13cdf6a30f017565e36bf54",
       "title": "Warum sich beim Verbrauchen von Strom Geld verdienen lässt",
