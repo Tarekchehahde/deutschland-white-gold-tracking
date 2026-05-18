@@ -3,11 +3,10 @@
   "articles_per_day": {
     "2026-05-12": 1,
     "2026-05-15": 1,
-    "2026-05-17": 3
+    "2026-05-17": 1
   },
   "tag_counts": {},
   "by_source_category": {
-    "national": 4,
-    "regional": 1
+    "national": 3
   }
 }
