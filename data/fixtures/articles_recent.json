@@ -2,10 +2,56 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "55df7d36e8fb9eca5c1b1cf1",
+      "title": "Anzeige: Kabellose Ladestation von INIU für nur 14,97 Euro bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-kabellose-ladestation-von-iniu-fuer-nur-14-97-euro-bei-amazon-2605-208782.html",
+      "published_at": "2026-05-18T15:35:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Kabellose Ladestation von INIU für nur 14,97 Euro bei Amazon Amazon hat eine kabellose Ladestation von INIU im Angebot, die Qi-fähige Mobilgeräte mit einer Ausgangsleistung von bis zu 15 W auflädt. ( Technik/Hardware , Elektromobilität )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "febbfb81f18b3eafd0a5d271",
+      "title": "CO₂-Flottengrenzwerte: Studie: Pläne der Regierung würden E-Mobilität ausbremsen",
+      "url": "https://www.sueddeutsche.de/wirtschaft/e-mobilitaet-verbrenner-aus-aufweichen-folgen-li.3484940",
+      "published_at": "2026-05-18T13:45:38Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "CO₂-Flottengrenzwerte: Studie: Pläne der Regierung würden E-Mobilität ausbremsen Union und SPD wollen das Verbrenner-Aus aufweichen. Nun zeigt eine Studie: Das würde nicht nur den Hochlauf der Elektromobilität verlangsamen – sondern auch ziemlich teuer werden.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "1dd6c160283dc6452f7353a8",
+      "title": "Lidl bietet 2,24 Kilowattstunden Speicher für 299 Euro an",
+      "url": "https://www.pv-magazine.de/2026/05/18/lidl-bietet-224-kilowattstunden-speicher-fuer-299-euro-an/",
+      "published_at": "2026-05-18T13:04:32Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Lidl bietet 2,24 Kilowattstunden Speicher für 299 Euro an Ab Donnerstag wird der Photovoltaik-Speicher in den Filialen für drei Tage und eine Woche online erhältlich sein. Wer einen per App steuerbaren Batteriespeicher erwerben will, muss 100 Euro drauflegen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "65614a73b7aac3039c1bbc10",
+      "title": "Photovoltaik und Batteriespeicher für Mieterstrom-Projekt in Köln",
+      "url": "https://www.pv-magazine.de/2026/05/18/photovoltaik-und-batteriespeicher-fuer-mieterstrom-projekt-in-koeln/",
+      "published_at": "2026-05-18T10:42:55Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Photovoltaik und Batteriespeicher für Mieterstrom-Projekt in Köln Auf 55 Wohngebäuden entstehen 42 Photovoltaik-Anlagen mit rund 750 Kilowatt Leistung. Ergänzt werden sie mit Batteriespeichern mit 670 Kilowattstunden Gesamtkapazität. Die Investitionssumme liegt bei mehr als 1,28 Millionen Euro.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "b13cdf6a30f017565e36bf54",
       "title": "Warum sich beim Verbrauchen von Strom Geld verdienen lässt",
       "url": "https://www.rnd.de/wirtschaft/warum-sich-beim-verbrauchen-von-strom-geld-verdienen-laesst-TAMONU32GRCZLJTWTUGUUIU3MU.html",
-      "published_at": "2026-05-17T05:00:10Z",
+      "published_at": "2026-05-18T10:06:23Z",
       "source_id": "rnd-wirtschaft",
       "language": "de",
       "summary": "Warum sich beim Verbrauchen von Strom Geld verdienen lässt Der massive Ausbau der Solarenergie bringt immer häufiger negative Strompreise. Davon können Verbraucher mit flexiblen Strompreisen profitieren. Zugleich entstehen Belastungen für die Steuerzahler. Mehr Batteriespeicher könnten das Problem lösen.",
