@@ -2,6 +2,41 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "62058ec54a6ccce0a6655c23",
+      "title": "Förderung: So beantragt man die neue Elektroauto-Prämie",
+      "url": "https://www.sueddeutsche.de/wirtschaft/elektroauto-praemie-deutschland-antrag-foerderung-li.3485418",
+      "published_at": "2026-05-19T08:33:55Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Förderung: So beantragt man die neue Elektroauto-Prämie Ab sofort ist das Online-Portal freigeschaltet, über das man bis zu 6000 Euro für sein E-Auto erstattet bekommen kann. Was man dafür braucht – und wo es kompliziert werden kann.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "06bc182969b743ed25436e49",
+      "title": "Anzeige: Neuer Stromspeicher erleichtert Nachrüsten per Plug-and-Play",
+      "url": "https://www.golem.de/news/anzeige-neuer-stromspeicher-erleichtert-nachruesten-per-plug-and-play-2605-208752.html",
+      "published_at": "2026-05-19T07:05:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Neuer Stromspeicher erleichtert Nachrüsten per Plug-and-Play Viele Solaranlagen produzieren mehr Strom als direkt genutzt werden kann. Moderne Speicherlösungen wie die neue Anker SOLIX Solarbank Max AC helfen dabei, diesen Überschuss effizient zu speichern und später zu nutzen. ( Anker , Energie & Klima )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "7dacfc106473230930e3608c",
+      "title": "Fisker-Ocean-Besitzer überwinden Digital Restriction Management ihrer E-Autos",
+      "url": "https://www.heise.de/news/Fisker-Ocean-Besitzer-ueberwinden-Digital-Restriction-Management-ihrer-E-Autos-11298028.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-19T03:44:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Fisker-Ocean-Besitzer überwinden Digital Restriction Management ihrer E-Autos Fiskers Server sind aufgrund der Pleite des Elektroautoherstellers abgeschaltet. Besitzer des Fisker Ocean haben ihre Fahrzeuge in Eigeninitiative reaktiviert.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "55df7d36e8fb9eca5c1b1cf1",
       "title": "Anzeige: Kabellose Ladestation von INIU für nur 14,97 Euro bei Amazon",
       "url": "https://www.golem.de/news/anzeige-kabellose-ladestation-von-iniu-fuer-nur-14-97-euro-bei-amazon-2605-208782.html",
@@ -48,17 +83,6 @@
       "regions": []
     },
     {
-      "id": "b13cdf6a30f017565e36bf54",
-      "title": "Warum sich beim Verbrauchen von Strom Geld verdienen lässt",
-      "url": "https://www.rnd.de/wirtschaft/warum-sich-beim-verbrauchen-von-strom-geld-verdienen-laesst-TAMONU32GRCZLJTWTUGUUIU3MU.html",
-      "published_at": "2026-05-18T10:06:23Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Warum sich beim Verbrauchen von Strom Geld verdienen lässt Der massive Ausbau der Solarenergie bringt immer häufiger negative Strompreise. Davon können Verbraucher mit flexiblen Strompreisen profitieren. Zugleich entstehen Belastungen für die Steuerzahler. Mehr Batteriespeicher könnten das Problem lösen.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "47aa6d4407789710b765422f",
       "title": "Studie sieht hohe Erlösrisiken für neue Gaskraftwerke in Deutschland",
       "url": "https://www.pv-magazine.de/2026/05/15/studie-sieht-hohe-erloesrisiken-fuer-neue-gaskraftwerke-in-deutschland/",
@@ -66,17 +90,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Studie sieht hohe Erlösrisiken für neue Gaskraftwerke in Deutschland Die Analysten von Thema gehen davon aus, dass Gaskraftwerke nur in wenigen Knappheitsjahren ausreichend Erlöse mit Blick auf die Amortisation erzielen werden. Allerdings schmälern auch ein zu starker Ausbau von Gaskraftwerken und zusätzlich installierte Batteriespeicher sowie andere Flexibilitäten die Einnahmen über die gesamte L",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5b6292d2f115f3b5661390af",
-      "title": "Suntec baut Co-Location-Graustromspeicher mit 13,5 Megawattstunden Kapazität",
-      "url": "https://www.pv-magazine.de/2026/05/12/suntec-baut-co-location-graustromspeicher-mit-135-megawattstunden-kapazitaet/",
-      "published_at": "2026-05-12T07:02:13Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Suntec baut Co-Location-Graustromspeicher mit 13,5 Megawattstunden Kapazität Der Batteriespeicher wird in Unterfranken an einem bereits ans Netz angeschlossenen Solarpark mit 5,8 Megawatt Leistung errichtet. Nach Angaben von Suntec hat der Netzbetreiber die Netzentgeltbefreiung bestätigt.",
       "tags": [],
       "regions": []
     }
