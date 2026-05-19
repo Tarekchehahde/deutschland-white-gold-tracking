@@ -1,12 +1,47 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-05-18T20:03:12Z",
+  "generated_at_utc": "2026-05-19T08:38:54Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 18,
+  "total_in_archive": 21,
   "articles_per_month": {
-    "2026-05": 18
+    "2026-05": 21
   },
   "recent_for_ui": [
+    {
+      "id": "62058ec54a6ccce0a6655c23",
+      "title": "Förderung: So beantragt man die neue Elektroauto-Prämie",
+      "url": "https://www.sueddeutsche.de/wirtschaft/elektroauto-praemie-deutschland-antrag-foerderung-li.3485418",
+      "published_at": "2026-05-19T08:33:55Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Förderung: So beantragt man die neue Elektroauto-Prämie Ab sofort ist das Online-Portal freigeschaltet, über das man bis zu 6000 Euro für sein E-Auto erstattet bekommen kann. Was man dafür braucht – und wo es kompliziert werden kann.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "06bc182969b743ed25436e49",
+      "title": "Anzeige: Neuer Stromspeicher erleichtert Nachrüsten per Plug-and-Play",
+      "url": "https://www.golem.de/news/anzeige-neuer-stromspeicher-erleichtert-nachruesten-per-plug-and-play-2605-208752.html",
+      "published_at": "2026-05-19T07:05:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Neuer Stromspeicher erleichtert Nachrüsten per Plug-and-Play Viele Solaranlagen produzieren mehr Strom als direkt genutzt werden kann. Moderne Speicherlösungen wie die neue Anker SOLIX Solarbank Max AC helfen dabei, diesen Überschuss effizient zu speichern und später zu nutzen. ( Anker , Energie & Klima )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "7dacfc106473230930e3608c",
+      "title": "Fisker-Ocean-Besitzer überwinden Digital Restriction Management ihrer E-Autos",
+      "url": "https://www.heise.de/news/Fisker-Ocean-Besitzer-ueberwinden-Digital-Restriction-Management-ihrer-E-Autos-11298028.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-19T03:44:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Fisker-Ocean-Besitzer überwinden Digital Restriction Management ihrer E-Autos Fiskers Server sind aufgrund der Pleite des Elektroautoherstellers abgeschaltet. Besitzer des Fisker Ocean haben ihre Fahrzeuge in Eigeninitiative reaktiviert.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "55df7d36e8fb9eca5c1b1cf1",
       "title": "Anzeige: Kabellose Ladestation von INIU für nur 14,97 Euro bei Amazon",
