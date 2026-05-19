@@ -1,12 +1,124 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-05-19T08:38:54Z",
+  "generated_at_utc": "2026-05-19T20:04:17Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 21,
+  "total_in_archive": 31,
   "articles_per_month": {
-    "2026-05": 21
+    "2026-05": 31
   },
   "recent_for_ui": [
+    {
+      "id": "8c7483d3f0c2589631d21c91",
+      "title": "Verbrenner-Aus: Die Gefahren der Technologieoffenheit",
+      "url": "https://www.golem.de/news/verbrenner-aus-die-gefahren-der-technologieoffenheit-2605-208842.html",
+      "published_at": "2026-05-19T17:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Verbrenner-Aus: Die Gefahren der Technologieoffenheit Ohne das Verbrenner-Aus dürfte sich der Hochlauf der E-Mobilität stark verlangsamen. Zu viele Antriebsversionen könnten auch die Hersteller überfordern. ( Verbrennerverbot , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3bc942124c18e659616b12db",
+      "title": "Ellwanger Batteriehersteller VARTA streicht 350 Stellen",
+      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-ellwanger-batteriehersteller-varta-schliesst-produktionslinie-in-noerdlingen-100.html",
+      "published_at": "2026-05-19T15:17:00Z",
+      "source_id": "tagesschau-bw",
+      "language": "de",
+      "summary": "Ellwanger Batteriehersteller VARTA streicht 350 Stellen Der Ellwanger Batteriehersteller VARTA stellt die Produktion von Knopfzellen am Standort in Nördlingen ein. Das teilte das Unternehmen mit. 350 Beschäftigte sind betroffen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "463b898b6a755102d6d7758b",
+      "title": "E-Car: Stellantis kündigt Elektroauto für 15.000 Euro an",
+      "url": "https://www.golem.de/news/e-car-stellantis-kuendigt-elektroauto-fuer-15-000-euro-an-2605-208831.html",
+      "published_at": "2026-05-19T14:44:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "E-Car: Stellantis kündigt Elektroauto für 15.000 Euro an Mit einem preiswerten Elektroauto will Stellantis den Markt der kleinen Autos in Europa wiederbeleben. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dfff01a5244cce07471d1630",
+      "title": "Bayern: Batteriehersteller Varta schließt Werk bei Nördlingen",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-05/varta-werk-schliessung-noerdlingen-apple-knopfzellen-gxe",
+      "published_at": "2026-05-19T14:23:15Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "Bayern: Batteriehersteller Varta schließt Werk bei Nördlingen Bisher stellte Varta in Nördlingen vor allem Knopfzellen für AirPods her. Doch Apple hat die Zusammenarbeit offenbar beendet. 350 Beschäftigte verlieren wohl ihren Job.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "bd37bab1db79d9726df2b2e1",
+      "title": "Akkus: Apple springt ab, Varta-Produktion in Nördlingen muss schließen",
+      "url": "https://www.golem.de/news/akkus-apple-springt-ab-varta-werk-in-noerdlingen-muss-schliessen-2605-208827.html",
+      "published_at": "2026-05-19T13:36:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Akkus: Apple springt ab, Varta-Produktion in Nördlingen muss schließen Varta hat in Nördlingen winzige Lithium-Ionen-Akkus für Apples Airpods hergestellt. Nun muss die Produktion schließen. ( Apple , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dc7dcf55172ba3d0e42b2922",
+      "title": "Elektroautos können mit integrierter Photovoltaik in Mitteleuropa bis zu 55 Prozent ihres Strombedarfs decken",
+      "url": "https://www.pv-magazine.de/2026/05/19/elektroautos-koennen-mit-integrierter-photovoltaik-in-mitteleuropa-bis-zu-55-prozent-ihres-strombedarfs-decken/",
+      "published_at": "2026-05-19T12:45:47Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Elektroautos können mit integrierter Photovoltaik in Mitteleuropa bis zu 55 Prozent ihres Strombedarfs decken Ein Forschungsprojekt von Fraunhofer ISE und Partnern zeigt, dass fahrzeugintegrierte Photovoltaik die Belastung der Stromnetze erheblich reduzieren kann. Das Konzept lohnt sich besonders im Logistiksektor, da die LKW für Kühlung, Heizung und Hilfsaggregate viel Strom verbrauchen und die D",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e0bef9780ab6c315287d1123",
+      "title": "Batteriehersteller Varta muss Werk in Bayern schließen – 350 Mitarbeiter verlieren ihre Jobs",
+      "url": "https://www.rnd.de/wirtschaft/batteriehersteller-varta-muss-werk-in-bayern-schliessen-350-mitarbeiter-verlieren-ihre-jobs-IUGIMCGHZBBSLFQTMA3NZUYWV4.html",
+      "published_at": "2026-05-19T11:55:23Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Batteriehersteller Varta muss Werk in Bayern schließen – 350 Mitarbeiter verlieren ihre Jobs Beim Batteriehersteller Varta springt ein Großkunde ab. Ein Werk in Nördlingen in Bayern muss schließen, rund 350 Jobs sind weg. Wie es nun weitergeht.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "cdba56297795a3be9dd6c96c",
+      "title": "Elektroauto: Die wichtigsten Fragen und Antworten zur E-Auto-Förderung",
+      "url": "https://www.golem.de/news/elektroauto-die-wichtigsten-fragen-und-antworten-zur-e-auto-foerderung-2605-208811.html",
+      "published_at": "2026-05-19T09:57:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Die wichtigsten Fragen und Antworten zur E-Auto-Förderung Die neue Elektroautoförderung kann beantragt werden - es gibt aber einiges zu beachten. Golem fasst die wichtigsten Punkte zusammen. Von Tobias Költzsch ( Elektroauto , Brennstoffzelle )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "db9633342e37ea63c931af8d",
+      "title": "E-Auto-Förderung: An einem Strich gescheitert",
+      "url": "https://www.heise.de/hintergrund/E-Auto-Foerderung-An-einem-Strich-gescheitert-11298705.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-19T09:17:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "E-Auto-Förderung: An einem Strich gescheitert Die Förderung eines kleinen Elektroautos kam für unsere Autorin zum richtigen Zeitpunkt, würde ihr da nicht ein Strich einen Strich durch die Rechnung machen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "768857daee978d227acf783d",
+      "title": "Stellantis kündigt erschwingliches E-Auto für 2028 an",
+      "url": "https://www.heise.de/news/Stellantis-kuendigt-Elektro-Kleinstwagen-unter-dem-Projektnamen-E-Car-an-11298415.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-19T08:39:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Stellantis kündigt erschwingliches E-Auto für 2028 an Stellantis will ab 2028 ein „erschwingliches“ Elektroauto in Italien produzieren, um den Markt für kleine E-Autos im Einstiegssegment für sich zu beleben.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "62058ec54a6ccce0a6655c23",
       "title": "Förderung: So beantragt man die neue Elektroauto-Prämie",
