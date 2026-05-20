@@ -2,6 +2,74 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "918d50db41874d8bc6452640",
+      "title": "1Komma5° steuert ein Gigawatt Flexibilität aus privaten Photovoltaik-Speicheranlagen",
+      "url": "https://www.pv-magazine.de/2026/05/20/1komma5-steuert-ein-gigawatt-flexibilitaet-aus-privaten-photovoltaik-speicheranlagen/",
+      "published_at": "2026-05-20T07:53:19Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "1Komma5° steuert ein Gigawatt Flexibilität aus privaten Photovoltaik-Speicheranlagen Das Hamburger Start-up meldet ein Gigawatt verschiebbare Leistung in seinem virtuellen Kraftwerk. CEO Philipp Schröder erklärt gegenüber pv magazine, wie das Unternehmen mit Heartbeat AI diese Reichweite mit privaten Photovoltaik-Anlagen, Batteriespeichern, Wärmepumpen und Wallboxen erreicht hat – und warum er die",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "ee75f1dfca1af1c5224db314",
+      "title": "Automarkt im Wandel: Leapesgrüße aus Hangzhou",
+      "url": "https://www.faz.net/aktuell/technik-motor/motor/kooperation-von-opel-und-leapmotor-automarkt-im-wandel-accg-200826264.html",
+      "published_at": "2026-05-20T07:32:47Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Automarkt im Wandel: Leapesgrüße aus Hangzhou China hat Europas Autos kopiert. China hat Europas Autos gekauft. Jetzt entwickelt China selbst. Und baut Elektroautos für Europa. Etwa unter der Marke Opel. Das ist irgendwas zwischen Erdrutsch und Weckruf.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0f6b1ddb3f8c4e0630353145",
+      "title": "Elektroauto: Der neue Mercedes-AMG GT 4-Türer kommt mit Axial-Fluss-Motoren",
+      "url": "https://www.golem.de/news/elektroauto-der-neue-mercedes-amg-gt-4-tuerer-kommt-mit-axial-fluss-motoren-2605-208853.html",
+      "published_at": "2026-05-20T07:13:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Der neue Mercedes-AMG GT 4-Türer kommt mit Axial-Fluss-Motoren Mercedes-AMG hat das neue GT-4-Türer-Coupé in den zwei Varianten GT 63 und GT 55 vorgestellt. ( Mercedes Benz , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b8fc1fdfb3452579150959c1",
+      "title": "Warum hohe Ölpreise den Elektroauto-Boom befeuern",
+      "url": "https://www.heise.de/news/IEA-Hohes-Oelpreisniveau-kann-globalen-E-Auto-Boom-antreiben-11299995.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-20T06:01:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Warum hohe Ölpreise den Elektroauto-Boom befeuern Ein Viertel aller Neuwagen weltweit fährt elektrisch – und die Nachfrage steigt weiter. Wie hohe Ölpreise den Trend zusätzlich verstärken könnten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3c4bd5a73e53ac538d549ab8",
+      "title": "Elektroauto: Skoda Epiq kostet knapp 26.000 Euro",
+      "url": "https://www.golem.de/news/elektroauto-skoda-epiq-kostet-knapp-26-000-euro-2605-208849.html",
+      "published_at": "2026-05-20T05:16:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Skoda Epiq kostet knapp 26.000 Euro Skoda stellt ein City-SUV vor, das nicht teurer als ein vergleichbarer Verbrenner sein soll. Ab Ende September 2026 ist das E-Auto bestellbar. ( Skoda , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1c1f857112d9eb13a259ad6c",
+      "title": "Zuschüsse für E-Autos: So kommen Sie an die Förderung",
+      "url": "https://www.zdfheute.de/ratgeber/e-auto-foerderung-praemie-elektroauto-100.html",
+      "published_at": "2026-05-20T04:03:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "Zuschüsse für E-Autos: So kommen Sie an die Förderung Elektroautos werden 2026 wieder staatlich gefördert. Zuschüsse bis zu 6.000 Euro und Steuererleichterungen sollen den Umstieg attraktiver machen. Wer Anspruch auf Förderungen hat.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "8c7483d3f0c2589631d21c91",
       "title": "Verbrenner-Aus: Die Gefahren der Technologieoffenheit",
       "url": "https://www.golem.de/news/verbrenner-aus-die-gefahren-der-technologieoffenheit-2605-208842.html",
