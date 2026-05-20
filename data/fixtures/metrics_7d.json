@@ -3,13 +3,15 @@
   "articles_per_day": {
     "2026-05-15": 1,
     "2026-05-18": 2,
-    "2026-05-19": 12
+    "2026-05-19": 10,
+    "2026-05-20": 6
   },
   "tag_counts": {
-    "industrie": 1
+    "industrie": 2
   },
   "by_source_category": {
-    "national": 14,
+    "broadcast": 1,
+    "national": 17,
     "regional": 1
   }
 }
