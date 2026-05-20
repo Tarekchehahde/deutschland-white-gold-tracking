@@ -2,6 +2,101 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "0f906951f3d22c45930b0d19",
+      "title": "Fast perfekt für bestehende Balkonkraftwerke: Solarakku bei Lidl für 300 Euro",
+      "url": "https://www.heise.de/news/Guter-Preis-eingeschraenkte-Steuerung-Solarakku-bei-Lidl-mit-2-kWh-fuer-300-Euro-11301440.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-20T18:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Fast perfekt für bestehende Balkonkraftwerke: Solarakku bei Lidl für 300 Euro Ab 21. Mai verkauft Lidl einen Solarstromspeicher für 299 Euro. Im Video ordnen wir das Angebot ein und geben eine Einschätzung ab, was der Solarakku kann.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ca7d475f8d9bcdf3ded36187",
+      "title": "Energie: Wie viel CO₂ Elektroautos wirklich sparen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wie-viel-co-elektroautos-wirklich-sparen-200851179.html",
+      "published_at": "2026-05-20T16:48:44Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Energie: Wie viel CO₂ Elektroautos wirklich sparen Die Internationale Energieagentur sieht bis zum Jahr 2035 weiter steigende Emissionen aus dem Verkehr. Potentielle Einsparungen mit Elektroantrieb machen nur wenige Prozent der Emissionen auf der Welt aus.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "34294e264b25de0668649f6c",
+      "title": "Lithiumabbau: Mobile Lithiumextraktion in norddeutschem Tiefenwasser gestartet",
+      "url": "https://www.golem.de/news/lithiumabbau-mobile-lithiumextraktion-in-norddeutschem-tiefenwasser-gestartet-2605-208879.html",
+      "published_at": "2026-05-20T13:18:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Lithiumabbau: Mobile Lithiumextraktion in norddeutschem Tiefenwasser gestartet Die Pilotanlage zur Förderung von Lithium soll die technischen Grundlagen schaffen für einen wirtschaftlichen und umweltverträglichen Abbau. ( Lithium , Akku )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "73db85f4c05aeaba9f4b9542",
+      "title": "Copenhagen Energy und Akaysha Energy planen Zwei-Gigawattstunden-Speicher bei Baden-Baden",
+      "url": "https://www.pv-magazine.de/2026/05/20/copenhagen-energy-und-akaysha-energy-planen-zwei-gigawattstunden-speicher-bei-baden-baden/",
+      "published_at": "2026-05-20T10:45:45Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Copenhagen Energy und Akaysha Energy planen Zwei-Gigawattstunden-Speicher bei Baden-Baden Die Großbatterie mit 500 Megawatt Leistung soll nahe der Höchstspannungs-Infrastruktur und eines bestehenden Umspannwerks in der Stadt Bühl entstehen. Copenhagen Energy und Akaysha Energy haben ein Joint Venture gegründet, um große Batteriespeicher in Deutschland zu entwickeln.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b859c1969ab3dfc034cef04e",
+      "title": "Elektromobilität: Bereits rund 17.000 Anträge für die Kaufprämie bei Elektroautos",
+      "url": "https://www.zeit.de/wirtschaft/2026-05/elektroauto-kaufpraemie-foerderung-bundesumweltministeriums-carsten-schneider-gxe",
+      "published_at": "2026-05-20T10:43:10Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Bereits rund 17.000 Anträge für die Kaufprämie bei Elektroautos Für den Kauf eines E-Autos gibt es bis zu 6.000 Euro staatliche Förderung. Einen Tag nach Verfahrensstart zählt das Bundesumweltministerium bereits tausende Anträge.",
+      "tags": [
+        "politik",
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "dfe54fe021500736c4416ebf",
+      "title": "Stellantis und Dongfeng setzen auf chinesische NEV-Technik für Europa",
+      "url": "https://www.heise.de/news/Stellantis-plant-mit-Dongfeng-gemeinsame-Produktion-in-Europa-11300466.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-20T10:05:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Stellantis und Dongfeng setzen auf chinesische NEV-Technik für Europa Die Autokonzerne Stellantis und Dongfeng wollen enger zusammenarbeiten. Geplant ist unter anderem die Produktion von Dongfeng-Elektroautos in Frankreich.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0ff69381cdab16e44e505465",
+      "title": "Elektromobilität: Solarzellen an Fahrzeugen senken Ladebedarf entscheidend",
+      "url": "https://www.golem.de/news/elektromobilitaet-solarzellen-an-fahrzeugen-senken-ladebedarf-entscheidend-2605-208862.html",
+      "published_at": "2026-05-20T09:40:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität: Solarzellen an Fahrzeugen senken Ladebedarf entscheidend Abhängig von Standort und Nutzung können bis zu 80 Prozent der Energie direkt erzeugt werden. Besonders Lkw können profitieren. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "248e8f125222b3eff6e3e34d",
+      "title": "Carbon gibt Pläne für Bau von Photovoltaik-Gigafactory in Frankreich auf",
+      "url": "https://www.pv-magazine.de/2026/05/20/carbon-gibt-plaene-fuer-bau-von-photovoltaik-gigafactory-in-frankreich-auf/",
+      "published_at": "2026-05-20T09:30:42Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Carbon gibt Pläne für Bau von Photovoltaik-Gigafactory in Frankreich auf Carbon hat den Bau einer Gigafactory in Südfrankreich wegen regulatorischer Unsicherheiten und fehlender Investorengarantien aufgegeben. Das Unternehmen wollte eine integrierte Fünf-Gigawatt-Produktionskette in Frankreich aufbauen. Carbon hatte zuvor versucht, das Projekt zu verkleinern und Partnerschaften aufzubauen, unter a",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "918d50db41874d8bc6452640",
       "title": "1Komma5° steuert ein Gigawatt Flexibilität aus privaten Photovoltaik-Speicheranlagen",
       "url": "https://www.pv-magazine.de/2026/05/20/1komma5-steuert-ein-gigawatt-flexibilitaet-aus-privaten-photovoltaik-speicheranlagen/",
@@ -15,28 +110,6 @@
       "regions": []
     },
     {
-      "id": "ee75f1dfca1af1c5224db314",
-      "title": "Automarkt im Wandel: Leapesgrüße aus Hangzhou",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/kooperation-von-opel-und-leapmotor-automarkt-im-wandel-accg-200826264.html",
-      "published_at": "2026-05-20T07:32:47Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Automarkt im Wandel: Leapesgrüße aus Hangzhou China hat Europas Autos kopiert. China hat Europas Autos gekauft. Jetzt entwickelt China selbst. Und baut Elektroautos für Europa. Etwa unter der Marke Opel. Das ist irgendwas zwischen Erdrutsch und Weckruf.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0f6b1ddb3f8c4e0630353145",
-      "title": "Elektroauto: Der neue Mercedes-AMG GT 4-Türer kommt mit Axial-Fluss-Motoren",
-      "url": "https://www.golem.de/news/elektroauto-der-neue-mercedes-amg-gt-4-tuerer-kommt-mit-axial-fluss-motoren-2605-208853.html",
-      "published_at": "2026-05-20T07:13:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Der neue Mercedes-AMG GT 4-Türer kommt mit Axial-Fluss-Motoren Mercedes-AMG hat das neue GT-4-Türer-Coupé in den zwei Varianten GT 63 und GT 55 vorgestellt. ( Mercedes Benz , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "b8fc1fdfb3452579150959c1",
       "title": "Warum hohe Ölpreise den Elektroauto-Boom befeuern",
       "url": "https://www.heise.de/news/IEA-Hohes-Oelpreisniveau-kann-globalen-E-Auto-Boom-antreiben-11299995.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -44,39 +117,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Warum hohe Ölpreise den Elektroauto-Boom befeuern Ein Viertel aller Neuwagen weltweit fährt elektrisch – und die Nachfrage steigt weiter. Wie hohe Ölpreise den Trend zusätzlich verstärken könnten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3c4bd5a73e53ac538d549ab8",
-      "title": "Elektroauto: Skoda Epiq kostet knapp 26.000 Euro",
-      "url": "https://www.golem.de/news/elektroauto-skoda-epiq-kostet-knapp-26-000-euro-2605-208849.html",
-      "published_at": "2026-05-20T05:16:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Skoda Epiq kostet knapp 26.000 Euro Skoda stellt ein City-SUV vor, das nicht teurer als ein vergleichbarer Verbrenner sein soll. Ab Ende September 2026 ist das E-Auto bestellbar. ( Skoda , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1c1f857112d9eb13a259ad6c",
-      "title": "Zuschüsse für E-Autos: So kommen Sie an die Förderung",
-      "url": "https://www.zdfheute.de/ratgeber/e-auto-foerderung-praemie-elektroauto-100.html",
-      "published_at": "2026-05-20T04:03:00Z",
-      "source_id": "zdf-nachrichten",
-      "language": "de",
-      "summary": "Zuschüsse für E-Autos: So kommen Sie an die Förderung Elektroautos werden 2026 wieder staatlich gefördert. Zuschüsse bis zu 6.000 Euro und Steuererleichterungen sollen den Umstieg attraktiver machen. Wer Anspruch auf Förderungen hat.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8c7483d3f0c2589631d21c91",
-      "title": "Verbrenner-Aus: Die Gefahren der Technologieoffenheit",
-      "url": "https://www.golem.de/news/verbrenner-aus-die-gefahren-der-technologieoffenheit-2605-208842.html",
-      "published_at": "2026-05-19T17:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Verbrenner-Aus: Die Gefahren der Technologieoffenheit Ohne das Verbrenner-Aus dürfte sich der Hochlauf der E-Mobilität stark verlangsamen. Zu viele Antriebsversionen könnten auch die Hersteller überfordern. ( Verbrennerverbot , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -94,17 +134,6 @@
       "regions": []
     },
     {
-      "id": "463b898b6a755102d6d7758b",
-      "title": "E-Car: Stellantis kündigt Elektroauto für 15.000 Euro an",
-      "url": "https://www.golem.de/news/e-car-stellantis-kuendigt-elektroauto-fuer-15-000-euro-an-2605-208831.html",
-      "published_at": "2026-05-19T14:44:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "E-Car: Stellantis kündigt Elektroauto für 15.000 Euro an Mit einem preiswerten Elektroauto will Stellantis den Markt der kleinen Autos in Europa wiederbeleben. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "dfff01a5244cce07471d1630",
       "title": "Bayern: Batteriehersteller Varta schließt Werk bei Nördlingen",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-05/varta-werk-schliessung-noerdlingen-apple-knopfzellen-gxe",
@@ -112,17 +141,6 @@
       "source_id": "zeit-wirtschaft",
       "language": "de",
       "summary": "Bayern: Batteriehersteller Varta schließt Werk bei Nördlingen Bisher stellte Varta in Nördlingen vor allem Knopfzellen für AirPods her. Doch Apple hat die Zusammenarbeit offenbar beendet. 350 Beschäftigte verlieren wohl ihren Job.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bd37bab1db79d9726df2b2e1",
-      "title": "Akkus: Apple springt ab, Varta-Produktion in Nördlingen muss schließen",
-      "url": "https://www.golem.de/news/akkus-apple-springt-ab-varta-werk-in-noerdlingen-muss-schliessen-2605-208827.html",
-      "published_at": "2026-05-19T13:36:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Akkus: Apple springt ab, Varta-Produktion in Nördlingen muss schließen Varta hat in Nördlingen winzige Lithium-Ionen-Akkus für Apples Airpods hergestellt. Nun muss die Produktion schließen. ( Apple , Akku )",
       "tags": [],
       "regions": []
     },
@@ -145,39 +163,6 @@
       "source_id": "rnd-wirtschaft",
       "language": "de",
       "summary": "Batteriehersteller Varta muss Werk in Bayern schließen – 350 Mitarbeiter verlieren ihre Jobs Beim Batteriehersteller Varta springt ein Großkunde ab. Ein Werk in Nördlingen in Bayern muss schließen, rund 350 Jobs sind weg. Wie es nun weitergeht.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "db9633342e37ea63c931af8d",
-      "title": "E-Auto-Förderung: An einem Strich gescheitert",
-      "url": "https://www.heise.de/hintergrund/E-Auto-Foerderung-An-einem-Strich-gescheitert-11298705.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-19T09:17:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "E-Auto-Förderung: An einem Strich gescheitert Die Förderung eines kleinen Elektroautos kam für unsere Autorin zum richtigen Zeitpunkt, würde ihr da nicht ein Strich einen Strich durch die Rechnung machen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "768857daee978d227acf783d",
-      "title": "Stellantis kündigt erschwingliches E-Auto für 2028 an",
-      "url": "https://www.heise.de/news/Stellantis-kuendigt-Elektro-Kleinstwagen-unter-dem-Projektnamen-E-Car-an-11298415.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-19T08:39:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Stellantis kündigt erschwingliches E-Auto für 2028 an Stellantis will ab 2028 ein „erschwingliches“ Elektroauto in Italien produzieren, um den Markt für kleine E-Autos im Einstiegssegment für sich zu beleben.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "62058ec54a6ccce0a6655c23",
-      "title": "Förderung: So beantragt man die neue Elektroauto-Prämie",
-      "url": "https://www.sueddeutsche.de/wirtschaft/elektroauto-praemie-deutschland-antrag-foerderung-li.3485418",
-      "published_at": "2026-05-19T08:33:55Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "Förderung: So beantragt man die neue Elektroauto-Prämie Ab sofort ist das Online-Portal freigeschaltet, über das man bis zu 6000 Euro für sein E-Auto erstattet bekommen kann. Was man dafür braucht – und wo es kompliziert werden kann.",
       "tags": [],
       "regions": []
     },

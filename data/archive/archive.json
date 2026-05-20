@@ -2,6 +2,101 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "0f906951f3d22c45930b0d19",
+      "title": "Fast perfekt für bestehende Balkonkraftwerke: Solarakku bei Lidl für 300 Euro",
+      "url": "https://www.heise.de/news/Guter-Preis-eingeschraenkte-Steuerung-Solarakku-bei-Lidl-mit-2-kWh-fuer-300-Euro-11301440.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-20T18:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Fast perfekt für bestehende Balkonkraftwerke: Solarakku bei Lidl für 300 Euro Ab 21. Mai verkauft Lidl einen Solarstromspeicher für 299 Euro. Im Video ordnen wir das Angebot ein und geben eine Einschätzung ab, was der Solarakku kann.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ca7d475f8d9bcdf3ded36187",
+      "title": "Energie: Wie viel CO₂ Elektroautos wirklich sparen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wie-viel-co-elektroautos-wirklich-sparen-200851179.html",
+      "published_at": "2026-05-20T16:48:44Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Energie: Wie viel CO₂ Elektroautos wirklich sparen Die Internationale Energieagentur sieht bis zum Jahr 2035 weiter steigende Emissionen aus dem Verkehr. Potentielle Einsparungen mit Elektroantrieb machen nur wenige Prozent der Emissionen auf der Welt aus.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "34294e264b25de0668649f6c",
+      "title": "Lithiumabbau: Mobile Lithiumextraktion in norddeutschem Tiefenwasser gestartet",
+      "url": "https://www.golem.de/news/lithiumabbau-mobile-lithiumextraktion-in-norddeutschem-tiefenwasser-gestartet-2605-208879.html",
+      "published_at": "2026-05-20T13:18:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Lithiumabbau: Mobile Lithiumextraktion in norddeutschem Tiefenwasser gestartet Die Pilotanlage zur Förderung von Lithium soll die technischen Grundlagen schaffen für einen wirtschaftlichen und umweltverträglichen Abbau. ( Lithium , Akku )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "73db85f4c05aeaba9f4b9542",
+      "title": "Copenhagen Energy und Akaysha Energy planen Zwei-Gigawattstunden-Speicher bei Baden-Baden",
+      "url": "https://www.pv-magazine.de/2026/05/20/copenhagen-energy-und-akaysha-energy-planen-zwei-gigawattstunden-speicher-bei-baden-baden/",
+      "published_at": "2026-05-20T10:45:45Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Copenhagen Energy und Akaysha Energy planen Zwei-Gigawattstunden-Speicher bei Baden-Baden Die Großbatterie mit 500 Megawatt Leistung soll nahe der Höchstspannungs-Infrastruktur und eines bestehenden Umspannwerks in der Stadt Bühl entstehen. Copenhagen Energy und Akaysha Energy haben ein Joint Venture gegründet, um große Batteriespeicher in Deutschland zu entwickeln.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b859c1969ab3dfc034cef04e",
+      "title": "Elektromobilität: Bereits rund 17.000 Anträge für die Kaufprämie bei Elektroautos",
+      "url": "https://www.zeit.de/wirtschaft/2026-05/elektroauto-kaufpraemie-foerderung-bundesumweltministeriums-carsten-schneider-gxe",
+      "published_at": "2026-05-20T10:43:10Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Bereits rund 17.000 Anträge für die Kaufprämie bei Elektroautos Für den Kauf eines E-Autos gibt es bis zu 6.000 Euro staatliche Förderung. Einen Tag nach Verfahrensstart zählt das Bundesumweltministerium bereits tausende Anträge.",
+      "tags": [
+        "politik",
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "dfe54fe021500736c4416ebf",
+      "title": "Stellantis und Dongfeng setzen auf chinesische NEV-Technik für Europa",
+      "url": "https://www.heise.de/news/Stellantis-plant-mit-Dongfeng-gemeinsame-Produktion-in-Europa-11300466.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-20T10:05:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Stellantis und Dongfeng setzen auf chinesische NEV-Technik für Europa Die Autokonzerne Stellantis und Dongfeng wollen enger zusammenarbeiten. Geplant ist unter anderem die Produktion von Dongfeng-Elektroautos in Frankreich.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0ff69381cdab16e44e505465",
+      "title": "Elektromobilität: Solarzellen an Fahrzeugen senken Ladebedarf entscheidend",
+      "url": "https://www.golem.de/news/elektromobilitaet-solarzellen-an-fahrzeugen-senken-ladebedarf-entscheidend-2605-208862.html",
+      "published_at": "2026-05-20T09:40:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität: Solarzellen an Fahrzeugen senken Ladebedarf entscheidend Abhängig von Standort und Nutzung können bis zu 80 Prozent der Energie direkt erzeugt werden. Besonders Lkw können profitieren. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "248e8f125222b3eff6e3e34d",
+      "title": "Carbon gibt Pläne für Bau von Photovoltaik-Gigafactory in Frankreich auf",
+      "url": "https://www.pv-magazine.de/2026/05/20/carbon-gibt-plaene-fuer-bau-von-photovoltaik-gigafactory-in-frankreich-auf/",
+      "published_at": "2026-05-20T09:30:42Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Carbon gibt Pläne für Bau von Photovoltaik-Gigafactory in Frankreich auf Carbon hat den Bau einer Gigafactory in Südfrankreich wegen regulatorischer Unsicherheiten und fehlender Investorengarantien aufgegeben. Das Unternehmen wollte eine integrierte Fünf-Gigawatt-Produktionskette in Frankreich aufbauen. Carbon hatte zuvor versucht, das Projekt zu verkleinern und Partnerschaften aufzubauen, unter a",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "918d50db41874d8bc6452640",
       "title": "1Komma5° steuert ein Gigawatt Flexibilität aus privaten Photovoltaik-Speicheranlagen",
       "url": "https://www.pv-magazine.de/2026/05/20/1komma5-steuert-ein-gigawatt-flexibilitaet-aus-privaten-photovoltaik-speicheranlagen/",
