@@ -1,12 +1,47 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-05-21T08:43:30Z",
+  "generated_at_utc": "2026-05-21T20:11:32Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 46,
+  "total_in_archive": 49,
   "articles_per_month": {
-    "2026-05": 46
+    "2026-05": 49
   },
   "recent_for_ui": [
+    {
+      "id": "5aa16635ae33a4d3022baf5f",
+      "title": "Trabant NT: Designer gestaltet Vision eines Elektro-Trabbis",
+      "url": "https://www.golem.de/news/trabant-nt-designer-gestaltet-vision-eines-elektro-trabbis-2605-208936.html",
+      "published_at": "2026-05-21T14:25:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Trabant NT: Designer gestaltet Vision eines Elektro-Trabbis Ein Designer hat sich viel Mühe mit der Gestaltung einer modernen Version des Trabbis gemacht und Elemente des Originals eingebaut. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ee18aba9ba61d389f6d57019",
+      "title": "Auto: VW dementiert Gespräche über Werksnutzung durch China-Hersteller",
+      "url": "https://www.golem.de/news/auto-vw-dementiert-gespraeche-ueber-werke-mit-china-2605-208926.html",
+      "published_at": "2026-05-21T12:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Auto: VW dementiert Gespräche über Werksnutzung durch China-Hersteller Insidern zufolge soll VW mit Konkurrenten aus China über die Nutzung von Werken in Deutschland verhandeln. Konzernchef Blume widerspricht. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dd2d3a8441d866f55e773839",
+      "title": "SMA und Hyperstrong vereinbaren strategische Zusammenarbeit",
+      "url": "https://www.pv-magazine.de/2026/05/21/sma-und-hyperstrong-vereinbaren-strategische-zusammenarbeit/",
+      "published_at": "2026-05-21T08:48:20Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "SMA und Hyperstrong vereinbaren strategische Zusammenarbeit Das deutsche Photovoltaik- und Speicherunternehmen und der chinesische Anbieter von Energiespeicherlösungen wollen bei Großspeicher-Projekten weltweit kooperieren. Ziel sind vor allem Synergien in der Lieferkette und im technologischen Bereich.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "6e89336591bde7d1e321a813",
       "title": "Am Strommarkt amortisieren sich Gewerbespeicher noch schneller",

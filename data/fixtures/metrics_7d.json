@@ -1,19 +1,18 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-05-15": 1,
     "2026-05-18": 2,
-    "2026-05-19": 3,
-    "2026-05-20": 9,
-    "2026-05-21": 1
+    "2026-05-19": 2,
+    "2026-05-20": 6,
+    "2026-05-21": 4
   },
   "tag_counts": {
-    "industrie": 3,
+    "industrie": 4,
     "politik": 1,
-    "umwelt": 2
+    "umwelt": 1
   },
   "by_source_category": {
-    "national": 15,
+    "national": 13,
     "regional": 1
   }
 }

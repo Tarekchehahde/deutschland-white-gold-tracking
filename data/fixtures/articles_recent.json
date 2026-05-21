@@ -2,6 +2,41 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "5aa16635ae33a4d3022baf5f",
+      "title": "Trabant NT: Designer gestaltet Vision eines Elektro-Trabbis",
+      "url": "https://www.golem.de/news/trabant-nt-designer-gestaltet-vision-eines-elektro-trabbis-2605-208936.html",
+      "published_at": "2026-05-21T14:25:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Trabant NT: Designer gestaltet Vision eines Elektro-Trabbis Ein Designer hat sich viel Mühe mit der Gestaltung einer modernen Version des Trabbis gemacht und Elemente des Originals eingebaut. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ee18aba9ba61d389f6d57019",
+      "title": "Auto: VW dementiert Gespräche über Werksnutzung durch China-Hersteller",
+      "url": "https://www.golem.de/news/auto-vw-dementiert-gespraeche-ueber-werke-mit-china-2605-208926.html",
+      "published_at": "2026-05-21T12:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Auto: VW dementiert Gespräche über Werksnutzung durch China-Hersteller Insidern zufolge soll VW mit Konkurrenten aus China über die Nutzung von Werken in Deutschland verhandeln. Konzernchef Blume widerspricht. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dd2d3a8441d866f55e773839",
+      "title": "SMA und Hyperstrong vereinbaren strategische Zusammenarbeit",
+      "url": "https://www.pv-magazine.de/2026/05/21/sma-und-hyperstrong-vereinbaren-strategische-zusammenarbeit/",
+      "published_at": "2026-05-21T08:48:20Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "SMA und Hyperstrong vereinbaren strategische Zusammenarbeit Das deutsche Photovoltaik- und Speicherunternehmen und der chinesische Anbieter von Energiespeicherlösungen wollen bei Großspeicher-Projekten weltweit kooperieren. Ziel sind vor allem Synergien in der Lieferkette und im technologischen Bereich.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "6e89336591bde7d1e321a813",
       "title": "Am Strommarkt amortisieren sich Gewerbespeicher noch schneller",
       "url": "https://www.pv-magazine.de/2026/05/21/am-strommarkt-amortisieren-sich-gewerbespeicher-noch-schneller/",
@@ -35,19 +70,6 @@
       "regions": []
     },
     {
-      "id": "34294e264b25de0668649f6c",
-      "title": "Lithiumabbau: Mobile Lithiumextraktion in norddeutschem Tiefenwasser gestartet",
-      "url": "https://www.golem.de/news/lithiumabbau-mobile-lithiumextraktion-in-norddeutschem-tiefenwasser-gestartet-2605-208879.html",
-      "published_at": "2026-05-20T13:18:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Lithiumabbau: Mobile Lithiumextraktion in norddeutschem Tiefenwasser gestartet Die Pilotanlage zur Förderung von Lithium soll die technischen Grundlagen schaffen für einen wirtschaftlichen und umweltverträglichen Abbau. ( Lithium , Akku )",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
       "id": "73db85f4c05aeaba9f4b9542",
       "title": "Copenhagen Energy und Akaysha Energy planen Zwei-Gigawattstunden-Speicher bei Baden-Baden",
       "url": "https://www.pv-magazine.de/2026/05/20/copenhagen-energy-und-akaysha-energy-planen-zwei-gigawattstunden-speicher-bei-baden-baden/",
@@ -70,17 +92,6 @@
         "politik",
         "umwelt"
       ],
-      "regions": []
-    },
-    {
-      "id": "dfe54fe021500736c4416ebf",
-      "title": "Stellantis und Dongfeng setzen auf chinesische NEV-Technik für Europa",
-      "url": "https://www.heise.de/news/Stellantis-plant-mit-Dongfeng-gemeinsame-Produktion-in-Europa-11300466.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-20T10:05:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Stellantis und Dongfeng setzen auf chinesische NEV-Technik für Europa Die Autokonzerne Stellantis und Dongfeng wollen enger zusammenarbeiten. Geplant ist unter anderem die Produktion von Dongfeng-Elektroautos in Frankreich.",
-      "tags": [],
       "regions": []
     },
     {
@@ -110,17 +121,6 @@
       "regions": []
     },
     {
-      "id": "b8fc1fdfb3452579150959c1",
-      "title": "Warum hohe Ölpreise den Elektroauto-Boom befeuern",
-      "url": "https://www.heise.de/news/IEA-Hohes-Oelpreisniveau-kann-globalen-E-Auto-Boom-antreiben-11299995.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-20T06:01:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Warum hohe Ölpreise den Elektroauto-Boom befeuern Ein Viertel aller Neuwagen weltweit fährt elektrisch – und die Nachfrage steigt weiter. Wie hohe Ölpreise den Trend zusätzlich verstärken könnten.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "3bc942124c18e659616b12db",
       "title": "Ellwanger Batteriehersteller VARTA streicht 350 Stellen",
       "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-ellwanger-batteriehersteller-varta-schliesst-produktionslinie-in-noerdlingen-100.html",
@@ -145,17 +145,6 @@
       "regions": []
     },
     {
-      "id": "e0bef9780ab6c315287d1123",
-      "title": "Batteriehersteller Varta muss Werk in Bayern schließen – 350 Mitarbeiter verlieren ihre Jobs",
-      "url": "https://www.rnd.de/wirtschaft/batteriehersteller-varta-muss-werk-in-bayern-schliessen-350-mitarbeiter-verlieren-ihre-jobs-IUGIMCGHZBBSLFQTMA3NZUYWV4.html",
-      "published_at": "2026-05-19T11:55:23Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Batteriehersteller Varta muss Werk in Bayern schließen – 350 Mitarbeiter verlieren ihre Jobs Beim Batteriehersteller Varta springt ein Großkunde ab. Ein Werk in Nördlingen in Bayern muss schließen, rund 350 Jobs sind weg. Wie es nun weitergeht.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "1dd6c160283dc6452f7353a8",
       "title": "Lidl bietet 2,24 Kilowattstunden Speicher für 299 Euro an",
       "url": "https://www.pv-magazine.de/2026/05/18/lidl-bietet-224-kilowattstunden-speicher-fuer-299-euro-an/",
@@ -174,17 +163,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Photovoltaik und Batteriespeicher für Mieterstrom-Projekt in Köln Auf 55 Wohngebäuden entstehen 42 Photovoltaik-Anlagen mit rund 750 Kilowatt Leistung. Ergänzt werden sie mit Batteriespeichern mit 670 Kilowattstunden Gesamtkapazität. Die Investitionssumme liegt bei mehr als 1,28 Millionen Euro.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "47aa6d4407789710b765422f",
-      "title": "Studie sieht hohe Erlösrisiken für neue Gaskraftwerke in Deutschland",
-      "url": "https://www.pv-magazine.de/2026/05/15/studie-sieht-hohe-erloesrisiken-fuer-neue-gaskraftwerke-in-deutschland/",
-      "published_at": "2026-05-15T12:57:19Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Studie sieht hohe Erlösrisiken für neue Gaskraftwerke in Deutschland Die Analysten von Thema gehen davon aus, dass Gaskraftwerke nur in wenigen Knappheitsjahren ausreichend Erlöse mit Blick auf die Amortisation erzielen werden. Allerdings schmälern auch ein zu starker Ausbau von Gaskraftwerken und zusätzlich installierte Batteriespeicher sowie andere Flexibilitäten die Einnahmen über die gesamte L",
       "tags": [],
       "regions": []
     }
