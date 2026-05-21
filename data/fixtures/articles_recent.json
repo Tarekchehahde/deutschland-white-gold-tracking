@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "6e89336591bde7d1e321a813",
+      "title": "Am Strommarkt amortisieren sich Gewerbespeicher noch schneller",
+      "url": "https://www.pv-magazine.de/2026/05/21/am-strommarkt-amortisieren-sich-gewerbespeicher-noch-schneller/",
+      "published_at": "2026-05-21T07:58:28Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Am Strommarkt amortisieren sich Gewerbespeicher noch schneller Batteriespeicher werden vom passiven Instrument zur Effizienzsteigerung zu einem aktiven wirtschaftlichen Hebel, wie Trawa-Gründer und Geschäftsführer David Budde in seinem Beitrag erklärt.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "0f906951f3d22c45930b0d19",
       "title": "Fast perfekt für bestehende Balkonkraftwerke: Solarakku bei Lidl für 300 Euro",
       "url": "https://www.heise.de/news/Guter-Preis-eingeschraenkte-Steuerung-Solarakku-bei-Lidl-mit-2-kWh-fuer-300-Euro-11301440.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -73,17 +84,6 @@
       "regions": []
     },
     {
-      "id": "0ff69381cdab16e44e505465",
-      "title": "Elektromobilität: Solarzellen an Fahrzeugen senken Ladebedarf entscheidend",
-      "url": "https://www.golem.de/news/elektromobilitaet-solarzellen-an-fahrzeugen-senken-ladebedarf-entscheidend-2605-208862.html",
-      "published_at": "2026-05-20T09:40:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektromobilität: Solarzellen an Fahrzeugen senken Ladebedarf entscheidend Abhängig von Standort und Nutzung können bis zu 80 Prozent der Energie direkt erzeugt werden. Besonders Lkw können profitieren. ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "248e8f125222b3eff6e3e34d",
       "title": "Carbon gibt Pläne für Bau von Photovoltaik-Gigafactory in Frankreich auf",
       "url": "https://www.pv-magazine.de/2026/05/20/carbon-gibt-plaene-fuer-bau-von-photovoltaik-gigafactory-in-frankreich-auf/",
@@ -131,17 +131,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "dfff01a5244cce07471d1630",
-      "title": "Bayern: Batteriehersteller Varta schließt Werk bei Nördlingen",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-05/varta-werk-schliessung-noerdlingen-apple-knopfzellen-gxe",
-      "published_at": "2026-05-19T14:23:15Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "Bayern: Batteriehersteller Varta schließt Werk bei Nördlingen Bisher stellte Varta in Nördlingen vor allem Knopfzellen für AirPods her. Doch Apple hat die Zusammenarbeit offenbar beendet. 350 Beschäftigte verlieren wohl ihren Job.",
-      "tags": [],
       "regions": []
     },
     {

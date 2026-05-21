@@ -1,12 +1,23 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-05-20T20:31:30Z",
+  "generated_at_utc": "2026-05-21T08:43:30Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 45,
+  "total_in_archive": 46,
   "articles_per_month": {
-    "2026-05": 45
+    "2026-05": 46
   },
   "recent_for_ui": [
+    {
+      "id": "6e89336591bde7d1e321a813",
+      "title": "Am Strommarkt amortisieren sich Gewerbespeicher noch schneller",
+      "url": "https://www.pv-magazine.de/2026/05/21/am-strommarkt-amortisieren-sich-gewerbespeicher-noch-schneller/",
+      "published_at": "2026-05-21T07:58:28Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Am Strommarkt amortisieren sich Gewerbespeicher noch schneller Batteriespeicher werden vom passiven Instrument zur Effizienzsteigerung zu einem aktiven wirtschaftlichen Hebel, wie Trawa-Gründer und Geschäftsführer David Budde in seinem Beitrag erklärt.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "0f906951f3d22c45930b0d19",
       "title": "Fast perfekt für bestehende Balkonkraftwerke: Solarakku bei Lidl für 300 Euro",
