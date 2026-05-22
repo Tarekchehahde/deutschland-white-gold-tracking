@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "ddfc458b3fbe4ac123f6cc75",
+      "title": "Kia EV5 im Langstreckentest: Kantig und komfortabel kann Kia",
+      "url": "https://www.golem.de/news/kia-ev5-im-langstreckentest-kantig-und-komfortabel-kann-kia-2605-208920.html",
+      "published_at": "2026-05-22T08:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Kia EV5 im Langstreckentest: Kantig und komfortabel kann Kia Kias EV5 ist ein bequemer SUV, der sich gut für die Langstrecke eignet. Als 400-Volt-System steht das Elektroauto aber etwas länger an der Ladesäule. Ein Test von Tobias Költzsch ( Kia , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "5aa16635ae33a4d3022baf5f",
       "title": "Trabant NT: Designer gestaltet Vision eines Elektro-Trabbis",
       "url": "https://www.golem.de/news/trabant-nt-designer-gestaltet-vision-eines-elektro-trabbis-2605-208936.html",
@@ -48,17 +59,6 @@
       "regions": []
     },
     {
-      "id": "0f906951f3d22c45930b0d19",
-      "title": "Fast perfekt für bestehende Balkonkraftwerke: Solarakku bei Lidl für 300 Euro",
-      "url": "https://www.heise.de/news/Guter-Preis-eingeschraenkte-Steuerung-Solarakku-bei-Lidl-mit-2-kWh-fuer-300-Euro-11301440.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-20T18:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Fast perfekt für bestehende Balkonkraftwerke: Solarakku bei Lidl für 300 Euro Ab 21. Mai verkauft Lidl einen Solarstromspeicher für 299 Euro. Im Video ordnen wir das Angebot ein und geben eine Einschätzung ab, was der Solarakku kann.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "ca7d475f8d9bcdf3ded36187",
       "title": "Energie: Wie viel CO₂ Elektroautos wirklich sparen",
       "url": "https://www.faz.net/aktuell/wirtschaft/wie-viel-co-elektroautos-wirklich-sparen-200851179.html",
@@ -78,20 +78,6 @@
       "language": "de",
       "summary": "Copenhagen Energy und Akaysha Energy planen Zwei-Gigawattstunden-Speicher bei Baden-Baden Die Großbatterie mit 500 Megawatt Leistung soll nahe der Höchstspannungs-Infrastruktur und eines bestehenden Umspannwerks in der Stadt Bühl entstehen. Copenhagen Energy und Akaysha Energy haben ein Joint Venture gegründet, um große Batteriespeicher in Deutschland zu entwickeln.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b859c1969ab3dfc034cef04e",
-      "title": "Elektromobilität: Bereits rund 17.000 Anträge für die Kaufprämie bei Elektroautos",
-      "url": "https://www.zeit.de/wirtschaft/2026-05/elektroauto-kaufpraemie-foerderung-bundesumweltministeriums-carsten-schneider-gxe",
-      "published_at": "2026-05-20T10:43:10Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "Elektromobilität: Bereits rund 17.000 Anträge für die Kaufprämie bei Elektroautos Für den Kauf eines E-Autos gibt es bis zu 6.000 Euro staatliche Förderung. Einen Tag nach Verfahrensstart zählt das Bundesumweltministerium bereits tausende Anträge.",
-      "tags": [
-        "politik",
-        "umwelt"
-      ],
       "regions": []
     },
     {
