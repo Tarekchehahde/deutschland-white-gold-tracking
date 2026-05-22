@@ -1,17 +1,16 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-05-18": 2,
     "2026-05-19": 2,
-    "2026-05-20": 4,
-    "2026-05-21": 4,
-    "2026-05-22": 1
+    "2026-05-20": 3,
+    "2026-05-21": 2,
+    "2026-05-22": 7
   },
   "tag_counts": {
     "industrie": 4
   },
   "by_source_category": {
     "national": 12,
-    "regional": 1
+    "regional": 2
   }
 }

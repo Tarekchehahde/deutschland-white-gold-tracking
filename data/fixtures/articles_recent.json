@@ -2,6 +2,72 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "b84f3e4748017c50a40a680e",
+      "title": "Bundesnetzagentur billigt Verweigerung von Netzanschluss für Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/05/22/bundesnetzagentur-billigt-verweigerung-von-netzanschluss-fuer-batteriespeicher/",
+      "published_at": "2026-05-22T14:02:15Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bundesnetzagentur billigt Verweigerung von Netzanschluss für Batteriespeicher Eine Beschlusskammer der Behörde hat jüngst eine Entscheidung öffentlich gemacht. Sie lehnte einen Antrag auf ein \"Besonderes Missbrauchsverfahren\" eines Batteriespeicher-Investors gegen einen Verteilnetzbetreiber zu unbegründet ab, weil es die Begründung für die Verweigerung des Netzanschlusses für ausreichend hielt. Ei",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "590bff924e13aba9d5a20ab1",
+      "title": "Anzeige: Steigende Spritpreise - der Krieg als Motor der Verkehrswende",
+      "url": "https://www.golem.de/news/anzeige-steigende-spritpreise-der-krieg-als-motor-der-verkehrswende-2605-208938.html",
+      "published_at": "2026-05-22T13:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Steigende Spritpreise - der Krieg als Motor der Verkehrswende Im Zuge des Irankriegs sind die Benzinpreise zuletzt stark gestiegen. Das Interesse an Elektromobilität ist dadurch gewachsen. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8c229dad868450b1e6c0e217",
+      "title": "Anzeige: Turtle-Beach-Gaming-Tastatur fällt um fast 50 Euro auf neuen Tiefstpreis",
+      "url": "https://www.golem.de/news/anzeige-turtle-beach-gaming-tastatur-faellt-um-fast-50-euro-auf-neuen-tiefstpreis-2605-208965.html",
+      "published_at": "2026-05-22T11:29:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Turtle-Beach-Gaming-Tastatur fällt um fast 50 Euro auf neuen Tiefstpreis Die Turtle Beach Vulcan II TKL Pro bietet anpassbare Hall-Effekt-Schalter für kompetitives Gaming. Bei Amazon ist sie nun massiv reduziert. ( Technik/Hardware , Tastatur )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dd5fd04ad22e4cef541920bd",
+      "title": "Überraschung auf Automesse: Neue „E-Ente“ soll weniger als 15.000 Euro kosten",
+      "url": "https://rp-online.de/wirtschaft/unternehmen/pariser-automesse-citroen-bringt-die-ente-als-elektroauto-zurueck_aid-148739111",
+      "published_at": "2026-05-22T10:40:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Überraschung auf Automesse: Neue „E-Ente“ soll weniger als 15.000 Euro kosten Citroën will den legendären 2CV als reines Elektroauto neu auflegen – und nennt einen erstaunlichen Preis von unter 15.000 Euro. Im Oktober soll die „Elektro-Ente“ erstmals öffentlich zu sehen sein.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fb84991c2903e089418f9425",
+      "title": "Elektroauto: Xiaomi unterbietet Tesla mit noch günstigerer Version des YU7",
+      "url": "https://www.golem.de/news/elektroauto-xiaomi-unterbietet-tesla-mit-noch-guenstigerer-version-des-yu7-2605-208969.html",
+      "published_at": "2026-05-22T10:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Xiaomi unterbietet Tesla mit noch günstigerer Version des YU7 Xiaomis CEO findet den bisherigen Preis des YU7 nicht günstig genug - die neue Standard-Version liegt 3.800 Euro unter dem Preis des Model Y. ( Xiaomi , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "122c88f6fd2e970523a288d4",
+      "title": "Citroën kündigt Elektroauto mit dem Namen „2CV“ an",
+      "url": "https://www.heise.de/news/Citroen-kuendigt-Elektroauto-mit-dem-Namen-2CV-an-11304027.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-22T10:08:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Citroën kündigt Elektroauto mit dem Namen „2CV“ an Citroën kündigt ein neues Elektroauto im Geist des legendären 2CV an. Details sollen auf dem Pariser Autosalon im Oktober 2026 folgen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "ddfc458b3fbe4ac123f6cc75",
       "title": "Kia EV5 im Langstreckentest: Kantig und komfortabel kann Kia",
       "url": "https://www.golem.de/news/kia-ev5-im-langstreckentest-kantig-und-komfortabel-kann-kia-2605-208920.html",
@@ -9,28 +75,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Kia EV5 im Langstreckentest: Kantig und komfortabel kann Kia Kias EV5 ist ein bequemer SUV, der sich gut für die Langstrecke eignet. Als 400-Volt-System steht das Elektroauto aber etwas länger an der Ladesäule. Ein Test von Tobias Költzsch ( Kia , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5aa16635ae33a4d3022baf5f",
-      "title": "Trabant NT: Designer gestaltet Vision eines Elektro-Trabbis",
-      "url": "https://www.golem.de/news/trabant-nt-designer-gestaltet-vision-eines-elektro-trabbis-2605-208936.html",
-      "published_at": "2026-05-21T14:25:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Trabant NT: Designer gestaltet Vision eines Elektro-Trabbis Ein Designer hat sich viel Mühe mit der Gestaltung einer modernen Version des Trabbis gemacht und Elemente des Originals eingebaut. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ee18aba9ba61d389f6d57019",
-      "title": "Auto: VW dementiert Gespräche über Werksnutzung durch China-Hersteller",
-      "url": "https://www.golem.de/news/auto-vw-dementiert-gespraeche-ueber-werke-mit-china-2605-208926.html",
-      "published_at": "2026-05-21T12:23:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Auto: VW dementiert Gespräche über Werksnutzung durch China-Hersteller Insidern zufolge soll VW mit Konkurrenten aus China über die Nutzung von Werken in Deutschland verhandeln. Konzernchef Blume widerspricht. ( VW , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -55,17 +99,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Am Strommarkt amortisieren sich Gewerbespeicher noch schneller Batteriespeicher werden vom passiven Instrument zur Effizienzsteigerung zu einem aktiven wirtschaftlichen Hebel, wie Trawa-Gründer und Geschäftsführer David Budde in seinem Beitrag erklärt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ca7d475f8d9bcdf3ded36187",
-      "title": "Energie: Wie viel CO₂ Elektroautos wirklich sparen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wie-viel-co-elektroautos-wirklich-sparen-200851179.html",
-      "published_at": "2026-05-20T16:48:44Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Energie: Wie viel CO₂ Elektroautos wirklich sparen Die Internationale Energieagentur sieht bis zum Jahr 2035 weiter steigende Emissionen aus dem Verkehr. Potentielle Einsparungen mit Elektroantrieb machen nur wenige Prozent der Emissionen auf der Welt aus.",
       "tags": [],
       "regions": []
     },
@@ -127,28 +160,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Elektroautos können mit integrierter Photovoltaik in Mitteleuropa bis zu 55 Prozent ihres Strombedarfs decken Ein Forschungsprojekt von Fraunhofer ISE und Partnern zeigt, dass fahrzeugintegrierte Photovoltaik die Belastung der Stromnetze erheblich reduzieren kann. Das Konzept lohnt sich besonders im Logistiksektor, da die LKW für Kühlung, Heizung und Hilfsaggregate viel Strom verbrauchen und die D",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1dd6c160283dc6452f7353a8",
-      "title": "Lidl bietet 2,24 Kilowattstunden Speicher für 299 Euro an",
-      "url": "https://www.pv-magazine.de/2026/05/18/lidl-bietet-224-kilowattstunden-speicher-fuer-299-euro-an/",
-      "published_at": "2026-05-18T13:04:32Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Lidl bietet 2,24 Kilowattstunden Speicher für 299 Euro an Ab Donnerstag wird der Photovoltaik-Speicher in den Filialen für drei Tage und eine Woche online erhältlich sein. Wer einen per App steuerbaren Batteriespeicher erwerben will, muss 100 Euro drauflegen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "65614a73b7aac3039c1bbc10",
-      "title": "Photovoltaik und Batteriespeicher für Mieterstrom-Projekt in Köln",
-      "url": "https://www.pv-magazine.de/2026/05/18/photovoltaik-und-batteriespeicher-fuer-mieterstrom-projekt-in-koeln/",
-      "published_at": "2026-05-18T10:42:55Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Photovoltaik und Batteriespeicher für Mieterstrom-Projekt in Köln Auf 55 Wohngebäuden entstehen 42 Photovoltaik-Anlagen mit rund 750 Kilowatt Leistung. Ergänzt werden sie mit Batteriespeichern mit 670 Kilowattstunden Gesamtkapazität. Die Investitionssumme liegt bei mehr als 1,28 Millionen Euro.",
       "tags": [],
       "regions": []
     }
