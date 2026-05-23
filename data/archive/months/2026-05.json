@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-05",
-  "article_count": 57,
+  "article_count": 58,
   "articles": [
+    {
+      "id": "e38a47dd908c579ea1300b41",
+      "title": "Elektro-Kleinwagen: Citroën bringt die Ente zurück",
+      "url": "https://www.golem.de/news/elektro-kleinwagen-citroen-bringt-die-ente-zurueck-2605-208997.html",
+      "published_at": "2026-05-23T12:10:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektro-Kleinwagen: Citroën bringt die Ente zurück Der französische Hersteller Citroën will sich vom legendären 2CV inspirieren lassen. Der Preis des E-Car soll bei 15.000 Euro liegen. ( Citroën , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "698c3bb2bb4ab100da668604",
       "title": "Elektroauto kaufen? Laden, Reichweite, Komfort – Fahrer berichten",

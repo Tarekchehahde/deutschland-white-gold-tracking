@@ -2,13 +2,13 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "698c3bb2bb4ab100da668604",
-      "title": "Elektroauto kaufen? Laden, Reichweite, Komfort – Fahrer berichten",
-      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-laden-reichweite-komfort-fahrer-berichten-a-aab3cf7d-c753-4449-9815-f7d3cd7db810",
-      "published_at": "2026-05-23T07:20:00Z",
-      "source_id": "spiegel-schlagzeilen",
+      "id": "e38a47dd908c579ea1300b41",
+      "title": "Elektro-Kleinwagen: Citroën bringt die Ente zurück",
+      "url": "https://www.golem.de/news/elektro-kleinwagen-citroen-bringt-die-ente-zurueck-2605-208997.html",
+      "published_at": "2026-05-23T12:10:02Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "Elektroauto kaufen? Laden, Reichweite, Komfort – Fahrer berichten Elektroautos sind angesagt, der Staat fördert den Kauf. Für die meisten Deutschen sind die Fahrzeuge aber noch neu. Wir haben Menschen gefragt, die schon umgestiegen sind: Was hat Sie überrascht, was hat Sie enttäuscht?",
+      "summary": "Elektro-Kleinwagen: Citroën bringt die Ente zurück Der französische Hersteller Citroën will sich vom legendären 2CV inspirieren lassen. Der Preis des E-Car soll bei 15.000 Euro liegen. ( Citroën , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -145,19 +145,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "1Komma5° steuert ein Gigawatt Flexibilität aus privaten Photovoltaik-Speicheranlagen Das Hamburger Start-up meldet ein Gigawatt verschiebbare Leistung in seinem virtuellen Kraftwerk. CEO Philipp Schröder erklärt gegenüber pv magazine, wie das Unternehmen mit Heartbeat AI diese Reichweite mit privaten Photovoltaik-Anlagen, Batteriespeichern, Wärmepumpen und Wallboxen erreicht hat – und warum er die",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "3bc942124c18e659616b12db",
-      "title": "Ellwanger Batteriehersteller VARTA streicht 350 Stellen",
-      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-ellwanger-batteriehersteller-varta-schliesst-produktionslinie-in-noerdlingen-100.html",
-      "published_at": "2026-05-19T15:17:00Z",
-      "source_id": "tagesschau-bw",
-      "language": "de",
-      "summary": "Ellwanger Batteriehersteller VARTA streicht 350 Stellen Der Ellwanger Batteriehersteller VARTA stellt die Produktion von Knopfzellen am Standort in Nördlingen ein. Das teilte das Unternehmen mit. 350 Beschäftigte sind betroffen.",
       "tags": [
         "industrie"
       ],
