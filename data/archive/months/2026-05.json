@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-05",
-  "article_count": 58,
+  "article_count": 59,
   "articles": [
+    {
+      "id": "374463b42a38495ecee3b0eb",
+      "title": "Elektroauto: Tesla Cybercab ist der sparsamste Stromer",
+      "url": "https://www.golem.de/news/elektroauto-tesla-cybercab-ist-der-sparsamste-stromer-2605-209011.html",
+      "published_at": "2026-05-25T10:48:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Tesla Cybercab ist der sparsamste Stromer Das Tesla Cybercab verbraucht laut EPA-Zertifizierung 10,3 kWh auf 100 Kilometer. Kein anderes Serienfahrzeug erreicht annähernd diesen Wert. ( Cybercab , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e38a47dd908c579ea1300b41",
       "title": "Elektro-Kleinwagen: Citroën bringt die Ente zurück",
