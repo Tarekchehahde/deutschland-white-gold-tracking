@@ -1,8 +1,30 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-05",
-  "article_count": 61,
+  "article_count": 63,
   "articles": [
+    {
+      "id": "f94842c772360dfb02bbd92b",
+      "title": "Luce: Ferrari-Aktie verliert nach Elektroauto-Präsentation",
+      "url": "https://www.golem.de/news/luce-ferrari-aktie-verliert-nach-elektroauto-praesentation-deutlich-2605-209050.html",
+      "published_at": "2026-05-26T14:45:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Luce: Ferrari-Aktie verliert nach Elektroauto-Präsentation Der Markt ist offenbar nicht begeistert vom Ferrari Luce: Der Aktienkurs des italienischen Herstellers ist gesunken. ( Ferrari , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e7bfff7d82436222eb24ed16",
+      "title": "Ferrari Luce: Luxus-Elektroauto für über 500.000 Euro",
+      "url": "https://www.heise.de/news/Elektroauto-Ferrari-Luce-Strahlen-mit-Strom-11306144.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-26T09:29:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Ferrari Luce: Luxus-Elektroauto für über 500.000 Euro Ferraris erstes batterieelektrisches Modell ist ein geräumiger, 772 kW leistender GT-Crossover. Mit einem Preis von über 500.000 Euro ist es ziemlich teuer.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "a330c2134bbba10dff8ab32b",
       "title": "Studie zur China-Abhängigkeit: China dominiert Deutschlands Importe kritischer Güter",
