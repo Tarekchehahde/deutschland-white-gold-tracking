@@ -1,12 +1,36 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-05-25T19:59:56Z",
+  "generated_at_utc": "2026-05-26T08:43:57Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 59,
+  "total_in_archive": 61,
   "articles_per_month": {
-    "2026-05": 59
+    "2026-05": 61
   },
   "recent_for_ui": [
+    {
+      "id": "a330c2134bbba10dff8ab32b",
+      "title": "Studie zur China-Abhängigkeit: China dominiert Deutschlands Importe kritischer Güter",
+      "url": "https://rp-online.de/politik/deutschland/seltene-erden-deutschland-fast-nur-von-china-abhaengig_aid-148876055",
+      "published_at": "2026-05-26T06:59:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Studie zur China-Abhängigkeit: China dominiert Deutschlands Importe kritischer Güter Bei Lithium-Batterien, Antibiotika und Seltenen Erden wächst Deutschlands Abhängigkeit von China – entgegen den Zielen der Bundesregierung. Eine neue Studie schlägt Alarm.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "b52486887fbdb7ea891efaaf",
+      "title": "Supersportwagen Luce präsentiert: Ein Ferrari der besonderen Art für 550.000 Euro",
+      "url": "https://www.golem.de/news/supersportwagen-luce-praesentiert-ein-ferrari-der-besonderen-art-fuer-550-000-euro-2605-209015.html",
+      "published_at": "2026-05-25T22:48:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Supersportwagen Luce präsentiert: Ein Ferrari der besonderen Art für 550.000 Euro Der erste elektrische Ferrari liefert mit vier Motoren mehr als 1.000 PS. Nicht nur bei der Beschleunigung muss er sich dem Mercedes-AMG geschlagen geben. ( Ferrari , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "374463b42a38495ecee3b0eb",
       "title": "Elektroauto: Tesla Cybercab ist der sparsamste Stromer",
