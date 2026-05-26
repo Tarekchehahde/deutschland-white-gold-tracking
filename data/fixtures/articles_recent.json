@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "f94842c772360dfb02bbd92b",
+      "title": "Luce: Ferrari-Aktie verliert nach Elektroauto-Präsentation",
+      "url": "https://www.golem.de/news/luce-ferrari-aktie-verliert-nach-elektroauto-praesentation-deutlich-2605-209050.html",
+      "published_at": "2026-05-26T14:45:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Luce: Ferrari-Aktie verliert nach Elektroauto-Präsentation Der Markt ist offenbar nicht begeistert vom Ferrari Luce: Der Aktienkurs des italienischen Herstellers ist gesunken. ( Ferrari , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e7bfff7d82436222eb24ed16",
+      "title": "Ferrari Luce: Luxus-Elektroauto für über 500.000 Euro",
+      "url": "https://www.heise.de/news/Elektroauto-Ferrari-Luce-Strahlen-mit-Strom-11306144.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-26T09:29:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Ferrari Luce: Luxus-Elektroauto für über 500.000 Euro Ferraris erstes batterieelektrisches Modell ist ein geräumiger, 772 kW leistender GT-Crossover. Mit einem Preis von über 500.000 Euro ist es ziemlich teuer.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "a330c2134bbba10dff8ab32b",
       "title": "Studie zur China-Abhängigkeit: China dominiert Deutschlands Importe kritischer Güter",
       "url": "https://rp-online.de/politik/deutschland/seltene-erden-deutschland-fast-nur-von-china-abhaengig_aid-148876055",
@@ -15,39 +37,6 @@
       "regions": []
     },
     {
-      "id": "b52486887fbdb7ea891efaaf",
-      "title": "Supersportwagen Luce präsentiert: Ein Ferrari der besonderen Art für 550.000 Euro",
-      "url": "https://www.golem.de/news/supersportwagen-luce-praesentiert-ein-ferrari-der-besonderen-art-fuer-550-000-euro-2605-209015.html",
-      "published_at": "2026-05-25T22:48:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Supersportwagen Luce präsentiert: Ein Ferrari der besonderen Art für 550.000 Euro Der erste elektrische Ferrari liefert mit vier Motoren mehr als 1.000 PS. Nicht nur bei der Beschleunigung muss er sich dem Mercedes-AMG geschlagen geben. ( Ferrari , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "374463b42a38495ecee3b0eb",
-      "title": "Elektroauto: Tesla Cybercab ist der sparsamste Stromer",
-      "url": "https://www.golem.de/news/elektroauto-tesla-cybercab-ist-der-sparsamste-stromer-2605-209011.html",
-      "published_at": "2026-05-25T10:48:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Tesla Cybercab ist der sparsamste Stromer Das Tesla Cybercab verbraucht laut EPA-Zertifizierung 10,3 kWh auf 100 Kilometer. Kein anderes Serienfahrzeug erreicht annähernd diesen Wert. ( Cybercab , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e38a47dd908c579ea1300b41",
-      "title": "Elektro-Kleinwagen: Citroën bringt die Ente zurück",
-      "url": "https://www.golem.de/news/elektro-kleinwagen-citroen-bringt-die-ente-zurueck-2605-208997.html",
-      "published_at": "2026-05-23T12:10:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektro-Kleinwagen: Citroën bringt die Ente zurück Der französische Hersteller Citroën will sich vom legendären 2CV inspirieren lassen. Der Preis des E-Car soll bei 15.000 Euro liegen. ( Citroën , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "b84f3e4748017c50a40a680e",
       "title": "Bundesnetzagentur billigt Verweigerung von Netzanschluss für Batteriespeicher",
       "url": "https://www.pv-magazine.de/2026/05/22/bundesnetzagentur-billigt-verweigerung-von-netzanschluss-fuer-batteriespeicher/",
@@ -55,17 +44,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Bundesnetzagentur billigt Verweigerung von Netzanschluss für Batteriespeicher Eine Beschlusskammer der Behörde hat jüngst eine Entscheidung öffentlich gemacht. Sie lehnte einen Antrag auf ein \"Besonderes Missbrauchsverfahren\" eines Batteriespeicher-Investors gegen einen Verteilnetzbetreiber zu unbegründet ab, weil es die Begründung für die Verweigerung des Netzanschlusses für ausreichend hielt. Ei",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dd5fd04ad22e4cef541920bd",
-      "title": "Überraschung auf Automesse: Neue „E-Ente“ soll weniger als 15.000 Euro kosten",
-      "url": "https://rp-online.de/wirtschaft/unternehmen/pariser-automesse-citroen-bringt-die-ente-als-elektroauto-zurueck_aid-148739111",
-      "published_at": "2026-05-22T10:40:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Überraschung auf Automesse: Neue „E-Ente“ soll weniger als 15.000 Euro kosten Citroën will den legendären 2CV als reines Elektroauto neu auflegen – und nennt einen erstaunlichen Preis von unter 15.000 Euro. Im Oktober soll die „Elektro-Ente“ erstmals öffentlich zu sehen sein.",
       "tags": [],
       "regions": []
     },
@@ -115,30 +93,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "918d50db41874d8bc6452640",
-      "title": "1Komma5° steuert ein Gigawatt Flexibilität aus privaten Photovoltaik-Speicheranlagen",
-      "url": "https://www.pv-magazine.de/2026/05/20/1komma5-steuert-ein-gigawatt-flexibilitaet-aus-privaten-photovoltaik-speicheranlagen/",
-      "published_at": "2026-05-20T07:53:19Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "1Komma5° steuert ein Gigawatt Flexibilität aus privaten Photovoltaik-Speicheranlagen Das Hamburger Start-up meldet ein Gigawatt verschiebbare Leistung in seinem virtuellen Kraftwerk. CEO Philipp Schröder erklärt gegenüber pv magazine, wie das Unternehmen mit Heartbeat AI diese Reichweite mit privaten Photovoltaik-Anlagen, Batteriespeichern, Wärmepumpen und Wallboxen erreicht hat – und warum er die",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "dc7dcf55172ba3d0e42b2922",
-      "title": "Elektroautos können mit integrierter Photovoltaik in Mitteleuropa bis zu 55 Prozent ihres Strombedarfs decken",
-      "url": "https://www.pv-magazine.de/2026/05/19/elektroautos-koennen-mit-integrierter-photovoltaik-in-mitteleuropa-bis-zu-55-prozent-ihres-strombedarfs-decken/",
-      "published_at": "2026-05-19T12:45:47Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Elektroautos können mit integrierter Photovoltaik in Mitteleuropa bis zu 55 Prozent ihres Strombedarfs decken Ein Forschungsprojekt von Fraunhofer ISE und Partnern zeigt, dass fahrzeugintegrierte Photovoltaik die Belastung der Stromnetze erheblich reduzieren kann. Das Konzept lohnt sich besonders im Logistiksektor, da die LKW für Kühlung, Heizung und Hilfsaggregate viel Strom verbrauchen und die D",
-      "tags": [],
       "regions": []
     }
   ]
