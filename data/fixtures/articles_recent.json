@@ -2,6 +2,30 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "a330c2134bbba10dff8ab32b",
+      "title": "Studie zur China-Abhängigkeit: China dominiert Deutschlands Importe kritischer Güter",
+      "url": "https://rp-online.de/politik/deutschland/seltene-erden-deutschland-fast-nur-von-china-abhaengig_aid-148876055",
+      "published_at": "2026-05-26T06:59:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Studie zur China-Abhängigkeit: China dominiert Deutschlands Importe kritischer Güter Bei Lithium-Batterien, Antibiotika und Seltenen Erden wächst Deutschlands Abhängigkeit von China – entgegen den Zielen der Bundesregierung. Eine neue Studie schlägt Alarm.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "b52486887fbdb7ea891efaaf",
+      "title": "Supersportwagen Luce präsentiert: Ein Ferrari der besonderen Art für 550.000 Euro",
+      "url": "https://www.golem.de/news/supersportwagen-luce-praesentiert-ein-ferrari-der-besonderen-art-fuer-550-000-euro-2605-209015.html",
+      "published_at": "2026-05-25T22:48:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Supersportwagen Luce präsentiert: Ein Ferrari der besonderen Art für 550.000 Euro Der erste elektrische Ferrari liefert mit vier Motoren mehr als 1.000 PS. Nicht nur bei der Beschleunigung muss er sich dem Mercedes-AMG geschlagen geben. ( Ferrari , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "374463b42a38495ecee3b0eb",
       "title": "Elektroauto: Tesla Cybercab ist der sparsamste Stromer",
       "url": "https://www.golem.de/news/elektroauto-tesla-cybercab-ist-der-sparsamste-stromer-2605-209011.html",
@@ -42,17 +66,6 @@
       "source_id": "rp-online-wirtschaft",
       "language": "de",
       "summary": "Überraschung auf Automesse: Neue „E-Ente“ soll weniger als 15.000 Euro kosten Citroën will den legendären 2CV als reines Elektroauto neu auflegen – und nennt einen erstaunlichen Preis von unter 15.000 Euro. Im Oktober soll die „Elektro-Ente“ erstmals öffentlich zu sehen sein.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "122c88f6fd2e970523a288d4",
-      "title": "Citroën kündigt Elektroauto mit dem Namen „2CV“ an",
-      "url": "https://www.heise.de/news/Citroen-kuendigt-Elektroauto-mit-dem-Namen-2CV-an-11304027.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-22T10:08:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Citroën kündigt Elektroauto mit dem Namen „2CV“ an Citroën kündigt ein neues Elektroauto im Geist des legendären 2CV an. Details sollen auf dem Pariser Autosalon im Oktober 2026 folgen.",
       "tags": [],
       "regions": []
     },
