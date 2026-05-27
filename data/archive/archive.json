@@ -2,6 +2,72 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "e059e3b5a6884755bbf4fc6c",
+      "title": "Kaufprämie für E-Autos: Neun von zehn Anträgen für vollelektrische Autos",
+      "url": "https://www.golem.de/news/kaufpraemie-fuer-e-autos-neun-von-zehn-antraegen-fuer-vollelektrische-autos-2605-209067.html",
+      "published_at": "2026-05-27T08:27:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Kaufprämie für E-Autos: Neun von zehn Anträgen für vollelektrische Autos In der ersten Woche sind fast 33.000 Förderanträge für E-Autos gestellt worden. Ein hoher Anteil betrifft Haushalte mit niedrigem Einkommen. ( Elektroauto , Politik )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5c17a72259491bd655d2c8e2",
+      "title": "Luxus-Elektroauto aus Italien: Elektro-Ferrari Luce erntet heftige Kritik",
+      "url": "https://rp-online.de/wirtschaft/unternehmen/ferrari-luce-experten-zerreissen-das-design-des-elektroautos_aid-148939225",
+      "published_at": "2026-05-27T08:22:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Luxus-Elektroauto aus Italien: Elektro-Ferrari Luce erntet heftige Kritik Ferrari hat seinen ersten vollelektrischen Sportwagen vorgestellt – und die Reaktionen fallen vernichtend aus. Experten und Internetkommentatoren sind sich einig: Der Luce sieht nicht aus wie ein Ferrari. Die Börse straft den Hersteller prompt ab.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a41c52702a10a072a42502be",
+      "title": "NEUER Ferrari Luce: Es werde Licht",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/ferraris-segen-sei-mit-ihm-neuer-elektrosportwagen-luce-accg-200869470.html",
+      "published_at": "2026-05-27T08:07:48Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "NEUER Ferrari Luce: Es werde Licht Ferraris Segen sei mit ihm. Während andere Hersteller von ihren Elektroautoplänen abrücken, zeigen die Italiener ihren ersten vollelektrischen Sportwagen, den Luce. Der gefällt nicht jedem.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "680ad58934cac69487b1dcaa",
+      "title": "Elektromobilität in der Landwirtschaft: Ex-VW-Chef Diess will Elektro-Traktor bauen – und mit Diesel konkurrieren",
+      "url": "https://rp-online.de/wirtschaft/unternehmen/ex-vw-chef-diess-startet-mit-elektro-traktor-durch_aid-148937653",
+      "published_at": "2026-05-27T07:04:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität in der Landwirtschaft: Ex-VW-Chef Diess will Elektro-Traktor bauen – und mit Diesel konkurrieren Ab 2027 soll der Elektro-Traktor von Herbert Diess mit Diesel-Fahrzeugen wettbewerbsfähig sein – dank Wechsel-Akku, Solarstrom und attraktiver Preise. Der frühere VW-Chef hat große Pläne.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "62a73bb854cf7ad45e6172d9",
+      "title": "Mittwoch: Starlink-Verteuerung für Drohnen, Spotify liest aus Zeitschriften vor",
+      "url": "https://www.heise.de/news/Mittwoch-Starlink-Verteuerung-fuer-Drohnen-Spotify-liest-aus-Zeitschriften-vor-11307335.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-27T04:15:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Mittwoch: Starlink-Verteuerung für Drohnen, Spotify liest aus Zeitschriften vor Aufschlag für Kamikazedrohnen + Zeitschriftenartikel bei Spotify + Verleger gegen Wayback Machine + Elektro-SUV BMW iX3 im Test + Luxus-Elektroauto von Ferrari",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "274e88dc5900d67c8b092049",
+      "title": "Ferrari wagt den Elektro-Kurswechsel",
+      "url": "https://www.zdfheute.de/video/heute-journal/ferrari-elektro-kurswechsel-100.html",
+      "published_at": "2026-05-26T19:45:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "Ferrari wagt den Elektro-Kurswechsel Kurswechsel in Maranello: Mit „Luce“ steigt Ferrari in die Elektromobilität ein. Ein 1000-PS-Sportwagen, der Tradition und Zukunft auf vier Rädern vereinen soll.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "f94842c772360dfb02bbd92b",
       "title": "Luce: Ferrari-Aktie verliert nach Elektroauto-Präsentation",
       "url": "https://www.golem.de/news/luce-ferrari-aktie-verliert-nach-elektroauto-praesentation-deutlich-2605-209050.html",
