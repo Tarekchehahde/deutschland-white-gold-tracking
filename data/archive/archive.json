@@ -2,6 +2,61 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "099fbbb92c235c3ba611795d",
+      "title": "Bundesnetzagentur: Netzentgeltbefreiung für Batteriespeicher bleibt bis 2029 – Mehrkosten für Prosumer",
+      "url": "https://www.pv-magazine.de/2026/05/27/bundesnetzagentur-netzentgeltbefreiung-fuer-batteriespeicher-bleibt-bis-2029-mehrkosten-fuer-prosumer/",
+      "published_at": "2026-05-27T17:02:12Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bundesnetzagentur: Netzentgeltbefreiung für Batteriespeicher bleibt bis 2029 – Mehrkosten für Prosumer Nach dem vorläufigen Zwischenstand der Behörde ist vorgesehen, dass Prosumer künftig über einen höheren Arbeitspreis stärker an den Netzkosten beteiligt werden. Die Netzentgeltbefreiung für Batteriespeicher soll unter bestimmten Bedingungen erhalten bleiben. Dynamische Netzentgelte wird es wohl f",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5f27c4ee09dd007970c0c224",
+      "title": "Landmaschinen: Ex-VW-Chef Diess will Elektro-Traktor auf den Markt bringen",
+      "url": "https://www.golem.de/news/landmaschinen-ex-vw-chef-diess-will-elektro-traktor-auf-den-markt-bringen-2605-209104.html",
+      "published_at": "2026-05-27T14:35:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Landmaschinen: Ex-VW-Chef Diess will Elektro-Traktor auf den Markt bringen Früher VW-Boss, jetzt Landmaschinen-Pionier? Herbert Diess plant einen E-Traktor mit Wechsel-Akkus für Landwirte. ( Herbert Diess , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c1bf8a1111c151d622a34c1d",
+      "title": "Kritik an Ferrari Luce: Das Dilemma der elektrischen Supersportwagen",
+      "url": "https://www.golem.de/news/kritik-an-ferrari-luce-das-dilemma-der-elektrischen-supersportwagen-2605-209085.html",
+      "published_at": "2026-05-27T12:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Kritik an Ferrari Luce: Das Dilemma der elektrischen Supersportwagen Der vollelektrische Luce kommt bei den Ferrari-Fans nicht gut an. Das liegt nur teilweise an den Herausforderungen der E-Mobilität im Sportwagenbereich. Eine Analyse von Friedhelm Greis ( Ferrari , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "80675008ee1df92ccbbf3337",
+      "title": "Jetzt steigt auch Ferrari ein: Elektromobilität für Superreiche",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/ferrari-elektromobilitaet-superreiche-100.html",
+      "published_at": "2026-05-27T09:44:23Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Jetzt steigt auch Ferrari ein: Elektromobilität für Superreiche Auch Luxusmarken setzten auf Elektroantrieb. Nach Herstellern wie Porsche, Rolls-Royce oder Maserati steigt auch Ferrari ins exklusive E-Auto-Segment ein. Kann eine solche Strategie aufgehen? Von Claudia Wehrle.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "64b3b9d783945507b6af509f",
+      "title": "Elektroautos boomen in der EU, Verbrenner brechen zweistellig ein",
+      "url": "https://www.heise.de/news/EU-Neuzulassungen-Elektroautos-erreichen-fast-20-Prozent-Marktanteil-11307631.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-05-27T08:46:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroautos boomen in der EU, Verbrenner brechen zweistellig ein Batterieelektrische Autos kommen in der EU bis April 2026 auf 19,7 Prozent Marktanteil. Der Anteil von Benzinern und Diesel fällt auf 30 Prozent.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "e059e3b5a6884755bbf4fc6c",
       "title": "Kaufprämie für E-Autos: Neun von zehn Anträgen für vollelektrische Autos",
       "url": "https://www.golem.de/news/kaufpraemie-fuer-e-autos-neun-von-zehn-antraegen-fuer-vollelektrische-autos-2605-209067.html",
