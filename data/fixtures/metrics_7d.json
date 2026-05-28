@@ -2,12 +2,15 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-05-26": 1,
-    "2026-05-27": 10
+    "2026-05-27": 7,
+    "2026-05-28": 4
   },
-  "tag_counts": {},
+  "tag_counts": {
+    "industrie": 1
+  },
   "by_source_category": {
     "broadcast": 1,
     "national": 8,
-    "regional": 2
+    "regional": 3
   }
 }

@@ -1,8 +1,54 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-05",
-  "article_count": 74,
+  "article_count": 78,
   "articles": [
+    {
+      "id": "9990a8e09a00aba812728ad3",
+      "title": "Flexibilität zahlt sich aus: Batterieerlöse im April 2026",
+      "url": "https://www.pv-magazine.de/2026/05/28/flexibilitaet-zahlt-sich-aus-batterieerloese-im-april-2026/",
+      "published_at": "2026-05-28T08:04:07Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Flexibilität zahlt sich aus: Batterieerlöse im April 2026 Der April 2026 war geprägt von stark steigenden Negativpreisen, wachsendem Solarstromüberangebot zur Mittagszeit und einer deutlich höheren Volatilität an den deutschen Strommärkten. Für Batteriespeicherbetreiber resultierte daraus jedoch eines der bislang attraktivsten Handelsumfelder des Jahres. Lennard Wilkening, CEO und Mitgründer von S",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9f71c05edf717e50f5603c2a",
+      "title": "Lobito-Korridor: Rohstoffe aus Afrika sollen Europas Abhängigkeit von China brechen",
+      "url": "https://rp-online.de/wirtschaft/eu-investiert-milliarden-in-lobito-korridor-gegen-china_aid-148995699",
+      "published_at": "2026-05-28T05:02:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Lobito-Korridor: Rohstoffe aus Afrika sollen Europas Abhängigkeit von China brechen Eine neue Bahnroute durch Afrika soll Europa mit Kupfer, Kobalt und Lithium versorgen – und Chinas wachsenden Einfluss auf dem Kontinent zurückdrängen. Deutsche Unternehmen sind bereits involviert.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "15a5885740cf3bc7857a614f",
+      "title": "Patentanmeldungen: Deutsche Erfinder punkten bei Erneuerbaren und Batterien",
+      "url": "https://rp-online.de/wirtschaft/patente-deutsche-erfinder-punkten-bei-batterien-solar-und-windkraft_aid-148995505",
+      "published_at": "2026-05-28T03:25:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Patentanmeldungen: Deutsche Erfinder punkten bei Erneuerbaren und Batterien Vom Handy bis zur Dunkelflaute: Clevere Energiespeicher sind gefragt. Daran tüfteln viele Deutsche. Seit 2021 hat sich die Zahl der angemeldeten Patente für Batterien verdreifacht. Bei der Solartechnik erfindet nur China mehr.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "92c8ad04bada6b2aa0cc164b",
+      "title": "Luce: Ferrari hat sein erstes reines Elektroauto vorgestellt, viele Fans fühlen sich verraten",
+      "url": "https://www.spiegel.de/mobilitaet/luce-ferrari-hat-sein-erstes-reines-elektroauto-vorgestellt-viele-fans-fuehlen-sich-verraten-a-76ebb1b5-d233-44ed-ab0e-0dcf19148176",
+      "published_at": "2026-05-28T00:00:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Luce: Ferrari hat sein erstes reines Elektroauto vorgestellt, viele Fans fühlen sich verraten",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "099fbbb92c235c3ba611795d",
       "title": "Bundesnetzagentur: Netzentgeltbefreiung für Batteriespeicher bleibt bis 2029 – Mehrkosten für Prosumer",
