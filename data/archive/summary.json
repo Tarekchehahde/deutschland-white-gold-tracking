@@ -1,12 +1,113 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-05-28T08:53:43Z",
+  "generated_at_utc": "2026-05-28T20:37:55Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 78,
+  "total_in_archive": 87,
   "articles_per_month": {
-    "2026-05": 78
+    "2026-05": 87
   },
   "recent_for_ui": [
+    {
+      "id": "409b9aa7f7f2a1737c043fc9",
+      "title": "Researchers develop a new process to get lithium out of rocks",
+      "url": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
+      "published_at": "2026-05-28T19:30:04Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "Researchers develop a new process to get lithium out of rocks If it scales up, it can help us diversify our sources of a key element.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2156429659cb4b59bcfca97f",
+      "title": "Amazon turns to Jeff Bezos' other company to do some heavy lifting",
+      "url": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
+      "published_at": "2026-05-28T18:17:41Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "Amazon turns to Jeff Bezos' other company to do some heavy lifting Amazon is turning a corner with its launch providers, but ULA's Vulcan remains grounded.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5f7b636ccb867b8c4ca69665",
+      "title": "Autonomes Fahren: Tesla soll im großen Stil bei Robotaxis tricksen",
+      "url": "https://www.golem.de/news/autonomes-fahren-tesla-soll-im-grossen-stil-bei-robotaxis-tricksen-2605-209157.html",
+      "published_at": "2026-05-28T16:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Tesla soll im großen Stil bei Robotaxis tricksen Nach Angaben ehemaliger Mitarbeiter treffen Elon Musks Behauptungen über Teslas Robotaxis häufig nicht zu. Sie würden sich nicht damit fahren lassen. ( Autonomes Fahren , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "be904dc05d55b6a6f65e8b92",
+      "title": "Start-up des Monats: Delta Charge rüstet gewerbliche Standorte für die Lkw-Elektrifizierung",
+      "url": "https://www.pv-magazine.de/2026/05/28/start-up-des-monats-delta-charge-ruestet-gewerbliche-standorte-fuer-die-lkw-elektrifizierung/",
+      "published_at": "2026-05-28T14:06:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Start-up des Monats: Delta Charge rüstet gewerbliche Standorte für die Lkw-Elektrifizierung Das deutsch-schwedische Start-up plant, finanziert, baut und betreibt Lade- und Batteriespeicherlösungen für Gewerbestandorte. Statt einzelner Komponenten verspricht Delta Charge eine Gesamtlösung – inklusive garantiertem Strompreis an der Ladesäule für Lastwagen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8b9f03db1a2f6eb1cd855117",
+      "title": "AgNeS-Zwischenbericht: Verbände sehen bei geplanter Reform der Netzentgelte Licht und Schatten",
+      "url": "https://www.pv-magazine.de/2026/05/28/agnes-zwischenbericht-verbaende-sehen-bei-geplanter-reform-der-netzentgelte-licht-und-schatten/",
+      "published_at": "2026-05-28T12:26:37Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "AgNeS-Zwischenbericht: Verbände sehen bei geplanter Reform der Netzentgelte Licht und Schatten Der geplante Prosumer-Aufschlag stößt auf viel Kritik. Einhellig positiv werten die Verbände aus der Energiewirtschaft, dass die Netzentgeltbefreiung für Großspeicher erst einmal bleibt. Der Bundesverband Energiespeicher Systeme begrüßt, dass die Behörde Speicher nun klar als Flexibilitätsoption und nich",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "664fa2ed4083a31970f80e43",
+      "title": "Elektromobilität: Plötzlich schwindet die E-Auto-Skepsis",
+      "url": "https://www.sueddeutsche.de/wirtschaft/e-auto-umstieg-verbrenner-mobilitaet-foerderung-li.3490253",
+      "published_at": "2026-05-28T11:42:50Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Plötzlich schwindet die E-Auto-Skepsis Immer mehr Menschen steigen vom Verbrenner aufs E-Auto um – besonders junge Autofahrer. Woran das liegt und was die neue Förderung damit zu tun hat.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6fc1c282c5e7c944e9ccbd26",
+      "title": "Kyon Energy baut drei Batteriespeicher mit zusammen 273 Megawatt Leistung",
+      "url": "https://www.pv-magazine.de/2026/05/28/kyon-energy-baut-drei-batteriespeicher-mit-zusammen-273-megawatt-leistung/",
+      "published_at": "2026-05-28T10:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Kyon Energy baut drei Batteriespeicher mit zusammen 273 Megawatt Leistung Die Anlagen entstehen in Nordrhein-Westfalen, Sachsen-Anhalt und Schleswig-Holstein. Kyon Energy übernimmt Projektentwicklung, Bau und Betrieb der Großspeicher. Deren Kapazität beträgt zusammen 552 Megawattstunden.",
+      "tags": [],
+      "regions": [
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "46973f359023a0e958411d60",
+      "title": "Netzentgeltbefreiung für Batteriespeicher bleibt – aber das Fenster schließt sich",
+      "url": "https://www.pv-magazine.de/2026/05/28/netzentgeltbefreiung-fuer-batteriespeicher-bleibt-aber-das-fenster-schliesst-sich/",
+      "published_at": "2026-05-28T09:21:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Netzentgeltbefreiung für Batteriespeicher bleibt – aber das Fenster schließt sich Eine Einordnung zur AgNes-Entscheidung der Bundesnetzagentur von Marco Scholz, Managing Director NGEN Germany",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "76a403127cacc372381fd086",
+      "title": "Bidirektionales Laden: Startschuss für Pilotbetrieb im Forschungsprojekt „BDL Next“",
+      "url": "https://www.pv-magazine.de/2026/05/28/bidirektionales-laden-startschuss-fuer-pilotbetrieb-im-forschungsprojekt-bdl-next/",
+      "published_at": "2026-05-28T08:50:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bidirektionales Laden: Startschuss für Pilotbetrieb im Forschungsprojekt „BDL Next“ Ein Konsortium unter Leitung der Forschungsstelle für Energiewirtschaft erprobt unter anderem, wie sich das flexible Be- und Entladen von Elektroautos in bestehende Netz- und Marktprozesse integrieren lässt. Ein weiterer Schwerpunkt ist die Verknüpfung mit Photovoltaik.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "9990a8e09a00aba812728ad3",
       "title": "Flexibilität zahlt sich aus: Batterieerlöse im April 2026",
