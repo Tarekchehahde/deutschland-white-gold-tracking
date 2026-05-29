@@ -2,6 +2,77 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "afa09dcf5bcf103ab9911a83",
+      "title": "Anzeige: Mobile Wallbox mit 11kW und Kabel wieder unter 170 Euro bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-mit-11kw-und-kabel-wieder-unter-170-euro-bei-amazon-2605-209211.html",
+      "published_at": "2026-05-29T14:44:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Mobile Wallbox mit 11kW und Kabel wieder unter 170 Euro bei Amazon Die mobile 11-kW-Wallbox lädt E-Autos (Typ 2) einfach und flexibel an der CEE-Steckdose und ist bei Amazon jetzt wieder günstiger zu haben. ( Technik/Hardware , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fe3a45bee8c3c5474085c4a1",
+      "title": "MIT-Studie: Kreislaufprozess zur Lithiumgewinnung aus Stein entwickelt",
+      "url": "https://www.golem.de/news/mit-studie-kreislaufprozess-zur-lithiumgewinnung-aus-stein-entwickelt-2605-209207.html",
+      "published_at": "2026-05-29T14:20:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "MIT-Studie: Kreislaufprozess zur Lithiumgewinnung aus Stein entwickelt Mit wiederverwertbaren Chemikalien und geringem Energieeinsatz könnte der Abbau von Lithium und weiteren wichtigen Rohstoffen weltweit umgesetzt werden. ( Lithium , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8180f88d005a4ede0ae23279",
+      "title": "Elektro-Sportwagen: Bestellungen für Ferrari Luce sollen schon bis Ende 2027 reichen",
+      "url": "https://www.golem.de/news/elektro-sportwagen-bestellungen-fuer-ferrari-luce-sollen-schon-bis-ende-2027-reichen-2605-209200.html",
+      "published_at": "2026-05-29T13:05:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektro-Sportwagen: Bestellungen für Ferrari Luce sollen schon bis Ende 2027 reichen Trotz viel Kritik scheint Ferrari mit den bisherigen Bestellungen seines ersten Elektroautos Luce zufrieden zu sein. ( Ferrari , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d426a894cdd2178d795c7c52",
+      "title": "Prämie für Elektroautos: Nichts geschenkt",
+      "url": "https://www.faz.net/aktuell/technik-motor/kaufpraemie-fuer-elektroautos-wird-teuer-200858475.html",
+      "published_at": "2026-05-29T12:41:03Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Prämie für Elektroautos: Nichts geschenkt Die Freude über die neue Kaufprämie für Elektroautos ist groß, zumindest unter den Nutznießern. Doch das jetzt gesparte Geld könnte bald schon wieder verloren sein.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a61102b3e8f7e11de1bf0795",
+      "title": "Nextpower steigt ins Energiespeichergeschäft ein",
+      "url": "https://www.pv-magazine.de/2026/05/29/nextpower-steigt-ins-energiespeichergeschaeft-ein/",
+      "published_at": "2026-05-29T11:11:55Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Nextpower steigt ins Energiespeichergeschäft ein Nextpower sieht im Markt für Batteriespeichersysteme enormes Potenzial, unter anderem wegen des Ausbaus von KI-Rechenzentren. Das US-Unternehmen will daher Prevalon Energy übernehmen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "7b363ba850b945e879ac893f",
+      "title": "Northvolt in Heide: Schleswig-Holstein hat gegen Informationspflicht verstoßen",
+      "url": "https://www.golem.de/news/northvolt-in-heide-schleswig-holstein-hat-gegen-informationspflicht-verstossen-2605-209195.html",
+      "published_at": "2026-05-29T11:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Northvolt in Heide: Schleswig-Holstein hat gegen Informationspflicht verstoßen Die Regierung Schleswig-Holsteins informiert nicht ausreichend über Bedenken zur Finanzierung einer Batteriefabrik in Heide. ( Unternehmen , Wirtschaft )",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
+      "regions": []
+    },
+    {
       "id": "1496fe754fa55ad2e15fa1ea",
       "title": "Stromspeicher: Feuerfeste Natriumbatterie für den Einsatz zu Hause",
       "url": "https://www.golem.de/news/stromspeicher-feuerfeste-natriumbatterie-fuer-den-einsatz-zu-hause-2605-209179.html",
@@ -35,28 +106,6 @@
       "regions": []
     },
     {
-      "id": "2156429659cb4b59bcfca97f",
-      "title": "Amazon turns to Jeff Bezos' other company to do some heavy lifting",
-      "url": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
-      "published_at": "2026-05-28T18:17:41Z",
-      "source_id": "arstechnica-all",
-      "language": "en",
-      "summary": "Amazon turns to Jeff Bezos' other company to do some heavy lifting Amazon is turning a corner with its launch providers, but ULA's Vulcan remains grounded.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5f7b636ccb867b8c4ca69665",
-      "title": "Autonomes Fahren: Tesla soll im großen Stil bei Robotaxis tricksen",
-      "url": "https://www.golem.de/news/autonomes-fahren-tesla-soll-im-grossen-stil-bei-robotaxis-tricksen-2605-209157.html",
-      "published_at": "2026-05-28T16:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Tesla soll im großen Stil bei Robotaxis tricksen Nach Angaben ehemaliger Mitarbeiter treffen Elon Musks Behauptungen über Teslas Robotaxis häufig nicht zu. Sie würden sich nicht damit fahren lassen. ( Autonomes Fahren , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "be904dc05d55b6a6f65e8b92",
       "title": "Start-up des Monats: Delta Charge rüstet gewerbliche Standorte für die Lkw-Elektrifizierung",
       "url": "https://www.pv-magazine.de/2026/05/28/start-up-des-monats-delta-charge-ruestet-gewerbliche-standorte-fuer-die-lkw-elektrifizierung/",
@@ -75,87 +124,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "AgNeS-Zwischenbericht: Verbände sehen bei geplanter Reform der Netzentgelte Licht und Schatten Der geplante Prosumer-Aufschlag stößt auf viel Kritik. Einhellig positiv werten die Verbände aus der Energiewirtschaft, dass die Netzentgeltbefreiung für Großspeicher erst einmal bleibt. Der Bundesverband Energiespeicher Systeme begrüßt, dass die Behörde Speicher nun klar als Flexibilitätsoption und nich",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "664fa2ed4083a31970f80e43",
-      "title": "Elektromobilität: Plötzlich schwindet die E-Auto-Skepsis",
-      "url": "https://www.sueddeutsche.de/wirtschaft/e-auto-umstieg-verbrenner-mobilitaet-foerderung-li.3490253",
-      "published_at": "2026-05-28T11:42:50Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "Elektromobilität: Plötzlich schwindet die E-Auto-Skepsis Immer mehr Menschen steigen vom Verbrenner aufs E-Auto um – besonders junge Autofahrer. Woran das liegt und was die neue Förderung damit zu tun hat.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6fc1c282c5e7c944e9ccbd26",
-      "title": "Kyon Energy baut drei Batteriespeicher mit zusammen 273 Megawatt Leistung",
-      "url": "https://www.pv-magazine.de/2026/05/28/kyon-energy-baut-drei-batteriespeicher-mit-zusammen-273-megawatt-leistung/",
-      "published_at": "2026-05-28T10:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Kyon Energy baut drei Batteriespeicher mit zusammen 273 Megawatt Leistung Die Anlagen entstehen in Nordrhein-Westfalen, Sachsen-Anhalt und Schleswig-Holstein. Kyon Energy übernimmt Projektentwicklung, Bau und Betrieb der Großspeicher. Deren Kapazität beträgt zusammen 552 Megawattstunden.",
-      "tags": [],
-      "regions": [
-        "DE-ST"
-      ]
-    },
-    {
-      "id": "46973f359023a0e958411d60",
-      "title": "Netzentgeltbefreiung für Batteriespeicher bleibt – aber das Fenster schließt sich",
-      "url": "https://www.pv-magazine.de/2026/05/28/netzentgeltbefreiung-fuer-batteriespeicher-bleibt-aber-das-fenster-schliesst-sich/",
-      "published_at": "2026-05-28T09:21:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Netzentgeltbefreiung für Batteriespeicher bleibt – aber das Fenster schließt sich Eine Einordnung zur AgNes-Entscheidung der Bundesnetzagentur von Marco Scholz, Managing Director NGEN Germany",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "76a403127cacc372381fd086",
-      "title": "Bidirektionales Laden: Startschuss für Pilotbetrieb im Forschungsprojekt „BDL Next“",
-      "url": "https://www.pv-magazine.de/2026/05/28/bidirektionales-laden-startschuss-fuer-pilotbetrieb-im-forschungsprojekt-bdl-next/",
-      "published_at": "2026-05-28T08:50:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Bidirektionales Laden: Startschuss für Pilotbetrieb im Forschungsprojekt „BDL Next“ Ein Konsortium unter Leitung der Forschungsstelle für Energiewirtschaft erprobt unter anderem, wie sich das flexible Be- und Entladen von Elektroautos in bestehende Netz- und Marktprozesse integrieren lässt. Ein weiterer Schwerpunkt ist die Verknüpfung mit Photovoltaik.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9990a8e09a00aba812728ad3",
-      "title": "Flexibilität zahlt sich aus: Batterieerlöse im April 2026",
-      "url": "https://www.pv-magazine.de/2026/05/28/flexibilitaet-zahlt-sich-aus-batterieerloese-im-april-2026/",
-      "published_at": "2026-05-28T08:04:07Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Flexibilität zahlt sich aus: Batterieerlöse im April 2026 Der April 2026 war geprägt von stark steigenden Negativpreisen, wachsendem Solarstromüberangebot zur Mittagszeit und einer deutlich höheren Volatilität an den deutschen Strommärkten. Für Batteriespeicherbetreiber resultierte daraus jedoch eines der bislang attraktivsten Handelsumfelder des Jahres. Lennard Wilkening, CEO und Mitgründer von S",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9f71c05edf717e50f5603c2a",
-      "title": "Lobito-Korridor: Rohstoffe aus Afrika sollen Europas Abhängigkeit von China brechen",
-      "url": "https://rp-online.de/wirtschaft/eu-investiert-milliarden-in-lobito-korridor-gegen-china_aid-148995699",
-      "published_at": "2026-05-28T05:02:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Lobito-Korridor: Rohstoffe aus Afrika sollen Europas Abhängigkeit von China brechen Eine neue Bahnroute durch Afrika soll Europa mit Kupfer, Kobalt und Lithium versorgen – und Chinas wachsenden Einfluss auf dem Kontinent zurückdrängen. Deutsche Unternehmen sind bereits involviert.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "15a5885740cf3bc7857a614f",
-      "title": "Patentanmeldungen: Deutsche Erfinder punkten bei Erneuerbaren und Batterien",
-      "url": "https://rp-online.de/wirtschaft/patente-deutsche-erfinder-punkten-bei-batterien-solar-und-windkraft_aid-148995505",
-      "published_at": "2026-05-28T03:25:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Patentanmeldungen: Deutsche Erfinder punkten bei Erneuerbaren und Batterien Vom Handy bis zur Dunkelflaute: Clevere Energiespeicher sind gefragt. Daran tüfteln viele Deutsche. Seit 2021 hat sich die Zahl der angemeldeten Patente für Batterien verdreifacht. Bei der Solartechnik erfindet nur China mehr.",
       "tags": [],
       "regions": []
     },
