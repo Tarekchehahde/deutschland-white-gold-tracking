@@ -2,6 +2,77 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "afa09dcf5bcf103ab9911a83",
+      "title": "Anzeige: Mobile Wallbox mit 11kW und Kabel wieder unter 170 Euro bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-mit-11kw-und-kabel-wieder-unter-170-euro-bei-amazon-2605-209211.html",
+      "published_at": "2026-05-29T14:44:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Mobile Wallbox mit 11kW und Kabel wieder unter 170 Euro bei Amazon Die mobile 11-kW-Wallbox lädt E-Autos (Typ 2) einfach und flexibel an der CEE-Steckdose und ist bei Amazon jetzt wieder günstiger zu haben. ( Technik/Hardware , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fe3a45bee8c3c5474085c4a1",
+      "title": "MIT-Studie: Kreislaufprozess zur Lithiumgewinnung aus Stein entwickelt",
+      "url": "https://www.golem.de/news/mit-studie-kreislaufprozess-zur-lithiumgewinnung-aus-stein-entwickelt-2605-209207.html",
+      "published_at": "2026-05-29T14:20:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "MIT-Studie: Kreislaufprozess zur Lithiumgewinnung aus Stein entwickelt Mit wiederverwertbaren Chemikalien und geringem Energieeinsatz könnte der Abbau von Lithium und weiteren wichtigen Rohstoffen weltweit umgesetzt werden. ( Lithium , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8180f88d005a4ede0ae23279",
+      "title": "Elektro-Sportwagen: Bestellungen für Ferrari Luce sollen schon bis Ende 2027 reichen",
+      "url": "https://www.golem.de/news/elektro-sportwagen-bestellungen-fuer-ferrari-luce-sollen-schon-bis-ende-2027-reichen-2605-209200.html",
+      "published_at": "2026-05-29T13:05:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektro-Sportwagen: Bestellungen für Ferrari Luce sollen schon bis Ende 2027 reichen Trotz viel Kritik scheint Ferrari mit den bisherigen Bestellungen seines ersten Elektroautos Luce zufrieden zu sein. ( Ferrari , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d426a894cdd2178d795c7c52",
+      "title": "Prämie für Elektroautos: Nichts geschenkt",
+      "url": "https://www.faz.net/aktuell/technik-motor/kaufpraemie-fuer-elektroautos-wird-teuer-200858475.html",
+      "published_at": "2026-05-29T12:41:03Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Prämie für Elektroautos: Nichts geschenkt Die Freude über die neue Kaufprämie für Elektroautos ist groß, zumindest unter den Nutznießern. Doch das jetzt gesparte Geld könnte bald schon wieder verloren sein.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a61102b3e8f7e11de1bf0795",
+      "title": "Nextpower steigt ins Energiespeichergeschäft ein",
+      "url": "https://www.pv-magazine.de/2026/05/29/nextpower-steigt-ins-energiespeichergeschaeft-ein/",
+      "published_at": "2026-05-29T11:11:55Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Nextpower steigt ins Energiespeichergeschäft ein Nextpower sieht im Markt für Batteriespeichersysteme enormes Potenzial, unter anderem wegen des Ausbaus von KI-Rechenzentren. Das US-Unternehmen will daher Prevalon Energy übernehmen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "7b363ba850b945e879ac893f",
+      "title": "Northvolt in Heide: Schleswig-Holstein hat gegen Informationspflicht verstoßen",
+      "url": "https://www.golem.de/news/northvolt-in-heide-schleswig-holstein-hat-gegen-informationspflicht-verstossen-2605-209195.html",
+      "published_at": "2026-05-29T11:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Northvolt in Heide: Schleswig-Holstein hat gegen Informationspflicht verstoßen Die Regierung Schleswig-Holsteins informiert nicht ausreichend über Bedenken zur Finanzierung einer Batteriefabrik in Heide. ( Unternehmen , Wirtschaft )",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
+      "regions": []
+    },
+    {
       "id": "1496fe754fa55ad2e15fa1ea",
       "title": "Stromspeicher: Feuerfeste Natriumbatterie für den Einsatz zu Hause",
       "url": "https://www.golem.de/news/stromspeicher-feuerfeste-natriumbatterie-fuer-den-einsatz-zu-hause-2605-209179.html",
