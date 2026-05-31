@@ -2,6 +2,28 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "1659e9e03dffddd28e16929f",
+      "title": "Elektroautos: Autobauer geben weniger Rabatte für Stromer",
+      "url": "https://www.sueddeutsche.de/wirtschaft/elektroautos-deutschland-rabatte-mai-li.3491667",
+      "published_at": "2026-05-31T12:48:43Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Elektroautos: Autobauer geben weniger Rabatte für Stromer Der Preisabstand zwischen E-Autos und Verbrennern wächst wieder. Warum Hersteller weniger Nachlass gewähren und welche Förderung jetzt greift.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e3d244c2f2f988c6bfa7d5a0",
+      "title": "Wolfang Kubicki: FDP-Parteichef will E-Auto-Kaufprämie sofort streichen",
+      "url": "https://www.golem.de/news/wolfang-kubicki-fdp-parteichef-will-e-auto-kaufpraemie-sofort-streichen-2605-209228.html",
+      "published_at": "2026-05-31T09:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Wolfang Kubicki: FDP-Parteichef will E-Auto-Kaufprämie sofort streichen Aus Sicht von Wolfgang Kubicki profitieren vor allem ausländische Autohersteller von der neuen E-Auto-Kaufprämie. ( Elektroauto , Politik )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "e064d09b4d8bdab19936e1d4",
       "title": "Elektrischer Antrieb: Jeder vierte Neuwagen in Rheinland-Pfalz fährt elektrisch",
       "url": "https://www.volksfreund.de/region/rheinland-pfalz/jeder-vierte-neuwagen-in-rheinland-pfalz-faehrt-elektrisch_aid-149142421",

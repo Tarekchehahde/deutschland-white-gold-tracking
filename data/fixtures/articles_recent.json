@@ -2,26 +2,24 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "e064d09b4d8bdab19936e1d4",
-      "title": "Elektrischer Antrieb: Jeder vierte Neuwagen in Rheinland-Pfalz fährt elektrisch",
-      "url": "https://www.volksfreund.de/region/rheinland-pfalz/jeder-vierte-neuwagen-in-rheinland-pfalz-faehrt-elektrisch_aid-149142421",
-      "published_at": "2026-05-31T04:00:18Z",
-      "source_id": "volksfreund",
+      "id": "1659e9e03dffddd28e16929f",
+      "title": "Elektroautos: Autobauer geben weniger Rabatte für Stromer",
+      "url": "https://www.sueddeutsche.de/wirtschaft/elektroautos-deutschland-rabatte-mai-li.3491667",
+      "published_at": "2026-05-31T12:48:43Z",
+      "source_id": "sueddeutsche-wirtschaft",
       "language": "de",
-      "summary": "Elektrischer Antrieb: Jeder vierte Neuwagen in Rheinland-Pfalz fährt elektrisch Der Anteil von Elektroautos an den Neuzulassungen in Rheinland-Pfalz hat sich binnen zwei Jahren verdoppelt. Ist das Land darauf vorbereitet?",
+      "summary": "Elektroautos: Autobauer geben weniger Rabatte für Stromer Der Preisabstand zwischen E-Autos und Verbrennern wächst wieder. Warum Hersteller weniger Nachlass gewähren und welche Förderung jetzt greift.",
       "tags": [],
-      "regions": [
-        "DE-RP"
-      ]
+      "regions": []
     },
     {
-      "id": "3933b29d3a731396d97f0422",
-      "title": "Bidirektionales Laden: Wie E-Autos die Stromnetze entlasten sollen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bidirektionales-laden-e-autos-sollen-stromnetze-entlasten-accg-200879654.html",
-      "published_at": "2026-05-30T16:02:32Z",
-      "source_id": "faz-aktuell",
+      "id": "e3d244c2f2f988c6bfa7d5a0",
+      "title": "Wolfang Kubicki: FDP-Parteichef will E-Auto-Kaufprämie sofort streichen",
+      "url": "https://www.golem.de/news/wolfang-kubicki-fdp-parteichef-will-e-auto-kaufpraemie-sofort-streichen-2605-209228.html",
+      "published_at": "2026-05-31T09:00:02Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "Bidirektionales Laden: Wie E-Autos die Stromnetze entlasten sollen Das Auto als Stromspeicher zu nutzen, das den Haushalt versorgt, ist eine Idee vom bidirektionalen Laden. Doch der Energiekonzern Eon hofft, dass solche Lösungen noch ganz andere Vorteile mit sich bringen.",
+      "summary": "Wolfang Kubicki: FDP-Parteichef will E-Auto-Kaufprämie sofort streichen Aus Sicht von Wolfgang Kubicki profitieren vor allem ausländische Autohersteller von der neuen E-Auto-Kaufprämie. ( Elektroauto , Politik )",
       "tags": [],
       "regions": []
     },
@@ -79,20 +77,6 @@
       "summary": "Nextpower steigt ins Energiespeichergeschäft ein Nextpower sieht im Markt für Batteriespeichersysteme enormes Potenzial, unter anderem wegen des Ausbaus von KI-Rechenzentren. Das US-Unternehmen will daher Prevalon Energy übernehmen.",
       "tags": [
         "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "7b363ba850b945e879ac893f",
-      "title": "Northvolt in Heide: Schleswig-Holstein hat gegen Informationspflicht verstoßen",
-      "url": "https://www.golem.de/news/northvolt-in-heide-schleswig-holstein-hat-gegen-informationspflicht-verstossen-2605-209195.html",
-      "published_at": "2026-05-29T11:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Northvolt in Heide: Schleswig-Holstein hat gegen Informationspflicht verstoßen Die Regierung Schleswig-Holsteins informiert nicht ausreichend über Bedenken zur Finanzierung einer Batteriefabrik in Heide. ( Unternehmen , Wirtschaft )",
-      "tags": [
-        "industrie",
-        "politik"
       ],
       "regions": []
     },
