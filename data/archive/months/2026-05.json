@@ -1,8 +1,21 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-05",
-  "article_count": 97,
+  "article_count": 98,
   "articles": [
+    {
+      "id": "e064d09b4d8bdab19936e1d4",
+      "title": "Elektrischer Antrieb: Jeder vierte Neuwagen in Rheinland-Pfalz fährt elektrisch",
+      "url": "https://www.volksfreund.de/region/rheinland-pfalz/jeder-vierte-neuwagen-in-rheinland-pfalz-faehrt-elektrisch_aid-149142421",
+      "published_at": "2026-05-31T04:00:18Z",
+      "source_id": "volksfreund",
+      "language": "de",
+      "summary": "Elektrischer Antrieb: Jeder vierte Neuwagen in Rheinland-Pfalz fährt elektrisch Der Anteil von Elektroautos an den Neuzulassungen in Rheinland-Pfalz hat sich binnen zwei Jahren verdoppelt. Ist das Land darauf vorbereitet?",
+      "tags": [],
+      "regions": [
+        "DE-RP"
+      ]
+    },
     {
       "id": "3933b29d3a731396d97f0422",
       "title": "Bidirektionales Laden: Wie E-Autos die Stromnetze entlasten sollen",
