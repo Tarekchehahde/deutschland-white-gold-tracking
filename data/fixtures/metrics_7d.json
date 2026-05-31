@@ -4,13 +4,15 @@
     "2026-05-27": 1,
     "2026-05-28": 2,
     "2026-05-29": 6,
-    "2026-05-30": 2
+    "2026-05-30": 2,
+    "2026-05-31": 1
   },
   "tag_counts": {
     "industrie": 2,
     "politik": 1
   },
   "by_source_category": {
-    "national": 11
+    "national": 11,
+    "regional": 1
   }
 }
