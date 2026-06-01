@@ -2,6 +2,65 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "3ab4245e98f00ae20f34625c",
+      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-06-01T09:02:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "642a6a861d6b88ff66fd8d8a",
+      "title": "Autobauer gewähren weniger Rabatte für Elektroautos",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-rabatte-gebrauchtwagen-100.html",
+      "published_at": "2026-06-01T08:54:48Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Autobauer gewähren weniger Rabatte für Elektroautos Mit der neuen E-Auto-Prämie will die Bundesregierung die Verkaufszahlen ankurbeln. Doch laut einer Studie kommt es zu einem Nebeneffekt: Die Rabatte der Hersteller sinken. Gleichzeitig wächst der Gebrauchtwagenmarkt.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "b2dd943c79ed2f538b3d85ec",
+      "title": "Encosa sichert sich 25 Millionen Euro für Batteriespeicherlösungen im Mittelstand",
+      "url": "https://www.pv-magazine.de/2026/06/01/encosa-sichert-sich-25-millionen-euro-fuer-batteriespeicherloesungen-im-mittelstand/",
+      "published_at": "2026-06-01T08:51:12Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Encosa sichert sich 25 Millionen Euro für Batteriespeicherlösungen im Mittelstand Das Münchner Start-up Encosa hat 25 Millionen Euro frisches Kapital eingeworben. Mit dem Geld will das Unternehmen seine KI-gestützte Technologieplattform weiterentwickeln und das Geschäft in Deutschland sowie international ausbauen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "81ac8b8a1041fa74aef2ca99",
+      "title": "Offshore-Wasserstoff: Schwimmende Strom-Tankstelle für Kreuzfahrtschiffe entworfen",
+      "url": "https://www.golem.de/news/offshore-wasserstoff-schwimmende-strom-tankstelle-fuer-kreuzfahrtschiffe-entworfen-2606-209240.html",
+      "published_at": "2026-06-01T08:22:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Offshore-Wasserstoff: Schwimmende Strom-Tankstelle für Kreuzfahrtschiffe entworfen Den hohen Strombedarf großer Schiffe soll ein System aus Batterien, Brennstoffzellen, Tanks und Solarzellen decken. Es ist wabenförmig und modular. ( Brennstoffzelle , Solarenergie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "00cfa292a7689f8c39ddac3f",
+      "title": "Elektroautos: VW kappt API-Schnittstelle für Heimautomation",
+      "url": "https://www.golem.de/news/elektroautos-vw-kappt-api-schnittstelle-fuer-heimautomation-2606-209241.html",
+      "published_at": "2026-06-01T07:54:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: VW kappt API-Schnittstelle für Heimautomation VW-Besitzer konnten Live-Fahrzeugdaten für die Integration ihres Elektroautos in eine Heimautomation verwenden - bis VW die Schnittstelle gesperrt hat. ( VW , API )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "1659e9e03dffddd28e16929f",
       "title": "Elektroautos: Autobauer geben weniger Rabatte für Stromer",
       "url": "https://www.sueddeutsche.de/wirtschaft/elektroautos-deutschland-rabatte-mai-li.3491667",
@@ -31,39 +90,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Autobauer geben weniger Rabatt für Elektroautos Der Preisabstand zwischen E-Autos und Verbrennern wächst wieder. Warum Hersteller weniger Nachlass gewähren und welche Förderung jetzt greift.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "afa09dcf5bcf103ab9911a83",
-      "title": "Anzeige: Mobile Wallbox mit 11kW und Kabel wieder unter 170 Euro bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-mit-11kw-und-kabel-wieder-unter-170-euro-bei-amazon-2605-209211.html",
-      "published_at": "2026-05-29T14:44:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Mobile Wallbox mit 11kW und Kabel wieder unter 170 Euro bei Amazon Die mobile 11-kW-Wallbox lädt E-Autos (Typ 2) einfach und flexibel an der CEE-Steckdose und ist bei Amazon jetzt wieder günstiger zu haben. ( Technik/Hardware , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fe3a45bee8c3c5474085c4a1",
-      "title": "MIT-Studie: Kreislaufprozess zur Lithiumgewinnung aus Stein entwickelt",
-      "url": "https://www.golem.de/news/mit-studie-kreislaufprozess-zur-lithiumgewinnung-aus-stein-entwickelt-2605-209207.html",
-      "published_at": "2026-05-29T14:20:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "MIT-Studie: Kreislaufprozess zur Lithiumgewinnung aus Stein entwickelt Mit wiederverwertbaren Chemikalien und geringem Energieeinsatz könnte der Abbau von Lithium und weiteren wichtigen Rohstoffen weltweit umgesetzt werden. ( Lithium , Akku )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8180f88d005a4ede0ae23279",
-      "title": "Elektro-Sportwagen: Bestellungen für Ferrari Luce sollen schon bis Ende 2027 reichen",
-      "url": "https://www.golem.de/news/elektro-sportwagen-bestellungen-fuer-ferrari-luce-sollen-schon-bis-ende-2027-reichen-2605-209200.html",
-      "published_at": "2026-05-29T13:05:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektro-Sportwagen: Bestellungen für Ferrari Luce sollen schon bis Ende 2027 reichen Trotz viel Kritik scheint Ferrari mit den bisherigen Bestellungen seines ersten Elektroautos Luce zufrieden zu sein. ( Ferrari , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -99,17 +125,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Start-up des Monats: Delta Charge rüstet gewerbliche Standorte für die Lkw-Elektrifizierung Das deutsch-schwedische Start-up plant, finanziert, baut und betreibt Lade- und Batteriespeicherlösungen für Gewerbestandorte. Statt einzelner Komponenten verspricht Delta Charge eine Gesamtlösung – inklusive garantiertem Strompreis an der Ladesäule für Lastwagen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8b9f03db1a2f6eb1cd855117",
-      "title": "AgNeS-Zwischenbericht: Verbände sehen bei geplanter Reform der Netzentgelte Licht und Schatten",
-      "url": "https://www.pv-magazine.de/2026/05/28/agnes-zwischenbericht-verbaende-sehen-bei-geplanter-reform-der-netzentgelte-licht-und-schatten/",
-      "published_at": "2026-05-28T12:26:37Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "AgNeS-Zwischenbericht: Verbände sehen bei geplanter Reform der Netzentgelte Licht und Schatten Der geplante Prosumer-Aufschlag stößt auf viel Kritik. Einhellig positiv werten die Verbände aus der Energiewirtschaft, dass die Netzentgeltbefreiung für Großspeicher erst einmal bleibt. Der Bundesverband Energiespeicher Systeme begrüßt, dass die Behörde Speicher nun klar als Flexibilitätsoption und nich",
       "tags": [],
       "regions": []
     },
