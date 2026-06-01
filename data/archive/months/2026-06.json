@@ -1,8 +1,67 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-06",
-  "article_count": 5,
+  "article_count": 10,
   "articles": [
+    {
+      "id": "c8bb1da1ac9ebd629c051baa",
+      "title": "Autonomes Fahren: BYD übernimmt volle Haftung für Assistenzsysteme",
+      "url": "https://www.golem.de/news/autonomes-fahren-byd-uebernimmt-volle-haftung-fuer-assistenzsysteme-2606-209277.html",
+      "published_at": "2026-06-01T16:11:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: BYD übernimmt volle Haftung für Assistenzsysteme Der Autohersteller BYD will auch dann für Schäden haften, wenn der Fahrer verantwortlich ist. ( BYD , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8d7bbe2e9182deac096ae57a",
+      "title": "Neues Verfahren vereinfacht Lithiumgewinnung aus Erz",
+      "url": "https://www.heise.de/news/Neues-Verfahren-vereinfacht-Lithiumgewinnung-aus-Erz-11314240.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-01T16:11:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Neues Verfahren vereinfacht Lithiumgewinnung aus Erz Ein neues Verfahren ermöglicht die Gewinnung von Lithium aus Erz auf einfache, günstige und umweltfreundliche Weise. Eine MIT-Ausgründung will es vermarkten.",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "ce91a2ae3474068dc2b54917",
+      "title": "Elektroauto kaufen gebraucht: Fahrer in Deutschland stürmen Markt für E-Pkw",
+      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-gebraucht-fahrer-in-deutschland-stuermen-markt-fuer-e-pkw-a-c5b7b80a-563b-491d-b0ee-a15001da8621",
+      "published_at": "2026-06-01T15:48:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto kaufen gebraucht: Fahrer in Deutschland stürmen Markt für E-Pkw Die Nachfrage nach gebrauchten Elektroautos in Deutschland wächst stark – das hat offenbar mit dem Irankrieg zu tun. In der Statistik eines großen Verkaufsportals zeigen sich einschneidende Folgen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "174d8dea49a36a33de723d14",
+      "title": "(g+) Electric vehicles: BYD's new 4-nm self-driving chip fails to dispel investors' growth concerns",
+      "url": "https://www.golem.de/news/electric-vehicles-byd-s-new-4-nm-self-driving-chip-fails-to-dispel-investors-growth-concerns-2606-209266.html",
+      "published_at": "2026-06-01T14:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "(g+) Electric vehicles: BYD's new 4-nm self-driving chip fails to dispel investors' growth concerns EV maker hoping in-house strategy will help cut costs and break 8-month sales slump ( BYD , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "611ee2b0e19511304468e338",
+      "title": "Stadtwerke Tübingen, Zählerfreunde und Trianel starten Pilotprojekt für flexible Haushaltsenergie",
+      "url": "https://www.pv-magazine.de/2026/06/01/stadtwerke-tuebingen-zaehlerfreunde-und-trianel-starten-pilotprojekt-fuer-flexible-haushaltsenergie/",
+      "published_at": "2026-06-01T13:34:31Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Stadtwerke Tübingen, Zählerfreunde und Trianel starten Pilotprojekt für flexible Haushaltsenergie Die Unternehmen haben ein gemeinsames Pilotprojekt für intelligentes Energiemanagement gestartet. Dabei soll untersucht werden, wie sich Photovoltaik, Wärmepumpen, Batteriespeicher, Elektroautos und dynamische Stromtarife einfacher in den Alltag von Privatkunden integrieren lassen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "3ab4245e98f00ae20f34625c",
       "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
