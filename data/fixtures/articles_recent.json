@@ -26,28 +26,6 @@
       "regions": []
     },
     {
-      "id": "9fede1496172063bb9fa7ef3",
-      "title": "Retrofitting: UN-Regelwerk soll E-Auto-Umbau weltweit vereinfachen",
-      "url": "https://www.golem.de/news/retrofitting-un-regelwerk-soll-e-auto-umbau-weltweit-vereinfachen-2606-209282.html",
-      "published_at": "2026-06-02T06:10:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Retrofitting: UN-Regelwerk soll E-Auto-Umbau weltweit vereinfachen Die UNECE plant harmonisierte Vorschriften für Elektro-Umrüstkits bis 2027. Private Garagen-Bastler könnten aber leer ausgehen. ( Elektromobilität , GreenIT )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c8bb1da1ac9ebd629c051baa",
-      "title": "Autonomes Fahren: BYD übernimmt volle Haftung für Assistenzsysteme",
-      "url": "https://www.golem.de/news/autonomes-fahren-byd-uebernimmt-volle-haftung-fuer-assistenzsysteme-2606-209277.html",
-      "published_at": "2026-06-01T16:11:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: BYD übernimmt volle Haftung für Assistenzsysteme Der Autohersteller BYD will auch dann für Schäden haften, wenn der Fahrer verantwortlich ist. ( BYD , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "8d7bbe2e9182deac096ae57a",
       "title": "Neues Verfahren vereinfacht Lithiumgewinnung aus Erz",
       "url": "https://www.heise.de/news/Neues-Verfahren-vereinfacht-Lithiumgewinnung-aus-Erz-11314240.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -58,17 +36,6 @@
       "tags": [
         "umwelt"
       ],
-      "regions": []
-    },
-    {
-      "id": "174d8dea49a36a33de723d14",
-      "title": "(g+) Electric vehicles: BYD's new 4-nm self-driving chip fails to dispel investors' growth concerns",
-      "url": "https://www.golem.de/news/electric-vehicles-byd-s-new-4-nm-self-driving-chip-fails-to-dispel-investors-growth-concerns-2606-209266.html",
-      "published_at": "2026-06-01T14:30:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "(g+) Electric vehicles: BYD's new 4-nm self-driving chip fails to dispel investors' growth concerns EV maker hoping in-house strategy will help cut costs and break 8-month sales slump ( BYD , Elektroauto )",
-      "tags": [],
       "regions": []
     },
     {
@@ -85,17 +52,6 @@
       "regions": []
     },
     {
-      "id": "3ab4245e98f00ae20f34625c",
-      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-06-01T09:02:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "642a6a861d6b88ff66fd8d8a",
       "title": "Autobauer gewähren weniger Rabatte für Elektroautos",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-rabatte-gebrauchtwagen-100.html",
@@ -105,19 +61,6 @@
       "summary": "Autobauer gewähren weniger Rabatte für Elektroautos Mit der neuen E-Auto-Prämie will die Bundesregierung die Verkaufszahlen ankurbeln. Doch laut einer Studie kommt es zu einem Nebeneffekt: Die Rabatte der Hersteller sinken. Gleichzeitig wächst der Gebrauchtwagenmarkt.",
       "tags": [
         "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "b2dd943c79ed2f538b3d85ec",
-      "title": "Encosa sichert sich 25 Millionen Euro für Batteriespeicherlösungen im Mittelstand",
-      "url": "https://www.pv-magazine.de/2026/06/01/encosa-sichert-sich-25-millionen-euro-fuer-batteriespeicherloesungen-im-mittelstand/",
-      "published_at": "2026-06-01T08:51:12Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Encosa sichert sich 25 Millionen Euro für Batteriespeicherlösungen im Mittelstand Das Münchner Start-up Encosa hat 25 Millionen Euro frisches Kapital eingeworben. Mit dem Geld will das Unternehmen seine KI-gestützte Technologieplattform weiterentwickeln und das Geschäft in Deutschland sowie international ausbauen.",
-      "tags": [
-        "industrie"
       ],
       "regions": []
     },
