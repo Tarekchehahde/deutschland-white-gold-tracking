@@ -2,6 +2,41 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "7906b08dedce077f8f30fba2",
+      "title": "Next Kraftwerke und Eco Stor schließen Tolling-Vertrag für 300-Megawatt-Speicher in Förderstedt",
+      "url": "https://www.pv-magazine.de/2026/06/02/next-kraftwerke-und-eco-stor-schliessen-tolling-vertrag-fuer-300-megawatt-speicher-in-foerderstedt/",
+      "published_at": "2026-06-02T09:05:58Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Next Kraftwerke und Eco Stor schließen Tolling-Vertrag für 300-Megawatt-Speicher in Förderstedt Der Batteriespeicher in Sachsen-Anhalt soll ab November in drei Schritten in Betrieb gehen. Der über fünf Jahre laufende Vertrag kombiniert ein Tolling-Agreement für 80 Prozent der Leistung mit einer flexiblen, marktpreisorientierten Vergütung (Merchant) für die übrigen 20 Prozent.",
+      "tags": [],
+      "regions": [
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "3a01499b35c6d70a6565ec51",
+      "title": "Stimmen der Energiewende: Georg Gallmetzer – Speicherunternehmer und Brückenbauer im Stromnetz? – ein pv magazine Podcast",
+      "url": "https://www.pv-magazine.de/2026/06/02/stimmen-der-energiewende-georg-gallmetzer-speicherunternehmer-und-brueckenbauer-im-stromnetz-ein-pv-magazine-podcast/",
+      "published_at": "2026-06-02T07:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Stimmen der Energiewende: Georg Gallmetzer – Speicherunternehmer und Brückenbauer im Stromnetz? – ein pv magazine Podcast In dieser Podcastreihe sprechen wir mit Menschen, die die Energiewende an entscheidender Stelle mitgestalten. Die Moderatoren Michael Fuhs, pv magazine Chefredakteur, und Stefan Müller, COO von Enerparc, wollen von Georg Gallmetzer aus der Eco Stor Geschäftsführung wissen, wie ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9fede1496172063bb9fa7ef3",
+      "title": "Retrofitting: UN-Regelwerk soll E-Auto-Umbau weltweit vereinfachen",
+      "url": "https://www.golem.de/news/retrofitting-un-regelwerk-soll-e-auto-umbau-weltweit-vereinfachen-2606-209282.html",
+      "published_at": "2026-06-02T06:10:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Retrofitting: UN-Regelwerk soll E-Auto-Umbau weltweit vereinfachen Die UNECE plant harmonisierte Vorschriften für Elektro-Umrüstkits bis 2027. Private Garagen-Bastler könnten aber leer ausgehen. ( Elektromobilität , GreenIT )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "c8bb1da1ac9ebd629c051baa",
       "title": "Autonomes Fahren: BYD übernimmt volle Haftung für Assistenzsysteme",
       "url": "https://www.golem.de/news/autonomes-fahren-byd-uebernimmt-volle-haftung-fuer-assistenzsysteme-2606-209277.html",
@@ -23,17 +58,6 @@
       "tags": [
         "umwelt"
       ],
-      "regions": []
-    },
-    {
-      "id": "ce91a2ae3474068dc2b54917",
-      "title": "Elektroauto kaufen gebraucht: Fahrer in Deutschland stürmen Markt für E-Pkw",
-      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-gebraucht-fahrer-in-deutschland-stuermen-markt-fuer-e-pkw-a-c5b7b80a-563b-491d-b0ee-a15001da8621",
-      "published_at": "2026-06-01T15:48:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Elektroauto kaufen gebraucht: Fahrer in Deutschland stürmen Markt für E-Pkw Die Nachfrage nach gebrauchten Elektroautos in Deutschland wächst stark – das hat offenbar mit dem Irankrieg zu tun. In der Statistik eines großen Verkaufsportals zeigen sich einschneidende Folgen.",
-      "tags": [],
       "regions": []
     },
     {
@@ -92,41 +116,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Encosa sichert sich 25 Millionen Euro für Batteriespeicherlösungen im Mittelstand Das Münchner Start-up Encosa hat 25 Millionen Euro frisches Kapital eingeworben. Mit dem Geld will das Unternehmen seine KI-gestützte Technologieplattform weiterentwickeln und das Geschäft in Deutschland sowie international ausbauen.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "81ac8b8a1041fa74aef2ca99",
-      "title": "Offshore-Wasserstoff: Schwimmende Strom-Tankstelle für Kreuzfahrtschiffe entworfen",
-      "url": "https://www.golem.de/news/offshore-wasserstoff-schwimmende-strom-tankstelle-fuer-kreuzfahrtschiffe-entworfen-2606-209240.html",
-      "published_at": "2026-06-01T08:22:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Offshore-Wasserstoff: Schwimmende Strom-Tankstelle für Kreuzfahrtschiffe entworfen Den hohen Strombedarf großer Schiffe soll ein System aus Batterien, Brennstoffzellen, Tanks und Solarzellen decken. Es ist wabenförmig und modular. ( Brennstoffzelle , Solarenergie )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "00cfa292a7689f8c39ddac3f",
-      "title": "Elektroautos: VW kappt API-Schnittstelle für Heimautomation",
-      "url": "https://www.golem.de/news/elektroautos-vw-kappt-api-schnittstelle-fuer-heimautomation-2606-209241.html",
-      "published_at": "2026-06-01T07:54:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroautos: VW kappt API-Schnittstelle für Heimautomation VW-Besitzer konnten Live-Fahrzeugdaten für die Integration ihres Elektroautos in eine Heimautomation verwenden - bis VW die Schnittstelle gesperrt hat. ( VW , API )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a61102b3e8f7e11de1bf0795",
-      "title": "Nextpower steigt ins Energiespeichergeschäft ein",
-      "url": "https://www.pv-magazine.de/2026/05/29/nextpower-steigt-ins-energiespeichergeschaeft-ein/",
-      "published_at": "2026-05-29T11:11:55Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Nextpower steigt ins Energiespeichergeschäft ein Nextpower sieht im Markt für Batteriespeichersysteme enormes Potenzial, unter anderem wegen des Ausbaus von KI-Rechenzentren. Das US-Unternehmen will daher Prevalon Energy übernehmen.",
       "tags": [
         "industrie"
       ],
