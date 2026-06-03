@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "4e39045d93538e611804f972",
+      "title": "Trotz Kaufprämie und Irankrieg: Zulassungszahlen von E-Autos im Mai rückläufig",
+      "url": "https://www.golem.de/news/trotz-kaufpraemie-und-irankrieg-zulassungszahlen-von-e-autos-im-mai-ruecklaeufig-2606-209383.html",
+      "published_at": "2026-06-03T16:45:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Trotz Kaufprämie und Irankrieg: Zulassungszahlen von E-Autos im Mai rückläufig Die Zahl der neu zugelassenen E-Autos ist im Vergleich zum Vormonat gesunken. BYD ist Marktführer bei Plug-in-Hybriden. ( Elektroauto , Tesla )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9bf1decfbdf5215aa69d3e86",
+      "title": "Next Energy und Enerfin realisieren Multi-Use-Energiesystem für Industriebetrieb",
+      "url": "https://www.pv-magazine.de/2026/06/03/next-energy-und-enerfin-realisieren-multi-use-energiesystem-fuer-industriebetrieb/",
+      "published_at": "2026-06-03T11:33:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Next Energy und Enerfin realisieren Multi-Use-Energiesystem für Industriebetrieb Bei dem Projekt in Hessen werden Photovoltaik, Batteriespeicher, Bioenergie und Ladeinfrastruktur in einem integrierten Energiesystem kombiniert. Der Batteriespeicher soll dabei gleichzeitig Eigenverbrauch optimieren, Lastspitzen reduzieren und Erlöse am Strommarkt erzielen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "2558c79474453184c1a80f62",
       "title": "Kyon Energy baut 146,5-Megawatt-Speicher in Niedersachsen",
       "url": "https://www.pv-magazine.de/2026/06/03/kyon-energy-baut-1465-megawatt-speicher-in-niedersachsen/",
@@ -34,63 +56,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "00816a113d3e38cc1ee59a3e",
-      "title": "Luxus-Elektroauto: Rolls-Royce stellt Spectre II mit mehr Reichweite vor",
-      "url": "https://www.golem.de/news/luxus-elektroauto-rolls-royce-stellt-spectre-ii-mit-mehr-reichweite-vor-2606-209342.html",
-      "published_at": "2026-06-03T08:21:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Luxus-Elektroauto: Rolls-Royce stellt Spectre II mit mehr Reichweite vor Das Elektroauto Spectre von Rolls-Royce bekommt eine neue Version mit mehr Leistung, mehr Reichweite und einer Black-Badge-Variante. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "77378931b9a6593ea230dcd4",
-      "title": "heise+ | Was 100 km mit dem Elektroauto im Sommer 2026 wirklich kosten",
-      "url": "https://www.heise.de/ratgeber/Was-100-km-mit-dem-Elektroauto-im-Sommer-2026-wirklich-kosten-11187500.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-06-03T04:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Was 100 km mit dem Elektroauto im Sommer 2026 wirklich kosten Autofahren ist deutlich teurer geworden. Wir zeigen anhand von zwölf Elektroautos, mit welchen Kosten Sie Mitte 2026 pro 100 km rechnen sollten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0f29976729de9a41671a296f",
-      "title": "Vor SpaceX-Börsengang: So viele seiner 602 Versprechen hat Musk erfüllt",
-      "url": "https://www.golem.de/news/vor-spacex-boersengang-so-viele-seiner-602-versprechen-hat-musk-erfuellt-2606-209318.html",
-      "published_at": "2026-06-02T14:30:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Vor SpaceX-Börsengang: So viele seiner 602 Versprechen hat Musk erfüllt Die New York Times hat überprüft, wie viele von Elon Musks Ankündigungen zu Tesla, SpaceX oder anderen Firmen tatsächlich umgesetzt wurden. ( Elon Musk , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7906b08dedce077f8f30fba2",
-      "title": "Next Kraftwerke und Eco Stor schließen Tolling-Vertrag für 300-Megawatt-Speicher in Förderstedt",
-      "url": "https://www.pv-magazine.de/2026/06/02/next-kraftwerke-und-eco-stor-schliessen-tolling-vertrag-fuer-300-megawatt-speicher-in-foerderstedt/",
-      "published_at": "2026-06-02T09:05:58Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Next Kraftwerke und Eco Stor schließen Tolling-Vertrag für 300-Megawatt-Speicher in Förderstedt Der Batteriespeicher in Sachsen-Anhalt soll ab November in drei Schritten in Betrieb gehen. Der über fünf Jahre laufende Vertrag kombiniert ein Tolling-Agreement für 80 Prozent der Leistung mit einer flexiblen, marktpreisorientierten Vergütung (Merchant) für die übrigen 20 Prozent.",
-      "tags": [],
-      "regions": [
-        "DE-ST"
-      ]
-    },
-    {
-      "id": "3a01499b35c6d70a6565ec51",
-      "title": "Stimmen der Energiewende: Georg Gallmetzer – Speicherunternehmer und Brückenbauer im Stromnetz? – ein pv magazine Podcast",
-      "url": "https://www.pv-magazine.de/2026/06/02/stimmen-der-energiewende-georg-gallmetzer-speicherunternehmer-und-brueckenbauer-im-stromnetz-ein-pv-magazine-podcast/",
-      "published_at": "2026-06-02T07:20:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Stimmen der Energiewende: Georg Gallmetzer – Speicherunternehmer und Brückenbauer im Stromnetz? – ein pv magazine Podcast In dieser Podcastreihe sprechen wir mit Menschen, die die Energiewende an entscheidender Stelle mitgestalten. Die Moderatoren Michael Fuhs, pv magazine Chefredakteur, und Stefan Müller, COO von Enerparc, wollen von Georg Gallmetzer aus der Eco Stor Geschäftsführung wissen, wie ",
-      "tags": [],
       "regions": []
     },
     {
