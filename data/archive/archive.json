@@ -2,6 +2,74 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "2558c79474453184c1a80f62",
+      "title": "Kyon Energy baut 146,5-Megawatt-Speicher in Niedersachsen",
+      "url": "https://www.pv-magazine.de/2026/06/03/kyon-energy-baut-1465-megawatt-speicher-in-niedersachsen/",
+      "published_at": "2026-06-03T09:47:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Kyon Energy baut 146,5-Megawatt-Speicher in Niedersachsen Im Juli sollen die Arbeiten an dem Batteriespeicher am Umspannwerk Mehringen im Landkreis Nienburg/Weser beginnen. Die Anlage soll über 296 Megawattstunden Kapazität verfügen und im Oktober 2027 in Betrieb genommen werden.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7879d691a411b303cccfbbd4",
+      "title": "Autonomes Fahren: Tesla lässt selbstreinigende Kameras patentieren",
+      "url": "https://www.golem.de/news/autonomes-fahren-tesla-laesst-selbstreinigende-kameras-patentieren-2606-209354.html",
+      "published_at": "2026-06-03T09:44:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Tesla lässt selbstreinigende Kameras patentieren Für die Robotaxis von Tesla ist eine gute Sicht entscheidend. Die patentierte Reinigung der Kameras dürfte für Serienfahrzeuge kaum nachrüstbar sein. ( Autonomes Fahren , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e92f4f1bbe346b293beeb421",
+      "title": "Sponsored: Hauptsache flexibel– Batteriespeicher in Unternehmensnetzen",
+      "url": "https://www.pv-magazine.de/2026/06/03/sponsored-hauptsache-flexibel-batteriespeicher-in-unternehmensnetzen/",
+      "published_at": "2026-06-03T09:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sponsored: Hauptsache flexibel– Batteriespeicher in Unternehmensnetzen Die Herausforderungen für Batteriespeicherlösungen in Industrie- und Gewerbebetrieben sind hoch. Sie müssen unterschiedliche Geschäftsmodelle abdecken – gleichzeitig oder nacheinander – sie müssen verschiedenste Erzeuger und Verbraucher steuern und sollten zudem höchsten Sicherheitsansprüchen genügen. Jörn Jürgens, Sales Direct",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "00816a113d3e38cc1ee59a3e",
+      "title": "Luxus-Elektroauto: Rolls-Royce stellt Spectre II mit mehr Reichweite vor",
+      "url": "https://www.golem.de/news/luxus-elektroauto-rolls-royce-stellt-spectre-ii-mit-mehr-reichweite-vor-2606-209342.html",
+      "published_at": "2026-06-03T08:21:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Luxus-Elektroauto: Rolls-Royce stellt Spectre II mit mehr Reichweite vor Das Elektroauto Spectre von Rolls-Royce bekommt eine neue Version mit mehr Leistung, mehr Reichweite und einer Black-Badge-Variante. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "77378931b9a6593ea230dcd4",
+      "title": "heise+ | Was 100 km mit dem Elektroauto im Sommer 2026 wirklich kosten",
+      "url": "https://www.heise.de/ratgeber/Was-100-km-mit-dem-Elektroauto-im-Sommer-2026-wirklich-kosten-11187500.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-06-03T04:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Was 100 km mit dem Elektroauto im Sommer 2026 wirklich kosten Autofahren ist deutlich teurer geworden. Wir zeigen anhand von zwölf Elektroautos, mit welchen Kosten Sie Mitte 2026 pro 100 km rechnen sollten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0f29976729de9a41671a296f",
+      "title": "Vor SpaceX-Börsengang: So viele seiner 602 Versprechen hat Musk erfüllt",
+      "url": "https://www.golem.de/news/vor-spacex-boersengang-so-viele-seiner-602-versprechen-hat-musk-erfuellt-2606-209318.html",
+      "published_at": "2026-06-02T14:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Vor SpaceX-Börsengang: So viele seiner 602 Versprechen hat Musk erfüllt Die New York Times hat überprüft, wie viele von Elon Musks Ankündigungen zu Tesla, SpaceX oder anderen Firmen tatsächlich umgesetzt wurden. ( Elon Musk , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "7906b08dedce077f8f30fba2",
       "title": "Next Kraftwerke und Eco Stor schließen Tolling-Vertrag für 300-Megawatt-Speicher in Förderstedt",
       "url": "https://www.pv-magazine.de/2026/06/02/next-kraftwerke-und-eco-stor-schliessen-tolling-vertrag-fuer-300-megawatt-speicher-in-foerderstedt/",

@@ -1,16 +1,15 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-05-27": 1,
-    "2026-06-01": 3,
-    "2026-06-02": 2
+    "2026-06-01": 1,
+    "2026-06-02": 3,
+    "2026-06-03": 5
   },
   "tag_counts": {
     "industrie": 1,
-    "politik": 1,
-    "umwelt": 1
+    "politik": 1
   },
   "by_source_category": {
-    "national": 6
+    "national": 9
   }
 }
