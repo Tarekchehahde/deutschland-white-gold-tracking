@@ -1,13 +1,35 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-03T10:05:47Z",
+  "generated_at_utc": "2026-06-03T21:30:44Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 119,
+  "total_in_archive": 121,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 19
+    "2026-06": 21
   },
   "recent_for_ui": [
+    {
+      "id": "4e39045d93538e611804f972",
+      "title": "Trotz Kaufprämie und Irankrieg: Zulassungszahlen von E-Autos im Mai rückläufig",
+      "url": "https://www.golem.de/news/trotz-kaufpraemie-und-irankrieg-zulassungszahlen-von-e-autos-im-mai-ruecklaeufig-2606-209383.html",
+      "published_at": "2026-06-03T16:45:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Trotz Kaufprämie und Irankrieg: Zulassungszahlen von E-Autos im Mai rückläufig Die Zahl der neu zugelassenen E-Autos ist im Vergleich zum Vormonat gesunken. BYD ist Marktführer bei Plug-in-Hybriden. ( Elektroauto , Tesla )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9bf1decfbdf5215aa69d3e86",
+      "title": "Next Energy und Enerfin realisieren Multi-Use-Energiesystem für Industriebetrieb",
+      "url": "https://www.pv-magazine.de/2026/06/03/next-energy-und-enerfin-realisieren-multi-use-energiesystem-fuer-industriebetrieb/",
+      "published_at": "2026-06-03T11:33:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Next Energy und Enerfin realisieren Multi-Use-Energiesystem für Industriebetrieb Bei dem Projekt in Hessen werden Photovoltaik, Batteriespeicher, Bioenergie und Ladeinfrastruktur in einem integrierten Energiesystem kombiniert. Der Batteriespeicher soll dabei gleichzeitig Eigenverbrauch optimieren, Lastspitzen reduzieren und Erlöse am Strommarkt erzielen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "2558c79474453184c1a80f62",
       "title": "Kyon Energy baut 146,5-Megawatt-Speicher in Niedersachsen",
