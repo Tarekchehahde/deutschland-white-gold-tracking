@@ -1,13 +1,24 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-03T21:30:44Z",
+  "generated_at_utc": "2026-06-04T09:00:21Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 121,
+  "total_in_archive": 122,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 21
+    "2026-06": 22
   },
   "recent_for_ui": [
+    {
+      "id": "235a496eba19cefc1432101d",
+      "title": "Elektromobilität: Chinas E-Auto-Angriff auf Südamerika",
+      "url": "https://www.faz.net/premium/weltwirtschaft/weltwissen/chinesische-e-auto-offensive-in-suedamerika-accg-200886618.html",
+      "published_at": "2026-06-04T04:50:00Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Elektromobilität: Chinas E-Auto-Angriff auf Südamerika Vom EU-Mercosur-Freihandelsvertrag soll vor allem die europäische Autoindustrie profitieren. Doch China hat seinen Gegenangriff längst gestartet – und erschüttert die Machtverhältnisse in der Branche in ihren Grundfesten.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "4e39045d93538e611804f972",
       "title": "Trotz Kaufprämie und Irankrieg: Zulassungszahlen von E-Autos im Mai rückläufig",

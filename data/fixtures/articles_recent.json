@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "235a496eba19cefc1432101d",
+      "title": "Elektromobilität: Chinas E-Auto-Angriff auf Südamerika",
+      "url": "https://www.faz.net/premium/weltwirtschaft/weltwissen/chinesische-e-auto-offensive-in-suedamerika-accg-200886618.html",
+      "published_at": "2026-06-04T04:50:00Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Elektromobilität: Chinas E-Auto-Angriff auf Südamerika Vom EU-Mercosur-Freihandelsvertrag soll vor allem die europäische Autoindustrie profitieren. Doch China hat seinen Gegenangriff längst gestartet – und erschüttert die Machtverhältnisse in der Branche in ihren Grundfesten.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "4e39045d93538e611804f972",
       "title": "Trotz Kaufprämie und Irankrieg: Zulassungszahlen von E-Autos im Mai rückläufig",
       "url": "https://www.golem.de/news/trotz-kaufpraemie-und-irankrieg-zulassungszahlen-von-e-autos-im-mai-ruecklaeufig-2606-209383.html",
@@ -31,17 +42,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Kyon Energy baut 146,5-Megawatt-Speicher in Niedersachsen Im Juli sollen die Arbeiten an dem Batteriespeicher am Umspannwerk Mehringen im Landkreis Nienburg/Weser beginnen. Die Anlage soll über 296 Megawattstunden Kapazität verfügen und im Oktober 2027 in Betrieb genommen werden.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7879d691a411b303cccfbbd4",
-      "title": "Autonomes Fahren: Tesla lässt selbstreinigende Kameras patentieren",
-      "url": "https://www.golem.de/news/autonomes-fahren-tesla-laesst-selbstreinigende-kameras-patentieren-2606-209354.html",
-      "published_at": "2026-06-03T09:44:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Tesla lässt selbstreinigende Kameras patentieren Für die Robotaxis von Tesla ist eine gute Sicht entscheidend. Die patentierte Reinigung der Kameras dürfte für Serienfahrzeuge kaum nachrüstbar sein. ( Autonomes Fahren , Elektroauto )",
       "tags": [],
       "regions": []
     },
