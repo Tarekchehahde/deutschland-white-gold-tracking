@@ -1,8 +1,32 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-06",
-  "article_count": 22,
+  "article_count": 25,
   "articles": [
+    {
+      "id": "2f1ff4b901e6d5830670781f",
+      "title": "Elektroautos: BMW iX3 gewinnt Reichweitentest mit 781 km",
+      "url": "https://www.golem.de/news/elektroautos-bmw-ix3-gewinnt-reichweitentest-mit-781-km-2606-209421.html",
+      "published_at": "2026-06-04T17:18:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: BMW iX3 gewinnt Reichweitentest mit 781 km Tatsächliche Reichweiten von 600 bis 800 km sind inzwischen bei E-Autos verbreitet. Das zeigt ein Vergleich neuer Modelle in Norwegen. ( Elektroauto , Tesla )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9c558e713249d90d5ba7e93b",
+      "title": "Wieso immer mehr Deutsche auf Elektroautos setzen",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-nachfrage-100.html",
+      "published_at": "2026-06-04T12:07:26Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Wieso immer mehr Deutsche auf Elektroautos setzen E-Autos werden in Deutschland immer beliebter. Jeder vierte Neuwagen im Mai war ein Fahrzeug mit Elektroantrieb. Das liegt nicht nur an der neuen Kaufprämie der Bundesregierung - die auch negative Folgen hat. Von Till Bücker.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
     {
       "id": "235a496eba19cefc1432101d",
       "title": "Elektromobilität: Chinas E-Auto-Angriff auf Südamerika",
@@ -79,6 +103,17 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Luxus-Elektroauto: Rolls-Royce stellt Spectre II mit mehr Reichweite vor Das Elektroauto Spectre von Rolls-Royce bekommt eine neue Version mit mehr Leistung, mehr Reichweite und einer Black-Badge-Variante. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9d581a6e9f05561db2fc4d18",
+      "title": "Natrium-Ionen-Batterien: „Da steckt viel geheimes Know-how drin“",
+      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/akku-fuer-e-auto-co-natrium-statt-lithium-rwth-aachen-testet-accg-200887792.html",
+      "published_at": "2026-06-03T07:35:53Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Natrium-Ionen-Batterien: „Da steckt viel geheimes Know-how drin“ Natrium statt Lithium: Eine neue Batterietechnologie könnte die Rohstoffabhängigkeit beenden. Forscher von der RWTH Aachen haben ein aktuelles Modell aus China zerlegt – und waren überrascht von der technischen Reife.",
       "tags": [],
       "regions": []
     },
