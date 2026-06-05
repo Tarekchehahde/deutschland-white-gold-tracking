@@ -2,6 +2,39 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "ec0264566936bb87cfe3e1b1",
+      "title": "Eco Stors 238-Megawattstunden-Speicher in Schuby bekommt Monitoringlösung von Amperecloud",
+      "url": "https://www.pv-magazine.de/2026/06/05/eco-stors-238-megawattstunden-speicher-in-schuby-bekommt-monitoringloesung-von-amperecloud/",
+      "published_at": "2026-06-05T08:51:29Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Eco Stors 238-Megawattstunden-Speicher in Schuby bekommt Monitoringlösung von Amperecloud Der Batteriespeicher in Schuby von Eco Stor gehört zu den größten Projekten in Deutschland und soll noch im Herbst am Netz sein. Er wird mit der Monitoring-Lösung von Amperecloud versehen, die Ausfallzeiten vermeiden soll und garantierelevante Parameter überwachen wird.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "182c598b6fb89fa2f1136f9f",
+      "title": "Batterieforschung: Natriumbatterien altern kaum und halten Jahrzehnte",
+      "url": "https://www.golem.de/news/batterieforschung-natriumbatterien-altern-kaum-und-halten-jahrzehnte-2606-209432.html",
+      "published_at": "2026-06-05T08:45:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Batterieforschung: Natriumbatterien altern kaum und halten Jahrzehnte Aachen ist ein Zentrum der deutschen Batteriezellenforschung. Dort werden auch importierte Zellen analysiert, mit bemerkenswerten Resultaten. ( Akku , Wissenschaft )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c736bc8e9f5ab7838ad08f6e",
+      "title": "Produktionsstart des ID.Polo: Volkswagen konzentriert kompakte E-Mobilität in Spanien",
+      "url": "https://www.golem.de/news/produktionsstart-des-id-polo-volkswagen-konzentriert-kompakte-e-mobilitaet-in-spanien-2606-209422.html",
+      "published_at": "2026-06-05T06:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Produktionsstart des ID.Polo: Volkswagen konzentriert kompakte E-Mobilität in Spanien Die vier E-Autos der Volkswagen Urban Car Family werden in Spanien gebaut. VW-Chef Blume will so gegen die Konkurrenz aus China bestehen. Ein Bericht von Dirk Kunde ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "2f1ff4b901e6d5830670781f",
       "title": "Elektroautos: BMW iX3 gewinnt Reichweitentest mit 781 km",
       "url": "https://www.golem.de/news/elektroautos-bmw-ix3-gewinnt-reichweitentest-mit-781-km-2606-209421.html",
@@ -26,28 +59,6 @@
       "regions": []
     },
     {
-      "id": "235a496eba19cefc1432101d",
-      "title": "Elektromobilität: Chinas E-Auto-Angriff auf Südamerika",
-      "url": "https://www.faz.net/premium/weltwirtschaft/weltwissen/chinesische-e-auto-offensive-in-suedamerika-accg-200886618.html",
-      "published_at": "2026-06-04T04:50:00Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Elektromobilität: Chinas E-Auto-Angriff auf Südamerika Vom EU-Mercosur-Freihandelsvertrag soll vor allem die europäische Autoindustrie profitieren. Doch China hat seinen Gegenangriff längst gestartet – und erschüttert die Machtverhältnisse in der Branche in ihren Grundfesten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4e39045d93538e611804f972",
-      "title": "Trotz Kaufprämie und Irankrieg: Zulassungszahlen von E-Autos im Mai rückläufig",
-      "url": "https://www.golem.de/news/trotz-kaufpraemie-und-irankrieg-zulassungszahlen-von-e-autos-im-mai-ruecklaeufig-2606-209383.html",
-      "published_at": "2026-06-03T16:45:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Trotz Kaufprämie und Irankrieg: Zulassungszahlen von E-Autos im Mai rückläufig Die Zahl der neu zugelassenen E-Autos ist im Vergleich zum Vormonat gesunken. BYD ist Marktführer bei Plug-in-Hybriden. ( Elektroauto , Tesla )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "9bf1decfbdf5215aa69d3e86",
       "title": "Next Energy und Enerfin realisieren Multi-Use-Energiesystem für Industriebetrieb",
       "url": "https://www.pv-magazine.de/2026/06/03/next-energy-und-enerfin-realisieren-multi-use-energiesystem-fuer-industriebetrieb/",
@@ -55,28 +66,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Next Energy und Enerfin realisieren Multi-Use-Energiesystem für Industriebetrieb Bei dem Projekt in Hessen werden Photovoltaik, Batteriespeicher, Bioenergie und Ladeinfrastruktur in einem integrierten Energiesystem kombiniert. Der Batteriespeicher soll dabei gleichzeitig Eigenverbrauch optimieren, Lastspitzen reduzieren und Erlöse am Strommarkt erzielen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2558c79474453184c1a80f62",
-      "title": "Kyon Energy baut 146,5-Megawatt-Speicher in Niedersachsen",
-      "url": "https://www.pv-magazine.de/2026/06/03/kyon-energy-baut-1465-megawatt-speicher-in-niedersachsen/",
-      "published_at": "2026-06-03T09:47:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Kyon Energy baut 146,5-Megawatt-Speicher in Niedersachsen Im Juli sollen die Arbeiten an dem Batteriespeicher am Umspannwerk Mehringen im Landkreis Nienburg/Weser beginnen. Die Anlage soll über 296 Megawattstunden Kapazität verfügen und im Oktober 2027 in Betrieb genommen werden.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9d581a6e9f05561db2fc4d18",
-      "title": "Natrium-Ionen-Batterien: „Da steckt viel geheimes Know-how drin“",
-      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/akku-fuer-e-auto-co-natrium-statt-lithium-rwth-aachen-testet-accg-200887792.html",
-      "published_at": "2026-06-03T07:35:53Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Natrium-Ionen-Batterien: „Da steckt viel geheimes Know-how drin“ Natrium statt Lithium: Eine neue Batterietechnologie könnte die Rohstoffabhängigkeit beenden. Forscher von der RWTH Aachen haben ein aktuelles Modell aus China zerlegt – und waren überrascht von der technischen Reife.",
       "tags": [],
       "regions": []
     },
