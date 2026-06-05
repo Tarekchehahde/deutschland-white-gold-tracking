@@ -1,13 +1,35 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-05T08:53:10Z",
+  "generated_at_utc": "2026-06-05T20:14:11Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 128,
+  "total_in_archive": 130,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 28
+    "2026-06": 30
   },
   "recent_for_ui": [
+    {
+      "id": "133f4f3646c6b5059b3414d1",
+      "title": "Anzeige: Aimiler mobile Wallbox 11kW mit App und Kabel noch bis Sonntag zum Amazon-Tiefpreis",
+      "url": "https://www.golem.de/news/anzeige-aimiler-mobile-wallbox-11kw-mit-app-und-kabel-noch-bis-sonntag-zum-amazon-tiefpreis-2606-209462.html",
+      "published_at": "2026-06-05T14:50:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Aimiler mobile Wallbox 11kW mit App und Kabel noch bis Sonntag zum Amazon-Tiefpreis Die Aimiler Wallbox 11kW plus App und Kabel im Amazon-Angebot schützt mit zehn Sicherheitsfunktionen und passt an jede CEE-Steckdose. ( Elektromobilität , Technik/Hardware )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c416ce07d09381aaf155063d",
+      "title": "Zweites Leben: Alte Waymo-Akkus landen in Energiespeichern",
+      "url": "https://www.golem.de/news/zweites-leben-alte-waymo-akkus-landen-in-energiespeichern-2606-209454.html",
+      "published_at": "2026-06-05T13:15:07Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Zweites Leben: Alte Waymo-Akkus landen in Energiespeichern Der Robotaxi-Anbieter Waymo plant für die Ausmusterung seiner ersten Fahrzeuge vor. Die Batterien sollen als Stromspeicher weitergenutzt werden. ( Waymo , Akku )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "ec0264566936bb87cfe3e1b1",
       "title": "Eco Stors 238-Megawattstunden-Speicher in Schuby bekommt Monitoringlösung von Amperecloud",
