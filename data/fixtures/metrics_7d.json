@@ -2,13 +2,13 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-06-04": 1,
-    "2026-06-05": 5,
+    "2026-06-05": 3,
     "2026-06-06": 1
   },
   "tag_counts": {
     "politik": 1
   },
   "by_source_category": {
-    "national": 7
+    "national": 5
   }
 }
