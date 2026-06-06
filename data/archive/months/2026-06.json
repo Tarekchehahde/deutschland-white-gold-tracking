@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-06",
-  "article_count": 30,
+  "article_count": 31,
   "articles": [
+    {
+      "id": "8b5006ddad5770c3ab36f5c3",
+      "title": "BMW iX3 im Test: Jetzt aber mal Obacht",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/bmw-ix3-im-test-jetzt-aber-mal-obacht-accg-200872134.html",
+      "published_at": "2026-06-06T07:21:00Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "BMW iX3 im Test: Jetzt aber mal Obacht Mehr Spannung war nie im Markt der Elektroautos. BMW setzt alles auf die Karte seiner Neuen Klasse und viel in den neuen iX3. Das SUV ist teuer, kann aber einiges. Vor allem fährt es höchst talentiert durch den Alltag.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "133f4f3646c6b5059b3414d1",
       "title": "Anzeige: Aimiler mobile Wallbox 11kW mit App und Kabel noch bis Sonntag zum Amazon-Tiefpreis",
@@ -16,12 +27,12 @@
     },
     {
       "id": "c416ce07d09381aaf155063d",
-      "title": "Zweites Leben: Alte Waymo-Akkus landen in Energiespeichern",
+      "title": "Nach 5 Jahren: Alte Waymo-Akkus landen in Energiespeichern",
       "url": "https://www.golem.de/news/zweites-leben-alte-waymo-akkus-landen-in-energiespeichern-2606-209454.html",
       "published_at": "2026-06-05T13:15:07Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Zweites Leben: Alte Waymo-Akkus landen in Energiespeichern Der Robotaxi-Anbieter Waymo plant für die Ausmusterung seiner ersten Fahrzeuge vor. Die Batterien sollen als Stromspeicher weitergenutzt werden. ( Waymo , Akku )",
+      "summary": "Nach 5 Jahren: Alte Waymo-Akkus landen in Energiespeichern Der Robotaxi-Anbieter Waymo plant für die Ausmusterung seiner ersten Fahrzeuge vor. Die Batterien sollen als Stromspeicher weitergenutzt werden. ( Waymo , Akku )",
       "tags": [],
       "regions": []
     },
