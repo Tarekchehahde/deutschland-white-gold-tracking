@@ -3,12 +3,14 @@
   "articles_per_day": {
     "2026-06-04": 1,
     "2026-06-05": 3,
-    "2026-06-06": 1
+    "2026-06-06": 2,
+    "2026-06-07": 2
   },
   "tag_counts": {
+    "industrie": 1,
     "politik": 1
   },
   "by_source_category": {
-    "national": 5
+    "national": 8
   }
 }
