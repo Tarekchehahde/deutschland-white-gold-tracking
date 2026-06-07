@@ -1,13 +1,59 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-07T08:30:33Z",
+  "generated_at_utc": "2026-06-07T19:47:24Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 131,
+  "total_in_archive": 135,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 31
+    "2026-06": 35
   },
   "recent_for_ui": [
+    {
+      "id": "3c5e486c501274dfbe34a4c2",
+      "title": "Elektroautos: Europas Streit um Verbrenner-Aus wird härter",
+      "url": "https://www.golem.de/news/elektroautos-europas-streit-um-verbrenner-aus-wird-haerter-2606-209484.html",
+      "published_at": "2026-06-07T12:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: Europas Streit um Verbrenner-Aus wird härter Europaparlament und Mitgliedstaaten ringen weiter um das Verbrenner-Aus ab 2035. Sieben EU-Länder wollen an E-Autos festhalten. ( Verbrennerverbot , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e5bb7d9e01bf2ebd187035fe",
+      "title": "Wavefly 5X vorgestellt: Ekranoplan für Privatkunden soll 80 km weit kommen",
+      "url": "https://www.golem.de/news/wavefly-5x-vorgestellt-ekranoplan-fuer-privatkunden-soll-80-km-weit-kommen-2606-209482.html",
+      "published_at": "2026-06-07T10:05:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Wavefly 5X vorgestellt: Ekranoplan für Privatkunden soll 80 km weit kommen Sogenannte Bodeneffektfahrzeuge wurden bislang für militärische und kommerzielle Zwecke entwickelt. Der Hersteller Navee hat das geändert. ( Schiff , Elektromobilität )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e7c2d080cb8dfed6edf8af22",
+      "title": "Kosmische Energiespeicher entschlüsselt: Neue Karte zeigt Magnetfelder im Weltall",
+      "url": "https://t3n.de/news/karte-magnetfelder-universum-radioteleskop-1746304/",
+      "published_at": "2026-06-06T19:18:45Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Kosmische Energiespeicher entschlüsselt: Neue Karte zeigt Magnetfelder im Weltall Lange Zeit galten die treibenden Kräfte zwischen den weit entfernten Galaxien als unsichtbar und kaum messbar. Ein neuer technischer Ansatz liefert nun Datensätze, die das bisherige astronomische Verständnis grundlegend auf den Prüfstand stellen könnten. Die australische Wissenschaftsbehörde CSIRO mit Sitz in Canberr",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "47893de130eba1c4c2457028",
+      "title": "Geothermie, Kernkraft und Batterien: US-Energie-Startups gehen erfolgreich an die Börse",
+      "url": "https://t3n.de/news/geothermie-kernkraft-batterien-energie-startups-usa-boerse-1744997/",
+      "published_at": "2026-06-06T15:30:00Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Geothermie, Kernkraft und Batterien: US-Energie-Startups gehen erfolgreich an die Börse Es ist kein Zufall, dass Solar- und Batterieanbieter, Nuklear-Startups und Geothermie-Firmen gleichzeitig IPOs feiern. Der KI-Boom macht Strom wieder zum strategischen Gut – und die Frage ist: Wer kann am schnellsten skalieren? In diesem Jahr gab es in den USA eine Welle von Börsengängen namhafter Energieuntern",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "8b5006ddad5770c3ab36f5c3",
       "title": "BMW iX3 im Test: Jetzt aber mal Obacht",
