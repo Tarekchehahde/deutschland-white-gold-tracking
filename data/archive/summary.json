@@ -1,13 +1,37 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-07T19:47:24Z",
+  "generated_at_utc": "2026-06-08T09:55:31Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 135,
+  "total_in_archive": 137,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 35
+    "2026-06": 37
   },
   "recent_for_ui": [
+    {
+      "id": "a4ed18105dc9d8f1938d359f",
+      "title": "Mobilität: Eine Elektroquote für Dienstwagen ist überflüssig",
+      "url": "https://www.sueddeutsche.de/wirtschaft/eu-elektroautoquote-dienstwagen-deutschland-kommentar-li.3493459",
+      "published_at": "2026-06-08T09:02:05Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Mobilität: Eine Elektroquote für Dienstwagen ist überflüssig Das Verbrenner-Aus ist aufgeweicht, aber jetzt sollen Unternehmen Elektroauto-Ziele auferlegt werden. Schluss mit noch mehr Regeln! Wenn E-Autofahren zuverlässig und günstig funktioniert, steigen die Firmen von ganz allein um.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "3769c92d41c8b04ccbb1b170",
+      "title": "Rohstoffabbau - Wie giftig ist Lithium - und wie gesund?",
+      "url": "https://www.deutschlandfunk.de/rohstoffabbau-lithium-wie-giftig-und-wie-gesund-zwei-seiten-des-batteriemetalls-100.html",
+      "published_at": "2026-06-08T07:00:00Z",
+      "source_id": "deutschlandfunk-wissen",
+      "language": "de",
+      "summary": "Rohstoffabbau - Wie giftig ist Lithium - und wie gesund? Lithium, das leichteste aller Metalle, ist der perfekte Stoff für Batterien. Jetzt startet auch in Deutschland die Massenproduktion. In Spuren soll Lithium Nervenschäden vorbeugen, in hohen Dosen ist es giftig. Was, wenn es ins Trinkwasser gerät? Mühlenberg, Heidi",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "3c5e486c501274dfbe34a4c2",
       "title": "Elektroautos: Europas Streit um Verbrenner-Aus wird härter",
