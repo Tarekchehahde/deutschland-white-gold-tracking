@@ -2,6 +2,78 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "dee7f82e62e7005e766cac84",
+      "title": "„Keimzelle einer nationalen Industrie“: Mexiko präsentiert erstes Elektroauto",
+      "url": "https://www.heise.de/news/Keimzelle-einer-nationalen-Industrie-Mexiko-praesentiert-erstes-Elektroauto-11322306.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-08T20:16:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "„Keimzelle einer nationalen Industrie“: Mexiko präsentiert erstes Elektroauto Mexikos Präsidentin Claudia Sheinbaum macht eine Probefahrt im ersten mexikanischen Elektroauto und träumt vom Aufbau einer nationalen E-Auto-Industrie.",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "0d390bf5ada4f9ec6b406ca2",
+      "title": "Upcycling: Elektroautos werden durch Altreifen leiser",
+      "url": "https://www.golem.de/news/upcycling-elektroautos-werden-durch-altreifen-leiser-2606-209531.html",
+      "published_at": "2026-06-08T16:10:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Upcycling: Elektroautos werden durch Altreifen leiser Recycelte Autoreifen können als Granulat helfen, Schwingungen in Elektroautos zu minimieren - teilweise auf die Hälfte der ursprünglichen Lautstärke. ( Elektroauto , Wissenschaft )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "de27a1ea6fa719c20c705520",
+      "title": "Probleme mit Transporter-Verleih: Elektroautovermietung Nextmove ist insolvent",
+      "url": "https://www.golem.de/news/probleme-mit-transporter-verleih-elektroautovermietung-nextmove-ist-insolvent-2606-209526.html",
+      "published_at": "2026-06-08T14:05:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probleme mit Transporter-Verleih: Elektroautovermietung Nextmove ist insolvent Nextmove ist ein Pionier bei der Vermietung von Elektroautos. Die Fokussierung auf Transporter brachte das Unternehmen in Zahlungsnöte. ( Elektroauto , Wirtschaft )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "4f875f8ca17e3188aef9c9f2",
+      "title": "Chint Solar verkauft deutsche Batteriespeicher-Projekte mit 56 Megawatt/180 Megawattstunden",
+      "url": "https://www.pv-magazine.de/2026/06/08/chint-solar-verkauft-deutsche-batteriespeicher-projekte-mit-56-megawatt-180-megawattstunden/",
+      "published_at": "2026-06-08T12:43:54Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Chint Solar verkauft deutsche Batteriespeicher-Projekte mit 56 Megawatt/180 Megawattstunden Die vom Finanzberater Capcora betreute Transaktion von Chint Solar an den Flexibilitätsoptimierer Second Foundation umfasst fünf Projekte und beinhaltet sämtliche Projektrechte sowie eine Vereinbarung zu Wartung und Betrieb.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6bc3ccf203d75015e81da571",
+      "title": "DSW bietet vorkonfigurierte 2,5 Megawattstunden-Batteriespeicher an",
+      "url": "https://www.pv-magazine.de/2026/06/08/dsw-bietet-vorkonfigurierte-25-megawatt-batteriespeicher-an/",
+      "published_at": "2026-06-08T10:46:16Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "DSW bietet vorkonfigurierte 2,5 Megawattstunden-Batteriespeicher an Die Be- und Entladeleistung der drei gebündelten Batteriespeicher beträgt 1,25 Megawatt. Die Lösung richtet sich an Industrieunternehmen, Projektentwickler sowie Betreiber von Photovoltaik-Anlagen, Windparks und Energieinfrastrukturen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "ba72bb6ef12706399c6c5c33",
+      "title": "Sponsored: Das Energiespeichersystem Solax „ORI“ hat einen groß angelegten Brandtest unter extremen Bedingungen bestanden",
+      "url": "https://www.pv-magazine.de/2026/06/08/sponsored-das-energiespeichersystem-solax-ori-hat-einen-gross-angelegten-brandtest-unter-extremen-bedingungen-bestanden/",
+      "published_at": "2026-06-08T10:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sponsored: Das Energiespeichersystem Solax „ORI“ hat einen groß angelegten Brandtest unter extremen Bedingungen bestanden Energiespeicher werden zunehmend nicht mehr allein anhand der Leistung einzelner Komponenten beurteilt, sondern danach, wie sich das komplette System unter extremen und realistischen Bedingungen verhält. Solax absolvierte dazu einen Extrembrandtest.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "a4ed18105dc9d8f1938d359f",
       "title": "Mobilität: Eine Elektroquote für Dienstwagen ist überflüssig",
       "url": "https://www.sueddeutsche.de/wirtschaft/eu-elektroautoquote-dienstwagen-deutschland-kommentar-li.3493459",
@@ -22,28 +94,6 @@
       "source_id": "deutschlandfunk-wissen",
       "language": "de",
       "summary": "Rohstoffabbau - Wie giftig ist Lithium - und wie gesund? Lithium, das leichteste aller Metalle, ist der perfekte Stoff für Batterien. Jetzt startet auch in Deutschland die Massenproduktion. In Spuren soll Lithium Nervenschäden vorbeugen, in hohen Dosen ist es giftig. Was, wenn es ins Trinkwasser gerät? Mühlenberg, Heidi",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3c5e486c501274dfbe34a4c2",
-      "title": "Elektroautos: Europas Streit um Verbrenner-Aus wird härter",
-      "url": "https://www.golem.de/news/elektroautos-europas-streit-um-verbrenner-aus-wird-haerter-2606-209484.html",
-      "published_at": "2026-06-07T12:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroautos: Europas Streit um Verbrenner-Aus wird härter Europaparlament und Mitgliedstaaten ringen weiter um das Verbrenner-Aus ab 2035. Sieben EU-Länder wollen an E-Autos festhalten. ( Verbrennerverbot , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e5bb7d9e01bf2ebd187035fe",
-      "title": "Wavefly 5X vorgestellt: Ekranoplan für Privatkunden soll 80 km weit kommen",
-      "url": "https://www.golem.de/news/wavefly-5x-vorgestellt-ekranoplan-fuer-privatkunden-soll-80-km-weit-kommen-2606-209482.html",
-      "published_at": "2026-06-07T10:05:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Wavefly 5X vorgestellt: Ekranoplan für Privatkunden soll 80 km weit kommen Sogenannte Bodeneffektfahrzeuge wurden bislang für militärische und kommerzielle Zwecke entwickelt. Der Hersteller Navee hat das geändert. ( Schiff , Elektromobilität )",
       "tags": [],
       "regions": []
     },
@@ -69,17 +119,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "ec0264566936bb87cfe3e1b1",
-      "title": "Eco Stors 238-Megawattstunden-Speicher in Schuby bekommt Monitoringlösung von Amperecloud",
-      "url": "https://www.pv-magazine.de/2026/06/05/eco-stors-238-megawattstunden-speicher-in-schuby-bekommt-monitoringloesung-von-amperecloud/",
-      "published_at": "2026-06-05T08:51:29Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Eco Stors 238-Megawattstunden-Speicher in Schuby bekommt Monitoringlösung von Amperecloud Der Batteriespeicher in Schuby von Eco Stor gehört zu den größten Projekten in Deutschland und soll noch im Herbst am Netz sein. Er wird mit der Monitoring-Lösung von Amperecloud versehen, die Ausfallzeiten vermeiden soll und garantierelevante Parameter überwachen wird.",
-      "tags": [],
       "regions": []
     },
     {
