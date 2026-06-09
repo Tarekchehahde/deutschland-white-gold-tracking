@@ -2,6 +2,52 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "d10d480447b19bb5e10ac243",
+      "title": "USA: Pentagon stuft Alibaba, BYD und Baidu als chinesische Militärfirmen ein",
+      "url": "https://www.rnd.de/politik/usa-pentagon-stuft-alibaba-byd-und-baidu-als-chinesische-militaerfirmen-ein-3ND6XOTHW5HLTKTS6ADP5VAQ4U.html",
+      "published_at": "2026-06-09T08:35:20Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "USA: Pentagon stuft Alibaba, BYD und Baidu als chinesische Militärfirmen ein Eigentlich stellt BYD Elektroautos her. Nun findet sich das chinesische Unternehmen auf einer US-Liste chinesischer Militärfirmen wieder – ebenso wie zwei andere große Unternehmen aus Fernost, die üblicherweise nicht dem klassischen Verteidigungssektor zugeordnet werden.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "d2925f1fcbfbdf8ce2baa6ee",
+      "title": "Donut Labs entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen",
+      "url": "https://www.golem.de/news/donut-labs-entlarvt-angeblicher-wunderakku-soll-von-deutscher-firma-stammen-2606-209551.html",
+      "published_at": "2026-06-09T08:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Donut Labs entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen Von Anfang an gab es Zweifel an der revolutionären Batteriezelle des finnischen Anbieters Donut Lab. Dahinter soll eine deutsche Firma stecken. ( Akku , Patent )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c0d2e0d23e17eaa7b9ea4902",
+      "title": "Elektromobilität: Zahl der Ladepunkte steigt binnen 12 Monaten um fast 30.000",
+      "url": "https://www.heise.de/news/Elektromobilitaet-Zahl-der-Ladepunkte-steigt-binnen-12-Monaten-um-fast-30-000-11322635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-09T07:11:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektromobilität: Zahl der Ladepunkte steigt binnen 12 Monaten um fast 30.000 Der Ausbau der Ladeinfrastruktur in Deutschland kommt weiter voran. Auffällig ist, dass die durchschnittliche Leistung pro Ladepunkt ansteigt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3ab4245e98f00ae20f34625c",
+      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-06-09T04:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "dee7f82e62e7005e766cac84",
       "title": "„Keimzelle einer nationalen Industrie“: Mexiko präsentiert erstes Elektroauto",
       "url": "https://www.heise.de/news/Keimzelle-einer-nationalen-Industrie-Mexiko-praesentiert-erstes-Elektroauto-11322306.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -95,43 +141,6 @@
       "language": "de",
       "summary": "Rohstoffabbau - Wie giftig ist Lithium - und wie gesund? Lithium, das leichteste aller Metalle, ist der perfekte Stoff für Batterien. Jetzt startet auch in Deutschland die Massenproduktion. In Spuren soll Lithium Nervenschäden vorbeugen, in hohen Dosen ist es giftig. Was, wenn es ins Trinkwasser gerät? Mühlenberg, Heidi",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e7c2d080cb8dfed6edf8af22",
-      "title": "Kosmische Energiespeicher entschlüsselt: Neue Karte zeigt Magnetfelder im Weltall",
-      "url": "https://t3n.de/news/karte-magnetfelder-universum-radioteleskop-1746304/",
-      "published_at": "2026-06-06T19:18:45Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Kosmische Energiespeicher entschlüsselt: Neue Karte zeigt Magnetfelder im Weltall Lange Zeit galten die treibenden Kräfte zwischen den weit entfernten Galaxien als unsichtbar und kaum messbar. Ein neuer technischer Ansatz liefert nun Datensätze, die das bisherige astronomische Verständnis grundlegend auf den Prüfstand stellen könnten. Die australische Wissenschaftsbehörde CSIRO mit Sitz in Canberr",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "47893de130eba1c4c2457028",
-      "title": "Geothermie, Kernkraft und Batterien: US-Energie-Startups gehen erfolgreich an die Börse",
-      "url": "https://t3n.de/news/geothermie-kernkraft-batterien-energie-startups-usa-boerse-1744997/",
-      "published_at": "2026-06-06T15:30:00Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Geothermie, Kernkraft und Batterien: US-Energie-Startups gehen erfolgreich an die Börse Es ist kein Zufall, dass Solar- und Batterieanbieter, Nuklear-Startups und Geothermie-Firmen gleichzeitig IPOs feiern. Der KI-Boom macht Strom wieder zum strategischen Gut – und die Frage ist: Wer kann am schnellsten skalieren? In diesem Jahr gab es in den USA eine Welle von Börsengängen namhafter Energieuntern",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "9c558e713249d90d5ba7e93b",
-      "title": "Wieso immer mehr Deutsche auf Elektroautos setzen",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-nachfrage-100.html",
-      "published_at": "2026-06-04T12:07:26Z",
-      "source_id": "tagesschau-wirtschaft",
-      "language": "de",
-      "summary": "Wieso immer mehr Deutsche auf Elektroautos setzen E-Autos werden in Deutschland immer beliebter. Jeder vierte Neuwagen im Mai war ein Fahrzeug mit Elektroantrieb. Das liegt nicht nur an der neuen Kaufprämie der Bundesregierung - die auch negative Folgen hat. Von Till Bücker.",
-      "tags": [
-        "politik"
-      ],
       "regions": []
     }
   ]

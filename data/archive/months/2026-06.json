@@ -1,8 +1,54 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-06",
-  "article_count": 43,
+  "article_count": 46,
   "articles": [
+    {
+      "id": "d10d480447b19bb5e10ac243",
+      "title": "USA: Pentagon stuft Alibaba, BYD und Baidu als chinesische Militärfirmen ein",
+      "url": "https://www.rnd.de/politik/usa-pentagon-stuft-alibaba-byd-und-baidu-als-chinesische-militaerfirmen-ein-3ND6XOTHW5HLTKTS6ADP5VAQ4U.html",
+      "published_at": "2026-06-09T08:35:20Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "USA: Pentagon stuft Alibaba, BYD und Baidu als chinesische Militärfirmen ein Eigentlich stellt BYD Elektroautos her. Nun findet sich das chinesische Unternehmen auf einer US-Liste chinesischer Militärfirmen wieder – ebenso wie zwei andere große Unternehmen aus Fernost, die üblicherweise nicht dem klassischen Verteidigungssektor zugeordnet werden.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "d2925f1fcbfbdf8ce2baa6ee",
+      "title": "Donut Labs entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen",
+      "url": "https://www.golem.de/news/donut-labs-entlarvt-angeblicher-wunderakku-soll-von-deutscher-firma-stammen-2606-209551.html",
+      "published_at": "2026-06-09T08:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Donut Labs entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen Von Anfang an gab es Zweifel an der revolutionären Batteriezelle des finnischen Anbieters Donut Lab. Dahinter soll eine deutsche Firma stecken. ( Akku , Patent )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c0d2e0d23e17eaa7b9ea4902",
+      "title": "Elektromobilität: Zahl der Ladepunkte steigt binnen 12 Monaten um fast 30.000",
+      "url": "https://www.heise.de/news/Elektromobilitaet-Zahl-der-Ladepunkte-steigt-binnen-12-Monaten-um-fast-30-000-11322635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-09T07:11:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektromobilität: Zahl der Ladepunkte steigt binnen 12 Monaten um fast 30.000 Der Ausbau der Ladeinfrastruktur in Deutschland kommt weiter voran. Auffällig ist, dass die durchschnittliche Leistung pro Ladepunkt ansteigt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3ab4245e98f00ae20f34625c",
+      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-06-09T04:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "dee7f82e62e7005e766cac84",
       "title": "„Keimzelle einer nationalen Industrie“: Mexiko präsentiert erstes Elektroauto",
@@ -439,17 +485,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "3ab4245e98f00ae20f34625c",
-      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-06-01T09:02:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
-      "tags": [],
       "regions": []
     },
     {
