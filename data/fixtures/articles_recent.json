@@ -2,6 +2,50 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "d3e6c382b99b52bf2baf954d",
+      "title": "Deutsche Firma involviert: Youtuber entlarvt angeblichen Wunderakku von Donut Lab",
+      "url": "https://t3n.de/news/wunderakku-donut-lab-1746765/",
+      "published_at": "2026-06-09T17:17:13Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Deutsche Firma involviert: Youtuber entlarvt angeblichen Wunderakku von Donut Lab Schon kurz nach der Vorstellung des angeblichen Wunderakkus waren Zweifel an der Behauptung von Donut Lab aufgekommen, es habe eine serienreife Feststoffbatterie entwickelt. Tatsächlich dürfte es sich um einen Lithium-Ionen-Akku handeln. Es klang viel zu schön, um wahr zu sein. Auf der CES 2026 in Las Vegas hatte die",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0cc049ac48d0293f2d11e329",
+      "title": "Stromspeicher für Balkonkraftwerke: Ab wann sich die Anschaffung für dich lohnt",
+      "url": "https://t3n.de/news/stromspeicher-fuer-balkonkraftwerke-ab-wann-sich-die-anschaffung-fuer-dich-lohnt-1746658/",
+      "published_at": "2026-06-09T13:00:03Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Stromspeicher für Balkonkraftwerke: Ab wann sich die Anschaffung für dich lohnt Mit einem Stromspeicher lässt sich noch mehr aus der Energie herausholen, die ein Balkonkraftwerk erzeugt. Wie funktionieren die zusätzlichen Geräte? Worauf muss man achten? Und wo liegen die Kosten? Balkonkraftwerke sind kinderleicht zu installieren und können Geräte wie Kühlschränke oder Fernseher mit Strom versorgen",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6265b80bb52e6e14b48da767",
+      "title": "Feierlicher Spatenstich von Maxsolars netzdienlichem Speicher für Bayernwerk",
+      "url": "https://www.pv-magazine.de/2026/06/09/feierlicher-spatenstich-von-maxsolars-netzdienlichem-speicher-fuer-bayernwerk/",
+      "published_at": "2026-06-09T10:59:59Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Feierlicher Spatenstich von Maxsolars netzdienlichem Speicher für Bayernwerk Der Batteriespeicher mit 5 Megawatt Leistung und 25 Megawattstunden Kapazität entsteht in Wutzldorf. Der Einsatz des Speichers erfolgt nicht primär marktgetrieben, sondern orientiert sich an den Anforderungen des Verteilnetzes und den Vorgaben des Netzbetreibers.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "cc8c101d0c794df9e9b56683",
+      "title": "Verkehrswende: Lidl Niederlande will bis 2027 nur Elektro-Lkw benutzen",
+      "url": "https://www.golem.de/news/verkehrswende-lidl-niederlande-will-bis-2027-nur-elektro-lkw-benutzen-2606-209561.html",
+      "published_at": "2026-06-09T10:02:06Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Verkehrswende: Lidl Niederlande will bis 2027 nur Elektro-Lkw benutzen In Noord-Holland und Flevoland werden alle Lidl-Filialen bereits ausschließlich mit E-Lkw beliefert - und bald flächendeckend. ( Lidl , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "d10d480447b19bb5e10ac243",
       "title": "USA: Pentagon stuft Alibaba, BYD und Baidu als chinesische Militärfirmen ein",
       "url": "https://www.rnd.de/politik/usa-pentagon-stuft-alibaba-byd-und-baidu-als-chinesische-militaerfirmen-ein-3ND6XOTHW5HLTKTS6ADP5VAQ4U.html",
@@ -16,34 +60,12 @@
     },
     {
       "id": "d2925f1fcbfbdf8ce2baa6ee",
-      "title": "Donut Labs entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen",
+      "title": "Donut Lab entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen",
       "url": "https://www.golem.de/news/donut-labs-entlarvt-angeblicher-wunderakku-soll-von-deutscher-firma-stammen-2606-209551.html",
       "published_at": "2026-06-09T08:23:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Donut Labs entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen Von Anfang an gab es Zweifel an der revolutionären Batteriezelle des finnischen Anbieters Donut Lab. Dahinter soll eine deutsche Firma stecken. ( Akku , Patent )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c0d2e0d23e17eaa7b9ea4902",
-      "title": "Elektromobilität: Zahl der Ladepunkte steigt binnen 12 Monaten um fast 30.000",
-      "url": "https://www.heise.de/news/Elektromobilitaet-Zahl-der-Ladepunkte-steigt-binnen-12-Monaten-um-fast-30-000-11322635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-09T07:11:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Elektromobilität: Zahl der Ladepunkte steigt binnen 12 Monaten um fast 30.000 Der Ausbau der Ladeinfrastruktur in Deutschland kommt weiter voran. Auffällig ist, dass die durchschnittliche Leistung pro Ladepunkt ansteigt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3ab4245e98f00ae20f34625c",
-      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-06-09T04:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
+      "summary": "Donut Lab entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen Von Anfang an gab es Zweifel an der revolutionären Batteriezelle des finnischen Anbieters Donut Lab. Dahinter soll eine deutsche Firma stecken. ( Akku , Patent )",
       "tags": [],
       "regions": []
     },
@@ -57,78 +79,6 @@
       "summary": "„Keimzelle einer nationalen Industrie“: Mexiko präsentiert erstes Elektroauto Mexikos Präsidentin Claudia Sheinbaum macht eine Probefahrt im ersten mexikanischen Elektroauto und träumt vom Aufbau einer nationalen E-Auto-Industrie.",
       "tags": [
         "exploration"
-      ],
-      "regions": []
-    },
-    {
-      "id": "0d390bf5ada4f9ec6b406ca2",
-      "title": "Upcycling: Elektroautos werden durch Altreifen leiser",
-      "url": "https://www.golem.de/news/upcycling-elektroautos-werden-durch-altreifen-leiser-2606-209531.html",
-      "published_at": "2026-06-08T16:10:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Upcycling: Elektroautos werden durch Altreifen leiser Recycelte Autoreifen können als Granulat helfen, Schwingungen in Elektroautos zu minimieren - teilweise auf die Hälfte der ursprünglichen Lautstärke. ( Elektroauto , Wissenschaft )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "de27a1ea6fa719c20c705520",
-      "title": "Probleme mit Transporter-Verleih: Elektroautovermietung Nextmove ist insolvent",
-      "url": "https://www.golem.de/news/probleme-mit-transporter-verleih-elektroautovermietung-nextmove-ist-insolvent-2606-209526.html",
-      "published_at": "2026-06-08T14:05:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Probleme mit Transporter-Verleih: Elektroautovermietung Nextmove ist insolvent Nextmove ist ein Pionier bei der Vermietung von Elektroautos. Die Fokussierung auf Transporter brachte das Unternehmen in Zahlungsnöte. ( Elektroauto , Wirtschaft )",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "4f875f8ca17e3188aef9c9f2",
-      "title": "Chint Solar verkauft deutsche Batteriespeicher-Projekte mit 56 Megawatt/180 Megawattstunden",
-      "url": "https://www.pv-magazine.de/2026/06/08/chint-solar-verkauft-deutsche-batteriespeicher-projekte-mit-56-megawatt-180-megawattstunden/",
-      "published_at": "2026-06-08T12:43:54Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Chint Solar verkauft deutsche Batteriespeicher-Projekte mit 56 Megawatt/180 Megawattstunden Die vom Finanzberater Capcora betreute Transaktion von Chint Solar an den Flexibilitätsoptimierer Second Foundation umfasst fünf Projekte und beinhaltet sämtliche Projektrechte sowie eine Vereinbarung zu Wartung und Betrieb.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6bc3ccf203d75015e81da571",
-      "title": "DSW bietet vorkonfigurierte 2,5 Megawattstunden-Batteriespeicher an",
-      "url": "https://www.pv-magazine.de/2026/06/08/dsw-bietet-vorkonfigurierte-25-megawatt-batteriespeicher-an/",
-      "published_at": "2026-06-08T10:46:16Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "DSW bietet vorkonfigurierte 2,5 Megawattstunden-Batteriespeicher an Die Be- und Entladeleistung der drei gebündelten Batteriespeicher beträgt 1,25 Megawatt. Die Lösung richtet sich an Industrieunternehmen, Projektentwickler sowie Betreiber von Photovoltaik-Anlagen, Windparks und Energieinfrastrukturen.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "ba72bb6ef12706399c6c5c33",
-      "title": "Sponsored: Das Energiespeichersystem Solax „ORI“ hat einen groß angelegten Brandtest unter extremen Bedingungen bestanden",
-      "url": "https://www.pv-magazine.de/2026/06/08/sponsored-das-energiespeichersystem-solax-ori-hat-einen-gross-angelegten-brandtest-unter-extremen-bedingungen-bestanden/",
-      "published_at": "2026-06-08T10:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Sponsored: Das Energiespeichersystem Solax „ORI“ hat einen groß angelegten Brandtest unter extremen Bedingungen bestanden Energiespeicher werden zunehmend nicht mehr allein anhand der Leistung einzelner Komponenten beurteilt, sondern danach, wie sich das komplette System unter extremen und realistischen Bedingungen verhält. Solax absolvierte dazu einen Extrembrandtest.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a4ed18105dc9d8f1938d359f",
-      "title": "Mobilität: Eine Elektroquote für Dienstwagen ist überflüssig",
-      "url": "https://www.sueddeutsche.de/wirtschaft/eu-elektroautoquote-dienstwagen-deutschland-kommentar-li.3493459",
-      "published_at": "2026-06-08T09:02:05Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "Mobilität: Eine Elektroquote für Dienstwagen ist überflüssig Das Verbrenner-Aus ist aufgeweicht, aber jetzt sollen Unternehmen Elektroauto-Ziele auferlegt werden. Schluss mit noch mehr Regeln! Wenn E-Autofahren zuverlässig und günstig funktioniert, steigen die Firmen von ganz allein um.",
-      "tags": [
-        "industrie"
       ],
       "regions": []
     },

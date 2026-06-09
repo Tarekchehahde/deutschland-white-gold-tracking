@@ -2,6 +2,50 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "d3e6c382b99b52bf2baf954d",
+      "title": "Deutsche Firma involviert: Youtuber entlarvt angeblichen Wunderakku von Donut Lab",
+      "url": "https://t3n.de/news/wunderakku-donut-lab-1746765/",
+      "published_at": "2026-06-09T17:17:13Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Deutsche Firma involviert: Youtuber entlarvt angeblichen Wunderakku von Donut Lab Schon kurz nach der Vorstellung des angeblichen Wunderakkus waren Zweifel an der Behauptung von Donut Lab aufgekommen, es habe eine serienreife Feststoffbatterie entwickelt. Tatsächlich dürfte es sich um einen Lithium-Ionen-Akku handeln. Es klang viel zu schön, um wahr zu sein. Auf der CES 2026 in Las Vegas hatte die",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0cc049ac48d0293f2d11e329",
+      "title": "Stromspeicher für Balkonkraftwerke: Ab wann sich die Anschaffung für dich lohnt",
+      "url": "https://t3n.de/news/stromspeicher-fuer-balkonkraftwerke-ab-wann-sich-die-anschaffung-fuer-dich-lohnt-1746658/",
+      "published_at": "2026-06-09T13:00:03Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Stromspeicher für Balkonkraftwerke: Ab wann sich die Anschaffung für dich lohnt Mit einem Stromspeicher lässt sich noch mehr aus der Energie herausholen, die ein Balkonkraftwerk erzeugt. Wie funktionieren die zusätzlichen Geräte? Worauf muss man achten? Und wo liegen die Kosten? Balkonkraftwerke sind kinderleicht zu installieren und können Geräte wie Kühlschränke oder Fernseher mit Strom versorgen",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6265b80bb52e6e14b48da767",
+      "title": "Feierlicher Spatenstich von Maxsolars netzdienlichem Speicher für Bayernwerk",
+      "url": "https://www.pv-magazine.de/2026/06/09/feierlicher-spatenstich-von-maxsolars-netzdienlichem-speicher-fuer-bayernwerk/",
+      "published_at": "2026-06-09T10:59:59Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Feierlicher Spatenstich von Maxsolars netzdienlichem Speicher für Bayernwerk Der Batteriespeicher mit 5 Megawatt Leistung und 25 Megawattstunden Kapazität entsteht in Wutzldorf. Der Einsatz des Speichers erfolgt nicht primär marktgetrieben, sondern orientiert sich an den Anforderungen des Verteilnetzes und den Vorgaben des Netzbetreibers.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "cc8c101d0c794df9e9b56683",
+      "title": "Verkehrswende: Lidl Niederlande will bis 2027 nur Elektro-Lkw benutzen",
+      "url": "https://www.golem.de/news/verkehrswende-lidl-niederlande-will-bis-2027-nur-elektro-lkw-benutzen-2606-209561.html",
+      "published_at": "2026-06-09T10:02:06Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Verkehrswende: Lidl Niederlande will bis 2027 nur Elektro-Lkw benutzen In Noord-Holland und Flevoland werden alle Lidl-Filialen bereits ausschließlich mit E-Lkw beliefert - und bald flächendeckend. ( Lidl , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "d10d480447b19bb5e10ac243",
       "title": "USA: Pentagon stuft Alibaba, BYD und Baidu als chinesische Militärfirmen ein",
       "url": "https://www.rnd.de/politik/usa-pentagon-stuft-alibaba-byd-und-baidu-als-chinesische-militaerfirmen-ein-3ND6XOTHW5HLTKTS6ADP5VAQ4U.html",
@@ -16,12 +60,12 @@
     },
     {
       "id": "d2925f1fcbfbdf8ce2baa6ee",
-      "title": "Donut Labs entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen",
+      "title": "Donut Lab entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen",
       "url": "https://www.golem.de/news/donut-labs-entlarvt-angeblicher-wunderakku-soll-von-deutscher-firma-stammen-2606-209551.html",
       "published_at": "2026-06-09T08:23:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Donut Labs entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen Von Anfang an gab es Zweifel an der revolutionären Batteriezelle des finnischen Anbieters Donut Lab. Dahinter soll eine deutsche Firma stecken. ( Akku , Patent )",
+      "summary": "Donut Lab entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen Von Anfang an gab es Zweifel an der revolutionären Batteriezelle des finnischen Anbieters Donut Lab. Dahinter soll eine deutsche Firma stecken. ( Akku , Patent )",
       "tags": [],
       "regions": []
     },
