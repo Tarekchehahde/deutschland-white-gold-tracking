@@ -2,27 +2,36 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "cda2059c656a592f9b64e007",
-      "title": "Test-Roundup: Rivian R2 überzeugt Tester - mit Einschränkungen",
-      "url": "https://www.golem.de/news/test-roundup-rivian-r2-ueberzeugt-tester-mit-einschraenkungen-2606-209597.html",
-      "published_at": "2026-06-10T07:55:02Z",
+      "id": "8a8227a313923ba43010f399",
+      "title": "Porsche-CEO: Porsche 911 wird es nicht als Elektroversion geben",
+      "url": "https://www.golem.de/news/porsche-ceo-porsche-911-wird-es-nicht-als-elektroversion-geben-2606-209628.html",
+      "published_at": "2026-06-10T14:20:01Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Test-Roundup: Rivian R2 überzeugt Tester - mit Einschränkungen Der neue R2 von Rivian ist eine kleinere, preiswertere Version des Rivian R1S. In ersten Fahrberichten kommt das Elektroauto grundsätzlich gut weg. ( Rivian , Elektroauto )",
+      "summary": "Porsche-CEO: Porsche 911 wird es nicht als Elektroversion geben Der Porsche 911 ist eine Ikone - und wird wohl nicht als Elektroauto erscheinen, zumindest wenn es nach Porsche-Chef Michael Leiters geht. ( Porsche , Elektroauto )",
       "tags": [],
       "regions": []
     },
     {
-      "id": "f7eb4ffe049617a3b217081d",
-      "title": "Axialflussmotor in Serie: Der V8-Antrieb der E-Mobilität kommt aus Berlin",
-      "url": "https://www.golem.de/news/axialflussmotor-in-serie-der-v8-antrieb-der-e-mobilitaet-kommt-aus-berlin-2606-209583.html",
-      "published_at": "2026-06-10T06:37:01Z",
+      "id": "0986d1a0b433014da1d4cb05",
+      "title": "Mercedes-Benz: Elektrischer GLC kann in günstigeren Varianten bestellt werden",
+      "url": "https://www.golem.de/news/mercedes-benz-elektrischer-glc-kann-in-guenstigeren-varianten-bestellt-werden-2606-209624.html",
+      "published_at": "2026-06-10T14:00:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Axialflussmotor in Serie: Der V8-Antrieb der E-Mobilität kommt aus Berlin Mercedes hat die Serienproduktion des Axialflussmotors für AMG gestartet. Verkehrsminister Schnieder spricht von einer \"Revolution im Elektroantrieb\". Ein Bericht von Friedhelm Greis ( Elektroauto , Deutsche Bahn )",
-      "tags": [
-        "politik"
-      ],
+      "summary": "Mercedes-Benz: Elektrischer GLC kann in günstigeren Varianten bestellt werden Nach dem GLC 400 4Matic kommen zwei preiswertere Varianten in den Handel. Die Preise starten bei knapp 65.000 Euro. ( Mercedes Benz , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fbe8e5d82a6615a0ec31dfd9",
+      "title": "Porsche-Chef Leiters: Der 911 wird nie ein Elektroauto",
+      "url": "https://www.heise.de/news/Porsche-Chef-Leiters-Der-911-wird-nie-ein-Elektroauto-11327626.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-10T13:29:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Porsche-Chef Leiters: Der 911 wird nie ein Elektroauto Porsche-Chef Michael Leiters schließt eine vollelektrische Version des Sportwagens 911 aus. Der Fokus liegt dort stattdessen auf Verbrenner- und Hybrid-Technik.",
+      "tags": [],
       "regions": []
     },
     {
@@ -44,17 +53,6 @@
       "source_id": "t3n-news",
       "language": "de",
       "summary": "Stromspeicher für Balkonkraftwerke: Ab wann sich die Anschaffung für dich lohnt Mit einem Stromspeicher lässt sich noch mehr aus der Energie herausholen, die ein Balkonkraftwerk erzeugt. Wie funktionieren die zusätzlichen Geräte? Worauf muss man achten? Und wo liegen die Kosten? Balkonkraftwerke sind kinderleicht zu installieren und können Geräte wie Kühlschränke oder Fernseher mit Strom versorgen",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6265b80bb52e6e14b48da767",
-      "title": "Feierlicher Spatenstich von Maxsolars netzdienlichem Speicher für Bayernwerk",
-      "url": "https://www.pv-magazine.de/2026/06/09/feierlicher-spatenstich-von-maxsolars-netzdienlichem-speicher-fuer-bayernwerk/",
-      "published_at": "2026-06-09T10:59:59Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Feierlicher Spatenstich von Maxsolars netzdienlichem Speicher für Bayernwerk Der Batteriespeicher mit 5 Megawatt Leistung und 25 Megawattstunden Kapazität entsteht in Wutzldorf. Der Einsatz des Speichers erfolgt nicht primär marktgetrieben, sondern orientiert sich an den Anforderungen des Verteilnetzes und den Vorgaben des Netzbetreibers.",
       "tags": [],
       "regions": []
     },
