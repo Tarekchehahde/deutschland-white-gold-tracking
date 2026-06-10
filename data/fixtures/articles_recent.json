@@ -2,6 +2,30 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "cda2059c656a592f9b64e007",
+      "title": "Test-Roundup: Rivian R2 überzeugt Tester - mit Einschränkungen",
+      "url": "https://www.golem.de/news/test-roundup-rivian-r2-ueberzeugt-tester-mit-einschraenkungen-2606-209597.html",
+      "published_at": "2026-06-10T07:55:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Test-Roundup: Rivian R2 überzeugt Tester - mit Einschränkungen Der neue R2 von Rivian ist eine kleinere, preiswertere Version des Rivian R1S. In ersten Fahrberichten kommt das Elektroauto grundsätzlich gut weg. ( Rivian , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f7eb4ffe049617a3b217081d",
+      "title": "Axialflussmotor in Serie: Der V8-Antrieb der E-Mobilität kommt aus Berlin",
+      "url": "https://www.golem.de/news/axialflussmotor-in-serie-der-v8-antrieb-der-e-mobilitaet-kommt-aus-berlin-2606-209583.html",
+      "published_at": "2026-06-10T06:37:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Axialflussmotor in Serie: Der V8-Antrieb der E-Mobilität kommt aus Berlin Mercedes hat die Serienproduktion des Axialflussmotors für AMG gestartet. Verkehrsminister Schnieder spricht von einer \"Revolution im Elektroantrieb\". Ein Bericht von Friedhelm Greis ( Elektroauto , Deutsche Bahn )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
       "id": "d3e6c382b99b52bf2baf954d",
       "title": "Deutsche Firma involviert: Youtuber entlarvt angeblichen Wunderakku von Donut Lab",
       "url": "https://t3n.de/news/wunderakku-donut-lab-1746765/",
@@ -35,17 +59,6 @@
       "regions": []
     },
     {
-      "id": "cc8c101d0c794df9e9b56683",
-      "title": "Verkehrswende: Lidl Niederlande will bis 2027 nur Elektro-Lkw benutzen",
-      "url": "https://www.golem.de/news/verkehrswende-lidl-niederlande-will-bis-2027-nur-elektro-lkw-benutzen-2606-209561.html",
-      "published_at": "2026-06-09T10:02:06Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Verkehrswende: Lidl Niederlande will bis 2027 nur Elektro-Lkw benutzen In Noord-Holland und Flevoland werden alle Lidl-Filialen bereits ausschließlich mit E-Lkw beliefert - und bald flächendeckend. ( Lidl , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "d10d480447b19bb5e10ac243",
       "title": "USA: Pentagon stuft Alibaba, BYD und Baidu als chinesische Militärfirmen ein",
       "url": "https://www.rnd.de/politik/usa-pentagon-stuft-alibaba-byd-und-baidu-als-chinesische-militaerfirmen-ein-3ND6XOTHW5HLTKTS6ADP5VAQ4U.html",
@@ -55,30 +68,6 @@
       "summary": "USA: Pentagon stuft Alibaba, BYD und Baidu als chinesische Militärfirmen ein Eigentlich stellt BYD Elektroautos her. Nun findet sich das chinesische Unternehmen auf einer US-Liste chinesischer Militärfirmen wieder – ebenso wie zwei andere große Unternehmen aus Fernost, die üblicherweise nicht dem klassischen Verteidigungssektor zugeordnet werden.",
       "tags": [
         "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "d2925f1fcbfbdf8ce2baa6ee",
-      "title": "Donut Lab entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen",
-      "url": "https://www.golem.de/news/donut-labs-entlarvt-angeblicher-wunderakku-soll-von-deutscher-firma-stammen-2606-209551.html",
-      "published_at": "2026-06-09T08:23:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Donut Lab entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen Von Anfang an gab es Zweifel an der revolutionären Batteriezelle des finnischen Anbieters Donut Lab. Dahinter soll eine deutsche Firma stecken. ( Akku , Patent )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dee7f82e62e7005e766cac84",
-      "title": "„Keimzelle einer nationalen Industrie“: Mexiko präsentiert erstes Elektroauto",
-      "url": "https://www.heise.de/news/Keimzelle-einer-nationalen-Industrie-Mexiko-praesentiert-erstes-Elektroauto-11322306.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-08T20:16:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "„Keimzelle einer nationalen Industrie“: Mexiko präsentiert erstes Elektroauto Mexikos Präsidentin Claudia Sheinbaum macht eine Probefahrt im ersten mexikanischen Elektroauto und träumt vom Aufbau einer nationalen E-Auto-Industrie.",
-      "tags": [
-        "exploration"
       ],
       "regions": []
     },

@@ -1,13 +1,37 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-09T20:20:58Z",
+  "generated_at_utc": "2026-06-10T09:01:16Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 150,
+  "total_in_archive": 152,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 50
+    "2026-06": 52
   },
   "recent_for_ui": [
+    {
+      "id": "cda2059c656a592f9b64e007",
+      "title": "Test-Roundup: Rivian R2 überzeugt Tester - mit Einschränkungen",
+      "url": "https://www.golem.de/news/test-roundup-rivian-r2-ueberzeugt-tester-mit-einschraenkungen-2606-209597.html",
+      "published_at": "2026-06-10T07:55:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Test-Roundup: Rivian R2 überzeugt Tester - mit Einschränkungen Der neue R2 von Rivian ist eine kleinere, preiswertere Version des Rivian R1S. In ersten Fahrberichten kommt das Elektroauto grundsätzlich gut weg. ( Rivian , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f7eb4ffe049617a3b217081d",
+      "title": "Axialflussmotor in Serie: Der V8-Antrieb der E-Mobilität kommt aus Berlin",
+      "url": "https://www.golem.de/news/axialflussmotor-in-serie-der-v8-antrieb-der-e-mobilitaet-kommt-aus-berlin-2606-209583.html",
+      "published_at": "2026-06-10T06:37:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Axialflussmotor in Serie: Der V8-Antrieb der E-Mobilität kommt aus Berlin Mercedes hat die Serienproduktion des Axialflussmotors für AMG gestartet. Verkehrsminister Schnieder spricht von einer \"Revolution im Elektroantrieb\". Ein Bericht von Friedhelm Greis ( Elektroauto , Deutsche Bahn )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
     {
       "id": "d3e6c382b99b52bf2baf954d",
       "title": "Deutsche Firma involviert: Youtuber entlarvt angeblichen Wunderakku von Donut Lab",
