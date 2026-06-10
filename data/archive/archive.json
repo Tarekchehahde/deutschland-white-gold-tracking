@@ -2,6 +2,39 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "8a8227a313923ba43010f399",
+      "title": "Porsche-CEO: Porsche 911 wird es nicht als Elektroversion geben",
+      "url": "https://www.golem.de/news/porsche-ceo-porsche-911-wird-es-nicht-als-elektroversion-geben-2606-209628.html",
+      "published_at": "2026-06-10T14:20:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Porsche-CEO: Porsche 911 wird es nicht als Elektroversion geben Der Porsche 911 ist eine Ikone - und wird wohl nicht als Elektroauto erscheinen, zumindest wenn es nach Porsche-Chef Michael Leiters geht. ( Porsche , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0986d1a0b433014da1d4cb05",
+      "title": "Mercedes-Benz: Elektrischer GLC kann in günstigeren Varianten bestellt werden",
+      "url": "https://www.golem.de/news/mercedes-benz-elektrischer-glc-kann-in-guenstigeren-varianten-bestellt-werden-2606-209624.html",
+      "published_at": "2026-06-10T14:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Mercedes-Benz: Elektrischer GLC kann in günstigeren Varianten bestellt werden Nach dem GLC 400 4Matic kommen zwei preiswertere Varianten in den Handel. Die Preise starten bei knapp 65.000 Euro. ( Mercedes Benz , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fbe8e5d82a6615a0ec31dfd9",
+      "title": "Porsche-Chef Leiters: Der 911 wird nie ein Elektroauto",
+      "url": "https://www.heise.de/news/Porsche-Chef-Leiters-Der-911-wird-nie-ein-Elektroauto-11327626.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-10T13:29:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Porsche-Chef Leiters: Der 911 wird nie ein Elektroauto Porsche-Chef Michael Leiters schließt eine vollelektrische Version des Sportwagens 911 aus. Der Fokus liegt dort stattdessen auf Verbrenner- und Hybrid-Technik.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "cda2059c656a592f9b64e007",
       "title": "Test-Roundup: Rivian R2 überzeugt Tester - mit Einschränkungen",
       "url": "https://www.golem.de/news/test-roundup-rivian-r2-ueberzeugt-tester-mit-einschraenkungen-2606-209597.html",
