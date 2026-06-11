@@ -1,8 +1,76 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-06",
-  "article_count": 55,
+  "article_count": 61,
   "articles": [
+    {
+      "id": "d68fd77bb5cf245af7279f0c",
+      "title": "Sponsored: Nachrüsten leicht gemacht – Der einfache Weg zum eigenen Stromspeicher",
+      "url": "https://www.pv-magazine.de/2026/06/11/sponsored-nachruesten-leicht-gemacht-der-einfache-weg-zum-eigenen-stromspeicher/",
+      "published_at": "2026-06-11T09:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sponsored: Nachrüsten leicht gemacht – Der einfache Weg zum eigenen Stromspeicher Viele Photovoltaik-Anlagen produzieren mehr Strom als direkt genutzt werden kann. Plug-in Batteriespeicher wie die neue „Anker Solix Solarbank Max AC“ können dabei helfen, diesen Überschuss ohne Installationsaufwand zu speichern und später zu nutzen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0eb14e0eb57b25d1a8a4cfc9",
+      "title": "Probefahrt Denza Z9 GT: Das perfekte Angeberauto",
+      "url": "https://www.golem.de/news/probefahrt-denza-z9-gt-gummi-auf-der-strasse-lassen-2606-209524.html",
+      "published_at": "2026-06-11T08:30:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt Denza Z9 GT: Das perfekte Angeberauto BYD bringt seine Oberklasse-Marke Denza nach Deutschland. Den Anfang macht der Z9 GT im Taycan-Preissegment. Von Dirk Kunde ( BYD , Elektroauto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "a2fd7292a18bb231e3acd1cd",
+      "title": "Elektroauto: BYDs Flash-Charging soll unter 60 Cent pro kWh kosten",
+      "url": "https://www.golem.de/news/elektroauto-byds-flash-charging-soll-unter-60-cent-pro-kwh-kosten-2606-209652.html",
+      "published_at": "2026-06-11T08:06:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: BYDs Flash-Charging soll unter 60 Cent pro kWh kosten BYD will sein Flash-Charging-Netzwerk nach Europa bringen. Die Ladeleistungen erreichen 1.500 kW, der Preis soll für BYD-Kunden niedrig sein. ( BYD , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3b6261239c69035d907e7adc",
+      "title": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto",
+      "url": "https://www.heise.de/news/c-t-Webinar-Energiekosten-senken-mit-dem-Elektroauto-11322896.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-11T08:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto Wann lohnt sich Überschussladen, wann ein dynamischer Tarif? Das Webinar trennt technische Spielereien von wirtschaftlich sinnvollen Lösungen rund ums E-Auto.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2b7a8c667dca9b8db1bc90e5",
+      "title": "Enervis PPA-Price-Tracker für Photovoltaik: PPA-Preise im Mai leicht unter Vormonatsniveau",
+      "url": "https://www.pv-magazine.de/2026/06/11/enervis-ppa-price-tracker-fuer-photovoltaik-ppa-preise-im-mai-leicht-unter-vormonatsniveau/",
+      "published_at": "2026-06-11T07:28:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enervis PPA-Price-Tracker für Photovoltaik: PPA-Preise im Mai leicht unter Vormonatsniveau Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "187f2b0c91906f17485b3587",
+      "title": "Elektroauto: Wenn versenkbare Türgriffe zum Todesrisiko werden",
+      "url": "https://www.golem.de/news/elektroauto-wenn-versenkbare-tuergriffe-zum-todesrisiko-werden-2606-209639.html",
+      "published_at": "2026-06-11T06:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Wenn versenkbare Türgriffe zum Todesrisiko werden Versenkbare Türgriffe können im Notfall Auto-Insassen einschließen. Ein Fall aus Deutschland zeigt, wie ernst das Problem ist. ( Auto , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "8a8227a313923ba43010f399",
       "title": "Porsche-CEO: Porsche 911 wird es nicht als Elektroversion geben",
