@@ -2,6 +2,32 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "c7daacd3d8525dedbbcbb154",
+      "title": "Änderung des Gebäudeenergiegesetzes",
+      "url": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5209308",
+      "published_at": "2026-06-11T11:54:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "Änderung des Gebäudeenergiegesetzes Debatte zum Gesetzentwurf der Bundesregierung \"zur Änderung des Gebäudeenergiegesetzes, zur Änderung des Gebäude-Elektromobilitätsinfrastruktur-Gesetzes und zur Änderung weiterer Vorschriften im Wärmebereich\"",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8c6997caa786e0237b571357",
+      "title": "Salzstrom erhält Auftrag für drei Natrium-Eisenphosphat-Batteriespeicher mit 7 Megawattstunden aus Deutschland",
+      "url": "https://www.pv-magazine.de/2026/06/11/salzstrom-erhaelt-auftrag-fuer-drei-natrium-eisenphosphat-batteriespeicher-mit-7-megawattstunden-aus-deutschland/",
+      "published_at": "2026-06-11T11:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Salzstrom erhält Auftrag für drei Natrium-Eisenphosphat-Batteriespeicher mit 7 Megawattstunden aus Deutschland Der österreichische Hersteller kann einen ersten Großauftrag vermelden und läutet damit die kommerzielle Produktion ein. Drei seiner Natrium-Ionen-Batteriecontainer mit je 2,3 Megawattstunden Kapazität werden an Standorten des deutschen Forschungs- und Entwicklungsunternehmens Isel-automa",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "d68fd77bb5cf245af7279f0c",
       "title": "Sponsored: Nachrüsten leicht gemacht – Der einfache Weg zum eigenen Stromspeicher",
       "url": "https://www.pv-magazine.de/2026/06/11/sponsored-nachruesten-leicht-gemacht-der-einfache-weg-zum-eigenen-stromspeicher/",
@@ -55,39 +81,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Enervis PPA-Price-Tracker für Photovoltaik: PPA-Preise im Mai leicht unter Vormonatsniveau Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "187f2b0c91906f17485b3587",
-      "title": "Elektroauto: Wenn versenkbare Türgriffe zum Todesrisiko werden",
-      "url": "https://www.golem.de/news/elektroauto-wenn-versenkbare-tuergriffe-zum-todesrisiko-werden-2606-209639.html",
-      "published_at": "2026-06-11T06:15:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Wenn versenkbare Türgriffe zum Todesrisiko werden Versenkbare Türgriffe können im Notfall Auto-Insassen einschließen. Ein Fall aus Deutschland zeigt, wie ernst das Problem ist. ( Auto , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8a8227a313923ba43010f399",
-      "title": "Porsche-CEO: Porsche 911 wird es nicht als Elektroversion geben",
-      "url": "https://www.golem.de/news/porsche-ceo-porsche-911-wird-es-nicht-als-elektroversion-geben-2606-209628.html",
-      "published_at": "2026-06-10T14:20:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Porsche-CEO: Porsche 911 wird es nicht als Elektroversion geben Der Porsche 911 ist eine Ikone - und wird wohl nicht als Elektroauto erscheinen, zumindest wenn es nach Porsche-Chef Michael Leiters geht. ( Porsche , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0986d1a0b433014da1d4cb05",
-      "title": "Mercedes-Benz: Elektrischer GLC kann in günstigeren Varianten bestellt werden",
-      "url": "https://www.golem.de/news/mercedes-benz-elektrischer-glc-kann-in-guenstigeren-varianten-bestellt-werden-2606-209624.html",
-      "published_at": "2026-06-10T14:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Mercedes-Benz: Elektrischer GLC kann in günstigeren Varianten bestellt werden Nach dem GLC 400 4Matic kommen zwei preiswertere Varianten in den Handel. Die Preise starten bei knapp 65.000 Euro. ( Mercedes Benz , Elektroauto )",
       "tags": [],
       "regions": []
     },
