@@ -1,13 +1,39 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-11T09:21:23Z",
+  "generated_at_utc": "2026-06-11T20:36:14Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 161,
+  "total_in_archive": 163,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 61
+    "2026-06": 63
   },
   "recent_for_ui": [
+    {
+      "id": "c7daacd3d8525dedbbcbb154",
+      "title": "Änderung des Gebäudeenergiegesetzes",
+      "url": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5209308",
+      "published_at": "2026-06-11T11:54:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "Änderung des Gebäudeenergiegesetzes Debatte zum Gesetzentwurf der Bundesregierung \"zur Änderung des Gebäudeenergiegesetzes, zur Änderung des Gebäude-Elektromobilitätsinfrastruktur-Gesetzes und zur Änderung weiterer Vorschriften im Wärmebereich\"",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8c6997caa786e0237b571357",
+      "title": "Salzstrom erhält Auftrag für drei Natrium-Eisenphosphat-Batteriespeicher mit 7 Megawattstunden aus Deutschland",
+      "url": "https://www.pv-magazine.de/2026/06/11/salzstrom-erhaelt-auftrag-fuer-drei-natrium-eisenphosphat-batteriespeicher-mit-7-megawattstunden-aus-deutschland/",
+      "published_at": "2026-06-11T11:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Salzstrom erhält Auftrag für drei Natrium-Eisenphosphat-Batteriespeicher mit 7 Megawattstunden aus Deutschland Der österreichische Hersteller kann einen ersten Großauftrag vermelden und läutet damit die kommerzielle Produktion ein. Drei seiner Natrium-Ionen-Batteriecontainer mit je 2,3 Megawattstunden Kapazität werden an Standorten des deutschen Forschungs- und Entwicklungsunternehmens Isel-automa",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "d68fd77bb5cf245af7279f0c",
       "title": "Sponsored: Nachrüsten leicht gemacht – Der einfache Weg zum eigenen Stromspeicher",
