@@ -1,13 +1,35 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-11T20:36:14Z",
+  "generated_at_utc": "2026-06-12T09:11:49Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 163,
+  "total_in_archive": 165,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 63
+    "2026-06": 65
   },
   "recent_for_ui": [
+    {
+      "id": "e3b3ac8df10da24f0419cafa",
+      "title": "Entrix vermarktet erste Grey-Co-Location-Anlage für Suntec",
+      "url": "https://www.pv-magazine.de/2026/06/12/entrix-vermarktet-erste-grey-co-location-anlage-fuer-suntec/",
+      "published_at": "2026-06-12T07:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Entrix vermarktet erste Grey-Co-Location-Anlage für Suntec Das Kraftwerk besteht aus einer Photovoltaik-Anlage mit 5,8 Megawatt und einem Batteriespeicher mit 6,35 Megawatt, die an einem gemeinsamen Netzanschlusspunkt angeschlossen sind. Zudem gibt es mit DB Energie ein Power Storage Agreement mit einer Laufzeit von zehn Jahren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "54eeaf4bc0c0d538c284e3fd",
+      "title": "Opel Grandland im Test: Komfortabel, ausdauernd, begriffsstutzig",
+      "url": "https://www.golem.de/news/opel-grandland-im-test-komfortabel-ausdauernd-begriffsstutzig-2606-209664.html",
+      "published_at": "2026-06-12T07:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Opel Grandland im Test: Komfortabel, ausdauernd, begriffsstutzig Der Opel Grandland hat in der Long-Range-Version eine gute Reichweite und ein stabiles Fahrverhalten. Die Sprachsteuerung ist aber ausbaufähig. Ein Praxistest von Tobias Költzsch ( Opel , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c7daacd3d8525dedbbcbb154",
       "title": "Änderung des Gebäudeenergiegesetzes",

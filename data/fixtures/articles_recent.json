@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "e3b3ac8df10da24f0419cafa",
+      "title": "Entrix vermarktet erste Grey-Co-Location-Anlage für Suntec",
+      "url": "https://www.pv-magazine.de/2026/06/12/entrix-vermarktet-erste-grey-co-location-anlage-fuer-suntec/",
+      "published_at": "2026-06-12T07:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Entrix vermarktet erste Grey-Co-Location-Anlage für Suntec Das Kraftwerk besteht aus einer Photovoltaik-Anlage mit 5,8 Megawatt und einem Batteriespeicher mit 6,35 Megawatt, die an einem gemeinsamen Netzanschlusspunkt angeschlossen sind. Zudem gibt es mit DB Energie ein Power Storage Agreement mit einer Laufzeit von zehn Jahren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "54eeaf4bc0c0d538c284e3fd",
+      "title": "Opel Grandland im Test: Komfortabel, ausdauernd, begriffsstutzig",
+      "url": "https://www.golem.de/news/opel-grandland-im-test-komfortabel-ausdauernd-begriffsstutzig-2606-209664.html",
+      "published_at": "2026-06-12T07:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Opel Grandland im Test: Komfortabel, ausdauernd, begriffsstutzig Der Opel Grandland hat in der Long-Range-Version eine gute Reichweite und ein stabiles Fahrverhalten. Die Sprachsteuerung ist aber ausbaufähig. Ein Praxistest von Tobias Költzsch ( Opel , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "c7daacd3d8525dedbbcbb154",
       "title": "Änderung des Gebäudeenergiegesetzes",
       "url": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5209308",
@@ -39,30 +61,6 @@
       "regions": []
     },
     {
-      "id": "0eb14e0eb57b25d1a8a4cfc9",
-      "title": "Probefahrt Denza Z9 GT: Das perfekte Angeberauto",
-      "url": "https://www.golem.de/news/probefahrt-denza-z9-gt-gummi-auf-der-strasse-lassen-2606-209524.html",
-      "published_at": "2026-06-11T08:30:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Probefahrt Denza Z9 GT: Das perfekte Angeberauto BYD bringt seine Oberklasse-Marke Denza nach Deutschland. Den Anfang macht der Z9 GT im Taycan-Preissegment. Von Dirk Kunde ( BYD , Elektroauto )",
-      "tags": [
-        "exploration"
-      ],
-      "regions": []
-    },
-    {
-      "id": "a2fd7292a18bb231e3acd1cd",
-      "title": "Elektroauto: BYDs Flash-Charging soll unter 60 Cent pro kWh kosten",
-      "url": "https://www.golem.de/news/elektroauto-byds-flash-charging-soll-unter-60-cent-pro-kwh-kosten-2606-209652.html",
-      "published_at": "2026-06-11T08:06:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: BYDs Flash-Charging soll unter 60 Cent pro kWh kosten BYD will sein Flash-Charging-Netzwerk nach Europa bringen. Die Ladeleistungen erreichen 1.500 kW, der Preis soll für BYD-Kunden niedrig sein. ( BYD , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "3b6261239c69035d907e7adc",
       "title": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto",
       "url": "https://www.heise.de/news/c-t-Webinar-Energiekosten-senken-mit-dem-Elektroauto-11322896.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -70,50 +68,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto Wann lohnt sich Überschussladen, wann ein dynamischer Tarif? Das Webinar trennt technische Spielereien von wirtschaftlich sinnvollen Lösungen rund ums E-Auto.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2b7a8c667dca9b8db1bc90e5",
-      "title": "Enervis PPA-Price-Tracker für Photovoltaik: PPA-Preise im Mai leicht unter Vormonatsniveau",
-      "url": "https://www.pv-magazine.de/2026/06/11/enervis-ppa-price-tracker-fuer-photovoltaik-ppa-preise-im-mai-leicht-unter-vormonatsniveau/",
-      "published_at": "2026-06-11T07:28:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Enervis PPA-Price-Tracker für Photovoltaik: PPA-Preise im Mai leicht unter Vormonatsniveau Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fbe8e5d82a6615a0ec31dfd9",
-      "title": "Porsche-Chef Leiters: Der 911 wird nie ein Elektroauto",
-      "url": "https://www.heise.de/news/Porsche-Chef-Leiters-Der-911-wird-nie-ein-Elektroauto-11327626.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-10T13:29:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Porsche-Chef Leiters: Der 911 wird nie ein Elektroauto Porsche-Chef Michael Leiters schließt eine vollelektrische Version des Sportwagens 911 aus. Der Fokus liegt dort stattdessen auf Verbrenner- und Hybrid-Technik.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d3e6c382b99b52bf2baf954d",
-      "title": "Deutsche Firma involviert: Youtuber entlarvt angeblichen Wunderakku von Donut Lab",
-      "url": "https://t3n.de/news/wunderakku-donut-lab-1746765/",
-      "published_at": "2026-06-09T17:17:13Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Deutsche Firma involviert: Youtuber entlarvt angeblichen Wunderakku von Donut Lab Schon kurz nach der Vorstellung des angeblichen Wunderakkus waren Zweifel an der Behauptung von Donut Lab aufgekommen, es habe eine serienreife Feststoffbatterie entwickelt. Tatsächlich dürfte es sich um einen Lithium-Ionen-Akku handeln. Es klang viel zu schön, um wahr zu sein. Auf der CES 2026 in Las Vegas hatte die",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0cc049ac48d0293f2d11e329",
-      "title": "Stromspeicher für Balkonkraftwerke: Ab wann sich die Anschaffung für dich lohnt",
-      "url": "https://t3n.de/news/stromspeicher-fuer-balkonkraftwerke-ab-wann-sich-die-anschaffung-fuer-dich-lohnt-1746658/",
-      "published_at": "2026-06-09T13:00:03Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Stromspeicher für Balkonkraftwerke: Ab wann sich die Anschaffung für dich lohnt Mit einem Stromspeicher lässt sich noch mehr aus der Energie herausholen, die ein Balkonkraftwerk erzeugt. Wie funktionieren die zusätzlichen Geräte? Worauf muss man achten? Und wo liegen die Kosten? Balkonkraftwerke sind kinderleicht zu installieren und können Geräte wie Kühlschränke oder Fernseher mit Strom versorgen",
       "tags": [],
       "regions": []
     },
