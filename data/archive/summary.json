@@ -1,13 +1,61 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-12T09:11:49Z",
+  "generated_at_utc": "2026-06-12T20:27:38Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 165,
+  "total_in_archive": 169,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 65
+    "2026-06": 69
   },
   "recent_for_ui": [
+    {
+      "id": "b2ebf73e27d7eac5f760b895",
+      "title": "(g+) Transportation: Tesla's Robotaxi Falls Short With Long Waits, Stalled Rides",
+      "url": "https://www.golem.de/news/transportation-tesla-s-robotaxi-falls-short-with-long-waits-stalled-rides-2606-209716.html",
+      "published_at": "2026-06-12T12:30:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "(g+) Transportation: Tesla's Robotaxi Falls Short With Long Waits, Stalled Rides The carmaker has just 59 vehicles in its fleet and is limited to three Texas cities, nowhere close to Elon Musk's big promises. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a9d2b311ca5d8b8c47836470",
+      "title": "Leapmotor B05 ProMax im Fahrbericht: Der wird unbequem – für die Konkurrenz",
+      "url": "https://www.heise.de/tests/Leapmotor-B05-ProMax-im-Fahrbericht-Der-wird-unbequem-fuer-die-Konkurrenz-11330113.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-12T10:25:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Leapmotor B05 ProMax im Fahrbericht: Der wird unbequem – für die Konkurrenz Leapmotor schickt sich an, die Kompaktklasse aufzumischen. Das Elektroauto B05 ist mit einem Kampfpreis versehen. Wir konnten eine erste Proberunde drehen.",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "18188029b43024d3b8bdf958",
+      "title": "Dänemark: Teslas Werbevideo für FSD Supervised enthält Verkehrsverstöße",
+      "url": "https://www.golem.de/news/daenemark-teslas-werbevideo-fuer-fsd-supervised-enthaelt-verkehrsverstoesse-2606-209705.html",
+      "published_at": "2026-06-12T10:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Dänemark: Teslas Werbevideo für FSD Supervised enthält Verkehrsverstöße In Dänemark wurde FSD Supervised genehmigt - ein neues Promo-Video von Tesla zeigt aber zahlreiche Verkehrsverstöße. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "48514216ba120f957b55bb66",
+      "title": "Neue Methode zur Lithium-Gewinnung aus festem Salz benötigt kaum Frischwasser",
+      "url": "https://www.heise.de/news/Neue-Methode-zur-Lithium-Gewinnung-aus-festem-Salz-benoetigt-kaum-Frischwasser-11329989.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-12T10:09:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Neue Methode zur Lithium-Gewinnung aus festem Salz benötigt kaum Frischwasser Die Lithiumgewinnung aus lithiumhaltiger Sole ist umweltunfreundlich. Ein neues Verfahren extrahiert Lithium effizienter und soll besser für die Umwelt sein.",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
     {
       "id": "e3b3ac8df10da24f0419cafa",
       "title": "Entrix vermarktet erste Grey-Co-Location-Anlage für Suntec",

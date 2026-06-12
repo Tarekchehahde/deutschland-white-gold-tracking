@@ -2,6 +2,54 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "b2ebf73e27d7eac5f760b895",
+      "title": "(g+) Transportation: Tesla's Robotaxi Falls Short With Long Waits, Stalled Rides",
+      "url": "https://www.golem.de/news/transportation-tesla-s-robotaxi-falls-short-with-long-waits-stalled-rides-2606-209716.html",
+      "published_at": "2026-06-12T12:30:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "(g+) Transportation: Tesla's Robotaxi Falls Short With Long Waits, Stalled Rides The carmaker has just 59 vehicles in its fleet and is limited to three Texas cities, nowhere close to Elon Musk's big promises. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a9d2b311ca5d8b8c47836470",
+      "title": "Leapmotor B05 ProMax im Fahrbericht: Der wird unbequem – für die Konkurrenz",
+      "url": "https://www.heise.de/tests/Leapmotor-B05-ProMax-im-Fahrbericht-Der-wird-unbequem-fuer-die-Konkurrenz-11330113.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-12T10:25:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Leapmotor B05 ProMax im Fahrbericht: Der wird unbequem – für die Konkurrenz Leapmotor schickt sich an, die Kompaktklasse aufzumischen. Das Elektroauto B05 ist mit einem Kampfpreis versehen. Wir konnten eine erste Proberunde drehen.",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "18188029b43024d3b8bdf958",
+      "title": "Dänemark: Teslas Werbevideo für FSD Supervised enthält Verkehrsverstöße",
+      "url": "https://www.golem.de/news/daenemark-teslas-werbevideo-fuer-fsd-supervised-enthaelt-verkehrsverstoesse-2606-209705.html",
+      "published_at": "2026-06-12T10:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Dänemark: Teslas Werbevideo für FSD Supervised enthält Verkehrsverstöße In Dänemark wurde FSD Supervised genehmigt - ein neues Promo-Video von Tesla zeigt aber zahlreiche Verkehrsverstöße. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "48514216ba120f957b55bb66",
+      "title": "Neue Methode zur Lithium-Gewinnung aus festem Salz benötigt kaum Frischwasser",
+      "url": "https://www.heise.de/news/Neue-Methode-zur-Lithium-Gewinnung-aus-festem-Salz-benoetigt-kaum-Frischwasser-11329989.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-12T10:09:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Neue Methode zur Lithium-Gewinnung aus festem Salz benötigt kaum Frischwasser Die Lithiumgewinnung aus lithiumhaltiger Sole ist umweltunfreundlich. Ein neues Verfahren extrahiert Lithium effizienter und soll besser für die Umwelt sein.",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
       "id": "e3b3ac8df10da24f0419cafa",
       "title": "Entrix vermarktet erste Grey-Co-Location-Anlage für Suntec",
       "url": "https://www.pv-magazine.de/2026/06/12/entrix-vermarktet-erste-grey-co-location-anlage-fuer-suntec/",
@@ -24,19 +72,6 @@
       "regions": []
     },
     {
-      "id": "c7daacd3d8525dedbbcbb154",
-      "title": "Änderung des Gebäudeenergiegesetzes",
-      "url": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5209308",
-      "published_at": "2026-06-11T11:54:00Z",
-      "source_id": "zdf-nachrichten",
-      "language": "de",
-      "summary": "Änderung des Gebäudeenergiegesetzes Debatte zum Gesetzentwurf der Bundesregierung \"zur Änderung des Gebäudeenergiegesetzes, zur Änderung des Gebäude-Elektromobilitätsinfrastruktur-Gesetzes und zur Änderung weiterer Vorschriften im Wärmebereich\"",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
       "id": "8c6997caa786e0237b571357",
       "title": "Salzstrom erhält Auftrag für drei Natrium-Eisenphosphat-Batteriespeicher mit 7 Megawattstunden aus Deutschland",
       "url": "https://www.pv-magazine.de/2026/06/11/salzstrom-erhaelt-auftrag-fuer-drei-natrium-eisenphosphat-batteriespeicher-mit-7-megawattstunden-aus-deutschland/",
@@ -47,28 +82,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "d68fd77bb5cf245af7279f0c",
-      "title": "Sponsored: Nachrüsten leicht gemacht – Der einfache Weg zum eigenen Stromspeicher",
-      "url": "https://www.pv-magazine.de/2026/06/11/sponsored-nachruesten-leicht-gemacht-der-einfache-weg-zum-eigenen-stromspeicher/",
-      "published_at": "2026-06-11T09:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Sponsored: Nachrüsten leicht gemacht – Der einfache Weg zum eigenen Stromspeicher Viele Photovoltaik-Anlagen produzieren mehr Strom als direkt genutzt werden kann. Plug-in Batteriespeicher wie die neue „Anker Solix Solarbank Max AC“ können dabei helfen, diesen Überschuss ohne Installationsaufwand zu speichern und später zu nutzen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3b6261239c69035d907e7adc",
-      "title": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto",
-      "url": "https://www.heise.de/news/c-t-Webinar-Energiekosten-senken-mit-dem-Elektroauto-11322896.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-11T08:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto Wann lohnt sich Überschussladen, wann ein dynamischer Tarif? Das Webinar trennt technische Spielereien von wirtschaftlich sinnvollen Lösungen rund ums E-Auto.",
-      "tags": [],
       "regions": []
     },
     {
