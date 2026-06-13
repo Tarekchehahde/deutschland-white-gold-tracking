@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "0e708685f7fe09193818cb23",
+      "title": "Elektroauto: Lärm »V8-Soundgewitter« – was soll das?",
+      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-laerm-v8-soundgewitter-was-soll-das-a-c03c777d-f665-4c1b-a0c7-2e730a84d750",
+      "published_at": "2026-06-13T07:51:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto: Lärm »V8-Soundgewitter« – was soll das? Sie blubbern, bollern und brummen: Elektroautos imitieren zunehmend Verbrennergeräusche, sogar mit Möchtegern-Fehlzündungen. Eine neue internationale Regel soll die Lärmoffensive nun legitimieren.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "b2ebf73e27d7eac5f760b895",
       "title": "(g+) Transportation: Tesla's Robotaxi Falls Short With Long Waits, Stalled Rides",
       "url": "https://www.golem.de/news/transportation-tesla-s-robotaxi-falls-short-with-long-waits-stalled-rides-2606-209716.html",
@@ -57,17 +68,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Entrix vermarktet erste Grey-Co-Location-Anlage für Suntec Das Kraftwerk besteht aus einer Photovoltaik-Anlage mit 5,8 Megawatt und einem Batteriespeicher mit 6,35 Megawatt, die an einem gemeinsamen Netzanschlusspunkt angeschlossen sind. Zudem gibt es mit DB Energie ein Power Storage Agreement mit einer Laufzeit von zehn Jahren.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "54eeaf4bc0c0d538c284e3fd",
-      "title": "Opel Grandland im Test: Komfortabel, ausdauernd, begriffsstutzig",
-      "url": "https://www.golem.de/news/opel-grandland-im-test-komfortabel-ausdauernd-begriffsstutzig-2606-209664.html",
-      "published_at": "2026-06-12T07:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Opel Grandland im Test: Komfortabel, ausdauernd, begriffsstutzig Der Opel Grandland hat in der Long-Range-Version eine gute Reichweite und ein stabiles Fahrverhalten. Die Sprachsteuerung ist aber ausbaufähig. Ein Praxistest von Tobias Költzsch ( Opel , Elektroauto )",
       "tags": [],
       "regions": []
     },
