@@ -1,13 +1,24 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-13T08:31:40Z",
+  "generated_at_utc": "2026-06-13T19:54:49Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 170,
+  "total_in_archive": 171,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 70
+    "2026-06": 71
   },
   "recent_for_ui": [
+    {
+      "id": "5d20c6da4e26d8f43709cb58",
+      "title": "Ladebuchse: Xiaomi will mit Roboterarm E-Autos aufladen",
+      "url": "https://www.golem.de/news/ladebuchse-xiaomi-will-mit-roboterarm-e-autos-aufladen-2606-209743.html",
+      "published_at": "2026-06-13T11:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ladebuchse: Xiaomi will mit Roboterarm E-Autos aufladen Tesla hat es 2015 vorgeführt und dann aufgegeben. Xiaomi zeigt jetzt, wie ein Roboterarm das Elektroauto in der Garage selbstständig ansteckt. ( Wallbox , Roboter )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "0e708685f7fe09193818cb23",
       "title": "Elektroauto: Lärm »V8-Soundgewitter« – was soll das?",
