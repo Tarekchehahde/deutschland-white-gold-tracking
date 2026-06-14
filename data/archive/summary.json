@@ -1,11 +1,11 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-13T19:54:49Z",
+  "generated_at_utc": "2026-06-14T08:49:49Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 171,
+  "total_in_archive": 172,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 71
+    "2026-06": 72
   },
   "recent_for_ui": [
     {
@@ -180,6 +180,17 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Enervis PPA-Price-Tracker für Photovoltaik: PPA-Preise im Mai leicht unter Vormonatsniveau Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e6d5169352e436dd127b74a2",
+      "title": "E-Pioniere: Aloisia und Wolfgang Streicher",
+      "url": "https://www.swr.de/video/sendungen-a-z/kaffee-oder-tee/e-pioniere-aloisia-und-wolfgang-streicher-100.html",
+      "published_at": "2026-06-11T07:20:54Z",
+      "source_id": "swr-aktuell-rss",
+      "language": "de",
+      "summary": "E-Pioniere: Aloisia und Wolfgang Streicher Aloisia und Wolfgang Streicher sind seit Jahren überzeugt von Elektromobilität. Ihr erstes E-Bike hatten sie bereits 2010.",
       "tags": [],
       "regions": []
     },
