@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "bca7e445b493fc7ce6c8190b",
+      "title": "Tesla: Plastikköpfe im Cockpit tricksen Aufmerksamkeitskontrolle aus",
+      "url": "https://www.golem.de/news/tesla-plastikkoepfe-im-cockpit-tricksen-aufmerksamkeitskontrolle-aus-2606-209749.html",
+      "published_at": "2026-06-14T11:17:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Plastikköpfe im Cockpit tricksen Aufmerksamkeitskontrolle aus Mit einer kleinen Plastikfigur kann Teslas Innenraum-Kamerasystem samt Aufmerksamkeitskontrolle überlistet werden. ( Autonomes Fahren , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "da331b0e6d865071050c6e19",
+      "title": "E-208: Peugeot bringt Elektro-GTI",
+      "url": "https://www.golem.de/news/e-208-peugeot-bringt-elektro-gti-2606-209747.html",
+      "published_at": "2026-06-14T10:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "E-208: Peugeot bringt Elektro-GTI Peugeot hat in Le Mans den E-208 GTi und seinen Bestellstart bekannt gegeben. Das E-Auto erreicht 100 km/h in 5,5 Sekunden. ( Peugeot , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "5d20c6da4e26d8f43709cb58",
       "title": "Ladebuchse: Xiaomi will mit Roboterarm E-Autos aufladen",
       "url": "https://www.golem.de/news/ladebuchse-xiaomi-will-mit-roboterarm-e-autos-aufladen-2606-209743.html",
@@ -9,17 +31,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Ladebuchse: Xiaomi will mit Roboterarm E-Autos aufladen Tesla hat es 2015 vorgeführt und dann aufgegeben. Xiaomi zeigt jetzt, wie ein Roboterarm das Elektroauto in der Garage selbstständig ansteckt. ( Wallbox , Roboter )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b2ebf73e27d7eac5f760b895",
-      "title": "(g+) Transportation: Tesla's Robotaxi Falls Short With Long Waits, Stalled Rides",
-      "url": "https://www.golem.de/news/transportation-tesla-s-robotaxi-falls-short-with-long-waits-stalled-rides-2606-209716.html",
-      "published_at": "2026-06-12T12:30:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "(g+) Transportation: Tesla's Robotaxi Falls Short With Long Waits, Stalled Rides The carmaker has just 59 vehicles in its fleet and is limited to three Texas cities, nowhere close to Elon Musk's big promises. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     },
