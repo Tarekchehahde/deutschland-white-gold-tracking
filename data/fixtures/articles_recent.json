@@ -37,17 +37,6 @@
       "regions": []
     },
     {
-      "id": "18188029b43024d3b8bdf958",
-      "title": "Dänemark: Teslas Werbevideo für FSD Supervised enthält Verkehrsverstöße",
-      "url": "https://www.golem.de/news/daenemark-teslas-werbevideo-fuer-fsd-supervised-enthaelt-verkehrsverstoesse-2606-209705.html",
-      "published_at": "2026-06-12T10:15:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Dänemark: Teslas Werbevideo für FSD Supervised enthält Verkehrsverstöße In Dänemark wurde FSD Supervised genehmigt - ein neues Promo-Video von Tesla zeigt aber zahlreiche Verkehrsverstöße. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "48514216ba120f957b55bb66",
       "title": "Neue Methode zur Lithium-Gewinnung aus festem Salz benötigt kaum Frischwasser",
       "url": "https://www.heise.de/news/Neue-Methode-zur-Lithium-Gewinnung-aus-festem-Salz-benoetigt-kaum-Frischwasser-11329989.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -72,19 +61,6 @@
       "regions": []
     },
     {
-      "id": "c7daacd3d8525dedbbcbb154",
-      "title": "Änderung des Gebäudeenergiegesetzes",
-      "url": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5209308",
-      "published_at": "2026-06-11T11:54:00Z",
-      "source_id": "zdf-nachrichten",
-      "language": "de",
-      "summary": "Änderung des Gebäudeenergiegesetzes Debatte zum Gesetzentwurf der Bundesregierung \"zur Änderung des Gebäudeenergiegesetzes, zur Änderung des Gebäude-Elektromobilitätsinfrastruktur-Gesetzes und zur Änderung weiterer Vorschriften im Wärmebereich\"",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
       "id": "8c6997caa786e0237b571357",
       "title": "Salzstrom erhält Auftrag für drei Natrium-Eisenphosphat-Batteriespeicher mit 7 Megawattstunden aus Deutschland",
       "url": "https://www.pv-magazine.de/2026/06/11/salzstrom-erhaelt-auftrag-fuer-drei-natrium-eisenphosphat-batteriespeicher-mit-7-megawattstunden-aus-deutschland/",
@@ -95,6 +71,17 @@
       "tags": [
         "industrie"
       ],
+      "regions": []
+    },
+    {
+      "id": "e6d5169352e436dd127b74a2",
+      "title": "E-Pioniere: Aloisia und Wolfgang Streicher",
+      "url": "https://www.swr.de/video/sendungen-a-z/kaffee-oder-tee/e-pioniere-aloisia-und-wolfgang-streicher-100.html",
+      "published_at": "2026-06-11T07:20:54Z",
+      "source_id": "swr-aktuell-rss",
+      "language": "de",
+      "summary": "E-Pioniere: Aloisia und Wolfgang Streicher Aloisia und Wolfgang Streicher sind seit Jahren überzeugt von Elektromobilität. Ihr erstes E-Bike hatten sie bereits 2010.",
+      "tags": [],
       "regions": []
     },
     {
