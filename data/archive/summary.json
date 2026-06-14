@@ -1,13 +1,35 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-14T08:49:49Z",
+  "generated_at_utc": "2026-06-14T19:58:41Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 172,
+  "total_in_archive": 174,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 72
+    "2026-06": 74
   },
   "recent_for_ui": [
+    {
+      "id": "bca7e445b493fc7ce6c8190b",
+      "title": "Tesla: Plastikköpfe im Cockpit tricksen Aufmerksamkeitskontrolle aus",
+      "url": "https://www.golem.de/news/tesla-plastikkoepfe-im-cockpit-tricksen-aufmerksamkeitskontrolle-aus-2606-209749.html",
+      "published_at": "2026-06-14T11:17:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Plastikköpfe im Cockpit tricksen Aufmerksamkeitskontrolle aus Mit einer kleinen Plastikfigur kann Teslas Innenraum-Kamerasystem samt Aufmerksamkeitskontrolle überlistet werden. ( Autonomes Fahren , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "da331b0e6d865071050c6e19",
+      "title": "E-208: Peugeot bringt Elektro-GTI",
+      "url": "https://www.golem.de/news/e-208-peugeot-bringt-elektro-gti-2606-209747.html",
+      "published_at": "2026-06-14T10:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "E-208: Peugeot bringt Elektro-GTI Peugeot hat in Le Mans den E-208 GTi und seinen Bestellstart bekannt gegeben. Das E-Auto erreicht 100 km/h in 5,5 Sekunden. ( Peugeot , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "5d20c6da4e26d8f43709cb58",
       "title": "Ladebuchse: Xiaomi will mit Roboterarm E-Autos aufladen",
