@@ -2,6 +2,30 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "c985626e51bfcd831bb258bd",
+      "title": "Eco Stor schließt Finanzierung für 718 Megawattstunden-Speicher ab",
+      "url": "https://www.pv-magazine.de/2026/06/15/eco-stor-schliesst-finanzierung-fuer-718-megawattstunden-speicher-ab/",
+      "published_at": "2026-06-15T10:56:07Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Eco Stor schließt Finanzierung für 718 Megawattstunden-Speicher ab Die Banken Banco Sanander und die Nord LB werden die Finanzierung auf Basis des jüngst geschlossenen Tolling-Vertrags mit Next Kraftwerke übernehmen. Im kommenden Jahr soll der Batteriespeicher mit 300 Megawatt Leistung in Sachsen-Anhalt den Vollbetrieb aufnehmen.",
+      "tags": [],
+      "regions": [
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "a53b0937d1e5bd19d2f8c49b",
+      "title": "H2 als Energiespeicher: Großmotor nutzt reinen Wasserstoff zur Stromerzeugung",
+      "url": "https://www.golem.de/news/h2-als-energiespeicher-grossmotor-nutzt-reinen-wasserstoff-zur-stromerzeugung-2606-209761.html",
+      "published_at": "2026-06-15T07:28:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "H2 als Energiespeicher: Großmotor nutzt reinen Wasserstoff zur Stromerzeugung Im Gegensatz zu Gasturbinen läuft der Motor schon jetzt ausschließlich mit Wasserstoff. Grundlage ist ein Diesel-Schiffsmotor. ( Wasserstoff , Brennstoffzelle )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "bca7e445b493fc7ce6c8190b",
       "title": "Tesla: Plastikköpfe im Cockpit tricksen Aufmerksamkeitskontrolle aus",
       "url": "https://www.golem.de/news/tesla-plastikkoepfe-im-cockpit-tricksen-aufmerksamkeitskontrolle-aus-2606-209749.html",
@@ -24,43 +48,6 @@
       "regions": []
     },
     {
-      "id": "5d20c6da4e26d8f43709cb58",
-      "title": "Ladebuchse: Xiaomi will mit Roboterarm E-Autos aufladen",
-      "url": "https://www.golem.de/news/ladebuchse-xiaomi-will-mit-roboterarm-e-autos-aufladen-2606-209743.html",
-      "published_at": "2026-06-13T11:30:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Ladebuchse: Xiaomi will mit Roboterarm E-Autos aufladen Tesla hat es 2015 vorgeführt und dann aufgegeben. Xiaomi zeigt jetzt, wie ein Roboterarm das Elektroauto in der Garage selbstständig ansteckt. ( Wallbox , Roboter )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a9d2b311ca5d8b8c47836470",
-      "title": "Leapmotor B05 ProMax im Fahrbericht: Der wird unbequem – für die Konkurrenz",
-      "url": "https://www.heise.de/tests/Leapmotor-B05-ProMax-im-Fahrbericht-Der-wird-unbequem-fuer-die-Konkurrenz-11330113.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-12T10:25:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Leapmotor B05 ProMax im Fahrbericht: Der wird unbequem – für die Konkurrenz Leapmotor schickt sich an, die Kompaktklasse aufzumischen. Das Elektroauto B05 ist mit einem Kampfpreis versehen. Wir konnten eine erste Proberunde drehen.",
-      "tags": [
-        "exploration"
-      ],
-      "regions": []
-    },
-    {
-      "id": "48514216ba120f957b55bb66",
-      "title": "Neue Methode zur Lithium-Gewinnung aus festem Salz benötigt kaum Frischwasser",
-      "url": "https://www.heise.de/news/Neue-Methode-zur-Lithium-Gewinnung-aus-festem-Salz-benoetigt-kaum-Frischwasser-11329989.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-12T10:09:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Neue Methode zur Lithium-Gewinnung aus festem Salz benötigt kaum Frischwasser Die Lithiumgewinnung aus lithiumhaltiger Sole ist umweltunfreundlich. Ein neues Verfahren extrahiert Lithium effizienter und soll besser für die Umwelt sein.",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
       "id": "e3b3ac8df10da24f0419cafa",
       "title": "Entrix vermarktet erste Grey-Co-Location-Anlage für Suntec",
       "url": "https://www.pv-magazine.de/2026/06/12/entrix-vermarktet-erste-grey-co-location-anlage-fuer-suntec/",
@@ -68,41 +55,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Entrix vermarktet erste Grey-Co-Location-Anlage für Suntec Das Kraftwerk besteht aus einer Photovoltaik-Anlage mit 5,8 Megawatt und einem Batteriespeicher mit 6,35 Megawatt, die an einem gemeinsamen Netzanschlusspunkt angeschlossen sind. Zudem gibt es mit DB Energie ein Power Storage Agreement mit einer Laufzeit von zehn Jahren.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8c6997caa786e0237b571357",
-      "title": "Salzstrom erhält Auftrag für drei Natrium-Eisenphosphat-Batteriespeicher mit 7 Megawattstunden aus Deutschland",
-      "url": "https://www.pv-magazine.de/2026/06/11/salzstrom-erhaelt-auftrag-fuer-drei-natrium-eisenphosphat-batteriespeicher-mit-7-megawattstunden-aus-deutschland/",
-      "published_at": "2026-06-11T11:15:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Salzstrom erhält Auftrag für drei Natrium-Eisenphosphat-Batteriespeicher mit 7 Megawattstunden aus Deutschland Der österreichische Hersteller kann einen ersten Großauftrag vermelden und läutet damit die kommerzielle Produktion ein. Drei seiner Natrium-Ionen-Batteriecontainer mit je 2,3 Megawattstunden Kapazität werden an Standorten des deutschen Forschungs- und Entwicklungsunternehmens Isel-automa",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "e6d5169352e436dd127b74a2",
-      "title": "E-Pioniere: Aloisia und Wolfgang Streicher",
-      "url": "https://www.swr.de/video/sendungen-a-z/kaffee-oder-tee/e-pioniere-aloisia-und-wolfgang-streicher-100.html",
-      "published_at": "2026-06-11T07:20:54Z",
-      "source_id": "swr-aktuell-rss",
-      "language": "de",
-      "summary": "E-Pioniere: Aloisia und Wolfgang Streicher Aloisia und Wolfgang Streicher sind seit Jahren überzeugt von Elektromobilität. Ihr erstes E-Bike hatten sie bereits 2010.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3769c92d41c8b04ccbb1b170",
-      "title": "Rohstoffabbau - Wie giftig ist Lithium - und wie gesund?",
-      "url": "https://www.deutschlandfunk.de/rohstoffabbau-lithium-wie-giftig-und-wie-gesund-zwei-seiten-des-batteriemetalls-100.html",
-      "published_at": "2026-06-08T07:00:00Z",
-      "source_id": "deutschlandfunk-wissen",
-      "language": "de",
-      "summary": "Rohstoffabbau - Wie giftig ist Lithium - und wie gesund? Lithium, das leichteste aller Metalle, ist der perfekte Stoff für Batterien. Jetzt startet auch in Deutschland die Massenproduktion. In Spuren soll Lithium Nervenschäden vorbeugen, in hohen Dosen ist es giftig. Was, wenn es ins Trinkwasser gerät? Mühlenberg, Heidi",
       "tags": [],
       "regions": []
     }

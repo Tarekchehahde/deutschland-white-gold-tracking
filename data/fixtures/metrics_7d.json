@@ -1,19 +1,12 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-06-08": 1,
-    "2026-06-11": 2,
-    "2026-06-12": 3,
-    "2026-06-13": 1,
-    "2026-06-14": 2
+    "2026-06-12": 1,
+    "2026-06-14": 2,
+    "2026-06-15": 2
   },
-  "tag_counts": {
-    "exploration": 1,
-    "industrie": 1,
-    "umwelt": 1
-  },
+  "tag_counts": {},
   "by_source_category": {
-    "broadcast": 2,
-    "national": 7
+    "national": 5
   }
 }
