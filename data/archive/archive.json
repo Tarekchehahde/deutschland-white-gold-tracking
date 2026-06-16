@@ -2,6 +2,52 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "cdba37af6fa57bbe8fef334e",
+      "title": "Elektroindustrie: Deutsche Batterieproduktion steigt auf Rekord",
+      "url": "https://www.sueddeutsche.de/wirtschaft/elektroautos-batterien-produktion-industrie-rekord-li.3499698",
+      "published_at": "2026-06-16T09:26:21Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Elektroindustrie: Deutsche Batterieproduktion steigt auf Rekord In Deutschland gibt es immer mehr E-Autos, daher werden auch immer mehr Batterien hergestellt. Aber die Industrie warnt vor Abhängigkeiten aus China – auch im Verteidigungsbereich.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "47c3918cbe7c8999786e728b",
+      "title": "Elektroindustrie: Mehr E-Autos: Deutsche Batterieproduktion steigt auf Rekord",
+      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/mehr-e-autos-deutsche-batterieproduktion-steigt-auf-rekord_aid-149967615",
+      "published_at": "2026-06-16T09:12:49Z",
+      "source_id": "volksfreund",
+      "language": "de",
+      "summary": "Elektroindustrie: Mehr E-Autos: Deutsche Batterieproduktion steigt auf Rekord Die Batterieproduktion in Deutschland steigt auf einen Höchstwert, doch zugleich wächst die Abhängigkeit von Importen aus China. Die Elektroindustrie warnt vor Risiken in kritischen Sektoren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b7b2db8697847addba430ccc",
+      "title": "Netzbetreiber: Das Energy Sharing ist zum Scheitern verurteilt",
+      "url": "https://www.golem.de/news/netzbetreiber-das-energy-sharing-ist-zum-scheitern-verurteilt-2606-209786.html",
+      "published_at": "2026-06-16T09:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Netzbetreiber: Das Energy Sharing ist zum Scheitern verurteilt Strom aus der eigenen Solaranlage soll an Nachbarn und Freunde weiterverkauft werden können. Die aktuelle Regelung dürfte an der Praxis scheitern. Von Mario Petzold ( Energiewende , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6f0e785eb0219942b268b960",
+      "title": "Tesla Cybercab: Offizielle Dokumente zeigen, was Tesla verschwiegen hat",
+      "url": "https://www.golem.de/news/tesla-cybercab-offizielle-dokumente-zeigen-was-tesla-verschwiegen-hat-2606-209809.html",
+      "published_at": "2026-06-16T08:16:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla Cybercab: Offizielle Dokumente zeigen, was Tesla verschwiegen hat Die US-Umweltbehörde EPA hat das Tesla Cybercab am 26. Mai 2026 offiziell zertifiziert. Dadurch kommen technische Details ans Licht. ( Cybercab , Elektroauto )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
       "id": "c985626e51bfcd831bb258bd",
       "title": "Eco Stor schließt Finanzierung für 718 Megawattstunden-Speicher ab",
       "url": "https://www.pv-magazine.de/2026/06/15/eco-stor-schliesst-finanzierung-fuer-718-megawattstunden-speicher-ab/",
