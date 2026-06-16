@@ -2,6 +2,50 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "53278e08ec948593475070dd",
+      "title": "Elektroauto: Was ein Urteil zur geringeren Reichweite für Fahrer bedeutet",
+      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-was-ein-urteil-zur-geringeren-reichweite-fuer-fahrer-bedeutet-a-65761078-b376-4db1-b9bd-9404c1842010",
+      "published_at": "2026-06-16T15:36:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto: Was ein Urteil zur geringeren Reichweite für Fahrer bedeutet Viele E-Auto-Besitzer ärgern sich: Ihr Wagen kommt mit einer Akkuladung längst nicht so weit wie versprochen. Ein Gericht hat entschieden, wie viel Reichweite-Minus man nicht tolerieren muss.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "90d1ea2fdde01bb79194e546",
+      "title": "Autonomes Fahren: Tesla wirbt angeblich mit Fantasiezahlen für EU-Zulassung",
+      "url": "https://www.golem.de/news/autonomes-fahren-tesla-wirbt-angeblich-mit-fantasiezahlen-fuer-eu-zulassung-2606-209833.html",
+      "published_at": "2026-06-16T13:36:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Tesla wirbt angeblich mit Fantasiezahlen für EU-Zulassung Nach Ansicht von Tesla fahren Autos im FSD-Modus viel sicherer als Menschen. Die schöngerechnete Statistik soll EU-Zulassungsbehörden überzeugen. ( Autonomes Fahren , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "472d9149ee508e23881dac09",
+      "title": "(g+) Electric Vehicles: Tata-Chery collaboration highlights Indian EV makers' China reliance",
+      "url": "https://www.golem.de/news/electric-vehicles-tata-chery-collaboration-highlights-indian-ev-makers-china-reliance-2606-209821.html",
+      "published_at": "2026-06-16T12:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "(g+) Electric Vehicles: Tata-Chery collaboration highlights Indian EV makers' China reliance EV platform being used for Avinya cars amid efforts to cut development times ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "db06c0b386fb2499c5c5a02c",
+      "title": "Mehr E-Autos: Deutsche Batterieproduktion steigt auf Rekord",
+      "url": "https://www.heise.de/news/Mehr-E-Autos-Deutsche-Batterieproduktion-steigt-auf-Rekord-11334007.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-16T11:19:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Mehr E-Autos: Deutsche Batterieproduktion steigt auf Rekord Die Batterieproduktion in Deutschland steigt auf einen Höchstwert, doch zugleich wächst die Abhängigkeit von Importen aus China. Die Industrie warnt.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "cdba37af6fa57bbe8fef334e",
       "title": "Elektroindustrie: Deutsche Batterieproduktion steigt auf Rekord",
       "url": "https://www.sueddeutsche.de/wirtschaft/elektroautos-batterien-produktion-industrie-rekord-li.3499698",
