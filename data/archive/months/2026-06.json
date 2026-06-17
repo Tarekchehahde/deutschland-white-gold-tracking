@@ -1,8 +1,54 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-06",
-  "article_count": 84,
+  "article_count": 88,
   "articles": [
+    {
+      "id": "8e9b76c8e477097222323719",
+      "title": "Zu geringe WLTP-Reichweite: Gericht legt Grenzwert für Akkudegradation fest",
+      "url": "https://www.golem.de/news/zu-geringe-wltp-reichweite-gericht-legt-grenzwert-fuer-akkudegradation-fest-2606-209859.html",
+      "published_at": "2026-06-17T08:56:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Zu geringe WLTP-Reichweite: Gericht legt Grenzwert für Akkudegradation fest Ein Käufer war mit der Reichweite seines E-Autos unzufrieden. Vor Gericht hat er erfolgreich gegen den Händler geklagt. ( Elektroauto , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b5e71dc7a5b7790a2941f07c",
+      "title": "ZVEI: Batterieproduktion in Deutschland wieder auf Wachstumskurs",
+      "url": "https://www.pv-magazine.de/2026/06/17/zvei-batterieproduktion-in-deutschland-wieder-auf-wachstumskurs/",
+      "published_at": "2026-06-17T08:43:36Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "ZVEI: Batterieproduktion in Deutschland wieder auf Wachstumskurs Das Volumen des deutschen Batteriemarktes erreichte 22,4 Milliarden Euro. Allerdings sieht der Fachverband die Wettbewerbsfähigkeit und Resilienz des Standorts Deutschland für gefährdet an. Der ZVEI fordert von der Bundesregierung die Schaffung verlässlicher Investitionsanreize.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "212f2aaf9191c43b74481676",
+      "title": "Continental: Neuer Reifen soll Elektroautos 30 Kilometer weiter bringen",
+      "url": "https://www.golem.de/news/continental-neuer-reifen-soll-elektroautos-30-kilometer-weiter-bringen-2606-209848.html",
+      "published_at": "2026-06-17T05:32:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Continental: Neuer Reifen soll Elektroautos 30 Kilometer weiter bringen Continental und Renault wollen beweisen, dass die richtige Gummimischung beim Reifen mehr Reichweite bringen kann als manche Akkuverbesserung. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1607213160f1896f1b6df103",
+      "title": "heise+ | Batterien für E-Autos: Natrium – Ersatz für den kritischen Rohstoff Lithium?",
+      "url": "https://www.heise.de/hintergrund/Batterien-fuer-E-Autos-Natrium-Ersatz-fuer-den-kritischen-Rohstoff-Lithium-11302241.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-06-17T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Batterien für E-Autos: Natrium – Ersatz für den kritischen Rohstoff Lithium? Natrium-Ionen-Batterien sind volumetrisch noch weniger energiedicht als LFP-Akkus, aber kaum kälteempfindlich. Können sie den Rohstoff Lithium ersetzen?",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "53278e08ec948593475070dd",
       "title": "Elektroauto: Was ein Urteil zur geringeren Reichweite für Fahrer bedeutet",

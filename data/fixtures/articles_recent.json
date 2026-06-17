@@ -2,13 +2,48 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "53278e08ec948593475070dd",
-      "title": "Elektroauto: Was ein Urteil zur geringeren Reichweite für Fahrer bedeutet",
-      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-was-ein-urteil-zur-geringeren-reichweite-fuer-fahrer-bedeutet-a-65761078-b376-4db1-b9bd-9404c1842010",
-      "published_at": "2026-06-16T15:36:00Z",
-      "source_id": "spiegel-schlagzeilen",
+      "id": "8e9b76c8e477097222323719",
+      "title": "Zu geringe WLTP-Reichweite: Gericht legt Grenzwert für Akkudegradation fest",
+      "url": "https://www.golem.de/news/zu-geringe-wltp-reichweite-gericht-legt-grenzwert-fuer-akkudegradation-fest-2606-209859.html",
+      "published_at": "2026-06-17T08:56:02Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "Elektroauto: Was ein Urteil zur geringeren Reichweite für Fahrer bedeutet Viele E-Auto-Besitzer ärgern sich: Ihr Wagen kommt mit einer Akkuladung längst nicht so weit wie versprochen. Ein Gericht hat entschieden, wie viel Reichweite-Minus man nicht tolerieren muss.",
+      "summary": "Zu geringe WLTP-Reichweite: Gericht legt Grenzwert für Akkudegradation fest Ein Käufer war mit der Reichweite seines E-Autos unzufrieden. Vor Gericht hat er erfolgreich gegen den Händler geklagt. ( Elektroauto , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b5e71dc7a5b7790a2941f07c",
+      "title": "ZVEI: Batterieproduktion in Deutschland wieder auf Wachstumskurs",
+      "url": "https://www.pv-magazine.de/2026/06/17/zvei-batterieproduktion-in-deutschland-wieder-auf-wachstumskurs/",
+      "published_at": "2026-06-17T08:43:36Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "ZVEI: Batterieproduktion in Deutschland wieder auf Wachstumskurs Das Volumen des deutschen Batteriemarktes erreichte 22,4 Milliarden Euro. Allerdings sieht der Fachverband die Wettbewerbsfähigkeit und Resilienz des Standorts Deutschland für gefährdet an. Der ZVEI fordert von der Bundesregierung die Schaffung verlässlicher Investitionsanreize.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "212f2aaf9191c43b74481676",
+      "title": "Continental: Neuer Reifen soll Elektroautos 30 Kilometer weiter bringen",
+      "url": "https://www.golem.de/news/continental-neuer-reifen-soll-elektroautos-30-kilometer-weiter-bringen-2606-209848.html",
+      "published_at": "2026-06-17T05:32:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Continental: Neuer Reifen soll Elektroautos 30 Kilometer weiter bringen Continental und Renault wollen beweisen, dass die richtige Gummimischung beim Reifen mehr Reichweite bringen kann als manche Akkuverbesserung. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1607213160f1896f1b6df103",
+      "title": "heise+ | Batterien für E-Autos: Natrium – Ersatz für den kritischen Rohstoff Lithium?",
+      "url": "https://www.heise.de/hintergrund/Batterien-fuer-E-Autos-Natrium-Ersatz-fuer-den-kritischen-Rohstoff-Lithium-11302241.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-06-17T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Batterien für E-Autos: Natrium – Ersatz für den kritischen Rohstoff Lithium? Natrium-Ionen-Batterien sind volumetrisch noch weniger energiedicht als LFP-Akkus, aber kaum kälteempfindlich. Können sie den Rohstoff Lithium ersetzen?",
       "tags": [],
       "regions": []
     },
@@ -54,30 +89,6 @@
       "language": "de",
       "summary": "Elektroindustrie: Deutsche Batterieproduktion steigt auf Rekord In Deutschland gibt es immer mehr E-Autos, daher werden auch immer mehr Batterien hergestellt. Aber die Industrie warnt vor Abhängigkeiten aus China – auch im Verteidigungsbereich.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b7b2db8697847addba430ccc",
-      "title": "Netzbetreiber: Das Energy Sharing ist zum Scheitern verurteilt",
-      "url": "https://www.golem.de/news/netzbetreiber-das-energy-sharing-ist-zum-scheitern-verurteilt-2606-209786.html",
-      "published_at": "2026-06-16T09:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Netzbetreiber: Das Energy Sharing ist zum Scheitern verurteilt Strom aus der eigenen Solaranlage soll an Nachbarn und Freunde weiterverkauft werden können. Die aktuelle Regelung dürfte an der Praxis scheitern. Von Mario Petzold ( Energiewende , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6f0e785eb0219942b268b960",
-      "title": "Tesla Cybercab: Offizielle Dokumente zeigen, was Tesla verschwiegen hat",
-      "url": "https://www.golem.de/news/tesla-cybercab-offizielle-dokumente-zeigen-was-tesla-verschwiegen-hat-2606-209809.html",
-      "published_at": "2026-06-16T08:16:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla Cybercab: Offizielle Dokumente zeigen, was Tesla verschwiegen hat Die US-Umweltbehörde EPA hat das Tesla Cybercab am 26. Mai 2026 offiziell zertifiziert. Dadurch kommen technische Details ans Licht. ( Cybercab , Elektroauto )",
-      "tags": [
-        "umwelt"
-      ],
       "regions": []
     }
   ]
