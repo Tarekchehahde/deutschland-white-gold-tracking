@@ -1,13 +1,37 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-17T10:03:25Z",
+  "generated_at_utc": "2026-06-17T20:31:06Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 188,
+  "total_in_archive": 190,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 88
+    "2026-06": 90
   },
   "recent_for_ui": [
+    {
+      "id": "cbf6708b30e2e397979a3afb",
+      "title": "Facelift: Porsche Taycan bekommt Gangwechsel und Motorbremse",
+      "url": "https://www.golem.de/news/facelift-porsche-taycan-bekommt-gangwechsel-und-motorbremse-2606-209884.html",
+      "published_at": "2026-06-17T14:28:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Facelift: Porsche Taycan bekommt Gangwechsel und Motorbremse Das Facelift von Porsches Elektroauto Taycan hat mehr Reichweite und auf Wunsch künstliche Gänge - samt passendem Motorensound und Motorbremse. ( Porsche Taycan , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7c9de63c6dddfdfaf5aa2c6b",
+      "title": "Probefahrt Leapmotor B05: Hurra, es ist kein SUV!",
+      "url": "https://www.golem.de/news/probefahrt-leapmotor-b05-hurra-es-ist-kein-suv-2606-209880.html",
+      "published_at": "2026-06-17T13:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt Leapmotor B05: Hurra, es ist kein SUV! Der B05 ist Leapmotors erste Limousine im C-Segment. Das Elektroauto macht VWs ID.3 und Kias EV4 Konkurrenz, leistet aber mehr und kostet weniger. Ein Test von Tobias Költzsch ( Leapmotor , Elektroauto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
     {
       "id": "8e9b76c8e477097222323719",
       "title": "Zu geringe WLTP-Reichweite: Gericht legt Grenzwert für Akkudegradation fest",
