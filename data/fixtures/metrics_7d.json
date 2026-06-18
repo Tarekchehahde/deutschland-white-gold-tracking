@@ -1,13 +1,14 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-06-17": 5
+    "2026-06-17": 3,
+    "2026-06-18": 6
   },
   "tag_counts": {
     "exploration": 1,
     "politik": 1
   },
   "by_source_category": {
-    "national": 5
+    "national": 9
   }
 }
