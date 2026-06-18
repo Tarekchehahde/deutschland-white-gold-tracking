@@ -1,8 +1,54 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-06",
-  "article_count": 96,
+  "article_count": 100,
   "articles": [
+    {
+      "id": "c09eda23cc1e3a17aae4dc62",
+      "title": "Elektrolimousine: BMW i3 startet als First Edition bei 75.000 Euro",
+      "url": "https://www.golem.de/news/elektrolimousine-bmw-i3-startet-als-first-edition-bei-75-000-euro-2606-209940.html",
+      "published_at": "2026-06-18T15:08:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektrolimousine: BMW i3 startet als First Edition bei 75.000 Euro Der BMW i3 soll zum Basispreis von 65.900 Euro auf den Markt kommen. Vorab lässt sich schon eine besser ausgestattete Version bestellen. ( BMW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "aea0b92d658d98346d885e67",
+      "title": "Kooperation von The Mobility House und Solar Manager für Home Energy Solution",
+      "url": "https://www.pv-magazine.de/2026/06/18/kooperation-von-the-mobility-house-und-solar-manager-fuer-home-energy-solution/",
+      "published_at": "2026-06-18T14:52:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Kooperation von The Mobility House und Solar Manager für Home Energy Solution Im Mittelpunkt steht die Integration aller Energie-Assets im Eigenheim wie Photovoltaik-Anlage, Batteriespeicher, Wärmepumpen und Ladesäulen. Die Flexibilität soll am Energiemarkt vermarktet werden und den Weg für Vehicle-to-Home und Vehicle-to-Grid ebnen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "539c0ab9e2f5fe66aa5d94f6",
+      "title": "Energieprojekte: Einstufung als überragendes öffentliches Interesse hilft – aber nicht unbegrenzt",
+      "url": "https://www.pv-magazine.de/2026/06/18/energieprojekte-einstufung-als-ueberragendes-oeffentliches-interesse-hilft-aber-nicht-unbegrenzt/",
+      "published_at": "2026-06-18T14:23:52Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Energieprojekte: Einstufung als überragendes öffentliches Interesse hilft – aber nicht unbegrenzt Die Stiftung Umweltenergierecht hat untersucht, wie sich die gesetzlichen Einzelregelungen zum „überragenden öffentlichen Interesse“ von Windkraft- und Photovoltaik-Anlagen, Batteriespeichern und anderen Energiewendeprojekten auswirken. Einen Freifahrtschein bedeuten die Regelungen keineswegs. Stärker",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "dc88a5e0f3952425bc3b3760",
+      "title": "Überladung durch Anker Powerbank: Nutzer melden defekte Mac-Platine, USB-C-Ports",
+      "url": "https://www.heise.de/news/Anker-Powerbank-Nutzer-meldet-kaputte-MacBook-Hauptplatine-nach-Ladevorgang-11333679.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-18T09:55:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Überladung durch Anker Powerbank: Nutzer melden defekte Mac-Platine, USB-C-Ports YouTuber Evan Edinger hat sich mit einem Anker-Stromspeicher sein MacBook zerstört – andere Nutzer melden defekte USB-C-Ports. Anker will den Fall untersuchen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "7d73b93edb13e14ab10a651a",
       "title": "Anzeige: Nr. 1 bei Amazon - Mobile Wallbox 11kW mit App und 7-m-Kabel jetzt wieder nur rund 160 Euro",
