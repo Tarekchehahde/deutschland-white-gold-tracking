@@ -1,8 +1,74 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-06",
-  "article_count": 90,
+  "article_count": 96,
   "articles": [
+    {
+      "id": "7d73b93edb13e14ab10a651a",
+      "title": "Anzeige: Nr. 1 bei Amazon - Mobile Wallbox 11kW mit App und 7-m-Kabel jetzt wieder nur rund 160 Euro",
+      "url": "https://www.golem.de/news/anzeige-nr-1-bei-amazon-mobile-wallbox-11kw-mit-app-und-7-m-kabel-jetzt-wieder-nur-rund-160-euro-2606-209914.html",
+      "published_at": "2026-06-18T08:54:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Nr. 1 bei Amazon - Mobile Wallbox 11kW mit App und 7-m-Kabel jetzt wieder nur rund 160 Euro Die Bestseller-Wallbox mit 11kW plus App und Kabel im Amazon-Angebot bietet Sicherheitsfunktionen und passt an jede CEE-Steckdose. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "342daf73a87fd7ba9883db59",
+      "title": "Hohe Nachfrage: BMW zieht angeblich Bestellstart der Elektrolimousine i3 vor",
+      "url": "https://www.golem.de/news/hohe-nachfrage-bmw-zieht-angeblich-bestellstart-der-elektrolimousine-i3-vor-2606-209915.html",
+      "published_at": "2026-06-18T08:37:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Hohe Nachfrage: BMW zieht angeblich Bestellstart der Elektrolimousine i3 vor Mit einer Reichweite von bis zu 900 km erregte der BMW i3 bei seiner Präsentation Aufsehen. Das will der Hersteller nun ausnutzen. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ea37e89b71d2e83d5b9757a9",
+      "title": "Elektromobilität auf See: Norwegische Reederei baut riesige E-Containerfrachter",
+      "url": "https://www.golem.de/news/elektromobilitaet-auf-see-norwegische-reederei-baut-riesige-e-containerfrachter-2606-209909.html",
+      "published_at": "2026-06-18T07:58:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität auf See: Norwegische Reederei baut riesige E-Containerfrachter Die Eitzen Group bestellt zwei E-Containerfrachter mit 100-MWh-Akkus für einen grünen Frachtkorridor zwischen Hamburg und Oslo. ( Schifffahrt , Elektromobilität )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a66fc0f02db01865060c6bf3",
+      "title": "E-Mobilität: China verkauft mehr E-Autos als Verbrenner",
+      "url": "https://www.spiegel.de/wirtschaft/e-mobilitaet-china-verkauft-mehr-e-autos-als-verbrenner-a-8575b203-d594-4b1e-a7ca-c55ea39da065",
+      "published_at": "2026-06-18T06:57:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "E-Mobilität: China verkauft mehr E-Autos als Verbrenner Die Mobilitätswende im größten Automarkt der Welt nimmt rasant zu: Wie das »Handelsblatt« berichtet, haben chinesische Stellen im April vorwiegend Elektroautos zugelassen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "259176a75d21ac26ec6605a7",
+      "title": "EU-Plan: Günstige E-Autos durch neue Fahrzeugklasse",
+      "url": "https://www.golem.de/news/eu-plan-guenstige-e-autos-durch-neue-fahrzeugklasse-2606-209899.html",
+      "published_at": "2026-06-18T06:20:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "EU-Plan: Günstige E-Autos durch neue Fahrzeugklasse Europa will kleine Elektroautos mit Subventionen, Flottenrabatten und städtischen Privilegien fördern - aber nur, wenn sie in der EU gebaut werden. ( Auto , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5c77be4924ec0e771689f4c4",
+      "title": "Irland beabsichtigt Bau einer 600-MW-Energiespeicheranlage für 2 Milliarden Euro",
+      "url": "https://www.heise.de/news/Irland-beabsichtigt-Bau-einer-600-MW-Energiespeicheranlage-fuer-2-Milliarden-Euro-11336453.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-18T06:15:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Irland beabsichtigt Bau einer 600-MW-Energiespeicheranlage für 2 Milliarden Euro Irland will überschüssige Energie aus Erneuerbaren Energien zu grünem Wasserstoff umwandeln. In Spitzenlastzeiten kann daraus wieder Strom produziert werden.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "cbf6708b30e2e397979a3afb",
       "title": "Facelift: Porsche Taycan bekommt Gangwechsel und Motorbremse",
@@ -21,7 +87,7 @@
       "published_at": "2026-06-17T13:14:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Probefahrt Leapmotor B05: Hurra, es ist kein SUV! Der B05 ist Leapmotors erste Limousine im C-Segment. Das Elektroauto macht VWs ID.3 und Kias EV4 Konkurrenz, leistet aber mehr und kostet weniger. Ein Test von Tobias Költzsch ( Leapmotor , Elektroauto )",
+      "summary": "Probefahrt Leapmotor B05: Hurra, es ist kein SUV! Der B05 ist Leapmotors erster Hatchback im C-Segment. Das Elektroauto macht VWs ID.3 und Kias EV4 Konkurrenz, leistet aber mehr und kostet weniger. Ein Test von Tobias Költzsch ( Leapmotor , Elektroauto )",
       "tags": [
         "exploration"
       ],
