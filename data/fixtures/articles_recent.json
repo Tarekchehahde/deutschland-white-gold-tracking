@@ -2,6 +2,39 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "fdd5c3e4f9affeb59a480ec9",
+      "title": "Lithium-Schwefel-Batterien: Die zehnmal besseren Akkus lassen auf sich warten",
+      "url": "https://www.golem.de/news/lithium-schwefel-batterien-die-zehnmal-besseren-akkus-lassen-auf-sich-warten-2606-209949.html",
+      "published_at": "2026-06-19T11:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Lithium-Schwefel-Batterien: Die zehnmal besseren Akkus lassen auf sich warten Die höhere Energiedichte gegenüber Li-Ion-Akkus macht die Technik besonders interessant. Ein Blick auf Patente zeigt, dass sich etwas bewegt. ( Akku , LG )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b634a1e1f697949197e18bac",
+      "title": "Mercedes-Benz CLA im Praxistest: Das Ende der Reichweitenangst",
+      "url": "https://www.golem.de/news/mercedes-benz-cla-im-praxistest-das-ende-der-reichweitenangst-2606-209950.html",
+      "published_at": "2026-06-19T10:27:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Mercedes-Benz CLA im Praxistest: Das Ende der Reichweitenangst Die Kombination von niedrigem Verbrauch und hoher Ladeleistung hat uns beim Mercedes CLA überzeugt. Darauf ist die Software aber noch nicht eingestellt. Ein Praxistest von Friedhelm Greis ( Elektroauto , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e63c0d55bfb892db6b88f8ef",
+      "title": "Eon will standardisierte FCAs für Batteriespeicher bis Jahresende deutschlandweit ausrollen – BVES fordert Branchendialog",
+      "url": "https://www.pv-magazine.de/2026/06/19/eon-will-standardisierte-fcas-fuer-batteriespeicher-bis-jahresende-deutschlandweit-ausrollen-bves-fordert-branchendialog/",
+      "published_at": "2026-06-19T09:57:25Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Eon will standardisierte FCAs für Batteriespeicher bis Jahresende deutschlandweit ausrollen – BVES fordert Branchendialog Nach einem aus Sicht der Eon-Verteilnetzbetreiber erfolgreichen Test einer flexiblen Netzanschlussvereinbarung für den Batteriespeicher von Eco Stor in Schleswig Holstein, kündigt der Energiekonzern einen deutschlandweiten Rollout des Modells an. Der BVES hält FCAs für ein wich",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "f81164dff40d7a48ed887db7",
       "title": "Tesla: Schweden will gegen EU-weite Zulassung von FSD stimmen",
       "url": "https://www.golem.de/news/tesla-schweden-will-gegen-eu-weite-zulassung-von-fsd-stimmen-2606-209961.html",
@@ -9,28 +42,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Tesla: Schweden will gegen EU-weite Zulassung von FSD stimmen Teslas teilautonomer Fahrmodus FSD Supervised soll nach Europa kommen - Schweden hat aber etwas dagegen. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b6d79c915e763181334dfe6d",
-      "title": "F.A.Z.: Volvo EX 60: Ohne Griff alles im Griff?",
-      "url": "https://www.faz.net/video/volvo-ex-60-ohne-griff-alles-im-griff-f-a-z-200947014.html",
-      "published_at": "2026-06-19T09:33:46Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "F.A.Z.: Volvo EX 60: Ohne Griff alles im Griff? Volvo fördert die Elektromobilität. Und fordert seine Kundschaft immer mal wieder heraus. So haben die Schweden am EX60 kurzerhand die Griffe weggezaubert. Ob es weitere Wunder gibt, zeigt der Fahrbericht mit Joshua Hildebrand in einer neuen Folge von F.A.Z. Technik & Motor.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "70db0cb156e664f6bd57c25d",
-      "title": "heise+ | Im Test: Nachrüst-Stromspeicher Anker Solix Solarbank AC Max",
-      "url": "https://www.heise.de/tests/Im-Test-Nachruest-Stromspeicher-Anker-Solix-Solarbank-AC-Max-11313336.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-06-19T08:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Im Test: Nachrüst-Stromspeicher Anker Solix Solarbank AC Max Batteriespeicher ist günstig wie nie und auch manche PV-Bestandsanlage könnte ein wenig mehr davon gebrauchen. Anker verspricht ein Update in fünf Minuten.",
       "tags": [],
       "regions": []
     },
@@ -57,13 +68,13 @@
       "regions": []
     },
     {
-      "id": "c09eda23cc1e3a17aae4dc62",
-      "title": "Elektrolimousine: BMW i3 startet als First Edition bei 75.000 Euro",
-      "url": "https://www.golem.de/news/elektrolimousine-bmw-i3-startet-als-first-edition-bei-75-000-euro-2606-209940.html",
-      "published_at": "2026-06-18T15:08:01Z",
-      "source_id": "golem-rss",
+      "id": "a6ee921fa0ac26e2b7ead9b9",
+      "title": "Tesvolt baut Mega-Batteriespeicher in Wittenberg: 35 Millionen Euro Investition",
+      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/neubau-energiewende-speicher,tesvolt-batteriespeicher-100.html",
+      "published_at": "2026-06-18T17:17:45Z",
+      "source_id": "tagesschau-st",
       "language": "de",
-      "summary": "Elektrolimousine: BMW i3 startet als First Edition bei 75.000 Euro Der BMW i3 soll zum Basispreis von 65.900 Euro auf den Markt kommen. Vorab lässt sich schon eine besser ausgestattete Version bestellen. ( BMW , Elektroauto )",
+      "summary": "Tesvolt baut Mega-Batteriespeicher in Wittenberg: 35 Millionen Euro Investition Damit Strom aus Sonne und Wind rund um die Uhr verfügbar ist, muss überschüssige Energie zwischengespeichert werden. In Wittenberg entsteht deshalb ein Großspeicher.",
       "tags": [],
       "regions": []
     },
@@ -75,30 +86,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Kooperation von The Mobility House und Solar Manager für Home Energy Solution Im Mittelpunkt steht die Integration aller Energie-Assets im Eigenheim wie Photovoltaik-Anlage, Batteriespeicher, Wärmepumpen und Ladesäulen. Die Flexibilität soll am Energiemarkt vermarktet werden und den Weg für Vehicle-to-Home und Vehicle-to-Grid ebnen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "539c0ab9e2f5fe66aa5d94f6",
-      "title": "Energieprojekte: Einstufung als überragendes öffentliches Interesse hilft – aber nicht unbegrenzt",
-      "url": "https://www.pv-magazine.de/2026/06/18/energieprojekte-einstufung-als-ueberragendes-oeffentliches-interesse-hilft-aber-nicht-unbegrenzt/",
-      "published_at": "2026-06-18T14:23:52Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Energieprojekte: Einstufung als überragendes öffentliches Interesse hilft – aber nicht unbegrenzt Die Stiftung Umweltenergierecht hat untersucht, wie sich die gesetzlichen Einzelregelungen zum „überragenden öffentlichen Interesse“ von Windkraft- und Photovoltaik-Anlagen, Batteriespeichern und anderen Energiewendeprojekten auswirken. Einen Freifahrtschein bedeuten die Regelungen keineswegs. Stärker",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "dc88a5e0f3952425bc3b3760",
-      "title": "Überladung durch Anker Powerbank: Nutzer melden defekte Mac-Platine, USB-C-Ports",
-      "url": "https://www.heise.de/news/Anker-Powerbank-Nutzer-meldet-kaputte-MacBook-Hauptplatine-nach-Ladevorgang-11333679.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-18T09:55:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Überladung durch Anker Powerbank: Nutzer melden defekte Mac-Platine, USB-C-Ports YouTuber Evan Edinger hat sich mit einem Anker-Stromspeicher sein MacBook zerstört – andere Nutzer melden defekte USB-C-Ports. Anker will den Fall untersuchen.",
       "tags": [],
       "regions": []
     }

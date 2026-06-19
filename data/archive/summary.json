@@ -1,13 +1,46 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-19T09:53:26Z",
+  "generated_at_utc": "2026-06-19T20:03:57Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 205,
+  "total_in_archive": 209,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 105
+    "2026-06": 109
   },
   "recent_for_ui": [
+    {
+      "id": "fdd5c3e4f9affeb59a480ec9",
+      "title": "Lithium-Schwefel-Batterien: Die zehnmal besseren Akkus lassen auf sich warten",
+      "url": "https://www.golem.de/news/lithium-schwefel-batterien-die-zehnmal-besseren-akkus-lassen-auf-sich-warten-2606-209949.html",
+      "published_at": "2026-06-19T11:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Lithium-Schwefel-Batterien: Die zehnmal besseren Akkus lassen auf sich warten Die höhere Energiedichte gegenüber Li-Ion-Akkus macht die Technik besonders interessant. Ein Blick auf Patente zeigt, dass sich etwas bewegt. ( Akku , LG )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b634a1e1f697949197e18bac",
+      "title": "Mercedes-Benz CLA im Praxistest: Das Ende der Reichweitenangst",
+      "url": "https://www.golem.de/news/mercedes-benz-cla-im-praxistest-das-ende-der-reichweitenangst-2606-209950.html",
+      "published_at": "2026-06-19T10:27:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Mercedes-Benz CLA im Praxistest: Das Ende der Reichweitenangst Die Kombination von niedrigem Verbrauch und hoher Ladeleistung hat uns beim Mercedes CLA überzeugt. Darauf ist die Software aber noch nicht eingestellt. Ein Praxistest von Friedhelm Greis ( Elektroauto , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e63c0d55bfb892db6b88f8ef",
+      "title": "Eon will standardisierte FCAs für Batteriespeicher bis Jahresende deutschlandweit ausrollen – BVES fordert Branchendialog",
+      "url": "https://www.pv-magazine.de/2026/06/19/eon-will-standardisierte-fcas-fuer-batteriespeicher-bis-jahresende-deutschlandweit-ausrollen-bves-fordert-branchendialog/",
+      "published_at": "2026-06-19T09:57:25Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Eon will standardisierte FCAs für Batteriespeicher bis Jahresende deutschlandweit ausrollen – BVES fordert Branchendialog Nach einem aus Sicht der Eon-Verteilnetzbetreiber erfolgreichen Test einer flexiblen Netzanschlussvereinbarung für den Batteriespeicher von Eco Stor in Schleswig Holstein, kündigt der Energiekonzern einen deutschlandweiten Rollout des Modells an. Der BVES hält FCAs für ein wich",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "f81164dff40d7a48ed887db7",
       "title": "Tesla: Schweden will gegen EU-weite Zulassung von FSD stimmen",
@@ -60,6 +93,17 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "heise+ | Mit dem Elektroauto stressfrei in den Urlaub: Wie Sie in Europa günstig laden Der Urlaub mit dem Elektroauto in Europa kann teuer werden. Wir zeigen, wie Sie Ladekosten im Ausland senken und teure Überraschungen vermeiden.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a6ee921fa0ac26e2b7ead9b9",
+      "title": "Tesvolt baut Mega-Batteriespeicher in Wittenberg: 35 Millionen Euro Investition",
+      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/neubau-energiewende-speicher,tesvolt-batteriespeicher-100.html",
+      "published_at": "2026-06-18T17:17:45Z",
+      "source_id": "tagesschau-st",
+      "language": "de",
+      "summary": "Tesvolt baut Mega-Batteriespeicher in Wittenberg: 35 Millionen Euro Investition Damit Strom aus Sonne und Wind rund um die Uhr verfügbar ist, muss überschüssige Energie zwischengespeichert werden. In Wittenberg entsteht deshalb ein Großspeicher.",
       "tags": [],
       "regions": []
     },
