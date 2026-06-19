@@ -2,6 +2,61 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "f81164dff40d7a48ed887db7",
+      "title": "Tesla: Schweden will gegen EU-weite Zulassung von FSD stimmen",
+      "url": "https://www.golem.de/news/tesla-schweden-will-gegen-eu-weite-zulassung-von-fsd-stimmen-2606-209961.html",
+      "published_at": "2026-06-19T09:49:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Schweden will gegen EU-weite Zulassung von FSD stimmen Teslas teilautonomer Fahrmodus FSD Supervised soll nach Europa kommen - Schweden hat aber etwas dagegen. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b6d79c915e763181334dfe6d",
+      "title": "F.A.Z.: Volvo EX 60: Ohne Griff alles im Griff?",
+      "url": "https://www.faz.net/video/volvo-ex-60-ohne-griff-alles-im-griff-f-a-z-200947014.html",
+      "published_at": "2026-06-19T09:33:46Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "F.A.Z.: Volvo EX 60: Ohne Griff alles im Griff? Volvo fördert die Elektromobilität. Und fordert seine Kundschaft immer mal wieder heraus. So haben die Schweden am EX60 kurzerhand die Griffe weggezaubert. Ob es weitere Wunder gibt, zeigt der Fahrbericht mit Joshua Hildebrand in einer neuen Folge von F.A.Z. Technik & Motor.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "70db0cb156e664f6bd57c25d",
+      "title": "heise+ | Im Test: Nachrüst-Stromspeicher Anker Solix Solarbank AC Max",
+      "url": "https://www.heise.de/tests/Im-Test-Nachruest-Stromspeicher-Anker-Solix-Solarbank-AC-Max-11313336.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-06-19T08:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Im Test: Nachrüst-Stromspeicher Anker Solix Solarbank AC Max Batteriespeicher ist günstig wie nie und auch manche PV-Bestandsanlage könnte ein wenig mehr davon gebrauchen. Anker verspricht ein Update in fünf Minuten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e2ec7957927143d2796240a8",
+      "title": "Stimmen der Energiewende: EWE-Chef Stefan Dohler, Energieenthusiast und Netzbetreiber, sucht faire Lösungen",
+      "url": "https://www.pv-magazine.de/2026/06/19/stimmen-der-energiewende-ewe-chef-stefan-dohler-energieenthusiast-und-netzbetreiber-sucht-faire-loesungen/",
+      "published_at": "2026-06-19T07:23:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Stimmen der Energiewende: EWE-Chef Stefan Dohler, Energieenthusiast und Netzbetreiber, sucht faire Lösungen Wir wollen von Stefan Dohler, Chef von EWE und Präsident des BDEW, wissen, wie er die bevorstehenden Aufgaben beim Netzausbau einschätzt und wie eine faire Teilung der Redispatch-Risiken zwischen Netzbetreibern und Betreibern vom Batteriespeichern und Erzeugungsanlagen aussehen könnte.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0ef3e0f52b4a77940fd5eae3",
+      "title": "heise+ | Mit dem Elektroauto stressfrei in den Urlaub: Wie Sie in Europa günstig laden",
+      "url": "https://www.heise.de/ratgeber/Mit-dem-Elektroauto-stressfrei-in-den-Urlaub-Wie-Sie-in-Europa-guenstig-laden-11307461.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-06-19T05:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Mit dem Elektroauto stressfrei in den Urlaub: Wie Sie in Europa günstig laden Der Urlaub mit dem Elektroauto in Europa kann teuer werden. Wir zeigen, wie Sie Ladekosten im Ausland senken und teure Überraschungen vermeiden.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "c09eda23cc1e3a17aae4dc62",
       "title": "Elektrolimousine: BMW i3 startet als First Edition bei 75.000 Euro",
       "url": "https://www.golem.de/news/elektrolimousine-bmw-i3-startet-als-first-edition-bei-75-000-euro-2606-209940.html",
