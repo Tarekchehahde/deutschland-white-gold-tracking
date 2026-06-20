@@ -2,6 +2,46 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "5f380d14dcd441cbc72da6e1",
+      "title": "Lyten übernimmt Northvolt-Gelände wohl für 60 Millionen Euro",
+      "url": "https://www.heise.de/news/Lyten-uebernimmt-Northvolt-Gelaende-wohl-fuer-60-Millionen-Euro-11339397.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-20T15:36:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Lyten übernimmt Northvolt-Gelände wohl für 60 Millionen Euro Lyten will auf dem früheren Northvolt-Gelände eine Batteriezellenfabrik errichten. Für die Übernahme wurde wohl ein Preis von rund 60 Millionen Euro vereinbart.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "721be6f30f830be4167c6dcf",
+      "title": "Umstrittene Pläne für Lithium-Abbau im Erzgebirge",
+      "url": "https://www.tagesschau.de/wirtschaft/energie/lithium-tschechien-erzgebirge-100.html",
+      "published_at": "2026-06-20T13:18:11Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Umstrittene Pläne für Lithium-Abbau im Erzgebirge Lithium wird für die Batterie-Produktion gebraucht. Zu Europas größten Lagerstätten gehört das Erzgebirge. Die tschechische Regierung treibt dort ein Abbauprojekt voran, aber die Sorgen vor Ort sind groß. Von Marianne Allweiss.",
+      "tags": [
+        "exploration",
+        "politik"
+      ],
+      "regions": [
+        "DE-SN"
+      ]
+    },
+    {
+      "id": "3c0022e959261d919c86e73c",
+      "title": "Great Tang: BYDs Luxus-7-Sitzer mit großer Reichweite soll nach Europa kommen",
+      "url": "https://www.golem.de/news/great-tang-byds-luxus-7-sitzer-mit-grosser-reichweite-soll-nach-europa-kommen-2606-209992.html",
+      "published_at": "2026-06-20T11:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Great Tang: BYDs Luxus-7-Sitzer mit großer Reichweite soll nach Europa kommen Der Great Tang von BYD hat bis zu sieben Sitze, reichlich Platz und Komfort, eine große Reichweite und eine hohe Ladeleistung. ( BYD , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "2a7da2ce18f2aa61a3a72f8f",
       "title": "Lyten will Northvolt-Überreste bei Heide für 60 Millionen Euro übernehmen",
       "url": "https://www.spiegel.de/wirtschaft/unternehmen/lyten-will-northvolt-ueberreste-bei-heide-fuer-60-millionen-euro-uebernehmen-a-ac498126-06e0-47c1-8b11-9a869620117e",
