@@ -1,13 +1,26 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-19T20:03:57Z",
+  "generated_at_utc": "2026-06-20T08:28:42Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 209,
+  "total_in_archive": 210,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 109
+    "2026-06": 110
   },
   "recent_for_ui": [
+    {
+      "id": "2a7da2ce18f2aa61a3a72f8f",
+      "title": "Lyten will Northvolt-Überreste bei Heide für 60 Millionen Euro übernehmen",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/lyten-will-northvolt-ueberreste-bei-heide-fuer-60-millionen-euro-uebernehmen-a-ac498126-06e0-47c1-8b11-9a869620117e",
+      "published_at": "2026-06-20T05:27:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Lyten will Northvolt-Überreste bei Heide für 60 Millionen Euro übernehmen Mit reichlich Staatsförderung wollte die schwedische Firma Northvolt eine riesige Batteriezellfabrik in Schleswig-Holstein bauen. Nach der Pleite übernimmt nun das Start-up Lyten die Überreste – für einen Bruchteil des investierten Geldes.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "fdd5c3e4f9affeb59a480ec9",
       "title": "Lithium-Schwefel-Batterien: Die zehnmal besseren Akkus lassen auf sich warten",
