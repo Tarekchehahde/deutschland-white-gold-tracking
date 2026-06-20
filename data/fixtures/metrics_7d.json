@@ -3,13 +3,15 @@
   "articles_per_day": {
     "2026-06-18": 2,
     "2026-06-19": 6,
-    "2026-06-20": 1
+    "2026-06-20": 3
   },
   "tag_counts": {
-    "industrie": 1
+    "exploration": 1,
+    "industrie": 1,
+    "politik": 1
   },
   "by_source_category": {
-    "national": 8,
+    "national": 10,
     "regional": 1
   }
 }
