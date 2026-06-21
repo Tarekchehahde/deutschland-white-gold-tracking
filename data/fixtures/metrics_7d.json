@@ -2,7 +2,7 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-06-18": 2,
-    "2026-06-19": 6,
+    "2026-06-19": 4,
     "2026-06-20": 3
   },
   "tag_counts": {
@@ -11,7 +11,7 @@
     "politik": 1
   },
   "by_source_category": {
-    "national": 10,
+    "national": 8,
     "regional": 1
   }
 }
