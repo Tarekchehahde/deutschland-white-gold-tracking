@@ -1,13 +1,83 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-21T20:03:21Z",
+  "generated_at_utc": "2026-06-22T10:47:12Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 213,
+  "total_in_archive": 218,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 113
+    "2026-06": 118
   },
   "recent_for_ui": [
+    {
+      "id": "9a69430b3a4761880541a577",
+      "title": "Engie sichert sich in Deutschland Flexibilität aus 126 Megawatt Batteriespeichern von Flower",
+      "url": "https://www.pv-magazine.de/2026/06/22/engie-sichert-sich-in-deutschland-flexibilitaet-aus-126-megawatt-batteriespeichern-von-flower/",
+      "published_at": "2026-06-22T10:21:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Engie sichert sich in Deutschland Flexibilität aus 126 Megawatt Batteriespeichern von Flower Eine siebenjährige Vereinbarung zwischen Engie und dem schwedischen Unternehmen Flower soll den Bau und die Finanzierung mehrerer Batteriespeicherprojekte in Deutschland ermöglichen. Die Kooperation umfasst zunächst 126 Megawatt flexibel einsetzbare Speicherleistung und startet Anfang 2029.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "040c22e112beed0eb0322410",
+      "title": "Autopilot aktiviert: Tesla-Fahrer kracht in Wohnhaus",
+      "url": "https://www.golem.de/news/autopilot-aktiviert-tesla-fahrer-kracht-in-wohnhaus-2606-210027.html",
+      "published_at": "2026-06-22T10:13:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autopilot aktiviert: Tesla-Fahrer kracht in Wohnhaus Bei dem Unfall wurde die Bewohnerin des Hauses getötet. Laut dem Fahrer war Teslas Autopilot aktiviert. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "06603603093b7945ee774a5f",
+      "title": "BSW-Solar: Trotz Speicherboom ist Realisierung vieler Großprojekte nicht gesichert",
+      "url": "https://www.pv-magazine.de/2026/06/22/bsw-solar-trotz-speicherboom-ist-realisierung-vieler-grossprojekte-nicht-gesichert/",
+      "published_at": "2026-06-22T09:41:42Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "BSW-Solar: Trotz Speicherboom ist Realisierung vieler Großprojekte nicht gesichert Der Markt für Batteriespeicher wächst in Deutschland derzeit mit hoher Dynamik. Nach einer Analyse von Enervis könnte der Ausbau von Großspeichern in den kommenden Jahren jedoch deutlich hinter den Planungen zurückbleiben. Der Bundesverband Solarwirtschaft fordert deshalb den raschen Abbau regulatorischer Hemmnisse.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d6986741ac19ea53c81013ed",
+      "title": "The Mobility House Energy vermarktet mehr als ein Gigawatt Speicherleistung",
+      "url": "https://www.pv-magazine.de/2026/06/22/the-mobility-house-energy-vermarktet-mehr-als-ein-gigawatt-speicherleistung/",
+      "published_at": "2026-06-22T07:22:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "The Mobility House Energy vermarktet mehr als ein Gigawatt Speicherleistung Die Leistung verteilt sich auf 47 Batteriespeicher in vier Ländern. 2016 begann The Mobility House Energy mit der Vermarktung von rund 12 Megawatt aus 1000 gebrauchten Fahrzeugbatterien.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d48617cb21821eb653a95c57",
+      "title": "Mercedes-Aufsichtsratschef verteidigt Verbrenner-Kurs",
+      "url": "https://www.pfalz-express.de/mercedes-aufsichtsratschef-verteidigt-verbrenner-kurs/",
+      "published_at": "2026-06-22T07:19:59Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Mercedes-Aufsichtsratschef verteidigt Verbrenner-Kurs Stuttgart &#8211; Mercedes-Aufsichtsratschef Martin Brudermüller verteidigt den Verbrenner-Kurs von Konzernchef Ola Källenius. Brudermüller sagte dem &#8222;Handelsblatt&#8220;, Mercedes habe nicht seine grundsätzliche Strategie geändert, vollelektrisch werden zu wollen. Die Umsetzung dauere nur länger. Källenius hatte vor einigen Jahren angekü",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "0ef3e0f52b4a77940fd5eae3",
+      "title": "heise+ | Mit dem Elektroauto stressfrei in den Urlaub: Wie Sie in Europa günstig laden",
+      "url": "https://www.heise.de/ratgeber/Mit-dem-Elektroauto-stressfrei-in-den-Urlaub-Wie-Sie-in-Europa-guenstig-laden-11307461.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-06-22T05:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Mit dem Elektroauto stressfrei in den Urlaub: Wie Sie in Europa günstig laden Der Urlaub mit dem Elektroauto in Europa kann teuer werden. Wir zeigen, wie Sie Ladekosten im Ausland senken und teure Überraschungen vermeiden.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "5f380d14dcd441cbc72da6e1",
       "title": "Lyten übernimmt Northvolt-Gelände wohl für 60 Millionen Euro",
@@ -135,17 +205,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Stimmen der Energiewende: EWE-Chef Stefan Dohler, Energieenthusiast und Netzbetreiber, sucht faire Lösungen Wir wollen von Stefan Dohler, Chef von EWE und Präsident des BDEW, wissen, wie er die bevorstehenden Aufgaben beim Netzausbau einschätzt und wie eine faire Teilung der Redispatch-Risiken zwischen Netzbetreibern und Betreibern vom Batteriespeichern und Erzeugungsanlagen aussehen könnte.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0ef3e0f52b4a77940fd5eae3",
-      "title": "heise+ | Mit dem Elektroauto stressfrei in den Urlaub: Wie Sie in Europa günstig laden",
-      "url": "https://www.heise.de/ratgeber/Mit-dem-Elektroauto-stressfrei-in-den-Urlaub-Wie-Sie-in-Europa-guenstig-laden-11307461.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-06-19T05:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Mit dem Elektroauto stressfrei in den Urlaub: Wie Sie in Europa günstig laden Der Urlaub mit dem Elektroauto in Europa kann teuer werden. Wir zeigen, wie Sie Ladekosten im Ausland senken und teure Überraschungen vermeiden.",
       "tags": [],
       "regions": []
     },
