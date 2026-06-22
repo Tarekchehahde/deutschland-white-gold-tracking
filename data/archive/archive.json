@@ -2,6 +2,39 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "c81ed4bef028d54c3b011fd6",
+      "title": "Studie: Auslegung entscheidet über Erlöspotenzial von Grünstromspeichern",
+      "url": "https://www.pv-magazine.de/2026/06/22/studie-auslegung-entscheidet-uber-erlospotenzial-von-grunstromspeichern/",
+      "published_at": "2026-06-22T13:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Studie: Auslegung entscheidet über Erlöspotenzial von Grünstromspeichern Die Konfiguration von Photovoltaik-Anlage und Batteriespeicher hat erheblichen Einfluss auf die Wirtschaftlichkeit von Co-Location-Projekten. Nach einer Studie von Suena Energy können sich die Erlöse je nach Auslegung mehr als verdoppeln.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "28bf939c57f72bf0db83bdca",
+      "title": "Ladesäule: Alpitronic bietet Megawattladen für Pkw",
+      "url": "https://www.golem.de/news/ladesaeule-alpitronic-bietet-megawattladen-fuer-pkw-2606-210038.html",
+      "published_at": "2026-06-22T13:11:00Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ladesäule: Alpitronic bietet Megawattladen für Pkw Zwar beherrschen bislang nur wenige Elektroautos hohe Ladeleistungen bis 1.000 kW. Doch die ersten Ladesäulen dafür stehen bereit. ( Ladesäule , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "589102743c19d2cb6084a7ab",
+      "title": "Capac Energy baut Zink-Bromid-Großspeicher in Bruchsal",
+      "url": "https://www.pv-magazine.de/2026/06/22/capac-energy-baut-zink-bromid-grossspeicher-in-bruchsal/",
+      "published_at": "2026-06-22T12:00:46Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Capac Energy baut Zink-Bromid-Großspeicher in Bruchsal Im badischen Bruchsal soll einer der ersten Großspeicher auf Basis von Zink-Bromid-Batterien in Europa entstehen. Parallel haben Capac Energy und der US-Hersteller Eos Energy einen exklusiven Liefervertrag über zwei Gigawattstunden Speicherkapazität für die DACH-Region abgeschlossen und wollen damit eine Alternative zu Lithium-Ionen-Großspeich",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "9a69430b3a4761880541a577",
       "title": "Engie sichert sich in Deutschland Flexibilität aus 126 Megawatt Batteriespeichern von Flower",
       "url": "https://www.pv-magazine.de/2026/06/22/engie-sichert-sich-in-deutschland-flexibilitaet-aus-126-megawatt-batteriespeichern-von-flower/",
