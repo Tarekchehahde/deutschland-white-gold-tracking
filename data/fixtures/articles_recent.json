@@ -2,6 +2,89 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "bc55083ce0503a2de3b8a191",
+      "title": "Cariad-Campus Berlin eröffnet: \"Das Scheitern war notwendig\"",
+      "url": "https://www.golem.de/news/cariad-campus-berlin-eroeffnet-das-scheitern-war-notwendig-2606-210101.html",
+      "published_at": "2026-06-23T16:41:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Cariad-Campus Berlin eröffnet: \"Das Scheitern war notwendig\" VW eröffnet mit der Bundestagspräsidentin seinen Campus für Autosoftware in Berlin. Klöckner fordert beim autonomen Fahren \"Mut zur Lücke\". Ein Bericht von Friedhelm Greis ( Cariad , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "7f0c762b512a2bf36b08b591",
+      "title": "Anzeige: Mobile Wallbox mit 11kW zum Prime Day für nur noch rund 153 Euro",
+      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-mit-11kw-zum-prime-day-fuer-nur-noch-rund-153-euro-2606-210094.html",
+      "published_at": "2026-06-23T15:20:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Mobile Wallbox mit 11kW zum Prime Day für nur noch rund 153 Euro Die Mobile Wallbox lädt mit bis zu 11 kW, lässt sich per App steuern und liegt am Prime Day nur 43 Cent über dem ehemaligen Bestpreis. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f287019b2d56f675729a95ba",
+      "title": "Rare Ressourcen - Wie in Deutschland Lithium abgebaut werden soll",
+      "url": "https://www.deutschlandfunk.de/rare-ressourcen-01-lithium-schluesselelement-fuer-akkus-100.html",
+      "published_at": "2026-06-23T14:36:14Z",
+      "source_id": "deutschlandfunk-wissen",
+      "language": "de",
+      "summary": "Rare Ressourcen - Wie in Deutschland Lithium abgebaut werden soll Das Leichtmetall Lithium ist eine wichtige Ressource für die Energiewende. Es steckt in den Akkus von Smartphones oder E-Autos. Weil der Bedarf stark steigt, erschließen Fachleute neue Rohstoffquellen – auch mitten in Deutschland. Mrasek, Volker",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "244bc2f26d810e020bfda0c5",
+      "title": "The smarter E im Zeichen von „Erneuerbare 24/7“",
+      "url": "https://www.pv-magazine.de/2026/06/23/the-smarter-e-im-zeichen-von-erneuerbare-24-7/",
+      "published_at": "2026-06-23T11:56:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "The smarter E im Zeichen von „Erneuerbare 24/7“ Die Messe ist auch in diesem Jahr komplett belegt. Zwar sind es etwas weniger Aussteller als 2025, die aber haben im Schnitt größere Stände aufgebaut. Dort zeigen sie noch bis Donnerstag ihre Produkte und Dienstleistungen aus den Bereichen Photovoltaik, Batteriespeicher, Elektromobilität sowie Energiemanagement und Vernetzung. Eine Sonderschau bringt",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8328c775c8af49a93204f8cf",
+      "title": "Samduo aus China expandiert mit schlanken LFP-Heimspeichern nach Europa",
+      "url": "https://www.pv-magazine.de/2026/06/23/samduo-aus-china-expandiert-mit-schlanken-lfp-heimspeichern-nach-europa/",
+      "published_at": "2026-06-23T09:27:59Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Samduo aus China expandiert mit schlanken LFP-Heimspeichern nach Europa Der chinesische Hersteller Samduo hat seine eigene Marke für Heimspeicher in Europa eingeführt. Mit seinen Lithium-Eisenphosphat-Batterien (LFP) mit integrierter Software und bis zu zehn Jahren Garantie zielt das Unternehmen auf Märkte wie die Niederlande, Deutschland und Frankreich ab.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "cb68390d280c3dce99a3ba7e",
+      "title": "Wieso hängt Italien bei E-Mobilität so hinterher?",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/italien-elektromobilitaet-100.html",
+      "published_at": "2026-06-23T09:15:38Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Wieso hängt Italien bei E-Mobilität so hinterher? Italien ist das zweitgrößte Autoland der EU. Doch auf Elektromobilität haben die Italiener bislang keine Lust - entgegen dem europäischen Trend. Angemeldet sind gerade mal 400.000 E-Autos. Woran liegt das? Von Jörg Seisselberg.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "77a8b360c3c5e66080ffa4f6",
+      "title": "Sponsored: Jackery präsentiert auf der „The smarter E Europe 2026“ die Speicherserie „SolarVault 3“ für Privathaushalte",
+      "url": "https://www.pv-magazine.de/2026/06/23/sponsored-jackery-praesentiert-auf-der-the-smarter-e-europe-2026-die-speicherserie-solarvault-3-fuer-privathaushalte/",
+      "published_at": "2026-06-23T09:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sponsored: Jackery präsentiert auf der „The smarter E Europe 2026“ die Speicherserie „SolarVault 3“ für Privathaushalte Auf der Messe in München stellte das Unternehmen drei Plug-in-Energiespeichermodelle für Privathaushalte sowie smartes Zubehör und einen Solar-Pavillon vor. Mit den neuen Produkten entwickelt sich das Anbieterportfolio weiter, von tragbaren Stromversorgungslösungen hin zu größere",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "96e7cff1a91c562144a53197",
       "title": "Tado ergänzt Smart-Home-App um Lademanagement für E-Autos von 15 Marken",
       "url": "https://www.heise.de/news/Tado-ergaenzt-Smart-Home-App-um-Lademanagement-fuer-E-Autos-von-15-Marken-11340863.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -9,107 +92,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Tado ergänzt Smart-Home-App um Lademanagement für E-Autos von 15 Marken Die Elektroauto-Funktionen der Smart-Charging-App von Tado sind nun in der Anwendung für Heizen, Kühlen und Stromtarife verfügbar – aber bald bloß gegen Geld.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e04a69f1f4785721604c921b",
-      "title": "Stream 5000: Ecoflow stellt skalierbares PV-System vor",
-      "url": "https://www.golem.de/news/stream-5000-ecoflow-stellt-skalierbares-pv-system-vor-2606-210063.html",
-      "published_at": "2026-06-23T07:38:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Stream 5000: Ecoflow stellt skalierbares PV-System vor Der Nachfolger der bisherigen Stream-Serie lässt sich vom kleinen Balkonkraftwerk bis zur 90-kWh-Heimspeicheranlage verwenden. ( Balkonkraftwerk , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a1aaf0a5e22fb495e7dd8bb4",
-      "title": "E-Auto: Xiaomis YU7 GT fährt autonom zum Nordschleifen-Rekord",
-      "url": "https://www.golem.de/news/e-auto-xiaomis-yu7-gt-faehrt-autonom-zum-nordschleifen-rekord-2606-210051.html",
-      "published_at": "2026-06-23T05:58:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "E-Auto: Xiaomis YU7 GT fährt autonom zum Nordschleifen-Rekord Der Elektro-SUV Xiaomi YU7 GT fährt allein die Nordschleife ab. Ein Fahrer ist nicht an Bord. ( Xiaomi , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6bd83bb0cc82225be9400698",
-      "title": "Elektroauto: Megane E-Tech bekommt LFP-Akku und 500 km Reichweite",
-      "url": "https://www.golem.de/news/elektroauto-megane-e-tech-bekommt-lfp-akku-und-500-km-reichweite-2606-210050.html",
-      "published_at": "2026-06-23T05:39:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Megane E-Tech bekommt LFP-Akku und 500 km Reichweite Renault hat den Megane E-Tech grundlegend überarbeitet. Ein Wechsel von NMC auf LFP, der mehr Reichweite und schnelleres Laden bringt. ( Renault , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c81ed4bef028d54c3b011fd6",
-      "title": "Studie: Auslegung entscheidet über Erlöspotenzial von Grünstromspeichern",
-      "url": "https://www.pv-magazine.de/2026/06/22/studie-auslegung-entscheidet-uber-erlospotenzial-von-grunstromspeichern/",
-      "published_at": "2026-06-22T13:20:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Studie: Auslegung entscheidet über Erlöspotenzial von Grünstromspeichern Die Konfiguration von Photovoltaik-Anlage und Batteriespeicher hat erheblichen Einfluss auf die Wirtschaftlichkeit von Co-Location-Projekten. Nach einer Studie von Suena Energy können sich die Erlöse je nach Auslegung mehr als verdoppeln.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "28bf939c57f72bf0db83bdca",
-      "title": "Ladesäule: Alpitronic bietet Megawattladen für Pkw",
-      "url": "https://www.golem.de/news/ladesaeule-alpitronic-bietet-megawattladen-fuer-pkw-2606-210038.html",
-      "published_at": "2026-06-22T13:11:00Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Ladesäule: Alpitronic bietet Megawattladen für Pkw Zwar beherrschen bislang nur wenige Elektroautos hohe Ladeleistungen bis 1.000 kW. Doch die ersten Ladesäulen dafür stehen bereit. ( Ladesäule , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "589102743c19d2cb6084a7ab",
-      "title": "Capac Energy baut Zink-Bromid-Großspeicher in Bruchsal",
-      "url": "https://www.pv-magazine.de/2026/06/22/capac-energy-baut-zink-bromid-grossspeicher-in-bruchsal/",
-      "published_at": "2026-06-22T12:00:46Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Capac Energy baut Zink-Bromid-Großspeicher in Bruchsal Im badischen Bruchsal soll einer der ersten Großspeicher auf Basis von Zink-Bromid-Batterien in Europa entstehen. Parallel haben Capac Energy und der US-Hersteller Eos Energy einen exklusiven Liefervertrag über zwei Gigawattstunden Speicherkapazität für die DACH-Region abgeschlossen und wollen damit eine Alternative zu Lithium-Ionen-Großspeich",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9a69430b3a4761880541a577",
-      "title": "Engie sichert sich in Deutschland Flexibilität aus 126 Megawatt Batteriespeichern von Flower",
-      "url": "https://www.pv-magazine.de/2026/06/22/engie-sichert-sich-in-deutschland-flexibilitaet-aus-126-megawatt-batteriespeichern-von-flower/",
-      "published_at": "2026-06-22T10:21:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Engie sichert sich in Deutschland Flexibilität aus 126 Megawatt Batteriespeichern von Flower Eine siebenjährige Vereinbarung zwischen Engie und dem schwedischen Unternehmen Flower soll den Bau und die Finanzierung mehrerer Batteriespeicherprojekte in Deutschland ermöglichen. Die Kooperation umfasst zunächst 126 Megawatt flexibel einsetzbare Speicherleistung und startet Anfang 2029.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "06603603093b7945ee774a5f",
-      "title": "BSW-Solar: Trotz Speicherboom ist Realisierung vieler Großprojekte nicht gesichert",
-      "url": "https://www.pv-magazine.de/2026/06/22/bsw-solar-trotz-speicherboom-ist-realisierung-vieler-grossprojekte-nicht-gesichert/",
-      "published_at": "2026-06-22T09:41:42Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "BSW-Solar: Trotz Speicherboom ist Realisierung vieler Großprojekte nicht gesichert Der Markt für Batteriespeicher wächst in Deutschland derzeit mit hoher Dynamik. Nach einer Analyse von Enervis könnte der Ausbau von Großspeichern in den kommenden Jahren jedoch deutlich hinter den Planungen zurückbleiben. Der Bundesverband Solarwirtschaft fordert deshalb den raschen Abbau regulatorischer Hemmnisse.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d6986741ac19ea53c81013ed",
-      "title": "The Mobility House Energy vermarktet mehr als ein Gigawatt Speicherleistung",
-      "url": "https://www.pv-magazine.de/2026/06/22/the-mobility-house-energy-vermarktet-mehr-als-ein-gigawatt-speicherleistung/",
-      "published_at": "2026-06-22T07:22:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "The Mobility House Energy vermarktet mehr als ein Gigawatt Speicherleistung Die Leistung verteilt sich auf 47 Batteriespeicher in vier Ländern. 2016 begann The Mobility House Energy mit der Vermarktung von rund 12 Megawatt aus 1000 gebrauchten Fahrzeugbatterien.",
       "tags": [],
       "regions": []
     },

@@ -2,15 +2,15 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-06-20": 1,
-    "2026-06-22": 6,
-    "2026-06-23": 4
+    "2026-06-23": 8
   },
   "tag_counts": {
     "exploration": 1,
-    "industrie": 1,
-    "politik": 1
+    "industrie": 2,
+    "politik": 2
   },
   "by_source_category": {
-    "national": 11
+    "broadcast": 1,
+    "national": 8
   }
 }
