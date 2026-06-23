@@ -1,13 +1,57 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-22T21:14:01Z",
+  "generated_at_utc": "2026-06-23T08:38:05Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 221,
+  "total_in_archive": 225,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 121
+    "2026-06": 125
   },
   "recent_for_ui": [
+    {
+      "id": "96e7cff1a91c562144a53197",
+      "title": "Tado ergänzt Smart-Home-App um Lademanagement für E-Autos von 15 Marken",
+      "url": "https://www.heise.de/news/Tado-ergaenzt-Smart-Home-App-um-Lademanagement-fuer-E-Autos-von-15-Marken-11340863.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-06-23T08:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Tado ergänzt Smart-Home-App um Lademanagement für E-Autos von 15 Marken Die Elektroauto-Funktionen der Smart-Charging-App von Tado sind nun in der Anwendung für Heizen, Kühlen und Stromtarife verfügbar – aber bald bloß gegen Geld.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e04a69f1f4785721604c921b",
+      "title": "Stream 5000: Ecoflow stellt skalierbares PV-System vor",
+      "url": "https://www.golem.de/news/stream-5000-ecoflow-stellt-skalierbares-pv-system-vor-2606-210063.html",
+      "published_at": "2026-06-23T07:38:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Stream 5000: Ecoflow stellt skalierbares PV-System vor Der Nachfolger der bisherigen Stream-Serie lässt sich vom kleinen Balkonkraftwerk bis zur 90-kWh-Heimspeicheranlage verwenden. ( Balkonkraftwerk , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a1aaf0a5e22fb495e7dd8bb4",
+      "title": "E-Auto: Xiaomis YU7 GT fährt autonom zum Nordschleifen-Rekord",
+      "url": "https://www.golem.de/news/e-auto-xiaomis-yu7-gt-faehrt-autonom-zum-nordschleifen-rekord-2606-210051.html",
+      "published_at": "2026-06-23T05:58:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "E-Auto: Xiaomis YU7 GT fährt autonom zum Nordschleifen-Rekord Der Elektro-SUV Xiaomi YU7 GT fährt allein die Nordschleife ab. Ein Fahrer ist nicht an Bord. ( Xiaomi , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6bd83bb0cc82225be9400698",
+      "title": "Elektroauto: Megane E-Tech bekommt LFP-Akku und 500 km Reichweite",
+      "url": "https://www.golem.de/news/elektroauto-megane-e-tech-bekommt-lfp-akku-und-500-km-reichweite-2606-210050.html",
+      "published_at": "2026-06-23T05:39:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Megane E-Tech bekommt LFP-Akku und 500 km Reichweite Renault hat den Megane E-Tech grundlegend überarbeitet. Ein Wechsel von NMC auf LFP, der mehr Reichweite und schnelleres Laden bringt. ( Renault , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c81ed4bef028d54c3b011fd6",
       "title": "Studie: Auslegung entscheidet über Erlöspotenzial von Grünstromspeichern",
