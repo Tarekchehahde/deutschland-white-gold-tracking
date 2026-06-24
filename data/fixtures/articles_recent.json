@@ -2,6 +2,61 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "6578fdb2d91858dd287f9f12",
+      "title": "Eine andere Art von Volatilität: Batterieerlöse bleiben auch im Mai 2026 robust",
+      "url": "https://www.pv-magazine.de/2026/06/24/eine-andere-art-von-volatilitaet-batterieerloese-bleiben-auch-im-mai-2026-robust/",
+      "published_at": "2026-06-24T08:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Eine andere Art von Volatilität: Batterieerlöse bleiben auch im Mai 2026 robust Der Mai brachte deutlich andere Marktbedingungen als der Vormonat: weniger Wind, höhere Strompreise und eine stärkere Rolle der Regelenergiemärkte. Die Erlöspotenziale von Batteriespeichern blieben dennoch nahezu unverändert. Lennard Wilkening, CEO und Mitgründer von Suena Energy, erläutert, warum erfolgreiche Batterie",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "08c0501a6514653ff3c87171",
+      "title": "Peaq: Skodas größtes E-Auto ist bestellbar",
+      "url": "https://www.golem.de/news/peaq-skodas-groesstes-e-auto-ist-bestellbar-2606-210104.html",
+      "published_at": "2026-06-24T07:59:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Peaq: Skodas größtes E-Auto ist bestellbar Der Peaq ist da: Skodas neues Elektro-Vorzeigemodell mit sieben Sitzplätzen und bis zu 642 Kilometern Reichweite steht ab sofort im Konfigurator. ( Skoda , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "238f5c2967886eff8b182cad",
+      "title": "Elektroauto: Hyundais sportliche Stromer sollen Auspuffknallen bekommen",
+      "url": "https://www.golem.de/news/elektroauto-hyundais-sportliche-stromer-sollen-auspuffknallen-bekommen-2606-210114.html",
+      "published_at": "2026-06-24T07:37:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Hyundais sportliche Stromer sollen Auspuffknallen bekommen Hyundais virtuelle Schaltung vom Ioniq 5 N wird nun von Porsche kopiert. Kommende N-Modelle sollen \"noch realistischer\" werden. ( Hyundai , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "156b9cf67d97d51c8e07f37a",
+      "title": "Solarpower Europe: Großspeicher treiben Europas Batteriemarkt auf Rekordniveau",
+      "url": "https://www.pv-magazine.de/2026/06/24/solarpower-europe-grossspeicher-treiben-europas-batteriemarkt-auf-rekordniveau/",
+      "published_at": "2026-06-24T07:03:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Solarpower Europe: Großspeicher treiben Europas Batteriemarkt auf Rekordniveau Der europäische Markt für Batteriespeicher ist 2025 um 48 Prozent auf 36 Gigawattstunden neu zugebaute Kapazität gewachsen. Erstmals entfiel dabei mehr als die Hälfte des Zubaus auf Großspeicher. Bis 2030 erwartet Solarpower Europe eine Vervierfachung des jährlichen Marktes.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0c87da4714921e3193ed055c",
+      "title": "heise+ | Batterie für das Elektroautos: Welchen Vorteil Feststoffbatterien haben",
+      "url": "https://www.heise.de/hintergrund/Batterie-fuer-das-Elektroautos-Welchen-Vorteil-Feststoffbatterien-haben-11340635.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-06-24T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Batterie für das Elektroautos: Welchen Vorteil Feststoffbatterien haben Festkörperbatterien sollen die Energiedichte von E-Autos massiv erhöhen. Doch was steckt hinter dem Begriff und welche Hürden gibt es bei der Serienfertigung?",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "bc55083ce0503a2de3b8a191",
       "title": "Cariad-Campus Berlin eröffnet: \"Das Scheitern war notwendig\"",
       "url": "https://www.golem.de/news/cariad-campus-berlin-eroeffnet-das-scheitern-war-notwendig-2606-210101.html",
@@ -94,22 +149,6 @@
       "summary": "Tado ergänzt Smart-Home-App um Lademanagement für E-Autos von 15 Marken Die Elektroauto-Funktionen der Smart-Charging-App von Tado sind nun in der Anwendung für Heizen, Kühlen und Stromtarife verfügbar – aber bald bloß gegen Geld.",
       "tags": [],
       "regions": []
-    },
-    {
-      "id": "721be6f30f830be4167c6dcf",
-      "title": "Umstrittene Pläne für Lithium-Abbau im Erzgebirge",
-      "url": "https://www.tagesschau.de/wirtschaft/energie/lithium-tschechien-erzgebirge-100.html",
-      "published_at": "2026-06-20T13:18:11Z",
-      "source_id": "tagesschau-wirtschaft",
-      "language": "de",
-      "summary": "Umstrittene Pläne für Lithium-Abbau im Erzgebirge Lithium wird für die Batterie-Produktion gebraucht. Zu Europas größten Lagerstätten gehört das Erzgebirge. Die tschechische Regierung treibt dort ein Abbauprojekt voran, aber die Sorgen vor Ort sind groß. Von Marianne Allweiss.",
-      "tags": [
-        "exploration",
-        "politik"
-      ],
-      "regions": [
-        "DE-SN"
-      ]
     }
   ]
 }
