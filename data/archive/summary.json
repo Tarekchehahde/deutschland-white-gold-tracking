@@ -1,13 +1,24 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-06-24T08:33:30Z",
+  "generated_at_utc": "2026-06-24T20:09:42Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 237,
+  "total_in_archive": 238,
   "articles_per_month": {
     "2026-05": 100,
-    "2026-06": 137
+    "2026-06": 138
   },
   "recent_for_ui": [
+    {
+      "id": "7931997ab63b47e8b3a1c6eb",
+      "title": "Energiespeicher-Verband BVES will EU-Beschwerde gegen Kapazitätsmarkt-Gesetz einlegen",
+      "url": "https://www.pv-magazine.de/2026/06/24/energiespeicher-verband-bves-will-eu-beschwerde-gegen-kapazitaetsmarkt-gesetz-einlegen/",
+      "published_at": "2026-06-24T12:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Energiespeicher-Verband BVES will EU-Beschwerde gegen Kapazitätsmarkt-Gesetz einlegen Dem BVES zufolge verletzt das Strom-Versorgungssicherheits- und Kapazitätsgesetz (StromVKG) das Prinzip der Technologieoffenheit. Speicher würden in der Praxis von wesentlichen Teilen des Kapazitätsmarktes ausgeschlossen. Ähnlich bewertet der Bundesverband Erneuerbare Energien den Entwurf.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "6578fdb2d91858dd287f9f12",
       "title": "Eine andere Art von Volatilität: Batterieerlöse bleiben auch im Mai 2026 robust",
