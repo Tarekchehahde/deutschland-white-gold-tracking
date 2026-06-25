@@ -2,6 +2,109 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "886716d2a3ec36b844d6195d",
+      "title": "Tesla plant 3.500 neue Arbeitsplätze in Grünheide",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/tesla-gruenheide-werk-mitarbeiter-100.html",
+      "published_at": "2026-06-25T16:16:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "Tesla plant 3.500 neue Arbeitsplätze in Grünheide Mehr Produktion, mehr Jobs: Nach dem Absatzplus der vergangenen Monate will Tesla in der Autofertigung und der Batteriezellproduktion tausende zusätzliche Stellen schaffen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "13be16fb48b9d123fed750ea",
+      "title": "Tesla: Fertigungsziel steigt – weitere 1000 Jobs in Grünheide geplant",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-fertigungsziel-steigt-weitere-1000-jobs-in-gruenheide-geplant-a-b250272c-43ec-4eda-aa0a-c691f8fa224a",
+      "published_at": "2026-06-25T16:03:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Tesla: Fertigungsziel steigt – weitere 1000 Jobs in Grünheide geplant Erst im April hatte der US-Elektroautobauer Tesla angekündigt, 1000 neue Mitarbeiter in seinem Werk in Grünheide beschäftigen zu wollen. Doch der Konzern will noch weiter expandieren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d09547e557d30bd5e2699181",
+      "title": "Höhere Produktion geplant: Tesla stellt 1.000 neue Mitarbeiter in Grünheide ein",
+      "url": "https://www.golem.de/news/hoehere-produktion-geplant-tesla-stellt-1-000-neue-mitarbeiter-in-gruenheide-ein-2606-210191.html",
+      "published_at": "2026-06-25T14:46:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Höhere Produktion geplant: Tesla stellt 1.000 neue Mitarbeiter in Grünheide ein Tesla will die Produktion des Model Y in Grünheide weiter hochfahren. Die Suche nach Mitarbeitern für die Batteriezellproduktion gestaltet sich schwierig. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "34aa7b79bb657541700e9edc",
+      "title": "Akkutechnik: CATL stellt Stromspeicher mit neuer Natrium-Technik vor",
+      "url": "https://www.golem.de/news/akkutechnik-catl-stellt-stromspeicher-mit-neuer-natrium-technik-vor-2606-210186.html",
+      "published_at": "2026-06-25T14:31:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Akkutechnik: CATL stellt Stromspeicher mit neuer Natrium-Technik vor Container mit eisenbasierten NFPP-Natriumakkus sind effiziente Netzspeicher ohne seltene Rohstoffe. Nur das Produktionsvolumen muss steigen. Von Frank Wunderlich-Pfeiffer ( Natrium-Ionen-Akkus , Energie & Klima )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "3d82a213fdf09503417bae0d",
+      "title": "EnBW startet Bau von 400-Megawatt-Batteriespeicher in Baden-Württemberg",
+      "url": "https://www.pv-magazine.de/2026/06/25/enbw-startet-bau-von-400-megawatt-batteriespeicher-in-baden-wuerttemberg/",
+      "published_at": "2026-06-25T12:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "EnBW startet Bau von 400-Megawatt-Batteriespeicher in Baden-Württemberg Der Großspeicher entsteht am Standort des ehemaligen Atomkraftwerks Philippsburg. Der Speicher hat eine Kapazität von 800 Megawattstunden. Das System soll bis Ende nächsten Jahres in Betrieb gehen.",
+      "tags": [],
+      "regions": [
+        "DE-BW"
+      ]
+    },
+    {
+      "id": "534b05723a0a5b6d40b2b358",
+      "title": "Energiemarkt auf Achterbahnfahrt: Warum die Hitzewelle die Strompreise abends explodieren lässt",
+      "url": "https://www.rnd.de/wirtschaft/energiemarkt-auf-achterbahnfahrt-warum-die-hitzewelle-die-strompreise-abends-explodieren-laesst-AUR2TEGL6FGVZNWML2N7LK2EPQ.html",
+      "published_at": "2026-06-25T12:30:14Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Energiemarkt auf Achterbahnfahrt: Warum die Hitzewelle die Strompreise abends explodieren lässt Im Großhandel legen die Preise für elektrische Energie derzeit eine nie gekannte Achterbahnfahrt hin. Das liegt am Strommix aus Erneuerbaren und Gaskraftwerken. Mehr Batteriespeicher könnten Abhilfe schaffen – und die Kosten drücken. Fragen und Antworten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3525b9bbd6fde5df37859a4f",
+      "title": "Crash mit FSD: Familie von Unfallopfer verklagt Tesla",
+      "url": "https://www.golem.de/news/crash-mit-fsd-familie-von-unfallopfer-verklagt-tesla-2606-210170.html",
+      "published_at": "2026-06-25T10:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Crash mit FSD: Familie von Unfallopfer verklagt Tesla Ein Tesla-Fahrer ist in ein Wohnhaus gerast, die Bewohnerin stirbt. Während die Ermittlungen noch laufen, verklagt die Familie Fahrer und Tesla. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5b15aed11528f499be8bb51c",
+      "title": "Kia EV2 im Praxistest: An diesem Auto muss VW mit dem ID.Cross vorbei",
+      "url": "https://www.golem.de/news/kia-ev2-im-praxistest-an-diesem-auto-muss-vw-mit-dem-id-cross-vorbei-2606-210139.html",
+      "published_at": "2026-06-25T10:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Kia EV2 im Praxistest: An diesem Auto muss VW mit dem ID.Cross vorbei Der EV2 ist Kias kleinstes Elektroauto und eignet sich prima für Stadt und Umland. Der Preis ist gut - wenn wenige Extras dazu bestellt werden. Ein Praxistest von Tobias Költzsch ( Kia , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fc0c42b37b60e8ea8ca65344",
+      "title": "Schnellerer Zubau von Großspeichern entlastet Verbraucher 2035 um bis zu 2,8 Milliarden Euro",
+      "url": "https://www.pv-magazine.de/2026/06/25/schnellerer-zubau-von-grossspeichern-entlastet-verbraucher-2035-um-bis-zu-28-milliarden-euro/",
+      "published_at": "2026-06-25T10:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Schnellerer Zubau von Großspeichern entlastet Verbraucher 2035 um bis zu 2,8 Milliarden Euro Ein Gutachten des Energiewirtschaftlichen Institut an der Universität Köln zeigt, dass ein beschleunigter Zubau großer Batteriespeicher erheblich niedrigere Kosten, stabilere Strompreise und mehr Resilienz bringen würde. Allein die Kosten von Stromerzeugung und -importen sänken damit 2035 um 1,8 Milliarden",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "7931997ab63b47e8b3a1c6eb",
       "title": "Energiespeicher-Verband BVES will EU-Beschwerde gegen Kapazitätsmarkt-Gesetz einlegen",
       "url": "https://www.pv-magazine.de/2026/06/24/energiespeicher-verband-bves-will-eu-beschwerde-gegen-kapazitaetsmarkt-gesetz-einlegen/",
