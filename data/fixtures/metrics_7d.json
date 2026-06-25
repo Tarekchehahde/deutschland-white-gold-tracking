@@ -1,12 +1,12 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-06-23": 3,
-    "2026-06-24": 5
+    "2026-06-23": 2,
+    "2026-06-24": 4
   },
   "tag_counts": {},
   "by_source_category": {
     "broadcast": 1,
-    "national": 7
+    "national": 5
   }
 }
