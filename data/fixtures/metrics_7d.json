@@ -2,11 +2,14 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-06-23": 2,
-    "2026-06-24": 4
+    "2026-06-24": 1,
+    "2026-06-25": 9
   },
-  "tag_counts": {},
+  "tag_counts": {
+    "umwelt": 1
+  },
   "by_source_category": {
-    "broadcast": 1,
-    "national": 5
+    "broadcast": 2,
+    "national": 10
   }
 }
