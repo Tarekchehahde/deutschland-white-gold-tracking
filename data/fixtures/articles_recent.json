@@ -2,27 +2,36 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "d09547e557d30bd5e2699181",
-      "title": "Höhere Produktion geplant: Tesla stellt 1.000 neue Mitarbeiter in Grünheide ein",
-      "url": "https://www.golem.de/news/hoehere-produktion-geplant-tesla-stellt-1-000-neue-mitarbeiter-in-gruenheide-ein-2606-210191.html",
-      "published_at": "2026-06-25T14:46:02Z",
+      "id": "2fb15a422bc6641123e7cdfe",
+      "title": "CATL-Chef: Massenfertigung von Feststoffbatterien erst ab 2030",
+      "url": "https://www.golem.de/news/catl-chef-massenfertigung-von-feststoffbatterien-erst-ab-2030-2606-210245.html",
+      "published_at": "2026-06-26T15:00:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Höhere Produktion geplant: Tesla stellt 1.000 neue Mitarbeiter in Grünheide ein Tesla will die Produktion des Model Y in Grünheide weiter hochfahren. Die Suche nach Mitarbeitern für die Batteriezellproduktion gestaltet sich schwierig. ( Gigafactory Berlin , Elektroauto )",
+      "summary": "CATL-Chef: Massenfertigung von Feststoffbatterien erst ab 2030 Feststoffbatterien bringen Elektroautos zahlreiche Vorteile. Der Durchbruch braucht aber noch Zeit - findet zumindest der Chef von CATL. ( Elektroauto , Wissenschaft )",
       "tags": [],
       "regions": []
     },
     {
-      "id": "34aa7b79bb657541700e9edc",
-      "title": "Akkutechnik: CATL stellt Stromspeicher mit neuer Natrium-Technik vor",
-      "url": "https://www.golem.de/news/akkutechnik-catl-stellt-stromspeicher-mit-neuer-natrium-technik-vor-2606-210186.html",
-      "published_at": "2026-06-25T14:31:01Z",
+      "id": "15a5beb50667ce75a26479e3",
+      "title": "Amble One: Offener elektrischer Buggy ist bis 65 km/h schnell",
+      "url": "https://www.golem.de/news/amble-one-offener-elektrischer-buggy-ist-bis-65-km-h-schnell-2606-210237.html",
+      "published_at": "2026-06-26T13:05:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Akkutechnik: CATL stellt Stromspeicher mit neuer Natrium-Technik vor Container mit eisenbasierten NFPP-Natriumakkus sind effiziente Netzspeicher ohne seltene Rohstoffe. Nur das Produktionsvolumen muss steigen. Von Frank Wunderlich-Pfeiffer ( Natrium-Ionen-Akkus , Energie & Klima )",
-      "tags": [
-        "umwelt"
-      ],
+      "summary": "Amble One: Offener elektrischer Buggy ist bis 65 km/h schnell Für den deutschen Winter ist der Amble One wohl eher nichts - er soll aber ideal für kurze Wege in wärmeren Gefilden oder den Strand sein. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "905bc4e052f694ff0fbd8488",
+      "title": "Elektroauto: Polestar muss sich aus USA zurückziehen",
+      "url": "https://www.golem.de/news/elektroauto-polestar-muss-sich-aus-usa-zurueckziehen-2606-210232.html",
+      "published_at": "2026-06-26T12:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Polestar muss sich aus USA zurückziehen Weil Polestar aus China kommt und die Elektroautos Daten senden, dürfen sie nicht mehr in den USA verkauft werden. Polestar schwenkt nach Europa um. ( Elektroauto , Politik )",
+      "tags": [],
       "regions": []
     },
     {
@@ -46,28 +55,6 @@
       "source_id": "rnd-wirtschaft",
       "language": "de",
       "summary": "Energiemarkt auf Achterbahnfahrt: Warum die Hitzewelle die Strompreise abends explodieren lässt Im Großhandel legen die Preise für elektrische Energie derzeit eine nie gekannte Achterbahnfahrt hin. Das liegt am Strommix aus Erneuerbaren und Gaskraftwerken. Mehr Batteriespeicher könnten Abhilfe schaffen – und die Kosten drücken. Fragen und Antworten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fc0c42b37b60e8ea8ca65344",
-      "title": "Schnellerer Zubau von Großspeichern entlastet Verbraucher 2035 um bis zu 2,8 Milliarden Euro",
-      "url": "https://www.pv-magazine.de/2026/06/25/schnellerer-zubau-von-grossspeichern-entlastet-verbraucher-2035-um-bis-zu-28-milliarden-euro/",
-      "published_at": "2026-06-25T10:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Schnellerer Zubau von Großspeichern entlastet Verbraucher 2035 um bis zu 2,8 Milliarden Euro Ein Gutachten des Energiewirtschaftlichen Institut an der Universität Köln zeigt, dass ein beschleunigter Zubau großer Batteriespeicher erheblich niedrigere Kosten, stabilere Strompreise und mehr Resilienz bringen würde. Allein die Kosten von Stromerzeugung und -importen sänken damit 2035 um 1,8 Milliarden",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7931997ab63b47e8b3a1c6eb",
-      "title": "Energiespeicher-Verband BVES will EU-Beschwerde gegen Kapazitätsmarkt-Gesetz einlegen",
-      "url": "https://www.pv-magazine.de/2026/06/24/energiespeicher-verband-bves-will-eu-beschwerde-gegen-kapazitaetsmarkt-gesetz-einlegen/",
-      "published_at": "2026-06-24T12:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Energiespeicher-Verband BVES will EU-Beschwerde gegen Kapazitätsmarkt-Gesetz einlegen Dem BVES zufolge verletzt das Strom-Versorgungssicherheits- und Kapazitätsgesetz (StromVKG) das Prinzip der Technologieoffenheit. Speicher würden in der Praxis von wesentlichen Teilen des Kapazitätsmarktes ausgeschlossen. Ähnlich bewertet der Bundesverband Erneuerbare Energien den Entwurf.",
       "tags": [],
       "regions": []
     },
