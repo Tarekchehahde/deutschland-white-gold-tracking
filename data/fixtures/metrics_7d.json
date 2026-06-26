@@ -3,13 +3,13 @@
   "articles_per_day": {
     "2026-06-23": 2,
     "2026-06-24": 1,
-    "2026-06-25": 9
+    "2026-06-25": 5
   },
   "tag_counts": {
     "umwelt": 1
   },
   "by_source_category": {
-    "broadcast": 2,
-    "national": 10
+    "broadcast": 1,
+    "national": 7
   }
 }
