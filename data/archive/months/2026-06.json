@@ -1,8 +1,32 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-06",
-  "article_count": 150,
+  "article_count": 152,
   "articles": [
+    {
+      "id": "40dd4e6a9848927a6e9f4a34",
+      "title": "Serbien: Kampf um Rohstoffe - Deutschlands Mann an der Seite des Autokraten",
+      "url": "https://www.spiegel.de/wirtschaft/serbien-wie-berlin-fuer-lithium-vucics-berater-finanziert-a-b9ad24a7-8292-420b-86c4-21561224f9cc",
+      "published_at": "2026-06-27T13:26:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Serbien: Kampf um Rohstoffe - Deutschlands Mann an der Seite des Autokraten Die Bundesregierung zahlt einen engen Berater des serbischen Präsidenten Aleksandar Vučić. Sie hofft auf Lithium aus einer umstrittenen Mine.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "1e2cec078f2450fb2358ec67",
+      "title": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus",
+      "url": "https://www.tagesschau.de/inland/regional/sachsen/bergakademie-minecraft-computerspiel-countdown-bergau-wissen-100.html",
+      "published_at": "2026-06-27T12:14:27Z",
+      "source_id": "tagesschau-sn",
+      "language": "de",
+      "summary": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus Wissensvermittlung mal anders. Die TU Bergakademie will mit einer Freiberger Version von Minecraft junge Menschen für Bergbau und Rohstoffforschung begeistern. Auch Heimatkunde spielt in \"Countdown Freiberg\" eine Rolle.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "2fb15a422bc6641123e7cdfe",
       "title": "CATL-Chef: Massenfertigung von Feststoffbatterien erst ab 2030",
