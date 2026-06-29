@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "1e2cec078f2450fb2358ec67",
+      "title": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus",
+      "url": "https://www.tagesschau.de/inland/regional/sachsen/bergakademie-minecraft-computerspiel-countdown-bergau-wissen-100.html",
+      "published_at": "2026-06-29T09:08:16Z",
+      "source_id": "tagesschau-sn",
+      "language": "de",
+      "summary": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus Wissensvermittlung mal anders. Die TU Bergakademie will mit einer Freiberger Version von Minecraft junge Menschen für Bergbau und Rohstoffforschung begeistern. Auch Heimatkunde spielt in \"Countdown Freiberg\" eine Rolle.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e15f578808ef81f49d8108ea",
+      "title": "Stromkosten: Wann sich Batteriespeicher auch ohne Solaranlage lohnen",
+      "url": "https://www.spiegel.de/wirtschaft/service/stromkosten-wann-sich-batteriespeicher-auch-ohne-solaranlage-lohnen-a-bf45b49a-2678-4d44-bfe8-d1bcc1765e43",
+      "published_at": "2026-06-29T08:38:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Stromkosten: Wann sich Batteriespeicher auch ohne Solaranlage lohnen Billigen Strom speichern und später nutzen: Bislang war das ein Modell für Hausbesitzer mit Solaranlage. Jetzt bieten erste Firmen Batteriespeicher auch für Mieter an. Hier erfahren Sie, ob das sinnvoll ist.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "5a70126a01361c554c6c5adc",
       "title": "Balkonkraftwerk aufrüsten: Wann sich ein Speicher lohnt und worauf du achten musst",
       "url": "https://t3n.de/news/1805-1746658/",
@@ -13,52 +35,6 @@
       "regions": []
     },
     {
-      "id": "1e2cec078f2450fb2358ec67",
-      "title": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus",
-      "url": "https://www.tagesschau.de/inland/regional/sachsen/bergakademie-minecraft-computerspiel-countdown-bergau-wissen-100.html",
-      "published_at": "2026-06-27T12:14:27Z",
-      "source_id": "tagesschau-sn",
-      "language": "de",
-      "summary": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus Wissensvermittlung mal anders. Die TU Bergakademie will mit einer Freiberger Version von Minecraft junge Menschen für Bergbau und Rohstoffforschung begeistern. Auch Heimatkunde spielt in \"Countdown Freiberg\" eine Rolle.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2fb15a422bc6641123e7cdfe",
-      "title": "CATL-Chef: Massenfertigung von Feststoffbatterien erst ab 2030",
-      "url": "https://www.golem.de/news/catl-chef-massenfertigung-von-feststoffbatterien-erst-ab-2030-2606-210245.html",
-      "published_at": "2026-06-26T15:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "CATL-Chef: Massenfertigung von Feststoffbatterien erst ab 2030 Feststoffbatterien bringen Elektroautos zahlreiche Vorteile. Der Durchbruch braucht aber noch Zeit - findet zumindest der Chef von CATL. ( Elektroauto , Wissenschaft )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "15a5beb50667ce75a26479e3",
-      "title": "Amble One: Offener elektrischer Buggy ist bis 65 km/h schnell",
-      "url": "https://www.golem.de/news/amble-one-offener-elektrischer-buggy-ist-bis-65-km-h-schnell-2606-210237.html",
-      "published_at": "2026-06-26T13:05:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Amble One: Offener elektrischer Buggy ist bis 65 km/h schnell Für den deutschen Winter ist der Amble One wohl eher nichts - er soll aber ideal für kurze Wege in wärmeren Gefilden oder den Strand sein. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3d82a213fdf09503417bae0d",
-      "title": "EnBW startet Bau von 400-Megawatt-Batteriespeicher in Baden-Württemberg",
-      "url": "https://www.pv-magazine.de/2026/06/25/enbw-startet-bau-von-400-megawatt-batteriespeicher-in-baden-wuerttemberg/",
-      "published_at": "2026-06-25T12:45:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "EnBW startet Bau von 400-Megawatt-Batteriespeicher in Baden-Württemberg Der Großspeicher entsteht am Standort des ehemaligen Atomkraftwerks Philippsburg. Der Speicher hat eine Kapazität von 800 Megawattstunden. Das System soll bis Ende nächsten Jahres in Betrieb gehen.",
-      "tags": [],
-      "regions": [
-        "DE-BW"
-      ]
-    },
-    {
       "id": "f287019b2d56f675729a95ba",
       "title": "Rare Ressourcen - Wie in Deutschland Lithium abgebaut werden soll",
       "url": "https://www.deutschlandfunk.de/rare-ressourcen-01-lithium-schluesselelement-fuer-akkus-100.html",
@@ -66,17 +42,6 @@
       "source_id": "deutschlandfunk-wissen",
       "language": "de",
       "summary": "Rare Ressourcen - Wie in Deutschland Lithium abgebaut werden soll Das Leichtmetall Lithium ist eine wichtige Ressource für die Energiewende. Es steckt in den Akkus von Smartphones oder E-Autos. Weil der Bedarf stark steigt, erschließen Fachleute neue Rohstoffquellen – auch mitten in Deutschland. Mrasek, Volker",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "cb68390d280c3dce99a3ba7e",
-      "title": "Wieso hängt Italien bei E-Mobilität so hinterher?",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/italien-elektromobilitaet-100.html",
-      "published_at": "2026-06-23T09:15:38Z",
-      "source_id": "tagesschau-wirtschaft",
-      "language": "de",
-      "summary": "Wieso hängt Italien bei E-Mobilität so hinterher? Italien ist das zweitgrößte Autoland der EU. Doch auf Elektromobilität haben die Italiener bislang keine Lust - entgegen dem europäischen Trend. Angemeldet sind gerade mal 400.000 E-Autos. Woran liegt das? Von Jörg Seisselberg.",
       "tags": [],
       "regions": []
     }

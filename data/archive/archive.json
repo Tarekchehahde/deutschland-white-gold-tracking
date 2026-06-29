@@ -2,6 +2,28 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "1e2cec078f2450fb2358ec67",
+      "title": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus",
+      "url": "https://www.tagesschau.de/inland/regional/sachsen/bergakademie-minecraft-computerspiel-countdown-bergau-wissen-100.html",
+      "published_at": "2026-06-29T09:08:16Z",
+      "source_id": "tagesschau-sn",
+      "language": "de",
+      "summary": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus Wissensvermittlung mal anders. Die TU Bergakademie will mit einer Freiberger Version von Minecraft junge Menschen für Bergbau und Rohstoffforschung begeistern. Auch Heimatkunde spielt in \"Countdown Freiberg\" eine Rolle.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e15f578808ef81f49d8108ea",
+      "title": "Stromkosten: Wann sich Batteriespeicher auch ohne Solaranlage lohnen",
+      "url": "https://www.spiegel.de/wirtschaft/service/stromkosten-wann-sich-batteriespeicher-auch-ohne-solaranlage-lohnen-a-bf45b49a-2678-4d44-bfe8-d1bcc1765e43",
+      "published_at": "2026-06-29T08:38:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Stromkosten: Wann sich Batteriespeicher auch ohne Solaranlage lohnen Billigen Strom speichern und später nutzen: Bislang war das ein Modell für Hausbesitzer mit Solaranlage. Jetzt bieten erste Firmen Batteriespeicher auch für Mieter an. Hier erfahren Sie, ob das sinnvoll ist.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "5a70126a01361c554c6c5adc",
       "title": "Balkonkraftwerk aufrüsten: Wann sich ein Speicher lohnt und worauf du achten musst",
       "url": "https://t3n.de/news/1805-1746658/",
@@ -23,17 +45,6 @@
       "tags": [
         "politik"
       ],
-      "regions": []
-    },
-    {
-      "id": "1e2cec078f2450fb2358ec67",
-      "title": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus",
-      "url": "https://www.tagesschau.de/inland/regional/sachsen/bergakademie-minecraft-computerspiel-countdown-bergau-wissen-100.html",
-      "published_at": "2026-06-27T12:14:27Z",
-      "source_id": "tagesschau-sn",
-      "language": "de",
-      "summary": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus Wissensvermittlung mal anders. Die TU Bergakademie will mit einer Freiberger Version von Minecraft junge Menschen für Bergbau und Rohstoffforschung begeistern. Auch Heimatkunde spielt in \"Countdown Freiberg\" eine Rolle.",
-      "tags": [],
       "regions": []
     },
     {
