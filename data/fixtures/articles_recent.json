@@ -2,6 +2,41 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "fb7eb546687a79db35d7c18d",
+      "title": "Enervis-Batteriespeicher-Index: Im Mai bleiben die Erlöse in Deutschland auf hohem Niveau und steigen leicht an, getragen von ähnlichen Marktbedingungen wie im April",
+      "url": "https://www.pv-magazine.de/2026/06/30/enervis-batteriespeicher-index-im-mai-bleiben-die-erloese-in-deutschland-auf-hohem-niveau-und-steigen-leicht-an-getragen-von-aehnlichen-marktbedingungen-wie-im-april/",
+      "published_at": "2026-06-30T07:10:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enervis-Batteriespeicher-Index: Im Mai bleiben die Erlöse in Deutschland auf hohem Niveau und steigen leicht an, getragen von ähnlichen Marktbedingungen wie im April Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f171c6e7ea4d31ea18226d02",
+      "title": "Staubsaugerroboterhersteller: Der „verrückte Chef“ des Dreame-Konzerns",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dreame-gruender-yu-hao-krise-durch-social-media-exzesse-accg-200959579.html",
+      "published_at": "2026-06-30T05:53:10Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Staubsaugerroboterhersteller: Der „verrückte Chef“ des Dreame-Konzerns Dreame ist für Staubsaugerroboter bekannt – und wollte rasant expandieren: Elektroautos, Satelliten, Zahnbürsten. Doch nun steckt der Konzern in Schwierigkeiten. Der Grund: das exzessive Social-Media-Verhalten des Gründers.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "79831770d43c82e5ad2d6565",
+      "title": "E-Autos: Tesla-Batterien aus Nevada-Fabrik gestohlen",
+      "url": "https://www.golem.de/news/e-autos-tesla-batterien-aus-nevada-fabrik-gestohlen-2606-210320.html",
+      "published_at": "2026-06-30T05:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "E-Autos: Tesla-Batterien aus Nevada-Fabrik gestohlen Seit Dezember 2025 verschwinden aus Teslas Gigafactory in Nevada Akkus im Wert von je bis zu einer halben Million US-Dollar. ( Tesla , Elektroauto )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "1e2cec078f2450fb2358ec67",
       "title": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus",
       "url": "https://www.tagesschau.de/inland/regional/sachsen/bergakademie-minecraft-computerspiel-countdown-bergau-wissen-100.html",
