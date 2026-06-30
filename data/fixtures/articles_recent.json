@@ -2,6 +2,74 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "e0608738e30c961ae7e8e2c1",
+      "title": "Unfallforschung: Elektroautos genauso sicher wie Verbrenner, aber mit anderen Unfällen",
+      "url": "https://www.golem.de/news/unfallforschung-elektroautos-genauso-sicher-wie-verbrenner-aber-mit-anderen-unfaellen-2606-210362.html",
+      "published_at": "2026-06-30T15:45:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Unfallforschung: Elektroautos genauso sicher wie Verbrenner, aber mit anderen Unfällen Einer Untersuchung zufolge sollen Elektroautos vergleichbar sicher wie Verbrenner sein, Unfälle beim Anfahren sind aber häufiger. Grund ist One-Pedal-Driving. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9c8babba1f89753740400594",
+      "title": "BMW iX5 vorgestellt: Das Elektro-SUV geht ans Limit",
+      "url": "https://www.golem.de/news/bmw-ix5-vorgestellt-das-elektro-suv-geht-ans-limit-2606-210318.html",
+      "published_at": "2026-06-30T15:00:05Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "BMW iX5 vorgestellt: Das Elektro-SUV geht ans Limit Beim neuen iX5 will BMW nicht kleckern, sondern klotzen. Der große Akku und die komfortable Ausstattung treiben das Gewicht des SUV nach oben. Ein Bericht von Friedhelm Greis ( Elektroauto , Technologie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "91e669c8858d85ae4a12e62a",
+      "title": "Batterieforschung: Europas Chance bei Lithium-Schwefel-Akkus",
+      "url": "https://www.golem.de/news/batterieforschung-europas-chance-bei-lithium-schwefel-akkus-2606-210353.html",
+      "published_at": "2026-06-30T13:08:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Batterieforschung: Europas Chance bei Lithium-Schwefel-Akkus Während die Technologie in Asien als Konkurrenz wahrgenommen wird, fehlt in den USA die langfristige Forschungsarbeit. Diese Lücke gilt es zu nutzen. ( Akku , LG )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7c9350e8c137c565000dc96d",
+      "title": "GDV-Studie Elektroautos: E-Autos laut neuer Studie nicht gefährlicher als Verbrenner",
+      "url": "https://rp-online.de/leben/auto/alternative-antriebe/elektroauto/e-autos-laut-neuer-studie-nicht-gefaehrlicher-als-verbrenner_aid-150740163",
+      "published_at": "2026-06-30T12:37:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "GDV-Studie Elektroautos: E-Autos laut neuer Studie nicht gefährlicher als Verbrenner E-Autos sind im Großen und Ganzen nicht unfallanfälliger als Verbrenner - zu diesem Schluss kommt eine Untersuchung des Gesamtverbands der Versicherer. Allerdings gibt es Unfallmuster, die bei E-Autos häufiger auftreten. Welche sind das?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1a28a36d1b0f2c764a676b0b",
+      "title": "pv magazine Focus: Qualitätskontrolle als Grundlage für bankfähige BESS-Projekte",
+      "url": "https://www.pv-magazine.de/2026/06/30/pv-magazine-focus-qualitaetskontrolle-als-grundlage-fuer-bankfaehige-bess-projekte/",
+      "published_at": "2026-06-30T12:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "pv magazine Focus: Qualitätskontrolle als Grundlage für bankfähige BESS-Projekte Branchenexperten erklärten auf der Veranstaltung „pv magazine Focus“, die im Rahmen der Intersolar 2026 in München stattfand, dass nicht allein die Zellchemie, sondern vielmehr die Qualitätskontrolle, die Vertragsgestaltung und die Zertifizierung darüber entscheiden, ob Batterie-Energiespeichersystem-Projekte (BESS) ü",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "28ed550385655528adcd1cad",
+      "title": "Eku Energy realisiert bis 2029 Batteriespeicher mit 1600 Megawattstunden in Deutschland",
+      "url": "https://www.pv-magazine.de/2026/06/30/eku-energy-realisiert-bis-2029-batteriespeicher-mit-1600-megawattstunden-in-deutschland/",
+      "published_at": "2026-06-30T10:37:08Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Eku Energy realisiert bis 2029 Batteriespeicher mit 1600 Megawattstunden in Deutschland Der 4-Stunden-Speicher entsteht im niedersächsischen Lamspringe. Er soll direkt ans Übertragungsnetz angeschlossen werden. Es soll zudem netzbildend und schwarzstartfähig sein.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "fb7eb546687a79db35d7c18d",
       "title": "Enervis-Batteriespeicher-Index: Im Mai bleiben die Erlöse in Deutschland auf hohem Niveau und steigen leicht an, getragen von ähnlichen Marktbedingungen wie im April",
       "url": "https://www.pv-magazine.de/2026/06/30/enervis-batteriespeicher-index-im-mai-bleiben-die-erloese-in-deutschland-auf-hohem-niveau-und-steigen-leicht-an-getragen-von-aehnlichen-marktbedingungen-wie-im-april/",
@@ -13,30 +81,6 @@
       "regions": []
     },
     {
-      "id": "f171c6e7ea4d31ea18226d02",
-      "title": "Staubsaugerroboterhersteller: Der „verrückte Chef“ des Dreame-Konzerns",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dreame-gruender-yu-hao-krise-durch-social-media-exzesse-accg-200959579.html",
-      "published_at": "2026-06-30T05:53:10Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Staubsaugerroboterhersteller: Der „verrückte Chef“ des Dreame-Konzerns Dreame ist für Staubsaugerroboter bekannt – und wollte rasant expandieren: Elektroautos, Satelliten, Zahnbürsten. Doch nun steckt der Konzern in Schwierigkeiten. Der Grund: das exzessive Social-Media-Verhalten des Gründers.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "79831770d43c82e5ad2d6565",
-      "title": "E-Autos: Tesla-Batterien aus Nevada-Fabrik gestohlen",
-      "url": "https://www.golem.de/news/e-autos-tesla-batterien-aus-nevada-fabrik-gestohlen-2606-210320.html",
-      "published_at": "2026-06-30T05:15:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "E-Autos: Tesla-Batterien aus Nevada-Fabrik gestohlen Seit Dezember 2025 verschwinden aus Teslas Gigafactory in Nevada Akkus im Wert von je bis zu einer halben Million US-Dollar. ( Tesla , Elektroauto )",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
       "id": "1e2cec078f2450fb2358ec67",
       "title": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus",
       "url": "https://www.tagesschau.de/inland/regional/sachsen/bergakademie-minecraft-computerspiel-countdown-bergau-wissen-100.html",
@@ -44,28 +88,6 @@
       "source_id": "tagesschau-sn",
       "language": "de",
       "summary": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus Wissensvermittlung mal anders. Die TU Bergakademie will mit einer Freiberger Version von Minecraft junge Menschen für Bergbau und Rohstoffforschung begeistern. Auch Heimatkunde spielt in \"Countdown Freiberg\" eine Rolle.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5a70126a01361c554c6c5adc",
-      "title": "Balkonkraftwerk aufrüsten: Wann sich ein Speicher lohnt und worauf du achten musst",
-      "url": "https://t3n.de/news/1805-1746658/",
-      "published_at": "2026-06-27T14:35:00Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Balkonkraftwerk aufrüsten: Wann sich ein Speicher lohnt und worauf du achten musst Mit einem Stromspeicher lässt sich noch mehr aus der Energie herausholen, die ein Balkonkraftwerk erzeugt. Wie funktionieren die zusätzlichen Geräte? Worauf muss man achten? Und wo liegen die Kosten? Balkonkraftwerke sind kinderleicht zu installieren und können Geräte wie Kühlschränke oder Fernseher mit Strom versor",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f287019b2d56f675729a95ba",
-      "title": "Rare Ressourcen - Wie in Deutschland Lithium abgebaut werden soll",
-      "url": "https://www.deutschlandfunk.de/rare-ressourcen-01-lithium-schluesselelement-fuer-akkus-100.html",
-      "published_at": "2026-06-23T14:36:14Z",
-      "source_id": "deutschlandfunk-wissen",
-      "language": "de",
-      "summary": "Rare Ressourcen - Wie in Deutschland Lithium abgebaut werden soll Das Leichtmetall Lithium ist eine wichtige Ressource für die Energiewende. Es steckt in den Akkus von Smartphones oder E-Autos. Weil der Bedarf stark steigt, erschließen Fachleute neue Rohstoffquellen – auch mitten in Deutschland. Mrasek, Volker",
       "tags": [],
       "regions": []
     }
