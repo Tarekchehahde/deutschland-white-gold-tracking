@@ -1,8 +1,45 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 4,
+  "article_count": 7,
   "articles": [
+    {
+      "id": "aebf90b6f91e1829d3b11f65",
+      "title": "Spatenstich für riesigen Batteriespeicher in Sachsen-Anhalt",
+      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/klostermansfeld-energiewende-energie-wind-solar-suedostlink,batteriespeicher-134.html",
+      "published_at": "2026-07-01T12:27:28Z",
+      "source_id": "tagesschau-st",
+      "language": "de",
+      "summary": "Spatenstich für riesigen Batteriespeicher in Sachsen-Anhalt Seit Mittwoch wird im Landkreis Mansfeld-Südharz einer der größten Batteriespeicherparks Deutschlands gebaut. Die Anlage in Klostermansfeld soll tausende Menschen mit Strom versorgen.",
+      "tags": [],
+      "regions": [
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "57b5de49310e3046ea78870d",
+      "title": "Green Flexibility übernimmt Batteriespeicher-Portfolio mit drei Gigawattstunden im Reifegradverfahren von Kajoni",
+      "url": "https://www.pv-magazine.de/2026/07/01/green-flexibility-uebernimmt-batteriespeicher-portfolio-mit-drei-gigawattstunden-im-reifegradverfahren-von-kajoni/",
+      "published_at": "2026-07-01T10:22:44Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Green Flexibility übernimmt Batteriespeicher-Portfolio mit drei Gigawattstunden im Reifegradverfahren von Kajoni Im Zuge des laufenden Reifegradverfahrens wird Kajoni die Projekte mit 750 Megawatt Leistung und rund 3000 Megawattstunde Kapazität zur Baureife bringen. Green Flexibility hilft, den notwendigen Kapitalbedarf zu decken und will die Anlagen bauen und betreiben. Zudem baut das Allgäuer Un",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "3ab4245e98f00ae20f34625c",
+      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-07-01T09:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "56a01443f486c2eabfdcf968",
       "title": "Geely E5 im Test: Familien-Elektroauto mit langer Garantie",
