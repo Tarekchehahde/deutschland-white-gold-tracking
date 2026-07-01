@@ -2,14 +2,13 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-06-29": 1,
-    "2026-06-30": 7,
-    "2026-07-01": 4
+    "2026-07-01": 6
   },
   "tag_counts": {
     "industrie": 2
   },
   "by_source_category": {
-    "national": 10,
+    "national": 5,
     "regional": 2
   }
 }

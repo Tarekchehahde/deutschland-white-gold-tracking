@@ -2,13 +2,39 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "56a01443f486c2eabfdcf968",
-      "title": "Geely E5 im Test: Familien-Elektroauto mit langer Garantie",
-      "url": "https://www.spiegel.de/mobilitaet/auto/geely-e5-im-test-familien-elektroauto-mit-langer-garantie-a-9797a06e-5c33-421d-a3bd-f6ba8deaa8b0",
-      "published_at": "2026-07-01T08:29:00Z",
-      "source_id": "spiegel-schlagzeilen",
+      "id": "aebf90b6f91e1829d3b11f65",
+      "title": "Spatenstich für riesigen Batteriespeicher in Sachsen-Anhalt",
+      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/klostermansfeld-energiewende-energie-wind-solar-suedostlink,batteriespeicher-134.html",
+      "published_at": "2026-07-01T12:27:28Z",
+      "source_id": "tagesschau-st",
       "language": "de",
-      "summary": "Geely E5 im Test: Familien-Elektroauto mit langer Garantie Geely baut das beliebteste Auto Chinas, doch versteckt es sich in Deutschland bislang hinter Marken von Volvo bis Smart. Nun soll der eigene Name gelten. Den Anfang macht ein Familien-SUV mit 200.000-Kilometer-Garantie.",
+      "summary": "Spatenstich für riesigen Batteriespeicher in Sachsen-Anhalt Seit Mittwoch wird im Landkreis Mansfeld-Südharz einer der größten Batteriespeicherparks Deutschlands gebaut. Die Anlage in Klostermansfeld soll tausende Menschen mit Strom versorgen.",
+      "tags": [],
+      "regions": [
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "57b5de49310e3046ea78870d",
+      "title": "Green Flexibility übernimmt Batteriespeicher-Portfolio mit drei Gigawattstunden im Reifegradverfahren von Kajoni",
+      "url": "https://www.pv-magazine.de/2026/07/01/green-flexibility-uebernimmt-batteriespeicher-portfolio-mit-drei-gigawattstunden-im-reifegradverfahren-von-kajoni/",
+      "published_at": "2026-07-01T10:22:44Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Green Flexibility übernimmt Batteriespeicher-Portfolio mit drei Gigawattstunden im Reifegradverfahren von Kajoni Im Zuge des laufenden Reifegradverfahrens wird Kajoni die Projekte mit 750 Megawatt Leistung und rund 3000 Megawattstunde Kapazität zur Baureife bringen. Green Flexibility hilft, den notwendigen Kapitalbedarf zu decken und will die Anlagen bauen und betreiben. Zudem baut das Allgäuer Un",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "3ab4245e98f00ae20f34625c",
+      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-07-01T09:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
       "tags": [],
       "regions": []
     },
@@ -49,85 +75,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "e0608738e30c961ae7e8e2c1",
-      "title": "Unfallforschung: Elektroautos genauso sicher wie Verbrenner, aber mit anderen Unfällen",
-      "url": "https://www.golem.de/news/unfallforschung-elektroautos-genauso-sicher-wie-verbrenner-aber-mit-anderen-unfaellen-2606-210362.html",
-      "published_at": "2026-06-30T15:45:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Unfallforschung: Elektroautos genauso sicher wie Verbrenner, aber mit anderen Unfällen Einer Untersuchung zufolge sollen Elektroautos vergleichbar sicher wie Verbrenner sein, Unfälle beim Anfahren sind aber häufiger. Grund ist One-Pedal-Driving. ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9c8babba1f89753740400594",
-      "title": "BMW iX5 vorgestellt: Das Elektro-SUV geht ans Limit",
-      "url": "https://www.golem.de/news/bmw-ix5-vorgestellt-das-elektro-suv-geht-ans-limit-2606-210318.html",
-      "published_at": "2026-06-30T15:00:05Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "BMW iX5 vorgestellt: Das Elektro-SUV geht ans Limit Beim neuen iX5 will BMW nicht kleckern, sondern klotzen. Der große Akku und die komfortable Ausstattung treiben das Gewicht des SUV nach oben. Ein Bericht von Friedhelm Greis ( Elektroauto , Technologie )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "91e669c8858d85ae4a12e62a",
-      "title": "Batterieforschung: Europas Chance bei Lithium-Schwefel-Akkus",
-      "url": "https://www.golem.de/news/batterieforschung-europas-chance-bei-lithium-schwefel-akkus-2606-210353.html",
-      "published_at": "2026-06-30T13:08:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Batterieforschung: Europas Chance bei Lithium-Schwefel-Akkus Während die Technologie in Asien als Konkurrenz wahrgenommen wird, fehlt in den USA die langfristige Forschungsarbeit. Diese Lücke gilt es zu nutzen. ( Akku , LG )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7c9350e8c137c565000dc96d",
-      "title": "GDV-Studie Elektroautos: E-Autos laut neuer Studie nicht gefährlicher als Verbrenner",
-      "url": "https://rp-online.de/leben/auto/alternative-antriebe/elektroauto/e-autos-laut-neuer-studie-nicht-gefaehrlicher-als-verbrenner_aid-150740163",
-      "published_at": "2026-06-30T12:37:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "GDV-Studie Elektroautos: E-Autos laut neuer Studie nicht gefährlicher als Verbrenner E-Autos sind im Großen und Ganzen nicht unfallanfälliger als Verbrenner - zu diesem Schluss kommt eine Untersuchung des Gesamtverbands der Versicherer. Allerdings gibt es Unfallmuster, die bei E-Autos häufiger auftreten. Welche sind das?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1a28a36d1b0f2c764a676b0b",
-      "title": "pv magazine Focus: Qualitätskontrolle als Grundlage für bankfähige BESS-Projekte",
-      "url": "https://www.pv-magazine.de/2026/06/30/pv-magazine-focus-qualitaetskontrolle-als-grundlage-fuer-bankfaehige-bess-projekte/",
-      "published_at": "2026-06-30T12:15:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "pv magazine Focus: Qualitätskontrolle als Grundlage für bankfähige BESS-Projekte Branchenexperten erklärten auf der Veranstaltung „pv magazine Focus“, die im Rahmen der Intersolar 2026 in München stattfand, dass nicht allein die Zellchemie, sondern vielmehr die Qualitätskontrolle, die Vertragsgestaltung und die Zertifizierung darüber entscheiden, ob Batterie-Energiespeichersystem-Projekte (BESS) ü",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "28ed550385655528adcd1cad",
-      "title": "Eku Energy realisiert bis 2029 Batteriespeicher mit 1600 Megawattstunden in Deutschland",
-      "url": "https://www.pv-magazine.de/2026/06/30/eku-energy-realisiert-bis-2029-batteriespeicher-mit-1600-megawattstunden-in-deutschland/",
-      "published_at": "2026-06-30T10:37:08Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Eku Energy realisiert bis 2029 Batteriespeicher mit 1600 Megawattstunden in Deutschland Der 4-Stunden-Speicher entsteht im niedersächsischen Lamspringe. Er soll direkt ans Übertragungsnetz angeschlossen werden. Es soll zudem netzbildend und schwarzstartfähig sein.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fb7eb546687a79db35d7c18d",
-      "title": "Enervis-Batteriespeicher-Index: Im Mai bleiben die Erlöse in Deutschland auf hohem Niveau und steigen leicht an, getragen von ähnlichen Marktbedingungen wie im April",
-      "url": "https://www.pv-magazine.de/2026/06/30/enervis-batteriespeicher-index-im-mai-bleiben-die-erloese-in-deutschland-auf-hohem-niveau-und-steigen-leicht-an-getragen-von-aehnlichen-marktbedingungen-wie-im-april/",
-      "published_at": "2026-06-30T07:10:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Enervis-Batteriespeicher-Index: Im Mai bleiben die Erlöse in Deutschland auf hohem Niveau und steigen leicht an, getragen von ähnlichen Marktbedingungen wie im April Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
-      "tags": [],
       "regions": []
     },
     {

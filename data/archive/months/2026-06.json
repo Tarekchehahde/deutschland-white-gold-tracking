@@ -1,7 +1,7 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-06",
-  "article_count": 163,
+  "article_count": 162,
   "articles": [
     {
       "id": "e0608738e30c961ae7e8e2c1",
@@ -1373,17 +1373,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Elektromobilität: Zahl der Ladepunkte steigt binnen 12 Monaten um fast 30.000 Der Ausbau der Ladeinfrastruktur in Deutschland kommt weiter voran. Auffällig ist, dass die durchschnittliche Leistung pro Ladepunkt ansteigt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3ab4245e98f00ae20f34625c",
-      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-06-09T04:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
       "tags": [],
       "regions": []
     },
