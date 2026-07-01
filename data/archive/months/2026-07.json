@@ -1,0 +1,57 @@
+{
+  "schema_version": "0.3.0",
+  "month": "2026-07",
+  "article_count": 4,
+  "articles": [
+    {
+      "id": "56a01443f486c2eabfdcf968",
+      "title": "Geely E5 im Test: Familien-Elektroauto mit langer Garantie",
+      "url": "https://www.spiegel.de/mobilitaet/auto/geely-e5-im-test-familien-elektroauto-mit-langer-garantie-a-9797a06e-5c33-421d-a3bd-f6ba8deaa8b0",
+      "published_at": "2026-07-01T08:29:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Geely E5 im Test: Familien-Elektroauto mit langer Garantie Geely baut das beliebteste Auto Chinas, doch versteckt es sich in Deutschland bislang hinter Marken von Volvo bis Smart. Nun soll der eigene Name gelten. Den Anfang macht ein Familien-SUV mit 200.000-Kilometer-Garantie.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7250cef92b0009024d9f9441",
+      "title": "BW ESS legt den Grundstein für 5,7 Gigawattstunden-Batteriespeicher in Deutschland",
+      "url": "https://www.pv-magazine.de/2026/07/01/bw-ess-legt-den-grundstein-fuer-57-gigawattstunden-batteriespeicher-in-deutschland/",
+      "published_at": "2026-07-01T08:09:49Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "BW ESS legt den Grundstein für 5,7 Gigawattstunden-Batteriespeicher in Deutschland Der Baubeginn für das Projekt mit 1 Gigawatt Leistung und 5,7 Gigawattstunden Kapazität in Sachsen-Anhalt ist erfolgt. Voraussichtlich 2028 soll der Batteriespeicher seinen kommerziellen Betrieb aufnehmen, wie BW ESS auf Nachfrage von ESS News erklärte.",
+      "tags": [],
+      "regions": [
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "fd2ec7849d93453ba6e2c50a",
+      "title": "BW ESS baut 1-Gigawatt-Speicher für den Stromhandel",
+      "url": "https://www.heise.de/news/BW-ESS-baut-1-Gigawatt-Speicher-fuer-den-Stromhandel-11349923.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-01T05:48:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "BW ESS baut 1-Gigawatt-Speicher für den Stromhandel BW ESS baut den größten Stromspeicher in Sachsen-Anhalt. Die Anlage mit einem Gigawatt Leistung soll 2028 in Betrieb gehen.",
+      "tags": [],
+      "regions": [
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "63483286c61b404464be2e15",
+      "title": "heise+ |  Batterien für Elektroautos: Was kommt nach Lithium?",
+      "url": "https://www.heise.de/hintergrund/Batterien-fuer-Elektroautos-Was-kommt-nach-Lithium-11347691.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-07-01T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ |  Batterien für Elektroautos: Was kommt nach Lithium? Die Forschung an Batteriezellen geht weit über das Elektroauto hinaus. Neue Zellchemien sollen Kosten und Abhängigkeiten senken und die Energiedichte steigern.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    }
+  ]
+}
