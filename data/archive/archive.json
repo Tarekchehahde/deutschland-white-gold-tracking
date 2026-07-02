@@ -2,6 +2,30 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "63483286c61b404464be2e15",
+      "title": "heise+ |  Batterien für Elektroautos: Was kommt nach Lithium?",
+      "url": "https://www.heise.de/hintergrund/Batterien-fuer-Elektroautos-Was-kommt-nach-Lithium-11347691.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-07-02T07:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ |  Batterien für Elektroautos: Was kommt nach Lithium? Die Forschung an Batteriezellen geht weit über das Elektroauto hinaus. Neue Zellchemien sollen Kosten und Abhängigkeiten senken und die Energiedichte steigern.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "711cec0e0e448fe5d062ffc3",
+      "title": "Tödlicher Auffahrunfall: Elektrolastwagen Tesla Semi in Unfall verwickelt",
+      "url": "https://www.golem.de/news/toedlicher-auffahrunfall-elektrolastwagen-tesla-semi-in-unfall-verwickelt-2607-210414.html",
+      "published_at": "2026-07-02T06:32:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tödlicher Auffahrunfall: Elektrolastwagen Tesla Semi in Unfall verwickelt Weil der Fahrer offenbar eingeschlafen ist, ist ein Tesla Semi in Nevada auf stehende Fahrzeuge aufgefahren. Zwei Menschen starben. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "aebf90b6f91e1829d3b11f65",
       "title": "Spatenstich für riesigen Batteriespeicher in Sachsen-Anhalt",
       "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/klostermansfeld-energiewende-energie-wind-solar-suedostlink,batteriespeicher-134.html",
@@ -74,19 +98,6 @@
       "regions": [
         "DE-ST"
       ]
-    },
-    {
-      "id": "63483286c61b404464be2e15",
-      "title": "heise+ |  Batterien für Elektroautos: Was kommt nach Lithium?",
-      "url": "https://www.heise.de/hintergrund/Batterien-fuer-Elektroautos-Was-kommt-nach-Lithium-11347691.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-07-01T05:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ |  Batterien für Elektroautos: Was kommt nach Lithium? Die Forschung an Batteriezellen geht weit über das Elektroauto hinaus. Neue Zellchemien sollen Kosten und Abhängigkeiten senken und die Energiedichte steigern.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
     },
     {
       "id": "e0608738e30c961ae7e8e2c1",
