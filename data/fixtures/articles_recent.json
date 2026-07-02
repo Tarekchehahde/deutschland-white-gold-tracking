@@ -2,16 +2,62 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "63483286c61b404464be2e15",
-      "title": "heise+ |  Batterien für Elektroautos: Was kommt nach Lithium?",
-      "url": "https://www.heise.de/hintergrund/Batterien-fuer-Elektroautos-Was-kommt-nach-Lithium-11347691.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-07-02T07:00:00Z",
-      "source_id": "heise-news",
+      "id": "73140069fa85aedc3b73640b",
+      "title": "Elektroautos: Tesla erholt sich",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-verkaufszahlen-steigen-um-25-prozent-im-q2-200992187.html",
+      "published_at": "2026-07-02T17:07:38Z",
+      "source_id": "faz-aktuell",
       "language": "de",
-      "summary": "heise+ |  Batterien für Elektroautos: Was kommt nach Lithium? Die Forschung an Batteriezellen geht weit über das Elektroauto hinaus. Neue Zellchemien sollen Kosten und Abhängigkeiten senken und die Energiedichte steigern.",
+      "summary": "Elektroautos: Tesla erholt sich Der Autohersteller steigert seine Verkaufszahlen im zweiten Quartal um 25 Prozent. Und auch in Europa geht es trotz der Kontroversen um Elon Musk wieder aufwärts.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b2168dd015af566c7c861577",
+      "title": "US-Elektroautobauer: Tesla liefert im zweiten Quartal deutlich mehr Autos aus",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-07/tesla-auslieferungen-auto-quartal-analysten",
+      "published_at": "2026-07-02T15:37:31Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "US-Elektroautobauer: Tesla liefert im zweiten Quartal deutlich mehr Autos aus Das Unternehmen konnte im Vorjahresvergleich überraschend rund ein Viertel mehr Autos ausliefern. Tesla selbst und Analysten hatten mit weniger Absatz gerechnet.",
       "tags": [
         "industrie"
       ],
+      "regions": []
+    },
+    {
+      "id": "5d1d20aa45cead862af048ff",
+      "title": "Green Flexibility legt FCA-Blueprint vor",
+      "url": "https://www.pv-magazine.de/2026/07/02/green-flexibility-legt-fca-blueprint-vor/",
+      "published_at": "2026-07-02T13:40:34Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Green Flexibility legt FCA-Blueprint vor Seit einem Jahr betreibt das Unternehmen seinen netzneutralen Batteriespeicher in Immenstadt nach den Vorgaben des Allgäuer Überlandwerks. Aus diesen Erfahrungen sowie weiteren Verhandlungen über flexible Netzanschlussvereinbarungen entwickelte Green Flexibility nun eine Blaupause für FCAs. Allgäu Netz will auf dieser Basis nächstes Jahr weitere Großspeiche",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "3ab4245e98f00ae20f34625c",
+      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-07-02T13:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b3b6dadffb961e8c8a941126",
+      "title": "Multiplina: Fiat bringt den Multipla als Elektro-Kleinstwagen zurück",
+      "url": "https://www.golem.de/news/multiplina-fiat-bringt-den-multipla-als-elektro-kleinstwagen-zurueck-2607-210442.html",
+      "published_at": "2026-07-02T12:16:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Multiplina: Fiat bringt den Multipla als Elektro-Kleinstwagen zurück Der Fiat Multiplina basiert auf der elektrischen Topolino-Plattform, bietet aber mehr Platz - und ein an den Fiat 600 Multipla erinnerndes Design. ( Fiat , Elektroauto )",
+      "tags": [],
       "regions": []
     },
     {
@@ -37,67 +83,6 @@
       "regions": [
         "DE-ST"
       ]
-    },
-    {
-      "id": "57b5de49310e3046ea78870d",
-      "title": "Green Flexibility übernimmt Batteriespeicher-Portfolio mit drei Gigawattstunden im Reifegradverfahren von Kajoni",
-      "url": "https://www.pv-magazine.de/2026/07/01/green-flexibility-uebernimmt-batteriespeicher-portfolio-mit-drei-gigawattstunden-im-reifegradverfahren-von-kajoni/",
-      "published_at": "2026-07-01T10:22:44Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Green Flexibility übernimmt Batteriespeicher-Portfolio mit drei Gigawattstunden im Reifegradverfahren von Kajoni Im Zuge des laufenden Reifegradverfahrens wird Kajoni die Projekte mit 750 Megawatt Leistung und rund 3000 Megawattstunde Kapazität zur Baureife bringen. Green Flexibility hilft, den notwendigen Kapitalbedarf zu decken und will die Anlagen bauen und betreiben. Zudem baut das Allgäuer Un",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "3ab4245e98f00ae20f34625c",
-      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-07-01T09:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7250cef92b0009024d9f9441",
-      "title": "BW ESS legt den Grundstein für 5,7 Gigawattstunden-Batteriespeicher in Deutschland",
-      "url": "https://www.pv-magazine.de/2026/07/01/bw-ess-legt-den-grundstein-fuer-57-gigawattstunden-batteriespeicher-in-deutschland/",
-      "published_at": "2026-07-01T08:09:49Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "BW ESS legt den Grundstein für 5,7 Gigawattstunden-Batteriespeicher in Deutschland Der Baubeginn für das Projekt mit 1 Gigawatt Leistung und 5,7 Gigawattstunden Kapazität in Sachsen-Anhalt ist erfolgt. Voraussichtlich 2028 soll der Batteriespeicher seinen kommerziellen Betrieb aufnehmen, wie BW ESS auf Nachfrage von ESS News erklärte.",
-      "tags": [],
-      "regions": [
-        "DE-ST"
-      ]
-    },
-    {
-      "id": "fd2ec7849d93453ba6e2c50a",
-      "title": "BW ESS baut 1-Gigawatt-Speicher für den Stromhandel",
-      "url": "https://www.heise.de/news/BW-ESS-baut-1-Gigawatt-Speicher-fuer-den-Stromhandel-11349923.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-01T05:48:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "BW ESS baut 1-Gigawatt-Speicher für den Stromhandel BW ESS baut den größten Stromspeicher in Sachsen-Anhalt. Die Anlage mit einem Gigawatt Leistung soll 2028 in Betrieb gehen.",
-      "tags": [],
-      "regions": [
-        "DE-ST"
-      ]
-    },
-    {
-      "id": "1e2cec078f2450fb2358ec67",
-      "title": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus",
-      "url": "https://www.tagesschau.de/inland/regional/sachsen/bergakademie-minecraft-computerspiel-countdown-bergau-wissen-100.html",
-      "published_at": "2026-06-29T09:08:16Z",
-      "source_id": "tagesschau-sn",
-      "language": "de",
-      "summary": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus Wissensvermittlung mal anders. Die TU Bergakademie will mit einer Freiberger Version von Minecraft junge Menschen für Bergbau und Rohstoffforschung begeistern. Auch Heimatkunde spielt in \"Countdown Freiberg\" eine Rolle.",
-      "tags": [],
-      "regions": []
     }
   ]
 }

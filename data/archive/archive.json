@@ -2,6 +2,65 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "73140069fa85aedc3b73640b",
+      "title": "Elektroautos: Tesla erholt sich",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-verkaufszahlen-steigen-um-25-prozent-im-q2-200992187.html",
+      "published_at": "2026-07-02T17:07:38Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Elektroautos: Tesla erholt sich Der Autohersteller steigert seine Verkaufszahlen im zweiten Quartal um 25 Prozent. Und auch in Europa geht es trotz der Kontroversen um Elon Musk wieder aufwärts.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b2168dd015af566c7c861577",
+      "title": "US-Elektroautobauer: Tesla liefert im zweiten Quartal deutlich mehr Autos aus",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-07/tesla-auslieferungen-auto-quartal-analysten",
+      "published_at": "2026-07-02T15:37:31Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "US-Elektroautobauer: Tesla liefert im zweiten Quartal deutlich mehr Autos aus Das Unternehmen konnte im Vorjahresvergleich überraschend rund ein Viertel mehr Autos ausliefern. Tesla selbst und Analysten hatten mit weniger Absatz gerechnet.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "5d1d20aa45cead862af048ff",
+      "title": "Green Flexibility legt FCA-Blueprint vor",
+      "url": "https://www.pv-magazine.de/2026/07/02/green-flexibility-legt-fca-blueprint-vor/",
+      "published_at": "2026-07-02T13:40:34Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Green Flexibility legt FCA-Blueprint vor Seit einem Jahr betreibt das Unternehmen seinen netzneutralen Batteriespeicher in Immenstadt nach den Vorgaben des Allgäuer Überlandwerks. Aus diesen Erfahrungen sowie weiteren Verhandlungen über flexible Netzanschlussvereinbarungen entwickelte Green Flexibility nun eine Blaupause für FCAs. Allgäu Netz will auf dieser Basis nächstes Jahr weitere Großspeiche",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "3ab4245e98f00ae20f34625c",
+      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-07-02T13:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b3b6dadffb961e8c8a941126",
+      "title": "Multiplina: Fiat bringt den Multipla als Elektro-Kleinstwagen zurück",
+      "url": "https://www.golem.de/news/multiplina-fiat-bringt-den-multipla-als-elektro-kleinstwagen-zurueck-2607-210442.html",
+      "published_at": "2026-07-02T12:16:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Multiplina: Fiat bringt den Multipla als Elektro-Kleinstwagen zurück Der Fiat Multiplina basiert auf der elektrischen Topolino-Plattform, bietet aber mehr Platz - und ein an den Fiat 600 Multipla erinnerndes Design. ( Fiat , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "63483286c61b404464be2e15",
       "title": "heise+ |  Batterien für Elektroautos: Was kommt nach Lithium?",
       "url": "https://www.heise.de/hintergrund/Batterien-fuer-Elektroautos-Was-kommt-nach-Lithium-11347691.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
@@ -49,17 +108,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "3ab4245e98f00ae20f34625c",
-      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-07-01T09:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
-      "tags": [],
       "regions": []
     },
     {
