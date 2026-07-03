@@ -1,14 +1,25 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-02T19:52:32Z",
+  "generated_at_utc": "2026-07-03T08:27:52Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 274,
+  "total_in_archive": 275,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 12
+    "2026-07": 13
   },
   "recent_for_ui": [
+    {
+      "id": "ccc02a36e8646c3d015fd0b0",
+      "title": "Flexibilitätsvermarktungsverträge – Checkliste rechtlicher Aspekte",
+      "url": "https://www.pv-magazine.de/2026/07/03/flexibilitaetsvermarktungsvertraege-checkliste-rechtlicher-aspekte/",
+      "published_at": "2026-07-03T07:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Flexibilitätsvermarktungsverträge – Checkliste rechtlicher Aspekte Verträge über die Vermarktung von Großbatteriespeichern („Flexibilitätsvermarktungsverträge“; auch die Bezeichnung als „Kapazitätsvermarktungsverträge“ ist gängig) bestimmen die Stromabsatzbedingungen bei Batteriespeicherprojekten und sind damit für die Finanzierung und den Erfolg eines Speicherprojektes essenziell. Der Beitrag bel",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "73140069fa85aedc3b73640b",
       "title": "Elektroautos: Tesla erholt sich",
