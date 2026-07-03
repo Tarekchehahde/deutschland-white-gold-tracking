@@ -1,14 +1,80 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-03T08:27:52Z",
+  "generated_at_utc": "2026-07-03T19:50:03Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 275,
+  "total_in_archive": 281,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 13
+    "2026-07": 19
   },
   "recent_for_ui": [
+    {
+      "id": "ed581bcee8725835959bec3a",
+      "title": "Neuzulassungen in Deutschland: Fast 50 Prozent mehr neue Elektroautos im ersten Halbjahr 2026",
+      "url": "https://rp-online.de/wirtschaft/deutschland-elektroauto-absatz-steigt-im-ersten-halbjahr-2026-um-48-prozent_aid-150928711",
+      "published_at": "2026-07-03T13:21:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Neuzulassungen in Deutschland: Fast 50 Prozent mehr neue Elektroautos im ersten Halbjahr 2026 368.000 neue Elektroautos in sechs Monaten in Deutschland – diese Zahlen klingen nach Aufbruch. Doch Experten sehen in dem Boom vor allem das Werk staatlicher Subventionen, nicht echten Wandel. Wie lange hält das?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7283bca6a497fe20914c705d",
+      "title": "PPA und Tolling-Vertrag für innovatives Photovoltaik+Speicher-Projekt von Enertrag",
+      "url": "https://www.pv-magazine.de/2026/07/03/ppa-und-tolling-vertrag-fuer-innovatives-photovoltaikspeicher-projekt-von-enertrag/",
+      "published_at": "2026-07-03T13:00:21Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "PPA und Tolling-Vertrag für innovatives Photovoltaik+Speicher-Projekt von Enertrag EDF Trading hat einen Stromabnahmevertrag mit sieben Jahren Laufzeit für die Photovoltaik-Anlage mit 44,5 Megawatt unterzeichnet. E2m wiederum wird die Vermarktung des Batteriespeichers zunächst für fünf Jahre als Grünstrom-Co-Location-Anlage übernehmen und für zwei weitere als Graustrom-Co-Location-Anlage. Dabei wi",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "eaf0016f2f90670e88c1bde5",
+      "title": "Elektromobilität: Eon und Tank & Rast sollen E-Lkw-Ladenetz aufbauen",
+      "url": "https://www.golem.de/news/elektromobilitaet-eon-und-tank-rast-sollen-e-lkw-ladenetz-aufbauen-2607-210479.html",
+      "published_at": "2026-07-03T10:47:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität: Eon und Tank & Rast sollen E-Lkw-Ladenetz aufbauen Insgesamt sollen 195 Ladepunkte für E-Lkw an 24 Standorten entlang von Autobahnen entstehen. Ein Großteil der Lader unterstützt Megawatt-Charging. ( Lkw , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "327135e5ca6f7290d80f66d1",
+      "title": "Eisen als Langzeit-Energiespeicher: KIT untersucht Potenzial in der Stromerzeugung",
+      "url": "https://www.pv-magazine.de/2026/07/03/eisen-als-langzeit-energiespeicher-kit-untersucht-potenzial-in-der-stromerzeugung/",
+      "published_at": "2026-07-03T10:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Eisen als Langzeit-Energiespeicher: KIT untersucht Potenzial in der Stromerzeugung Eisen wäre eine sinnvolle Option zur Langzeitspeicherung der Energie aus Photovoltaik und Windkraft – so der zentrale Befund einer Studie des KIT. Das CO2-neutrale Verbrennen und anschließende Rückführen in den Ausgangszustand hat demnach erhebliches Potenzial für eine auf Erneuerbaren basierende Stromversorgung. Es",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9ce536b97e9581ddbe91f4a0",
+      "title": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto",
+      "url": "https://www.heise.de/news/c-t-Webinar-Energiekosten-senken-mit-dem-Elektroauto-11345619.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-03T10:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto Das Webinar zeigt, wie sich ein Elektroauto als flexibler Stromspeicher nutzen lässt und wie Solarstrom und dynamische Tarife die Stromkosten senken können.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "966e523b5a91ed7fac197f34",
+      "title": "Fraunhofer IEE: Mehr Batteriespeicher entlasten Stromsystem um Milliarden Euro jährlich",
+      "url": "https://www.pv-magazine.de/2026/07/03/fraunhofer-iee-mehr-batteriespeicher-entlasten-stromsystem-um-milliarden-euro-jaehrlich/",
+      "published_at": "2026-07-03T08:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fraunhofer IEE: Mehr Batteriespeicher entlasten Stromsystem um Milliarden Euro jährlich Sowohl Verbraucher als auch der Bundeshaushalt würden jährlich um rund 3,9 Milliarden Euro entlastet, wie die Studie im Auftrag von BEE, BSW-Solar und BWE ergab. Die Forscher haben diese Summe auf Basis von 20 Gigawatt zusätzlicher Leistung von 4-Stunden-Speichern errechnet.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "ccc02a36e8646c3d015fd0b0",
       "title": "Flexibilitätsvermarktungsverträge – Checkliste rechtlicher Aspekte",
