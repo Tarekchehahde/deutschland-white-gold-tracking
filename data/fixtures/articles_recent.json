@@ -2,13 +2,13 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "73140069fa85aedc3b73640b",
-      "title": "Elektroautos: Tesla erholt sich",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-verkaufszahlen-steigen-um-25-prozent-im-q2-200992187.html",
-      "published_at": "2026-07-02T17:07:38Z",
-      "source_id": "faz-aktuell",
+      "id": "ccc02a36e8646c3d015fd0b0",
+      "title": "Flexibilitätsvermarktungsverträge – Checkliste rechtlicher Aspekte",
+      "url": "https://www.pv-magazine.de/2026/07/03/flexibilitaetsvermarktungsvertraege-checkliste-rechtlicher-aspekte/",
+      "published_at": "2026-07-03T07:30:00Z",
+      "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "Elektroautos: Tesla erholt sich Der Autohersteller steigert seine Verkaufszahlen im zweiten Quartal um 25 Prozent. Und auch in Europa geht es trotz der Kontroversen um Elon Musk wieder aufwärts.",
+      "summary": "Flexibilitätsvermarktungsverträge – Checkliste rechtlicher Aspekte Verträge über die Vermarktung von Großbatteriespeichern („Flexibilitätsvermarktungsverträge“; auch die Bezeichnung als „Kapazitätsvermarktungsverträge“ ist gängig) bestimmen die Stromabsatzbedingungen bei Batteriespeicherprojekten und sind damit für die Finanzierung und den Erfolg eines Speicherprojektes essenziell. Der Beitrag bel",
       "tags": [],
       "regions": []
     },
@@ -57,17 +57,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Multiplina: Fiat bringt den Multipla als Elektro-Kleinstwagen zurück Der Fiat Multiplina basiert auf der elektrischen Topolino-Plattform, bietet aber mehr Platz - und ein an den Fiat 600 Multipla erinnerndes Design. ( Fiat , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "711cec0e0e448fe5d062ffc3",
-      "title": "Tödlicher Auffahrunfall: Elektrolastwagen Tesla Semi in Unfall verwickelt",
-      "url": "https://www.golem.de/news/toedlicher-auffahrunfall-elektrolastwagen-tesla-semi-in-unfall-verwickelt-2607-210414.html",
-      "published_at": "2026-07-02T06:32:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tödlicher Auffahrunfall: Elektrolastwagen Tesla Semi in Unfall verwickelt Weil der Fahrer offenbar eingeschlafen ist, ist ein Tesla Semi in Nevada auf stehende Fahrzeuge aufgefahren. Zwei Menschen starben. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     },
