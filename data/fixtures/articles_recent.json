@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "d0a246ca9e494f8ca04cd9b2",
+      "title": "Elektroauto: Leasing, Autoabo, Carsharing im Vergleich",
+      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-leasing-autoabo-carsharing-im-vergleich-a-11a150d4-cfb4-4d87-8b40-7399ca90760c",
+      "published_at": "2026-07-04T13:30:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto: Leasing, Autoabo, Carsharing im Vergleich Viele interessieren sich für ein Elektroauto, scheuen aber das Risiko eines Neuwagenkaufs. Die zahlreichen Alternativen sind schwierig zu überblicken. Hier bekommen Sie Orientierungshilfe.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "84fef1262ad18b978ddc597e",
+      "title": "Kraftfahrt-Bundesamt: Auto-Neuzulassungen im Juni deutlich gestiegen",
+      "url": "https://www.golem.de/news/kraftfahrt-bundesamt-auto-neuzulassungen-im-juni-deutlich-gestiegen-2607-210507.html",
+      "published_at": "2026-07-04T12:40:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Kraftfahrt-Bundesamt: Auto-Neuzulassungen im Juni deutlich gestiegen Mehr Elektroautos, mehr private Käufer, weniger Diesel und Benziner: Das Kraftfahrt-Bundesamt zieht für Juni 2026 eine positive Halbjahresbilanz. ( Auto , Mercedes Benz )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "ed581bcee8725835959bec3a",
       "title": "Neuzulassungen in Deutschland: Fast 50 Prozent mehr neue Elektroautos im ersten Halbjahr 2026",
       "url": "https://rp-online.de/wirtschaft/deutschland-elektroauto-absatz-steigt-im-ersten-halbjahr-2026-um-48-prozent_aid-150928711",
@@ -90,19 +112,6 @@
         "industrie"
       ],
       "regions": []
-    },
-    {
-      "id": "aebf90b6f91e1829d3b11f65",
-      "title": "Spatenstich für riesigen Batteriespeicher in Sachsen-Anhalt",
-      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/klostermansfeld-energiewende-energie-wind-solar-suedostlink,batteriespeicher-134.html",
-      "published_at": "2026-07-01T12:27:28Z",
-      "source_id": "tagesschau-st",
-      "language": "de",
-      "summary": "Spatenstich für riesigen Batteriespeicher in Sachsen-Anhalt Seit Mittwoch wird im Landkreis Mansfeld-Südharz einer der größten Batteriespeicherparks Deutschlands gebaut. Die Anlage in Klostermansfeld soll tausende Menschen mit Strom versorgen.",
-      "tags": [],
-      "regions": [
-        "DE-ST"
-      ]
     }
   ]
 }
