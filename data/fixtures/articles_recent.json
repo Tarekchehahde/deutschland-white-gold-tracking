@@ -2,17 +2,6 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "d0a246ca9e494f8ca04cd9b2",
-      "title": "Elektroauto: Leasing, Autoabo, Carsharing im Vergleich",
-      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-leasing-autoabo-carsharing-im-vergleich-a-11a150d4-cfb4-4d87-8b40-7399ca90760c",
-      "published_at": "2026-07-04T13:30:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Elektroauto: Leasing, Autoabo, Carsharing im Vergleich Viele interessieren sich für ein Elektroauto, scheuen aber das Risiko eines Neuwagenkaufs. Die zahlreichen Alternativen sind schwierig zu überblicken. Hier bekommen Sie Orientierungshilfe.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "84fef1262ad18b978ddc597e",
       "title": "Kraftfahrt-Bundesamt: Auto-Neuzulassungen im Juni deutlich gestiegen",
       "url": "https://www.golem.de/news/kraftfahrt-bundesamt-auto-neuzulassungen-im-juni-deutlich-gestiegen-2607-210507.html",
@@ -98,19 +87,6 @@
       "language": "de",
       "summary": "Flexibilitätsvermarktungsverträge – Checkliste rechtlicher Aspekte Verträge über die Vermarktung von Großbatteriespeichern („Flexibilitätsvermarktungsverträge“; auch die Bezeichnung als „Kapazitätsvermarktungsverträge“ ist gängig) bestimmen die Stromabsatzbedingungen bei Batteriespeicherprojekten und sind damit für die Finanzierung und den Erfolg eines Speicherprojektes essenziell. Der Beitrag bel",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b2168dd015af566c7c861577",
-      "title": "US-Elektroautobauer: Tesla liefert im zweiten Quartal deutlich mehr Autos aus",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-07/tesla-auslieferungen-auto-quartal-analysten",
-      "published_at": "2026-07-02T15:37:31Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "US-Elektroautobauer: Tesla liefert im zweiten Quartal deutlich mehr Autos aus Das Unternehmen konnte im Vorjahresvergleich überraschend rund ein Viertel mehr Autos ausliefern. Tesla selbst und Analysten hatten mit weniger Absatz gerechnet.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]
