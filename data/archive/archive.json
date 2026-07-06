@@ -2,10 +2,49 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "4e4958b15757a137d390f26e",
+      "title": "Reiche ändeRt Gesetzentwurf: Das plant die Bundesregierung gegen Dunkelflauten",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kraftwerksstrategie-was-die-bundesregierung-gegen-dunkelflauten-plant-201002418.html",
+      "published_at": "2026-07-06T17:28:56Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Reiche ändeRt Gesetzentwurf: Das plant die Bundesregierung gegen Dunkelflauten Am Donnerstag soll der Bundestag endlich die deutsche Kraftwerksstrategie verabschieden. Nachbesserungen sehen höhere Vergütungen vor, Erleichterungen für Batteriespeicher und Anreize für Nordostdeutschland.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8ddf06b7475dba2dcaa9db16",
+      "title": "Elektromobilität: Druck verdoppelt die Lebensdauer von Batterien",
+      "url": "https://www.golem.de/news/elektromobilitaet-druck-verdoppelt-die-lebensdauer-von-batterien-2607-210553.html",
+      "published_at": "2026-07-06T14:29:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität: Druck verdoppelt die Lebensdauer von Batterien Mit konstantem Druck auf einen Akku wird die typische Alterung minimiert. Eine andere Zellchemie oder seltene Materialien werden nicht benötigt. ( Akku , Elektroauto )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "67e05a979bc2d7d5e58cc5ca",
+      "title": "Bundestag berät abschließend über Strom-VKG",
+      "url": "https://www.pv-magazine.de/2026/07/06/bundestag-beraet-abschliessend-ueber-strom-vkg/",
+      "published_at": "2026-07-06T13:01:25Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bundestag berät abschließend über Strom-VKG Der Bundesverband Neue Energiewirtschaft hält die kurzfristig geplanten Änderungen wie die Anhebung des Gebotshöchstwerts um 41 Prozent für das völlig falsche Signal. Auch die Diskriminierung von Batteriespeichern bei den geplanten Kapazitätsausschreibungen ist im parlamentarischen Prozess nicht beseitigt worden.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
       "id": "0600e979917b3e16231e9129",
       "title": "Belectric baut weiter Photovoltaik-Speicher-Kraftwerke – nur derzeit kaum in Deutschland",
       "url": "https://www.pv-magazine.de/2026/07/06/belectric-baut-weiter-photovoltaik-speicher-kraftwerke-nur-derzeit-kaum-in-deutschland/",
-      "published_at": "2026-07-06T08:19:00Z",
+      "published_at": "2026-07-06T10:19:00Z",
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Belectric baut weiter Photovoltaik-Speicher-Kraftwerke – nur derzeit kaum in Deutschland Zum 25-jährigen Bestehen blickt Geschäftsführer Thorsten Blanke auf sechs Gigawatt realisierte Projekte zurück. Im Interview auf der The smarter E hat er erklärt, warum reine Solarparks in Deutschland derzeit schwierig sind und warum Batteriespeicher vor allem in Spanien schneller zum Geschäft werden. Allerdin",
