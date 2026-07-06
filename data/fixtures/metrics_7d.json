@@ -1,13 +1,14 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-07-03": 5,
-    "2026-07-04": 1,
-    "2026-07-06": 1
+    "2026-07-03": 1,
+    "2026-07-06": 4
   },
-  "tag_counts": {},
+  "tag_counts": {
+    "industrie": 1,
+    "politik": 2
+  },
   "by_source_category": {
-    "national": 6,
-    "regional": 1
+    "national": 5
   }
 }

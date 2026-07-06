@@ -2,35 +2,52 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "4e4958b15757a137d390f26e",
+      "title": "Reiche ändeRt Gesetzentwurf: Das plant die Bundesregierung gegen Dunkelflauten",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kraftwerksstrategie-was-die-bundesregierung-gegen-dunkelflauten-plant-201002418.html",
+      "published_at": "2026-07-06T17:28:56Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Reiche ändeRt Gesetzentwurf: Das plant die Bundesregierung gegen Dunkelflauten Am Donnerstag soll der Bundestag endlich die deutsche Kraftwerksstrategie verabschieden. Nachbesserungen sehen höhere Vergütungen vor, Erleichterungen für Batteriespeicher und Anreize für Nordostdeutschland.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8ddf06b7475dba2dcaa9db16",
+      "title": "Elektromobilität: Druck verdoppelt die Lebensdauer von Batterien",
+      "url": "https://www.golem.de/news/elektromobilitaet-druck-verdoppelt-die-lebensdauer-von-batterien-2607-210553.html",
+      "published_at": "2026-07-06T14:29:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität: Druck verdoppelt die Lebensdauer von Batterien Mit konstantem Druck auf einen Akku wird die typische Alterung minimiert. Eine andere Zellchemie oder seltene Materialien werden nicht benötigt. ( Akku , Elektroauto )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "67e05a979bc2d7d5e58cc5ca",
+      "title": "Bundestag berät abschließend über Strom-VKG",
+      "url": "https://www.pv-magazine.de/2026/07/06/bundestag-beraet-abschliessend-ueber-strom-vkg/",
+      "published_at": "2026-07-06T13:01:25Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bundestag berät abschließend über Strom-VKG Der Bundesverband Neue Energiewirtschaft hält die kurzfristig geplanten Änderungen wie die Anhebung des Gebotshöchstwerts um 41 Prozent für das völlig falsche Signal. Auch die Diskriminierung von Batteriespeichern bei den geplanten Kapazitätsausschreibungen ist im parlamentarischen Prozess nicht beseitigt worden.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
       "id": "0600e979917b3e16231e9129",
       "title": "Belectric baut weiter Photovoltaik-Speicher-Kraftwerke – nur derzeit kaum in Deutschland",
       "url": "https://www.pv-magazine.de/2026/07/06/belectric-baut-weiter-photovoltaik-speicher-kraftwerke-nur-derzeit-kaum-in-deutschland/",
-      "published_at": "2026-07-06T08:19:00Z",
+      "published_at": "2026-07-06T10:19:00Z",
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Belectric baut weiter Photovoltaik-Speicher-Kraftwerke – nur derzeit kaum in Deutschland Zum 25-jährigen Bestehen blickt Geschäftsführer Thorsten Blanke auf sechs Gigawatt realisierte Projekte zurück. Im Interview auf der The smarter E hat er erklärt, warum reine Solarparks in Deutschland derzeit schwierig sind und warum Batteriespeicher vor allem in Spanien schneller zum Geschäft werden. Allerdin",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "84fef1262ad18b978ddc597e",
-      "title": "Kraftfahrt-Bundesamt: Auto-Neuzulassungen im Juni deutlich gestiegen",
-      "url": "https://www.golem.de/news/kraftfahrt-bundesamt-auto-neuzulassungen-im-juni-deutlich-gestiegen-2607-210507.html",
-      "published_at": "2026-07-04T12:40:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Kraftfahrt-Bundesamt: Auto-Neuzulassungen im Juni deutlich gestiegen Mehr Elektroautos, mehr private Käufer, weniger Diesel und Benziner: Das Kraftfahrt-Bundesamt zieht für Juni 2026 eine positive Halbjahresbilanz. ( Auto , Mercedes Benz )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ed581bcee8725835959bec3a",
-      "title": "Neuzulassungen in Deutschland: Fast 50 Prozent mehr neue Elektroautos im ersten Halbjahr 2026",
-      "url": "https://rp-online.de/wirtschaft/deutschland-elektroauto-absatz-steigt-im-ersten-halbjahr-2026-um-48-prozent_aid-150928711",
-      "published_at": "2026-07-03T13:21:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Neuzulassungen in Deutschland: Fast 50 Prozent mehr neue Elektroautos im ersten Halbjahr 2026 368.000 neue Elektroautos in sechs Monaten in Deutschland – diese Zahlen klingen nach Aufbruch. Doch Experten sehen in dem Boom vor allem das Werk staatlicher Subventionen, nicht echten Wandel. Wie lange hält das?",
       "tags": [],
       "regions": []
     },
@@ -42,39 +59,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "PPA und Tolling-Vertrag für innovatives Photovoltaik+Speicher-Projekt von Enertrag EDF Trading hat einen Stromabnahmevertrag mit sieben Jahren Laufzeit für die Photovoltaik-Anlage mit 44,5 Megawatt unterzeichnet. E2m wiederum wird die Vermarktung des Batteriespeichers zunächst für fünf Jahre als Grünstrom-Co-Location-Anlage übernehmen und für zwei weitere als Graustrom-Co-Location-Anlage. Dabei wi",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "327135e5ca6f7290d80f66d1",
-      "title": "Eisen als Langzeit-Energiespeicher: KIT untersucht Potenzial in der Stromerzeugung",
-      "url": "https://www.pv-magazine.de/2026/07/03/eisen-als-langzeit-energiespeicher-kit-untersucht-potenzial-in-der-stromerzeugung/",
-      "published_at": "2026-07-03T10:25:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Eisen als Langzeit-Energiespeicher: KIT untersucht Potenzial in der Stromerzeugung Eisen wäre eine sinnvolle Option zur Langzeitspeicherung der Energie aus Photovoltaik und Windkraft – so der zentrale Befund einer Studie des KIT. Das CO2-neutrale Verbrennen und anschließende Rückführen in den Ausgangszustand hat demnach erhebliches Potenzial für eine auf Erneuerbaren basierende Stromversorgung. Es",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "966e523b5a91ed7fac197f34",
-      "title": "Fraunhofer IEE: Mehr Batteriespeicher entlasten Stromsystem um Milliarden Euro jährlich",
-      "url": "https://www.pv-magazine.de/2026/07/03/fraunhofer-iee-mehr-batteriespeicher-entlasten-stromsystem-um-milliarden-euro-jaehrlich/",
-      "published_at": "2026-07-03T08:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Fraunhofer IEE: Mehr Batteriespeicher entlasten Stromsystem um Milliarden Euro jährlich Sowohl Verbraucher als auch der Bundeshaushalt würden jährlich um rund 3,9 Milliarden Euro entlastet, wie die Studie im Auftrag von BEE, BSW-Solar und BWE ergab. Die Forscher haben diese Summe auf Basis von 20 Gigawatt zusätzlicher Leistung von 4-Stunden-Speichern errechnet.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ccc02a36e8646c3d015fd0b0",
-      "title": "Flexibilitätsvermarktungsverträge – Checkliste rechtlicher Aspekte",
-      "url": "https://www.pv-magazine.de/2026/07/03/flexibilitaetsvermarktungsvertraege-checkliste-rechtlicher-aspekte/",
-      "published_at": "2026-07-03T07:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Flexibilitätsvermarktungsverträge – Checkliste rechtlicher Aspekte Verträge über die Vermarktung von Großbatteriespeichern („Flexibilitätsvermarktungsverträge“; auch die Bezeichnung als „Kapazitätsvermarktungsverträge“ ist gängig) bestimmen die Stromabsatzbedingungen bei Batteriespeicherprojekten und sind damit für die Finanzierung und den Erfolg eines Speicherprojektes essenziell. Der Beitrag bel",
       "tags": [],
       "regions": []
     }
