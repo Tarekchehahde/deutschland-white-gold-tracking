@@ -1,14 +1,25 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-05T19:42:29Z",
+  "generated_at_utc": "2026-07-06T09:10:18Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 283,
+  "total_in_archive": 284,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 21
+    "2026-07": 22
   },
   "recent_for_ui": [
+    {
+      "id": "0600e979917b3e16231e9129",
+      "title": "Belectric baut weiter Photovoltaik-Speicher-Kraftwerke – nur derzeit kaum in Deutschland",
+      "url": "https://www.pv-magazine.de/2026/07/06/belectric-baut-weiter-photovoltaik-speicher-kraftwerke-nur-derzeit-kaum-in-deutschland/",
+      "published_at": "2026-07-06T08:19:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Belectric baut weiter Photovoltaik-Speicher-Kraftwerke – nur derzeit kaum in Deutschland Zum 25-jährigen Bestehen blickt Geschäftsführer Thorsten Blanke auf sechs Gigawatt realisierte Projekte zurück. Im Interview auf der The smarter E hat er erklärt, warum reine Solarparks in Deutschland derzeit schwierig sind und warum Batteriespeicher vor allem in Spanien schneller zum Geschäft werden. Allerdin",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d0a246ca9e494f8ca04cd9b2",
       "title": "Elektroauto: Leasing, Autoabo, Carsharing im Vergleich",

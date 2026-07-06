@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "0600e979917b3e16231e9129",
+      "title": "Belectric baut weiter Photovoltaik-Speicher-Kraftwerke – nur derzeit kaum in Deutschland",
+      "url": "https://www.pv-magazine.de/2026/07/06/belectric-baut-weiter-photovoltaik-speicher-kraftwerke-nur-derzeit-kaum-in-deutschland/",
+      "published_at": "2026-07-06T08:19:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Belectric baut weiter Photovoltaik-Speicher-Kraftwerke – nur derzeit kaum in Deutschland Zum 25-jährigen Bestehen blickt Geschäftsführer Thorsten Blanke auf sechs Gigawatt realisierte Projekte zurück. Im Interview auf der The smarter E hat er erklärt, warum reine Solarparks in Deutschland derzeit schwierig sind und warum Batteriespeicher vor allem in Spanien schneller zum Geschäft werden. Allerdin",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "84fef1262ad18b978ddc597e",
       "title": "Kraftfahrt-Bundesamt: Auto-Neuzulassungen im Juni deutlich gestiegen",
       "url": "https://www.golem.de/news/kraftfahrt-bundesamt-auto-neuzulassungen-im-juni-deutlich-gestiegen-2607-210507.html",
@@ -42,17 +53,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Eisen als Langzeit-Energiespeicher: KIT untersucht Potenzial in der Stromerzeugung Eisen wäre eine sinnvolle Option zur Langzeitspeicherung der Energie aus Photovoltaik und Windkraft – so der zentrale Befund einer Studie des KIT. Das CO2-neutrale Verbrennen und anschließende Rückführen in den Ausgangszustand hat demnach erhebliches Potenzial für eine auf Erneuerbaren basierende Stromversorgung. Es",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9ce536b97e9581ddbe91f4a0",
-      "title": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto",
-      "url": "https://www.heise.de/news/c-t-Webinar-Energiekosten-senken-mit-dem-Elektroauto-11345619.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-03T10:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto Das Webinar zeigt, wie sich ein Elektroauto als flexibler Stromspeicher nutzen lässt und wie Solarstrom und dynamische Tarife die Stromkosten senken können.",
       "tags": [],
       "regions": []
     },
