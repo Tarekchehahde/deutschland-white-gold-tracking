@@ -2,6 +2,50 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "708e08418f68c2de87c880e4",
+      "title": "B03X: Leapmotors variabler Kompakt-SUV kostet ab 24.900 Euro",
+      "url": "https://www.golem.de/news/b03x-leapmotors-variabler-kompakt-suv-kostet-ab-24-900-euro-2607-210612.html",
+      "published_at": "2026-07-07T15:22:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "B03X: Leapmotors variabler Kompakt-SUV kostet ab 24.900 Euro Mit dem B03X visiert Leapmotor den Markt für geräumige Stadt- und Umlandfahrzeuge an. Die Rückbank kann hochgeklappt werden. ( Leapmotor , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ad71eafd1a0229c26d65068f",
+      "title": "Podcast Finanzen & Immobilien: Wie die KI-Welle viele Investitionen und Anlageoptionen antreibt",
+      "url": "https://www.faz.net/podcasts/f-a-z-finanzen-immobilien/podcast-was-kuenstliche-intelligenz-fuer-anleger-bedeutet-201006569.html",
+      "published_at": "2026-07-07T15:18:06Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Podcast Finanzen & Immobilien: Wie die KI-Welle viele Investitionen und Anlageoptionen antreibt Geothermie, Fusionsreaktoren, Drohnen: Künstliche Intelligenz braucht mehr Energie und kann den Einsatz neuer Technik anregen. Was bedeutet das für Anleger?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "bab308da2bc99326316076a5",
+      "title": "FSD: Tesla fährt mit schlafender Fahrerin 100 km/h",
+      "url": "https://www.golem.de/news/fsd-tesla-faehrt-mit-schlafender-fahrerin-100-km-h-2607-210603.html",
+      "published_at": "2026-07-07T13:48:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "FSD: Tesla fährt mit schlafender Fahrerin 100 km/h In Kanada wurde eine Frau in ihrem Tesla auf der Landstraße gefilmt - schlafend. Die Überwachung lässt sich eigentlich nur mit Tricks aushebeln. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4dd7d67a9bd4d6ddc3b2bba8",
+      "title": "„Sprechende Batterie“ soll selbsttätig Hitze oder Gasbildung melden",
+      "url": "https://www.pv-magazine.de/2026/07/07/sprechende-batterie-soll-selbsttaetig-hitze-oder-gasbildung-melden/",
+      "published_at": "2026-07-07T10:50:59Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "„Sprechende Batterie“ soll selbsttätig Hitze oder Gasbildung melden Ein an der Uni Kiel entwickeltes Sensorsystem könnte frühzeitig potenziell gefährliche Zustände in stationären Batteriespeichern oder Elektroauto-Batterien melden. Eigene Datenleitung sind hierfür nicht nötig, das System nutzt die bereits vorhandenen Stromleitungen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "f790c103d4ceb49d3380c03c",
       "title": "Luxushersteller: Bentley tauft sein erstes Elektroauto Torcal",
       "url": "https://www.golem.de/news/luxushersteller-bentley-tauft-sein-erstes-elektroauto-torcal-2607-210566.html",
