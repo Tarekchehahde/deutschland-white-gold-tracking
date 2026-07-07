@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "f790c103d4ceb49d3380c03c",
+      "title": "Luxushersteller: Bentley tauft sein erstes Elektroauto Torcal",
+      "url": "https://www.golem.de/news/luxushersteller-bentley-tauft-sein-erstes-elektroauto-torcal-2607-210566.html",
+      "published_at": "2026-07-07T05:41:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Luxushersteller: Bentley tauft sein erstes Elektroauto Torcal Der Autobauer Bentley will sein erstes vollelektrisches Modell Torcal nennen. Der Name folgt einer vertrauten Tradition. ( Auto , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "4e4958b15757a137d390f26e",
       "title": "Reiche ändeRt Gesetzentwurf: Das plant die Bundesregierung gegen Dunkelflauten",
       "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kraftwerksstrategie-was-die-bundesregierung-gegen-dunkelflauten-plant-201002418.html",
@@ -48,17 +59,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Belectric baut weiter Photovoltaik-Speicher-Kraftwerke – nur derzeit kaum in Deutschland Zum 25-jährigen Bestehen blickt Geschäftsführer Thorsten Blanke auf sechs Gigawatt realisierte Projekte zurück. Im Interview auf der The smarter E hat er erklärt, warum reine Solarparks in Deutschland derzeit schwierig sind und warum Batteriespeicher vor allem in Spanien schneller zum Geschäft werden. Allerdin",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7283bca6a497fe20914c705d",
-      "title": "PPA und Tolling-Vertrag für innovatives Photovoltaik+Speicher-Projekt von Enertrag",
-      "url": "https://www.pv-magazine.de/2026/07/03/ppa-und-tolling-vertrag-fuer-innovatives-photovoltaikspeicher-projekt-von-enertrag/",
-      "published_at": "2026-07-03T13:00:21Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "PPA und Tolling-Vertrag für innovatives Photovoltaik+Speicher-Projekt von Enertrag EDF Trading hat einen Stromabnahmevertrag mit sieben Jahren Laufzeit für die Photovoltaik-Anlage mit 44,5 Megawatt unterzeichnet. E2m wiederum wird die Vermarktung des Batteriespeichers zunächst für fünf Jahre als Grünstrom-Co-Location-Anlage übernehmen und für zwei weitere als Graustrom-Co-Location-Anlage. Dabei wi",
       "tags": [],
       "regions": []
     }
