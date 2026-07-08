@@ -1,13 +1,13 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-07-06": 1,
-    "2026-07-07": 4
+    "2026-07-07": 4,
+    "2026-07-08": 4
   },
-  "tag_counts": {
-    "politik": 1
-  },
+  "tag_counts": {},
   "by_source_category": {
-    "national": 5
+    "broadcast": 1,
+    "national": 6,
+    "regional": 1
   }
 }

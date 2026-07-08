@@ -1,14 +1,58 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-07T20:15:22Z",
+  "generated_at_utc": "2026-07-08T07:41:18Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 292,
+  "total_in_archive": 296,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 30
+    "2026-07": 34
   },
   "recent_for_ui": [
+    {
+      "id": "623a180cd1bda40e8b78db88",
+      "title": "ADAC-Umfrage: E-Autos besser als ihr Ruf",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/studie-zu-e-autos-elektroautos-sind-besser-als-ihr-ruf-accg-201002502.html",
+      "published_at": "2026-07-08T07:13:30Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "ADAC-Umfrage: E-Autos besser als ihr Ruf Eine Umfrage zeigt: Im Alltag bewähren sich Elektroautos besser, als diejenigen vermuten, die keines fahren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "910c707edb20291dbae2657c",
+      "title": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/unfall-zwei-tote-ueberholmanoever-bartholomae-100.html",
+      "published_at": "2026-07-08T06:52:56Z",
+      "source_id": "swr-aktuell-rss",
+      "language": "de",
+      "summary": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus Bei einem missglückten Überholmanöver nahe Bartholomä (Ostalbkreis) sind am späten Dienstagabend zwei Menschen getötet worden. Das Elektroauto fing Feuer und brannte aus.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ff1ac88009b8e71e143488fd",
+      "title": "Geothermie: Quaise erhält 134 Millionen US-Dollar für berührungslose Bohrtechnik",
+      "url": "https://www.heise.de/news/Geothermie-Quaise-erhaelt-134-Millionen-US-Dollar-fuer-beruehrungslose-Bohrtechnik-11357363.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-08T05:55:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Geothermie: Quaise erhält 134 Millionen US-Dollar für berührungslose Bohrtechnik Das Geothermieprojekt der MIT-Ausgründung Quaise Energy schreitet voran. Neues Kapital für die nötige Tiefbohrtechnik wurde eingeworben.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "741c568f7c475cb82fcbdb01",
+      "title": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus",
+      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-unfall-mit-zwei-toten-elektroauto-kracht-gegen-baum-und-brennt-aus-100.html",
+      "published_at": "2026-07-08T04:42:12Z",
+      "source_id": "tagesschau-bw",
+      "language": "de",
+      "summary": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus Bei einem missglückten Überholmanöver nahe Bartholomä (Ostalbkreis) sind am späten Dienstagabend zwei Menschen getötet worden. Das Elektroauto fing Feuer und brannte aus.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "708e08418f68c2de87c880e4",
       "title": "B03X: Leapmotors variabler Kompakt-SUV kostet ab 24.900 Euro",
