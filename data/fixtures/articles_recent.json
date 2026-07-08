@@ -2,13 +2,24 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "623a180cd1bda40e8b78db88",
-      "title": "ADAC-Umfrage: E-Autos besser als ihr Ruf",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/studie-zu-e-autos-elektroautos-sind-besser-als-ihr-ruf-accg-201002502.html",
-      "published_at": "2026-07-08T07:13:30Z",
-      "source_id": "faz-aktuell",
+      "id": "9b93657eaa9e0d8fadc4c9e8",
+      "title": "Elektroauto: Kia EV4 kommt als Allradversion mit 195 kW",
+      "url": "https://www.golem.de/news/elektroauto-kia-ev4-kommt-als-allradversion-mit-195-kw-2607-210666.html",
+      "published_at": "2026-07-08T15:47:02Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "ADAC-Umfrage: E-Autos besser als ihr Ruf Eine Umfrage zeigt: Im Alltag bewähren sich Elektroautos besser, als diejenigen vermuten, die keines fahren.",
+      "summary": "Elektroauto: Kia EV4 kommt als Allradversion mit 195 kW Kias in Europa gebautes Elektroauto EV4 bekommt zum Modelljahr 2027 eine neue Variante mit Allradantrieb, mehr Leistung und großem Akku. ( Kia , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b8614a5198e2427caaa1a6d8",
+      "title": "Netzausbau, Speicher und Flexibilität hinken dem Wachstum der erneuerbaren Energien in Europa hinterher",
+      "url": "https://www.pv-magazine.de/2026/07/08/netzausbau-speicher-und-flexibilitaet-hinken-dem-wachstum-der-erneuerbaren-energien-in-europa-hinterher/",
+      "published_at": "2026-07-08T14:55:18Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Netzausbau, Speicher und Flexibilität hinken dem Wachstum der erneuerbaren Energien in Europa hinterher Einem neuen Bericht des European Climate Neutrality Observatory zufolge schreiten der Netzausbau, die Batteriespeicher-Zubau und die Flexibilität, die für eine großflächige Nutzung von Photovoltaik, Windkraft &#38; Co. in Europa erforderlich sind, nicht schnell genug voran.",
       "tags": [],
       "regions": []
     },
@@ -16,10 +27,21 @@
       "id": "910c707edb20291dbae2657c",
       "title": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus",
       "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/unfall-zwei-tote-ueberholmanoever-bartholomae-100.html",
-      "published_at": "2026-07-08T06:52:56Z",
+      "published_at": "2026-07-08T14:48:01Z",
       "source_id": "swr-aktuell-rss",
       "language": "de",
       "summary": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus Bei einem missglückten Überholmanöver nahe Bartholomä (Ostalbkreis) sind am späten Dienstagabend zwei Menschen getötet worden. Das Elektroauto fing Feuer und brannte aus.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9fb771ea2b70dc752e5919fc",
+      "title": "Eisen statt Wasserstoff: Eisenpulver könnte zum relevanten Energiespeicher werden",
+      "url": "https://www.golem.de/news/eisen-statt-wasserstoff-eisenpulver-koennte-zum-relevanten-energiespeicher-werden-2607-210627.html",
+      "published_at": "2026-07-08T08:20:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Eisen statt Wasserstoff: Eisenpulver könnte zum relevanten Energiespeicher werden Eisen lässt sich zu Rost verbrennen - in bestehenden Kohlekraftwerken. Es kann Wasserstoff nicht ersetzen, aber eine preiswerte Ergänzung sein. ( Energiewende , Brennstoffzelle )",
       "tags": [],
       "regions": []
     },
@@ -35,6 +57,17 @@
       "regions": []
     },
     {
+      "id": "1db9190f5ddd6c6f7c5a42ba",
+      "title": "Elektroauto-Zahlen: Tesla fährt wieder an die Spitze",
+      "url": "https://www.faz.net/premium/digitalwirtschaft/mobility/e-autos-im-juni-tesla-faehrt-wieder-an-die-spitze-accg-201007277.html",
+      "published_at": "2026-07-08T04:55:57Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Elektroauto-Zahlen: Tesla fährt wieder an die Spitze Die Neuzulassungen von Elektroautos sind im Juni um 78 Prozent auf 84.057 Fahrzeuge gestiegen. Den Schub tragen ein erstarktes Tesla, die wachsenden Marktanteile der chinesischen Angreifer und die Modelloffensiven von Mercedes und BMW.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "741c568f7c475cb82fcbdb01",
       "title": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus",
       "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-unfall-mit-zwei-toten-elektroauto-kracht-gegen-baum-und-brennt-aus-100.html",
@@ -42,39 +75,6 @@
       "source_id": "tagesschau-bw",
       "language": "de",
       "summary": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus Bei einem missglückten Überholmanöver nahe Bartholomä (Ostalbkreis) sind am späten Dienstagabend zwei Menschen getötet worden. Das Elektroauto fing Feuer und brannte aus.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "708e08418f68c2de87c880e4",
-      "title": "B03X: Leapmotors variabler Kompakt-SUV kostet ab 24.900 Euro",
-      "url": "https://www.golem.de/news/b03x-leapmotors-variabler-kompakt-suv-kostet-ab-24-900-euro-2607-210612.html",
-      "published_at": "2026-07-07T15:22:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "B03X: Leapmotors variabler Kompakt-SUV kostet ab 24.900 Euro Mit dem B03X visiert Leapmotor den Markt für geräumige Stadt- und Umlandfahrzeuge an. Die Rückbank kann hochgeklappt werden. ( Leapmotor , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ad71eafd1a0229c26d65068f",
-      "title": "Podcast Finanzen & Immobilien: Wie die KI-Welle viele Investitionen und Anlageoptionen antreibt",
-      "url": "https://www.faz.net/podcasts/f-a-z-finanzen-immobilien/podcast-was-kuenstliche-intelligenz-fuer-anleger-bedeutet-201006569.html",
-      "published_at": "2026-07-07T15:18:06Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Podcast Finanzen & Immobilien: Wie die KI-Welle viele Investitionen und Anlageoptionen antreibt Geothermie, Fusionsreaktoren, Drohnen: Künstliche Intelligenz braucht mehr Energie und kann den Einsatz neuer Technik anregen. Was bedeutet das für Anleger?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bab308da2bc99326316076a5",
-      "title": "FSD: Tesla fährt mit schlafender Fahrerin 100 km/h",
-      "url": "https://www.golem.de/news/fsd-tesla-faehrt-mit-schlafender-fahrerin-100-km-h-2607-210603.html",
-      "published_at": "2026-07-07T13:48:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "FSD: Tesla fährt mit schlafender Fahrerin 100 km/h In Kanada wurde eine Frau in ihrem Tesla auf der Landstraße gefilmt - schlafend. Die Überwachung lässt sich eigentlich nur mit Tricks aushebeln. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     },
