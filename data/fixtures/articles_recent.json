@@ -24,50 +24,6 @@
       "regions": []
     },
     {
-      "id": "910c707edb20291dbae2657c",
-      "title": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/unfall-zwei-tote-ueberholmanoever-bartholomae-100.html",
-      "published_at": "2026-07-08T14:48:01Z",
-      "source_id": "swr-aktuell-rss",
-      "language": "de",
-      "summary": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus Bei einem missglückten Überholmanöver nahe Bartholomä (Ostalbkreis) sind am späten Dienstagabend zwei Menschen getötet worden. Das Elektroauto fing Feuer und brannte aus.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9fb771ea2b70dc752e5919fc",
-      "title": "Eisen statt Wasserstoff: Eisenpulver könnte zum relevanten Energiespeicher werden",
-      "url": "https://www.golem.de/news/eisen-statt-wasserstoff-eisenpulver-koennte-zum-relevanten-energiespeicher-werden-2607-210627.html",
-      "published_at": "2026-07-08T08:20:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Eisen statt Wasserstoff: Eisenpulver könnte zum relevanten Energiespeicher werden Eisen lässt sich zu Rost verbrennen - in bestehenden Kohlekraftwerken. Es kann Wasserstoff nicht ersetzen, aber eine preiswerte Ergänzung sein. ( Energiewende , Brennstoffzelle )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ff1ac88009b8e71e143488fd",
-      "title": "Geothermie: Quaise erhält 134 Millionen US-Dollar für berührungslose Bohrtechnik",
-      "url": "https://www.heise.de/news/Geothermie-Quaise-erhaelt-134-Millionen-US-Dollar-fuer-beruehrungslose-Bohrtechnik-11357363.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-08T05:55:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Geothermie: Quaise erhält 134 Millionen US-Dollar für berührungslose Bohrtechnik Das Geothermieprojekt der MIT-Ausgründung Quaise Energy schreitet voran. Neues Kapital für die nötige Tiefbohrtechnik wurde eingeworben.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1db9190f5ddd6c6f7c5a42ba",
-      "title": "Elektroauto-Zahlen: Tesla fährt wieder an die Spitze",
-      "url": "https://www.faz.net/premium/digitalwirtschaft/mobility/e-autos-im-juni-tesla-faehrt-wieder-an-die-spitze-accg-201007277.html",
-      "published_at": "2026-07-08T04:55:57Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Elektroauto-Zahlen: Tesla fährt wieder an die Spitze Die Neuzulassungen von Elektroautos sind im Juni um 78 Prozent auf 84.057 Fahrzeuge gestiegen. Den Schub tragen ein erstarktes Tesla, die wachsenden Marktanteile der chinesischen Angreifer und die Modelloffensiven von Mercedes und BMW.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "741c568f7c475cb82fcbdb01",
       "title": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus",
       "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-unfall-mit-zwei-toten-elektroauto-kracht-gegen-baum-und-brennt-aus-100.html",
@@ -75,17 +31,6 @@
       "source_id": "tagesschau-bw",
       "language": "de",
       "summary": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus Bei einem missglückten Überholmanöver nahe Bartholomä (Ostalbkreis) sind am späten Dienstagabend zwei Menschen getötet worden. Das Elektroauto fing Feuer und brannte aus.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4dd7d67a9bd4d6ddc3b2bba8",
-      "title": "„Sprechende Batterie“ soll selbsttätig Hitze oder Gasbildung melden",
-      "url": "https://www.pv-magazine.de/2026/07/07/sprechende-batterie-soll-selbsttaetig-hitze-oder-gasbildung-melden/",
-      "published_at": "2026-07-07T10:50:59Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "„Sprechende Batterie“ soll selbsttätig Hitze oder Gasbildung melden Ein an der Uni Kiel entwickeltes Sensorsystem könnte frühzeitig potenziell gefährliche Zustände in stationären Batteriespeichern oder Elektroauto-Batterien melden. Eigene Datenleitung sind hierfür nicht nötig, das System nutzt die bereits vorhandenen Stromleitungen.",
       "tags": [],
       "regions": []
     }
