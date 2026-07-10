@@ -1,14 +1,49 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-10T08:40:00Z",
+  "generated_at_utc": "2026-07-10T19:52:40Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 310,
+  "total_in_archive": 313,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 48
+    "2026-07": 51
   },
   "recent_for_ui": [
+    {
+      "id": "2472b33c82c64bef1039fe7e",
+      "title": "Kretschmer sieht VW für Werk Zwickau in Verantwortung: „Erinnert immer mehr an ein Kombinat“",
+      "url": "https://www.rnd.de/wirtschaft/kretschmer-sieht-vw-fuer-werk-zwickau-in-verantwortung-das-hat-nichts-mit-marktwirtschaft-zu-tun-4H4MESZUJ5BETC7ECZDGM72W3Q.html",
+      "published_at": "2026-07-10T14:26:14Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Kretschmer sieht VW für Werk Zwickau in Verantwortung: „Erinnert immer mehr an ein Kombinat“ Sachsens Ministerpräsident Michael Kretschmer wirft VW Vertrauensbruch vor: Das Zwickauer Werk habe als Leitwerk der Elektromobilität Zusagen bekommen, später seien Produkte abgezogen worden. Kritik kommt auch aus anderen Richtungen.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "2f76cccd9bc1c6344f5d2205",
+      "title": "Stimmen der Energiewende: Bundesnetzagentur-Vize Barbie Haller über steigende Netzkosten und Prosumer-Beiträge",
+      "url": "https://www.pv-magazine.de/2026/07/10/stimmen-der-energiewende-bundesnetzagentur-vize-barbie-haller-uber-steigende-netzkosten-und-prosumer-beitrage/",
+      "published_at": "2026-07-10T11:11:33Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Stimmen der Energiewende: Bundesnetzagentur-Vize Barbie Haller über steigende Netzkosten und Prosumer-Beiträge Wir diskutieren mit Barbie Haller, Vizepräsidentin der Bundesnetzagentur, wie sich die steigenden Netzkosten senken und besser auf die Nutzer des Stromnetzes verteilen lassen. Außerdem spechen wir mit ihr über die Frage, wie flexible Netzanschlussvereinbarungen für Batteriespeicher standa",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "30145bac6aed248928a3ac68",
+      "title": "GT-Version: Kia EV4 kommt mit 292 PS und Schaltsimulation",
+      "url": "https://www.golem.de/news/gt-version-kia-ev4-kommt-mit-292-ps-und-schaltsimulation-2607-210749.html",
+      "published_at": "2026-07-10T10:42:06Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "GT-Version: Kia EV4 kommt mit 292 PS und Schaltsimulation Nach den leistungsfähigeren Allrad-Varianten bringt Kia jetzt noch eine GT-Version des EV4 mit Schaltsimulation und Motorsound. ( Kia , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "cf4844b097e037a1449f9741",
       "title": "Wood Mackenzie: Verbot von risikobehafteten Photovoltaik-Wechselrichtern wird sich bis 2030 auf 14 Prozent der EU-Nachfrage auswirken",
@@ -16,7 +51,7 @@
       "published_at": "2026-07-10T08:21:45Z",
       "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "Wood Mackenzie: Verbot von risikobehafteten Photovoltaik-Wechselrichtern wird sich bis 2030 auf 14 Prozent der EU-Nachfrage auswirken Ein EU-Finanzierungsverbot würde nach der Analyse auch 12 Prozent der Energiespeicher-Installationen zwischen 2026 und 2030 betroffen. Wenn die Mitgliedsstaaten noch eigene Maßnahmen ergreifen, könnte der Prozentsatz noch deutlich höher liegen. Die Auswirkungen auf ",
+      "summary": "Wood Mackenzie: Verbot von risikobehafteten Photovoltaik-Wechselrichtern wird sich bis 2030 auf 14 Prozent der EU-Nachfrage auswirken Ein EU-Finanzierungsverbot würde nach der Analyse auch 12 Prozent der Energiespeicher-Installationen zwischen 2026 und 2030 betreffen. Wenn die Mitgliedsstaaten noch eigene Maßnahmen ergreifen, könnte der Prozentsatz noch deutlich höher liegen. Die Auswirkungen auf ",
       "tags": [],
       "regions": []
     },
