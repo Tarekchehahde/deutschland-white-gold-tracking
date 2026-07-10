@@ -2,6 +2,72 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "cf4844b097e037a1449f9741",
+      "title": "Wood Mackenzie: Verbot von risikobehafteten Photovoltaik-Wechselrichtern wird sich bis 2030 auf 14 Prozent der EU-Nachfrage auswirken",
+      "url": "https://www.pv-magazine.de/2026/07/10/wood-mackenzie-verbot-von-risikobehafteten-photovoltaik-wechselrichtern-wird-sich-bis-2030-auf-14-prozent-der-eu-nachfrage-auswirken/",
+      "published_at": "2026-07-10T08:21:45Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wood Mackenzie: Verbot von risikobehafteten Photovoltaik-Wechselrichtern wird sich bis 2030 auf 14 Prozent der EU-Nachfrage auswirken Ein EU-Finanzierungsverbot würde nach der Analyse auch 12 Prozent der Energiespeicher-Installationen zwischen 2026 und 2030 betroffen. Wenn die Mitgliedsstaaten noch eigene Maßnahmen ergreifen, könnte der Prozentsatz noch deutlich höher liegen. Die Auswirkungen auf ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f3fe52297f5727d109239df6",
+      "title": "Riesiger Batteriespeicher in Wittlich: Baubeginn nach vier Jahren Wartezeit",
+      "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/batteriespeicher-in-wittlich-wird-nach-vier-jahren-planung-gebaut-100.html",
+      "published_at": "2026-07-10T07:55:25Z",
+      "source_id": "swr-aktuell-rss",
+      "language": "de",
+      "summary": "Riesiger Batteriespeicher in Wittlich: Baubeginn nach vier Jahren Wartezeit Vor vier Jahren sind in Wittlich die Pläne für ein riesiges Batteriespeicherwerk vorgestellt worden. Nun sollen die Bauarbeiten beginnen. Der Weg war lang, die Bedenken groß.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "73f3431f166632638e7c3154",
+      "title": "Autonomes Fahren: Gesetzentwurf untersagt Teslas Robotaxis den Betrieb",
+      "url": "https://www.golem.de/news/autonomes-fahren-gesetzentwurf-untersagt-teslas-robotaxis-den-betrieb-2607-210734.html",
+      "published_at": "2026-07-10T07:40:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Gesetzentwurf untersagt Teslas Robotaxis den Betrieb In New Jersey sollen Robotaxis künftig neben Kameras noch zwei weitere Sensortypen verwenden. Kein Problem für Waymo, für Tesla schon. ( Cybercab , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e5530c32dbb899c3dc878c82",
+      "title": "Photovoltaik-Zubau in der Schweiz sinkt 2025 auf 1,33 Gigawatt",
+      "url": "https://www.pv-magazine.de/2026/07/10/photovoltaik-zubau-in-der-schweiz-sinkt-2025-auf-133-gigawatt/",
+      "published_at": "2026-07-10T07:35:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Photovoltaik-Zubau in der Schweiz sinkt 2025 auf 1,33 Gigawatt Insgesamt sind in dem Land nun Photovoltaik-Anlagen mit knapp 9,5 Gigawatt installiert. Während weniger Photovoltaik-Anlagen hinzukamen, steigt die Nachfrage nach Batteriespeichern, die ein Marktwachstum von 70 Prozent verzeichneten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "28491b8b460c7642e856a8b0",
+      "title": "CLA 45: Mercedes-AMG elektrisiert die Kompaktklasse mit 680 PS",
+      "url": "https://www.golem.de/news/cla-45-mercedes-amg-elektrisiert-die-kompaktklasse-mit-680-ps-2607-210721.html",
+      "published_at": "2026-07-10T05:59:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "CLA 45: Mercedes-AMG elektrisiert die Kompaktklasse mit 680 PS Mercedes-AMG schickt den CLA 45 4MATIC+ ins Rennen und macht das Kompaktsegment zur Hochleistungsklasse. ( Mercedes Benz , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d8eb1d0ed2bd09d0bf64c60c",
+      "title": "Riesiger Batteriespeicher in Wittlich: Baubeginn nach vier Jahren Wartezeit",
+      "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-riesiger-batteriespeicher-in-wittlich-baubeginn-nach-vier-jahren-wartezeit-100.html",
+      "published_at": "2026-07-10T04:03:01Z",
+      "source_id": "tagesschau-rp",
+      "language": "de",
+      "summary": "Riesiger Batteriespeicher in Wittlich: Baubeginn nach vier Jahren Wartezeit Vor vier Jahren sind in Wittlich die Pläne für ein riesiges Batteriespeicherwerk vorgestellt worden. Nun sollen die Bauarbeiten beginnen. Der Weg war lang, die Bedenken groß.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "5d67275f51cab0e262f5ca3c",
       "title": "Marktübersicht Heimspeicher: Eigenverbrauch, Notstrom und Vermarktung im Fokus",
       "url": "https://www.pv-magazine.de/2026/07/09/marktuebersicht-heimspeicher-eigenverbrauch-notstrom-und-vermarktung-im-fokus/",
@@ -31,6 +97,17 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Dynamische Stromtarife in Kombination mit Photovoltaikanlagen: Wirkungsgrade der Wechselrichter werden wichtiger pv+: In der Stromspeicher-Inspektion 2026 wurde erstmalig auch die Umwandlungseffizienz der Batteriesysteme beim Speichern von Netzstrom näher beleuchtet. Warum geringe Wechselrichterverluste entscheidend sind, damit sich für Haushalte mit dynamischen Stromtarifen das Speichern von Stro",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d36608aa411d31aa3fe10674",
+      "title": "E-Autos zum Verbrenner-Preis: Vietnamesischer Hersteller zeigt, wie es gehen soll",
+      "url": "https://t3n.de/news/e-autos-verbrenner-preis-ki-produktion-1745354/",
+      "published_at": "2026-07-09T11:30:00Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "E-Autos zum Verbrenner-Preis: Vietnamesischer Hersteller zeigt, wie es gehen soll Elektroautos sind teuer, die Produktion komplex. Der vietnamesische Hersteller VinFast setzt auf KI-gesteuerte Fertigung und vereinfachte Architekturen, um Kosten zu senken – ohne Abstriche bei der Qualität. Die Strategie dahinter. Elektroautos sind für viele Käufer noch immer zu teuer. Hohe Batteriekosten, komplexe ",
       "tags": [],
       "regions": []
     },
