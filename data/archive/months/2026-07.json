@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 51,
+  "article_count": 52,
   "articles": [
+    {
+      "id": "b2af55a6399241114cac9dd6",
+      "title": "Elektroauto: VW ID. Polo Trend startet ab 24.995 Euro",
+      "url": "https://www.golem.de/news/elektroauto-vw-id-polo-trend-startet-ab-24-995-euro-2607-210771.html",
+      "published_at": "2026-07-11T10:05:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: VW ID. Polo Trend startet ab 24.995 Euro Volkswagen öffnet den Konfigurator für die günstigste Ausstattungslinie des ID. Polo ab Mitte Juli. ( Volkswagen ID. , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "2472b33c82c64bef1039fe7e",
       "title": "Kretschmer sieht VW für Werk Zwickau in Verantwortung: „Erinnert immer mehr an ein Kombinat“",

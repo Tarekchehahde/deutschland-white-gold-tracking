@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "b2af55a6399241114cac9dd6",
+      "title": "Elektroauto: VW ID. Polo Trend startet ab 24.995 Euro",
+      "url": "https://www.golem.de/news/elektroauto-vw-id-polo-trend-startet-ab-24-995-euro-2607-210771.html",
+      "published_at": "2026-07-11T10:05:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: VW ID. Polo Trend startet ab 24.995 Euro Volkswagen öffnet den Konfigurator für die günstigste Ausstattungslinie des ID. Polo ab Mitte Juli. ( Volkswagen ID. , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "2472b33c82c64bef1039fe7e",
       "title": "Kretschmer sieht VW für Werk Zwickau in Verantwortung: „Erinnert immer mehr an ein Kombinat“",
       "url": "https://www.rnd.de/wirtschaft/kretschmer-sieht-vw-fuer-werk-zwickau-in-verantwortung-das-hat-nichts-mit-marktwirtschaft-zu-tun-4H4MESZUJ5BETC7ECZDGM72W3Q.html",
@@ -48,17 +59,6 @@
       "regions": []
     },
     {
-      "id": "73f3431f166632638e7c3154",
-      "title": "Autonomes Fahren: Gesetzentwurf untersagt Teslas Robotaxis den Betrieb",
-      "url": "https://www.golem.de/news/autonomes-fahren-gesetzentwurf-untersagt-teslas-robotaxis-den-betrieb-2607-210734.html",
-      "published_at": "2026-07-10T07:40:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Gesetzentwurf untersagt Teslas Robotaxis den Betrieb In New Jersey sollen Robotaxis künftig neben Kameras noch zwei weitere Sensortypen verwenden. Kein Problem für Waymo, für Tesla schon. ( Cybercab , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "e5530c32dbb899c3dc878c82",
       "title": "Photovoltaik-Zubau in der Schweiz sinkt 2025 auf 1,33 Gigawatt",
       "url": "https://www.pv-magazine.de/2026/07/10/photovoltaik-zubau-in-der-schweiz-sinkt-2025-auf-133-gigawatt/",
@@ -88,6 +88,17 @@
       "source_id": "t3n-news",
       "language": "de",
       "summary": "E-Autos zum Verbrenner-Preis: Vietnamesischer Hersteller zeigt, wie es gehen soll Elektroautos sind teuer, die Produktion komplex. Der vietnamesische Hersteller VinFast setzt auf KI-gesteuerte Fertigung und vereinfachte Architekturen, um Kosten zu senken – ohne Abstriche bei der Qualität. Die Strategie dahinter. Elektroautos sind für viele Käufer noch immer zu teuer. Hohe Batteriekosten, komplexe ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1db9190f5ddd6c6f7c5a42ba",
+      "title": "Elektroauto-Zahlen: Tesla fährt wieder an die Spitze",
+      "url": "https://www.faz.net/premium/digitalwirtschaft/mobility/e-autos-im-juni-tesla-faehrt-wieder-an-die-spitze-accg-201007277.html",
+      "published_at": "2026-07-08T04:55:57Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Elektroauto-Zahlen: Tesla fährt wieder an die Spitze Die Neuzulassungen von Elektroautos sind im Juni um 78 Prozent auf 84.057 Fahrzeuge gestiegen. Den Schub tragen ein erstarktes Tesla, die wachsenden Marktanteile der chinesischen Angreifer und die Modelloffensiven von Mercedes und BMW.",
       "tags": [],
       "regions": []
     }
