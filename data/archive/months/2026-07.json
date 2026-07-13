@@ -1,8 +1,21 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 52,
+  "article_count": 53,
   "articles": [
+    {
+      "id": "166c698510a498d2921a1e1a",
+      "title": "Chinas Batterieproduktion könnte bis 2030 den weltweiten Bedarf übersteigen",
+      "url": "https://www.pv-magazine.de/2026/07/13/chinas-batterieproduktion-koennte-bis-2030-den-weltweiten-bedarf-uebersteigen/",
+      "published_at": "2026-07-13T08:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Chinas Batterieproduktion könnte bis 2030 den weltweiten Bedarf übersteigen Chinas Produktionskapazitäten für Batteriezellen könnten bis 2030 die prognostizierte weltweite Nachfrage übersteigen, so ein neuer Bericht von Carnegie Endowment. Die Autoren empfehlen eine selektive Zusammenarbeit mit chinesischen Unternehmen, um Risiken in der Lieferkette zu verringern.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "b2af55a6399241114cac9dd6",
       "title": "Elektroauto: VW ID. Polo Trend startet ab 24.995 Euro",
