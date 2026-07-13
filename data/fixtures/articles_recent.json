@@ -2,6 +2,19 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "166c698510a498d2921a1e1a",
+      "title": "Chinas Batterieproduktion könnte bis 2030 den weltweiten Bedarf übersteigen",
+      "url": "https://www.pv-magazine.de/2026/07/13/chinas-batterieproduktion-koennte-bis-2030-den-weltweiten-bedarf-uebersteigen/",
+      "published_at": "2026-07-13T08:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Chinas Batterieproduktion könnte bis 2030 den weltweiten Bedarf übersteigen Chinas Produktionskapazitäten für Batteriezellen könnten bis 2030 die prognostizierte weltweite Nachfrage übersteigen, so ein neuer Bericht von Carnegie Endowment. Die Autoren empfehlen eine selektive Zusammenarbeit mit chinesischen Unternehmen, um Risiken in der Lieferkette zu verringern.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "b2af55a6399241114cac9dd6",
       "title": "Elektroauto: VW ID. Polo Trend startet ab 24.995 Euro",
       "url": "https://www.golem.de/news/elektroauto-vw-id-polo-trend-startet-ab-24-995-euro-2607-210771.html",
@@ -35,17 +48,6 @@
       "regions": []
     },
     {
-      "id": "e5530c32dbb899c3dc878c82",
-      "title": "Photovoltaik-Zubau in der Schweiz sinkt 2025 auf 1,33 Gigawatt",
-      "url": "https://www.pv-magazine.de/2026/07/10/photovoltaik-zubau-in-der-schweiz-sinkt-2025-auf-133-gigawatt/",
-      "published_at": "2026-07-10T07:35:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Photovoltaik-Zubau in der Schweiz sinkt 2025 auf 1,33 Gigawatt Insgesamt sind in dem Land nun Photovoltaik-Anlagen mit knapp 9,5 Gigawatt installiert. Während weniger Photovoltaik-Anlagen hinzukamen, steigt die Nachfrage nach Batteriespeichern, die ein Marktwachstum von 70 Prozent verzeichneten.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "d8eb1d0ed2bd09d0bf64c60c",
       "title": "Riesiger Batteriespeicher in Wittlich: Baubeginn nach vier Jahren Wartezeit",
       "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-riesiger-batteriespeicher-in-wittlich-baubeginn-nach-vier-jahren-wartezeit-100.html",
@@ -53,6 +55,17 @@
       "source_id": "tagesschau-rp",
       "language": "de",
       "summary": "Riesiger Batteriespeicher in Wittlich: Baubeginn nach vier Jahren Wartezeit Vor vier Jahren sind in Wittlich die Pläne für ein riesiges Batteriespeicherwerk vorgestellt worden. Nun sollen die Bauarbeiten beginnen. Der Weg war lang, die Bedenken groß.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1db9190f5ddd6c6f7c5a42ba",
+      "title": "Elektroauto-Zahlen: Tesla fährt wieder an die Spitze",
+      "url": "https://www.faz.net/premium/digitalwirtschaft/mobility/e-autos-im-juni-tesla-faehrt-wieder-an-die-spitze-accg-201007277.html",
+      "published_at": "2026-07-08T04:55:57Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Elektroauto-Zahlen: Tesla fährt wieder an die Spitze Die Neuzulassungen von Elektroautos sind im Juni um 78 Prozent auf 84.057 Fahrzeuge gestiegen. Den Schub tragen ein erstarktes Tesla, die wachsenden Marktanteile der chinesischen Angreifer und die Modelloffensiven von Mercedes und BMW.",
       "tags": [],
       "regions": []
     }

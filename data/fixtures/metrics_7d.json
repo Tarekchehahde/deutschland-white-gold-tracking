@@ -1,12 +1,16 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-07-10": 4,
-    "2026-07-11": 1
+    "2026-07-08": 1,
+    "2026-07-10": 3,
+    "2026-07-11": 1,
+    "2026-07-13": 1
   },
-  "tag_counts": {},
+  "tag_counts": {
+    "industrie": 1
+  },
   "by_source_category": {
-    "national": 4,
+    "national": 5,
     "regional": 1
   }
 }
