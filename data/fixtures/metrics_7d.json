@@ -2,15 +2,12 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-07-10": 1,
-    "2026-07-13": 4,
-    "2026-07-14": 1
+    "2026-07-13": 1,
+    "2026-07-14": 5
   },
-  "tag_counts": {
-    "industrie": 1,
-    "umwelt": 1
-  },
+  "tag_counts": {},
   "by_source_category": {
-    "national": 5,
+    "national": 6,
     "regional": 1
   }
 }

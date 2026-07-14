@@ -2,6 +2,50 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "cbe00b0136e2cc3f14849fa9",
+      "title": "Viraler Trend in Indien: Smartphone-Nutzer legen per App E-Fahrzeuge lahm",
+      "url": "https://www.golem.de/news/viraler-trend-in-indien-smartphone-nutzer-legen-per-app-e-fahrzeuge-lahm-2607-210853.html",
+      "published_at": "2026-07-14T11:46:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Viraler Trend in Indien: Smartphone-Nutzer legen per App E-Fahrzeuge lahm Mit speziellen Smartphone-Apps bringen Nutzer in Indien reihenweise E-Rikschas und E-Scooter zum Stillstand. Videos davon gehen teilweise viral. ( Elektromobilität , Smartphone )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e5f283d051276e9098893574",
+      "title": "Batterieherstellung: Drohender Preisverfall bei Batterien durch Überproduktion",
+      "url": "https://www.golem.de/news/batterieherstellung-drohender-preisverfall-bei-batterien-durch-ueberproduktion-2607-210844.html",
+      "published_at": "2026-07-14T10:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Batterieherstellung: Drohender Preisverfall bei Batterien durch Überproduktion Setzt sich die Entwicklung fort, werden in wenigen Jahren doppelt so viele Akkumulatoren hergestellt wie benötigt - wie zuletzt bei Solarzellen. ( Akku , LG )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "be8734f9b808ce63ae2d6280",
+      "title": "Batterie-Tolling: Wie sich Vermarktungsrisiken vertraglich verteilen lassen",
+      "url": "https://www.pv-magazine.de/2026/07/14/batterie-tolling-wie-sich-vermarktungsrisiken-vertraglich-verteilen-lassen/",
+      "published_at": "2026-07-14T09:24:07Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Batterie-Tolling: Wie sich Vermarktungsrisiken vertraglich verteilen lassen Der Batteriespeicher-Tsunami trifft auf einen Felsen bei der Finanzierung: volatile Erlöse. Immer mehr Projekte setzen deshalb auf Tolling-Agreements, um Risiken auszulagern und Cashflows zu stabilisieren. Doch das Geschäftsmodell bringt neue Komplexität und ist weit entfernt von Standardverträgen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "deec16f617c221c4c895dcac",
+      "title": "Elektroautos: Was die GEIG-Novelle in der Ladeinfrastruktur verändert",
+      "url": "https://www.heise.de/news/Ladeinfrastruktur-Pflicht-Veraenderte-Regeln-fuer-Wohn-und-Nichtwohngebaeude-11364039.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-14T09:12:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroautos: Was die GEIG-Novelle in der Ladeinfrastruktur verändert Die Neufassung des GEIG bringt verbindliche Vorgaben für den Ausbau der Ladeinfrastruktur an Wohn- und Nichtwohngebäuden bei Neubau, Bestand und Sanierung.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "4b1c4018a515c53c217dfbf1",
       "title": "Erneuerbare Energien: Ist das jetzt die Reiche-Delle?",
       "url": "https://www.zeit.de/wirtschaft/2026-07/erneuerbare-energie-wind-solar-strom-eeg",
