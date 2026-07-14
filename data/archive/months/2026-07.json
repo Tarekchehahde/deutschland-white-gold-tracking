@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 56,
+  "article_count": 57,
   "articles": [
+    {
+      "id": "4b1c4018a515c53c217dfbf1",
+      "title": "Erneuerbare Energien: Ist das jetzt die Reiche-Delle?",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/erneuerbare-energie-wind-solar-strom-eeg",
+      "published_at": "2026-07-14T03:38:01Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "Erneuerbare Energien: Ist das jetzt die Reiche-Delle? Der Ausbau von Wind- und Solaranlagen kommt nur schleppend voran, auch weil die neue Förderung unklar ist. Dafür erlebt Deutschland einen Boom bei Batteriespeichern.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "5201c8397f82172d60f65691",
       "title": "Atomsondentomografie: Auf der Suche nach unendlich vielen Batterieladezyklen",
