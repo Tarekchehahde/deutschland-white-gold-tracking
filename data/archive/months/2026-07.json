@@ -1,8 +1,67 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 61,
+  "article_count": 66,
   "articles": [
+    {
+      "id": "adcf50340cffcf8c926e5ec0",
+      "title": "Continental: Neuer Reifen soll Elektroautos 30 Kilometer weiter bringen",
+      "url": "https://www.golem.de/news/continental-neuer-reifen-soll-elektroautos-30-kilometer-weiter-bringen-2607-210910.html",
+      "published_at": "2026-07-15T14:05:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Continental: Neuer Reifen soll Elektroautos 30 Kilometer weiter bringen Continental und Renault wollen beweisen, dass die richtige Gummimischung beim Reifen mehr Reichweite bringen kann als manche Akkuverbesserung. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0ce48f57d4178b1873caf9ad",
+      "title": "Umweltbundesamt: Erneuerbare Energie wächst überall, Windkraft macht Sorgen",
+      "url": "https://www.golem.de/news/umweltbundesamt-erneuerbare-energie-waechst-ueberall-aber-wind-macht-sorgen-2607-210896.html",
+      "published_at": "2026-07-15T13:26:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Umweltbundesamt: Erneuerbare Energie wächst überall, Windkraft macht Sorgen Vor allem die Wärmewende hat sich laut neuester Zahlen des Umweltbundesamts deutlich beschleunigt. Die Entwicklung verläuft aber nicht unbedingt nach Plan. ( Energiewende , Elektromobilität )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8df5b47160b13eb543783399",
+      "title": "GEIG: Gesetz für verbesserte Ladeinfrastruktur angenommen",
+      "url": "https://www.golem.de/news/geig-gesetz-fuer-verbesserte-ladeinfrastruktur-angenommen-2607-210903.html",
+      "published_at": "2026-07-15T12:39:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "GEIG: Gesetz für verbesserte Ladeinfrastruktur angenommen Das Gebäude-Elektromobilitätsinfrastruktur-Gesetz (GEIG) hat den Bundestag und Bundesrat passiert - mit etwas mehr Flexibilität bei den Vorgaben für Eigentümer. ( Elektroauto , Politik )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "ea0d74ff0a9b81e03ed56fe3",
+      "title": "Whitepaper: Was Banken bei der Finanzierung von Batteriespeichern wirklich wichtig ist",
+      "url": "https://www.pv-magazine.de/2026/07/15/whitepaper-was-banken-bei-der-finanzierung-von-batteriespeichern-wirklich-wichtig-ist/",
+      "published_at": "2026-07-15T11:26:43Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Whitepaper: Was Banken bei der Finanzierung von Batteriespeichern wirklich wichtig ist Capcora und Suena Energy haben die Faktoren zusammengetragen, die Banken bewerten, wenn sie über die Finanzierung von Speichern entscheiden. Je verlässlicher die Zahlungsströme, umso höher ist der Fremdkapitalanteil. Aber auch die Risikoverteilung spielt eine große Rolle bei der Finanzierung.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "af9020d5692cc06df65fc1f8",
+      "title": "VW ID.Cross angeschaut: Volkswagen startet Aufholjagd bei kompakten SUVs",
+      "url": "https://www.golem.de/news/vw-id-cross-angeschaut-volkswagen-startet-aufholjagd-bei-kompakten-suvs-2607-210825.html",
+      "published_at": "2026-07-15T10:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "VW ID.Cross angeschaut: Volkswagen startet Aufholjagd bei kompakten SUVs Die vollelektrische Version des T-Cross soll 439 km weit kommen. Gegenüber dem ID.Polo hat der VW ID.Cross mehr Platz in Heck und Front. Ein Bericht von Friedhelm Greis ( Elektroauto , Technologie )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "cbe00b0136e2cc3f14849fa9",
       "title": "Viraler Trend in Indien: Smartphone-Nutzer legen per App E-Fahrzeuge lahm",
