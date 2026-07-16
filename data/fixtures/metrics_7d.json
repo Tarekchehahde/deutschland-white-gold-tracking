@@ -1,16 +1,12 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-07-15": 5,
-    "2026-07-16": 3
+    "2026-07-15": 1,
+    "2026-07-16": 7
   },
-  "tag_counts": {
-    "politik": 1,
-    "umwelt": 1
-  },
+  "tag_counts": {},
   "by_source_category": {
-    "broadcast": 1,
-    "national": 6,
+    "national": 7,
     "regional": 1
   }
 }

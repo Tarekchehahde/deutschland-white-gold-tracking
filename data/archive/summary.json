@@ -1,14 +1,80 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-16T07:31:43Z",
+  "generated_at_utc": "2026-07-16T19:34:26Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 331,
+  "total_in_archive": 337,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 69
+    "2026-07": 75
   },
   "recent_for_ui": [
+    {
+      "id": "86bb5fb81b2f7008f2b818c3",
+      "title": "Biokraftstoff: BMW testet neuen Kraftstoff, Bosch liefert die Überwachung",
+      "url": "https://www.golem.de/news/biokraftstoff-bmw-testet-neuen-kraftstoff-bosch-liefert-die-ueberwachung-2607-210949.html",
+      "published_at": "2026-07-16T13:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Biokraftstoff: BMW testet neuen Kraftstoff, Bosch liefert die Überwachung Sechs Monate sollen Serienfahrzeuge das Biobenzin in der Praxis testen. Gezeigt werden soll, dass der Kraftstoff direkt einsatzfähig ist. ( Energiewende , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f0a293675d7415f5530f4e99",
+      "title": "Elektroautos in Deutschland im Trend: Jeder vierte Neuwagen fährt elektrisch",
+      "url": "https://www.rnd.de/mobilitaet/elektroautos-in-deutschland-im-trend-jeder-vierte-neuwagen-faehrt-elektrisch-VFDIBKJPTZFEZKYOXXDERD5XUM.html",
+      "published_at": "2026-07-16T12:45:23Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Elektroautos in Deutschland im Trend: Jeder vierte Neuwagen fährt elektrisch Elektroautos stehen weiter im Trend: Ihr Anteil an den Neuzulassungen im ersten Halbjahr 2026 ist bundesweit deutlich gestiegen. Rund jedes vierte Auto fährt rein elektrisch. Die Gründe dafür sind vielschichtig.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a55a983a1f77690b8f446f2a",
+      "title": "Keine E-Autos vor 2030: Laut Lamborghini fehlen Elektroautos die Emotionen",
+      "url": "https://www.golem.de/news/keine-e-autos-vor-2030-laut-lamborghini-fehlen-elektroautos-die-emotionen-2607-210953.html",
+      "published_at": "2026-07-16T12:27:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Keine E-Autos vor 2030: Laut Lamborghini fehlen Elektroautos die Emotionen Der Lamborghini Lanzador wird als Plug-in-Hybrid verkauft. Generell wird es wohl kein rein elektrisches Modell vor 2030 geben. ( Lamborghini , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "95531b2a8ad92c21034774a8",
+      "title": "Halbjahresbilanz: Automobile Hölle",
+      "url": "https://www.faz.net/aktuell/technik-motor/deutsche-autoindustrie-jobabbau-und-halbjahresbilanz-201003642.html",
+      "published_at": "2026-07-16T10:34:41Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Halbjahresbilanz: Automobile Hölle Mehr Elektroautos, schön und gut. Weniger Produktion im Inland, misslich und schlecht. Die deutsche Autoindustrie leidet. Worüber sich niemand freuen sollte: Es gehen Zehntausende Jobs verloren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "714479b3a4b82693767aaeba",
+      "title": "heise+ | Elektroauto vs. Verbrenner: Wer wirklich schneller von Freiburg nach Rügen fährt",
+      "url": "https://www.heise.de/ratgeber/Elektroauto-vs-Verbrenner-Wer-wirklich-schneller-von-Freiburg-nach-Ruegen-faehrt-11347632.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-07-16T09:03:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroauto vs. Verbrenner: Wer wirklich schneller von Freiburg nach Rügen fährt Lange Autofahrten mit Elektroauto oder Verbrenner: Wir simulieren 1000 km quer durch Deutschland und zeigen den wahren Zeitunterschied.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "71cce0cfa0883b5d3b308ee0",
+      "title": "Elektroautos legen bei Neuzulassungen deutlich zu",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/elektro-autos-erstes-halbjahr-100.html",
+      "published_at": "2026-07-16T07:21:11Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Elektroautos legen bei Neuzulassungen deutlich zu Elektroautos gewinnen weiter an Bedeutung: Ihr Anteil an den Neuzulassungen ist bundesweit deutlich gestiegen. Fast jedes vierte neue Auto fährt rein elektrisch. Doch es gibt regionale Unterschiede.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "f6f0991fc61b64c9062970d9",
       "title": "Ein Viertel aller Neuwagen in BW fahren ausschließlich mit Strom",
