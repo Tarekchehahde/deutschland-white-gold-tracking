@@ -2,6 +2,43 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "f6f0991fc61b64c9062970d9",
+      "title": "Ein Viertel aller Neuwagen in BW fahren ausschließlich mit Strom",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/e-autos-beliebter-100.html",
+      "published_at": "2026-07-16T07:03:47Z",
+      "source_id": "swr-aktuell-rss",
+      "language": "de",
+      "summary": "Ein Viertel aller Neuwagen in BW fahren ausschließlich mit Strom Der Anteil reiner Elektroautos an den Neuzulassungen in Baden-Württemberg ist deutlich gestiegen. Noch beliebter sind die Stromer nur in zwei Bundesländern.",
+      "tags": [],
+      "regions": [
+        "DE-BW"
+      ]
+    },
+    {
+      "id": "66e5ac18e94638354febbcd7",
+      "title": "Ein Viertel aller Neuwagen in BW fahren ausschließlich mit Strom",
+      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-ein-viertel-aller-neuwagen-in-bw-fahren-ausschliesslich-mit-strom-100.html",
+      "published_at": "2026-07-16T06:04:00Z",
+      "source_id": "tagesschau-bw",
+      "language": "de",
+      "summary": "Ein Viertel aller Neuwagen in BW fahren ausschließlich mit Strom Der Anteil reiner Elektroautos an den Neuzulassungen in Baden-Württemberg ist deutlich gestiegen. Noch beliebter sind die Stromer nur in zwei Bundesländern.",
+      "tags": [],
+      "regions": [
+        "DE-BW"
+      ]
+    },
+    {
+      "id": "d9da792da0171b2df4c4cd0a",
+      "title": "Dynamische Stromtarife: Warum sich flexible Preise seltener lohnen als gedacht",
+      "url": "https://www.spiegel.de/wirtschaft/dynamische-stromtarife-warum-sich-flexible-preise-seltener-lohnen-als-gedacht-a-7dbfb91c-981b-46e4-bc7e-e5ebbce8d468",
+      "published_at": "2026-07-16T04:01:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Dynamische Stromtarife: Warum sich flexible Preise seltener lohnen als gedacht Strom billig kaufen bei viel Wind und Sonne – das ist die Idee dynamischer Tarife. Doch die Verträge mit schwankenden Preisen lohnen sich oft nicht, zeigt eine neue Auswertung. Eine Ausnahme sind Haushalte mit Elektroauto.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "adcf50340cffcf8c926e5ec0",
       "title": "Continental: Neuer Reifen soll Elektroautos 30 Kilometer weiter bringen",
       "url": "https://www.golem.de/news/continental-neuer-reifen-soll-elektroautos-30-kilometer-weiter-bringen-2607-210910.html",
