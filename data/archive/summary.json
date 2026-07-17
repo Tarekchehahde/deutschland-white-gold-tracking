@@ -1,14 +1,93 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-17T07:29:13Z",
+  "generated_at_utc": "2026-07-17T19:33:04Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 338,
+  "total_in_archive": 345,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 76
+    "2026-07": 83
   },
   "recent_for_ui": [
+    {
+      "id": "2186b4f8c8fc5986399c5bfd",
+      "title": "Stromspeicher Anker Solarbank 4 Pro im Test: für ein Balkonkraftwerk zu schade",
+      "url": "https://www.heise.de/bestenlisten/testbericht/stromspeicher-anker-solarbank-4-pro-im-test-fuer-ein-balkonkraftwerk-zu-schade/g4gf1v6?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-17T14:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Stromspeicher Anker Solarbank 4 Pro im Test: für ein Balkonkraftwerk zu schade Die Anker Solarbank 4 Pro bietet eine PV-Eingangsleistung von 5000 Watt und kann bis zu 2500 Watt einspeisen. Was sie sonst noch leistet, zeigt der Test.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "15db3ecd3897144d8b82230c",
+      "title": "Stiftung Umweltenergierecht: Beschränkungen von Netzanschlüssen nach EU-Recht nur unter bestimmten Bedingungen zulässig",
+      "url": "https://www.pv-magazine.de/2026/07/17/stiftung-umweltenergierecht-beschraenkungen-von-netzanschluessen-nach-eu-recht-nur-unter-bestimmten-bedingungen-zulaessig/",
+      "published_at": "2026-07-17T12:54:36Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Stiftung Umweltenergierecht: Beschränkungen von Netzanschlüssen nach EU-Recht nur unter bestimmten Bedingungen zulässig Redipatch-Vorbehalt und flexible Netzanschlussvereinbarungen sind aktuell in aller Munde, wenn es um den weiteren Ausbau von Erneuerbaren und Batteriespeichern in Deutschland geht. Die Stiftung Umweltenergierecht hat in einer neuen Studie untersucht, welche Spielräume nationale G",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "dba7ad47da5488134466188a",
+      "title": "Xpeng L03 angeschaut: Das Auto als Tech-Plattform",
+      "url": "https://www.golem.de/news/xpeng-l03-angeschaut-das-auto-als-tech-plattform-2607-211005.html",
+      "published_at": "2026-07-17T12:53:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Xpeng L03 angeschaut: Das Auto als Tech-Plattform Xpeng ist bisher in Deutschland nur wenig bekannt - ändern soll das ein SUV-Coupé, das voller Technologie steckt und zum Kampfpreis erscheint. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d8d03b24b24398a2b8bc3650",
+      "title": "Elon Musk: Tesla-Privatanleger wollen endlich Antworten",
+      "url": "https://www.golem.de/news/elon-musk-tesla-privatanleger-wollen-endlich-antworten-2607-211002.html",
+      "published_at": "2026-07-17T11:22:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elon Musk: Tesla-Privatanleger wollen endlich Antworten Vor dem Call zu den neuen Quartalszahlen reichen Tesla-Anleger unangenehme Fragen für Elon Musk ein. Interessant ist, von wem die Fragen kommen. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "cefc16c57d920f0391777e4b",
+      "title": "Batteriespeicher-Finanzierung: Fully Merchant geht mit Risikoaufschlag",
+      "url": "https://www.pv-magazine.de/2026/07/17/batteriespeicher-finanzierung-fully-merchant-geht-mit-risikoaufschlag/",
+      "published_at": "2026-07-17T09:37:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Batteriespeicher-Finanzierung: Fully Merchant geht mit Risikoaufschlag Peer Günzel, Geschäftsführer der DAL, erklärt im Interview mit pv magazine, wann Non-Recourse-Finanzierungen möglich sind und warum Tolling-Verträge bei größeren Projekten an Bedeutung gewinnen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3944dbd5a52cd1154f1cef9b",
+      "title": "Warum gebrauchte Elektroauto-Batterien sicherer sein können als manche kommerzielle Heimspeicher — wenn die Steuerung stimmt",
+      "url": "https://www.pv-magazine.de/2026/07/17/warum-gebrauchte-elektroauto-batterien-sicherer-sein-koennen-als-manche-kommerzielle-heimspeicher-wenn-die-steuerung-stimmt/",
+      "published_at": "2026-07-17T09:35:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Warum gebrauchte Elektroauto-Batterien sicherer sein können als manche kommerzielle Heimspeicher — wenn die Steuerung stimmt Welche vier Bedingungen erfüllt sein müssen, damit Second-Life-Installationen sinnvoll sind, erklärt Jakub Lipiński ist Gründer von BMS-EV in diesem Beitrag.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3155e7de0a0d3cd33fa2b637",
+      "title": "Sponsored: Sigenergy launcht Plug-in-Speicher mit KI-Agent",
+      "url": "https://www.pv-magazine.de/2026/07/17/sponsored-sigenergy-launcht-plug-in-speicher-mit-ki-agent/",
+      "published_at": "2026-07-17T09:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sponsored: Sigenergy launcht Plug-in-Speicher mit KI-Agent Sigenergy stellt mit dem neuen „SigenMate 2700 Ultra“ einen Plug-in-Batteriespeicher für Haushalte vor. Das System umfasst Batterien mit einer Kapazität von 2,68 bis 56,4 Kilowattstunden, bringt ein KI-gestütztes Energiemanagement und Notstromfunktionen mit und kann an bestehende oder neue Photovoltaik-Anlagen angeschlossen werden.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "aee484e69da8c35e702df45d",
       "title": "Xpeng l03: Elektro-SUV startet in China und Europa",
