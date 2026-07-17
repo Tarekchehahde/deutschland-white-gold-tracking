@@ -1,14 +1,25 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-16T19:34:26Z",
+  "generated_at_utc": "2026-07-17T07:29:13Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 337,
+  "total_in_archive": 338,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 75
+    "2026-07": 76
   },
   "recent_for_ui": [
+    {
+      "id": "aee484e69da8c35e702df45d",
+      "title": "Xpeng l03: Elektro-SUV startet in China und Europa",
+      "url": "https://www.golem.de/news/xpeng-l03-elektro-suv-startet-in-china-und-europa-2607-210974.html",
+      "published_at": "2026-07-17T05:12:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Xpeng l03: Elektro-SUV startet in China und Europa Der chinesische Hersteller Xpeng bringt sein neues Kompakt-SUVL03 nicht mehr nacheinander, sondern gleichzeitig in China und Europa auf den Markt. ( Xpeng , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "86bb5fb81b2f7008f2b818c3",
       "title": "Biokraftstoff: BMW testet neuen Kraftstoff, Bosch liefert die Überwachung",
