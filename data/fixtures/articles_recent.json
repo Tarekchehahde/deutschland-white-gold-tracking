@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "aee484e69da8c35e702df45d",
+      "title": "Xpeng l03: Elektro-SUV startet in China und Europa",
+      "url": "https://www.golem.de/news/xpeng-l03-elektro-suv-startet-in-china-und-europa-2607-210974.html",
+      "published_at": "2026-07-17T05:12:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Xpeng l03: Elektro-SUV startet in China und Europa Der chinesische Hersteller Xpeng bringt sein neues Kompakt-SUVL03 nicht mehr nacheinander, sondern gleichzeitig in China und Europa auf den Markt. ( Xpeng , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "86bb5fb81b2f7008f2b818c3",
       "title": "Biokraftstoff: BMW testet neuen Kraftstoff, Bosch liefert die Überwachung",
       "url": "https://www.golem.de/news/biokraftstoff-bmw-testet-neuen-kraftstoff-bosch-liefert-die-ueberwachung-2607-210949.html",
@@ -35,17 +46,6 @@
       "regions": []
     },
     {
-      "id": "95531b2a8ad92c21034774a8",
-      "title": "Halbjahresbilanz: Automobile Hölle",
-      "url": "https://www.faz.net/aktuell/technik-motor/deutsche-autoindustrie-jobabbau-und-halbjahresbilanz-201003642.html",
-      "published_at": "2026-07-16T10:34:41Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Halbjahresbilanz: Automobile Hölle Mehr Elektroautos, schön und gut. Weniger Produktion im Inland, misslich und schlecht. Die deutsche Autoindustrie leidet. Worüber sich niemand freuen sollte: Es gehen Zehntausende Jobs verloren.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "714479b3a4b82693767aaeba",
       "title": "heise+ | Elektroauto vs. Verbrenner: Wer wirklich schneller von Freiburg nach Rügen fährt",
       "url": "https://www.heise.de/ratgeber/Elektroauto-vs-Verbrenner-Wer-wirklich-schneller-von-Freiburg-nach-Ruegen-faehrt-11347632.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
@@ -53,17 +53,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "heise+ | Elektroauto vs. Verbrenner: Wer wirklich schneller von Freiburg nach Rügen fährt Lange Autofahrten mit Elektroauto oder Verbrenner: Wir simulieren 1000 km quer durch Deutschland und zeigen den wahren Zeitunterschied.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "71cce0cfa0883b5d3b308ee0",
-      "title": "Elektroautos legen bei Neuzulassungen deutlich zu",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/elektro-autos-erstes-halbjahr-100.html",
-      "published_at": "2026-07-16T07:21:11Z",
-      "source_id": "tagesschau-wirtschaft",
-      "language": "de",
-      "summary": "Elektroautos legen bei Neuzulassungen deutlich zu Elektroautos gewinnen weiter an Bedeutung: Ihr Anteil an den Neuzulassungen ist bundesweit deutlich gestiegen. Fast jedes vierte neue Auto fährt rein elektrisch. Doch es gibt regionale Unterschiede.",
       "tags": [],
       "regions": []
     },
@@ -79,17 +68,6 @@
       "regions": [
         "DE-BW"
       ]
-    },
-    {
-      "id": "ea0d74ff0a9b81e03ed56fe3",
-      "title": "Whitepaper: Was Banken bei der Finanzierung von Batteriespeichern wirklich wichtig ist",
-      "url": "https://www.pv-magazine.de/2026/07/15/whitepaper-was-banken-bei-der-finanzierung-von-batteriespeichern-wirklich-wichtig-ist/",
-      "published_at": "2026-07-15T11:26:43Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Whitepaper: Was Banken bei der Finanzierung von Batteriespeichern wirklich wichtig ist Capcora und Suena Energy haben die Faktoren zusammengetragen, die Banken bewerten, wenn sie über die Finanzierung von Speichern entscheiden. Je verlässlicher die Zahlungsströme, umso höher ist der Fremdkapitalanteil. Aber auch die Risikoverteilung spielt eine große Rolle bei der Finanzierung.",
-      "tags": [],
-      "regions": []
     }
   ]
 }
