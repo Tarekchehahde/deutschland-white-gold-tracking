@@ -1,14 +1,73 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-18T07:08:24Z",
+  "generated_at_utc": "2026-07-18T19:32:26Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 348,
+  "total_in_archive": 353,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 86
+    "2026-07": 91
   },
   "recent_for_ui": [
+    {
+      "id": "c5b311974f045f060903c670",
+      "title": "Laufrad: Tesla verkauft Fahrrad für 225 Dollar",
+      "url": "https://www.golem.de/news/laufrad-tesla-verkauft-fahrrad-fuer-225-dollar-2607-211032.html",
+      "published_at": "2026-07-18T12:53:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Laufrad: Tesla verkauft Fahrrad für 225 Dollar Tesla erweitert sein Sortiment um ein motorloses Laufrad für Kleinkinder, komplett im Markendesign und mit stolzem Preis. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c197366d94c083b2af4b1ce3",
+      "title": "Erste Fahrt im Zeekr 7: Nur nicht mit 007 anlegen",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/zeekr-7gt-im-test-das-elektroauto-mit-100-kwh-akku-accg-201009824.html",
+      "published_at": "2026-07-18T12:33:35Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Erste Fahrt im Zeekr 7: Nur nicht mit 007 anlegen Ein ungewohnter Anbieter von Elektroautos nach dem anderen, man kommt ja kaum noch nach. Aber wir sind natürlich neugierig. Erste Probefahrt mit dem elektrischen Zeekr 7GT und seinem üppigen 100-kWh-Akku.",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "132c6d5cb47b0a064f7a170a",
+      "title": "E-Auto-Prämie der Regierung: Schon mehr als 50 Millionen Euro ausgezahlt – Tesla am beliebtesten",
+      "url": "https://www.spiegel.de/mobilitaet/e-auto-praemie-der-regierung-schon-mehr-als-50-millionen-euro-ausgezahlt-tesla-am-beliebtesten-a-05d00c0f-c143-41d1-a6e9-cd45e316a676",
+      "published_at": "2026-07-18T12:01:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "E-Auto-Prämie der Regierung: Schon mehr als 50 Millionen Euro ausgezahlt – Tesla am beliebtesten Mit bis zu 6000 Euro bezuschusst die Regierung den Umstieg auf ein Elektroauto oder einen bestimmten Hybrid. Welche Marken nach den ersten Monaten am häufigsten gefördert werden.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "5b8345bf522878f553dd6a50",
+      "title": "Anzeige: Mehr Freiheit beim Laden: mobile Wallbox 11 kW mit App und Kabel jetzt wieder rund 160 Euro",
+      "url": "https://www.golem.de/news/anzeige-mehr-freiheit-beim-laden-mobile-wallbox-11-kw-mit-app-und-kabel-jetzt-wieder-rund-160-euro-2607-211015.html",
+      "published_at": "2026-07-18T11:40:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Mehr Freiheit beim Laden: mobile Wallbox 11 kW mit App und Kabel jetzt wieder rund 160 Euro Die beliebte mobile Wallbox 11 kW mit App im Amazon-Angebot bietet Sicherheitsfunktionen und passt an jede CEE-Steckdose. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dec4e9ddc30c2f6d181ffa73",
+      "title": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto",
+      "url": "https://www.heise.de/news/c-t-Webinar-Energiekosten-senken-mit-dem-Elektroauto-11351733.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-18T11:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto Wer ein E-Auto besitzt, kann damit nicht nur fahren, sondern auch Stromkosten senken. Das Webinar zeigt, welche Konzepte sich heute tatsächlich rechnen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "917e9175ada74f449edbc0c3",
       "title": "E-Auto-Prämie: Mehr als 50 Millionen Euro ausgezahlt – Tesla vorne",
