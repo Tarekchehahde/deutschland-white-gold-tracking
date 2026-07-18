@@ -1,14 +1,47 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-17T19:33:04Z",
+  "generated_at_utc": "2026-07-18T07:08:24Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 345,
+  "total_in_archive": 348,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 83
+    "2026-07": 86
   },
   "recent_for_ui": [
+    {
+      "id": "917e9175ada74f449edbc0c3",
+      "title": "E-Auto-Prämie: Mehr als 50 Millionen Euro ausgezahlt – Tesla vorne",
+      "url": "https://www.rnd.de/wirtschaft/e-auto-praemie-mehr-als-50-millionen-euro-ausgezahlt-tesla-vorne-Q3VUAXG6SNF4HKPABB53FYMQME.html",
+      "published_at": "2026-07-18T05:25:25Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "E-Auto-Prämie: Mehr als 50 Millionen Euro ausgezahlt – Tesla vorne Seit knapp zwei Monaten gibt es wieder eine staatliche Förderung, um das Geschäft mit Elektroautos in Deutschland anzukurbeln. Wie viel Geld floss schon - und welche Marken profitierten zum Start?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4fcc725921f38b7ebfb3b365",
+      "title": "Tesla vorne: Mehr als 50 Millionen Euro für E-Auto-Prämien",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/elektroauto-kaufpraemien-50-millionen-euro-ausgezahlt-accg-201042491.html",
+      "published_at": "2026-07-18T03:49:57Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Tesla vorne: Mehr als 50 Millionen Euro für E-Auto-Prämien Seit knapp zwei Monaten gibt es wieder eine staatliche Förderung, um das Geschäft mit Elektroautos in Deutschland anzukurbeln. Wie viel Geld floss schon - und welche Marken profitierten zum Start?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8d6ef91f128cce700159410b",
+      "title": "Mobilität: Mehr als 50 Millionen Euro für E-Auto-Prämien - Tesla vorne",
+      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/mehr-als-50-millionen-euro-fuer-e-auto-praemien-tesla-vorne_aid-151705759",
+      "published_at": "2026-07-18T02:30:05Z",
+      "source_id": "volksfreund",
+      "language": "de",
+      "summary": "Mobilität: Mehr als 50 Millionen Euro für E-Auto-Prämien - Tesla vorne Seit knapp zwei Monaten gibt es wieder eine staatliche Förderung, um das Geschäft mit Elektroautos in Deutschland anzukurbeln. Wie viel Geld floss schon - und welche Marken profitierten zum Start?",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "2186b4f8c8fc5986399c5bfd",
       "title": "Stromspeicher Anker Solarbank 4 Pro im Test: für ein Balkonkraftwerk zu schade",
