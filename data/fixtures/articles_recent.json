@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "0c2755654cea85524286eed0",
+      "title": "3500 neue Arbeitsplätze geplant: Tesla will in Grünheide expandieren",
+      "url": "https://rp-online.de/wirtschaft/unternehmen/gruenheide-tesla-will-expandieren-und-plant-3500-neueinstellungen_aid-151740085",
+      "published_at": "2026-07-19T14:30:47Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "3500 neue Arbeitsplätze geplant: Tesla will in Grünheide expandieren Der US-Elektroautobauer Tesla setzt dank der Steigerung von Nachfrage und Gewinn auf einen rasanten Ausbau der Produktion im deutschen Werk in Grünheide bei Berlin. Was genau ist geplant?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "25dd41f2b4660dd2ec12f3d0",
+      "title": "Tesla peilt in Deutschland Expansion an",
+      "url": "https://www.heise.de/news/Tesla-peilt-in-Deutschland-Expansion-an-11369992.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-19T09:17:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Tesla peilt in Deutschland Expansion an Die Nachfrage nach Elektroautos zieht wieder an. Das gibt dem Autobauer Tesla Rückenwind für seine Produktionspläne.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "a9fa452121c70e9c4490d065",
       "title": "Tesla peilt in Deutschland Expansion an: Produktion soll deutlich steigen",
       "url": "https://www.rnd.de/wirtschaft/tesla-peilt-in-deutschland-expansion-an-produktion-soll-deutlich-steigen-WTHRYZWSRFBPJJEK2LDGUKR6T4.html",
@@ -88,17 +110,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Xpeng L03 angeschaut: Das Auto als Tech-Plattform Xpeng ist bisher in Deutschland nur wenig bekannt - ändern soll das ein SUV-Coupé, das voller Technologie steckt und zum Kampfpreis erscheint. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d8d03b24b24398a2b8bc3650",
-      "title": "Elon Musk: Tesla-Privatanleger wollen endlich Antworten",
-      "url": "https://www.golem.de/news/elon-musk-tesla-privatanleger-wollen-endlich-antworten-2607-211002.html",
-      "published_at": "2026-07-17T11:22:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elon Musk: Tesla-Privatanleger wollen endlich Antworten Vor dem Call zu den neuen Quartalszahlen reichen Tesla-Anleger unangenehme Fragen für Elon Musk ein. Interessant ist, von wem die Fragen kommen. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     },

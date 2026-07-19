@@ -1,8 +1,30 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 92,
+  "article_count": 94,
   "articles": [
+    {
+      "id": "0c2755654cea85524286eed0",
+      "title": "3500 neue Arbeitsplätze geplant: Tesla will in Grünheide expandieren",
+      "url": "https://rp-online.de/wirtschaft/unternehmen/gruenheide-tesla-will-expandieren-und-plant-3500-neueinstellungen_aid-151740085",
+      "published_at": "2026-07-19T14:30:47Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "3500 neue Arbeitsplätze geplant: Tesla will in Grünheide expandieren Der US-Elektroautobauer Tesla setzt dank der Steigerung von Nachfrage und Gewinn auf einen rasanten Ausbau der Produktion im deutschen Werk in Grünheide bei Berlin. Was genau ist geplant?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "25dd41f2b4660dd2ec12f3d0",
+      "title": "Tesla peilt in Deutschland Expansion an",
+      "url": "https://www.heise.de/news/Tesla-peilt-in-Deutschland-Expansion-an-11369992.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-19T09:17:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Tesla peilt in Deutschland Expansion an Die Nachfrage nach Elektroautos zieht wieder an. Das gibt dem Autobauer Tesla Rückenwind für seine Produktionspläne.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "a9fa452121c70e9c4490d065",
       "title": "Tesla peilt in Deutschland Expansion an: Produktion soll deutlich steigen",
