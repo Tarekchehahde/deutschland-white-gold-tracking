@@ -2,6 +2,17 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "a9fa452121c70e9c4490d065",
+      "title": "Tesla peilt in Deutschland Expansion an: Produktion soll deutlich steigen",
+      "url": "https://www.rnd.de/wirtschaft/tesla-peilt-in-deutschland-expansion-an-produktion-soll-deutlich-steigen-WTHRYZWSRFBPJJEK2LDGUKR6T4.html",
+      "published_at": "2026-07-19T05:21:23Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Tesla peilt in Deutschland Expansion an: Produktion soll deutlich steigen Die Nachfrage nach Elektroautos zieht wieder an. Das gibt dem Autobauer Tesla Rückenwind für seine Produktionspläne. Wie lief das vergangene Jahr, wie ist die Prognose?",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "c5b311974f045f060903c670",
       "title": "Laufrad: Tesla verkauft Fahrrad für 225 Dollar",
       "url": "https://www.golem.de/news/laufrad-tesla-verkauft-fahrrad-fuer-225-dollar-2607-211032.html",

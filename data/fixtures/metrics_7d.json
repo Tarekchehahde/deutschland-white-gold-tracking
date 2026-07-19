@@ -3,15 +3,14 @@
   "articles_per_day": {
     "2026-07-16": 1,
     "2026-07-17": 7,
-    "2026-07-18": 6
+    "2026-07-18": 4,
+    "2026-07-19": 1
   },
   "tag_counts": {
-    "exploration": 1,
-    "politik": 1,
     "umwelt": 1
   },
   "by_source_category": {
-    "national": 13,
+    "national": 12,
     "regional": 1
   }
 }

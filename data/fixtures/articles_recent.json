@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "a9fa452121c70e9c4490d065",
+      "title": "Tesla peilt in Deutschland Expansion an: Produktion soll deutlich steigen",
+      "url": "https://www.rnd.de/wirtschaft/tesla-peilt-in-deutschland-expansion-an-produktion-soll-deutlich-steigen-WTHRYZWSRFBPJJEK2LDGUKR6T4.html",
+      "published_at": "2026-07-19T05:21:23Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Tesla peilt in Deutschland Expansion an: Produktion soll deutlich steigen Die Nachfrage nach Elektroautos zieht wieder an. Das gibt dem Autobauer Tesla Rückenwind für seine Produktionspläne. Wie lief das vergangene Jahr, wie ist die Prognose?",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "c5b311974f045f060903c670",
       "title": "Laufrad: Tesla verkauft Fahrrad für 225 Dollar",
       "url": "https://www.golem.de/news/laufrad-tesla-verkauft-fahrrad-fuer-225-dollar-2607-211032.html",
@@ -10,32 +21,6 @@
       "language": "de",
       "summary": "Laufrad: Tesla verkauft Fahrrad für 225 Dollar Tesla erweitert sein Sortiment um ein motorloses Laufrad für Kleinkinder, komplett im Markendesign und mit stolzem Preis. ( Tesla , Elektroauto )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c197366d94c083b2af4b1ce3",
-      "title": "Erste Fahrt im Zeekr 7: Nur nicht mit 007 anlegen",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/zeekr-7gt-im-test-das-elektroauto-mit-100-kwh-akku-accg-201009824.html",
-      "published_at": "2026-07-18T12:33:35Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Erste Fahrt im Zeekr 7: Nur nicht mit 007 anlegen Ein ungewohnter Anbieter von Elektroautos nach dem anderen, man kommt ja kaum noch nach. Aber wir sind natürlich neugierig. Erste Probefahrt mit dem elektrischen Zeekr 7GT und seinem üppigen 100-kWh-Akku.",
-      "tags": [
-        "exploration"
-      ],
-      "regions": []
-    },
-    {
-      "id": "132c6d5cb47b0a064f7a170a",
-      "title": "E-Auto-Prämie der Regierung: Schon mehr als 50 Millionen Euro ausgezahlt – Tesla am beliebtesten",
-      "url": "https://www.spiegel.de/mobilitaet/e-auto-praemie-der-regierung-schon-mehr-als-50-millionen-euro-ausgezahlt-tesla-am-beliebtesten-a-05d00c0f-c143-41d1-a6e9-cd45e316a676",
-      "published_at": "2026-07-18T12:01:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "E-Auto-Prämie der Regierung: Schon mehr als 50 Millionen Euro ausgezahlt – Tesla am beliebtesten Mit bis zu 6000 Euro bezuschusst die Regierung den Umstieg auf ein Elektroauto oder einen bestimmten Hybrid. Welche Marken nach den ersten Monaten am häufigsten gefördert werden.",
-      "tags": [
-        "politik"
-      ],
       "regions": []
     },
     {

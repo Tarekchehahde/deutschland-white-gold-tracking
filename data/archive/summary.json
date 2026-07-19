@@ -1,14 +1,25 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-18T19:32:26Z",
+  "generated_at_utc": "2026-07-19T07:35:43Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 353,
+  "total_in_archive": 354,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 91
+    "2026-07": 92
   },
   "recent_for_ui": [
+    {
+      "id": "a9fa452121c70e9c4490d065",
+      "title": "Tesla peilt in Deutschland Expansion an: Produktion soll deutlich steigen",
+      "url": "https://www.rnd.de/wirtschaft/tesla-peilt-in-deutschland-expansion-an-produktion-soll-deutlich-steigen-WTHRYZWSRFBPJJEK2LDGUKR6T4.html",
+      "published_at": "2026-07-19T05:21:23Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Tesla peilt in Deutschland Expansion an: Produktion soll deutlich steigen Die Nachfrage nach Elektroautos zieht wieder an. Das gibt dem Autobauer Tesla Rückenwind für seine Produktionspläne. Wie lief das vergangene Jahr, wie ist die Prognose?",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c5b311974f045f060903c670",
       "title": "Laufrad: Tesla verkauft Fahrrad für 225 Dollar",
