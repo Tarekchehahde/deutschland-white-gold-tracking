@@ -1,8 +1,52 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 94,
+  "article_count": 98,
   "articles": [
+    {
+      "id": "0d0ba8de9680ae7f1299aee8",
+      "title": "Großbritannien: E-Autos sollen künftig kilometerweise besteuert werden",
+      "url": "https://www.golem.de/news/grossbritannien-e-autos-sollen-kuenftig-kilometerweise-besteuert-werden-2607-211043.html",
+      "published_at": "2026-07-20T06:35:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Großbritannien: E-Autos sollen künftig kilometerweise besteuert werden Ab 2028 zahlen E-Auto-Besitzer in Großbritannien für jeden gefahrenen Kilometer extra. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c8dc6dab555ae418c16fb7b3",
+      "title": "heise+ | Elektroauto Kia EV2 im Test: Kurz und gut",
+      "url": "https://www.heise.de/tests/Elektroauto-Kia-EV2-im-Test-Kurz-und-gut-11354828.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-07-20T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroauto Kia EV2 im Test: Kurz und gut Gemessen daran, dass der EV2 ein Kleinwagen ist, fährt er ziemlich erwachsen und ist auch mit der kleinen Batterie empfehlenswert, sofern das Profil stimmt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4ba40580af1d4fcdb85a9da3",
+      "title": "Elektroautos: Studie zeigt deutlichen Preisrückgang seit 2020",
+      "url": "https://www.spiegel.de/wirtschaft/service/elektroautos-studie-zeigt-deutlichen-preisrueckgang-seit-2020-a-3f6a6f3e-7491-45e9-99b3-fa22483bdcf4",
+      "published_at": "2026-07-20T04:31:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroautos: Studie zeigt deutlichen Preisrückgang seit 2020 Inflationsbereinigt sind die Preise von Elektroautos in den vergangenen fünf Jahren stark gesunken, während Verbrenner immer teurer werden. Schon bald dürften beide Varianten gleich teuer sein.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "80c65454d9d45442e5398e80",
+      "title": "Studie: Elektroautos seit 2020 deutlich günstiger geworden",
+      "url": "https://www.sueddeutsche.de/wirtschaft/elektroautos-guenstiger-2020-verbrenner-studie-fraunhofer-li.3518452",
+      "published_at": "2026-07-20T02:44:39Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Studie: Elektroautos seit 2020 deutlich günstiger geworden Das Fraunhofer-Institut sieht bei den inflationsbereinigten Preisen eine deutliche Verschiebung im Vergleich zu Verbrennern – und erwartet, dass die Entwicklung anhält.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "0c2755654cea85524286eed0",
       "title": "3500 neue Arbeitsplätze geplant: Tesla will in Grünheide expandieren",
@@ -21,7 +65,7 @@
       "published_at": "2026-07-19T09:17:00Z",
       "source_id": "heise-news",
       "language": "de",
-      "summary": "Tesla peilt in Deutschland Expansion an Die Nachfrage nach Elektroautos zieht wieder an. Das gibt dem Autobauer Tesla Rückenwind für seine Produktionspläne.",
+      "summary": "Tesla peilt in Deutschland Expansion an Die Nachfrage nach Elektroautos zieht wieder an. Das gibt dem Autohersteller Tesla Rückenwind für seine Produktionspläne.",
       "tags": [],
       "regions": []
     },
