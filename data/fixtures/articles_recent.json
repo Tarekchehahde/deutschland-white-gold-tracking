@@ -2,13 +2,81 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "0d0ba8de9680ae7f1299aee8",
-      "title": "Großbritannien: E-Autos sollen künftig kilometerweise besteuert werden",
-      "url": "https://www.golem.de/news/grossbritannien-e-autos-sollen-kuenftig-kilometerweise-besteuert-werden-2607-211043.html",
-      "published_at": "2026-07-20T06:35:02Z",
+      "id": "b2d0a351cb7c6f4619b7e6dd",
+      "title": "Wie ein energieintensives Unternehmen CO2-neutral wird",
+      "url": "https://www.pv-magazine.de/2026/07/20/wie-ein-energieintensives-unternehmen-co2-neutral-wird/",
+      "published_at": "2026-07-20T15:06:32Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wie ein energieintensives Unternehmen CO2-neutral wird pv+: Ein deutsches Aluminium-Strangpresswerk deckt seinen Energiebdarf mit Photovoltaik und Windkraft zu 70 Prozent selbst. Dabei hilft ein Megawatt-Batteriespeicher, der sich in unter drei Jahren amortisieren soll.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "be9b4d89a86a82e40f883908",
+      "title": "Anzeige: Bestseller-AA-Akkus im 8er-Pack mit Ladebox wieder nur 22 Euro bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-bestseller-aa-akkus-im-8er-pack-mit-ladebox-wieder-nur-22-euro-bei-amazon-2607-211078.html",
+      "published_at": "2026-07-20T14:29:01Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Großbritannien: E-Autos sollen künftig kilometerweise besteuert werden Ab 2028 zahlen E-Auto-Besitzer in Großbritannien für jeden gefahrenen Kilometer extra. ( Elektroauto , Auto )",
+      "summary": "Anzeige: Bestseller-AA-Akkus im 8er-Pack mit Ladebox wieder nur 22 Euro bei Amazon Diese AA-Lithium-Akkus mit 3.600 mWh und Ladecase sind jetzt befristet wieder günstiger bei Amazon erhältlich. ( Technik/Hardware , Amazon )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8e697f430b0bd56e165f7774",
+      "title": "Elektroautos: Sinkende Preise, aber wachsende Modell- und Preislücke",
+      "url": "https://www.heise.de/hintergrund/Elektroautos-Sinkende-Preise-aber-wachsende-Modell-und-Preisluecke-11370606.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-20T12:55:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroautos: Sinkende Preise, aber wachsende Modell- und Preislücke Vergleichbare E-Auto-Modelle kosten real 18 Prozent weniger als 2020. Doch der Trend zu größeren Fahrzeugen treibt den Medianpreis auf 53.000 Euro.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "62e80e63d4c5b16e8df9600e",
+      "title": "Verkehrswende: Elektroautos werden günstiger, Auswahl hat zugenommen",
+      "url": "https://www.golem.de/news/verkehrswende-elektroautos-werden-guenstiger-auswahl-hat-zugenommen-2607-211059.html",
+      "published_at": "2026-07-20T10:47:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Verkehrswende: Elektroautos werden günstiger, Auswahl hat zugenommen Die Realpreise für Elektroautos sind in den letzten fünf Jahren merklich gesunken. Bei der Auswahl günstiger Modelle besteht Verbesserungsbedarf. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8482ca5cec55026749d48eab",
+      "title": "Elektroautos sind seit 2020 deutlich günstiger geworden",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-preise-kaufpraemie-100.html",
+      "published_at": "2026-07-20T10:41:31Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Elektroautos sind seit 2020 deutlich günstiger geworden E-Autos sind zwischen 2020 und 2025 um rund 18 Prozent günstiger geworden. Dazu kommen die staatlichen Kaufprämien, über die schon mehr als 50 Millionen Euro ausgezahlt wurden - vor allem für Tesla-Modelle.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8e775b31f7f4344cf4019e2a",
+      "title": "Grünheide: Tesla setzt auf steigende Nachfrage und will Produktion ausbauen",
+      "url": "https://www.golem.de/news/gruenheide-tesla-setzt-auf-steigende-nachfrage-und-will-produktion-ausbauen-2607-211053.html",
+      "published_at": "2026-07-20T09:25:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Grünheide: Tesla setzt auf steigende Nachfrage und will Produktion ausbauen Die Nachfrage nach Elektroautos zieht wieder an. Das gibt Tesla Rückenwind für seine Produktionspläne. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6dbbb23e052b728cbd094642",
+      "title": "Baubeschluss für 900 Megawatt-Batteriespeicher Waltrop",
+      "url": "https://www.pv-magazine.de/2026/07/20/baubeschluss-fuer-900-megawatt-batteriespeicher-waltrop/",
+      "published_at": "2026-07-20T08:56:29Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Baubeschluss für 900 Megawatt-Batteriespeicher Waltrop Die drei Gesellschafter des Projekts melden den gemeinsamen Baubeschluss für Umspannwerk und Infrastrukturmaßnahmen. Damit sei der Weg frei für eines der aktuelle größten deutschen Batteriespeicherprojekte.",
       "tags": [],
       "regions": []
     },
@@ -24,17 +92,6 @@
       "regions": []
     },
     {
-      "id": "4ba40580af1d4fcdb85a9da3",
-      "title": "Elektroautos: Studie zeigt deutlichen Preisrückgang seit 2020",
-      "url": "https://www.spiegel.de/wirtschaft/service/elektroautos-studie-zeigt-deutlichen-preisrueckgang-seit-2020-a-3f6a6f3e-7491-45e9-99b3-fa22483bdcf4",
-      "published_at": "2026-07-20T04:31:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Elektroautos: Studie zeigt deutlichen Preisrückgang seit 2020 Inflationsbereinigt sind die Preise von Elektroautos in den vergangenen fünf Jahren stark gesunken, während Verbrenner immer teurer werden. Schon bald dürften beide Varianten gleich teuer sein.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "80c65454d9d45442e5398e80",
       "title": "Studie: Elektroautos seit 2020 deutlich günstiger geworden",
       "url": "https://www.sueddeutsche.de/wirtschaft/elektroautos-guenstiger-2020-verbrenner-studie-fraunhofer-li.3518452",
@@ -42,17 +99,6 @@
       "source_id": "sueddeutsche-wirtschaft",
       "language": "de",
       "summary": "Studie: Elektroautos seit 2020 deutlich günstiger geworden Das Fraunhofer-Institut sieht bei den inflationsbereinigten Preisen eine deutliche Verschiebung im Vergleich zu Verbrennern – und erwartet, dass die Entwicklung anhält.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0c2755654cea85524286eed0",
-      "title": "3500 neue Arbeitsplätze geplant: Tesla will in Grünheide expandieren",
-      "url": "https://rp-online.de/wirtschaft/unternehmen/gruenheide-tesla-will-expandieren-und-plant-3500-neueinstellungen_aid-151740085",
-      "published_at": "2026-07-19T14:30:47Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "3500 neue Arbeitsplätze geplant: Tesla will in Grünheide expandieren Der US-Elektroautobauer Tesla setzt dank der Steigerung von Nachfrage und Gewinn auf einen rasanten Ausbau der Produktion im deutschen Werk in Grünheide bei Berlin. Was genau ist geplant?",
       "tags": [],
       "regions": []
     },
@@ -79,28 +125,6 @@
       "regions": []
     },
     {
-      "id": "c5b311974f045f060903c670",
-      "title": "Laufrad: Tesla verkauft Fahrrad für 225 Dollar",
-      "url": "https://www.golem.de/news/laufrad-tesla-verkauft-fahrrad-fuer-225-dollar-2607-211032.html",
-      "published_at": "2026-07-18T12:53:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Laufrad: Tesla verkauft Fahrrad für 225 Dollar Tesla erweitert sein Sortiment um ein motorloses Laufrad für Kleinkinder, komplett im Markendesign und mit stolzem Preis. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5b8345bf522878f553dd6a50",
-      "title": "Anzeige: Mehr Freiheit beim Laden: mobile Wallbox 11 kW mit App und Kabel jetzt wieder rund 160 Euro",
-      "url": "https://www.golem.de/news/anzeige-mehr-freiheit-beim-laden-mobile-wallbox-11-kw-mit-app-und-kabel-jetzt-wieder-rund-160-euro-2607-211015.html",
-      "published_at": "2026-07-18T11:40:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Mehr Freiheit beim Laden: mobile Wallbox 11 kW mit App und Kabel jetzt wieder rund 160 Euro Die beliebte mobile Wallbox 11 kW mit App im Amazon-Angebot bietet Sicherheitsfunktionen und passt an jede CEE-Steckdose. ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "dec4e9ddc30c2f6d181ffa73",
       "title": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto",
       "url": "https://www.heise.de/news/c-t-Webinar-Energiekosten-senken-mit-dem-Elektroauto-11351733.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -108,17 +132,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto Wer ein E-Auto besitzt, kann damit nicht nur fahren, sondern auch Stromkosten senken. Das Webinar zeigt, welche Konzepte sich heute tatsächlich rechnen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2186b4f8c8fc5986399c5bfd",
-      "title": "Stromspeicher Anker Solarbank 4 Pro im Test: für ein Balkonkraftwerk zu schade",
-      "url": "https://www.heise.de/bestenlisten/testbericht/stromspeicher-anker-solarbank-4-pro-im-test-fuer-ein-balkonkraftwerk-zu-schade/g4gf1v6?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-17T14:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Stromspeicher Anker Solarbank 4 Pro im Test: für ein Balkonkraftwerk zu schade Die Anker Solarbank 4 Pro bietet eine PV-Eingangsleistung von 5000 Watt und kann bis zu 2500 Watt einspeisen. Was sie sonst noch leistet, zeigt der Test.",
       "tags": [],
       "regions": []
     },
@@ -145,41 +158,6 @@
       "summary": "Batteriespeicher-Finanzierung: Fully Merchant geht mit Risikoaufschlag Peer Günzel, Geschäftsführer der DAL, erklärt im Interview mit pv magazine, wann Non-Recourse-Finanzierungen möglich sind und warum Tolling-Verträge bei größeren Projekten an Bedeutung gewinnen.",
       "tags": [],
       "regions": []
-    },
-    {
-      "id": "3944dbd5a52cd1154f1cef9b",
-      "title": "Warum gebrauchte Elektroauto-Batterien sicherer sein können als manche kommerzielle Heimspeicher — wenn die Steuerung stimmt",
-      "url": "https://www.pv-magazine.de/2026/07/17/warum-gebrauchte-elektroauto-batterien-sicherer-sein-koennen-als-manche-kommerzielle-heimspeicher-wenn-die-steuerung-stimmt/",
-      "published_at": "2026-07-17T09:35:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Warum gebrauchte Elektroauto-Batterien sicherer sein können als manche kommerzielle Heimspeicher — wenn die Steuerung stimmt Welche vier Bedingungen erfüllt sein müssen, damit Second-Life-Installationen sinnvoll sind, erklärt Jakub Lipiński ist Gründer von BMS-EV in diesem Beitrag.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3155e7de0a0d3cd33fa2b637",
-      "title": "Sponsored: Sigenergy launcht Plug-in-Speicher mit KI-Agent",
-      "url": "https://www.pv-magazine.de/2026/07/17/sponsored-sigenergy-launcht-plug-in-speicher-mit-ki-agent/",
-      "published_at": "2026-07-17T09:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Sponsored: Sigenergy launcht Plug-in-Speicher mit KI-Agent Sigenergy stellt mit dem neuen „SigenMate 2700 Ultra“ einen Plug-in-Batteriespeicher für Haushalte vor. Das System umfasst Batterien mit einer Kapazität von 2,68 bis 56,4 Kilowattstunden, bringt ein KI-gestütztes Energiemanagement und Notstromfunktionen mit und kann an bestehende oder neue Photovoltaik-Anlagen angeschlossen werden.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "66e5ac18e94638354febbcd7",
-      "title": "Ein Viertel aller Neuwagen in BW fahren ausschließlich mit Strom",
-      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-ein-viertel-aller-neuwagen-in-bw-fahren-ausschliesslich-mit-strom-100.html",
-      "published_at": "2026-07-16T06:04:00Z",
-      "source_id": "tagesschau-bw",
-      "language": "de",
-      "summary": "Ein Viertel aller Neuwagen in BW fahren ausschließlich mit Strom Der Anteil reiner Elektroautos an den Neuzulassungen in Baden-Württemberg ist deutlich gestiegen. Noch beliebter sind die Stromer nur in zwei Bundesländern.",
-      "tags": [],
-      "regions": [
-        "DE-BW"
-      ]
     }
   ]
 }

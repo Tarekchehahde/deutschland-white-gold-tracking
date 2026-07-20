@@ -1,8 +1,87 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 98,
+  "article_count": 105,
   "articles": [
+    {
+      "id": "b2d0a351cb7c6f4619b7e6dd",
+      "title": "Wie ein energieintensives Unternehmen CO2-neutral wird",
+      "url": "https://www.pv-magazine.de/2026/07/20/wie-ein-energieintensives-unternehmen-co2-neutral-wird/",
+      "published_at": "2026-07-20T15:06:32Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wie ein energieintensives Unternehmen CO2-neutral wird pv+: Ein deutsches Aluminium-Strangpresswerk deckt seinen Energiebdarf mit Photovoltaik und Windkraft zu 70 Prozent selbst. Dabei hilft ein Megawatt-Batteriespeicher, der sich in unter drei Jahren amortisieren soll.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "be9b4d89a86a82e40f883908",
+      "title": "Anzeige: Bestseller-AA-Akkus im 8er-Pack mit Ladebox wieder nur 22 Euro bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-bestseller-aa-akkus-im-8er-pack-mit-ladebox-wieder-nur-22-euro-bei-amazon-2607-211078.html",
+      "published_at": "2026-07-20T14:29:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Bestseller-AA-Akkus im 8er-Pack mit Ladebox wieder nur 22 Euro bei Amazon Diese AA-Lithium-Akkus mit 3.600 mWh und Ladecase sind jetzt befristet wieder günstiger bei Amazon erhältlich. ( Technik/Hardware , Amazon )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8e697f430b0bd56e165f7774",
+      "title": "Elektroautos: Sinkende Preise, aber wachsende Modell- und Preislücke",
+      "url": "https://www.heise.de/hintergrund/Elektroautos-Sinkende-Preise-aber-wachsende-Modell-und-Preisluecke-11370606.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-20T12:55:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroautos: Sinkende Preise, aber wachsende Modell- und Preislücke Vergleichbare E-Auto-Modelle kosten real 18 Prozent weniger als 2020. Doch der Trend zu größeren Fahrzeugen treibt den Medianpreis auf 53.000 Euro.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "62e80e63d4c5b16e8df9600e",
+      "title": "Verkehrswende: Elektroautos werden günstiger, Auswahl hat zugenommen",
+      "url": "https://www.golem.de/news/verkehrswende-elektroautos-werden-guenstiger-auswahl-hat-zugenommen-2607-211059.html",
+      "published_at": "2026-07-20T10:47:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Verkehrswende: Elektroautos werden günstiger, Auswahl hat zugenommen Die Realpreise für Elektroautos sind in den letzten fünf Jahren merklich gesunken. Bei der Auswahl günstiger Modelle besteht Verbesserungsbedarf. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8482ca5cec55026749d48eab",
+      "title": "Elektroautos sind seit 2020 deutlich günstiger geworden",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-preise-kaufpraemie-100.html",
+      "published_at": "2026-07-20T10:41:31Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Elektroautos sind seit 2020 deutlich günstiger geworden E-Autos sind zwischen 2020 und 2025 um rund 18 Prozent günstiger geworden. Dazu kommen die staatlichen Kaufprämien, über die schon mehr als 50 Millionen Euro ausgezahlt wurden - vor allem für Tesla-Modelle.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8e775b31f7f4344cf4019e2a",
+      "title": "Grünheide: Tesla setzt auf steigende Nachfrage und will Produktion ausbauen",
+      "url": "https://www.golem.de/news/gruenheide-tesla-setzt-auf-steigende-nachfrage-und-will-produktion-ausbauen-2607-211053.html",
+      "published_at": "2026-07-20T09:25:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Grünheide: Tesla setzt auf steigende Nachfrage und will Produktion ausbauen Die Nachfrage nach Elektroautos zieht wieder an. Das gibt Tesla Rückenwind für seine Produktionspläne. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6dbbb23e052b728cbd094642",
+      "title": "Baubeschluss für 900 Megawatt-Batteriespeicher Waltrop",
+      "url": "https://www.pv-magazine.de/2026/07/20/baubeschluss-fuer-900-megawatt-batteriespeicher-waltrop/",
+      "published_at": "2026-07-20T08:56:29Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Baubeschluss für 900 Megawatt-Batteriespeicher Waltrop Die drei Gesellschafter des Projekts melden den gemeinsamen Baubeschluss für Umspannwerk und Infrastrukturmaßnahmen. Damit sei der Weg frei für eines der aktuelle größten deutschen Batteriespeicherprojekte.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "0d0ba8de9680ae7f1299aee8",
       "title": "Großbritannien: E-Autos sollen künftig kilometerweise besteuert werden",
