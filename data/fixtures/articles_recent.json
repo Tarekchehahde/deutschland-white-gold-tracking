@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "0ce8bcf879771390ad748ea4",
+      "title": "KI-Training: Tesla lässt Grünheide-Belegschaft für Roboter Optimus filmen",
+      "url": "https://www.golem.de/news/ki-training-tesla-laesst-gruenheide-belegschaft-fuer-roboter-optimus-filmen-2607-211096.html",
+      "published_at": "2026-07-21T07:39:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "KI-Training: Tesla lässt Grünheide-Belegschaft für Roboter Optimus filmen Ausgewählte Tesla-Teams sollen Kameras am Arbeitsplatz tragen. Die Aufnahmen sollen dem Roboter Optimus beibringen, wie Menschen arbeiten. ( Gigafactory Berlin , Roboter )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "712f75dc72a47a96b25fd59f",
+      "title": "Autokonzerne im Rückzugsgefecht: Für die Deutschen stellt sich in China die Existenzfrage",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-bmw-und-mercedes-fuer-die-deutschen-stellt-sich-in-china-die-existenzfrage-accg-201035548.html",
+      "published_at": "2026-07-21T04:45:52Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Autokonzerne im Rückzugsgefecht: Für die Deutschen stellt sich in China die Existenzfrage Investieren oder aufgeben: Elektroautos made in Germany sind in China nicht gefragt. VW, BMW und Mercedes müssen ihre Strategie auf dem weltgrößten Automarkt revidieren – und denken sogar an das Äußerste.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "b2d0a351cb7c6f4619b7e6dd",
       "title": "Wie ein energieintensives Unternehmen CO2-neutral wird",
       "url": "https://www.pv-magazine.de/2026/07/20/wie-ein-energieintensives-unternehmen-co2-neutral-wird/",
@@ -59,17 +81,6 @@
       "regions": []
     },
     {
-      "id": "8e775b31f7f4344cf4019e2a",
-      "title": "Grünheide: Tesla setzt auf steigende Nachfrage und will Produktion ausbauen",
-      "url": "https://www.golem.de/news/gruenheide-tesla-setzt-auf-steigende-nachfrage-und-will-produktion-ausbauen-2607-211053.html",
-      "published_at": "2026-07-20T09:25:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Grünheide: Tesla setzt auf steigende Nachfrage und will Produktion ausbauen Die Nachfrage nach Elektroautos zieht wieder an. Das gibt Tesla Rückenwind für seine Produktionspläne. ( Gigafactory Berlin , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "6dbbb23e052b728cbd094642",
       "title": "Baubeschluss für 900 Megawatt-Batteriespeicher Waltrop",
       "url": "https://www.pv-magazine.de/2026/07/20/baubeschluss-fuer-900-megawatt-batteriespeicher-waltrop/",
@@ -114,28 +125,6 @@
       "regions": []
     },
     {
-      "id": "a9fa452121c70e9c4490d065",
-      "title": "Tesla peilt in Deutschland Expansion an: Produktion soll deutlich steigen",
-      "url": "https://www.rnd.de/wirtschaft/tesla-peilt-in-deutschland-expansion-an-produktion-soll-deutlich-steigen-WTHRYZWSRFBPJJEK2LDGUKR6T4.html",
-      "published_at": "2026-07-19T05:21:23Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Tesla peilt in Deutschland Expansion an: Produktion soll deutlich steigen Die Nachfrage nach Elektroautos zieht wieder an. Das gibt dem Autobauer Tesla Rückenwind für seine Produktionspläne. Wie lief das vergangene Jahr, wie ist die Prognose?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dec4e9ddc30c2f6d181ffa73",
-      "title": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto",
-      "url": "https://www.heise.de/news/c-t-Webinar-Energiekosten-senken-mit-dem-Elektroauto-11351733.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-18T11:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto Wer ein E-Auto besitzt, kann damit nicht nur fahren, sondern auch Stromkosten senken. Das Webinar zeigt, welche Konzepte sich heute tatsächlich rechnen.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "15db3ecd3897144d8b82230c",
       "title": "Stiftung Umweltenergierecht: Beschränkungen von Netzanschlüssen nach EU-Recht nur unter bestimmten Bedingungen zulässig",
       "url": "https://www.pv-magazine.de/2026/07/17/stiftung-umweltenergierecht-beschraenkungen-von-netzanschluessen-nach-eu-recht-nur-unter-bestimmten-bedingungen-zulaessig/",
@@ -146,17 +135,6 @@
       "tags": [
         "umwelt"
       ],
-      "regions": []
-    },
-    {
-      "id": "cefc16c57d920f0391777e4b",
-      "title": "Batteriespeicher-Finanzierung: Fully Merchant geht mit Risikoaufschlag",
-      "url": "https://www.pv-magazine.de/2026/07/17/batteriespeicher-finanzierung-fully-merchant-geht-mit-risikoaufschlag/",
-      "published_at": "2026-07-17T09:37:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Batteriespeicher-Finanzierung: Fully Merchant geht mit Risikoaufschlag Peer Günzel, Geschäftsführer der DAL, erklärt im Interview mit pv magazine, wann Non-Recourse-Finanzierungen möglich sind und warum Tolling-Verträge bei größeren Projekten an Bedeutung gewinnen.",
-      "tags": [],
       "regions": []
     }
   ]

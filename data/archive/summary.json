@@ -1,14 +1,36 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-20T19:56:53Z",
+  "generated_at_utc": "2026-07-21T07:42:55Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 367,
+  "total_in_archive": 369,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 105
+    "2026-07": 107
   },
   "recent_for_ui": [
+    {
+      "id": "0ce8bcf879771390ad748ea4",
+      "title": "KI-Training: Tesla lässt Grünheide-Belegschaft für Roboter Optimus filmen",
+      "url": "https://www.golem.de/news/ki-training-tesla-laesst-gruenheide-belegschaft-fuer-roboter-optimus-filmen-2607-211096.html",
+      "published_at": "2026-07-21T07:39:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "KI-Training: Tesla lässt Grünheide-Belegschaft für Roboter Optimus filmen Ausgewählte Tesla-Teams sollen Kameras am Arbeitsplatz tragen. Die Aufnahmen sollen dem Roboter Optimus beibringen, wie Menschen arbeiten. ( Gigafactory Berlin , Roboter )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "712f75dc72a47a96b25fd59f",
+      "title": "Autokonzerne im Rückzugsgefecht: Für die Deutschen stellt sich in China die Existenzfrage",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-bmw-und-mercedes-fuer-die-deutschen-stellt-sich-in-china-die-existenzfrage-accg-201035548.html",
+      "published_at": "2026-07-21T04:45:52Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Autokonzerne im Rückzugsgefecht: Für die Deutschen stellt sich in China die Existenzfrage Investieren oder aufgeben: Elektroautos made in Germany sind in China nicht gefragt. VW, BMW und Mercedes müssen ihre Strategie auf dem weltgrößten Automarkt revidieren – und denken sogar an das Äußerste.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "b2d0a351cb7c6f4619b7e6dd",
       "title": "Wie ein energieintensives Unternehmen CO2-neutral wird",
