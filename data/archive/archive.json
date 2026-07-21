@@ -2,6 +2,72 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "bb6fc32d0f9c520633b0af1c",
+      "title": "Brand in Batteriespeicher in Bautzen: Anwohner wegen Rauchentwicklung evakuiert",
+      "url": "https://www.tagesschau.de/inland/regional/sachsen/feuerwehr-rauch-warnung-,brand-batteriespeicher-104.html",
+      "published_at": "2026-07-21T19:14:38Z",
+      "source_id": "tagesschau-sn",
+      "language": "de",
+      "summary": "Brand in Batteriespeicher in Bautzen: Anwohner wegen Rauchentwicklung evakuiert In Bautzen brennt seit Dienstagnachmittag ein Batteriespeicher. Mehrere Anwohner mussten wegen der starken Rauchentwicklung ihre Häuser verlassen, die Feuerwehr ist mit rund 50 Einsatzkräften im Einsatz.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c4d36dc6656b34580ae5ec0c",
+      "title": "Westnetz bietet speziellen FCA für schnelleren Anschluss von Co-Location-Graustromspeichern",
+      "url": "https://www.pv-magazine.de/2026/07/21/westnetz-bietet-speziellen-fca-fuer-schnelleren-anschluss-von-co-location-graustromspeichern/",
+      "published_at": "2026-07-21T10:10:23Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Westnetz bietet speziellen FCA für schnelleren Anschluss von Co-Location-Graustromspeichern Das Angebot richtet sich an Investoren, die einen Batteriespeicher an einem gemeinsamen Standort mit einer Photovoltaik- oder Windkraftanlage errichten wollen. In der flexiblen Netzanschlussvereinbarung wird die Begrenzung der Fahrweise der Speicher festgeschrieben, die sich auch an der Auslastung des umlie",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ec76a8246ef84be67b6fdef9",
+      "title": "FSD: Floridas Staatsanwalt will keine 243-Millionen-Strafe gegen Tesla",
+      "url": "https://www.golem.de/news/fsd-floridas-staatsanwalt-will-keine-243-millionen-strafe-gegen-tesla-2607-211102.html",
+      "published_at": "2026-07-21T09:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "FSD: Floridas Staatsanwalt will keine 243-Millionen-Strafe gegen Tesla Die hohe Strafe gegen Tesla wegen eines FSD-Unfalls soll aufgehoben werden - oder zumindest reduziert. Zwei Gerichte hatten sie zuvor bestätigt. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "66b14d95b787d4ae89bd3ec0",
+      "title": "KI-Service „perfectPV“ ermittelt herstellerunabhängig die optimale Speichergröße für jeden Haushalt",
+      "url": "https://www.pv-magazine.de/2026/07/21/ki-service-perfectpv-ermittelt-herstellerunabhaengig-die-optimale-speichergroesse-fuer-jeden-haushalt/",
+      "published_at": "2026-07-21T09:02:42Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "KI-Service „perfectPV“ ermittelt herstellerunabhängig die optimale Speichergröße für jeden Haushalt Unter Berücksichtigung der Verbraucherverhaltens kann die Software binnen weniger Minuten ermitteln, wie groß der Batteriespeicher zur Photovoltaik-Anlage sein sollte. Der Service kostet einmalig 39 Euro, kann nach Angaben des Heilbronner Start-ups aber teure Fehlinvestitionen vermeiden.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b652344a928090c0a904056d",
+      "title": "Qnetic baut wohl weltgrößte Testanlage für 200-kWh-Schwungrad-Energiespeicher",
+      "url": "https://www.heise.de/news/Qnetic-baut-wohl-weltgroesste-Testanlage-fuer-200-kWh-Schwungrad-Energiespeicher-11371749.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-21T08:51:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Qnetic baut wohl weltgrößte Testanlage für 200-kWh-Schwungrad-Energiespeicher Qnetic baut in Shanghai eine Testanlage, um seine Schwungrad-Energiespeicher testen zu können. Ein 200-kWh-Speicher soll als erstes validiert werden.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0c77fd4ab5ffe5432523e8fd",
+      "title": "Toyota: \"Ich glaube, wir verlieren gegen China\"",
+      "url": "https://www.golem.de/news/toyota-ich-glaube-wir-verlieren-gegen-china-2607-211097.html",
+      "published_at": "2026-07-21T07:50:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Toyota: \"Ich glaube, wir verlieren gegen China\" In einer Doku sprechen Toyota-Mitarbeiter über die Krise beim weltgrößten Autohersteller. Die Hoffnung liegt auf dem nächsten Corolla-Modell. ( Toyota , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "0ce8bcf879771390ad748ea4",
       "title": "KI-Training: Tesla lässt Grünheide-Belegschaft für Roboter Optimus filmen",
       "url": "https://www.golem.de/news/ki-training-tesla-laesst-gruenheide-belegschaft-fuer-roboter-optimus-filmen-2607-211096.html",
