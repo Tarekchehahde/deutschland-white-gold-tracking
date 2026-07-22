@@ -2,14 +2,49 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "bb6fc32d0f9c520633b0af1c",
-      "title": "Brand in Batteriespeicher in Bautzen: Anwohner wegen Rauchentwicklung evakuiert",
-      "url": "https://www.tagesschau.de/inland/regional/sachsen/feuerwehr-rauch-warnung-,brand-batteriespeicher-104.html",
-      "published_at": "2026-07-21T19:14:38Z",
-      "source_id": "tagesschau-sn",
+      "id": "d9efaa9b99a22033d9860e21",
+      "title": "Neues Tool für Wirtschaftlichkeitsanalyse marktbasierter Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/07/22/neues-tool-fuer-wirtschaftlichkeitsanalyse-marktbasierter-batteriespeicher/",
+      "published_at": "2026-07-22T07:39:00Z",
+      "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "Brand in Batteriespeicher in Bautzen: Anwohner wegen Rauchentwicklung evakuiert In Bautzen brennt seit Dienstagnachmittag ein Batteriespeicher. Mehrere Anwohner mussten wegen der starken Rauchentwicklung ihre Häuser verlassen, die Feuerwehr ist mit rund 50 Einsatzkräften im Einsatz.",
+      "summary": "Neues Tool für Wirtschaftlichkeitsanalyse marktbasierter Batteriespeicher Impeto Impact hat das Software-as-a-Service-Tool entwickelt. Mittels Forwardtesting werden 1,3 Millionen historische Datenpunkte der vergangenen fünf Jahre dynamisch mit nutzerdefinierten Annahmen verknüpft. Daraus lassen sich Business-Cases für Fully-Merchant-Batteriespeicher ableiten, die die Finanzierung der Projekte sich",
       "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3fc9d9b81f640cead9f1eef2",
+      "title": "Günstige Elektroautos: Ein elektrischer Dienstwagen kann sich für alle lohnen",
+      "url": "https://www.faz.net/aktuell/finanzen/elektroauto-als-dienstwagen-bis-zu-40-prozent-sparen-accg-201036125.html",
+      "published_at": "2026-07-22T07:04:19Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Günstige Elektroautos: Ein elektrischer Dienstwagen kann sich für alle lohnen Elektroautos sind zwar im Einkauf noch immer teurer als Verbrenner. Über den Arbeitgeber gibt es sie aber bis zu 40 Prozent billiger.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7be04575c035a5891a5801ca",
+      "title": "Booking.com: Geschäftsmodell Endreinigung",
+      "url": "https://www.golem.de/news/booking-com-geschaeftsmodell-endreinigung-2607-211054.html",
+      "published_at": "2026-07-22T06:24:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Booking.com: Geschäftsmodell Endreinigung Wie Ferienhausanbieter auf Booking.com den Preis nach der Buchung durch Pflichtgebühren massiv erhöhen. Eine Recherche von Markus Feilner ( Reisen , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "58c1ac977b67177a0b34594e",
+      "title": "Alternative zu Batterien: So will China 200 Kilowattstunden Strom mit einem Schwungrad speichern",
+      "url": "https://t3n.de/news/alternative-zu-batterien-so-will-china-200-kilowattstunden-strom-mit-einem-schwungrad-speichern-1753777/",
+      "published_at": "2026-07-21T14:30:34Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Alternative zu Batterien: So will China 200 Kilowattstunden Strom mit einem Schwungrad speichern Wenn Windräder und Solaranlagen viel Strom liefern, können Batteriespeicher das oft nicht aufnehmen und der Vorteil verpufft. In China arbeitet eine Firma nun an einem neuartigen Schwungrad. So soll es Strom mit Bewegung speichern. Das Unternehmen Qnetic errichtet in Shanghai eine Testanlage für Schwun",
+      "tags": [
+        "industrie"
+      ],
       "regions": []
     },
     {
@@ -57,28 +92,6 @@
       "regions": []
     },
     {
-      "id": "0c77fd4ab5ffe5432523e8fd",
-      "title": "Toyota: \"Ich glaube, wir verlieren gegen China\"",
-      "url": "https://www.golem.de/news/toyota-ich-glaube-wir-verlieren-gegen-china-2607-211097.html",
-      "published_at": "2026-07-21T07:50:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Toyota: \"Ich glaube, wir verlieren gegen China\" In einer Doku sprechen Toyota-Mitarbeiter über die Krise beim weltgrößten Autohersteller. Die Hoffnung liegt auf dem nächsten Corolla-Modell. ( Toyota , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0ce8bcf879771390ad748ea4",
-      "title": "KI-Training: Tesla lässt Grünheide-Belegschaft für Roboter Optimus filmen",
-      "url": "https://www.golem.de/news/ki-training-tesla-laesst-gruenheide-belegschaft-fuer-roboter-optimus-filmen-2607-211096.html",
-      "published_at": "2026-07-21T07:39:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "KI-Training: Tesla lässt Grünheide-Belegschaft für Roboter Optimus filmen Ausgewählte Tesla-Teams sollen Kameras am Arbeitsplatz tragen. Die Aufnahmen sollen dem Roboter Optimus beibringen, wie Menschen arbeiten. ( Gigafactory Berlin , Roboter )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "712f75dc72a47a96b25fd59f",
       "title": "Autokonzerne im Rückzugsgefecht: Für die Deutschen stellt sich in China die Existenzfrage",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-bmw-und-mercedes-fuer-die-deutschen-stellt-sich-in-china-die-existenzfrage-accg-201035548.html",
@@ -100,17 +113,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "8e697f430b0bd56e165f7774",
-      "title": "Elektroautos: Sinkende Preise, aber wachsende Modell- und Preislücke",
-      "url": "https://www.heise.de/hintergrund/Elektroautos-Sinkende-Preise-aber-wachsende-Modell-und-Preisluecke-11370606.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-20T12:55:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Elektroautos: Sinkende Preise, aber wachsende Modell- und Preislücke Vergleichbare E-Auto-Modelle kosten real 18 Prozent weniger als 2020. Doch der Trend zu größeren Fahrzeugen treibt den Medianpreis auf 53.000 Euro.",
-      "tags": [],
       "regions": []
     },
     {
