@@ -2,6 +2,52 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "210511b7cb99c35b331bd438",
+      "title": "Batteriespeicher-Investments und der Investitionsabzugsbetrag: Die Container-Risiken",
+      "url": "https://www.pv-magazine.de/2026/07/23/batteriespeicher-investments-und-der-investitionsabzugsbetrag-die-container-risiken/",
+      "published_at": "2026-07-23T07:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Batteriespeicher-Investments und der Investitionsabzugsbetrag: Die Container-Risiken Direktinvestitionen in Batteriespeicher-Container locken mit hohen Steuervorteilen aus Investitionsabzugsbetrag und Sonderabschreibung, doch ein zentrales Risiko wird in vielen Verkaufsunterlagen nicht thematisiert: Ist das einzeln erworbene Batterie-Pack oder Rack steuerlich überhaupt ein selbständiges Wirtschaft",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4ca84b7f2e243fd7db627daa",
+      "title": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen",
+      "url": "https://www.rnd.de/wirtschaft/die-superpower-der-energiewende-wie-riesige-batteriespeicher-strom-billiger-machen-sollen-VWPIYBRWSNCILHHXHLQ7V2R5IU.html",
+      "published_at": "2026-07-23T06:15:19Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen Der Ausbau von Speicherbatterien erlebt einen Boom. Die riesigen Akkus können Investoren hohe Renditen bringen – und gleichzeitig den Strom für Verbraucher und Unternehmen billiger machen. Doch es gibt auch Hürden und Risiken.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "9cdbd27415c67b63890a2dea",
+      "title": "Ford verkauft Teil des Spanien-Werks an Rivalen aus China",
+      "url": "https://www.spiegel.de/wirtschaft/ford-verkauft-teil-des-spanien-werks-an-rivalen-aus-china-a-6bda5a00-02da-4b18-ace2-d43884c9d134",
+      "published_at": "2026-07-23T05:10:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Ford verkauft Teil des Spanien-Werks an Rivalen aus China Mit Elektroautos hat Ford bisher wenig Erfolg gehabt. Jetzt will der US-Hersteller mit dem Verkauf von Teilen des Werks in Valencia an den chinesischen Geely-Konzern Kosten senken. Ein Schritt mit Nebenwirkungen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "58bc3a5e4964d17b7cd3e2e6",
+      "title": "Quartalszahlen: Tesla macht weniger Gewinn als im Vorjahr",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-07/tesla-quartalszahlen-gewinn-elon-musk-aktie-gxe",
+      "published_at": "2026-07-23T03:19:21Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "Quartalszahlen: Tesla macht weniger Gewinn als im Vorjahr Der Elektroautobauer kämpft mit hohen Ausgaben und einem von Donald Trump geschmälerten Geschäft mit CO₂-Zertifikaten. Nur der Umsatz fiel besser aus als erwartet.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "1d750e27af5b6d74d27d2b44",
       "title": "Gas statt Batterien: Technologieoffen ist Auschreibung zu Reservekraftwerken nicht",
       "url": "https://www.golem.de/news/gas-statt-batterien-technologieoffen-ist-auschreibung-zu-reservekraftwerken-nicht-2607-211155.html",
@@ -10,19 +56,6 @@
       "language": "de",
       "summary": "Gas statt Batterien: Technologieoffen ist Auschreibung zu Reservekraftwerken nicht Die Bundesnetzagentur schreibt 4,5 Gigawatt Reserveleistung aus. Batteriespeicher werden dabei auf fast absurde Weise benachteiligt. ( Bundesnetzagentur , Energiewende )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4ca84b7f2e243fd7db627daa",
-      "title": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen",
-      "url": "https://www.rnd.de/wirtschaft/die-superpower-der-energiewende-wie-riesige-batteriespeicher-strom-billiger-machen-sollen-VWPIYBRWSNCILHHXHLQ7V2R5IU.html",
-      "published_at": "2026-07-22T11:13:34Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen Der Ausbau von Speicherbatterien erlebt einen Boom. Die riesigen Akkus können Investoren hohe Renditen bringen – und gleichzeitig den Strom für Verbraucher und Unternehmen billiger machen. Doch es gibt auch Hürden und Risiken.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     },
     {
