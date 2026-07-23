@@ -2,6 +2,63 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "eec00549aff13162c037c30f",
+      "title": "Feuer in 1,5-Megawatt-Batteriespeicher in Bautzen gelöscht",
+      "url": "https://www.pv-magazine.de/2026/07/23/feuer-in-15-megawatt-batteriespeicher-in-bautzen-geloscht/",
+      "published_at": "2026-07-23T15:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Feuer in 1,5-Megawatt-Batteriespeicher in Bautzen gelöscht Update: Das Feuer in dem seit Dienstagnachmittag brennenden Batteriespeicher ist gelöscht, wie die Stadt am Donnerstag mitteilte. Sie hob die Vorsichtsmaßnahmen mittlerweile auf.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ca28f8538d019d2dd04515c4",
+      "title": "Elektroautos werden beliebter: Näher am Massenmarkt, aber doch noch weit entfernt",
+      "url": "https://www.rnd.de/wirtschaft/elektroautos-werden-beliebter-naeher-am-massenmarkt-aber-doch-noch-weit-entfernt-NBQCTPDBPNHJRMUTB3ECKXNFOE.html",
+      "published_at": "2026-07-23T14:25:40Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Elektroautos werden beliebter: Näher am Massenmarkt, aber doch noch weit entfernt Elektroautos werden bei der Kundschaft beliebter. Doch der Boom hat seine Tücken: Er funktioniert nur durch Kaufprämien. Und vor allem chinesische Hersteller profitieren davon.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e11712ffb2ec2d05a6becb88",
+      "title": "Energiewende: Bohrloch-Batterie speichert Strom als künstliche Geothermie",
+      "url": "https://www.golem.de/news/wind-und-solar-bohrloch-batterie-speichert-strom-als-kuenstliche-geothermie-2607-211199.html",
+      "published_at": "2026-07-23T11:14:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Energiewende: Bohrloch-Batterie speichert Strom als künstliche Geothermie Aufgegebene Förderstellen für Öl und Gas können große Energiemengen aufnehmen. Zurück ins Netz gelangt der Strom wie bei einem Geothermiekraftwerk. ( Energiewende , Solarenergie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4c7d4a21220dd6bfeb762252",
+      "title": "Tesla: Gewinneinbußen und höhere Kosten",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/tesla-weniger-gewinn-delle-kosten-absatz-elon-musk-100.html",
+      "published_at": "2026-07-23T10:23:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "Tesla: Gewinneinbußen und höhere Kosten Tesla hat im zweiten Quartal einen geringeren Gewinn verbucht. Zudem stiegen die Kosten. Der Elektroautobauer verfehlte die Erwartungen an der Wall Street haushoch.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4ca84b7f2e243fd7db627daa",
+      "title": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen",
+      "url": "https://www.rnd.de/wirtschaft/die-superpower-der-energiewende-wie-riesige-batteriespeicher-strom-billiger-machen-sollen-VWPIYBRWSNCILHHXHLQ7V2R5IU.html",
+      "published_at": "2026-07-23T08:23:14Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen Der Ausbau von Speicherbatterien erlebt einen Boom. Die riesigen Akkus können Investoren hohe Renditen bringen – und gleichzeitig den Strom für Verbraucher und Unternehmen billiger machen. Doch es gibt auch Hürden und Risiken.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "210511b7cb99c35b331bd438",
       "title": "Batteriespeicher-Investments und der Investitionsabzugsbetrag: Die Container-Risiken",
       "url": "https://www.pv-magazine.de/2026/07/23/batteriespeicher-investments-und-der-investitionsabzugsbetrag-die-container-risiken/",
@@ -13,30 +70,6 @@
       "regions": []
     },
     {
-      "id": "4ca84b7f2e243fd7db627daa",
-      "title": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen",
-      "url": "https://www.rnd.de/wirtschaft/die-superpower-der-energiewende-wie-riesige-batteriespeicher-strom-billiger-machen-sollen-VWPIYBRWSNCILHHXHLQ7V2R5IU.html",
-      "published_at": "2026-07-23T06:15:19Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen Der Ausbau von Speicherbatterien erlebt einen Boom. Die riesigen Akkus können Investoren hohe Renditen bringen – und gleichzeitig den Strom für Verbraucher und Unternehmen billiger machen. Doch es gibt auch Hürden und Risiken.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "9cdbd27415c67b63890a2dea",
-      "title": "Ford verkauft Teil des Spanien-Werks an Rivalen aus China",
-      "url": "https://www.spiegel.de/wirtschaft/ford-verkauft-teil-des-spanien-werks-an-rivalen-aus-china-a-6bda5a00-02da-4b18-ace2-d43884c9d134",
-      "published_at": "2026-07-23T05:10:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Ford verkauft Teil des Spanien-Werks an Rivalen aus China Mit Elektroautos hat Ford bisher wenig Erfolg gehabt. Jetzt will der US-Hersteller mit dem Verkauf von Teilen des Werks in Valencia an den chinesischen Geely-Konzern Kosten senken. Ein Schritt mit Nebenwirkungen.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "58bc3a5e4964d17b7cd3e2e6",
       "title": "Quartalszahlen: Tesla macht weniger Gewinn als im Vorjahr",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-07/tesla-quartalszahlen-gewinn-elon-musk-aktie-gxe",
@@ -44,28 +77,6 @@
       "source_id": "zeit-wirtschaft",
       "language": "de",
       "summary": "Quartalszahlen: Tesla macht weniger Gewinn als im Vorjahr Der Elektroautobauer kämpft mit hohen Ausgaben und einem von Donald Trump geschmälerten Geschäft mit CO₂-Zertifikaten. Nur der Umsatz fiel besser aus als erwartet.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1d750e27af5b6d74d27d2b44",
-      "title": "Gas statt Batterien: Technologieoffen ist Auschreibung zu Reservekraftwerken nicht",
-      "url": "https://www.golem.de/news/gas-statt-batterien-technologieoffen-ist-auschreibung-zu-reservekraftwerken-nicht-2607-211155.html",
-      "published_at": "2026-07-22T11:20:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Gas statt Batterien: Technologieoffen ist Auschreibung zu Reservekraftwerken nicht Die Bundesnetzagentur schreibt 4,5 Gigawatt Reserveleistung aus. Batteriespeicher werden dabei auf fast absurde Weise benachteiligt. ( Bundesnetzagentur , Energiewende )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fcad16989c2639a246e1d89d",
-      "title": "Brand eines 1,5-Megawatt-Batteriespeichers in Bautzen",
-      "url": "https://www.pv-magazine.de/2026/07/22/brand-eines-15-megawatt-batteriespeichers-in-bautzen/",
-      "published_at": "2026-07-22T10:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Brand eines 1,5-Megawatt-Batteriespeichers in Bautzen Seit Dienstagnachmittag hält die Feuerwehrleute der Brand in dem Batteriespeicher in Atem. In der direkten Umgebung sind knapp 50 Menschen evakuiert worden. Das Feuer ist noch nicht gelöscht, der Batteriespeicher wird aktuell noch mit 5000 Liter pro Minuten gekühlt.",
       "tags": [],
       "regions": []
     },
@@ -90,17 +101,6 @@
       "source_id": "faz-aktuell",
       "language": "de",
       "summary": "Autokonzerne im Rückzugsgefecht: Für die Deutschen stellt sich in China die Existenzfrage Investieren oder aufgeben: Elektroautos made in Germany sind in China nicht gefragt. VW, BMW und Mercedes müssen ihre Strategie auf dem weltgrößten Automarkt revidieren – und denken sogar an das Äußerste.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8482ca5cec55026749d48eab",
-      "title": "Elektroautos sind seit 2020 deutlich günstiger geworden",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-preise-kaufpraemie-100.html",
-      "published_at": "2026-07-20T10:41:31Z",
-      "source_id": "tagesschau-wirtschaft",
-      "language": "de",
-      "summary": "Elektroautos sind seit 2020 deutlich günstiger geworden E-Autos sind zwischen 2020 und 2025 um rund 18 Prozent günstiger geworden. Dazu kommen die staatlichen Kaufprämien, über die schon mehr als 50 Millionen Euro ausgezahlt wurden - vor allem für Tesla-Modelle.",
       "tags": [],
       "regions": []
     }
