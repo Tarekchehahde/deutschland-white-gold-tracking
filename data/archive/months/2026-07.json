@@ -1,8 +1,65 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 124,
+  "article_count": 128,
   "articles": [
+    {
+      "id": "eec00549aff13162c037c30f",
+      "title": "Feuer in 1,5-Megawatt-Batteriespeicher in Bautzen gelöscht",
+      "url": "https://www.pv-magazine.de/2026/07/23/feuer-in-15-megawatt-batteriespeicher-in-bautzen-geloscht/",
+      "published_at": "2026-07-23T15:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Feuer in 1,5-Megawatt-Batteriespeicher in Bautzen gelöscht Update: Das Feuer in dem seit Dienstagnachmittag brennenden Batteriespeicher ist gelöscht, wie die Stadt am Donnerstag mitteilte. Sie hob die Vorsichtsmaßnahmen mittlerweile auf.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ca28f8538d019d2dd04515c4",
+      "title": "Elektroautos werden beliebter: Näher am Massenmarkt, aber doch noch weit entfernt",
+      "url": "https://www.rnd.de/wirtschaft/elektroautos-werden-beliebter-naeher-am-massenmarkt-aber-doch-noch-weit-entfernt-NBQCTPDBPNHJRMUTB3ECKXNFOE.html",
+      "published_at": "2026-07-23T14:25:40Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Elektroautos werden beliebter: Näher am Massenmarkt, aber doch noch weit entfernt Elektroautos werden bei der Kundschaft beliebter. Doch der Boom hat seine Tücken: Er funktioniert nur durch Kaufprämien. Und vor allem chinesische Hersteller profitieren davon.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e11712ffb2ec2d05a6becb88",
+      "title": "Energiewende: Bohrloch-Batterie speichert Strom als künstliche Geothermie",
+      "url": "https://www.golem.de/news/wind-und-solar-bohrloch-batterie-speichert-strom-als-kuenstliche-geothermie-2607-211199.html",
+      "published_at": "2026-07-23T11:14:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Energiewende: Bohrloch-Batterie speichert Strom als künstliche Geothermie Aufgegebene Förderstellen für Öl und Gas können große Energiemengen aufnehmen. Zurück ins Netz gelangt der Strom wie bei einem Geothermiekraftwerk. ( Energiewende , Solarenergie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4c7d4a21220dd6bfeb762252",
+      "title": "Tesla: Gewinneinbußen und höhere Kosten",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/tesla-weniger-gewinn-delle-kosten-absatz-elon-musk-100.html",
+      "published_at": "2026-07-23T10:23:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "Tesla: Gewinneinbußen und höhere Kosten Tesla hat im zweiten Quartal einen geringeren Gewinn verbucht. Zudem stiegen die Kosten. Der Elektroautobauer verfehlte die Erwartungen an der Wall Street haushoch.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4ca84b7f2e243fd7db627daa",
+      "title": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen",
+      "url": "https://www.rnd.de/wirtschaft/die-superpower-der-energiewende-wie-riesige-batteriespeicher-strom-billiger-machen-sollen-VWPIYBRWSNCILHHXHLQ7V2R5IU.html",
+      "published_at": "2026-07-23T08:23:14Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen Der Ausbau von Speicherbatterien erlebt einen Boom. Die riesigen Akkus können Investoren hohe Renditen bringen – und gleichzeitig den Strom für Verbraucher und Unternehmen billiger machen. Doch es gibt auch Hürden und Risiken.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "210511b7cb99c35b331bd438",
       "title": "Batteriespeicher-Investments und der Investitionsabzugsbetrag: Die Container-Risiken",
@@ -12,19 +69,6 @@
       "language": "de",
       "summary": "Batteriespeicher-Investments und der Investitionsabzugsbetrag: Die Container-Risiken Direktinvestitionen in Batteriespeicher-Container locken mit hohen Steuervorteilen aus Investitionsabzugsbetrag und Sonderabschreibung, doch ein zentrales Risiko wird in vielen Verkaufsunterlagen nicht thematisiert: Ist das einzeln erworbene Batterie-Pack oder Rack steuerlich überhaupt ein selbständiges Wirtschaft",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4ca84b7f2e243fd7db627daa",
-      "title": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen",
-      "url": "https://www.rnd.de/wirtschaft/die-superpower-der-energiewende-wie-riesige-batteriespeicher-strom-billiger-machen-sollen-VWPIYBRWSNCILHHXHLQ7V2R5IU.html",
-      "published_at": "2026-07-23T06:15:19Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen Der Ausbau von Speicherbatterien erlebt einen Boom. Die riesigen Akkus können Investoren hohe Renditen bringen – und gleichzeitig den Strom für Verbraucher und Unternehmen billiger machen. Doch es gibt auch Hürden und Risiken.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     },
     {
