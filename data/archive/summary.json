@@ -1,14 +1,36 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-23T19:46:14Z",
+  "generated_at_utc": "2026-07-24T07:41:57Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 390,
+  "total_in_archive": 392,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 128
+    "2026-07": 130
   },
   "recent_for_ui": [
+    {
+      "id": "9e1e391fb5d46df6a077e6e6",
+      "title": "Smart #5 Brabus im Test: Familienkutschen-Sleeper mit unerwartet viel Wumms und Gebimmel",
+      "url": "https://www.golem.de/news/smart-5-brabus-im-test-familienkutschen-sleeper-mit-unerwartet-viel-wumms-und-gebimmel-2607-211206.html",
+      "published_at": "2026-07-24T07:10:05Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Smart #5 Brabus im Test: Familienkutschen-Sleeper mit unerwartet viel Wumms und Gebimmel Die Brabus-Version von Smarts #5 mit 646 PS beschleunigt rasant und ist ein großartiges Langstreckenauto. Die Software nervt allerdings oft. Ein Praxistest von Tobias Költzsch ( Elektroauto , Test )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f2669afdd1b1f15157106705",
+      "title": "Krebs: Die unterschätzte Gefahr des Übergewichts",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/uebergewicht-krebsrisiko-doppelt-so-hoch-wie-gedacht-accg-201040007.html",
+      "published_at": "2026-07-24T06:07:09Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Krebs: Die unterschätzte Gefahr des Übergewichts Fettgewebe ist nicht einfach nur ein Energiespeicher, sondern beeinflusst den Stoffwechsel. Und es trägt offenbar doppelt so viel zur Entstehung von Krebs bei als bisher angenommen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "eec00549aff13162c037c30f",
       "title": "Feuer in 1,5-Megawatt-Batteriespeicher in Bautzen gelöscht",

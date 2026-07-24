@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "9e1e391fb5d46df6a077e6e6",
+      "title": "Smart #5 Brabus im Test: Familienkutschen-Sleeper mit unerwartet viel Wumms und Gebimmel",
+      "url": "https://www.golem.de/news/smart-5-brabus-im-test-familienkutschen-sleeper-mit-unerwartet-viel-wumms-und-gebimmel-2607-211206.html",
+      "published_at": "2026-07-24T07:10:05Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Smart #5 Brabus im Test: Familienkutschen-Sleeper mit unerwartet viel Wumms und Gebimmel Die Brabus-Version von Smarts #5 mit 646 PS beschleunigt rasant und ist ein großartiges Langstreckenauto. Die Software nervt allerdings oft. Ein Praxistest von Tobias Költzsch ( Elektroauto , Test )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f2669afdd1b1f15157106705",
+      "title": "Krebs: Die unterschätzte Gefahr des Übergewichts",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/uebergewicht-krebsrisiko-doppelt-so-hoch-wie-gedacht-accg-201040007.html",
+      "published_at": "2026-07-24T06:07:09Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Krebs: Die unterschätzte Gefahr des Übergewichts Fettgewebe ist nicht einfach nur ein Energiespeicher, sondern beeinflusst den Stoffwechsel. Und es trägt offenbar doppelt so viel zur Entstehung von Krebs bei als bisher angenommen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "eec00549aff13162c037c30f",
       "title": "Feuer in 1,5-Megawatt-Batteriespeicher in Bautzen gelöscht",
       "url": "https://www.pv-magazine.de/2026/07/23/feuer-in-15-megawatt-batteriespeicher-in-bautzen-geloscht/",
@@ -35,17 +57,6 @@
       "regions": []
     },
     {
-      "id": "4c7d4a21220dd6bfeb762252",
-      "title": "Tesla: Gewinneinbußen und höhere Kosten",
-      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/tesla-weniger-gewinn-delle-kosten-absatz-elon-musk-100.html",
-      "published_at": "2026-07-23T10:23:00Z",
-      "source_id": "zdf-nachrichten",
-      "language": "de",
-      "summary": "Tesla: Gewinneinbußen und höhere Kosten Tesla hat im zweiten Quartal einen geringeren Gewinn verbucht. Zudem stiegen die Kosten. Der Elektroautobauer verfehlte die Erwartungen an der Wall Street haushoch.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "4ca84b7f2e243fd7db627daa",
       "title": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen",
       "url": "https://www.rnd.de/wirtschaft/die-superpower-der-energiewende-wie-riesige-batteriespeicher-strom-billiger-machen-sollen-VWPIYBRWSNCILHHXHLQ7V2R5IU.html",
@@ -67,30 +78,6 @@
       "language": "de",
       "summary": "Batteriespeicher-Investments und der Investitionsabzugsbetrag: Die Container-Risiken Direktinvestitionen in Batteriespeicher-Container locken mit hohen Steuervorteilen aus Investitionsabzugsbetrag und Sonderabschreibung, doch ein zentrales Risiko wird in vielen Verkaufsunterlagen nicht thematisiert: Ist das einzeln erworbene Batterie-Pack oder Rack steuerlich überhaupt ein selbständiges Wirtschaft",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "58bc3a5e4964d17b7cd3e2e6",
-      "title": "Quartalszahlen: Tesla macht weniger Gewinn als im Vorjahr",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-07/tesla-quartalszahlen-gewinn-elon-musk-aktie-gxe",
-      "published_at": "2026-07-23T03:19:21Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "Quartalszahlen: Tesla macht weniger Gewinn als im Vorjahr Der Elektroautobauer kämpft mit hohen Ausgaben und einem von Donald Trump geschmälerten Geschäft mit CO₂-Zertifikaten. Nur der Umsatz fiel besser aus als erwartet.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "58c1ac977b67177a0b34594e",
-      "title": "Alternative zu Batterien: So will China 200 Kilowattstunden Strom mit einem Schwungrad speichern",
-      "url": "https://t3n.de/news/alternative-zu-batterien-so-will-china-200-kilowattstunden-strom-mit-einem-schwungrad-speichern-1753777/",
-      "published_at": "2026-07-21T14:30:34Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Alternative zu Batterien: So will China 200 Kilowattstunden Strom mit einem Schwungrad speichern Wenn Windräder und Solaranlagen viel Strom liefern, können Batteriespeicher das oft nicht aufnehmen und der Vorteil verpufft. In China arbeitet eine Firma nun an einem neuartigen Schwungrad. So soll es Strom mit Bewegung speichern. Das Unternehmen Qnetic errichtet in Shanghai eine Testanlage für Schwun",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     },
     {
