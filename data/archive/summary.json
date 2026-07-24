@@ -1,14 +1,95 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-24T07:41:57Z",
+  "generated_at_utc": "2026-07-24T19:47:23Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 392,
+  "total_in_archive": 398,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 130
+    "2026-07": 136
   },
   "recent_for_ui": [
+    {
+      "id": "b2b8d51472830691dd604480",
+      "title": "(g+) Opinion: Japan automakers bought time with hybrids, now must spend it on software",
+      "url": "https://www.golem.de/news/opinion-japan-automakers-bought-time-with-hybrids-now-must-spend-it-on-software-2607-211273.html",
+      "published_at": "2026-07-24T16:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "(g+) Opinion: Japan automakers bought time with hybrids, now must spend it on software Competition between intelligent vehicles and merely electrified ones has just begun Von Hans Greimel ( Wirtschaft , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ad47ee52be6b485e6fd027d8",
+      "title": "Wirtschaftsblase: Die Tesla-SpaceX-Blase platzt",
+      "url": "https://www.golem.de/news/wirtschaftsblase-die-tesla-spacex-blase-platzt-2607-211258.html",
+      "published_at": "2026-07-24T15:35:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Wirtschaftsblase: Die Tesla-SpaceX-Blase platzt Die Geschäftspläne, die nicht von Science-Fiction-Romanen zu unterscheiden sind, überzeugen nicht mehr. Eine Analyse von Frank Wunderlich-Pfeiffer ( SpaceX , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c587d49a1ba9bb9bca732d81",
+      "title": "Photovoltaik rettet Leben",
+      "url": "https://www.pv-magazine.de/2026/07/24/photovoltaik-rettet-leben/",
+      "published_at": "2026-07-24T12:05:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Photovoltaik rettet Leben Solarmodule, Batteriespeicher, Hybrid-Wechselrichter, kurz: Photovoltaik-Komponenten für notstromfähige Systeme stehen im Mittelpunkt der Kampagne Solar für die Ukraine. Die Initiative von Greenpeace und Biohaus-Stiftung gibt es schon länger, doch eines bleibt immer aktuell: der Aufruf, sie mit Spenden zu unterstützen. Wobei gerade Unternehmen dabei durchaus auch für sich",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "eccd69da02e3a4f1630cc014",
+      "title": "Revolta bringt Natrium-Ionen-Hochvolt-Speicher auf den deutschen Markt",
+      "url": "https://www.pv-magazine.de/2026/07/24/revolta-bringt-natrium-ionen-hochvolt-speicher-auf-den-deutschen-markt/",
+      "published_at": "2026-07-24T10:42:14Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Revolta bringt Natrium-Ionen-Hochvolt-Speicher auf den deutschen Markt Ein Batteriemodul verfügt über 2,0 Kilowattstunden Kapazität. Mit bis zu zehn Modulen kann der Batteriespeicher auf bis zu 20 Kilowattstunden skaliert werden. Mehrere Pilotprojekte hat Revolta bereits in der Pipeline.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4ca84b7f2e243fd7db627daa",
+      "title": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen",
+      "url": "https://www.rnd.de/wirtschaft/die-superpower-der-energiewende-wie-riesige-batteriespeicher-strom-billiger-machen-sollen-VWPIYBRWSNCILHHXHLQ7V2R5IU.html",
+      "published_at": "2026-07-24T10:12:32Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen Der Ausbau von Speicherbatterien erlebt einen Boom. Die riesigen Akkus können Investoren hohe Renditen bringen – und gleichzeitig den Strom für Verbraucher und Unternehmen billiger machen. Doch es gibt auch Hürden und Risiken.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "e9eb04e7345081b4f4aca8f5",
+      "title": "Hype um Lithiumorotat: Hilft Lithiumorotat wirklich gegen Demenz, Herr Kempermann?",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/hype-um-lithiumorotat-hilft-das-mittel-wirklich-gegen-demenz-accg-201008032.html",
+      "published_at": "2026-07-24T08:09:59Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Hype um Lithiumorotat: Hilft Lithiumorotat wirklich gegen Demenz, Herr Kempermann? Es soll vor dem Vergessen bewahren, wird im Netz gefeiert und ist in Deutschland verboten: Lithiumorotat. Ein Neurowissenschaftler ordnet den Hype ein – und erklärt, was wirklich vor Alzheimer schützen kann.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b54ce66b2e87915a55294ee9",
+      "title": "Plattformwechsel: Apple Maps zieht fest in Fords E-Autos ein",
+      "url": "https://www.golem.de/news/plattformwechsel-apple-maps-zieht-fest-in-fords-e-autos-ein-2607-211238.html",
+      "published_at": "2026-07-24T08:02:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Plattformwechsel: Apple Maps zieht fest in Fords E-Autos ein Ford baut Apple Maps direkt in seine kommende Elektroauto-Plattform ein. Den Anfang macht 2027 ein neuer Pick-up für rund 30.000 Dollar. ( Ford , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "9e1e391fb5d46df6a077e6e6",
       "title": "Smart #5 Brabus im Test: Familienkutschen-Sleeper mit unerwartet viel Wumms und Gebimmel",
@@ -73,19 +154,6 @@
       "language": "de",
       "summary": "Tesla: Gewinneinbußen und höhere Kosten Tesla hat im zweiten Quartal einen geringeren Gewinn verbucht. Zudem stiegen die Kosten. Der Elektroautobauer verfehlte die Erwartungen an der Wall Street haushoch.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4ca84b7f2e243fd7db627daa",
-      "title": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen",
-      "url": "https://www.rnd.de/wirtschaft/die-superpower-der-energiewende-wie-riesige-batteriespeicher-strom-billiger-machen-sollen-VWPIYBRWSNCILHHXHLQ7V2R5IU.html",
-      "published_at": "2026-07-23T08:23:14Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen Der Ausbau von Speicherbatterien erlebt einen Boom. Die riesigen Akkus können Investoren hohe Renditen bringen – und gleichzeitig den Strom für Verbraucher und Unternehmen billiger machen. Doch es gibt auch Hürden und Risiken.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     },
     {
