@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "eb1c21f912bca7dd059bd8a4",
+      "title": "Elektroauto: Audi A2 E-Tron gesichtet, Preise starten bei 38.200 Euro",
+      "url": "https://www.golem.de/news/elektroauto-audi-a2-e-tron-gesichtet-preise-starten-bei-38-200-euro-2607-211286.html",
+      "published_at": "2026-07-25T12:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Audi A2 E-Tron gesichtet, Preise starten bei 38.200 Euro Audis kommender A2 E-Tron ist in Kopenhagen gesichtet worden. Der Einstiegspreis soll merklich über dem des ID.3 liegen. ( Audi , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "b2b8d51472830691dd604480",
       "title": "(g+) Opinion: Japan automakers bought time with hybrids, now must spend it on software",
       "url": "https://www.golem.de/news/opinion-japan-automakers-bought-time-with-hybrids-now-must-spend-it-on-software-2607-211273.html",
@@ -48,19 +59,6 @@
       "regions": []
     },
     {
-      "id": "4ca84b7f2e243fd7db627daa",
-      "title": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen",
-      "url": "https://www.rnd.de/wirtschaft/die-superpower-der-energiewende-wie-riesige-batteriespeicher-strom-billiger-machen-sollen-VWPIYBRWSNCILHHXHLQ7V2R5IU.html",
-      "published_at": "2026-07-24T10:12:32Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen Der Ausbau von Speicherbatterien erlebt einen Boom. Die riesigen Akkus können Investoren hohe Renditen bringen – und gleichzeitig den Strom für Verbraucher und Unternehmen billiger machen. Doch es gibt auch Hürden und Risiken.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
       "id": "e9eb04e7345081b4f4aca8f5",
       "title": "Hype um Lithiumorotat: Hilft Lithiumorotat wirklich gegen Demenz, Herr Kempermann?",
       "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/hype-um-lithiumorotat-hilft-das-mittel-wirklich-gegen-demenz-accg-201008032.html",
@@ -72,28 +70,6 @@
       "regions": []
     },
     {
-      "id": "b54ce66b2e87915a55294ee9",
-      "title": "Plattformwechsel: Apple Maps zieht fest in Fords E-Autos ein",
-      "url": "https://www.golem.de/news/plattformwechsel-apple-maps-zieht-fest-in-fords-e-autos-ein-2607-211238.html",
-      "published_at": "2026-07-24T08:02:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Plattformwechsel: Apple Maps zieht fest in Fords E-Autos ein Ford baut Apple Maps direkt in seine kommende Elektroauto-Plattform ein. Den Anfang macht 2027 ein neuer Pick-up für rund 30.000 Dollar. ( Ford , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9e1e391fb5d46df6a077e6e6",
-      "title": "Smart #5 Brabus im Test: Familienkutschen-Sleeper mit unerwartet viel Wumms und Gebimmel",
-      "url": "https://www.golem.de/news/smart-5-brabus-im-test-familienkutschen-sleeper-mit-unerwartet-viel-wumms-und-gebimmel-2607-211206.html",
-      "published_at": "2026-07-24T07:10:05Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Smart #5 Brabus im Test: Familienkutschen-Sleeper mit unerwartet viel Wumms und Gebimmel Die Brabus-Version von Smarts #5 mit 646 PS beschleunigt rasant und ist ein großartiges Langstreckenauto. Die Software nervt allerdings oft. Ein Praxistest von Tobias Költzsch ( Elektroauto , Test )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "eec00549aff13162c037c30f",
       "title": "Feuer in 1,5-Megawatt-Batteriespeicher in Bautzen gelöscht",
       "url": "https://www.pv-magazine.de/2026/07/23/feuer-in-15-megawatt-batteriespeicher-in-bautzen-geloscht/",
@@ -101,17 +77,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Feuer in 1,5-Megawatt-Batteriespeicher in Bautzen gelöscht Update: Das Feuer in dem seit Dienstagnachmittag brennenden Batteriespeicher ist gelöscht, wie die Stadt am Donnerstag mitteilte. Sie hob die Vorsichtsmaßnahmen mittlerweile auf.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ca28f8538d019d2dd04515c4",
-      "title": "Elektroautos werden beliebter: Näher am Massenmarkt, aber doch noch weit entfernt",
-      "url": "https://www.rnd.de/wirtschaft/elektroautos-werden-beliebter-naeher-am-massenmarkt-aber-doch-noch-weit-entfernt-NBQCTPDBPNHJRMUTB3ECKXNFOE.html",
-      "published_at": "2026-07-23T14:25:40Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Elektroautos werden beliebter: Näher am Massenmarkt, aber doch noch weit entfernt Elektroautos werden bei der Kundschaft beliebter. Doch der Boom hat seine Tücken: Er funktioniert nur durch Kaufprämien. Und vor allem chinesische Hersteller profitieren davon.",
       "tags": [],
       "regions": []
     },
