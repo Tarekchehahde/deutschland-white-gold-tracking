@@ -4,6 +4,17 @@
   "article_count": 137,
   "articles": [
     {
+      "id": "c8dc6dab555ae418c16fb7b3",
+      "title": "heise+ | Elektroauto Kia EV2 im Test: Kurz und gut",
+      "url": "https://www.heise.de/tests/Elektroauto-Kia-EV2-im-Test-Kurz-und-gut-11354828.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-07-26T12:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroauto Kia EV2 im Test: Kurz und gut Gemessen daran, dass der EV2 ein Kleinwagen ist, fährt er ziemlich erwachsen und ist auch mit der kleinen Batterie empfehlenswert, sofern das Profil stimmt.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "eb1c21f912bca7dd059bd8a4",
       "title": "Elektroauto: Audi A2 E-Tron gesichtet, Preise starten bei 38.200 Euro",
       "url": "https://www.golem.de/news/elektroauto-audi-a2-e-tron-gesichtet-preise-starten-bei-38-200-euro-2607-211286.html",
@@ -448,17 +459,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Großbritannien: E-Autos sollen künftig kilometerweise besteuert werden Ab 2028 zahlen E-Auto-Besitzer in Großbritannien für jeden gefahrenen Kilometer extra. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c8dc6dab555ae418c16fb7b3",
-      "title": "heise+ | Elektroauto Kia EV2 im Test: Kurz und gut",
-      "url": "https://www.heise.de/tests/Elektroauto-Kia-EV2-im-Test-Kurz-und-gut-11354828.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-07-20T05:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Elektroauto Kia EV2 im Test: Kurz und gut Gemessen daran, dass der EV2 ein Kleinwagen ist, fährt er ziemlich erwachsen und ist auch mit der kleinen Batterie empfehlenswert, sofern das Profil stimmt.",
       "tags": [],
       "regions": []
     },
