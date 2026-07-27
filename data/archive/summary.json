@@ -1,12 +1,12 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-27T08:47:39Z",
+  "generated_at_utc": "2026-07-27T19:55:31Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 401,
+  "total_in_archive": 402,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 139
+    "2026-07": 140
   },
   "recent_for_ui": [
     {
@@ -18,6 +18,19 @@
       "language": "de",
       "summary": "Cornex peilt ein Drittel des deutschen Batteriespeichermarkts an Der chinesische Zellhersteller will seine Position im europäischen Speichersegment deutlich ausbauen. Feng Huang erläutert die Strategie für Deutschland, die Aufteilung zwischen Zellverkauf und DC-Containern sowie die Unterschiede zwischen den führenden Batterieherstellern.",
       "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7151c3d010fd06c43ac10295",
+      "title": "Das CCWPS-Speicherkraftwerk als ein netzdienliches Systemelement -vor allem für die Stromstrategie als der Basis der zukünftigen effizienten, klimaneutralen Energieversorgung",
+      "url": "https://www.pv-magazine.de/2026/07/27/das-ccwps-speicherkraftwerk-als-ein-netzdienliches-systemelement-vor-allem-fuer-die-stromstrategie-als-der-basis-der-zukuenftigen-effizienten-klimaneutralen-energieversorgung/",
+      "published_at": "2026-07-27T08:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Das CCWPS-Speicherkraftwerk als ein netzdienliches Systemelement -vor allem für die Stromstrategie als der Basis der zukünftigen effizienten, klimaneutralen Energieversorgung Das CCWPS-Verfahren ist Basis für ein auch netzdienliches Giga Wattstunden Strom Großspeicher-System. Ohne Einsatz von Lithium, sondern nur mit langlebigen, bewährten technischen Anlagen nach dem Stand der Technik. Es ist dam",
+      "tags": [
+        "umwelt"
+      ],
       "regions": []
     },
     {
@@ -4552,17 +4565,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Suntec baut Co-Location-Graustromspeicher mit 13,5 Megawattstunden Kapazität Der Batteriespeicher wird in Unterfranken an einem bereits ans Netz angeschlossenen Solarpark mit 5,8 Megawatt Leistung errichtet. Nach Angaben von Suntec hat der Netzbetreiber die Netzentgeltbefreiung bestätigt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c5bf76cc6e820b354091ef2b",
-      "title": "Starkes Wachstum im Großspeichermarkt führt zu Batterie-Rekordzubau von über 2 Gigawattstunden im 1. Quartal 2026",
-      "url": "https://www.pv-magazine.de/2026/05/08/starkes-wachstum-im-grossspeichermarkt-fuehrt-zu-batterie-rekordzubau-von-ueber-2-gigawattstunden-im-1-quartal-2026/",
-      "published_at": "2026-05-08T10:23:46Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Starkes Wachstum im Großspeichermarkt führt zu Batterie-Rekordzubau von über 2 Gigawattstunden im 1. Quartal 2026 Im ersten Quartal 2026 sind in Deutschland geschätzt 2,2 Gigawattstunden an Batteriespeicherkapazität neu in Betrieb genommen worden. Damit ist der Markt weiter um rund 38 Prozent gegenüber dem Wert des ersten Quartals 2025 gewachsen. Während der Photovoltaik-Heimspeichermarkt stagnier",
       "tags": [],
       "regions": []
     }
