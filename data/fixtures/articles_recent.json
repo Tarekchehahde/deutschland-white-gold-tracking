@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "45212858ceedb57a040de229",
+      "title": "Cornex peilt ein Drittel des deutschen Batteriespeichermarkts an",
+      "url": "https://www.pv-magazine.de/2026/07/27/cornex-peilt-ein-drittel-des-deutschen-batteriespeichermarkts-an/",
+      "published_at": "2026-07-27T08:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Cornex peilt ein Drittel des deutschen Batteriespeichermarkts an Der chinesische Zellhersteller will seine Position im europäischen Speichersegment deutlich ausbauen. Feng Huang erläutert die Strategie für Deutschland, die Aufteilung zwischen Zellverkauf und DC-Containern sowie die Unterschiede zwischen den führenden Batterieherstellern.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4536fd84f7fac25dc3b35c7c",
+      "title": "Blume will höhere Zölle: VW-Elektroautos boomen",
+      "url": "https://www.golem.de/news/blume-will-hoehere-zoelle-vw-elektroautos-boomen-2607-211294.html",
+      "published_at": "2026-07-27T05:33:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Blume will höhere Zölle: VW-Elektroautos boomen Volkswagen bekommt mehr Bestellungen für Elektroautos. Konzernchef Blume spricht deshalb kaum noch über ein Verbrennerverbot. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "c8dc6dab555ae418c16fb7b3",
       "title": "heise+ | Elektroauto Kia EV2 im Test: Kurz und gut",
       "url": "https://www.heise.de/tests/Elektroauto-Kia-EV2-im-Test-Kurz-und-gut-11354828.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",

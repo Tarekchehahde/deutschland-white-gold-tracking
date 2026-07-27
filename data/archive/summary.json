@@ -1,14 +1,36 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-26T19:35:20Z",
+  "generated_at_utc": "2026-07-27T08:47:39Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 399,
+  "total_in_archive": 401,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 137
+    "2026-07": 139
   },
   "recent_for_ui": [
+    {
+      "id": "45212858ceedb57a040de229",
+      "title": "Cornex peilt ein Drittel des deutschen Batteriespeichermarkts an",
+      "url": "https://www.pv-magazine.de/2026/07/27/cornex-peilt-ein-drittel-des-deutschen-batteriespeichermarkts-an/",
+      "published_at": "2026-07-27T08:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Cornex peilt ein Drittel des deutschen Batteriespeichermarkts an Der chinesische Zellhersteller will seine Position im europäischen Speichersegment deutlich ausbauen. Feng Huang erläutert die Strategie für Deutschland, die Aufteilung zwischen Zellverkauf und DC-Containern sowie die Unterschiede zwischen den führenden Batterieherstellern.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4536fd84f7fac25dc3b35c7c",
+      "title": "Blume will höhere Zölle: VW-Elektroautos boomen",
+      "url": "https://www.golem.de/news/blume-will-hoehere-zoelle-vw-elektroautos-boomen-2607-211294.html",
+      "published_at": "2026-07-27T05:33:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Blume will höhere Zölle: VW-Elektroautos boomen Volkswagen bekommt mehr Bestellungen für Elektroautos. Konzernchef Blume spricht deshalb kaum noch über ein Verbrennerverbot. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c8dc6dab555ae418c16fb7b3",
       "title": "heise+ | Elektroauto Kia EV2 im Test: Kurz und gut",
@@ -4542,20 +4564,6 @@
       "language": "de",
       "summary": "Starkes Wachstum im Großspeichermarkt führt zu Batterie-Rekordzubau von über 2 Gigawattstunden im 1. Quartal 2026 Im ersten Quartal 2026 sind in Deutschland geschätzt 2,2 Gigawattstunden an Batteriespeicherkapazität neu in Betrieb genommen worden. Damit ist der Markt weiter um rund 38 Prozent gegenüber dem Wert des ersten Quartals 2025 gewachsen. Während der Photovoltaik-Heimspeichermarkt stagnier",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "eddb01b053ecfe0855a778ce",
-      "title": "Flower baut Batteriespeicher mit 400 Megawattstunden in Hamburg",
-      "url": "https://www.pv-magazine.de/2026/05/08/flower-baut-batteriespeicher-mit-400-megawattstunden-in-hamburg/",
-      "published_at": "2026-05-08T09:54:37Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Flower baut Batteriespeicher mit 400 Megawattstunden in Hamburg Das schwedische Unternehmen hat das 4-Stunden-Speicherprojekt nach eigenen Angaben zur Baureife gebracht. Die Netzanschlusszusage und alle erforderlichen Genehmigungen für das größte Speicherprojekt in einer deutschen Großstadt liegen vor.",
-      "tags": [
-        "industrie",
-        "politik"
-      ],
       "regions": []
     }
   ]
