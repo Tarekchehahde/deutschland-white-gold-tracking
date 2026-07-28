@@ -2,6 +2,50 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "52854035a1a699455d6275d1",
+      "title": "E-Auto-Akkus: Was 10.000 Tests wirklich über die Alterung verraten",
+      "url": "https://www.golem.de/news/e-auto-akkus-was-10-000-tests-wirklich-ueber-die-alterung-verraten-2607-211341.html",
+      "published_at": "2026-07-28T07:45:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "E-Auto-Akkus: Was 10.000 Tests wirklich über die Alterung verraten Eine Studie hat den Zustand von fast 10.000 E-Auto-Akkus nach mehr als 100.000 Kilometern untersucht. Die Modelle unterscheiden sich stark. ( Elektroauto , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "22938a32999515e0d5f3e020",
+      "title": "Subventionen: Fördern und Fördern",
+      "url": "https://www.faz.net/aktuell/technik-motor/das-leben-sollte-einfacher-und-von-weniger-buerokratie-belastet-werden-201051706.html",
+      "published_at": "2026-07-28T07:29:22Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Subventionen: Fördern und Fördern Das Leben sollte einfacher und von weniger Bürokratie belastet werden. Stattdessen wird der Wust immer mehr: Wärmepumpe, Photovoltaik, Elektroauto.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "783dca4bfda699833b7cf09a",
+      "title": "Weltweite Batteriespeicher-Leistung wird sich bis 2030 versechsfachen",
+      "url": "https://www.pv-magazine.de/2026/07/28/weltweite-batteriespeicher-leistung-wird-sich-bis-2030-versechsfachen/",
+      "published_at": "2026-07-28T07:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Weltweite Batteriespeicher-Leistung wird sich bis 2030 versechsfachen Global Data erwartet bis zum Ende des Jahrzehnts eine Wachstumsrate von 42 Prozent pro Jahr. Als Gründe nennen die US-Analysten unter anderem den Flexibilisierungsbedarf bei den Erneuerbaren sowie sinkende Speicherkosten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "50cdfd534f81900a69ae0d2d",
+      "title": "6,6 Millionen neue Elektroautos: Markt wächst langsamer",
+      "url": "https://www.heise.de/news/6-6-Millionen-neue-Elektroautos-Markt-waechst-langsamer-11379674.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-28T05:54:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "6,6 Millionen neue Elektroautos: Markt wächst langsamer Weil China schwächelt, geht es bei den Verkaufszahlen der E-Autos weltweit etwas langsamer als zuvor voran. In Europa läuft es deutlich besser.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "45212858ceedb57a040de229",
       "title": "Cornex peilt ein Drittel des deutschen Batteriespeichermarkts an",
       "url": "https://www.pv-magazine.de/2026/07/27/cornex-peilt-ein-drittel-des-deutschen-batteriespeichermarkts-an/",
@@ -26,17 +70,6 @@
       "regions": []
     },
     {
-      "id": "4536fd84f7fac25dc3b35c7c",
-      "title": "Blume will höhere Zölle: VW-Elektroautos boomen",
-      "url": "https://www.golem.de/news/blume-will-hoehere-zoelle-vw-elektroautos-boomen-2607-211294.html",
-      "published_at": "2026-07-27T05:33:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Blume will höhere Zölle: VW-Elektroautos boomen Volkswagen bekommt mehr Bestellungen für Elektroautos. Konzernchef Blume spricht deshalb kaum noch über ein Verbrennerverbot. ( VW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "c587d49a1ba9bb9bca732d81",
       "title": "Photovoltaik rettet Leben",
       "url": "https://www.pv-magazine.de/2026/07/24/photovoltaik-rettet-leben/",
@@ -47,28 +80,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "eccd69da02e3a4f1630cc014",
-      "title": "Revolta bringt Natrium-Ionen-Hochvolt-Speicher auf den deutschen Markt",
-      "url": "https://www.pv-magazine.de/2026/07/24/revolta-bringt-natrium-ionen-hochvolt-speicher-auf-den-deutschen-markt/",
-      "published_at": "2026-07-24T10:42:14Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Revolta bringt Natrium-Ionen-Hochvolt-Speicher auf den deutschen Markt Ein Batteriemodul verfügt über 2,0 Kilowattstunden Kapazität. Mit bis zu zehn Modulen kann der Batteriespeicher auf bis zu 20 Kilowattstunden skaliert werden. Mehrere Pilotprojekte hat Revolta bereits in der Pipeline.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4e1f64adbadf6e2c11a00b3b",
-      "title": "Autokonzerne im Rückzugsgefecht: Für die Deutschen stellt sich in China die Existenzfrage",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/autokrise-in-china-warum-deutsche-hersteller-um-ihre-zukunft-kaempfen-accg-201035548.html",
-      "published_at": "2026-07-21T04:45:52Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Autokonzerne im Rückzugsgefecht: Für die Deutschen stellt sich in China die Existenzfrage Investieren oder aufgeben: Elektroautos made in Germany sind in China nicht gefragt. VW, BMW und Mercedes müssen ihre Strategie auf dem weltgrößten Automarkt revidieren – und denken sogar an das Äußerste.",
-      "tags": [],
       "regions": []
     }
   ]
