@@ -1,14 +1,82 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-28T07:47:04Z",
+  "generated_at_utc": "2026-07-28T19:53:31Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 406,
+  "total_in_archive": 412,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 144
+    "2026-07": 150
   },
   "recent_for_ui": [
+    {
+      "id": "e7f78c742bb92f1a6cfa8020",
+      "title": "Tesla: Staatsanwaltschaft stoppt Beschwerde im Streit um heimliche Aufnahme",
+      "url": "https://www.golem.de/news/tesla-staatsanwaltschaft-stoppt-beschwerde-im-streit-um-heimliche-aufnahme-2607-211367.html",
+      "published_at": "2026-07-28T14:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Staatsanwaltschaft stoppt Beschwerde im Streit um heimliche Aufnahme Tesla hätte gerne, dass die Ermittlungen gegen einen Gewerkschaftssekretär weitergehen - die Staatsanwaltschaft sieht aber keine Gründe dafür. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "da9ca4a49f744128e54c64f0",
+      "title": "Kritische Rohstoffe: Lithiumabbau in Sachsen wird wahrscheinlicher",
+      "url": "https://www.golem.de/news/kritische-rohstoffe-lithiumabbau-in-sachsen-wird-wahrscheinlicher-2607-211362.html",
+      "published_at": "2026-07-28T12:35:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Kritische Rohstoffe: Lithiumabbau in Sachsen wird wahrscheinlicher Das Vorkommen im Erzgebirge gilt als eines der größten in Europa. In der Region soll heimisches Lithium für Batterien gefördert werden. ( Lithium , Elektroauto )",
+      "tags": [],
+      "regions": [
+        "DE-SN"
+      ]
+    },
+    {
+      "id": "ff1d15cff8f7e40c2431e6f9",
+      "title": "Neue Klasse: BMW soll an elektrischem Cabrio arbeiten",
+      "url": "https://www.golem.de/news/neue-klasse-bmw-soll-an-elektrischem-cabrio-arbeiten-2607-211355.html",
+      "published_at": "2026-07-28T10:45:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Neue Klasse: BMW soll an elektrischem Cabrio arbeiten Die Auswahl an vollelektrischen Cabriolets ist überschaubar - mit dem i4 Cabrio von BMW soll 2028 eines hinzukommen. ( BMW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3f57d323c90f009fee52d696",
+      "title": "Automarkt: Zahl der Elektroautos steigt in der EU auf neues Allzeithoch",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/e-autos-europa-marktanteil-bev-deutschland-oelpreis",
+      "published_at": "2026-07-28T10:33:58Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "Automarkt: Zahl der Elektroautos steigt in der EU auf neues Allzeithoch In der EU werden so viele Elektroautos verkauft wie noch nie. Als Grund dafür sieht PwC die schwankenden Ölpreise – und die rasante technologische Entwicklung.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f6d2cf4ca0cbc1615a3a83be",
+      "title": "Energie: RWE baut Großbatteriespeicher im Tagebau Hambach",
+      "url": "https://rp-online.de/nrw/panorama/rwe-baut-grossbatteriespeicher-im-tagebau-hambach_aid-152214677",
+      "published_at": "2026-07-28T10:13:40Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Energie: RWE baut Großbatteriespeicher im Tagebau Hambach Die ersten Batterie-Container wurden bereits geliefert. Der Energiekonzern RWE errichtet auf dem Gelände des Tagebaus einen Energiespeicher. Wann dieser in Betrieb gehen soll.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9342bb5cca18387f5994bad6",
+      "title": "Dienstwagen: Lidl verzichtet auf neue E-Autos",
+      "url": "https://www.golem.de/news/dienstwagen-lidl-verzichtet-auf-neue-e-autos-2607-211343.html",
+      "published_at": "2026-07-28T08:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Dienstwagen: Lidl verzichtet auf neue E-Autos Die Schwarz-Gruppe (Lidl) lässt ihre Beschäftigten in Deutschland vorübergehend keine neuen Elektroautos mehr als Dienstwagen bestellen. ( Lidl , GreenIT )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "52854035a1a699455d6275d1",
       "title": "E-Auto-Akkus: Was 10.000 Tests wirklich über die Alterung verraten",
@@ -4499,72 +4567,6 @@
       "source_id": "faz-aktuell",
       "language": "de",
       "summary": "Hoffnungsträger Ukraine: Wird die Ukraine zum Rohstoffriesen? China dominiert kritische Rohstoffe. Viele sehen in der Ukraine eine Alternative. Forscher haben jetzt untersucht, wie groß das Potential ist.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0e095a112a908ffd6cb0fdb5",
-      "title": "Mai-EnergiewendeForum: Energiemanagementsystem – das Herzstück des ProSumers!",
-      "url": "https://www.pfalz-express.de/mai-energiewendeforum-energiemanagementsystem-das-herzstueck-des-prosumers/",
-      "published_at": "2026-05-17T08:17:53Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Mai-EnergiewendeForum: Energiemanagementsystem – das Herzstück des ProSumers! Ranschbach. Der Verein Initiative Südpfalz-Energie e.V. (ISE e.V.) lädt herzlich zu seinem nächsten Mai-EnergiewendeForum ein. In Zeiten steigender Energiepreise und zunehmender Eigenversorgung wird das intelligente Zusammenspiel der eigenen Energiekomponenten immer wichtiger. Eine Photovoltaikanlage, ein Batteriespeiche",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "47aa6d4407789710b765422f",
-      "title": "Studie sieht hohe Erlösrisiken für neue Gaskraftwerke in Deutschland",
-      "url": "https://www.pv-magazine.de/2026/05/15/studie-sieht-hohe-erloesrisiken-fuer-neue-gaskraftwerke-in-deutschland/",
-      "published_at": "2026-05-15T12:57:19Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Studie sieht hohe Erlösrisiken für neue Gaskraftwerke in Deutschland Die Analysten von Thema gehen davon aus, dass Gaskraftwerke nur in wenigen Knappheitsjahren ausreichend Erlöse mit Blick auf die Amortisation erzielen werden. Allerdings schmälern auch ein zu starker Ausbau von Gaskraftwerken und zusätzlich installierte Batteriespeicher sowie andere Flexibilitäten die Einnahmen über die gesamte L",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b89017c166317d547f1ceb3f",
-      "title": "Anzeige: Lithium-AA-Akkus im 8er-Pack mit Ladebox wieder zum Tiefstpreis bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-lithium-aa-akkus-im-8er-pack-mit-ladebox-wieder-zum-tiefstpreis-bei-amazon-2605-208703.html",
-      "published_at": "2026-05-15T08:44:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Lithium-AA-Akkus im 8er-Pack mit Ladebox wieder zum Tiefstpreis bei Amazon Diese AA-Lithium-Akkus mit 3.600 mWh und Ladecase sind jetzt befristet zum bisherigen Tiefstpreis bei Amazon erhältlich. ( Technik/Hardware , Amazon )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "231192ece2a6f4c921492013",
-      "title": "VW ID.Era 9x im Test: Jetzt kommt’s dicke",
-      "url": "https://www.spiegel.de/mobilitaet/auto/vw-id-era-9x-im-test-jetzt-kommts-dicke-a-efb382b8-2656-408c-bc87-91bd4ca8bd46",
-      "published_at": "2026-05-15T04:38:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "VW ID.Era 9x im Test: Jetzt kommt’s dicke In Europa hat VW das Jahr der kleinen Elektroautos ausgerufen und predigt mit dem ID.Polo die Idee vom Volks-Wagen. In China dagegen rollen die Niedersachsen ihr bislang dickstes Ding auf die Straße. Was kann der Koloss?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a998f939ebf30f014496d6f0",
-      "title": "heise+ | Vier smarte Wallboxen für Elektroautos und Hybridfahrzeuge im Test",
-      "url": "https://www.heise.de/tests/Vier-smarte-Wallboxen-fuer-Elektroautos-und-Hybridfahrzeuge-im-Test-10640187.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-05-14T14:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Vier smarte Wallboxen für Elektroautos und Hybridfahrzeuge im Test Wer (teil-)elektrisch unterwegs ist, kann mit einem cleveren Charger zu Hause dank dynamischen Stromtarifen oder PV-Überschuss richtig sparen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5dfcfd6e2d4066cfcb05c8bc",
-      "title": "Automobildesign: Heck-Tick",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/elektromobilitaet-bringt-neue-gestaltungsfreiheit-in-das-automobildesign-accg-200829482.html",
-      "published_at": "2026-05-14T12:30:00Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Automobildesign: Heck-Tick Die Elektromobilität bringt neue Gestaltungsfreiheit in das Automobildesign. Da lohnt es sich, die Sache vom Ende her zu denken.",
       "tags": [],
       "regions": []
     }
