@@ -1,11 +1,14 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-07-28": 7
+    "2026-07-29": 7
   },
-  "tag_counts": {},
+  "tag_counts": {
+    "exploration": 1,
+    "politik": 1,
+    "umwelt": 1
+  },
   "by_source_category": {
-    "national": 6,
-    "regional": 1
+    "national": 7
   }
 }
