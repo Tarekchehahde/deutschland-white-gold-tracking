@@ -1,8 +1,90 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 150,
+  "article_count": 157,
   "articles": [
+    {
+      "id": "063e3716f2a4778773223d84",
+      "title": "Mercedes-Benz GLA vorgestellt: Der EQA-Nachfolger macht einen großen Schritt nach vorn",
+      "url": "https://www.golem.de/news/mercedes-benz-gla-vorgestellt-der-eqa-nachfolger-macht-einen-grossen-schritt-nach-vorn-2607-211395.html",
+      "published_at": "2026-07-29T18:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Mercedes-Benz GLA vorgestellt: Der EQA-Nachfolger macht einen großen Schritt nach vorn Der EQA war jahrelang das meistverkaufte E-Auto von Mercedes. Der Nachfolger GLA ist in vielen Punkten deutlich besser. Ein Bericht von Friedhelm Greis ( Elektroauto , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f3b65c36c883d89339a28d59",
+      "title": "Stromspeicher Zendure Solarflow 800 Plus im Test: günstig & sehr effizient",
+      "url": "https://www.heise.de/bestenlisten/testbericht/stromspeicher-zendure-solarflow-800-plus-im-test-guenstig-und-sehr-effizient/vt19bgv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-29T14:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Stromspeicher Zendure Solarflow 800 Plus im Test: günstig & sehr effizient Zendure Solarflow 800 Plus überzeugt mit hohem Wirkungsgrad & flexibler Erweiterung. Der ideale Speicher für kleine Balkonkraftwerke.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2a629a989357cdffdb9bb207",
+      "title": "EEG: Bundesregierung will kleine Solaranlagen nicht mehr dauerhaft fördern",
+      "url": "https://www.golem.de/news/eeg-bundesregierung-will-kleine-solaranlagen-nicht-mehr-dauerhaft-foerdern-2607-211412.html",
+      "published_at": "2026-07-29T12:47:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "EEG: Bundesregierung will kleine Solaranlagen nicht mehr dauerhaft fördern Wirtschaftsministerin Reiche will einen Kurswechsel in der Energiepolitik. Die Pläne stoßen auf viel Kritik - aber auch auf Zustimmung. ( Energie & Klima , Elektroauto )",
+      "tags": [
+        "politik",
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "34fddd8c26df9e2acf186184",
+      "title": "Probefahrt mit Volvo EX60: Der iX3-Konkurrent mit dem Autoscooter-Feeling",
+      "url": "https://www.golem.de/news/probefahrt-mit-volvo-ex60-der-ix3-konkurrent-mit-dem-autoscooter-feeling-2607-211382.html",
+      "published_at": "2026-07-29T12:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt mit Volvo EX60: Der iX3-Konkurrent mit dem Autoscooter-Feeling Mit großer Reichweite und hoher Ladeleistung ist der Volvo EX60 eine Alternative zum BMW iX3. Doch beim Bedienkonzept zeigen sich große Unterschiede. Ein Bericht von Dirk Kunde ( Volvo , Elektroauto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "fbc2dea5a65cb7aa6e9dda3e",
+      "title": "Tesla: Ex-Manager von Teslas Robotaxis berichtet von gefährlichen Bedingungen",
+      "url": "https://www.golem.de/news/tesla-ex-manager-von-teslas-robotaxis-berichtet-von-gefaehrlichen-bedingungen-2607-211398.html",
+      "published_at": "2026-07-29T09:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Ex-Manager von Teslas Robotaxis berichtet von gefährlichen Bedingungen Nach Angaben des ehemaligen Managers von Teslas Robotaxis in Houston war er für zu viele Fahrzeuge verantwortlich - und gefährlich überarbeitet. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2a5e7e14be127c31be3c426b",
+      "title": "Größter Batteriespeicher in Deutschland steht vor Teilinbetriebnahme",
+      "url": "https://www.heise.de/news/Groesster-Batteriespeicher-in-Deutschland-steht-vor-Teilinbetriebnahme-11381243.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-29T08:46:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Größter Batteriespeicher in Deutschland steht vor Teilinbetriebnahme 300 MW soll der Batteriespeicher in Förderstedt im Endausbau leisten. 100 MW davon sollen bis Ende 2026 in Betrieb gehen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6560c1957110bb733eb68b52",
+      "title": "Enervis-Batteriespeicher-Index: Erlöse in Deutschland bleiben im Juni auf hohem Niveau – starke Photovoltaik-Einspeisung und Preisspitzen während der Hitzewelle treiben die Erlöse",
+      "url": "https://www.pv-magazine.de/2026/07/29/enervis-batteriespeicher-index-erloese-in-deutschland-bleiben-im-juni-auf-hohem-niveau-starke-photovoltaik-einspeisung-und-preisspitzen-waehrend-der-hitzewelle-treiben-die-erloese/",
+      "published_at": "2026-07-29T06:35:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enervis-Batteriespeicher-Index: Erlöse in Deutschland bleiben im Juni auf hohem Niveau – starke Photovoltaik-Einspeisung und Preisspitzen während der Hitzewelle treiben die Erlöse Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e7f78c742bb92f1a6cfa8020",
       "title": "Tesla: Staatsanwaltschaft stoppt Beschwerde im Streit um heimliche Aufnahme",

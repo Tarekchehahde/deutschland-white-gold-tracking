@@ -1,14 +1,96 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-29T07:59:24Z",
+  "generated_at_utc": "2026-07-29T19:44:25Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 412,
+  "total_in_archive": 419,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 150
+    "2026-07": 157
   },
   "recent_for_ui": [
+    {
+      "id": "063e3716f2a4778773223d84",
+      "title": "Mercedes-Benz GLA vorgestellt: Der EQA-Nachfolger macht einen großen Schritt nach vorn",
+      "url": "https://www.golem.de/news/mercedes-benz-gla-vorgestellt-der-eqa-nachfolger-macht-einen-grossen-schritt-nach-vorn-2607-211395.html",
+      "published_at": "2026-07-29T18:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Mercedes-Benz GLA vorgestellt: Der EQA-Nachfolger macht einen großen Schritt nach vorn Der EQA war jahrelang das meistverkaufte E-Auto von Mercedes. Der Nachfolger GLA ist in vielen Punkten deutlich besser. Ein Bericht von Friedhelm Greis ( Elektroauto , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f3b65c36c883d89339a28d59",
+      "title": "Stromspeicher Zendure Solarflow 800 Plus im Test: günstig & sehr effizient",
+      "url": "https://www.heise.de/bestenlisten/testbericht/stromspeicher-zendure-solarflow-800-plus-im-test-guenstig-und-sehr-effizient/vt19bgv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-29T14:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Stromspeicher Zendure Solarflow 800 Plus im Test: günstig & sehr effizient Zendure Solarflow 800 Plus überzeugt mit hohem Wirkungsgrad & flexibler Erweiterung. Der ideale Speicher für kleine Balkonkraftwerke.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2a629a989357cdffdb9bb207",
+      "title": "EEG: Bundesregierung will kleine Solaranlagen nicht mehr dauerhaft fördern",
+      "url": "https://www.golem.de/news/eeg-bundesregierung-will-kleine-solaranlagen-nicht-mehr-dauerhaft-foerdern-2607-211412.html",
+      "published_at": "2026-07-29T12:47:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "EEG: Bundesregierung will kleine Solaranlagen nicht mehr dauerhaft fördern Wirtschaftsministerin Reiche will einen Kurswechsel in der Energiepolitik. Die Pläne stoßen auf viel Kritik - aber auch auf Zustimmung. ( Energie & Klima , Elektroauto )",
+      "tags": [
+        "politik",
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "34fddd8c26df9e2acf186184",
+      "title": "Probefahrt mit Volvo EX60: Der iX3-Konkurrent mit dem Autoscooter-Feeling",
+      "url": "https://www.golem.de/news/probefahrt-mit-volvo-ex60-der-ix3-konkurrent-mit-dem-autoscooter-feeling-2607-211382.html",
+      "published_at": "2026-07-29T12:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt mit Volvo EX60: Der iX3-Konkurrent mit dem Autoscooter-Feeling Mit großer Reichweite und hoher Ladeleistung ist der Volvo EX60 eine Alternative zum BMW iX3. Doch beim Bedienkonzept zeigen sich große Unterschiede. Ein Bericht von Dirk Kunde ( Volvo , Elektroauto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "fbc2dea5a65cb7aa6e9dda3e",
+      "title": "Tesla: Ex-Manager von Teslas Robotaxis berichtet von gefährlichen Bedingungen",
+      "url": "https://www.golem.de/news/tesla-ex-manager-von-teslas-robotaxis-berichtet-von-gefaehrlichen-bedingungen-2607-211398.html",
+      "published_at": "2026-07-29T09:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Ex-Manager von Teslas Robotaxis berichtet von gefährlichen Bedingungen Nach Angaben des ehemaligen Managers von Teslas Robotaxis in Houston war er für zu viele Fahrzeuge verantwortlich - und gefährlich überarbeitet. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2a5e7e14be127c31be3c426b",
+      "title": "Größter Batteriespeicher in Deutschland steht vor Teilinbetriebnahme",
+      "url": "https://www.heise.de/news/Groesster-Batteriespeicher-in-Deutschland-steht-vor-Teilinbetriebnahme-11381243.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-29T08:46:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Größter Batteriespeicher in Deutschland steht vor Teilinbetriebnahme 300 MW soll der Batteriespeicher in Förderstedt im Endausbau leisten. 100 MW davon sollen bis Ende 2026 in Betrieb gehen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6560c1957110bb733eb68b52",
+      "title": "Enervis-Batteriespeicher-Index: Erlöse in Deutschland bleiben im Juni auf hohem Niveau – starke Photovoltaik-Einspeisung und Preisspitzen während der Hitzewelle treiben die Erlöse",
+      "url": "https://www.pv-magazine.de/2026/07/29/enervis-batteriespeicher-index-erloese-in-deutschland-bleiben-im-juni-auf-hohem-niveau-starke-photovoltaik-einspeisung-und-preisspitzen-waehrend-der-hitzewelle-treiben-die-erloese/",
+      "published_at": "2026-07-29T06:35:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enervis-Batteriespeicher-Index: Erlöse in Deutschland bleiben im Juni auf hohem Niveau – starke Photovoltaik-Einspeisung und Preisspitzen während der Hitzewelle treiben die Erlöse Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e7f78c742bb92f1a6cfa8020",
       "title": "Tesla: Staatsanwaltschaft stoppt Beschwerde im Streit um heimliche Aufnahme",
@@ -4489,85 +4571,6 @@
       "tags": [
         "umwelt"
       ],
-      "regions": []
-    },
-    {
-      "id": "7dacfc106473230930e3608c",
-      "title": "Fisker-Ocean-Besitzer überwinden Digital Restriction Management ihrer E-Autos",
-      "url": "https://www.heise.de/news/Fisker-Ocean-Besitzer-ueberwinden-Digital-Restriction-Management-ihrer-E-Autos-11298028.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-19T03:44:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Fisker-Ocean-Besitzer überwinden Digital Restriction Management ihrer E-Autos Fiskers Server sind aufgrund der Pleite des Elektroautoherstellers abgeschaltet. Besitzer des Fisker Ocean haben ihre Fahrzeuge in Eigeninitiative reaktiviert.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "55df7d36e8fb9eca5c1b1cf1",
-      "title": "Anzeige: Kabellose Ladestation von INIU für nur 14,97 Euro bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-kabellose-ladestation-von-iniu-fuer-nur-14-97-euro-bei-amazon-2605-208782.html",
-      "published_at": "2026-05-18T15:35:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Kabellose Ladestation von INIU für nur 14,97 Euro bei Amazon Amazon hat eine kabellose Ladestation von INIU im Angebot, die Qi-fähige Mobilgeräte mit einer Ausgangsleistung von bis zu 15 W auflädt. ( Technik/Hardware , Elektromobilität )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "febbfb81f18b3eafd0a5d271",
-      "title": "CO₂-Flottengrenzwerte: Studie: Pläne der Regierung würden E-Mobilität ausbremsen",
-      "url": "https://www.sueddeutsche.de/wirtschaft/e-mobilitaet-verbrenner-aus-aufweichen-folgen-li.3484940",
-      "published_at": "2026-05-18T13:45:38Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "CO₂-Flottengrenzwerte: Studie: Pläne der Regierung würden E-Mobilität ausbremsen Union und SPD wollen das Verbrenner-Aus aufweichen. Nun zeigt eine Studie: Das würde nicht nur den Hochlauf der Elektromobilität verlangsamen – sondern auch ziemlich teuer werden.",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "1dd6c160283dc6452f7353a8",
-      "title": "Lidl bietet 2,24 Kilowattstunden Speicher für 299 Euro an",
-      "url": "https://www.pv-magazine.de/2026/05/18/lidl-bietet-224-kilowattstunden-speicher-fuer-299-euro-an/",
-      "published_at": "2026-05-18T13:04:32Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Lidl bietet 2,24 Kilowattstunden Speicher für 299 Euro an Ab Donnerstag wird der Photovoltaik-Speicher in den Filialen für drei Tage und eine Woche online erhältlich sein. Wer einen per App steuerbaren Batteriespeicher erwerben will, muss 100 Euro drauflegen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "65614a73b7aac3039c1bbc10",
-      "title": "Photovoltaik und Batteriespeicher für Mieterstrom-Projekt in Köln",
-      "url": "https://www.pv-magazine.de/2026/05/18/photovoltaik-und-batteriespeicher-fuer-mieterstrom-projekt-in-koeln/",
-      "published_at": "2026-05-18T10:42:55Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Photovoltaik und Batteriespeicher für Mieterstrom-Projekt in Köln Auf 55 Wohngebäuden entstehen 42 Photovoltaik-Anlagen mit rund 750 Kilowatt Leistung. Ergänzt werden sie mit Batteriespeichern mit 670 Kilowattstunden Gesamtkapazität. Die Investitionssumme liegt bei mehr als 1,28 Millionen Euro.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b13cdf6a30f017565e36bf54",
-      "title": "Warum sich beim Verbrauchen von Strom Geld verdienen lässt",
-      "url": "https://www.rnd.de/wirtschaft/warum-sich-beim-verbrauchen-von-strom-geld-verdienen-laesst-TAMONU32GRCZLJTWTUGUUIU3MU.html",
-      "published_at": "2026-05-18T10:06:23Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Warum sich beim Verbrauchen von Strom Geld verdienen lässt Der massive Ausbau der Solarenergie bringt immer häufiger negative Strompreise. Davon können Verbraucher mit flexiblen Strompreisen profitieren. Zugleich entstehen Belastungen für die Steuerzahler. Mehr Batteriespeicher könnten das Problem lösen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d18afd1865cecc048ad49d0d",
-      "title": "Hoffnungsträger Ukraine: Wird die Ukraine zum Rohstoffriesen?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wird-die-ukraine-zum-rohstoffriesen-accg-200835226.html",
-      "published_at": "2026-05-17T11:55:27Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Hoffnungsträger Ukraine: Wird die Ukraine zum Rohstoffriesen? China dominiert kritische Rohstoffe. Viele sehen in der Ukraine eine Alternative. Forscher haben jetzt untersucht, wie groß das Potential ist.",
-      "tags": [],
       "regions": []
     }
   ]
