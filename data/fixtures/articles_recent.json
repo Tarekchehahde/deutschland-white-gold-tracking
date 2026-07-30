@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "8484965a9e7239fa025b00dd",
+      "title": "Mein Server muss länger leben als meine Firma",
+      "url": "https://www.pv-magazine.de/2026/07/30/mein-server-muss-laenger-leben-als-meine-firma/",
+      "published_at": "2026-07-30T07:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Mein Server muss länger leben als meine Firma Ab Februar 2027 braucht in der EU jeder Batteriespeicher über zwei Kilowattstunden einen eigenen digitalen Pass, abrufbar pro Seriennummer. Softwareentwickler Majid Goschka baut die Technik dafür und erklärt, warum die eigentliche Hürde nicht der QR-Code ist, sondern eine unscheinbare Frage: Woher kommen die Daten, und wer haftet am Ende für sie?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b15f7fdfe4d5c3f5a47b1dd1",
+      "title": "Ladesäulenregister: Deutschland verzeichnet über 200.000 öffentliche Ladepunkte",
+      "url": "https://www.golem.de/news/ladesaeulenregister-deutschland-verzeichnet-ueber-200-000-oeffentliche-ladepunkte-2607-211428.html",
+      "published_at": "2026-07-30T06:56:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ladesäulenregister: Deutschland verzeichnet über 200.000 öffentliche Ladepunkte Die Bundesnetzagentur meldet zum 1. Juli 2026 mehr als 209.000 öffentliche Ladepunkte in Deutschland. Der Schnellladeausbau wächst stark. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "063e3716f2a4778773223d84",
       "title": "Mercedes-Benz GLA vorgestellt: Der EQA-Nachfolger macht einen großen Schritt nach vorn",
       "url": "https://www.golem.de/news/mercedes-benz-gla-vorgestellt-der-eqa-nachfolger-macht-einen-grossen-schritt-nach-vorn-2607-211395.html",
