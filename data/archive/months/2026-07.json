@@ -1,8 +1,98 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 159,
+  "article_count": 167,
   "articles": [
+    {
+      "id": "89a59beadba7e4e38aad8d2e",
+      "title": "Ferrari: Elektroauto »Luce« erreicht Absatzziel offenbar vorzeitig",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/ferrari-elektroauto-luce-erreicht-absatzziel-offenbar-vorzeitig-a-1042adf8-9781-484a-9d45-ee8cfa8254a4",
+      "published_at": "2026-07-30T16:28:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Ferrari: Elektroauto »Luce« erreicht Absatzziel offenbar vorzeitig Als Ferrari im Mai ein E-Auto vorstellte, prophezeite manch einer den Untergang der Marke. Das Jahresziel für den Luce ist aber wohl schon geknackt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d504cf88ad0a2e7fd36f4448",
+      "title": "Axpo unterzeichnet 10-jährigen Tolling-Vertrag für Speicherprojekt mit 830 Megawattstunden in Italien",
+      "url": "https://www.pv-magazine.de/2026/07/30/axpo-unterzeichnet-10-jaehrigen-tolling-vertrag-fuer-speicherprojekt-mit-830-megawattstunden-in-italien/",
+      "published_at": "2026-07-30T14:48:27Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Axpo unterzeichnet 10-jährigen Tolling-Vertrag für Speicherprojekt mit 830 Megawattstunden in Italien Axpo hat den Tolling-Vertrag mit mit Zelestra geschlossen. Es handelt sich um ein Batteriespeicher-Projekt mit einer Leistung von 207 Megawatt und einer Kapazität von 830 Megawattstunden im Nordosten Italiens.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ed02dfc544bf731d9b0dc96e",
+      "title": "KI-„Gigafactorys“: EU-Kommission startet Ausschreibung",
+      "url": "https://www.heise.de/news/AI-Gigafactorys-EU-Kommission-startet-Ausschreibung-11387125.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-30T13:36:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "KI-„Gigafactorys“: EU-Kommission startet Ausschreibung Mit spezialisierten KI-Großrechenzentren soll der erwartete EU-Bedarf an Rechenkapazität in den kommenden Jahren gedeckt werden.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "91044ce770196f3a2c11f69a",
+      "title": "Carwow: Interesse an chinesischen Automarken steigt",
+      "url": "https://www.golem.de/news/carwow-interesse-an-chinesischen-automarken-steigt-2607-211454.html",
+      "published_at": "2026-07-30T13:11:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Carwow: Interesse an chinesischen Automarken steigt Die Autohandelsplattform Carwow hat Nutzerdaten ausgewertet: Deutsche Autofahrer verlieren offenbar die Scheu vor Herstellern aus China. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7d6623b74c7cc7983964cfed",
+      "title": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0.",
+      "url": "https://www.pv-magazine.de/2026/07/30/leistungspreis-plus-modell-als-marktbasiertes-konzept-zur-einbindung-von-kleinstflexibilitaeten-in-den-redispatch-3-0/",
+      "published_at": "2026-07-30T13:06:55Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0. Tennet und Transnet BW suchen im Projekt „DataFleX“ nach Wegen, wie Kleinstflexibilitäten wie Photovoltaik-Heimspeicher, Elektroautobatterien, Wärmepumpen oder gewerbliche Lasten in das Engpassmanagement der Netzbetreiber einbezogen werden können. Mit dem „Leistungpreis-Plus“-Mod",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8204e95adce8a97f4c67c793",
+      "title": "KI-Gigafactory: EU startet Milliardenprojekt für sieben KI-Gigafactories",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/ki-gigafactory-eu-kommission-infrastruktur-rechenzentren",
+      "published_at": "2026-07-30T11:40:39Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "KI-Gigafactory: EU startet Milliardenprojekt für sieben KI-Gigafactories Fördermittel in Milliardenhöhe stehen für den Ausbau der europäischen KI-Infrastruktur bereit. Deutsche Akteure ringen um den Zuschlag für die neuen Gigafactories.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f9d85af2ad66afd9bb430023",
+      "title": "25 Megawattstunden Batteriespeicher in sieben Monaten ans Netz gebracht",
+      "url": "https://www.pv-magazine.de/2026/07/30/25-megawattstunden-batteriespeicher-in-sieben-monaten-ans-netz-gebracht/",
+      "published_at": "2026-07-30T09:50:37Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "25 Megawattstunden Batteriespeicher in sieben Monaten ans Netz gebracht VWEW-Energie und Green Flexibility haben im bayerischen Marktoberdorf den neuen Speicher mit 10 Megawatt gemeinsam realisiert. Er wird netzneutral betrieben, womit er die regionalen Anforderungen des Stromnetzes berücksichtigt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0f1f7cd503b44f42671284dc",
+      "title": "Mercedes GLA vorgestellt: Der Doppel-Erbe",
+      "url": "https://www.heise.de/news/Mercedes-GLA-vorgestellt-der-Doppel-Erbe-11384673.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-30T07:58:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Mercedes GLA vorgestellt: Der Doppel-Erbe Mercedes beendet das teure Nebeneinander von GLA und EQA: Der neue GLA wird mit E-Antrieb und Hybriden zu haben sein. Den Anfang macht das Elektroauto.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "8484965a9e7239fa025b00dd",
       "title": "Mein Server muss länger leben als meine Firma",

@@ -2,6 +2,96 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "89a59beadba7e4e38aad8d2e",
+      "title": "Ferrari: Elektroauto »Luce« erreicht Absatzziel offenbar vorzeitig",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/ferrari-elektroauto-luce-erreicht-absatzziel-offenbar-vorzeitig-a-1042adf8-9781-484a-9d45-ee8cfa8254a4",
+      "published_at": "2026-07-30T16:28:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Ferrari: Elektroauto »Luce« erreicht Absatzziel offenbar vorzeitig Als Ferrari im Mai ein E-Auto vorstellte, prophezeite manch einer den Untergang der Marke. Das Jahresziel für den Luce ist aber wohl schon geknackt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d504cf88ad0a2e7fd36f4448",
+      "title": "Axpo unterzeichnet 10-jährigen Tolling-Vertrag für Speicherprojekt mit 830 Megawattstunden in Italien",
+      "url": "https://www.pv-magazine.de/2026/07/30/axpo-unterzeichnet-10-jaehrigen-tolling-vertrag-fuer-speicherprojekt-mit-830-megawattstunden-in-italien/",
+      "published_at": "2026-07-30T14:48:27Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Axpo unterzeichnet 10-jährigen Tolling-Vertrag für Speicherprojekt mit 830 Megawattstunden in Italien Axpo hat den Tolling-Vertrag mit mit Zelestra geschlossen. Es handelt sich um ein Batteriespeicher-Projekt mit einer Leistung von 207 Megawatt und einer Kapazität von 830 Megawattstunden im Nordosten Italiens.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ed02dfc544bf731d9b0dc96e",
+      "title": "KI-„Gigafactorys“: EU-Kommission startet Ausschreibung",
+      "url": "https://www.heise.de/news/AI-Gigafactorys-EU-Kommission-startet-Ausschreibung-11387125.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-30T13:36:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "KI-„Gigafactorys“: EU-Kommission startet Ausschreibung Mit spezialisierten KI-Großrechenzentren soll der erwartete EU-Bedarf an Rechenkapazität in den kommenden Jahren gedeckt werden.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "91044ce770196f3a2c11f69a",
+      "title": "Carwow: Interesse an chinesischen Automarken steigt",
+      "url": "https://www.golem.de/news/carwow-interesse-an-chinesischen-automarken-steigt-2607-211454.html",
+      "published_at": "2026-07-30T13:11:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Carwow: Interesse an chinesischen Automarken steigt Die Autohandelsplattform Carwow hat Nutzerdaten ausgewertet: Deutsche Autofahrer verlieren offenbar die Scheu vor Herstellern aus China. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7d6623b74c7cc7983964cfed",
+      "title": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0.",
+      "url": "https://www.pv-magazine.de/2026/07/30/leistungspreis-plus-modell-als-marktbasiertes-konzept-zur-einbindung-von-kleinstflexibilitaeten-in-den-redispatch-3-0/",
+      "published_at": "2026-07-30T13:06:55Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0. Tennet und Transnet BW suchen im Projekt „DataFleX“ nach Wegen, wie Kleinstflexibilitäten wie Photovoltaik-Heimspeicher, Elektroautobatterien, Wärmepumpen oder gewerbliche Lasten in das Engpassmanagement der Netzbetreiber einbezogen werden können. Mit dem „Leistungpreis-Plus“-Mod",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8204e95adce8a97f4c67c793",
+      "title": "KI-Gigafactory: EU startet Milliardenprojekt für sieben KI-Gigafactories",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/ki-gigafactory-eu-kommission-infrastruktur-rechenzentren",
+      "published_at": "2026-07-30T11:40:39Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "KI-Gigafactory: EU startet Milliardenprojekt für sieben KI-Gigafactories Fördermittel in Milliardenhöhe stehen für den Ausbau der europäischen KI-Infrastruktur bereit. Deutsche Akteure ringen um den Zuschlag für die neuen Gigafactories.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f9d85af2ad66afd9bb430023",
+      "title": "25 Megawattstunden Batteriespeicher in sieben Monaten ans Netz gebracht",
+      "url": "https://www.pv-magazine.de/2026/07/30/25-megawattstunden-batteriespeicher-in-sieben-monaten-ans-netz-gebracht/",
+      "published_at": "2026-07-30T09:50:37Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "25 Megawattstunden Batteriespeicher in sieben Monaten ans Netz gebracht VWEW-Energie und Green Flexibility haben im bayerischen Marktoberdorf den neuen Speicher mit 10 Megawatt gemeinsam realisiert. Er wird netzneutral betrieben, womit er die regionalen Anforderungen des Stromnetzes berücksichtigt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0f1f7cd503b44f42671284dc",
+      "title": "Mercedes GLA vorgestellt: Der Doppel-Erbe",
+      "url": "https://www.heise.de/news/Mercedes-GLA-vorgestellt-der-Doppel-Erbe-11384673.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-30T07:58:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Mercedes GLA vorgestellt: Der Doppel-Erbe Mercedes beendet das teure Nebeneinander von GLA und EQA: Der neue GLA wird mit E-Antrieb und Hybriden zu haben sein. Den Anfang macht das Elektroauto.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "8484965a9e7239fa025b00dd",
       "title": "Mein Server muss länger leben als meine Firma",
       "url": "https://www.pv-magazine.de/2026/07/30/mein-server-muss-laenger-leben-als-meine-firma/",
@@ -13,28 +103,6 @@
       "regions": []
     },
     {
-      "id": "b15f7fdfe4d5c3f5a47b1dd1",
-      "title": "Ladesäulenregister: Deutschland verzeichnet über 200.000 öffentliche Ladepunkte",
-      "url": "https://www.golem.de/news/ladesaeulenregister-deutschland-verzeichnet-ueber-200-000-oeffentliche-ladepunkte-2607-211428.html",
-      "published_at": "2026-07-30T06:56:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Ladesäulenregister: Deutschland verzeichnet über 200.000 öffentliche Ladepunkte Die Bundesnetzagentur meldet zum 1. Juli 2026 mehr als 209.000 öffentliche Ladepunkte in Deutschland. Der Schnellladeausbau wächst stark. ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "063e3716f2a4778773223d84",
-      "title": "Mercedes-Benz GLA vorgestellt: Der EQA-Nachfolger macht einen großen Schritt nach vorn",
-      "url": "https://www.golem.de/news/mercedes-benz-gla-vorgestellt-der-eqa-nachfolger-macht-einen-grossen-schritt-nach-vorn-2607-211395.html",
-      "published_at": "2026-07-29T18:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Mercedes-Benz GLA vorgestellt: Der EQA-Nachfolger macht einen großen Schritt nach vorn Der EQA war jahrelang das meistverkaufte E-Auto von Mercedes. Der Nachfolger GLA ist in vielen Punkten deutlich besser. Ein Bericht von Friedhelm Greis ( Elektroauto , Akku )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "f3b65c36c883d89339a28d59",
       "title": "Stromspeicher Zendure Solarflow 800 Plus im Test: günstig & sehr effizient",
       "url": "https://www.heise.de/bestenlisten/testbericht/stromspeicher-zendure-solarflow-800-plus-im-test-guenstig-und-sehr-effizient/vt19bgv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -42,66 +110,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Stromspeicher Zendure Solarflow 800 Plus im Test: günstig & sehr effizient Zendure Solarflow 800 Plus überzeugt mit hohem Wirkungsgrad & flexibler Erweiterung. Der ideale Speicher für kleine Balkonkraftwerke.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2a629a989357cdffdb9bb207",
-      "title": "EEG: Bundesregierung will kleine Solaranlagen nicht mehr dauerhaft fördern",
-      "url": "https://www.golem.de/news/eeg-bundesregierung-will-kleine-solaranlagen-nicht-mehr-dauerhaft-foerdern-2607-211412.html",
-      "published_at": "2026-07-29T12:47:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "EEG: Bundesregierung will kleine Solaranlagen nicht mehr dauerhaft fördern Wirtschaftsministerin Reiche will einen Kurswechsel in der Energiepolitik. Die Pläne stoßen auf viel Kritik - aber auch auf Zustimmung. ( Energie & Klima , Elektroauto )",
-      "tags": [
-        "politik",
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "34fddd8c26df9e2acf186184",
-      "title": "Probefahrt mit Volvo EX60: Der iX3-Konkurrent mit dem Autoscooter-Feeling",
-      "url": "https://www.golem.de/news/probefahrt-mit-volvo-ex60-der-ix3-konkurrent-mit-dem-autoscooter-feeling-2607-211382.html",
-      "published_at": "2026-07-29T12:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Probefahrt mit Volvo EX60: Der iX3-Konkurrent mit dem Autoscooter-Feeling Mit großer Reichweite und hoher Ladeleistung ist der Volvo EX60 eine Alternative zum BMW iX3. Doch beim Bedienkonzept zeigen sich große Unterschiede. Ein Bericht von Dirk Kunde ( Volvo , Elektroauto )",
-      "tags": [
-        "exploration"
-      ],
-      "regions": []
-    },
-    {
-      "id": "fbc2dea5a65cb7aa6e9dda3e",
-      "title": "Tesla: Ex-Manager von Teslas Robotaxis berichtet von gefährlichen Bedingungen",
-      "url": "https://www.golem.de/news/tesla-ex-manager-von-teslas-robotaxis-berichtet-von-gefaehrlichen-bedingungen-2607-211398.html",
-      "published_at": "2026-07-29T09:23:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla: Ex-Manager von Teslas Robotaxis berichtet von gefährlichen Bedingungen Nach Angaben des ehemaligen Managers von Teslas Robotaxis in Houston war er für zu viele Fahrzeuge verantwortlich - und gefährlich überarbeitet. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2a5e7e14be127c31be3c426b",
-      "title": "Größter Batteriespeicher in Deutschland steht vor Teilinbetriebnahme",
-      "url": "https://www.heise.de/news/Groesster-Batteriespeicher-in-Deutschland-steht-vor-Teilinbetriebnahme-11381243.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-29T08:46:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Größter Batteriespeicher in Deutschland steht vor Teilinbetriebnahme 300 MW soll der Batteriespeicher in Förderstedt im Endausbau leisten. 100 MW davon sollen bis Ende 2026 in Betrieb gehen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6560c1957110bb733eb68b52",
-      "title": "Enervis-Batteriespeicher-Index: Erlöse in Deutschland bleiben im Juni auf hohem Niveau – starke Photovoltaik-Einspeisung und Preisspitzen während der Hitzewelle treiben die Erlöse",
-      "url": "https://www.pv-magazine.de/2026/07/29/enervis-batteriespeicher-index-erloese-in-deutschland-bleiben-im-juni-auf-hohem-niveau-starke-photovoltaik-einspeisung-und-preisspitzen-waehrend-der-hitzewelle-treiben-die-erloese/",
-      "published_at": "2026-07-29T06:35:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Enervis-Batteriespeicher-Index: Erlöse in Deutschland bleiben im Juni auf hohem Niveau – starke Photovoltaik-Einspeisung und Preisspitzen während der Hitzewelle treiben die Erlöse Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
       "tags": [],
       "regions": []
     }
