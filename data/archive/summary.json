@@ -1,14 +1,104 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-30T07:42:45Z",
+  "generated_at_utc": "2026-07-30T19:52:48Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 421,
+  "total_in_archive": 429,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 159
+    "2026-07": 167
   },
   "recent_for_ui": [
+    {
+      "id": "89a59beadba7e4e38aad8d2e",
+      "title": "Ferrari: Elektroauto »Luce« erreicht Absatzziel offenbar vorzeitig",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/ferrari-elektroauto-luce-erreicht-absatzziel-offenbar-vorzeitig-a-1042adf8-9781-484a-9d45-ee8cfa8254a4",
+      "published_at": "2026-07-30T16:28:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Ferrari: Elektroauto »Luce« erreicht Absatzziel offenbar vorzeitig Als Ferrari im Mai ein E-Auto vorstellte, prophezeite manch einer den Untergang der Marke. Das Jahresziel für den Luce ist aber wohl schon geknackt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d504cf88ad0a2e7fd36f4448",
+      "title": "Axpo unterzeichnet 10-jährigen Tolling-Vertrag für Speicherprojekt mit 830 Megawattstunden in Italien",
+      "url": "https://www.pv-magazine.de/2026/07/30/axpo-unterzeichnet-10-jaehrigen-tolling-vertrag-fuer-speicherprojekt-mit-830-megawattstunden-in-italien/",
+      "published_at": "2026-07-30T14:48:27Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Axpo unterzeichnet 10-jährigen Tolling-Vertrag für Speicherprojekt mit 830 Megawattstunden in Italien Axpo hat den Tolling-Vertrag mit mit Zelestra geschlossen. Es handelt sich um ein Batteriespeicher-Projekt mit einer Leistung von 207 Megawatt und einer Kapazität von 830 Megawattstunden im Nordosten Italiens.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ed02dfc544bf731d9b0dc96e",
+      "title": "KI-„Gigafactorys“: EU-Kommission startet Ausschreibung",
+      "url": "https://www.heise.de/news/AI-Gigafactorys-EU-Kommission-startet-Ausschreibung-11387125.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-30T13:36:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "KI-„Gigafactorys“: EU-Kommission startet Ausschreibung Mit spezialisierten KI-Großrechenzentren soll der erwartete EU-Bedarf an Rechenkapazität in den kommenden Jahren gedeckt werden.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "91044ce770196f3a2c11f69a",
+      "title": "Carwow: Interesse an chinesischen Automarken steigt",
+      "url": "https://www.golem.de/news/carwow-interesse-an-chinesischen-automarken-steigt-2607-211454.html",
+      "published_at": "2026-07-30T13:11:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Carwow: Interesse an chinesischen Automarken steigt Die Autohandelsplattform Carwow hat Nutzerdaten ausgewertet: Deutsche Autofahrer verlieren offenbar die Scheu vor Herstellern aus China. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7d6623b74c7cc7983964cfed",
+      "title": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0.",
+      "url": "https://www.pv-magazine.de/2026/07/30/leistungspreis-plus-modell-als-marktbasiertes-konzept-zur-einbindung-von-kleinstflexibilitaeten-in-den-redispatch-3-0/",
+      "published_at": "2026-07-30T13:06:55Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0. Tennet und Transnet BW suchen im Projekt „DataFleX“ nach Wegen, wie Kleinstflexibilitäten wie Photovoltaik-Heimspeicher, Elektroautobatterien, Wärmepumpen oder gewerbliche Lasten in das Engpassmanagement der Netzbetreiber einbezogen werden können. Mit dem „Leistungpreis-Plus“-Mod",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8204e95adce8a97f4c67c793",
+      "title": "KI-Gigafactory: EU startet Milliardenprojekt für sieben KI-Gigafactories",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/ki-gigafactory-eu-kommission-infrastruktur-rechenzentren",
+      "published_at": "2026-07-30T11:40:39Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "KI-Gigafactory: EU startet Milliardenprojekt für sieben KI-Gigafactories Fördermittel in Milliardenhöhe stehen für den Ausbau der europäischen KI-Infrastruktur bereit. Deutsche Akteure ringen um den Zuschlag für die neuen Gigafactories.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f9d85af2ad66afd9bb430023",
+      "title": "25 Megawattstunden Batteriespeicher in sieben Monaten ans Netz gebracht",
+      "url": "https://www.pv-magazine.de/2026/07/30/25-megawattstunden-batteriespeicher-in-sieben-monaten-ans-netz-gebracht/",
+      "published_at": "2026-07-30T09:50:37Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "25 Megawattstunden Batteriespeicher in sieben Monaten ans Netz gebracht VWEW-Energie und Green Flexibility haben im bayerischen Marktoberdorf den neuen Speicher mit 10 Megawatt gemeinsam realisiert. Er wird netzneutral betrieben, womit er die regionalen Anforderungen des Stromnetzes berücksichtigt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0f1f7cd503b44f42671284dc",
+      "title": "Mercedes GLA vorgestellt: Der Doppel-Erbe",
+      "url": "https://www.heise.de/news/Mercedes-GLA-vorgestellt-der-Doppel-Erbe-11384673.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-07-30T07:58:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Mercedes GLA vorgestellt: Der Doppel-Erbe Mercedes beendet das teure Nebeneinander von GLA und EQA: Der neue GLA wird mit E-Antrieb und Hybriden zu haben sein. Den Anfang macht das Elektroauto.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "8484965a9e7239fa025b00dd",
       "title": "Mein Server muss länger leben als meine Firma",
@@ -4481,94 +4571,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "463b898b6a755102d6d7758b",
-      "title": "E-Car: Stellantis kündigt Elektroauto für 15.000 Euro an",
-      "url": "https://www.golem.de/news/e-car-stellantis-kuendigt-elektroauto-fuer-15-000-euro-an-2605-208831.html",
-      "published_at": "2026-05-19T14:44:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "E-Car: Stellantis kündigt Elektroauto für 15.000 Euro an Mit einem preiswerten Elektroauto will Stellantis den Markt der kleinen Autos in Europa wiederbeleben. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dfff01a5244cce07471d1630",
-      "title": "Bayern: Batteriehersteller Varta schließt Werk bei Nördlingen",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-05/varta-werk-schliessung-noerdlingen-apple-knopfzellen-gxe",
-      "published_at": "2026-05-19T14:23:15Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "Bayern: Batteriehersteller Varta schließt Werk bei Nördlingen Bisher stellte Varta in Nördlingen vor allem Knopfzellen für AirPods her. Doch Apple hat die Zusammenarbeit offenbar beendet. 350 Beschäftigte verlieren wohl ihren Job.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bd37bab1db79d9726df2b2e1",
-      "title": "Akkus: Apple springt ab, Varta-Produktion in Nördlingen muss schließen",
-      "url": "https://www.golem.de/news/akkus-apple-springt-ab-varta-werk-in-noerdlingen-muss-schliessen-2605-208827.html",
-      "published_at": "2026-05-19T13:36:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Akkus: Apple springt ab, Varta-Produktion in Nördlingen muss schließen Varta hat in Nördlingen winzige Lithium-Ionen-Akkus für Apples Airpods hergestellt. Nun muss die Produktion schließen. ( Apple , Akku )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dc7dcf55172ba3d0e42b2922",
-      "title": "Elektroautos können mit integrierter Photovoltaik in Mitteleuropa bis zu 55 Prozent ihres Strombedarfs decken",
-      "url": "https://www.pv-magazine.de/2026/05/19/elektroautos-koennen-mit-integrierter-photovoltaik-in-mitteleuropa-bis-zu-55-prozent-ihres-strombedarfs-decken/",
-      "published_at": "2026-05-19T12:45:47Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Elektroautos können mit integrierter Photovoltaik in Mitteleuropa bis zu 55 Prozent ihres Strombedarfs decken Ein Forschungsprojekt von Fraunhofer ISE und Partnern zeigt, dass fahrzeugintegrierte Photovoltaik die Belastung der Stromnetze erheblich reduzieren kann. Das Konzept lohnt sich besonders im Logistiksektor, da die LKW für Kühlung, Heizung und Hilfsaggregate viel Strom verbrauchen und die D",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e0bef9780ab6c315287d1123",
-      "title": "Batteriehersteller Varta muss Werk in Bayern schließen – 350 Mitarbeiter verlieren ihre Jobs",
-      "url": "https://www.rnd.de/wirtschaft/batteriehersteller-varta-muss-werk-in-bayern-schliessen-350-mitarbeiter-verlieren-ihre-jobs-IUGIMCGHZBBSLFQTMA3NZUYWV4.html",
-      "published_at": "2026-05-19T11:55:23Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Batteriehersteller Varta muss Werk in Bayern schließen – 350 Mitarbeiter verlieren ihre Jobs Beim Batteriehersteller Varta springt ein Großkunde ab. Ein Werk in Nördlingen in Bayern muss schließen, rund 350 Jobs sind weg. Wie es nun weitergeht.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "cdba56297795a3be9dd6c96c",
-      "title": "Elektroauto: Die wichtigsten Fragen und Antworten zur E-Auto-Förderung",
-      "url": "https://www.golem.de/news/elektroauto-die-wichtigsten-fragen-und-antworten-zur-e-auto-foerderung-2605-208811.html",
-      "published_at": "2026-05-19T09:57:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Die wichtigsten Fragen und Antworten zur E-Auto-Förderung Die neue Elektroautoförderung kann beantragt werden - es gibt aber einiges zu beachten. Golem fasst die wichtigsten Punkte zusammen. Von Tobias Költzsch ( Elektroauto , Brennstoffzelle )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "db9633342e37ea63c931af8d",
-      "title": "E-Auto-Förderung: An einem Strich gescheitert",
-      "url": "https://www.heise.de/hintergrund/E-Auto-Foerderung-An-einem-Strich-gescheitert-11298705.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-19T09:17:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "E-Auto-Förderung: An einem Strich gescheitert Die Förderung eines kleinen Elektroautos kam für unsere Autorin zum richtigen Zeitpunkt, würde ihr da nicht ein Strich einen Strich durch die Rechnung machen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "768857daee978d227acf783d",
-      "title": "Stellantis kündigt erschwingliches E-Auto für 2028 an",
-      "url": "https://www.heise.de/news/Stellantis-kuendigt-Elektro-Kleinstwagen-unter-dem-Projektnamen-E-Car-an-11298415.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-19T08:39:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Stellantis kündigt erschwingliches E-Auto für 2028 an Stellantis will ab 2028 ein „erschwingliches“ Elektroauto in Italien produzieren, um den Markt für kleine E-Autos im Einstiegssegment für sich zu beleben.",
-      "tags": [],
       "regions": []
     }
   ]
