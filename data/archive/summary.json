@@ -1,14 +1,36 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-29T19:44:25Z",
+  "generated_at_utc": "2026-07-30T07:42:45Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 419,
+  "total_in_archive": 421,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 157
+    "2026-07": 159
   },
   "recent_for_ui": [
+    {
+      "id": "8484965a9e7239fa025b00dd",
+      "title": "Mein Server muss länger leben als meine Firma",
+      "url": "https://www.pv-magazine.de/2026/07/30/mein-server-muss-laenger-leben-als-meine-firma/",
+      "published_at": "2026-07-30T07:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Mein Server muss länger leben als meine Firma Ab Februar 2027 braucht in der EU jeder Batteriespeicher über zwei Kilowattstunden einen eigenen digitalen Pass, abrufbar pro Seriennummer. Softwareentwickler Majid Goschka baut die Technik dafür und erklärt, warum die eigentliche Hürde nicht der QR-Code ist, sondern eine unscheinbare Frage: Woher kommen die Daten, und wer haftet am Ende für sie?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b15f7fdfe4d5c3f5a47b1dd1",
+      "title": "Ladesäulenregister: Deutschland verzeichnet über 200.000 öffentliche Ladepunkte",
+      "url": "https://www.golem.de/news/ladesaeulenregister-deutschland-verzeichnet-ueber-200-000-oeffentliche-ladepunkte-2607-211428.html",
+      "published_at": "2026-07-30T06:56:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ladesäulenregister: Deutschland verzeichnet über 200.000 öffentliche Ladepunkte Die Bundesnetzagentur meldet zum 1. Juli 2026 mehr als 209.000 öffentliche Ladepunkte in Deutschland. Der Schnellladeausbau wächst stark. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "063e3716f2a4778773223d84",
       "title": "Mercedes-Benz GLA vorgestellt: Der EQA-Nachfolger macht einen großen Schritt nach vorn",
@@ -4547,30 +4569,6 @@
       "language": "de",
       "summary": "Stellantis kündigt erschwingliches E-Auto für 2028 an Stellantis will ab 2028 ein „erschwingliches“ Elektroauto in Italien produzieren, um den Markt für kleine E-Autos im Einstiegssegment für sich zu beleben.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "62058ec54a6ccce0a6655c23",
-      "title": "Förderung: So beantragt man die neue Elektroauto-Prämie",
-      "url": "https://www.sueddeutsche.de/wirtschaft/elektroauto-praemie-deutschland-antrag-foerderung-li.3485418",
-      "published_at": "2026-05-19T08:33:55Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "Förderung: So beantragt man die neue Elektroauto-Prämie Ab sofort ist das Online-Portal freigeschaltet, über das man bis zu 6000 Euro für sein E-Auto erstattet bekommen kann. Was man dafür braucht – und wo es kompliziert werden kann.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "06bc182969b743ed25436e49",
-      "title": "Anzeige: Neuer Stromspeicher erleichtert Nachrüsten per Plug-and-Play",
-      "url": "https://www.golem.de/news/anzeige-neuer-stromspeicher-erleichtert-nachruesten-per-plug-and-play-2605-208752.html",
-      "published_at": "2026-05-19T07:05:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Neuer Stromspeicher erleichtert Nachrüsten per Plug-and-Play Viele Solaranlagen produzieren mehr Strom als direkt genutzt werden kann. Moderne Speicherlösungen wie die neue Anker SOLIX Solarbank Max AC helfen dabei, diesen Überschuss effizient zu speichern und später zu nutzen. ( Anker , Energie & Klima )",
-      "tags": [
-        "umwelt"
-      ],
       "regions": []
     }
   ]
