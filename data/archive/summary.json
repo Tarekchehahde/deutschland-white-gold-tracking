@@ -1,14 +1,27 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-30T19:52:48Z",
+  "generated_at_utc": "2026-07-31T08:09:20Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 429,
+  "total_in_archive": 430,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 167
+    "2026-07": 168
   },
   "recent_for_ui": [
+    {
+      "id": "d81f900af768fea87edcf0c9",
+      "title": "Kritische Rohstoffe: Europas wirtschaftliche Freiheit wird auch in Hanau verteidigt",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/vac-vacuumschmelze-hanau-verkauf-an-us-konzern-201069100.html",
+      "published_at": "2026-07-31T07:18:00Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Kritische Rohstoffe: Europas wirtschaftliche Freiheit wird auch in Hanau verteidigt Der Bund muss den Verkauf des Magnetherstellers VAC aus Hanau prüfen. Das Unternehmen ist von strategischer Bedeutung. Warum bleibt die Industrie so passiv?",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "89a59beadba7e4e38aad8d2e",
       "title": "Ferrari: Elektroauto »Luce« erreicht Absatzziel offenbar vorzeitig",
@@ -57,12 +70,12 @@
     },
     {
       "id": "7d6623b74c7cc7983964cfed",
-      "title": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0.",
+      "title": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0",
       "url": "https://www.pv-magazine.de/2026/07/30/leistungspreis-plus-modell-als-marktbasiertes-konzept-zur-einbindung-von-kleinstflexibilitaeten-in-den-redispatch-3-0/",
       "published_at": "2026-07-30T13:06:55Z",
       "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0. Tennet und Transnet BW suchen im Projekt „DataFleX“ nach Wegen, wie Kleinstflexibilitäten wie Photovoltaik-Heimspeicher, Elektroautobatterien, Wärmepumpen oder gewerbliche Lasten in das Engpassmanagement der Netzbetreiber einbezogen werden können. Mit dem „Leistungpreis-Plus“-Mod",
+      "summary": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0 Tennet und Transnet BW suchen im Projekt „DataFleX“ nach Wegen, wie Kleinstflexibilitäten wie Photovoltaik-Heimspeicher, Elektroautobatterien, Wärmepumpen oder gewerbliche Lasten in das Engpassmanagement der Netzbetreiber einbezogen werden können. Mit dem „Leistungpreis-Plus“-Mode",
       "tags": [],
       "regions": []
     },
@@ -4558,19 +4571,6 @@
       "language": "de",
       "summary": "Verbrenner-Aus: Die Gefahren der Technologieoffenheit Ohne das Verbrenner-Aus dürfte sich der Hochlauf der E-Mobilität stark verlangsamen. Zu viele Antriebsversionen könnten auch die Hersteller überfordern. ( Verbrennerverbot , Elektroauto )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3bc942124c18e659616b12db",
-      "title": "Ellwanger Batteriehersteller VARTA streicht 350 Stellen",
-      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-ellwanger-batteriehersteller-varta-schliesst-produktionslinie-in-noerdlingen-100.html",
-      "published_at": "2026-05-19T15:17:00Z",
-      "source_id": "tagesschau-bw",
-      "language": "de",
-      "summary": "Ellwanger Batteriehersteller VARTA streicht 350 Stellen Der Ellwanger Batteriehersteller VARTA stellt die Produktion von Knopfzellen am Standort in Nördlingen ein. Das teilte das Unternehmen mit. 350 Beschäftigte sind betroffen.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]

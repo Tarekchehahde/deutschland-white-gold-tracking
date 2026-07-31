@@ -2,14 +2,16 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "89a59beadba7e4e38aad8d2e",
-      "title": "Ferrari: Elektroauto »Luce« erreicht Absatzziel offenbar vorzeitig",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/ferrari-elektroauto-luce-erreicht-absatzziel-offenbar-vorzeitig-a-1042adf8-9781-484a-9d45-ee8cfa8254a4",
-      "published_at": "2026-07-30T16:28:00Z",
-      "source_id": "spiegel-schlagzeilen",
+      "id": "d81f900af768fea87edcf0c9",
+      "title": "Kritische Rohstoffe: Europas wirtschaftliche Freiheit wird auch in Hanau verteidigt",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/vac-vacuumschmelze-hanau-verkauf-an-us-konzern-201069100.html",
+      "published_at": "2026-07-31T07:18:00Z",
+      "source_id": "faz-aktuell",
       "language": "de",
-      "summary": "Ferrari: Elektroauto »Luce« erreicht Absatzziel offenbar vorzeitig Als Ferrari im Mai ein E-Auto vorstellte, prophezeite manch einer den Untergang der Marke. Das Jahresziel für den Luce ist aber wohl schon geknackt.",
-      "tags": [],
+      "summary": "Kritische Rohstoffe: Europas wirtschaftliche Freiheit wird auch in Hanau verteidigt Der Bund muss den Verkauf des Magnetherstellers VAC aus Hanau prüfen. Das Unternehmen ist von strategischer Bedeutung. Warum bleibt die Industrie so passiv?",
+      "tags": [
+        "industrie"
+      ],
       "regions": []
     },
     {
@@ -49,12 +51,12 @@
     },
     {
       "id": "7d6623b74c7cc7983964cfed",
-      "title": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0.",
+      "title": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0",
       "url": "https://www.pv-magazine.de/2026/07/30/leistungspreis-plus-modell-als-marktbasiertes-konzept-zur-einbindung-von-kleinstflexibilitaeten-in-den-redispatch-3-0/",
       "published_at": "2026-07-30T13:06:55Z",
       "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0. Tennet und Transnet BW suchen im Projekt „DataFleX“ nach Wegen, wie Kleinstflexibilitäten wie Photovoltaik-Heimspeicher, Elektroautobatterien, Wärmepumpen oder gewerbliche Lasten in das Engpassmanagement der Netzbetreiber einbezogen werden können. Mit dem „Leistungpreis-Plus“-Mod",
+      "summary": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0 Tennet und Transnet BW suchen im Projekt „DataFleX“ nach Wegen, wie Kleinstflexibilitäten wie Photovoltaik-Heimspeicher, Elektroautobatterien, Wärmepumpen oder gewerbliche Lasten in das Engpassmanagement der Netzbetreiber einbezogen werden können. Mit dem „Leistungpreis-Plus“-Mode",
       "tags": [],
       "regions": []
     },
@@ -99,17 +101,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Mein Server muss länger leben als meine Firma Ab Februar 2027 braucht in der EU jeder Batteriespeicher über zwei Kilowattstunden einen eigenen digitalen Pass, abrufbar pro Seriennummer. Softwareentwickler Majid Goschka baut die Technik dafür und erklärt, warum die eigentliche Hürde nicht der QR-Code ist, sondern eine unscheinbare Frage: Woher kommen die Daten, und wer haftet am Ende für sie?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f3b65c36c883d89339a28d59",
-      "title": "Stromspeicher Zendure Solarflow 800 Plus im Test: günstig & sehr effizient",
-      "url": "https://www.heise.de/bestenlisten/testbericht/stromspeicher-zendure-solarflow-800-plus-im-test-guenstig-und-sehr-effizient/vt19bgv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-29T14:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Stromspeicher Zendure Solarflow 800 Plus im Test: günstig & sehr effizient Zendure Solarflow 800 Plus überzeugt mit hohem Wirkungsgrad & flexibler Erweiterung. Der ideale Speicher für kleine Balkonkraftwerke.",
       "tags": [],
       "regions": []
     }
