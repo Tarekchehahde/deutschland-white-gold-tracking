@@ -1,14 +1,25 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-31T08:09:20Z",
+  "generated_at_utc": "2026-07-31T19:53:01Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 430,
+  "total_in_archive": 431,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 168
+    "2026-07": 169
   },
   "recent_for_ui": [
+    {
+      "id": "95a0e6cb597c3e2f95f7c9dc",
+      "title": "Tesla: Elon Musk dementiert Gerüchte um Verkauf von China-Geschäft",
+      "url": "https://www.golem.de/news/tesla-elon-musk-dementiert-geruechte-um-verkauf-von-china-geschaeft-2607-211495.html",
+      "published_at": "2026-07-31T13:41:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Elon Musk dementiert Gerüchte um Verkauf von China-Geschäft Das China-Geschäft von Tesla steht einem möglichen Zusammenschluss mit SpaceX im Weg - Gerüchte um einen Verkauf dementiert Elon Musk. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d81f900af768fea87edcf0c9",
       "title": "Kritische Rohstoffe: Europas wirtschaftliche Freiheit wird auch in Hanau verteidigt",
@@ -4559,17 +4570,6 @@
       "source_id": "zdf-nachrichten",
       "language": "de",
       "summary": "Zuschüsse für E-Autos: So kommen Sie an die Förderung Elektroautos werden 2026 wieder staatlich gefördert. Zuschüsse bis zu 6.000 Euro und Steuererleichterungen sollen den Umstieg attraktiver machen. Wer Anspruch auf Förderungen hat.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8c7483d3f0c2589631d21c91",
-      "title": "Verbrenner-Aus: Die Gefahren der Technologieoffenheit",
-      "url": "https://www.golem.de/news/verbrenner-aus-die-gefahren-der-technologieoffenheit-2605-208842.html",
-      "published_at": "2026-05-19T17:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Verbrenner-Aus: Die Gefahren der Technologieoffenheit Ohne das Verbrenner-Aus dürfte sich der Hochlauf der E-Mobilität stark verlangsamen. Zu viele Antriebsversionen könnten auch die Hersteller überfordern. ( Verbrennerverbot , Elektroauto )",
       "tags": [],
       "regions": []
     }
