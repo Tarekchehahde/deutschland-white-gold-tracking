@@ -2,16 +2,14 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "d81f900af768fea87edcf0c9",
-      "title": "Kritische Rohstoffe: Europas wirtschaftliche Freiheit wird auch in Hanau verteidigt",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/vac-vacuumschmelze-hanau-verkauf-an-us-konzern-201069100.html",
-      "published_at": "2026-07-31T07:18:00Z",
-      "source_id": "faz-aktuell",
+      "id": "95a0e6cb597c3e2f95f7c9dc",
+      "title": "Tesla: Elon Musk dementiert Gerüchte um Verkauf von China-Geschäft",
+      "url": "https://www.golem.de/news/tesla-elon-musk-dementiert-geruechte-um-verkauf-von-china-geschaeft-2607-211495.html",
+      "published_at": "2026-07-31T13:41:01Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "Kritische Rohstoffe: Europas wirtschaftliche Freiheit wird auch in Hanau verteidigt Der Bund muss den Verkauf des Magnetherstellers VAC aus Hanau prüfen. Das Unternehmen ist von strategischer Bedeutung. Warum bleibt die Industrie so passiv?",
-      "tags": [
-        "industrie"
-      ],
+      "summary": "Tesla: Elon Musk dementiert Gerüchte um Verkauf von China-Geschäft Das China-Geschäft von Tesla steht einem möglichen Zusammenschluss mit SpaceX im Weg - Gerüchte um einen Verkauf dementiert Elon Musk. ( Tesla , Elektroauto )",
+      "tags": [],
       "regions": []
     },
     {
@@ -36,17 +34,6 @@
       "tags": [
         "politik"
       ],
-      "regions": []
-    },
-    {
-      "id": "91044ce770196f3a2c11f69a",
-      "title": "Carwow: Interesse an chinesischen Automarken steigt",
-      "url": "https://www.golem.de/news/carwow-interesse-an-chinesischen-automarken-steigt-2607-211454.html",
-      "published_at": "2026-07-30T13:11:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Carwow: Interesse an chinesischen Automarken steigt Die Autohandelsplattform Carwow hat Nutzerdaten ausgewertet: Deutsche Autofahrer verlieren offenbar die Scheu vor Herstellern aus China. ( Elektroauto , Auto )",
-      "tags": [],
       "regions": []
     },
     {
@@ -79,28 +66,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "25 Megawattstunden Batteriespeicher in sieben Monaten ans Netz gebracht VWEW-Energie und Green Flexibility haben im bayerischen Marktoberdorf den neuen Speicher mit 10 Megawatt gemeinsam realisiert. Er wird netzneutral betrieben, womit er die regionalen Anforderungen des Stromnetzes berücksichtigt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0f1f7cd503b44f42671284dc",
-      "title": "Mercedes GLA vorgestellt: Der Doppel-Erbe",
-      "url": "https://www.heise.de/news/Mercedes-GLA-vorgestellt-der-Doppel-Erbe-11384673.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-30T07:58:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Mercedes GLA vorgestellt: Der Doppel-Erbe Mercedes beendet das teure Nebeneinander von GLA und EQA: Der neue GLA wird mit E-Antrieb und Hybriden zu haben sein. Den Anfang macht das Elektroauto.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8484965a9e7239fa025b00dd",
-      "title": "Mein Server muss länger leben als meine Firma",
-      "url": "https://www.pv-magazine.de/2026/07/30/mein-server-muss-laenger-leben-als-meine-firma/",
-      "published_at": "2026-07-30T07:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Mein Server muss länger leben als meine Firma Ab Februar 2027 braucht in der EU jeder Batteriespeicher über zwei Kilowattstunden einen eigenen digitalen Pass, abrufbar pro Seriennummer. Softwareentwickler Majid Goschka baut die Technik dafür und erklärt, warum die eigentliche Hürde nicht der QR-Code ist, sondern eine unscheinbare Frage: Woher kommen die Daten, und wer haftet am Ende für sie?",
       "tags": [],
       "regions": []
     }
