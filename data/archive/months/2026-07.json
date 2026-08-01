@@ -1,8 +1,21 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 169,
+  "article_count": 170,
   "articles": [
+    {
+      "id": "d0a437cd34c70cb5e8701851",
+      "title": "Mit einem 2400 Meter tiefen Bohrloch: Wie ein Startup ein sterbendes Kraftwerk wiederbelebte",
+      "url": "https://t3n.de/news/bohrloch-startup-kraftwerk-1755600/",
+      "published_at": "2026-07-31T14:00:43Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Mit einem 2400 Meter tiefen Bohrloch: Wie ein Startup ein sterbendes Kraftwerk wiederbelebte Das Startup Zanskar will zeigen, dass auch alte Geothermiekraftwerke eine Chance verdienen. Eine Anlage in den USA wird jetzt mit neuer Technik wiederbelebt. Im Juni 2024 erwarb ein junges Unternehmen namens Zanskar Geothermal ein Geothermiekraftwerk im US-Bundesstaat New Mexico, das zum damaligen Zeitpunk",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "95a0e6cb597c3e2f95f7c9dc",
       "title": "Tesla: Elon Musk dementiert Gerüchte um Verkauf von China-Geschäft",

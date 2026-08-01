@@ -2,6 +2,19 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "d0a437cd34c70cb5e8701851",
+      "title": "Mit einem 2400 Meter tiefen Bohrloch: Wie ein Startup ein sterbendes Kraftwerk wiederbelebte",
+      "url": "https://t3n.de/news/bohrloch-startup-kraftwerk-1755600/",
+      "published_at": "2026-07-31T14:00:43Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Mit einem 2400 Meter tiefen Bohrloch: Wie ein Startup ein sterbendes Kraftwerk wiederbelebte Das Startup Zanskar will zeigen, dass auch alte Geothermiekraftwerke eine Chance verdienen. Eine Anlage in den USA wird jetzt mit neuer Technik wiederbelebt. Im Juni 2024 erwarb ein junges Unternehmen namens Zanskar Geothermal ein Geothermiekraftwerk im US-Bundesstaat New Mexico, das zum damaligen Zeitpunk",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "95a0e6cb597c3e2f95f7c9dc",
       "title": "Tesla: Elon Musk dementiert Gerüchte um Verkauf von China-Geschäft",
       "url": "https://www.golem.de/news/tesla-elon-musk-dementiert-geruechte-um-verkauf-von-china-geschaeft-2607-211495.html",
@@ -44,17 +57,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "„Leistungspreis-Plus“-Modell als marktbasiertes Konzept zur Einbindung von Kleinstflexibilitäten in den Redispatch 3.0 Tennet und Transnet BW suchen im Projekt „DataFleX“ nach Wegen, wie Kleinstflexibilitäten wie Photovoltaik-Heimspeicher, Elektroautobatterien, Wärmepumpen oder gewerbliche Lasten in das Engpassmanagement der Netzbetreiber einbezogen werden können. Mit dem „Leistungpreis-Plus“-Mode",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8204e95adce8a97f4c67c793",
-      "title": "KI-Gigafactory: EU startet Milliardenprojekt für sieben KI-Gigafactories",
-      "url": "https://www.zeit.de/wirtschaft/2026-07/ki-gigafactory-eu-kommission-infrastruktur-rechenzentren",
-      "published_at": "2026-07-30T11:40:39Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "KI-Gigafactory: EU startet Milliardenprojekt für sieben KI-Gigafactories Fördermittel in Milliardenhöhe stehen für den Ausbau der europäischen KI-Infrastruktur bereit. Deutsche Akteure ringen um den Zuschlag für die neuen Gigafactories.",
       "tags": [],
       "regions": []
     },
