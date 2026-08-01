@@ -1,14 +1,27 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-07-31T19:53:01Z",
+  "generated_at_utc": "2026-08-01T07:37:47Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 431,
+  "total_in_archive": 432,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
-    "2026-07": 169
+    "2026-07": 170
   },
   "recent_for_ui": [
+    {
+      "id": "d0a437cd34c70cb5e8701851",
+      "title": "Mit einem 2400 Meter tiefen Bohrloch: Wie ein Startup ein sterbendes Kraftwerk wiederbelebte",
+      "url": "https://t3n.de/news/bohrloch-startup-kraftwerk-1755600/",
+      "published_at": "2026-07-31T14:00:43Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Mit einem 2400 Meter tiefen Bohrloch: Wie ein Startup ein sterbendes Kraftwerk wiederbelebte Das Startup Zanskar will zeigen, dass auch alte Geothermiekraftwerke eine Chance verdienen. Eine Anlage in den USA wird jetzt mit neuer Technik wiederbelebt. Im Juni 2024 erwarb ein junges Unternehmen namens Zanskar Geothermal ein Geothermiekraftwerk im US-Bundesstaat New Mexico, das zum damaligen Zeitpunk",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "95a0e6cb597c3e2f95f7c9dc",
       "title": "Tesla: Elon Musk dementiert Gerüchte um Verkauf von China-Geschäft",
@@ -4559,17 +4572,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektroauto: Skoda Epiq kostet knapp 26.000 Euro Skoda stellt ein City-SUV vor, das nicht teurer als ein vergleichbarer Verbrenner sein soll. Ab Ende September 2026 ist das E-Auto bestellbar. ( Skoda , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1c1f857112d9eb13a259ad6c",
-      "title": "Zuschüsse für E-Autos: So kommen Sie an die Förderung",
-      "url": "https://www.zdfheute.de/ratgeber/e-auto-foerderung-praemie-elektroauto-100.html",
-      "published_at": "2026-05-20T04:03:00Z",
-      "source_id": "zdf-nachrichten",
-      "language": "de",
-      "summary": "Zuschüsse für E-Autos: So kommen Sie an die Förderung Elektroautos werden 2026 wieder staatlich gefördert. Zuschüsse bis zu 6.000 Euro und Steuererleichterungen sollen den Umstieg attraktiver machen. Wer Anspruch auf Förderungen hat.",
       "tags": [],
       "regions": []
     }
