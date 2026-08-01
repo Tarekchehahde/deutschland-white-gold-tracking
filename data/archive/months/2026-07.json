@@ -1,7 +1,7 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 170,
+  "article_count": 171,
   "articles": [
     {
       "id": "d0a437cd34c70cb5e8701851",
@@ -25,6 +25,19 @@
       "language": "de",
       "summary": "Tesla: Elon Musk dementiert Gerüchte um Verkauf von China-Geschäft Das China-Geschäft von Tesla steht einem möglichen Zusammenschluss mit SpaceX im Weg - Gerüchte um einen Verkauf dementiert Elon Musk. ( Tesla , Elektroauto )",
       "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b2cf8eed0340a693751f7447",
+      "title": "Vom Öl zu Lithium: Wie die Energiewende Asiens Geopolitik verändert",
+      "url": "https://www.dw.com/de/vom-öl-zu-lithium-wie-die-energiewende-asiens-geopolitik-verändert/a-78189922?maca=de-rss-de-eco-1018-xml-mrss",
+      "published_at": "2026-07-31T13:11:00Z",
+      "source_id": "dw-wirtschaft",
+      "language": "de",
+      "summary": "Vom Öl zu Lithium: Wie die Energiewende Asiens Geopolitik verändert Mit der Energiewende wollen Indien und China ihre Abhängigkeit von Öl und Gas verringern. Doch an die Stelle fossiler Energien treten neue geopolitische Risiken - von kritischen Mineralien bis zu globalen Lieferketten.",
+      "tags": [
+        "industrie"
+      ],
       "regions": []
     },
     {

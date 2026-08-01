@@ -2,6 +2,17 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "73e537fb2ccc2ec676c7dca0",
+      "title": "Anzeige: Mobile Wallbox 11 kW und Zubehör für nur 142,45 Euro bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-11-kw-und-zubehoer-fuer-nur-142-45-euro-bei-amazon-2608-211498.html",
+      "published_at": "2026-08-01T08:40:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Mobile Wallbox 11 kW und Zubehör für nur 142,45 Euro bei Amazon Diese Mobile Wallbox lädt mit bis zu 11 kW über CEE-Stecker und Typ-2-Kabel. Liegt bei Amazon nur rund fünf Euro über dem Bestpreis. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "d0a437cd34c70cb5e8701851",
       "title": "Mit einem 2400 Meter tiefen Bohrloch: Wie ein Startup ein sterbendes Kraftwerk wiederbelebte",
       "url": "https://t3n.de/news/bohrloch-startup-kraftwerk-1755600/",
@@ -23,6 +34,19 @@
       "language": "de",
       "summary": "Tesla: Elon Musk dementiert Gerüchte um Verkauf von China-Geschäft Das China-Geschäft von Tesla steht einem möglichen Zusammenschluss mit SpaceX im Weg - Gerüchte um einen Verkauf dementiert Elon Musk. ( Tesla , Elektroauto )",
       "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b2cf8eed0340a693751f7447",
+      "title": "Vom Öl zu Lithium: Wie die Energiewende Asiens Geopolitik verändert",
+      "url": "https://www.dw.com/de/vom-öl-zu-lithium-wie-die-energiewende-asiens-geopolitik-verändert/a-78189922?maca=de-rss-de-eco-1018-xml-mrss",
+      "published_at": "2026-07-31T13:11:00Z",
+      "source_id": "dw-wirtschaft",
+      "language": "de",
+      "summary": "Vom Öl zu Lithium: Wie die Energiewende Asiens Geopolitik verändert Mit der Energiewende wollen Indien und China ihre Abhängigkeit von Öl und Gas verringern. Doch an die Stelle fossiler Energien treten neue geopolitische Risiken - von kritischen Mineralien bis zu globalen Lieferketten.",
+      "tags": [
+        "industrie"
+      ],
       "regions": []
     },
     {
