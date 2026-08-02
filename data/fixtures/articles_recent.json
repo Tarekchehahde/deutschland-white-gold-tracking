@@ -2,17 +2,6 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "73e537fb2ccc2ec676c7dca0",
-      "title": "Anzeige: Mobile Wallbox 11 kW und Zubehör für nur 142,45 Euro bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-11-kw-und-zubehoer-fuer-nur-142-45-euro-bei-amazon-2608-211498.html",
-      "published_at": "2026-08-01T08:40:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Mobile Wallbox 11 kW und Zubehör für nur 142,45 Euro bei Amazon Diese Mobile Wallbox lädt mit bis zu 11 kW über CEE-Stecker und Typ-2-Kabel. Liegt bei Amazon nur rund fünf Euro über dem Bestpreis. ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "d0a437cd34c70cb5e8701851",
       "title": "Mit einem 2400 Meter tiefen Bohrloch: Wie ein Startup ein sterbendes Kraftwerk wiederbelebte",
       "url": "https://t3n.de/news/bohrloch-startup-kraftwerk-1755600/",
@@ -23,17 +12,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "95a0e6cb597c3e2f95f7c9dc",
-      "title": "Tesla: Elon Musk dementiert Gerüchte um Verkauf von China-Geschäft",
-      "url": "https://www.golem.de/news/tesla-elon-musk-dementiert-geruechte-um-verkauf-von-china-geschaeft-2607-211495.html",
-      "published_at": "2026-07-31T13:41:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla: Elon Musk dementiert Gerüchte um Verkauf von China-Geschäft Das China-Geschäft von Tesla steht einem möglichen Zusammenschluss mit SpaceX im Weg - Gerüchte um einen Verkauf dementiert Elon Musk. ( Tesla , Elektroauto )",
-      "tags": [],
       "regions": []
     },
     {
@@ -58,19 +36,6 @@
       "language": "de",
       "summary": "Axpo unterzeichnet 10-jährigen Tolling-Vertrag für Speicherprojekt mit 830 Megawattstunden in Italien Axpo hat den Tolling-Vertrag mit mit Zelestra geschlossen. Es handelt sich um ein Batteriespeicher-Projekt mit einer Leistung von 207 Megawatt und einer Kapazität von 830 Megawattstunden im Nordosten Italiens.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ed02dfc544bf731d9b0dc96e",
-      "title": "KI-„Gigafactorys“: EU-Kommission startet Ausschreibung",
-      "url": "https://www.heise.de/news/AI-Gigafactorys-EU-Kommission-startet-Ausschreibung-11387125.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-30T13:36:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "KI-„Gigafactorys“: EU-Kommission startet Ausschreibung Mit spezialisierten KI-Großrechenzentren soll der erwartete EU-Bedarf an Rechenkapazität in den kommenden Jahren gedeckt werden.",
-      "tags": [
-        "politik"
-      ],
       "regions": []
     },
     {
