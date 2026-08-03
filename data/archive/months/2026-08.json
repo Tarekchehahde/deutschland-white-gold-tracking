@@ -1,16 +1,27 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 3,
+  "article_count": 4,
   "articles": [
     {
       "id": "d3df87b982fd17424dc4ac3e",
       "title": "V2G: Was Kunden wollen und was der Markt anbietet",
       "url": "https://www.pv-magazine.de/2026/08/03/v2g-was-kunden-wollen-und-was-der-markt-anbietet/",
-      "published_at": "2026-08-03T07:30:00Z",
+      "published_at": "2026-08-03T15:11:00Z",
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "V2G: Was Kunden wollen und was der Markt anbietet pv+: Die ersten kommerziellen Vehicle-to-Grid-Angebote sind gestartet. BMW, Ford, Renault oder Octopus Energy versprechen Einnahmen für angeschlossene Elektroautos und machen Fahrzeugbatterien zu einem Teil des Energiesystems. Doch die Modelle unterscheiden sich bei Vergütung und Transparenz. Für Installateure entsteht damit ein neues Beratungsfeld",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7598b3a8dd9a7b03cc4a2d8b",
+      "title": "Solarauto Sion: Sono Motors endgültig pleite",
+      "url": "https://www.golem.de/news/solarauto-sion-insolvente-firma-sono-motors-verkauft-hardware-und-know-how-2608-211536.html",
+      "published_at": "2026-08-03T09:42:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Solarauto Sion: Sono Motors endgültig pleite Nach zehn Jahren gescheiterter Versuche zum Bau eines Solarautos ist Sono Motors Geschichte. Die frühere Mutterfirma macht mit Bitcoins weiter. ( Sono Motors , Elektroauto )",
       "tags": [],
       "regions": []
     },
