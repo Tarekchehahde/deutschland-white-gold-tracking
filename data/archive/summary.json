@@ -1,15 +1,37 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-02T19:35:03Z",
+  "generated_at_utc": "2026-08-03T08:42:21Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 434,
+  "total_in_archive": 436,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 1
+    "2026-08": 3
   },
   "recent_for_ui": [
+    {
+      "id": "d3df87b982fd17424dc4ac3e",
+      "title": "V2G: Was Kunden wollen und was der Markt anbietet",
+      "url": "https://www.pv-magazine.de/2026/08/03/v2g-was-kunden-wollen-und-was-der-markt-anbietet/",
+      "published_at": "2026-08-03T07:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "V2G: Was Kunden wollen und was der Markt anbietet pv+: Die ersten kommerziellen Vehicle-to-Grid-Angebote sind gestartet. BMW, Ford, Renault oder Octopus Energy versprechen Einnahmen für angeschlossene Elektroautos und machen Fahrzeugbatterien zu einem Teil des Energiesystems. Doch die Modelle unterscheiden sich bei Vergütung und Transparenz. Für Installateure entsteht damit ein neues Beratungsfeld",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ee31f0f53277cc36478eaa62",
+      "title": "Elektro-Mobilität: Hersteller gewähren weniger Rabatte auf E-Autos",
+      "url": "https://www.spiegel.de/wirtschaft/elektro-mobilitaet-hersteller-gewaehren-weniger-rabatte-auf-e-autos-a-984ca9d5-a17a-4dbf-8b7b-6c7db8a1c49d",
+      "published_at": "2026-08-03T05:32:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektro-Mobilität: Hersteller gewähren weniger Rabatte auf E-Autos Die Nachfrage nach Elektroautos wächst. So gut, dass Kaufanreize offenbar überflüssig werden. Die Hersteller jedenfalls knausern zunehmend mit Rabatten.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "73e537fb2ccc2ec676c7dca0",
       "title": "Anzeige: Mobile Wallbox 11 kW und Zubehör für nur 142,45 Euro bei Amazon",
@@ -4554,28 +4576,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "ee75f1dfca1af1c5224db314",
-      "title": "Automarkt im Wandel: Leapesgrüße aus Hangzhou",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/kooperation-von-opel-und-leapmotor-automarkt-im-wandel-accg-200826264.html",
-      "published_at": "2026-05-20T07:32:47Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Automarkt im Wandel: Leapesgrüße aus Hangzhou China hat Europas Autos kopiert. China hat Europas Autos gekauft. Jetzt entwickelt China selbst. Und baut Elektroautos für Europa. Etwa unter der Marke Opel. Das ist irgendwas zwischen Erdrutsch und Weckruf.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0f6b1ddb3f8c4e0630353145",
-      "title": "Elektroauto: Der neue Mercedes-AMG GT 4-Türer kommt mit Axial-Fluss-Motoren",
-      "url": "https://www.golem.de/news/elektroauto-der-neue-mercedes-amg-gt-4-tuerer-kommt-mit-axial-fluss-motoren-2605-208853.html",
-      "published_at": "2026-05-20T07:13:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Der neue Mercedes-AMG GT 4-Türer kommt mit Axial-Fluss-Motoren Mercedes-AMG hat das neue GT-4-Türer-Coupé in den zwei Varianten GT 63 und GT 55 vorgestellt. ( Mercedes Benz , Elektroauto )",
-      "tags": [],
       "regions": []
     }
   ]
