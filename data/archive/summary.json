@@ -1,15 +1,26 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-03T19:58:35Z",
+  "generated_at_utc": "2026-08-04T07:48:01Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 437,
+  "total_in_archive": 438,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 4
+    "2026-08": 5
   },
   "recent_for_ui": [
+    {
+      "id": "ed5e9b96a771e025c5f1d6f1",
+      "title": "Erste Fahrt im Audi A2 e-tron: Retro-Design für moderne Elektroauto-Technik",
+      "url": "https://www.heise.de/tests/Erste-Fahrt-im-Audi-A2-e-tron-Retro-Design-fuer-moderne-Elektroauto-Technik-11395600.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-08-03T22:01:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Erste Fahrt im Audi A2 e-tron: Retro-Design für moderne Elektroauto-Technik Audi lässt den A2 als Elektroauto wiederaufleben. Eine Fahrt in einem Vorserien-A2 e-tron wirft die Frage auf, ob der A2 als E-Auto den hohen Preis wert ist.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d3df87b982fd17424dc4ac3e",
       "title": "V2G: Was Kunden wollen und was der Markt anbietet",
@@ -4561,19 +4572,6 @@
       "language": "de",
       "summary": "Elektromobilität: Solarzellen an Fahrzeugen senken Ladebedarf entscheidend Abhängig von Standort und Nutzung können bis zu 80 Prozent der Energie direkt erzeugt werden. Besonders Lkw können profitieren. ( Elektromobilität , Elektroauto )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "248e8f125222b3eff6e3e34d",
-      "title": "Carbon gibt Pläne für Bau von Photovoltaik-Gigafactory in Frankreich auf",
-      "url": "https://www.pv-magazine.de/2026/05/20/carbon-gibt-plaene-fuer-bau-von-photovoltaik-gigafactory-in-frankreich-auf/",
-      "published_at": "2026-05-20T09:30:42Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Carbon gibt Pläne für Bau von Photovoltaik-Gigafactory in Frankreich auf Carbon hat den Bau einer Gigafactory in Südfrankreich wegen regulatorischer Unsicherheiten und fehlender Investorengarantien aufgegeben. Das Unternehmen wollte eine integrierte Fünf-Gigawatt-Produktionskette in Frankreich aufbauen. Carbon hatte zuvor versucht, das Projekt zu verkleinern und Partnerschaften aufzubauen, unter a",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]
