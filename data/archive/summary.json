@@ -1,15 +1,59 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-04T07:48:01Z",
+  "generated_at_utc": "2026-08-04T19:56:57Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 438,
+  "total_in_archive": 442,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 5
+    "2026-08": 9
   },
   "recent_for_ui": [
+    {
+      "id": "9529718507a52a2fa25bbdfc",
+      "title": "Autorabatte 2026: Verbrenner mit 19 Prozent Nachlass – E-Autos deutlich weniger",
+      "url": "https://www.rnd.de/wirtschaft/autorabatte-2026-verbrenner-mit-19-prozent-nachlass-e-autos-deutlich-weniger-7TJBFCUBXBGOZDBLJFOT7J6Y2U.html",
+      "published_at": "2026-08-04T15:06:00Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Autorabatte 2026: Verbrenner mit 19 Prozent Nachlass – E-Autos deutlich weniger Autokäufer können derzeit kräftig sparen: Die Rabatte für Verbrenner sind auf durchschnittlich 19,4 Prozent gestiegen. Elektroautos werden dagegen mit nur noch 17,6 Prozent Nachlass angeboten. Und auch VW gewährt satte Rabatte.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9ab84980549864a223998a5a",
+      "title": "Batteriespeicher: Ein Heimspeicher, der nicht zu Hause installiert wird",
+      "url": "https://www.golem.de/news/batteriespeicher-ein-heimspeicher-der-nicht-zu-hause-installiert-wird-2608-211584.html",
+      "published_at": "2026-08-04T11:44:04Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Batteriespeicher: Ein Heimspeicher, der nicht zu Hause installiert wird Batteriehersteller in den USA vertreiben Akkus, die außerhalb des eigenen Stromzählers angeschlossen werden. Das ergibt gleich mehrfach Sinn. ( Energiewende , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "af76cbb72941496dcf4e34cc",
+      "title": "Brandprävention bei Großspeichern: Vorlaufzeit statt Aktionismus",
+      "url": "https://www.pv-magazine.de/2026/08/04/brandpraevention-bei-grossspeichern-vorlaufzeit-statt-aktionismus/",
+      "published_at": "2026-08-04T08:11:27Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Brandprävention bei Großspeichern: Vorlaufzeit statt Aktionismus Nach dem Brand eines Batteriespeichers in Bautzen wächst der Druck, Konsequenzen zu ziehen. In der Praxis richtet sich der Blick dann häufig zuerst auf zusätzliche Sensorik, Löschtechnik und weitere Hardware. Claudius Jehle warnt vor einem verkürzten Reflex: Für echte, vorbeugende Prävention ist meist bereits vieles vorhanden, was es",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8b7e41c9c89885f47dd51d86",
+      "title": "Elektroauto: Audi präsentiert erste Verbrauchszahl zum A2 E-Tron",
+      "url": "https://www.golem.de/news/elektroauto-audi-praesentiert-erste-verbrauchszahl-zum-a2-e-tron-2608-211566.html",
+      "published_at": "2026-08-04T08:10:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Audi präsentiert erste Verbrauchszahl zum A2 E-Tron Der A2 E-Tron soll wie sein Vorgänger sparsam sein. Dafür trimmt Audi die Karosserie und verwendet einen effizienten Antrieb. ( Audi , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "ed5e9b96a771e025c5f1d6f1",
       "title": "Erste Fahrt im Audi A2 e-tron: Retro-Design für moderne Elektroauto-Technik",
@@ -4525,53 +4569,6 @@
       "tags": [
         "umwelt"
       ],
-      "regions": []
-    },
-    {
-      "id": "73db85f4c05aeaba9f4b9542",
-      "title": "Copenhagen Energy und Akaysha Energy planen Zwei-Gigawattstunden-Speicher bei Baden-Baden",
-      "url": "https://www.pv-magazine.de/2026/05/20/copenhagen-energy-und-akaysha-energy-planen-zwei-gigawattstunden-speicher-bei-baden-baden/",
-      "published_at": "2026-05-20T10:45:45Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Copenhagen Energy und Akaysha Energy planen Zwei-Gigawattstunden-Speicher bei Baden-Baden Die Großbatterie mit 500 Megawatt Leistung soll nahe der Höchstspannungs-Infrastruktur und eines bestehenden Umspannwerks in der Stadt Bühl entstehen. Copenhagen Energy und Akaysha Energy haben ein Joint Venture gegründet, um große Batteriespeicher in Deutschland zu entwickeln.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b859c1969ab3dfc034cef04e",
-      "title": "Elektromobilität: Bereits rund 17.000 Anträge für die Kaufprämie bei Elektroautos",
-      "url": "https://www.zeit.de/wirtschaft/2026-05/elektroauto-kaufpraemie-foerderung-bundesumweltministeriums-carsten-schneider-gxe",
-      "published_at": "2026-05-20T10:43:10Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "Elektromobilität: Bereits rund 17.000 Anträge für die Kaufprämie bei Elektroautos Für den Kauf eines E-Autos gibt es bis zu 6.000 Euro staatliche Förderung. Einen Tag nach Verfahrensstart zählt das Bundesumweltministerium bereits tausende Anträge.",
-      "tags": [
-        "politik",
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "dfe54fe021500736c4416ebf",
-      "title": "Stellantis und Dongfeng setzen auf chinesische NEV-Technik für Europa",
-      "url": "https://www.heise.de/news/Stellantis-plant-mit-Dongfeng-gemeinsame-Produktion-in-Europa-11300466.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-20T10:05:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Stellantis und Dongfeng setzen auf chinesische NEV-Technik für Europa Die Autokonzerne Stellantis und Dongfeng wollen enger zusammenarbeiten. Geplant ist unter anderem die Produktion von Dongfeng-Elektroautos in Frankreich.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0ff69381cdab16e44e505465",
-      "title": "Elektromobilität: Solarzellen an Fahrzeugen senken Ladebedarf entscheidend",
-      "url": "https://www.golem.de/news/elektromobilitaet-solarzellen-an-fahrzeugen-senken-ladebedarf-entscheidend-2605-208862.html",
-      "published_at": "2026-05-20T09:40:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektromobilität: Solarzellen an Fahrzeugen senken Ladebedarf entscheidend Abhängig von Standort und Nutzung können bis zu 80 Prozent der Energie direkt erzeugt werden. Besonders Lkw können profitieren. ( Elektromobilität , Elektroauto )",
-      "tags": [],
       "regions": []
     }
   ]
