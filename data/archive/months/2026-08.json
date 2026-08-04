@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 4,
+  "article_count": 5,
   "articles": [
+    {
+      "id": "ed5e9b96a771e025c5f1d6f1",
+      "title": "Erste Fahrt im Audi A2 e-tron: Retro-Design für moderne Elektroauto-Technik",
+      "url": "https://www.heise.de/tests/Erste-Fahrt-im-Audi-A2-e-tron-Retro-Design-fuer-moderne-Elektroauto-Technik-11395600.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-08-03T22:01:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Erste Fahrt im Audi A2 e-tron: Retro-Design für moderne Elektroauto-Technik Audi lässt den A2 als Elektroauto wiederaufleben. Eine Fahrt in einem Vorserien-A2 e-tron wirft die Frage auf, ob der A2 als E-Auto den hohen Preis wert ist.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d3df87b982fd17424dc4ac3e",
       "title": "V2G: Was Kunden wollen und was der Markt anbietet",
