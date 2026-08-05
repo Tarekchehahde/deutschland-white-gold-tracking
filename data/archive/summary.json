@@ -1,15 +1,53 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-04T19:56:57Z",
+  "generated_at_utc": "2026-08-05T07:48:46Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 442,
+  "total_in_archive": 445,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 9
+    "2026-08": 12
   },
   "recent_for_ui": [
+    {
+      "id": "3e30c5c07c6dfcfa0d221a56",
+      "title": "Bafa: Elektroautoprämie wird vornehmlich von Geringverdienern genutzt",
+      "url": "https://www.golem.de/news/bafa-elektroautopraemie-wird-vornehmlich-von-geringverdienern-genutzt-2608-211605.html",
+      "published_at": "2026-08-05T05:46:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Bafa: Elektroautoprämie wird vornehmlich von Geringverdienern genutzt Neue Zahlen des Bafa zeigen erstmals, welche Einkommensgruppen die staatliche Kaufprämie für Elektroautos bislang am häufigsten nutzen. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a575190af908aaf0bc6f5871",
+      "title": "heise+ | Laden von Elektroautos: Die C-Rate schafft Vergleichbarkeit",
+      "url": "https://www.heise.de/hintergrund/Laden-von-Elektroautos-Die-C-Rate-schafft-Vergleichbarkeit-11360771.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-08-05T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Laden von Elektroautos: Die C-Rate schafft Vergleichbarkeit Zur Einschätzung der Ladegeschwindigkeit von E-Auto-Akkus spielt die sogenannte C-Rate eine entscheidende Rolle. Was ist das?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8e2206d5ccb950443e268074",
+      "title": "Landau: Minister Ebling besucht „Zero Carbon Lithium“ von Vulcan Energy",
+      "url": "https://www.pfalz-express.de/landau-minister-ebling-besucht-zero-carbon-lithium-von-vulcan-energy/",
+      "published_at": "2026-08-04T20:47:34Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Landau: Minister Ebling besucht „Zero Carbon Lithium“ von Vulcan Energy Landau – Wirtschafts- und Energieminister Michael Ebling (SPD) hat das Unternehmen Vulcan Energie Ressourcen GmbH in Landau besucht. Im Mittelpunkt stand das EU-Innovationsprojekt „Zero Carbon Lithium“, das auf die CO₂-neutrale Gewinnung des Zukunftsrohstoffs Lithium setzt. Rheinland-Pfalz beteiligt sich mit bis zu 17,2 Millio",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
     {
       "id": "9529718507a52a2fa25bbdfc",
       "title": "Autorabatte 2026: Verbrenner mit 19 Prozent Nachlass – E-Autos deutlich weniger",
@@ -4534,41 +4572,6 @@
       "language": "de",
       "summary": "Am Strommarkt amortisieren sich Gewerbespeicher noch schneller Batteriespeicher werden vom passiven Instrument zur Effizienzsteigerung zu einem aktiven wirtschaftlichen Hebel, wie Trawa-Gründer und Geschäftsführer David Budde in seinem Beitrag erklärt.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0f906951f3d22c45930b0d19",
-      "title": "Fast perfekt für bestehende Balkonkraftwerke: Solarakku bei Lidl für 300 Euro",
-      "url": "https://www.heise.de/news/Guter-Preis-eingeschraenkte-Steuerung-Solarakku-bei-Lidl-mit-2-kWh-fuer-300-Euro-11301440.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-20T18:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Fast perfekt für bestehende Balkonkraftwerke: Solarakku bei Lidl für 300 Euro Ab 21. Mai verkauft Lidl einen Solarstromspeicher für 299 Euro. Im Video ordnen wir das Angebot ein und geben eine Einschätzung ab, was der Solarakku kann.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ca7d475f8d9bcdf3ded36187",
-      "title": "Energie: Wie viel CO₂ Elektroautos wirklich sparen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wie-viel-co-elektroautos-wirklich-sparen-200851179.html",
-      "published_at": "2026-05-20T16:48:44Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Energie: Wie viel CO₂ Elektroautos wirklich sparen Die Internationale Energieagentur sieht bis zum Jahr 2035 weiter steigende Emissionen aus dem Verkehr. Potentielle Einsparungen mit Elektroantrieb machen nur wenige Prozent der Emissionen auf der Welt aus.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "34294e264b25de0668649f6c",
-      "title": "Lithiumabbau: Mobile Lithiumextraktion in norddeutschem Tiefenwasser gestartet",
-      "url": "https://www.golem.de/news/lithiumabbau-mobile-lithiumextraktion-in-norddeutschem-tiefenwasser-gestartet-2605-208879.html",
-      "published_at": "2026-05-20T13:18:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Lithiumabbau: Mobile Lithiumextraktion in norddeutschem Tiefenwasser gestartet Die Pilotanlage zur Förderung von Lithium soll die technischen Grundlagen schaffen für einen wirtschaftlichen und umweltverträglichen Abbau. ( Lithium , Akku )",
-      "tags": [
-        "umwelt"
-      ],
       "regions": []
     }
   ]
