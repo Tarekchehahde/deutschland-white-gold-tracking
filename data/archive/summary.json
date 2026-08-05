@@ -1,15 +1,83 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-05T07:48:46Z",
+  "generated_at_utc": "2026-08-05T19:55:25Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 445,
+  "total_in_archive": 450,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 12
+    "2026-08": 17
   },
   "recent_for_ui": [
+    {
+      "id": "aa71801483f2930c8a9cff99",
+      "title": "Hybrid-PPAs: Neuland für viele Projektentwickler",
+      "url": "https://www.pv-magazine.de/2026/08/05/hybrid-ppas-neuland-fur-viele-projektentwickler/",
+      "published_at": "2026-08-05T14:47:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Hybrid-PPAs: Neuland für viele Projektentwickler pv+: Photovoltaik-Projektentwickler kommen nicht mehr darum herum, auch Batteriespeicher einzusetzen und einen entsprechenden Abnahmevertrag abzuschließen. Rechtsanwältin Margarete von Oppen, Partnerin bei Orka, beantwortet Fragen, die sie in der Praxis im Zusammenhang mit solchen Hybrid-Photovoltaik-Speicher-PPAs oft hört.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5ace6bd6091632d34dad5e0c",
+      "title": "China stellt Batteriespeicher in den Mittelpunkt seiner Erneuerbaren-Strategie",
+      "url": "https://www.pv-magazine.de/2026/08/05/china-stellt-batteriespeicher-in-den-mittelpunkt-seiner-erneuerbaren-strategie/",
+      "published_at": "2026-08-05T12:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "China stellt Batteriespeicher in den Mittelpunkt seiner Erneuerbaren-Strategie Chinas jüngster Fünfjahresplan für die Erneuerbaren sieht bis 2030 eine Solar- und Windenergieleistung von zusammen mehr als 2,8 Terawatt vor. Der Plan verknüpft Energiespeicher mit Netzsicherheit, Grundlastkapazität, netzbildenden Technologien und neuen marktbasierten Erlösmechanismen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9529718507a52a2fa25bbdfc",
+      "title": "Autorabatte 2026: Verbrenner mit 19 Prozent Nachlass – E-Autos deutlich weniger",
+      "url": "https://www.rnd.de/wirtschaft/autorabatte-2026-verbrenner-mit-19-prozent-nachlass-e-autos-deutlich-weniger-7TJBFCUBXBGOZDBLJFOT7J6Y2U.html",
+      "published_at": "2026-08-05T11:43:58Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Autorabatte 2026: Verbrenner mit 19 Prozent Nachlass – E-Autos deutlich weniger Autokäufer können derzeit kräftig sparen: Die Rabatte für Verbrenner sind auf durchschnittlich 19,4 Prozent gestiegen. Elektroautos werden dagegen mit nur noch 17,6 Prozent Nachlass angeboten. Und auch VW gewährt satte Rabatte.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "77eacb8eb5fad3654eb5dd65",
+      "title": "Stromknappheit in Ungarn: BMW hält iX3-Produktion mit Solarstrom aufrecht",
+      "url": "https://www.golem.de/news/stromknappheit-in-ungarn-bmw-haelt-ix3-produktion-mit-solarstrom-aufrecht-2608-211630.html",
+      "published_at": "2026-08-05T11:43:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Stromknappheit in Ungarn: BMW hält iX3-Produktion mit Solarstrom aufrecht Die Stromknappheit in Ungarn und Rumänien bedroht die Autoproduktion. Bei Ford und Mercedes kommen die Werksferien gelegen. ( Energie & Klima , Elektroauto )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "ef791a1cbe315902054adf32",
+      "title": "Leapmotor B05 im Test: Überraschend geringer Verbrauch zum überraschenden Preis",
+      "url": "https://www.golem.de/news/leapmotor-b05-im-test-ueberraschend-geringer-verbrauch-zum-ueberraschenden-preis-2608-211548.html",
+      "published_at": "2026-08-05T10:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Leapmotor B05 im Test: Überraschend geringer Verbrauch zum überraschenden Preis Die ID.3-Alternative Leapmotor B05 macht Spaß beim Fahren, hat eine super Ausstattung, aber vor allem: einen niedrigen Verbrauch - und Preis. Ein Praxistest von Tobias Költzsch ( Leapmotor , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9aa8f2655bf6245575be35e7",
+      "title": "Milliardenschweres Programm: Schon mehr als 100.000 Anträge auf E-Auto-Förderung",
+      "url": "https://rp-online.de/wirtschaft/schon-mehr-als-100000-antraege-auf-e-auto-foerderung_aid-152636441",
+      "published_at": "2026-08-05T09:23:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Milliardenschweres Programm: Schon mehr als 100.000 Anträge auf E-Auto-Förderung Seit dem 19. Mai kann man beim Staat Zuschüsse für Elektroautos beantragen. Das Interesse ist groß. Laut Bundesamt für Wirtschaft und Ausfuhrkontrolle haben schon über 100.000 Menschen die Möglichkeit genutzt.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "3e30c5c07c6dfcfa0d221a56",
       "title": "Bafa: Elektroautoprämie wird vornehmlich von Geringverdienern genutzt",
@@ -47,17 +115,6 @@
       "regions": [
         "DE-RP"
       ]
-    },
-    {
-      "id": "9529718507a52a2fa25bbdfc",
-      "title": "Autorabatte 2026: Verbrenner mit 19 Prozent Nachlass – E-Autos deutlich weniger",
-      "url": "https://www.rnd.de/wirtschaft/autorabatte-2026-verbrenner-mit-19-prozent-nachlass-e-autos-deutlich-weniger-7TJBFCUBXBGOZDBLJFOT7J6Y2U.html",
-      "published_at": "2026-08-04T15:06:00Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Autorabatte 2026: Verbrenner mit 19 Prozent Nachlass – E-Autos deutlich weniger Autokäufer können derzeit kräftig sparen: Die Rabatte für Verbrenner sind auf durchschnittlich 19,4 Prozent gestiegen. Elektroautos werden dagegen mit nur noch 17,6 Prozent Nachlass angeboten. Und auch VW gewährt satte Rabatte.",
-      "tags": [],
-      "regions": []
     },
     {
       "id": "9ab84980549864a223998a5a",
@@ -4514,63 +4571,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Citroën kündigt Elektroauto mit dem Namen „2CV“ an Citroën kündigt ein neues Elektroauto im Geist des legendären 2CV an. Details sollen auf dem Pariser Autosalon im Oktober 2026 folgen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ddfc458b3fbe4ac123f6cc75",
-      "title": "Kia EV5 im Langstreckentest: Kantig und komfortabel kann Kia",
-      "url": "https://www.golem.de/news/kia-ev5-im-langstreckentest-kantig-und-komfortabel-kann-kia-2605-208920.html",
-      "published_at": "2026-05-22T08:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Kia EV5 im Langstreckentest: Kantig und komfortabel kann Kia Kias EV5 ist ein bequemer SUV, der sich gut für die Langstrecke eignet. Als 400-Volt-System steht das Elektroauto aber etwas länger an der Ladesäule. Ein Test von Tobias Költzsch ( Kia , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5aa16635ae33a4d3022baf5f",
-      "title": "Trabant NT: Designer gestaltet Vision eines Elektro-Trabbis",
-      "url": "https://www.golem.de/news/trabant-nt-designer-gestaltet-vision-eines-elektro-trabbis-2605-208936.html",
-      "published_at": "2026-05-21T14:25:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Trabant NT: Designer gestaltet Vision eines Elektro-Trabbis Ein Designer hat sich viel Mühe mit der Gestaltung einer modernen Version des Trabbis gemacht und Elemente des Originals eingebaut. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ee18aba9ba61d389f6d57019",
-      "title": "Auto: VW dementiert Gespräche über Werksnutzung durch China-Hersteller",
-      "url": "https://www.golem.de/news/auto-vw-dementiert-gespraeche-ueber-werke-mit-china-2605-208926.html",
-      "published_at": "2026-05-21T12:23:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Auto: VW dementiert Gespräche über Werksnutzung durch China-Hersteller Insidern zufolge soll VW mit Konkurrenten aus China über die Nutzung von Werken in Deutschland verhandeln. Konzernchef Blume widerspricht. ( VW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dd2d3a8441d866f55e773839",
-      "title": "SMA und Hyperstrong vereinbaren strategische Zusammenarbeit",
-      "url": "https://www.pv-magazine.de/2026/05/21/sma-und-hyperstrong-vereinbaren-strategische-zusammenarbeit/",
-      "published_at": "2026-05-21T08:48:20Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "SMA und Hyperstrong vereinbaren strategische Zusammenarbeit Das deutsche Photovoltaik- und Speicherunternehmen und der chinesische Anbieter von Energiespeicherlösungen wollen bei Großspeicher-Projekten weltweit kooperieren. Ziel sind vor allem Synergien in der Lieferkette und im technologischen Bereich.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "6e89336591bde7d1e321a813",
-      "title": "Am Strommarkt amortisieren sich Gewerbespeicher noch schneller",
-      "url": "https://www.pv-magazine.de/2026/05/21/am-strommarkt-amortisieren-sich-gewerbespeicher-noch-schneller/",
-      "published_at": "2026-05-21T07:58:28Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Am Strommarkt amortisieren sich Gewerbespeicher noch schneller Batteriespeicher werden vom passiven Instrument zur Effizienzsteigerung zu einem aktiven wirtschaftlichen Hebel, wie Trawa-Gründer und Geschäftsführer David Budde in seinem Beitrag erklärt.",
       "tags": [],
       "regions": []
     }
