@@ -2,6 +2,44 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "3e30c5c07c6dfcfa0d221a56",
+      "title": "Bafa: Elektroautoprämie wird vornehmlich von Geringverdienern genutzt",
+      "url": "https://www.golem.de/news/bafa-elektroautopraemie-wird-vornehmlich-von-geringverdienern-genutzt-2608-211605.html",
+      "published_at": "2026-08-05T05:46:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Bafa: Elektroautoprämie wird vornehmlich von Geringverdienern genutzt Neue Zahlen des Bafa zeigen erstmals, welche Einkommensgruppen die staatliche Kaufprämie für Elektroautos bislang am häufigsten nutzen. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a575190af908aaf0bc6f5871",
+      "title": "heise+ | Laden von Elektroautos: Die C-Rate schafft Vergleichbarkeit",
+      "url": "https://www.heise.de/hintergrund/Laden-von-Elektroautos-Die-C-Rate-schafft-Vergleichbarkeit-11360771.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-08-05T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Laden von Elektroautos: Die C-Rate schafft Vergleichbarkeit Zur Einschätzung der Ladegeschwindigkeit von E-Auto-Akkus spielt die sogenannte C-Rate eine entscheidende Rolle. Was ist das?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8e2206d5ccb950443e268074",
+      "title": "Landau: Minister Ebling besucht „Zero Carbon Lithium“ von Vulcan Energy",
+      "url": "https://www.pfalz-express.de/landau-minister-ebling-besucht-zero-carbon-lithium-von-vulcan-energy/",
+      "published_at": "2026-08-04T20:47:34Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Landau: Minister Ebling besucht „Zero Carbon Lithium“ von Vulcan Energy Landau – Wirtschafts- und Energieminister Michael Ebling (SPD) hat das Unternehmen Vulcan Energie Ressourcen GmbH in Landau besucht. Im Mittelpunkt stand das EU-Innovationsprojekt „Zero Carbon Lithium“, das auf die CO₂-neutrale Gewinnung des Zukunftsrohstoffs Lithium setzt. Rheinland-Pfalz beteiligt sich mit bis zu 17,2 Millio",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
       "id": "9529718507a52a2fa25bbdfc",
       "title": "Autorabatte 2026: Verbrenner mit 19 Prozent Nachlass – E-Autos deutlich weniger",
       "url": "https://www.rnd.de/wirtschaft/autorabatte-2026-verbrenner-mit-19-prozent-nachlass-e-autos-deutlich-weniger-7TJBFCUBXBGOZDBLJFOT7J6Y2U.html",
