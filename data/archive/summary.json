@@ -1,15 +1,26 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-05T19:55:25Z",
+  "generated_at_utc": "2026-08-06T07:48:31Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 450,
+  "total_in_archive": 451,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 17
+    "2026-08": 18
   },
   "recent_for_ui": [
+    {
+      "id": "35d3966bf0d02cbebf10c3c4",
+      "title": "Schrottsammler: USA verbieten Lithium- und Wolfram-Exporte",
+      "url": "https://www.golem.de/news/schrottsammler-usa-verbieten-lithium-und-wolfram-exporte-2608-211650.html",
+      "published_at": "2026-08-06T05:17:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Schrottsammler: USA verbieten Lithium- und Wolfram-Exporte Die USA schützen ihre Rüstungsindustrie vor Rohstoffknappheit. Wer Akku- oder Wolframschrott sammelt, muss ihn künftig an heimische Käufer verkaufen. ( Lithium , Politik )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "aa71801483f2930c8a9cff99",
       "title": "Hybrid-PPAs: Neuland für viele Projektentwickler",
@@ -4560,17 +4571,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektroauto: Xiaomi unterbietet Tesla mit noch günstigerer Version des YU7 Xiaomis CEO findet den bisherigen Preis des YU7 nicht günstig genug - die neue Standard-Version liegt 3.800 Euro unter dem Preis des Model Y. ( Xiaomi , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "122c88f6fd2e970523a288d4",
-      "title": "Citroën kündigt Elektroauto mit dem Namen „2CV“ an",
-      "url": "https://www.heise.de/news/Citroen-kuendigt-Elektroauto-mit-dem-Namen-2CV-an-11304027.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-22T10:08:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Citroën kündigt Elektroauto mit dem Namen „2CV“ an Citroën kündigt ein neues Elektroauto im Geist des legendären 2CV an. Details sollen auf dem Pariser Autosalon im Oktober 2026 folgen.",
       "tags": [],
       "regions": []
     }
