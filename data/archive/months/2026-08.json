@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 17,
+  "article_count": 18,
   "articles": [
+    {
+      "id": "35d3966bf0d02cbebf10c3c4",
+      "title": "Schrottsammler: USA verbieten Lithium- und Wolfram-Exporte",
+      "url": "https://www.golem.de/news/schrottsammler-usa-verbieten-lithium-und-wolfram-exporte-2608-211650.html",
+      "published_at": "2026-08-06T05:17:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Schrottsammler: USA verbieten Lithium- und Wolfram-Exporte Die USA schützen ihre Rüstungsindustrie vor Rohstoffknappheit. Wer Akku- oder Wolframschrott sammelt, muss ihn künftig an heimische Käufer verkaufen. ( Lithium , Politik )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "aa71801483f2930c8a9cff99",
       "title": "Hybrid-PPAs: Neuland für viele Projektentwickler",

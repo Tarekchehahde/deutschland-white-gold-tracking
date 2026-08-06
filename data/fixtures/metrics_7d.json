@@ -1,13 +1,14 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-08-05": 7
+    "2026-08-05": 7,
+    "2026-08-06": 1
   },
   "tag_counts": {
     "umwelt": 1
   },
   "by_source_category": {
-    "national": 6,
+    "national": 7,
     "regional": 1
   }
 }
