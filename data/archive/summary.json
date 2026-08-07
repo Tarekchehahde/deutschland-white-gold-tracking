@@ -1,15 +1,62 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-07T06:18:37Z",
+  "generated_at_utc": "2026-08-07T19:15:40Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 455,
+  "total_in_archive": 459,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 22
+    "2026-08": 26
   },
   "recent_for_ui": [
+    {
+      "id": "56871b807fcc5c4e0b6d26f5",
+      "title": "Co-Location-Projekt: Der lange Weg von Ready-to-build zum Commercial Operation Date",
+      "url": "https://www.pv-magazine.de/2026/08/07/co-location-projekt-der-lange-weg-von-ready-to-build-zum-commercial-operation-date/",
+      "published_at": "2026-08-07T14:17:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Co-Location-Projekt: Der lange Weg von Ready-to-build zum Commercial Operation Date pv+: Ein Batteriespeicher kann technisch baureif sein und trotzdem noch weit von der kommerziellen Inbetriebnahme entfernt. Ein fiktives Beispiel eines Batteriespeichers an einer Photovoltaikanlage zeigt, welche Verzögerungen, Kostenrisiken und Finanzierungsfragen zu lösen sind.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "78048eb5e1864b10e7bb0a0a",
+      "title": "Monatlicher Ladepreisindex vergleicht Kosten von Elektroautos und Verbrennern",
+      "url": "https://www.pv-magazine.de/2026/08/07/monatlicher-ladepreisindex-vergleicht-kosten-von-elektroautos-und-verbrennern/",
+      "published_at": "2026-08-07T08:06:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Monatlicher Ladepreisindex vergleicht Kosten von Elektroautos und Verbrennern Der Stromanbieter Tibber will ab sofort mit einem monatlichen Index darstellen, um wieviel günstiger sein „Smart Charging“-Angebot gegenüber Benzin oder Diesel ist. Für den Juli ergibt sich eine fast viermal höhere Kostenbelastung für Verbrenner.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6b9ea9bb8ab4fb4da47512d5",
+      "title": "Science-Studie: Verbrenner sollten möglichst schnell verschrottet werden",
+      "url": "https://www.golem.de/news/science-studie-verbrenner-sollten-moeglichst-schnell-verschrottet-werden-2608-211697.html",
+      "published_at": "2026-08-07T08:03:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Science-Studie: Verbrenner sollten möglichst schnell verschrottet werden Weil frühere Annahmen zu Batterien und Stromproduktion überholt sind, wäre es für das Klima am besten, selbst fabrikneue Verbrenner zu verschrotten. ( Elektroauto , Auto )",
+      "tags": [
+        "industrie",
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "e22e342c379d604580cf447f",
+      "title": "Im Volvo EX90 nach Italien: Espresso-Laden mit Gegenverkehrangst",
+      "url": "https://www.golem.de/news/im-volvo-ex90-nach-italien-espresso-laden-mit-gegenverkehrangst-2608-211602.html",
+      "published_at": "2026-08-07T07:06:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Im Volvo EX90 nach Italien: Espresso-Laden mit Gegenverkehrangst Wir sind mit dem EX90 von Volvo von Berlin ans Mittelmeer gefahren - und lernten das Alpen-Paradoxon und immerwährende Ladevorgänge kennen. Ein Praxistest von Friedhelm Greis ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "a752470b62cb07b84427aeac",
       "title": "Konsultation für finalen AgNes-Festlegungsentwurf eröffnet",
@@ -4527,50 +4574,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Supersportwagen Luce präsentiert: Ein Ferrari der besonderen Art für 550.000 Euro Der erste elektrische Ferrari liefert mit vier Motoren mehr als 1.000 PS. Nicht nur bei der Beschleunigung muss er sich dem Mercedes-AMG geschlagen geben. ( Ferrari , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "374463b42a38495ecee3b0eb",
-      "title": "Elektroauto: Tesla Cybercab ist der sparsamste Stromer",
-      "url": "https://www.golem.de/news/elektroauto-tesla-cybercab-ist-der-sparsamste-stromer-2605-209011.html",
-      "published_at": "2026-05-25T10:48:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Tesla Cybercab ist der sparsamste Stromer Das Tesla Cybercab verbraucht laut EPA-Zertifizierung 10,3 kWh auf 100 Kilometer. Kein anderes Serienfahrzeug erreicht annähernd diesen Wert. ( Cybercab , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e38a47dd908c579ea1300b41",
-      "title": "Elektro-Kleinwagen: Citroën bringt die Ente zurück",
-      "url": "https://www.golem.de/news/elektro-kleinwagen-citroen-bringt-die-ente-zurueck-2605-208997.html",
-      "published_at": "2026-05-23T12:10:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektro-Kleinwagen: Citroën bringt die Ente zurück Der französische Hersteller Citroën will sich vom legendären 2CV inspirieren lassen. Der Preis des E-Car soll bei 15.000 Euro liegen. ( Citroën , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "698c3bb2bb4ab100da668604",
-      "title": "Elektroauto kaufen? Laden, Reichweite, Komfort – Fahrer berichten",
-      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-laden-reichweite-komfort-fahrer-berichten-a-aab3cf7d-c753-4449-9815-f7d3cd7db810",
-      "published_at": "2026-05-23T07:20:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Elektroauto kaufen? Laden, Reichweite, Komfort – Fahrer berichten Elektroautos sind angesagt, der Staat fördert den Kauf. Für die meisten Deutschen sind die Fahrzeuge aber noch neu. Wir haben Menschen gefragt, die schon umgestiegen sind: Was hat Sie überrascht, was hat Sie enttäuscht?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b84f3e4748017c50a40a680e",
-      "title": "Bundesnetzagentur billigt Verweigerung von Netzanschluss für Batteriespeicher",
-      "url": "https://www.pv-magazine.de/2026/05/22/bundesnetzagentur-billigt-verweigerung-von-netzanschluss-fuer-batteriespeicher/",
-      "published_at": "2026-05-22T14:02:15Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Bundesnetzagentur billigt Verweigerung von Netzanschluss für Batteriespeicher Eine Beschlusskammer der Behörde hat jüngst eine Entscheidung öffentlich gemacht. Sie lehnte einen Antrag auf ein \"Besonderes Missbrauchsverfahren\" eines Batteriespeicher-Investors gegen einen Verteilnetzbetreiber zu unbegründet ab, weil es die Begründung für die Verweigerung des Netzanschlusses für ausreichend hielt. Ei",
       "tags": [],
       "regions": []
     }

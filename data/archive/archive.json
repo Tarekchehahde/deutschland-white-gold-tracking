@@ -2,6 +2,53 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "56871b807fcc5c4e0b6d26f5",
+      "title": "Co-Location-Projekt: Der lange Weg von Ready-to-build zum Commercial Operation Date",
+      "url": "https://www.pv-magazine.de/2026/08/07/co-location-projekt-der-lange-weg-von-ready-to-build-zum-commercial-operation-date/",
+      "published_at": "2026-08-07T14:17:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Co-Location-Projekt: Der lange Weg von Ready-to-build zum Commercial Operation Date pv+: Ein Batteriespeicher kann technisch baureif sein und trotzdem noch weit von der kommerziellen Inbetriebnahme entfernt. Ein fiktives Beispiel eines Batteriespeichers an einer Photovoltaikanlage zeigt, welche Verzögerungen, Kostenrisiken und Finanzierungsfragen zu lösen sind.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "78048eb5e1864b10e7bb0a0a",
+      "title": "Monatlicher Ladepreisindex vergleicht Kosten von Elektroautos und Verbrennern",
+      "url": "https://www.pv-magazine.de/2026/08/07/monatlicher-ladepreisindex-vergleicht-kosten-von-elektroautos-und-verbrennern/",
+      "published_at": "2026-08-07T08:06:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Monatlicher Ladepreisindex vergleicht Kosten von Elektroautos und Verbrennern Der Stromanbieter Tibber will ab sofort mit einem monatlichen Index darstellen, um wieviel günstiger sein „Smart Charging“-Angebot gegenüber Benzin oder Diesel ist. Für den Juli ergibt sich eine fast viermal höhere Kostenbelastung für Verbrenner.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6b9ea9bb8ab4fb4da47512d5",
+      "title": "Science-Studie: Verbrenner sollten möglichst schnell verschrottet werden",
+      "url": "https://www.golem.de/news/science-studie-verbrenner-sollten-moeglichst-schnell-verschrottet-werden-2608-211697.html",
+      "published_at": "2026-08-07T08:03:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Science-Studie: Verbrenner sollten möglichst schnell verschrottet werden Weil frühere Annahmen zu Batterien und Stromproduktion überholt sind, wäre es für das Klima am besten, selbst fabrikneue Verbrenner zu verschrotten. ( Elektroauto , Auto )",
+      "tags": [
+        "industrie",
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "e22e342c379d604580cf447f",
+      "title": "Im Volvo EX90 nach Italien: Espresso-Laden mit Gegenverkehrangst",
+      "url": "https://www.golem.de/news/im-volvo-ex90-nach-italien-espresso-laden-mit-gegenverkehrangst-2608-211602.html",
+      "published_at": "2026-08-07T07:06:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Im Volvo EX90 nach Italien: Espresso-Laden mit Gegenverkehrangst Wir sind mit dem EX90 von Volvo von Berlin ans Mittelmeer gefahren - und lernten das Alpen-Paradoxon und immerwährende Ladevorgänge kennen. Ein Praxistest von Friedhelm Greis ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "a752470b62cb07b84427aeac",
       "title": "Konsultation für finalen AgNes-Festlegungsentwurf eröffnet",
       "url": "https://www.pv-magazine.de/2026/08/06/konsultation-fuer-finalen-agnes-festlegungsentwurf-eroeffnet/",
