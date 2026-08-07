@@ -1,7 +1,7 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 20,
+  "article_count": 22,
   "articles": [
     {
       "id": "a752470b62cb07b84427aeac",
@@ -11,6 +11,28 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Konsultation für finalen AgNes-Festlegungsentwurf eröffnet Nach der Vorstellung der groben Pläne Ende Mai hat die Bundesnetzagentur nun noch eine letzte Konsultationsrunde gestartet. Die Festlegung für die neue Netzentgeltsystematik soll Ende des Jahres erlassen werden. Für Projektierer großer Batteriespeicher rückt damit ein wichtiges Datum näher. BVES und BDEW sehen durchaus konstruktive Ansätze",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "22afd96b4a3d21335d72c7db",
+      "title": "Aufschlag auf dem Mond: Teleskop liefert Nachweis für Einschlag von Falcon 9",
+      "url": "https://www.golem.de/news/aufschlag-auf-dem-mond-teleskop-liefert-nachweis-fuer-einschlag-von-falcon-9-2608-211672.html",
+      "published_at": "2026-08-06T11:45:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Aufschlag auf dem Mond: Teleskop liefert Nachweis für Einschlag von Falcon 9 Mit dem Nachweis von Lithium und Natrium besteht kein Zweifel mehr, dass die Raketenoberstufe von SpaceX die Mondoberfläche erreicht hat. ( Falcon-9 , SpaceX )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7cc54e7f4715f3e182f87ec2",
+      "title": "KBA-Statistik: Extremer Einbruch bei Teslas Verkaufszahlen",
+      "url": "https://www.golem.de/news/kba-statistik-extremer-einbruch-bei-teslas-verkaufszahlen-2608-211671.html",
+      "published_at": "2026-08-06T11:05:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "KBA-Statistik: Extremer Einbruch bei Teslas Verkaufszahlen Der Anteil der E-Autos an den Zulassungen nähert sich der 30-Prozent-Marke. Tesla registriert hingegen die schwächsten Verkäufe seit Jahren. ( Elektroauto , Tesla )",
       "tags": [],
       "regions": []
     },
