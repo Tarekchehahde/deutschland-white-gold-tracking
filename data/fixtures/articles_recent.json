@@ -2,13 +2,24 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "35d3966bf0d02cbebf10c3c4",
-      "title": "Schrottsammler: USA verbieten Lithium- und Wolfram-Exporte",
-      "url": "https://www.golem.de/news/schrottsammler-usa-verbieten-lithium-und-wolfram-exporte-2608-211650.html",
-      "published_at": "2026-08-06T05:17:01Z",
-      "source_id": "golem-rss",
+      "id": "a752470b62cb07b84427aeac",
+      "title": "Konsultation für finalen AgNes-Festlegungsentwurf eröffnet",
+      "url": "https://www.pv-magazine.de/2026/08/06/konsultation-fuer-finalen-agnes-festlegungsentwurf-eroeffnet/",
+      "published_at": "2026-08-06T14:10:12Z",
+      "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "Schrottsammler: USA verbieten Lithium- und Wolfram-Exporte Die USA schützen ihre Rüstungsindustrie vor Rohstoffknappheit. Wer Akku- oder Wolframschrott sammelt, muss ihn künftig an heimische Käufer verkaufen. ( Lithium , Politik )",
+      "summary": "Konsultation für finalen AgNes-Festlegungsentwurf eröffnet Nach der Vorstellung der groben Pläne Ende Mai hat die Bundesnetzagentur nun noch eine letzte Konsultationsrunde gestartet. Die Festlegung für die neue Netzentgeltsystematik soll Ende des Jahres erlassen werden. Für Projektierer großer Batteriespeicher rückt damit ein wichtiges Datum näher. BVES und BDEW sehen durchaus konstruktive Ansätze",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a7fc26a50aa776a93697ebef",
+      "title": "Maxsolar und DB Energie schließen Hybrid-PPA für Photovoltaik-Speicher-Kombination",
+      "url": "https://www.pv-magazine.de/2026/08/06/maxsolar-und-db-energie-schliessen-hybrid-ppa-fuer-photovoltaik-speicher-kombination/",
+      "published_at": "2026-08-06T10:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Maxsolar und DB Energie schließen Hybrid-PPA für Photovoltaik-Speicher-Kombination Der PPA-Solarpark hat eine Leistung von 37 Megawatt, der zugehörige Batteriespeicher eine Kapazität von 30 Megawattstunden. Maxsolar zufolge handelt es sich dabei um das deutschlandweit erste Projekt, bei dem eine förderfreie Anlagenkombination vermarktet wird.",
       "tags": [],
       "regions": []
     },
@@ -31,63 +42,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "China stellt Batteriespeicher in den Mittelpunkt seiner Erneuerbaren-Strategie Chinas jüngster Fünfjahresplan für die Erneuerbaren sieht bis 2030 eine Solar- und Windenergieleistung von zusammen mehr als 2,8 Terawatt vor. Der Plan verknüpft Energiespeicher mit Netzsicherheit, Grundlastkapazität, netzbildenden Technologien und neuen marktbasierten Erlösmechanismen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9529718507a52a2fa25bbdfc",
-      "title": "Autorabatte 2026: Verbrenner mit 19 Prozent Nachlass – E-Autos deutlich weniger",
-      "url": "https://www.rnd.de/wirtschaft/autorabatte-2026-verbrenner-mit-19-prozent-nachlass-e-autos-deutlich-weniger-7TJBFCUBXBGOZDBLJFOT7J6Y2U.html",
-      "published_at": "2026-08-05T11:43:58Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Autorabatte 2026: Verbrenner mit 19 Prozent Nachlass – E-Autos deutlich weniger Autokäufer können derzeit kräftig sparen: Die Rabatte für Verbrenner sind auf durchschnittlich 19,4 Prozent gestiegen. Elektroautos werden dagegen mit nur noch 17,6 Prozent Nachlass angeboten. Und auch VW gewährt satte Rabatte.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "77eacb8eb5fad3654eb5dd65",
-      "title": "Stromknappheit in Ungarn: BMW hält iX3-Produktion mit Solarstrom aufrecht",
-      "url": "https://www.golem.de/news/stromknappheit-in-ungarn-bmw-haelt-ix3-produktion-mit-solarstrom-aufrecht-2608-211630.html",
-      "published_at": "2026-08-05T11:43:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Stromknappheit in Ungarn: BMW hält iX3-Produktion mit Solarstrom aufrecht Die Stromknappheit in Ungarn und Rumänien bedroht die Autoproduktion. Bei Ford und Mercedes kommen die Werksferien gelegen. ( Energie & Klima , Elektroauto )",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "ef791a1cbe315902054adf32",
-      "title": "Leapmotor B05 im Test: Überraschend geringer Verbrauch zum überraschenden Preis",
-      "url": "https://www.golem.de/news/leapmotor-b05-im-test-ueberraschend-geringer-verbrauch-zum-ueberraschenden-preis-2608-211548.html",
-      "published_at": "2026-08-05T10:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Leapmotor B05 im Test: Überraschend geringer Verbrauch zum überraschenden Preis Die ID.3-Alternative Leapmotor B05 macht Spaß beim Fahren, hat eine super Ausstattung, aber vor allem: einen niedrigen Verbrauch - und Preis. Ein Praxistest von Tobias Költzsch ( Leapmotor , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9aa8f2655bf6245575be35e7",
-      "title": "Milliardenschweres Programm: Schon mehr als 100.000 Anträge auf E-Auto-Förderung",
-      "url": "https://rp-online.de/wirtschaft/schon-mehr-als-100000-antraege-auf-e-auto-foerderung_aid-152636441",
-      "published_at": "2026-08-05T09:23:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Milliardenschweres Programm: Schon mehr als 100.000 Anträge auf E-Auto-Förderung Seit dem 19. Mai kann man beim Staat Zuschüsse für Elektroautos beantragen. Das Interesse ist groß. Laut Bundesamt für Wirtschaft und Ausfuhrkontrolle haben schon über 100.000 Menschen die Möglichkeit genutzt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a575190af908aaf0bc6f5871",
-      "title": "heise+ | Laden von Elektroautos: Die C-Rate schafft Vergleichbarkeit",
-      "url": "https://www.heise.de/hintergrund/Laden-von-Elektroautos-Die-C-Rate-schafft-Vergleichbarkeit-11360771.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-08-05T05:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Laden von Elektroautos: Die C-Rate schafft Vergleichbarkeit Zur Einschätzung der Ladegeschwindigkeit von E-Auto-Akkus spielt die sogenannte C-Rate eine entscheidende Rolle. Was ist das?",
       "tags": [],
       "regions": []
     }
