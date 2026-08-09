@@ -1,15 +1,39 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-08T18:58:50Z",
+  "generated_at_utc": "2026-08-09T05:57:16Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 459,
+  "total_in_archive": 461,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 26
+    "2026-08": 28
   },
   "recent_for_ui": [
+    {
+      "id": "d2faaf7eb0178552d5a48a7d",
+      "title": "Akkus ohne Chemie: Chinas riesiger Schwungrad-Speicher verspricht unbegrenzte Ladezyklen",
+      "url": "https://t3n.de/news/akkus-ohne-chemie-china-1753777/",
+      "published_at": "2026-08-08T13:25:00Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Akkus ohne Chemie: Chinas riesiger Schwungrad-Speicher verspricht unbegrenzte Ladezyklen Wenn Windräder und Solaranlagen viel Strom liefern, können Batteriespeicher das oft nicht aufnehmen und der Vorteil verpufft. In China arbeitet eine Firma nun an einem neuartigen Schwungrad. So soll es Strom mit Bewegung speichern. Das Unternehmen Qnetic errichtet in Shanghai eine Testanlage für Schwungrad-Ene",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8db6ca1326db14cedf7b2d18",
+      "title": "Direct Air Capture: Neues Verfahren macht aus Kohlendioxid direkt Batterie-Grafit",
+      "url": "https://t3n.de/news/co2-umwandlung-batterie-graphit-1757190/",
+      "published_at": "2026-08-08T13:24:18Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Direct Air Capture: Neues Verfahren macht aus Kohlendioxid direkt Batterie-Grafit Die Suche nach nachhaltigen Rohstoffen für die globale Batterieproduktion läuft weltweit auf Hochtouren. Ein neues Verfahren könnte gleich zwei drängende Probleme lösen, verlangt der Industrie bei der Skalierung aber einiges ab. Wie in einer im Wissenschaftsmagazin Nature Communications veröffentlichten Studie zu les",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "56871b807fcc5c4e0b6d26f5",
       "title": "Co-Location-Projekt: Der lange Weg von Ready-to-build zum Commercial Operation Date",
@@ -4550,30 +4574,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Ferrari Luce: Luxus-Elektroauto für über 500.000 Euro Ferraris erstes batterieelektrisches Modell ist ein geräumiger, 772 kW leistender GT-Crossover. Mit einem Preis von über 500.000 Euro ist es ziemlich teuer.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a330c2134bbba10dff8ab32b",
-      "title": "Studie zur China-Abhängigkeit: China dominiert Deutschlands Importe kritischer Güter",
-      "url": "https://rp-online.de/politik/deutschland/seltene-erden-deutschland-fast-nur-von-china-abhaengig_aid-148876055",
-      "published_at": "2026-05-26T06:59:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Studie zur China-Abhängigkeit: China dominiert Deutschlands Importe kritischer Güter Bei Lithium-Batterien, Antibiotika und Seltenen Erden wächst Deutschlands Abhängigkeit von China – entgegen den Zielen der Bundesregierung. Eine neue Studie schlägt Alarm.",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "b52486887fbdb7ea891efaaf",
-      "title": "Supersportwagen Luce präsentiert: Ein Ferrari der besonderen Art für 550.000 Euro",
-      "url": "https://www.golem.de/news/supersportwagen-luce-praesentiert-ein-ferrari-der-besonderen-art-fuer-550-000-euro-2605-209015.html",
-      "published_at": "2026-05-25T22:48:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Supersportwagen Luce präsentiert: Ein Ferrari der besonderen Art für 550.000 Euro Der erste elektrische Ferrari liefert mit vier Motoren mehr als 1.000 PS. Nicht nur bei der Beschleunigung muss er sich dem Mercedes-AMG geschlagen geben. ( Ferrari , Elektroauto )",
       "tags": [],
       "regions": []
     }
