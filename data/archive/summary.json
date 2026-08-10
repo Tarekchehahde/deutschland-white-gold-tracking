@@ -1,15 +1,26 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-10T06:41:23Z",
+  "generated_at_utc": "2026-08-10T19:17:20Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 461,
+  "total_in_archive": 462,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 28
+    "2026-08": 29
   },
   "recent_for_ui": [
+    {
+      "id": "3742cd98b66cbaec1b2cab5a",
+      "title": "E-Auto-Förderung: Staatliche Zuschüsse fließen auch in Luxusmodelle",
+      "url": "https://www.spiegel.de/wirtschaft/service/e-auto-foerderung-staatliche-zuschuesse-fliessen-auch-in-luxusmodelle-a-aa42b17a-2b35-464a-b236-04eb1d41e97e",
+      "published_at": "2026-08-10T16:59:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "E-Auto-Förderung: Staatliche Zuschüsse fließen auch in Luxusmodelle Porsche, Mercedes und BMW profitieren von der staatlichen Kaufprämie für Elektroautos. Auch für Luxusmodelle für mehr als 100.000 Euro können Käufer einen Zuschuss bekommen – wenn das Einkommen stimmt.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d2faaf7eb0178552d5a48a7d",
       "title": "Akkus ohne Chemie: Chinas riesiger Schwungrad-Speicher verspricht unbegrenzte Ladezyklen",
@@ -4563,17 +4574,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Luce: Ferrari-Aktie verliert nach Elektroauto-Präsentation Der Markt ist offenbar nicht begeistert vom Ferrari Luce: Der Aktienkurs des italienischen Herstellers ist gesunken. ( Ferrari , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e7bfff7d82436222eb24ed16",
-      "title": "Ferrari Luce: Luxus-Elektroauto für über 500.000 Euro",
-      "url": "https://www.heise.de/news/Elektroauto-Ferrari-Luce-Strahlen-mit-Strom-11306144.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-26T09:29:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Ferrari Luce: Luxus-Elektroauto für über 500.000 Euro Ferraris erstes batterieelektrisches Modell ist ein geräumiger, 772 kW leistender GT-Crossover. Mit einem Preis von über 500.000 Euro ist es ziemlich teuer.",
       "tags": [],
       "regions": []
     }

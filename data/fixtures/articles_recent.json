@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "3742cd98b66cbaec1b2cab5a",
+      "title": "E-Auto-Förderung: Staatliche Zuschüsse fließen auch in Luxusmodelle",
+      "url": "https://www.spiegel.de/wirtschaft/service/e-auto-foerderung-staatliche-zuschuesse-fliessen-auch-in-luxusmodelle-a-aa42b17a-2b35-464a-b236-04eb1d41e97e",
+      "published_at": "2026-08-10T16:59:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "E-Auto-Förderung: Staatliche Zuschüsse fließen auch in Luxusmodelle Porsche, Mercedes und BMW profitieren von der staatlichen Kaufprämie für Elektroautos. Auch für Luxusmodelle für mehr als 100.000 Euro können Käufer einen Zuschuss bekommen – wenn das Einkommen stimmt.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "d2faaf7eb0178552d5a48a7d",
       "title": "Akkus ohne Chemie: Chinas riesiger Schwungrad-Speicher verspricht unbegrenzte Ladezyklen",
       "url": "https://t3n.de/news/akkus-ohne-chemie-china-1753777/",
@@ -33,28 +44,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Co-Location-Projekt: Der lange Weg von Ready-to-build zum Commercial Operation Date pv+: Ein Batteriespeicher kann technisch baureif sein und trotzdem noch weit von der kommerziellen Inbetriebnahme entfernt. Ein fiktives Beispiel eines Batteriespeichers an einer Photovoltaikanlage zeigt, welche Verzögerungen, Kostenrisiken und Finanzierungsfragen zu lösen sind.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "78048eb5e1864b10e7bb0a0a",
-      "title": "Monatlicher Ladepreisindex vergleicht Kosten von Elektroautos und Verbrennern",
-      "url": "https://www.pv-magazine.de/2026/08/07/monatlicher-ladepreisindex-vergleicht-kosten-von-elektroautos-und-verbrennern/",
-      "published_at": "2026-08-07T08:06:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Monatlicher Ladepreisindex vergleicht Kosten von Elektroautos und Verbrennern Der Stromanbieter Tibber will ab sofort mit einem monatlichen Index darstellen, um wieviel günstiger sein „Smart Charging“-Angebot gegenüber Benzin oder Diesel ist. Für den Juli ergibt sich eine fast viermal höhere Kostenbelastung für Verbrenner.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a752470b62cb07b84427aeac",
-      "title": "Konsultation für finalen AgNes-Festlegungsentwurf eröffnet",
-      "url": "https://www.pv-magazine.de/2026/08/06/konsultation-fuer-finalen-agnes-festlegungsentwurf-eroeffnet/",
-      "published_at": "2026-08-06T14:10:12Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Konsultation für finalen AgNes-Festlegungsentwurf eröffnet Nach der Vorstellung der groben Pläne Ende Mai hat die Bundesnetzagentur nun noch eine letzte Konsultationsrunde gestartet. Die Festlegung für die neue Netzentgeltsystematik soll Ende des Jahres erlassen werden. Für Projektierer großer Batteriespeicher rückt damit ein wichtiges Datum näher. BVES und BDEW sehen durchaus konstruktive Ansätze",
       "tags": [],
       "regions": []
     }
