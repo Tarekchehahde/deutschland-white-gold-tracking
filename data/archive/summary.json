@@ -1,15 +1,50 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-12T06:41:35Z",
+  "generated_at_utc": "2026-08-12T19:26:36Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 466,
+  "total_in_archive": 469,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 33
+    "2026-08": 36
   },
   "recent_for_ui": [
+    {
+      "id": "f5c84378e975a6b776b46b6d",
+      "title": "Dynamische Stromtarife in Kombination mit Photovoltaik-Anlagen: Wirkungsgrade der Wechselrichter werden wichtiger",
+      "url": "https://www.pv-magazine.de/2026/08/12/dynamische-stromtarife-in-kombination-mit-photovoltaikanlagen-wirkungsgrade-der-wechselrichter-werden-wichtiger/",
+      "published_at": "2026-08-12T14:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Dynamische Stromtarife in Kombination mit Photovoltaik-Anlagen: Wirkungsgrade der Wechselrichter werden wichtiger pv+: In der Stromspeicher-Inspektion 2026 wurde erstmalig auch die Umwandlungseffizienz der Batteriesysteme beim Speichern von Netzstrom näher beleuchtet. Warum geringe Wechselrichterverluste entscheidend sind, damit sich für Haushalte mit dynamischen Stromtarifen das Speichern von Str",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0097010684373942649b507d",
+      "title": "Aira bringt Wechselrichter und Batteriespeicher auf den deutschen Markt",
+      "url": "https://www.pv-magazine.de/2026/08/12/aira-bringt-wechselrichter-und-batteriespeicher-auf-den-deutschen-markt/",
+      "published_at": "2026-08-12T09:39:08Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Aira bringt Wechselrichter und Batteriespeicher auf den deutschen Markt Zusammen mit den bereits verfügbaren Wärmepumpen und Photovoltaik-Modulen hat das schwedische Unternehmen damit ein Komplettsystem für Haushalte im Portfolio. Aira bietet dafür einen monatlichen Zahlungsplan an. Für die Basisausstattung müssen Kunden 240 Euro im Monat bezahlen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "d2dc12fccecf2b097c8a518f",
+      "title": "Fortschrittliche Prototypen von Natrium-Ionen-Batterien erreichen nun fast 200 Wattstunden pro Kilogramm",
+      "url": "https://www.pv-magazine.de/2026/08/12/fortschrittliche-prototypen-von-natrium-ionen-batterien-erreichen-nun-fast-200-wattstunden-pro-kilogramm/",
+      "published_at": "2026-08-12T07:33:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fortschrittliche Prototypen von Natrium-Ionen-Batterien erreichen nun fast 200 Wattstunden pro Kilogramm Ein internationales Team von Wissenschaftlern hat die jüngsten Fortschritte bei den Komponenten von Natrium-Ionen-Batterien untersucht und dabei deren Potenzial als kostengünstigere und nachhaltigere Alternative zu Lithium-Ionen-Batterien hervorgehoben. Die Forscher nennen als zentrale Herausfo",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "4527dcd36022ef033f20ce4c",
       "title": "Porsche, BMW, Audi: Elektrische Luxusautos mit Kaufprämie finanziert",
@@ -4541,39 +4576,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Elektroautos boomen in der EU, Verbrenner brechen zweistellig ein Batterieelektrische Autos kommen in der EU bis April 2026 auf 19,7 Prozent Marktanteil. Der Anteil von Benzinern und Diesel fällt auf 30 Prozent.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e059e3b5a6884755bbf4fc6c",
-      "title": "Kaufprämie für E-Autos: Neun von zehn Anträgen für vollelektrische Autos",
-      "url": "https://www.golem.de/news/kaufpraemie-fuer-e-autos-neun-von-zehn-antraegen-fuer-vollelektrische-autos-2605-209067.html",
-      "published_at": "2026-05-27T08:27:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Kaufprämie für E-Autos: Neun von zehn Anträgen für vollelektrische Autos In der ersten Woche sind fast 33.000 Förderanträge für E-Autos gestellt worden. Ein hoher Anteil betrifft Haushalte mit niedrigem Einkommen. ( Elektroauto , Politik )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5c17a72259491bd655d2c8e2",
-      "title": "Luxus-Elektroauto aus Italien: Elektro-Ferrari Luce erntet heftige Kritik",
-      "url": "https://rp-online.de/wirtschaft/unternehmen/ferrari-luce-experten-zerreissen-das-design-des-elektroautos_aid-148939225",
-      "published_at": "2026-05-27T08:22:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Luxus-Elektroauto aus Italien: Elektro-Ferrari Luce erntet heftige Kritik Ferrari hat seinen ersten vollelektrischen Sportwagen vorgestellt – und die Reaktionen fallen vernichtend aus. Experten und Internetkommentatoren sind sich einig: Der Luce sieht nicht aus wie ein Ferrari. Die Börse straft den Hersteller prompt ab.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a41c52702a10a072a42502be",
-      "title": "NEUER Ferrari Luce: Es werde Licht",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/ferraris-segen-sei-mit-ihm-neuer-elektrosportwagen-luce-accg-200869470.html",
-      "published_at": "2026-05-27T08:07:48Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "NEUER Ferrari Luce: Es werde Licht Ferraris Segen sei mit ihm. Während andere Hersteller von ihren Elektroautoplänen abrücken, zeigen die Italiener ihren ersten vollelektrischen Sportwagen, den Luce. Der gefällt nicht jedem.",
       "tags": [],
       "regions": []
     }
