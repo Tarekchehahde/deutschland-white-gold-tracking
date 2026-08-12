@@ -2,13 +2,37 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "4527dcd36022ef033f20ce4c",
-      "title": "Porsche, BMW, Audi: Elektrische Luxusautos mit Kaufprämie finanziert",
-      "url": "https://www.golem.de/news/porsche-bmw-audi-elektrische-luxusautos-mit-kaufpraemie-finanziert-2608-211822.html",
-      "published_at": "2026-08-11T15:10:06Z",
-      "source_id": "golem-rss",
+      "id": "f5c84378e975a6b776b46b6d",
+      "title": "Dynamische Stromtarife in Kombination mit Photovoltaik-Anlagen: Wirkungsgrade der Wechselrichter werden wichtiger",
+      "url": "https://www.pv-magazine.de/2026/08/12/dynamische-stromtarife-in-kombination-mit-photovoltaikanlagen-wirkungsgrade-der-wechselrichter-werden-wichtiger/",
+      "published_at": "2026-08-12T14:30:00Z",
+      "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "Porsche, BMW, Audi: Elektrische Luxusautos mit Kaufprämie finanziert Die Kaufprämie für E-Autos richtet sich an Haushalte mit niedrigem Einkommen. Doch gefördert wurden auch ein BMW i7 oder ein Porsche Taycan. ( Elektroauto , Auto )",
+      "summary": "Dynamische Stromtarife in Kombination mit Photovoltaik-Anlagen: Wirkungsgrade der Wechselrichter werden wichtiger pv+: In der Stromspeicher-Inspektion 2026 wurde erstmalig auch die Umwandlungseffizienz der Batteriesysteme beim Speichern von Netzstrom näher beleuchtet. Warum geringe Wechselrichterverluste entscheidend sind, damit sich für Haushalte mit dynamischen Stromtarifen das Speichern von Str",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0097010684373942649b507d",
+      "title": "Aira bringt Wechselrichter und Batteriespeicher auf den deutschen Markt",
+      "url": "https://www.pv-magazine.de/2026/08/12/aira-bringt-wechselrichter-und-batteriespeicher-auf-den-deutschen-markt/",
+      "published_at": "2026-08-12T09:39:08Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Aira bringt Wechselrichter und Batteriespeicher auf den deutschen Markt Zusammen mit den bereits verfügbaren Wärmepumpen und Photovoltaik-Modulen hat das schwedische Unternehmen damit ein Komplettsystem für Haushalte im Portfolio. Aira bietet dafür einen monatlichen Zahlungsplan an. Für die Basisausstattung müssen Kunden 240 Euro im Monat bezahlen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "d2dc12fccecf2b097c8a518f",
+      "title": "Fortschrittliche Prototypen von Natrium-Ionen-Batterien erreichen nun fast 200 Wattstunden pro Kilogramm",
+      "url": "https://www.pv-magazine.de/2026/08/12/fortschrittliche-prototypen-von-natrium-ionen-batterien-erreichen-nun-fast-200-wattstunden-pro-kilogramm/",
+      "published_at": "2026-08-12T07:33:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fortschrittliche Prototypen von Natrium-Ionen-Batterien erreichen nun fast 200 Wattstunden pro Kilogramm Ein internationales Team von Wissenschaftlern hat die jüngsten Fortschritte bei den Komponenten von Natrium-Ionen-Batterien untersucht und dabei deren Potenzial als kostengünstigere und nachhaltigere Alternative zu Lithium-Ionen-Batterien hervorgehoben. Die Forscher nennen als zentrale Herausfo",
       "tags": [],
       "regions": []
     },
