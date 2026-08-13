@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 36,
+  "article_count": 37,
   "articles": [
+    {
+      "id": "92b7cdf3c3c05cbe2da2a39d",
+      "title": "heise+ | Elektroautos: Ladeparks am Limit, und wie sie sich verändern",
+      "url": "https://www.heise.de/hintergrund/Elektroautos-Ladeparks-am-Limit-und-wie-sie-sich-veraendern-11361161.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-08-13T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroautos: Ladeparks am Limit, und wie sie sich verändern Wie sieht ein Ladepark im Jahr 2030 aus und wie kann immer mehr Leistung kostengünstig gleichzeitig bereitgestellt werden? Ein Ausblick",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "f5c84378e975a6b776b46b6d",
       "title": "Dynamische Stromtarife in Kombination mit Photovoltaik-Anlagen: Wirkungsgrade der Wechselrichter werden wichtiger",
