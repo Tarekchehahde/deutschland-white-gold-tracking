@@ -2,6 +2,65 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "42008513f0d1c9d6cfeae75b",
+      "title": "Tesla-Fabrik Grünheide: Neuer Bahnhof bedeutet Aus für den Giga-Train",
+      "url": "https://www.golem.de/news/tesla-fabrik-gruenheide-neuer-bahnhof-bedeutet-aus-fuer-den-giga-train-2608-211900.html",
+      "published_at": "2026-08-13T11:45:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla-Fabrik Grünheide: Neuer Bahnhof bedeutet Aus für den Giga-Train Die Deutsche Bahn eröffnet einen neuen Bahnhof direkt an der Gigafabrik Grünheide. Das verkürzt den Arbeitsweg für Tesla-Mitarbeiter deutlich. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "0ccacc539b737d45cf96a962",
+      "title": "Batteriespeicher mit rund 500 Megawattstunden Kapazität in Sachsen-Anhalt eingeweiht",
+      "url": "https://www.pv-magazine.de/2026/08/13/batteriespeicher-mit-rund-500-megawattstunden-kapazitaet-in-sachsen-anhalt-eingeweiht/",
+      "published_at": "2026-08-13T11:40:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Batteriespeicher mit rund 500 Megawattstunden Kapazität in Sachsen-Anhalt eingeweiht Münch Energie hat das Projekt mit 250 Megawatt Leistung realisiert. Noch in diesem Jahr soll die verfügbare Speicherkapazität auf 800 Megawattstunden ausgebaut werden.",
+      "tags": [],
+      "regions": [
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "be77bbbdca7ceed256cdf67b",
+      "title": "QBE-Untersuchung: DC-Verkabelung und Steckerverbindungen sind häufigste Brandursache bei Photovoltaik-Anlagen",
+      "url": "https://www.pv-magazine.de/2026/08/13/qbe-untersuchung-dc-verkabelung-und-steckerverbindungen-sind-haeufigste-brandursache-bei-photovoltaik-anlagen/",
+      "published_at": "2026-08-13T11:00:15Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "QBE-Untersuchung: DC-Verkabelung und Steckerverbindungen sind häufigste Brandursache bei Photovoltaik-Anlagen Der globale Industrieversicherer hat in einer Erhebung für Großbritannien festgestellt, dass die Zahl der Brände fast doppelt so schnell steigt wie die der Neuinstallationen. Als Ursache folgen nach Gleichstromverkabelung und Steckverbindungen Solarmodule, Batteriespeicher und Wechselricht",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7107ffda7954affd1c95a532",
+      "title": "Lichtblick setzt bei Schnellladern erstmals auf Batteriespeicher",
+      "url": "https://www.heise.de/news/Schnellladen-auch-bei-schwachem-Netz-LichtBlick-ergaenzt-Ladeparks-um-Speicher-11412532.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-08-13T09:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Lichtblick setzt bei Schnellladern erstmals auf Batteriespeicher An zwei neuen Standorten in Norddeutschland kombiniert der Energieversorger Lichtblick Schnellladesäulen mit Batteriespeichern, um Netzengpässe zu überbrücken.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6906e4d694d125a9347f6769",
+      "title": "SunenergyXT bringt AC-gekoppelten Batteriespeicher für bestehende Photovoltaik-Anlagen auf den Markt",
+      "url": "https://www.pv-magazine.de/2026/08/13/sunenergyxt-bringt-ac-gekoppelten-batteriespeicher-fuer-bestehende-photovoltaik-anlagen-auf-den-markt/",
+      "published_at": "2026-08-13T07:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "SunenergyXT bringt AC-gekoppelten Batteriespeicher für bestehende Photovoltaik-Anlagen auf den Markt Der Speicher lässt sich installieren, ohne in die Photovoltaik-Anlage eingreifen oder den vorhandenen Wechselrichter austauschen zu müssen. Vier Eingänge machen es möglich, das Solarsystem später zu erweitern, ohne zusätzliche Komponenten installieren zu müssen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "92b7cdf3c3c05cbe2da2a39d",
       "title": "heise+ | Elektroautos: Ladeparks am Limit, und wie sie sich verändern",
       "url": "https://www.heise.de/hintergrund/Elektroautos-Ladeparks-am-Limit-und-wie-sie-sich-veraendern-11361161.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
@@ -20,30 +79,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Dynamische Stromtarife in Kombination mit Photovoltaik-Anlagen: Wirkungsgrade der Wechselrichter werden wichtiger pv+: In der Stromspeicher-Inspektion 2026 wurde erstmalig auch die Umwandlungseffizienz der Batteriesysteme beim Speichern von Netzstrom näher beleuchtet. Warum geringe Wechselrichterverluste entscheidend sind, damit sich für Haushalte mit dynamischen Stromtarifen das Speichern von Str",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0097010684373942649b507d",
-      "title": "Aira bringt Wechselrichter und Batteriespeicher auf den deutschen Markt",
-      "url": "https://www.pv-magazine.de/2026/08/12/aira-bringt-wechselrichter-und-batteriespeicher-auf-den-deutschen-markt/",
-      "published_at": "2026-08-12T09:39:08Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Aira bringt Wechselrichter und Batteriespeicher auf den deutschen Markt Zusammen mit den bereits verfügbaren Wärmepumpen und Photovoltaik-Modulen hat das schwedische Unternehmen damit ein Komplettsystem für Haushalte im Portfolio. Aira bietet dafür einen monatlichen Zahlungsplan an. Für die Basisausstattung müssen Kunden 240 Euro im Monat bezahlen.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "d2dc12fccecf2b097c8a518f",
-      "title": "Fortschrittliche Prototypen von Natrium-Ionen-Batterien erreichen nun fast 200 Wattstunden pro Kilogramm",
-      "url": "https://www.pv-magazine.de/2026/08/12/fortschrittliche-prototypen-von-natrium-ionen-batterien-erreichen-nun-fast-200-wattstunden-pro-kilogramm/",
-      "published_at": "2026-08-12T07:33:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Fortschrittliche Prototypen von Natrium-Ionen-Batterien erreichen nun fast 200 Wattstunden pro Kilogramm Ein internationales Team von Wissenschaftlern hat die jüngsten Fortschritte bei den Komponenten von Natrium-Ionen-Batterien untersucht und dabei deren Potenzial als kostengünstigere und nachhaltigere Alternative zu Lithium-Ionen-Batterien hervorgehoben. Die Forscher nennen als zentrale Herausfo",
       "tags": [],
       "regions": []
     }
