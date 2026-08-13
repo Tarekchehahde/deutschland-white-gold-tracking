@@ -1,15 +1,26 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-12T19:26:36Z",
+  "generated_at_utc": "2026-08-13T06:44:22Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 469,
+  "total_in_archive": 470,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 36
+    "2026-08": 37
   },
   "recent_for_ui": [
+    {
+      "id": "92b7cdf3c3c05cbe2da2a39d",
+      "title": "heise+ | Elektroautos: Ladeparks am Limit, und wie sie sich verändern",
+      "url": "https://www.heise.de/hintergrund/Elektroautos-Ladeparks-am-Limit-und-wie-sie-sich-veraendern-11361161.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-08-13T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroautos: Ladeparks am Limit, und wie sie sich verändern Wie sieht ein Ladepark im Jahr 2030 aus und wie kann immer mehr Leistung kostengünstig gleichzeitig bereitgestellt werden? Ein Ausblick",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "f5c84378e975a6b776b46b6d",
       "title": "Dynamische Stromtarife in Kombination mit Photovoltaik-Anlagen: Wirkungsgrade der Wechselrichter werden wichtiger",
@@ -4565,17 +4576,6 @@
       "source_id": "tagesschau-wirtschaft-technologie",
       "language": "de",
       "summary": "Jetzt steigt auch Ferrari ein: Elektromobilität für Superreiche Auch Luxusmarken setzten auf Elektroantrieb. Nach Herstellern wie Porsche, Rolls-Royce oder Maserati steigt auch Ferrari ins exklusive E-Auto-Segment ein. Kann eine solche Strategie aufgehen? Von Claudia Wehrle.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "64b3b9d783945507b6af509f",
-      "title": "Elektroautos boomen in der EU, Verbrenner brechen zweistellig ein",
-      "url": "https://www.heise.de/news/EU-Neuzulassungen-Elektroautos-erreichen-fast-20-Prozent-Marktanteil-11307631.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-05-27T08:46:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Elektroautos boomen in der EU, Verbrenner brechen zweistellig ein Batterieelektrische Autos kommen in der EU bis April 2026 auf 19,7 Prozent Marktanteil. Der Anteil von Benzinern und Diesel fällt auf 30 Prozent.",
       "tags": [],
       "regions": []
     }

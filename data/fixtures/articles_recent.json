@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "92b7cdf3c3c05cbe2da2a39d",
+      "title": "heise+ | Elektroautos: Ladeparks am Limit, und wie sie sich verändern",
+      "url": "https://www.heise.de/hintergrund/Elektroautos-Ladeparks-am-Limit-und-wie-sie-sich-veraendern-11361161.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-08-13T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroautos: Ladeparks am Limit, und wie sie sich verändern Wie sieht ein Ladepark im Jahr 2030 aus und wie kann immer mehr Leistung kostengünstig gleichzeitig bereitgestellt werden? Ein Ausblick",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "f5c84378e975a6b776b46b6d",
       "title": "Dynamische Stromtarife in Kombination mit Photovoltaik-Anlagen: Wirkungsgrade der Wechselrichter werden wichtiger",
       "url": "https://www.pv-magazine.de/2026/08/12/dynamische-stromtarife-in-kombination-mit-photovoltaikanlagen-wirkungsgrade-der-wechselrichter-werden-wichtiger/",
@@ -33,17 +44,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Fortschrittliche Prototypen von Natrium-Ionen-Batterien erreichen nun fast 200 Wattstunden pro Kilogramm Ein internationales Team von Wissenschaftlern hat die jüngsten Fortschritte bei den Komponenten von Natrium-Ionen-Batterien untersucht und dabei deren Potenzial als kostengünstigere und nachhaltigere Alternative zu Lithium-Ionen-Batterien hervorgehoben. Die Forscher nennen als zentrale Herausfo",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fadab615b9b3bd380e69f7c5",
-      "title": "Spritpreise treiben Rekordumstieg auf Elektroautos",
-      "url": "https://www.heise.de/news/Spritpreise-treiben-Rekordumstieg-auf-Elektroautos-11409868.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-08-11T10:04:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Spritpreise treiben Rekordumstieg auf Elektroautos Im zweiten Quartal 2026 tauschten zwölf Prozent der HUK-Privatkunden ihren Verbrenner gegen ein Elektroauto, das sind doppelt so viele wie vor dem Iran-Krieg.",
       "tags": [],
       "regions": []
     }
