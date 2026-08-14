@@ -1,8 +1,78 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 44,
+  "article_count": 50,
   "articles": [
+    {
+      "id": "ad86b6b2f089bd8842e9ed3c",
+      "title": "Hansesun Austria schlägt neues Modell für Photovoltaik-Förderung vor",
+      "url": "https://www.pv-magazine.de/2026/08/14/hansesun-austria-schlaegt-neues-modell-fuer-photovoltaik-foerderung-vor/",
+      "published_at": "2026-08-14T12:57:26Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Hansesun Austria schlägt neues Modell für Photovoltaik-Förderung vor Anstelle eines Investitionszuschusses sollte es für die Förderung von Photovoltaik-Dachanlagen und Batteriespeicher einen Klima-Investitionsfreibetrag geben. Die Steuerersparnis für eine typische Eigenheimanlage würde sich über fünf Jahre auf 2500 Euro summieren.",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "ec19896bbfc9ab400297b26c",
+      "title": "IF Metall: Nach fast drei Jahren Streik gewinnt Tesla in Schweden",
+      "url": "https://www.golem.de/news/if-metall-nach-fast-drei-jahren-streik-gewinnt-tesla-in-schweden-2608-211943.html",
+      "published_at": "2026-08-14T09:48:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "IF Metall: Nach fast drei Jahren Streik gewinnt Tesla in Schweden Tesla hat am Ende mit allen Streikteilnehmern Abfindungen und Deals vereinbart. Es ist der längste Streik in der Geschichte Schwedens. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7926c6f1e1a9a12934208002",
+      "title": "Norddeutsche Verteilnetzbetreiber für „Realisierungsnachweis“ bei Batteriespeicher-Netzanschlüssen",
+      "url": "https://www.pv-magazine.de/2026/08/14/norddeutsche-verteilnetzbetreiber-fuer-realisierungsnachweis-bei-batteriespeicher-netzanschluessen/",
+      "published_at": "2026-08-14T08:12:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Norddeutsche Verteilnetzbetreiber für „Realisierungsnachweis“ bei Batteriespeicher-Netzanschlüssen Weil Netzanschlussanfragen auch dann Kapazitäten blockieren, wenn keine verbindliche Umsetzungsabsicht dahintersteht, streben die norddeutschen Verteilnetzbetreiber – wie zuletzt Netze BW – ein Reifegradverfahren an.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f293689ba23ce31c4811903a",
+      "title": "Porsche: Kommt 2030 das Taycan-Ende?",
+      "url": "https://www.golem.de/news/porsche-kommt-2030-das-taycan-ende-2608-211931.html",
+      "published_at": "2026-08-14T08:04:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Porsche: Kommt 2030 das Taycan-Ende? Porsche will den Elektrosportwagen Taycan offenbar einstellen. Die Verkaufszahlen brechen ein. ( Porsche , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c52ff214123cb49126f1f2c2",
+      "title": "Lithium für 500.000 E-Autos jährlich: Altmark-Projekt geht in nächste Pilotphase",
+      "url": "https://www.heise.de/news/Deutschlands-groesste-Lithiumressource-Pilotprojekt-mit-Adsorptionstechnik-11413776.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-08-14T07:43:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Lithium für 500.000 E-Autos jährlich: Altmark-Projekt geht in nächste Pilotphase Neptune Energy will Lithium aus 4000 Metern Tiefe gewinnen. In Sachsen-Anhalt läuft jetzt eine weitere Pilotphase mit den Partnern Fraunhofer IEG und Evonik.",
+      "tags": [],
+      "regions": [
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "f576a4286efa8655e816cd7c",
+      "title": "Wenn Hitze zum Stresstest wird: Was extreme Temperaturen für Photovoltaik-Anlagen und Batteriespeicher bedeuten",
+      "url": "https://www.pv-magazine.de/2026/08/14/wenn-hitze-zum-stresstest-wird-was-extreme-temperaturen-fuer-photovoltaik-anlagen-und-batteriespeicher-bedeuten/",
+      "published_at": "2026-08-14T07:05:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wenn Hitze zum Stresstest wird: Was extreme Temperaturen für Photovoltaik-Anlagen und Batteriespeicher bedeuten Photovoltaik lebt von Sonneneinstrahlung. Batteriespeicher leben davon, Energie genau dann aufzunehmen und abzugeben, wenn das Stromsystem sie braucht. Beides klingt nach einer idealen Kombination für heiße Sommertage: viel Sonne, hohe Erzeugung, steigender Strombedarf durch Kühlung und ",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "43500ded2c793458eff6316e",
       "title": "Stromspeicher: Deutschlands größter Batterieverbund geht ans Netz",
