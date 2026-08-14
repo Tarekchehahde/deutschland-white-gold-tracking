@@ -1,15 +1,85 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-14T06:41:33Z",
+  "generated_at_utc": "2026-08-14T19:14:42Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 477,
+  "total_in_archive": 483,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 44
+    "2026-08": 50
   },
   "recent_for_ui": [
+    {
+      "id": "ad86b6b2f089bd8842e9ed3c",
+      "title": "Hansesun Austria schlägt neues Modell für Photovoltaik-Förderung vor",
+      "url": "https://www.pv-magazine.de/2026/08/14/hansesun-austria-schlaegt-neues-modell-fuer-photovoltaik-foerderung-vor/",
+      "published_at": "2026-08-14T12:57:26Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Hansesun Austria schlägt neues Modell für Photovoltaik-Förderung vor Anstelle eines Investitionszuschusses sollte es für die Förderung von Photovoltaik-Dachanlagen und Batteriespeicher einen Klima-Investitionsfreibetrag geben. Die Steuerersparnis für eine typische Eigenheimanlage würde sich über fünf Jahre auf 2500 Euro summieren.",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "ec19896bbfc9ab400297b26c",
+      "title": "IF Metall: Nach fast drei Jahren Streik gewinnt Tesla in Schweden",
+      "url": "https://www.golem.de/news/if-metall-nach-fast-drei-jahren-streik-gewinnt-tesla-in-schweden-2608-211943.html",
+      "published_at": "2026-08-14T09:48:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "IF Metall: Nach fast drei Jahren Streik gewinnt Tesla in Schweden Tesla hat am Ende mit allen Streikteilnehmern Abfindungen und Deals vereinbart. Es ist der längste Streik in der Geschichte Schwedens. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7926c6f1e1a9a12934208002",
+      "title": "Norddeutsche Verteilnetzbetreiber für „Realisierungsnachweis“ bei Batteriespeicher-Netzanschlüssen",
+      "url": "https://www.pv-magazine.de/2026/08/14/norddeutsche-verteilnetzbetreiber-fuer-realisierungsnachweis-bei-batteriespeicher-netzanschluessen/",
+      "published_at": "2026-08-14T08:12:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Norddeutsche Verteilnetzbetreiber für „Realisierungsnachweis“ bei Batteriespeicher-Netzanschlüssen Weil Netzanschlussanfragen auch dann Kapazitäten blockieren, wenn keine verbindliche Umsetzungsabsicht dahintersteht, streben die norddeutschen Verteilnetzbetreiber – wie zuletzt Netze BW – ein Reifegradverfahren an.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f293689ba23ce31c4811903a",
+      "title": "Porsche: Kommt 2030 das Taycan-Ende?",
+      "url": "https://www.golem.de/news/porsche-kommt-2030-das-taycan-ende-2608-211931.html",
+      "published_at": "2026-08-14T08:04:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Porsche: Kommt 2030 das Taycan-Ende? Porsche will den Elektrosportwagen Taycan offenbar einstellen. Die Verkaufszahlen brechen ein. ( Porsche , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c52ff214123cb49126f1f2c2",
+      "title": "Lithium für 500.000 E-Autos jährlich: Altmark-Projekt geht in nächste Pilotphase",
+      "url": "https://www.heise.de/news/Deutschlands-groesste-Lithiumressource-Pilotprojekt-mit-Adsorptionstechnik-11413776.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-08-14T07:43:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Lithium für 500.000 E-Autos jährlich: Altmark-Projekt geht in nächste Pilotphase Neptune Energy will Lithium aus 4000 Metern Tiefe gewinnen. In Sachsen-Anhalt läuft jetzt eine weitere Pilotphase mit den Partnern Fraunhofer IEG und Evonik.",
+      "tags": [],
+      "regions": [
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "f576a4286efa8655e816cd7c",
+      "title": "Wenn Hitze zum Stresstest wird: Was extreme Temperaturen für Photovoltaik-Anlagen und Batteriespeicher bedeuten",
+      "url": "https://www.pv-magazine.de/2026/08/14/wenn-hitze-zum-stresstest-wird-was-extreme-temperaturen-fuer-photovoltaik-anlagen-und-batteriespeicher-bedeuten/",
+      "published_at": "2026-08-14T07:05:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wenn Hitze zum Stresstest wird: Was extreme Temperaturen für Photovoltaik-Anlagen und Batteriespeicher bedeuten Photovoltaik lebt von Sonneneinstrahlung. Batteriespeicher leben davon, Energie genau dann aufzunehmen und abzugeben, wenn das Stromsystem sie braucht. Beides klingt nach einer idealen Kombination für heiße Sommertage: viel Sonne, hohe Erzeugung, steigender Strombedarf durch Kühlung und ",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "43500ded2c793458eff6316e",
       "title": "Stromspeicher: Deutschlands größter Batterieverbund geht ans Netz",
@@ -4510,74 +4580,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Start-up des Monats: Delta Charge rüstet gewerbliche Standorte für die Lkw-Elektrifizierung Das deutsch-schwedische Start-up plant, finanziert, baut und betreibt Lade- und Batteriespeicherlösungen für Gewerbestandorte. Statt einzelner Komponenten verspricht Delta Charge eine Gesamtlösung – inklusive garantiertem Strompreis an der Ladesäule für Lastwagen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8b9f03db1a2f6eb1cd855117",
-      "title": "AgNeS-Zwischenbericht: Verbände sehen bei geplanter Reform der Netzentgelte Licht und Schatten",
-      "url": "https://www.pv-magazine.de/2026/05/28/agnes-zwischenbericht-verbaende-sehen-bei-geplanter-reform-der-netzentgelte-licht-und-schatten/",
-      "published_at": "2026-05-28T12:26:37Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "AgNeS-Zwischenbericht: Verbände sehen bei geplanter Reform der Netzentgelte Licht und Schatten Der geplante Prosumer-Aufschlag stößt auf viel Kritik. Einhellig positiv werten die Verbände aus der Energiewirtschaft, dass die Netzentgeltbefreiung für Großspeicher erst einmal bleibt. Der Bundesverband Energiespeicher Systeme begrüßt, dass die Behörde Speicher nun klar als Flexibilitätsoption und nich",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "664fa2ed4083a31970f80e43",
-      "title": "Elektromobilität: Plötzlich schwindet die E-Auto-Skepsis",
-      "url": "https://www.sueddeutsche.de/wirtschaft/e-auto-umstieg-verbrenner-mobilitaet-foerderung-li.3490253",
-      "published_at": "2026-05-28T11:42:50Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "Elektromobilität: Plötzlich schwindet die E-Auto-Skepsis Immer mehr Menschen steigen vom Verbrenner aufs E-Auto um – besonders junge Autofahrer. Woran das liegt und was die neue Förderung damit zu tun hat.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6fc1c282c5e7c944e9ccbd26",
-      "title": "Kyon Energy baut drei Batteriespeicher mit zusammen 273 Megawatt Leistung",
-      "url": "https://www.pv-magazine.de/2026/05/28/kyon-energy-baut-drei-batteriespeicher-mit-zusammen-273-megawatt-leistung/",
-      "published_at": "2026-05-28T10:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Kyon Energy baut drei Batteriespeicher mit zusammen 273 Megawatt Leistung Die Anlagen entstehen in Nordrhein-Westfalen, Sachsen-Anhalt und Schleswig-Holstein. Kyon Energy übernimmt Projektentwicklung, Bau und Betrieb der Großspeicher. Deren Kapazität beträgt zusammen 552 Megawattstunden.",
-      "tags": [],
-      "regions": [
-        "DE-ST"
-      ]
-    },
-    {
-      "id": "46973f359023a0e958411d60",
-      "title": "Netzentgeltbefreiung für Batteriespeicher bleibt – aber das Fenster schließt sich",
-      "url": "https://www.pv-magazine.de/2026/05/28/netzentgeltbefreiung-fuer-batteriespeicher-bleibt-aber-das-fenster-schliesst-sich/",
-      "published_at": "2026-05-28T09:21:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Netzentgeltbefreiung für Batteriespeicher bleibt – aber das Fenster schließt sich Eine Einordnung zur AgNes-Entscheidung der Bundesnetzagentur von Marco Scholz, Managing Director NGEN Germany",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "76a403127cacc372381fd086",
-      "title": "Bidirektionales Laden: Startschuss für Pilotbetrieb im Forschungsprojekt „BDL Next“",
-      "url": "https://www.pv-magazine.de/2026/05/28/bidirektionales-laden-startschuss-fuer-pilotbetrieb-im-forschungsprojekt-bdl-next/",
-      "published_at": "2026-05-28T08:50:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Bidirektionales Laden: Startschuss für Pilotbetrieb im Forschungsprojekt „BDL Next“ Ein Konsortium unter Leitung der Forschungsstelle für Energiewirtschaft erprobt unter anderem, wie sich das flexible Be- und Entladen von Elektroautos in bestehende Netz- und Marktprozesse integrieren lässt. Ein weiterer Schwerpunkt ist die Verknüpfung mit Photovoltaik.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9990a8e09a00aba812728ad3",
-      "title": "Flexibilität zahlt sich aus: Batterieerlöse im April 2026",
-      "url": "https://www.pv-magazine.de/2026/05/28/flexibilitaet-zahlt-sich-aus-batterieerloese-im-april-2026/",
-      "published_at": "2026-05-28T08:04:07Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Flexibilität zahlt sich aus: Batterieerlöse im April 2026 Der April 2026 war geprägt von stark steigenden Negativpreisen, wachsendem Solarstromüberangebot zur Mittagszeit und einer deutlich höheren Volatilität an den deutschen Strommärkten. Für Batteriespeicherbetreiber resultierte daraus jedoch eines der bislang attraktivsten Handelsumfelder des Jahres. Lennard Wilkening, CEO und Mitgründer von S",
       "tags": [],
       "regions": []
     }

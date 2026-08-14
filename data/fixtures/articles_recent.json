@@ -2,6 +2,76 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "ad86b6b2f089bd8842e9ed3c",
+      "title": "Hansesun Austria schlägt neues Modell für Photovoltaik-Förderung vor",
+      "url": "https://www.pv-magazine.de/2026/08/14/hansesun-austria-schlaegt-neues-modell-fuer-photovoltaik-foerderung-vor/",
+      "published_at": "2026-08-14T12:57:26Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Hansesun Austria schlägt neues Modell für Photovoltaik-Förderung vor Anstelle eines Investitionszuschusses sollte es für die Förderung von Photovoltaik-Dachanlagen und Batteriespeicher einen Klima-Investitionsfreibetrag geben. Die Steuerersparnis für eine typische Eigenheimanlage würde sich über fünf Jahre auf 2500 Euro summieren.",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "ec19896bbfc9ab400297b26c",
+      "title": "IF Metall: Nach fast drei Jahren Streik gewinnt Tesla in Schweden",
+      "url": "https://www.golem.de/news/if-metall-nach-fast-drei-jahren-streik-gewinnt-tesla-in-schweden-2608-211943.html",
+      "published_at": "2026-08-14T09:48:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "IF Metall: Nach fast drei Jahren Streik gewinnt Tesla in Schweden Tesla hat am Ende mit allen Streikteilnehmern Abfindungen und Deals vereinbart. Es ist der längste Streik in der Geschichte Schwedens. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7926c6f1e1a9a12934208002",
+      "title": "Norddeutsche Verteilnetzbetreiber für „Realisierungsnachweis“ bei Batteriespeicher-Netzanschlüssen",
+      "url": "https://www.pv-magazine.de/2026/08/14/norddeutsche-verteilnetzbetreiber-fuer-realisierungsnachweis-bei-batteriespeicher-netzanschluessen/",
+      "published_at": "2026-08-14T08:12:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Norddeutsche Verteilnetzbetreiber für „Realisierungsnachweis“ bei Batteriespeicher-Netzanschlüssen Weil Netzanschlussanfragen auch dann Kapazitäten blockieren, wenn keine verbindliche Umsetzungsabsicht dahintersteht, streben die norddeutschen Verteilnetzbetreiber – wie zuletzt Netze BW – ein Reifegradverfahren an.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f293689ba23ce31c4811903a",
+      "title": "Porsche: Kommt 2030 das Taycan-Ende?",
+      "url": "https://www.golem.de/news/porsche-kommt-2030-das-taycan-ende-2608-211931.html",
+      "published_at": "2026-08-14T08:04:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Porsche: Kommt 2030 das Taycan-Ende? Porsche will den Elektrosportwagen Taycan offenbar einstellen. Die Verkaufszahlen brechen ein. ( Porsche , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c52ff214123cb49126f1f2c2",
+      "title": "Lithium für 500.000 E-Autos jährlich: Altmark-Projekt geht in nächste Pilotphase",
+      "url": "https://www.heise.de/news/Deutschlands-groesste-Lithiumressource-Pilotprojekt-mit-Adsorptionstechnik-11413776.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-08-14T07:43:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Lithium für 500.000 E-Autos jährlich: Altmark-Projekt geht in nächste Pilotphase Neptune Energy will Lithium aus 4000 Metern Tiefe gewinnen. In Sachsen-Anhalt läuft jetzt eine weitere Pilotphase mit den Partnern Fraunhofer IEG und Evonik.",
+      "tags": [],
+      "regions": [
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "f576a4286efa8655e816cd7c",
+      "title": "Wenn Hitze zum Stresstest wird: Was extreme Temperaturen für Photovoltaik-Anlagen und Batteriespeicher bedeuten",
+      "url": "https://www.pv-magazine.de/2026/08/14/wenn-hitze-zum-stresstest-wird-was-extreme-temperaturen-fuer-photovoltaik-anlagen-und-batteriespeicher-bedeuten/",
+      "published_at": "2026-08-14T07:05:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wenn Hitze zum Stresstest wird: Was extreme Temperaturen für Photovoltaik-Anlagen und Batteriespeicher bedeuten Photovoltaik lebt von Sonneneinstrahlung. Batteriespeicher leben davon, Energie genau dann aufzunehmen und abzugeben, wenn das Stromsystem sie braucht. Beides klingt nach einer idealen Kombination für heiße Sommertage: viel Sonne, hohe Erzeugung, steigender Strombedarf durch Kühlung und ",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "43500ded2c793458eff6316e",
       "title": "Stromspeicher: Deutschlands größter Batterieverbund geht ans Netz",
       "url": "https://www.golem.de/news/stromspeicher-deutschlands-groesster-batterieverbund-geht-ans-netz-2608-211924.html",
@@ -10,30 +80,6 @@
       "language": "de",
       "summary": "Stromspeicher: Deutschlands größter Batterieverbund geht ans Netz Bei Leuna ist Deutschlands größter Batteriespeicherverbund eingeweiht worden. Er soll Strom aus Wind und Sonne flexibler nutzbar machen. ( Energiewende , Smart Meter )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f07f6185f86443f4e10810f7",
-      "title": "Strompreis: Mit Batteriespeichern wieder stabil und günstig?",
-      "url": "https://www.zdfheute.de/politik/batterie-speicher-strom-energie-100.html",
-      "published_at": "2026-08-13T21:36:00Z",
-      "source_id": "zdf-nachrichten",
-      "language": "de",
-      "summary": "Strompreis: Mit Batteriespeichern wieder stabil und günstig? Industrie und Privathaushalte ächzen unter den Strompreisen, obwohl mit den erneuerbaren Energien häufig Überschuss produziert wird. In Merseburg-Beuna werden Lösungen aufgezeigt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "42008513f0d1c9d6cfeae75b",
-      "title": "Tesla-Fabrik Grünheide: Neuer Bahnhof bedeutet Aus für den Giga-Train",
-      "url": "https://www.golem.de/news/tesla-fabrik-gruenheide-neuer-bahnhof-bedeutet-aus-fuer-den-giga-train-2608-211900.html",
-      "published_at": "2026-08-13T11:45:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla-Fabrik Grünheide: Neuer Bahnhof bedeutet Aus für den Giga-Train Die Deutsche Bahn eröffnet einen neuen Bahnhof direkt an der Gigafabrik Grünheide. Das verkürzt den Arbeitsweg für Tesla-Mitarbeiter deutlich. ( Gigafactory Berlin , Elektroauto )",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     },
     {
@@ -48,61 +94,6 @@
       "regions": [
         "DE-ST"
       ]
-    },
-    {
-      "id": "be77bbbdca7ceed256cdf67b",
-      "title": "QBE-Untersuchung: DC-Verkabelung und Steckerverbindungen sind häufigste Brandursache bei Photovoltaik-Anlagen",
-      "url": "https://www.pv-magazine.de/2026/08/13/qbe-untersuchung-dc-verkabelung-und-steckerverbindungen-sind-haeufigste-brandursache-bei-photovoltaik-anlagen/",
-      "published_at": "2026-08-13T11:00:15Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "QBE-Untersuchung: DC-Verkabelung und Steckerverbindungen sind häufigste Brandursache bei Photovoltaik-Anlagen Der globale Industrieversicherer hat in einer Erhebung für Großbritannien festgestellt, dass die Zahl der Brände fast doppelt so schnell steigt wie die der Neuinstallationen. Als Ursache folgen nach Gleichstromverkabelung und Steckverbindungen Solarmodule, Batteriespeicher und Wechselricht",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7107ffda7954affd1c95a532",
-      "title": "Lichtblick setzt bei Schnellladern erstmals auf Batteriespeicher",
-      "url": "https://www.heise.de/news/Schnellladen-auch-bei-schwachem-Netz-LichtBlick-ergaenzt-Ladeparks-um-Speicher-11412532.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-08-13T09:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Lichtblick setzt bei Schnellladern erstmals auf Batteriespeicher An zwei neuen Standorten in Norddeutschland kombiniert der Energieversorger Lichtblick Schnellladesäulen mit Batteriespeichern, um Netzengpässe zu überbrücken.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6906e4d694d125a9347f6769",
-      "title": "SunenergyXT bringt AC-gekoppelten Batteriespeicher für bestehende Photovoltaik-Anlagen auf den Markt",
-      "url": "https://www.pv-magazine.de/2026/08/13/sunenergyxt-bringt-ac-gekoppelten-batteriespeicher-fuer-bestehende-photovoltaik-anlagen-auf-den-markt/",
-      "published_at": "2026-08-13T07:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "SunenergyXT bringt AC-gekoppelten Batteriespeicher für bestehende Photovoltaik-Anlagen auf den Markt Der Speicher lässt sich installieren, ohne in die Photovoltaik-Anlage eingreifen oder den vorhandenen Wechselrichter austauschen zu müssen. Vier Eingänge machen es möglich, das Solarsystem später zu erweitern, ohne zusätzliche Komponenten installieren zu müssen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "92b7cdf3c3c05cbe2da2a39d",
-      "title": "heise+ | Elektroautos: Ladeparks am Limit, und wie sie sich verändern",
-      "url": "https://www.heise.de/hintergrund/Elektroautos-Ladeparks-am-Limit-und-wie-sie-sich-veraendern-11361161.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-08-13T05:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Elektroautos: Ladeparks am Limit, und wie sie sich verändern Wie sieht ein Ladepark im Jahr 2030 aus und wie kann immer mehr Leistung kostengünstig gleichzeitig bereitgestellt werden? Ein Ausblick",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f5c84378e975a6b776b46b6d",
-      "title": "Dynamische Stromtarife in Kombination mit Photovoltaik-Anlagen: Wirkungsgrade der Wechselrichter werden wichtiger",
-      "url": "https://www.pv-magazine.de/2026/08/12/dynamische-stromtarife-in-kombination-mit-photovoltaikanlagen-wirkungsgrade-der-wechselrichter-werden-wichtiger/",
-      "published_at": "2026-08-12T14:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Dynamische Stromtarife in Kombination mit Photovoltaik-Anlagen: Wirkungsgrade der Wechselrichter werden wichtiger pv+: In der Stromspeicher-Inspektion 2026 wurde erstmalig auch die Umwandlungseffizienz der Batteriesysteme beim Speichern von Netzstrom näher beleuchtet. Warum geringe Wechselrichterverluste entscheidend sind, damit sich für Haushalte mit dynamischen Stromtarifen das Speichern von Str",
-      "tags": [],
-      "regions": []
     }
   ]
 }
