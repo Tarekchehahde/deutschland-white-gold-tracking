@@ -1,15 +1,51 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-15T05:40:50Z",
+  "generated_at_utc": "2026-08-15T18:47:45Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 483,
+  "total_in_archive": 486,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 50
+    "2026-08": 53
   },
   "recent_for_ui": [
+    {
+      "id": "868f20acabe2dbdd16c3c128",
+      "title": "Autonomes Fahren: Waymo darf in Kalifornien deutlich expandieren",
+      "url": "https://www.golem.de/news/autonomes-fahren-waymo-darf-in-kalifornien-deutlich-expandieren-2608-211974.html",
+      "published_at": "2026-08-15T12:05:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Waymo darf in Kalifornien deutlich expandieren Der Robotaxi-Betreiber Waymo darf seinen Dienst in Kalifornien deutlich ausweiten. Es gibt nur wenige Einschränkungen für die autonomen Autos. ( Waymo , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "439fed94ab98875d58242fda",
+      "title": "Tesla-Fabrik Grünheide: Deutsche Bahn verschiebt Eröffnung von neuem Bahnhof",
+      "url": "https://www.golem.de/news/tesla-fabrik-gruenheide-deutsche-bahn-verschiebt-eroeffnung-von-neuem-bahnhof-2608-211973.html",
+      "published_at": "2026-08-15T11:21:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla-Fabrik Grünheide: Deutsche Bahn verschiebt Eröffnung von neuem Bahnhof Die geplante Eröffnung eines neuen Bahnhofs bei der Tesla-Fabrik Grünheide wird kurzfristig verschoben. Brandenburgs Verkehrsminister ist verärgert. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "4f217110acbe11380785c369",
+      "title": "Anzeige: Mobile Wallbox 11 kW mit App und Zubehör zum Aktionspreis für nur rund 160 Euro bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-11-kw-mit-app-und-zubehoer-zum-aktionspreis-fuer-nur-rund-160-euro-bei-amazon-2608-211960.html",
+      "published_at": "2026-08-15T08:40:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Mobile Wallbox 11 kW mit App und Zubehör zum Aktionspreis für nur rund 160 Euro bei Amazon Die Mobile Wallbox von dé 11 kW mit App-Steuerung lädt mit bis zu 11 kW über CEE-Stecker und ist bei Amazon aktuell reduziert. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "ad86b6b2f089bd8842e9ed3c",
       "title": "Hansesun Austria schlägt neues Modell für Photovoltaik-Förderung vor",
@@ -4547,39 +4583,6 @@
       "source_id": "arstechnica-all",
       "language": "en",
       "summary": "Researchers develop a new process to get lithium out of rocks If it scales up, it can help us diversify our sources of a key element.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2156429659cb4b59bcfca97f",
-      "title": "Amazon turns to Jeff Bezos' other company to do some heavy lifting",
-      "url": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
-      "published_at": "2026-05-28T18:17:41Z",
-      "source_id": "arstechnica-all",
-      "language": "en",
-      "summary": "Amazon turns to Jeff Bezos' other company to do some heavy lifting Amazon is turning a corner with its launch providers, but ULA's Vulcan remains grounded.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5f7b636ccb867b8c4ca69665",
-      "title": "Autonomes Fahren: Tesla soll im großen Stil bei Robotaxis tricksen",
-      "url": "https://www.golem.de/news/autonomes-fahren-tesla-soll-im-grossen-stil-bei-robotaxis-tricksen-2605-209157.html",
-      "published_at": "2026-05-28T16:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Tesla soll im großen Stil bei Robotaxis tricksen Nach Angaben ehemaliger Mitarbeiter treffen Elon Musks Behauptungen über Teslas Robotaxis häufig nicht zu. Sie würden sich nicht damit fahren lassen. ( Autonomes Fahren , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "be904dc05d55b6a6f65e8b92",
-      "title": "Start-up des Monats: Delta Charge rüstet gewerbliche Standorte für die Lkw-Elektrifizierung",
-      "url": "https://www.pv-magazine.de/2026/05/28/start-up-des-monats-delta-charge-ruestet-gewerbliche-standorte-fuer-die-lkw-elektrifizierung/",
-      "published_at": "2026-05-28T14:06:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Start-up des Monats: Delta Charge rüstet gewerbliche Standorte für die Lkw-Elektrifizierung Das deutsch-schwedische Start-up plant, finanziert, baut und betreibt Lade- und Batteriespeicherlösungen für Gewerbestandorte. Statt einzelner Komponenten verspricht Delta Charge eine Gesamtlösung – inklusive garantiertem Strompreis an der Ladesäule für Lastwagen.",
       "tags": [],
       "regions": []
     }

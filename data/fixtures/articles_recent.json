@@ -2,6 +2,42 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "868f20acabe2dbdd16c3c128",
+      "title": "Autonomes Fahren: Waymo darf in Kalifornien deutlich expandieren",
+      "url": "https://www.golem.de/news/autonomes-fahren-waymo-darf-in-kalifornien-deutlich-expandieren-2608-211974.html",
+      "published_at": "2026-08-15T12:05:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Waymo darf in Kalifornien deutlich expandieren Der Robotaxi-Betreiber Waymo darf seinen Dienst in Kalifornien deutlich ausweiten. Es gibt nur wenige Einschränkungen für die autonomen Autos. ( Waymo , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "439fed94ab98875d58242fda",
+      "title": "Tesla-Fabrik Grünheide: Deutsche Bahn verschiebt Eröffnung von neuem Bahnhof",
+      "url": "https://www.golem.de/news/tesla-fabrik-gruenheide-deutsche-bahn-verschiebt-eroeffnung-von-neuem-bahnhof-2608-211973.html",
+      "published_at": "2026-08-15T11:21:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla-Fabrik Grünheide: Deutsche Bahn verschiebt Eröffnung von neuem Bahnhof Die geplante Eröffnung eines neuen Bahnhofs bei der Tesla-Fabrik Grünheide wird kurzfristig verschoben. Brandenburgs Verkehrsminister ist verärgert. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "4f217110acbe11380785c369",
+      "title": "Anzeige: Mobile Wallbox 11 kW mit App und Zubehör zum Aktionspreis für nur rund 160 Euro bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-11-kw-mit-app-und-zubehoer-zum-aktionspreis-fuer-nur-rund-160-euro-bei-amazon-2608-211960.html",
+      "published_at": "2026-08-15T08:40:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Mobile Wallbox 11 kW mit App und Zubehör zum Aktionspreis für nur rund 160 Euro bei Amazon Die Mobile Wallbox von dé 11 kW mit App-Steuerung lädt mit bis zu 11 kW über CEE-Stecker und ist bei Amazon aktuell reduziert. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "ad86b6b2f089bd8842e9ed3c",
       "title": "Hansesun Austria schlägt neues Modell für Photovoltaik-Förderung vor",
       "url": "https://www.pv-magazine.de/2026/08/14/hansesun-austria-schlaegt-neues-modell-fuer-photovoltaik-foerderung-vor/",
@@ -37,17 +73,6 @@
       "regions": []
     },
     {
-      "id": "f293689ba23ce31c4811903a",
-      "title": "Porsche: Kommt 2030 das Taycan-Ende?",
-      "url": "https://www.golem.de/news/porsche-kommt-2030-das-taycan-ende-2608-211931.html",
-      "published_at": "2026-08-14T08:04:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Porsche: Kommt 2030 das Taycan-Ende? Porsche will den Elektrosportwagen Taycan offenbar einstellen. Die Verkaufszahlen brechen ein. ( Porsche , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "c52ff214123cb49126f1f2c2",
       "title": "Lithium für 500.000 E-Autos jährlich: Altmark-Projekt geht in nächste Pilotphase",
       "url": "https://www.heise.de/news/Deutschlands-groesste-Lithiumressource-Pilotprojekt-mit-Adsorptionstechnik-11413776.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -68,17 +93,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Wenn Hitze zum Stresstest wird: Was extreme Temperaturen für Photovoltaik-Anlagen und Batteriespeicher bedeuten Photovoltaik lebt von Sonneneinstrahlung. Batteriespeicher leben davon, Energie genau dann aufzunehmen und abzugeben, wenn das Stromsystem sie braucht. Beides klingt nach einer idealen Kombination für heiße Sommertage: viel Sonne, hohe Erzeugung, steigender Strombedarf durch Kühlung und ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "43500ded2c793458eff6316e",
-      "title": "Stromspeicher: Deutschlands größter Batterieverbund geht ans Netz",
-      "url": "https://www.golem.de/news/stromspeicher-deutschlands-groesster-batterieverbund-geht-ans-netz-2608-211924.html",
-      "published_at": "2026-08-14T06:14:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Stromspeicher: Deutschlands größter Batterieverbund geht ans Netz Bei Leuna ist Deutschlands größter Batteriespeicherverbund eingeweiht worden. Er soll Strom aus Wind und Sonne flexibler nutzbar machen. ( Energiewende , Smart Meter )",
       "tags": [],
       "regions": []
     },
