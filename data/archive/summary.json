@@ -1,15 +1,26 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-16T05:42:47Z",
+  "generated_at_utc": "2026-08-16T18:47:24Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 486,
+  "total_in_archive": 487,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 53
+    "2026-08": 54
   },
   "recent_for_ui": [
+    {
+      "id": "d80abfb3cb02410906506aa7",
+      "title": "Speyer: Elektrofahrzeug gerät an Ladesäule in Brand",
+      "url": "https://www.pfalz-express.de/speyer-elektrofahrzeug-geraet-an-ladesaeule-in-brand/",
+      "published_at": "2026-08-16T17:32:24Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Speyer: Elektrofahrzeug gerät an Ladesäule in Brand Speyer – Ein Elektroauto hat am Sonntagmorgen auf einem Parkplatz während des Ladevorgangs Feuer gefangen. Auch die Ladesäule brannte. Die Feuerwehr löschte den Wagen unter Atemschutz und kühlte die Hochvoltbatterie über längere Zeit. Als die Temperatur der Batterie wieder anstieg, setzten die Einsatzkräfte zusätzlich ein sogenanntes Fognail-Syst",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "868f20acabe2dbdd16c3c128",
       "title": "Autonomes Fahren: Waymo darf in Kalifornien deutlich expandieren",
@@ -4572,17 +4583,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Enervis-Batteriespeicher-Index: Im April setzen die Batteriespeicher-Erlöse in Deutschland ihren Aufwärtstrend fort, getrieben durch die zunehmende Photovoltaik-Erzeugung und die aktuelle Lage im Nahen Osten Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "409b9aa7f7f2a1737c043fc9",
-      "title": "Researchers develop a new process to get lithium out of rocks",
-      "url": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
-      "published_at": "2026-05-28T19:30:04Z",
-      "source_id": "arstechnica-all",
-      "language": "en",
-      "summary": "Researchers develop a new process to get lithium out of rocks If it scales up, it can help us diversify our sources of a key element.",
       "tags": [],
       "regions": []
     }
