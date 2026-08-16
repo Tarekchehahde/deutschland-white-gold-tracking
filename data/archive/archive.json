@@ -2,6 +2,17 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "d80abfb3cb02410906506aa7",
+      "title": "Speyer: Elektrofahrzeug gerät an Ladesäule in Brand",
+      "url": "https://www.pfalz-express.de/speyer-elektrofahrzeug-geraet-an-ladesaeule-in-brand/",
+      "published_at": "2026-08-16T17:32:24Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Speyer: Elektrofahrzeug gerät an Ladesäule in Brand Speyer – Ein Elektroauto hat am Sonntagmorgen auf einem Parkplatz während des Ladevorgangs Feuer gefangen. Auch die Ladesäule brannte. Die Feuerwehr löschte den Wagen unter Atemschutz und kühlte die Hochvoltbatterie über längere Zeit. Als die Temperatur der Batterie wieder anstieg, setzten die Einsatzkräfte zusätzlich ein sogenanntes Fognail-Syst",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "868f20acabe2dbdd16c3c128",
       "title": "Autonomes Fahren: Waymo darf in Kalifornien deutlich expandieren",
       "url": "https://www.golem.de/news/autonomes-fahren-waymo-darf-in-kalifornien-deutlich-expandieren-2608-211974.html",
