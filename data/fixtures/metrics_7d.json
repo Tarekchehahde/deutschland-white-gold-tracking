@@ -2,7 +2,7 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-08-13": 1,
-    "2026-08-14": 4,
+    "2026-08-14": 3,
     "2026-08-15": 3,
     "2026-08-16": 1
   },
@@ -12,7 +12,7 @@
     "umwelt": 1
   },
   "by_source_category": {
-    "national": 8,
+    "national": 7,
     "regional": 1
   }
 }
