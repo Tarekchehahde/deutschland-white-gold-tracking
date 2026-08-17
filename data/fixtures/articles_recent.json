@@ -2,49 +2,68 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "d80abfb3cb02410906506aa7",
-      "title": "Speyer: Elektrofahrzeug gerät an Ladesäule in Brand",
-      "url": "https://www.pfalz-express.de/speyer-elektrofahrzeug-geraet-an-ladesaeule-in-brand/",
-      "published_at": "2026-08-16T17:32:24Z",
-      "source_id": "pfalz-express",
+      "id": "d26e418ec21334e1a3e961c9",
+      "title": "Ohne Seltenerdmetalle: Yasa will Axialflussmotoren resilient machen",
+      "url": "https://www.golem.de/news/ohne-seltenerdmetalle-yasa-will-axialflussmotoren-resilient-machen-2608-212012.html",
+      "published_at": "2026-08-17T14:57:01Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "Speyer: Elektrofahrzeug gerät an Ladesäule in Brand Speyer – Ein Elektroauto hat am Sonntagmorgen auf einem Parkplatz während des Ladevorgangs Feuer gefangen. Auch die Ladesäule brannte. Die Feuerwehr löschte den Wagen unter Atemschutz und kühlte die Hochvoltbatterie über längere Zeit. Als die Temperatur der Batterie wieder anstieg, setzten die Einsatzkräfte zusätzlich ein sogenanntes Fognail-Syst",
+      "summary": "Ohne Seltenerdmetalle: Yasa will Axialflussmotoren resilient machen Bislang benötigen Axialflussmotoren von Yasa Seltenerdmetalle für die Rotoren. Doch aus strategischen Gründen soll darauf verzichtet werden. ( Elektroauto , Auto )",
       "tags": [],
       "regions": []
     },
     {
-      "id": "868f20acabe2dbdd16c3c128",
-      "title": "Autonomes Fahren: Waymo darf in Kalifornien deutlich expandieren",
-      "url": "https://www.golem.de/news/autonomes-fahren-waymo-darf-in-kalifornien-deutlich-expandieren-2608-211974.html",
-      "published_at": "2026-08-15T12:05:02Z",
-      "source_id": "golem-rss",
+      "id": "6fbbcac831cb084c9a1c0801",
+      "title": "Weltweite Photovoltaik-Leistung überschreitet Drei-Terawatt-Marke",
+      "url": "https://www.pv-magazine.de/2026/08/17/weltweite-photovoltaik-leistung-ueberschreitet-drei-terawatt-marke/",
+      "published_at": "2026-08-17T13:38:36Z",
+      "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "Autonomes Fahren: Waymo darf in Kalifornien deutlich expandieren Der Robotaxi-Betreiber Waymo darf seinen Dienst in Kalifornien deutlich ausweiten. Es gibt nur wenige Einschränkungen für die autonomen Autos. ( Waymo , Elektroauto )",
+      "summary": "Weltweite Photovoltaik-Leistung überschreitet Drei-Terawatt-Marke Mit mehr als drei Terawatt Leistung hat die Photovoltaik weltweit einen neuen Meilenstein erreicht. China ist Haupttreiber des jüngsten Ausbaus, aber auch Schwellenländer tragen zunehmend zum Wachstum bei. Angesichts des beschleunigten Zubaus werden Netzinfrastruktur, Energiespeicher und Nachfrageflexibilität entscheidend für die In",
       "tags": [],
       "regions": []
     },
     {
-      "id": "439fed94ab98875d58242fda",
-      "title": "Tesla-Fabrik Grünheide: Deutsche Bahn verschiebt Eröffnung von neuem Bahnhof",
-      "url": "https://www.golem.de/news/tesla-fabrik-gruenheide-deutsche-bahn-verschiebt-eroeffnung-von-neuem-bahnhof-2608-211973.html",
-      "published_at": "2026-08-15T11:21:02Z",
+      "id": "db60858a40565afc20d46339",
+      "title": "Erster Ferrari Luce versteigert: 40 Million US-Dollar für ein Elektroauto",
+      "url": "https://www.golem.de/news/erster-ferrari-luce-versteigert-40-million-us-dollar-fuer-ein-elektroauto-2608-211990.html",
+      "published_at": "2026-08-17T09:11:01Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Tesla-Fabrik Grünheide: Deutsche Bahn verschiebt Eröffnung von neuem Bahnhof Die geplante Eröffnung eines neuen Bahnhofs bei der Tesla-Fabrik Grünheide wird kurzfristig verschoben. Brandenburgs Verkehrsminister ist verärgert. ( Gigafactory Berlin , Elektroauto )",
-      "tags": [
-        "industrie",
-        "politik"
-      ],
+      "summary": "Erster Ferrari Luce versteigert: 40 Million US-Dollar für ein Elektroauto Der Ferrari Luce kam bei seiner Vorstellung nicht gut an. Dennoch dürfte das erste Exemplar der Serie das bislang teuerste Elektroauto sein. ( Ferrari , Elektroauto )",
+      "tags": [],
       "regions": []
     },
     {
-      "id": "4f217110acbe11380785c369",
-      "title": "Anzeige: Mobile Wallbox 11 kW mit App und Zubehör zum Aktionspreis für nur rund 160 Euro bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-11-kw-mit-app-und-zubehoer-zum-aktionspreis-fuer-nur-rund-160-euro-bei-amazon-2608-211960.html",
-      "published_at": "2026-08-15T08:40:01Z",
+      "id": "3baaca7dad85e97670d94c75",
+      "title": "Batteriespeicher: Europas größte Batterie geht in Schottland ans Netz",
+      "url": "https://www.golem.de/news/batteriespeicher-europas-groesste-batterie-geht-in-schottland-ans-netz-2608-211983.html",
+      "published_at": "2026-08-17T07:51:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Anzeige: Mobile Wallbox 11 kW mit App und Zubehör zum Aktionspreis für nur rund 160 Euro bei Amazon Die Mobile Wallbox von dé 11 kW mit App-Steuerung lädt mit bis zu 11 kW über CEE-Stecker und ist bei Amazon aktuell reduziert. ( Elektromobilität , Elektroauto )",
+      "summary": "Batteriespeicher: Europas größte Batterie geht in Schottland ans Netz Das Land, das mehr Strom aus Wind produziert, als es verbrauchen kann, stärkt mit dem Stromspeicher seine Unabhängigkeit von anderen Stromquellen. ( Energiewende , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fe2d3062940c902ba7ab976f",
+      "title": "IAB-Fähigkeit von Photovoltaik-Direktinvestments mit Grünstromspeicher",
+      "url": "https://www.pv-magazine.de/2026/08/17/iab-faehigkeit-von-photovoltaik-direktinvestments-mit-gruenstromspeicher/",
+      "published_at": "2026-08-17T07:40:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "IAB-Fähigkeit von Photovoltaik-Direktinvestments mit Grünstromspeicher Photovoltaik-Direktinvestments werden zunehmend mit Batteriespeichern kombiniert. Doch genau diese Konstellation birgt steuerliche Risiken. Steuerberater Sören Steuber erläutert, wann für PV-Anlagen und Grünstromspeicher ein Investitionsabzugsbetrag möglich ist und weshalb im ungünstigsten Fall sogar die Steuerförderung für das",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "94140b52b7fc3450de6aac41",
+      "title": "Sigenenergy bringt kleinen Batteriespeicher mit KI-gestütztem Managementsystem auf den Markt",
+      "url": "https://www.pv-magazine.de/2026/08/17/sigenenergy-bringt-kleinen-batteriespeicher-mit-ki-gestuetztem-managementsystem-auf-den-markt/",
+      "published_at": "2026-08-17T07:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sigenenergy bringt kleinen Batteriespeicher mit KI-gestütztem Managementsystem auf den Markt In der Basisversion hat der Speicher eine Kapazität von 2,68 Kilowattstunden. Das Steuersystem unterstützt dynamische Stromtarife. Sigenenergy gewährt bis Ende August einen Rabatt auf den Kaufpreis.",
       "tags": [],
       "regions": []
     },
@@ -60,41 +79,6 @@
         "umwelt"
       ],
       "regions": []
-    },
-    {
-      "id": "7926c6f1e1a9a12934208002",
-      "title": "Norddeutsche Verteilnetzbetreiber für „Realisierungsnachweis“ bei Batteriespeicher-Netzanschlüssen",
-      "url": "https://www.pv-magazine.de/2026/08/14/norddeutsche-verteilnetzbetreiber-fuer-realisierungsnachweis-bei-batteriespeicher-netzanschluessen/",
-      "published_at": "2026-08-14T08:12:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Norddeutsche Verteilnetzbetreiber für „Realisierungsnachweis“ bei Batteriespeicher-Netzanschlüssen Weil Netzanschlussanfragen auch dann Kapazitäten blockieren, wenn keine verbindliche Umsetzungsabsicht dahintersteht, streben die norddeutschen Verteilnetzbetreiber – wie zuletzt Netze BW – ein Reifegradverfahren an.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f576a4286efa8655e816cd7c",
-      "title": "Wenn Hitze zum Stresstest wird: Was extreme Temperaturen für Photovoltaik-Anlagen und Batteriespeicher bedeuten",
-      "url": "https://www.pv-magazine.de/2026/08/14/wenn-hitze-zum-stresstest-wird-was-extreme-temperaturen-fuer-photovoltaik-anlagen-und-batteriespeicher-bedeuten/",
-      "published_at": "2026-08-14T07:05:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Wenn Hitze zum Stresstest wird: Was extreme Temperaturen für Photovoltaik-Anlagen und Batteriespeicher bedeuten Photovoltaik lebt von Sonneneinstrahlung. Batteriespeicher leben davon, Energie genau dann aufzunehmen und abzugeben, wenn das Stromsystem sie braucht. Beides klingt nach einer idealen Kombination für heiße Sommertage: viel Sonne, hohe Erzeugung, steigender Strombedarf durch Kühlung und ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0ccacc539b737d45cf96a962",
-      "title": "Batteriespeicher mit rund 500 Megawattstunden Kapazität in Sachsen-Anhalt eingeweiht",
-      "url": "https://www.pv-magazine.de/2026/08/13/batteriespeicher-mit-rund-500-megawattstunden-kapazitaet-in-sachsen-anhalt-eingeweiht/",
-      "published_at": "2026-08-13T11:40:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Batteriespeicher mit rund 500 Megawattstunden Kapazität in Sachsen-Anhalt eingeweiht Münch Energie hat das Projekt mit 250 Megawatt Leistung realisiert. Noch in diesem Jahr soll die verfügbare Speicherkapazität auf 800 Megawattstunden ausgebaut werden.",
-      "tags": [],
-      "regions": [
-        "DE-ST"
-      ]
     }
   ]
 }

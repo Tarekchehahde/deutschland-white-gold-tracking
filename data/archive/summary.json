@@ -1,15 +1,81 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-17T05:49:45Z",
+  "generated_at_utc": "2026-08-17T18:57:57Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 487,
+  "total_in_archive": 493,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 54
+    "2026-08": 60
   },
   "recent_for_ui": [
+    {
+      "id": "d26e418ec21334e1a3e961c9",
+      "title": "Ohne Seltenerdmetalle: Yasa will Axialflussmotoren resilient machen",
+      "url": "https://www.golem.de/news/ohne-seltenerdmetalle-yasa-will-axialflussmotoren-resilient-machen-2608-212012.html",
+      "published_at": "2026-08-17T14:57:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ohne Seltenerdmetalle: Yasa will Axialflussmotoren resilient machen Bislang benötigen Axialflussmotoren von Yasa Seltenerdmetalle für die Rotoren. Doch aus strategischen Gründen soll darauf verzichtet werden. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6fbbcac831cb084c9a1c0801",
+      "title": "Weltweite Photovoltaik-Leistung überschreitet Drei-Terawatt-Marke",
+      "url": "https://www.pv-magazine.de/2026/08/17/weltweite-photovoltaik-leistung-ueberschreitet-drei-terawatt-marke/",
+      "published_at": "2026-08-17T13:38:36Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Weltweite Photovoltaik-Leistung überschreitet Drei-Terawatt-Marke Mit mehr als drei Terawatt Leistung hat die Photovoltaik weltweit einen neuen Meilenstein erreicht. China ist Haupttreiber des jüngsten Ausbaus, aber auch Schwellenländer tragen zunehmend zum Wachstum bei. Angesichts des beschleunigten Zubaus werden Netzinfrastruktur, Energiespeicher und Nachfrageflexibilität entscheidend für die In",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "db60858a40565afc20d46339",
+      "title": "Erster Ferrari Luce versteigert: 40 Million US-Dollar für ein Elektroauto",
+      "url": "https://www.golem.de/news/erster-ferrari-luce-versteigert-40-million-us-dollar-fuer-ein-elektroauto-2608-211990.html",
+      "published_at": "2026-08-17T09:11:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Erster Ferrari Luce versteigert: 40 Million US-Dollar für ein Elektroauto Der Ferrari Luce kam bei seiner Vorstellung nicht gut an. Dennoch dürfte das erste Exemplar der Serie das bislang teuerste Elektroauto sein. ( Ferrari , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3baaca7dad85e97670d94c75",
+      "title": "Batteriespeicher: Europas größte Batterie geht in Schottland ans Netz",
+      "url": "https://www.golem.de/news/batteriespeicher-europas-groesste-batterie-geht-in-schottland-ans-netz-2608-211983.html",
+      "published_at": "2026-08-17T07:51:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Batteriespeicher: Europas größte Batterie geht in Schottland ans Netz Das Land, das mehr Strom aus Wind produziert, als es verbrauchen kann, stärkt mit dem Stromspeicher seine Unabhängigkeit von anderen Stromquellen. ( Energiewende , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fe2d3062940c902ba7ab976f",
+      "title": "IAB-Fähigkeit von Photovoltaik-Direktinvestments mit Grünstromspeicher",
+      "url": "https://www.pv-magazine.de/2026/08/17/iab-faehigkeit-von-photovoltaik-direktinvestments-mit-gruenstromspeicher/",
+      "published_at": "2026-08-17T07:40:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "IAB-Fähigkeit von Photovoltaik-Direktinvestments mit Grünstromspeicher Photovoltaik-Direktinvestments werden zunehmend mit Batteriespeichern kombiniert. Doch genau diese Konstellation birgt steuerliche Risiken. Steuerberater Sören Steuber erläutert, wann für PV-Anlagen und Grünstromspeicher ein Investitionsabzugsbetrag möglich ist und weshalb im ungünstigsten Fall sogar die Steuerförderung für das",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "94140b52b7fc3450de6aac41",
+      "title": "Sigenenergy bringt kleinen Batteriespeicher mit KI-gestütztem Managementsystem auf den Markt",
+      "url": "https://www.pv-magazine.de/2026/08/17/sigenenergy-bringt-kleinen-batteriespeicher-mit-ki-gestuetztem-managementsystem-auf-den-markt/",
+      "published_at": "2026-08-17T07:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sigenenergy bringt kleinen Batteriespeicher mit KI-gestütztem Managementsystem auf den Markt In der Basisversion hat der Speicher eine Kapazität von 2,68 Kilowattstunden. Das Steuersystem unterstützt dynamische Stromtarife. Sigenenergy gewährt bis Ende August einen Rabatt auf den Kaufpreis.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d80abfb3cb02410906506aa7",
       "title": "Speyer: Elektrofahrzeug gerät an Ladesäule in Brand",
@@ -4512,77 +4578,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "MIT-Studie: Kreislaufprozess zur Lithiumgewinnung aus Stein entwickelt Mit wiederverwertbaren Chemikalien und geringem Energieeinsatz könnte der Abbau von Lithium und weiteren wichtigen Rohstoffen weltweit umgesetzt werden. ( Lithium , Akku )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8180f88d005a4ede0ae23279",
-      "title": "Elektro-Sportwagen: Bestellungen für Ferrari Luce sollen schon bis Ende 2027 reichen",
-      "url": "https://www.golem.de/news/elektro-sportwagen-bestellungen-fuer-ferrari-luce-sollen-schon-bis-ende-2027-reichen-2605-209200.html",
-      "published_at": "2026-05-29T13:05:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektro-Sportwagen: Bestellungen für Ferrari Luce sollen schon bis Ende 2027 reichen Trotz viel Kritik scheint Ferrari mit den bisherigen Bestellungen seines ersten Elektroautos Luce zufrieden zu sein. ( Ferrari , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d426a894cdd2178d795c7c52",
-      "title": "Prämie für Elektroautos: Nichts geschenkt",
-      "url": "https://www.faz.net/aktuell/technik-motor/kaufpraemie-fuer-elektroautos-wird-teuer-200858475.html",
-      "published_at": "2026-05-29T12:41:03Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Prämie für Elektroautos: Nichts geschenkt Die Freude über die neue Kaufprämie für Elektroautos ist groß, zumindest unter den Nutznießern. Doch das jetzt gesparte Geld könnte bald schon wieder verloren sein.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a61102b3e8f7e11de1bf0795",
-      "title": "Nextpower steigt ins Energiespeichergeschäft ein",
-      "url": "https://www.pv-magazine.de/2026/05/29/nextpower-steigt-ins-energiespeichergeschaeft-ein/",
-      "published_at": "2026-05-29T11:11:55Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Nextpower steigt ins Energiespeichergeschäft ein Nextpower sieht im Markt für Batteriespeichersysteme enormes Potenzial, unter anderem wegen des Ausbaus von KI-Rechenzentren. Das US-Unternehmen will daher Prevalon Energy übernehmen.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "7b363ba850b945e879ac893f",
-      "title": "Northvolt in Heide: Schleswig-Holstein hat gegen Informationspflicht verstoßen",
-      "url": "https://www.golem.de/news/northvolt-in-heide-schleswig-holstein-hat-gegen-informationspflicht-verstossen-2605-209195.html",
-      "published_at": "2026-05-29T11:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Northvolt in Heide: Schleswig-Holstein hat gegen Informationspflicht verstoßen Die Regierung Schleswig-Holsteins informiert nicht ausreichend über Bedenken zur Finanzierung einer Batteriefabrik in Heide. ( Unternehmen , Wirtschaft )",
-      "tags": [
-        "industrie",
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "1496fe754fa55ad2e15fa1ea",
-      "title": "Stromspeicher: Feuerfeste Natriumbatterie für den Einsatz zu Hause",
-      "url": "https://www.golem.de/news/stromspeicher-feuerfeste-natriumbatterie-fuer-den-einsatz-zu-hause-2605-209179.html",
-      "published_at": "2026-05-29T08:35:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Stromspeicher: Feuerfeste Natriumbatterie für den Einsatz zu Hause Kaum brennbar, ohne kritische Rohstoffe und mit solider Leistung soll ein neu entwickelter Akku zur Verbreitung von Energiespeichern beitragen. ( Akku , Energiewende )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3644c1bc4cb464e2eeb149f6",
-      "title": "Enervis-Batteriespeicher-Index: Im April setzen die Batteriespeicher-Erlöse in Deutschland ihren Aufwärtstrend fort, getrieben durch die zunehmende Photovoltaik-Erzeugung und die aktuelle Lage im Nahen Osten",
-      "url": "https://www.pv-magazine.de/2026/05/29/enervis-batteriespeicher-index-im-april-setzen-die-batteriespeicher-erloese-in-deutschland-ihren-aufwaertstrend-fort-getrieben-durch-die-zunehmende-photovoltaik-erzeugung-und-die-aktuelle-lage-im-na/",
-      "published_at": "2026-05-29T07:47:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Enervis-Batteriespeicher-Index: Im April setzen die Batteriespeicher-Erlöse in Deutschland ihren Aufwärtstrend fort, getrieben durch die zunehmende Photovoltaik-Erzeugung und die aktuelle Lage im Nahen Osten Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
       "tags": [],
       "regions": []
     }
