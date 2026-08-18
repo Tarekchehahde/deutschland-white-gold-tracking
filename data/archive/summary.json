@@ -1,15 +1,37 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-17T18:57:57Z",
+  "generated_at_utc": "2026-08-18T05:44:26Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 493,
+  "total_in_archive": 495,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 60
+    "2026-08": 62
   },
   "recent_for_ui": [
+    {
+      "id": "541ac20b9cfa76e91db348ee",
+      "title": "Trotz hoher Benzinpreise: Nicht jeder spart mit dem Elektroauto",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/fuer-wen-sich-der-umstieg-auf-ein-elektroauto-wirklich-lohnt-201118218.html",
+      "published_at": "2026-08-18T04:17:34Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Trotz hoher Benzinpreise: Nicht jeder spart mit dem Elektroauto Je teurer das Benzin, desto eher lockt das Elektroauto. Ob man mit dem Umstieg wirklich sparen kann, zeigt der F.A.Z.-Autorechner.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8b4d9879c8adad01774764e4",
+      "title": "Der F.A.Z.-Autorechner: Lohnt sich der Umstieg aufs Elektroauto?",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/wie-viel-geld-kann-man-mit-dem-umstieg-auf-das-elektroauto-sparen-rechnen-sie-es-hier-aus-201111863.html",
+      "published_at": "2026-08-18T04:15:22Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Der F.A.Z.-Autorechner: Lohnt sich der Umstieg aufs Elektroauto? Elektroauto oder Verbrenner – was ist kostengünstiger? Klicken Sie sich durch verschiedene Szenarien.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d26e418ec21334e1a3e961c9",
       "title": "Ohne Seltenerdmetalle: Yasa will Axialflussmotoren resilient machen",
@@ -4556,28 +4578,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Autobauer geben weniger Rabatt für Elektroautos Der Preisabstand zwischen E-Autos und Verbrennern wächst wieder. Warum Hersteller weniger Nachlass gewähren und welche Förderung jetzt greift.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "afa09dcf5bcf103ab9911a83",
-      "title": "Anzeige: Mobile Wallbox mit 11kW und Kabel wieder unter 170 Euro bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-mit-11kw-und-kabel-wieder-unter-170-euro-bei-amazon-2605-209211.html",
-      "published_at": "2026-05-29T14:44:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Mobile Wallbox mit 11kW und Kabel wieder unter 170 Euro bei Amazon Die mobile 11-kW-Wallbox lädt E-Autos (Typ 2) einfach und flexibel an der CEE-Steckdose und ist bei Amazon jetzt wieder günstiger zu haben. ( Technik/Hardware , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fe3a45bee8c3c5474085c4a1",
-      "title": "MIT-Studie: Kreislaufprozess zur Lithiumgewinnung aus Stein entwickelt",
-      "url": "https://www.golem.de/news/mit-studie-kreislaufprozess-zur-lithiumgewinnung-aus-stein-entwickelt-2605-209207.html",
-      "published_at": "2026-05-29T14:20:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "MIT-Studie: Kreislaufprozess zur Lithiumgewinnung aus Stein entwickelt Mit wiederverwertbaren Chemikalien und geringem Energieeinsatz könnte der Abbau von Lithium und weiteren wichtigen Rohstoffen weltweit umgesetzt werden. ( Lithium , Akku )",
       "tags": [],
       "regions": []
     }
