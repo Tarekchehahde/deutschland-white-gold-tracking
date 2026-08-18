@@ -1,14 +1,14 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-08-14": 1,
-    "2026-08-17": 6,
-    "2026-08-18": 2
+    "2026-08-17": 1,
+    "2026-08-18": 5
   },
   "tag_counts": {
+    "politik": 1,
     "umwelt": 1
   },
   "by_source_category": {
-    "national": 9
+    "national": 6
   }
 }
