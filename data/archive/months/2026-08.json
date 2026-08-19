@@ -1,8 +1,52 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 66,
+  "article_count": 70,
   "articles": [
+    {
+      "id": "9be09306dd147555ea702904",
+      "title": "Bayernwerk definiert neue Kriterien für den Netzanschluss großer Speicher und Verbraucher",
+      "url": "https://www.pv-magazine.de/2026/08/19/bayernwerk-definiert-neue-kriterien-fuer-den-netzanschluss-grosser-speicher-und-verbraucher/",
+      "published_at": "2026-08-19T09:37:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bayernwerk definiert neue Kriterien für den Netzanschluss großer Speicher und Verbraucher Das neue Verfahren gilt für nur Graustrom-Batteriespeicher mit mehr als 300 Kilowatt Leistung sowie für Bezugskunden mit einem Leistungsbedarf von mehr als 1.000 Kilowatt. Neben dem Reifegrad berücksichtigt das Bayernwerk unter anderem eine effiziente Netznutzung, etwa der Flexibilitätsbereitschaft sowie der ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f3515f6e147527cb797bd266",
+      "title": "Model Y L: Hinweise auf europäischen Start des längeren Tesla Model Y",
+      "url": "https://www.golem.de/news/model-y-l-hinweise-deuten-auf-europaeischen-start-des-laengeren-tesla-model-y-2608-212083.html",
+      "published_at": "2026-08-19T09:26:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Model Y L: Hinweise auf europäischen Start des längeren Tesla Model Y Drei Sitzreihen, ein großer Akku und noch länger: Das Tesla Model Y L wird wohl bald auch in Europa verkauft. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8544ef296699e79e7ecd3013",
+      "title": "Förderung von Elektroautos: Wie muss die Kaufprämie reformiert werden?",
+      "url": "https://www.golem.de/news/foerderung-von-elektroautos-wie-muss-die-kaufpraemie-reformiert-werden-2608-212068.html",
+      "published_at": "2026-08-19T08:30:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Förderung von Elektroautos: Wie muss die Kaufprämie reformiert werden? Geförderte Luxusautos und viele Fahrzeuge aus chinesischer Produktion: An den Modalitäten der Kaufprämie für E-Autos wächst die Kritik. Eine Analyse von Friedhelm Greis ( Elektroauto , Politik )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e2e91380ee66d10875c84f41",
+      "title": "PV&B Austria veröffentlicht aktualisierten Brandschutzleitfaden",
+      "url": "https://www.pv-magazine.de/2026/08/19/pvb-austria-veroeffentlicht-aktualisierten-brandschutzleitfaden/",
+      "published_at": "2026-08-19T07:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "PV&B Austria veröffentlicht aktualisierten Brandschutzleitfaden Der österreichische Branchenverband PV&#38;B Austria hat seinen Leitfaden zum Brandschutz bei Photovoltaik-Anlagen und Batteriespeichern überarbeitet. Neu aufgenommen wurden unter anderem die technischen Richtlinien für Photovoltaik-Freiflächenanlagen sowie für Batteriespeichersysteme ab 250 Kilowattstunden. Auch neue Erkenntnisse aus",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "bda5fdf49d62a75fd627143e",
       "title": "heise+ | Elektroautos laden: Welche Vor- und Nachteile das induktive Laden hat",
