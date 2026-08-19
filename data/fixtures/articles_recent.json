@@ -2,6 +2,50 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "9be09306dd147555ea702904",
+      "title": "Bayernwerk definiert neue Kriterien für den Netzanschluss großer Speicher und Verbraucher",
+      "url": "https://www.pv-magazine.de/2026/08/19/bayernwerk-definiert-neue-kriterien-fuer-den-netzanschluss-grosser-speicher-und-verbraucher/",
+      "published_at": "2026-08-19T09:37:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bayernwerk definiert neue Kriterien für den Netzanschluss großer Speicher und Verbraucher Das neue Verfahren gilt für nur Graustrom-Batteriespeicher mit mehr als 300 Kilowatt Leistung sowie für Bezugskunden mit einem Leistungsbedarf von mehr als 1.000 Kilowatt. Neben dem Reifegrad berücksichtigt das Bayernwerk unter anderem eine effiziente Netznutzung, etwa der Flexibilitätsbereitschaft sowie der ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f3515f6e147527cb797bd266",
+      "title": "Model Y L: Hinweise auf europäischen Start des längeren Tesla Model Y",
+      "url": "https://www.golem.de/news/model-y-l-hinweise-deuten-auf-europaeischen-start-des-laengeren-tesla-model-y-2608-212083.html",
+      "published_at": "2026-08-19T09:26:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Model Y L: Hinweise auf europäischen Start des längeren Tesla Model Y Drei Sitzreihen, ein großer Akku und noch länger: Das Tesla Model Y L wird wohl bald auch in Europa verkauft. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8544ef296699e79e7ecd3013",
+      "title": "Förderung von Elektroautos: Wie muss die Kaufprämie reformiert werden?",
+      "url": "https://www.golem.de/news/foerderung-von-elektroautos-wie-muss-die-kaufpraemie-reformiert-werden-2608-212068.html",
+      "published_at": "2026-08-19T08:30:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Förderung von Elektroautos: Wie muss die Kaufprämie reformiert werden? Geförderte Luxusautos und viele Fahrzeuge aus chinesischer Produktion: An den Modalitäten der Kaufprämie für E-Autos wächst die Kritik. Eine Analyse von Friedhelm Greis ( Elektroauto , Politik )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e2e91380ee66d10875c84f41",
+      "title": "PV&B Austria veröffentlicht aktualisierten Brandschutzleitfaden",
+      "url": "https://www.pv-magazine.de/2026/08/19/pvb-austria-veroeffentlicht-aktualisierten-brandschutzleitfaden/",
+      "published_at": "2026-08-19T07:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "PV&B Austria veröffentlicht aktualisierten Brandschutzleitfaden Der österreichische Branchenverband PV&#38;B Austria hat seinen Leitfaden zum Brandschutz bei Photovoltaik-Anlagen und Batteriespeichern überarbeitet. Neu aufgenommen wurden unter anderem die technischen Richtlinien für Photovoltaik-Freiflächenanlagen sowie für Batteriespeichersysteme ab 250 Kilowattstunden. Auch neue Erkenntnisse aus",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "bda5fdf49d62a75fd627143e",
       "title": "heise+ | Elektroautos laden: Welche Vor- und Nachteile das induktive Laden hat",
       "url": "https://www.heise.de/hintergrund/Elektroautos-laden-Welche-Vor-und-Nachteile-das-induktive-Laden-hat-11375342.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
@@ -27,28 +71,6 @@
       "regions": []
     },
     {
-      "id": "3c4320c29e6e788313161ee5",
-      "title": "Phosgo Go 5: Dieses E-Bike lädt sich selbst über Solarpaneele in den Felgen",
-      "url": "https://www.golem.de/news/phosgo-go-5-dieses-e-bike-laedt-sich-selbst-ueber-solarpaneele-in-den-felgen-2608-212030.html",
-      "published_at": "2026-08-18T08:31:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Phosgo Go 5: Dieses E-Bike lädt sich selbst über Solarpaneele in den Felgen Das Phosgo Go 5 soll sich pro Tag für 27 Kilometer Reichweite selbst aufladen können. Es wehen aber einige rote Flaggen über dem E-Bike. ( E-Bike , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e4a7ffaee0f04b5254fce754",
-      "title": "Photovoltaik stabilisiert das französische Stromnetz bei Hitzewellen und sinkender Kernkraftleistung",
-      "url": "https://www.pv-magazine.de/2026/08/18/photovoltaik-stabilisiert-das-franzoesische-stromnetz-bei-hitzewellen-und-sinkender-kernkraftleistung/",
-      "published_at": "2026-08-18T07:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Photovoltaik stabilisiert das französische Stromnetz bei Hitzewellen und sinkender Kernkraftleistung Hitzewellen und Dürre haben zur Abschaltung mehrerer französischer Kernreaktoren geführt, während eine starke Solarstromerzeugung zur Stabilisierung des Netzes beigetragen hat. Da die Photovoltaik-Leistung nach Sonnenuntergang zurückgeht, könnten Batteriespeicher helfen, den hohen Abendbedarf zu de",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "541ac20b9cfa76e91db348ee",
       "title": "Trotz hoher Benzinpreise: Nicht jeder spart mit dem Elektroauto",
       "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/fuer-wen-sich-der-umstieg-auf-ein-elektroauto-wirklich-lohnt-201118218.html",
@@ -67,17 +89,6 @@
       "source_id": "faz-aktuell",
       "language": "de",
       "summary": "Der F.A.Z.-Autorechner: Lohnt sich der Umstieg aufs Elektroauto? Elektroauto oder Verbrenner – was ist kostengünstiger? Klicken Sie sich durch verschiedene Szenarien.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6fbbcac831cb084c9a1c0801",
-      "title": "Weltweite Photovoltaik-Leistung überschreitet Drei-Terawatt-Marke",
-      "url": "https://www.pv-magazine.de/2026/08/17/weltweite-photovoltaik-leistung-ueberschreitet-drei-terawatt-marke/",
-      "published_at": "2026-08-17T13:38:36Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Weltweite Photovoltaik-Leistung überschreitet Drei-Terawatt-Marke Mit mehr als drei Terawatt Leistung hat die Photovoltaik weltweit einen neuen Meilenstein erreicht. China ist Haupttreiber des jüngsten Ausbaus, aber auch Schwellenländer tragen zunehmend zum Wachstum bei. Angesichts des beschleunigten Zubaus werden Netzinfrastruktur, Energiespeicher und Nachfrageflexibilität entscheidend für die In",
       "tags": [],
       "regions": []
     }

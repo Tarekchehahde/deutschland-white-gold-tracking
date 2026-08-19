@@ -1,15 +1,59 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-19T05:45:56Z",
+  "generated_at_utc": "2026-08-19T18:53:33Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 499,
+  "total_in_archive": 503,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 66
+    "2026-08": 70
   },
   "recent_for_ui": [
+    {
+      "id": "9be09306dd147555ea702904",
+      "title": "Bayernwerk definiert neue Kriterien für den Netzanschluss großer Speicher und Verbraucher",
+      "url": "https://www.pv-magazine.de/2026/08/19/bayernwerk-definiert-neue-kriterien-fuer-den-netzanschluss-grosser-speicher-und-verbraucher/",
+      "published_at": "2026-08-19T09:37:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bayernwerk definiert neue Kriterien für den Netzanschluss großer Speicher und Verbraucher Das neue Verfahren gilt für nur Graustrom-Batteriespeicher mit mehr als 300 Kilowatt Leistung sowie für Bezugskunden mit einem Leistungsbedarf von mehr als 1.000 Kilowatt. Neben dem Reifegrad berücksichtigt das Bayernwerk unter anderem eine effiziente Netznutzung, etwa der Flexibilitätsbereitschaft sowie der ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f3515f6e147527cb797bd266",
+      "title": "Model Y L: Hinweise auf europäischen Start des längeren Tesla Model Y",
+      "url": "https://www.golem.de/news/model-y-l-hinweise-deuten-auf-europaeischen-start-des-laengeren-tesla-model-y-2608-212083.html",
+      "published_at": "2026-08-19T09:26:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Model Y L: Hinweise auf europäischen Start des längeren Tesla Model Y Drei Sitzreihen, ein großer Akku und noch länger: Das Tesla Model Y L wird wohl bald auch in Europa verkauft. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8544ef296699e79e7ecd3013",
+      "title": "Förderung von Elektroautos: Wie muss die Kaufprämie reformiert werden?",
+      "url": "https://www.golem.de/news/foerderung-von-elektroautos-wie-muss-die-kaufpraemie-reformiert-werden-2608-212068.html",
+      "published_at": "2026-08-19T08:30:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Förderung von Elektroautos: Wie muss die Kaufprämie reformiert werden? Geförderte Luxusautos und viele Fahrzeuge aus chinesischer Produktion: An den Modalitäten der Kaufprämie für E-Autos wächst die Kritik. Eine Analyse von Friedhelm Greis ( Elektroauto , Politik )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e2e91380ee66d10875c84f41",
+      "title": "PV&B Austria veröffentlicht aktualisierten Brandschutzleitfaden",
+      "url": "https://www.pv-magazine.de/2026/08/19/pvb-austria-veroeffentlicht-aktualisierten-brandschutzleitfaden/",
+      "published_at": "2026-08-19T07:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "PV&B Austria veröffentlicht aktualisierten Brandschutzleitfaden Der österreichische Branchenverband PV&#38;B Austria hat seinen Leitfaden zum Brandschutz bei Photovoltaik-Anlagen und Batteriespeichern überarbeitet. Neu aufgenommen wurden unter anderem die technischen Richtlinien für Photovoltaik-Freiflächenanlagen sowie für Batteriespeichersysteme ab 250 Kilowattstunden. Auch neue Erkenntnisse aus",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "bda5fdf49d62a75fd627143e",
       "title": "heise+ | Elektroautos laden: Welche Vor- und Nachteile das induktive Laden hat",
@@ -4534,52 +4578,6 @@
       "tags": [
         "politik"
       ],
-      "regions": []
-    },
-    {
-      "id": "b2dd943c79ed2f538b3d85ec",
-      "title": "Encosa sichert sich 25 Millionen Euro für Batteriespeicherlösungen im Mittelstand",
-      "url": "https://www.pv-magazine.de/2026/06/01/encosa-sichert-sich-25-millionen-euro-fuer-batteriespeicherloesungen-im-mittelstand/",
-      "published_at": "2026-06-01T08:51:12Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Encosa sichert sich 25 Millionen Euro für Batteriespeicherlösungen im Mittelstand Das Münchner Start-up Encosa hat 25 Millionen Euro frisches Kapital eingeworben. Mit dem Geld will das Unternehmen seine KI-gestützte Technologieplattform weiterentwickeln und das Geschäft in Deutschland sowie international ausbauen.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "81ac8b8a1041fa74aef2ca99",
-      "title": "Offshore-Wasserstoff: Schwimmende Strom-Tankstelle für Kreuzfahrtschiffe entworfen",
-      "url": "https://www.golem.de/news/offshore-wasserstoff-schwimmende-strom-tankstelle-fuer-kreuzfahrtschiffe-entworfen-2606-209240.html",
-      "published_at": "2026-06-01T08:22:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Offshore-Wasserstoff: Schwimmende Strom-Tankstelle für Kreuzfahrtschiffe entworfen Den hohen Strombedarf großer Schiffe soll ein System aus Batterien, Brennstoffzellen, Tanks und Solarzellen decken. Es ist wabenförmig und modular. ( Brennstoffzelle , Solarenergie )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "00cfa292a7689f8c39ddac3f",
-      "title": "Elektroautos: VW kappt API-Schnittstelle für Heimautomation",
-      "url": "https://www.golem.de/news/elektroautos-vw-kappt-api-schnittstelle-fuer-heimautomation-2606-209241.html",
-      "published_at": "2026-06-01T07:54:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroautos: VW kappt API-Schnittstelle für Heimautomation VW-Besitzer konnten Live-Fahrzeugdaten für die Integration ihres Elektroautos in eine Heimautomation verwenden - bis VW die Schnittstelle gesperrt hat. ( VW , API )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1659e9e03dffddd28e16929f",
-      "title": "Elektroautos: Autobauer geben weniger Rabatte für Stromer",
-      "url": "https://www.sueddeutsche.de/wirtschaft/elektroautos-deutschland-rabatte-mai-li.3491667",
-      "published_at": "2026-05-31T12:48:43Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "Elektroautos: Autobauer geben weniger Rabatte für Stromer Der Preisabstand zwischen E-Autos und Verbrennern wächst wieder. Warum Hersteller weniger Nachlass gewähren und welche Förderung jetzt greift.",
-      "tags": [],
       "regions": []
     }
   ]
