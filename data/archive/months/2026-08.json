@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 65,
+  "article_count": 66,
   "articles": [
+    {
+      "id": "bda5fdf49d62a75fd627143e",
+      "title": "heise+ | Elektroautos laden: Welche Vor- und Nachteile das induktive Laden hat",
+      "url": "https://www.heise.de/hintergrund/Elektroautos-laden-Welche-Vor-und-Nachteile-das-induktive-Laden-hat-11375342.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-08-19T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroautos laden: Welche Vor- und Nachteile das induktive Laden hat Das kabellose Laden fürs E-Auto funktioniert technisch schon lange, doch nur Porsche bietet das für einen hohen Aufpreis an. Kommt in Zukunft mehr?",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "dc4ee792cffb1c648f8e3ef4",
       "title": "DUH und Green Planet Energy legen EU-Beschwerde gegen StromVKG ein",
