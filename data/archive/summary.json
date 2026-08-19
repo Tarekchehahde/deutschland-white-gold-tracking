@@ -1,15 +1,26 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-18T18:56:59Z",
+  "generated_at_utc": "2026-08-19T05:45:56Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 498,
+  "total_in_archive": 499,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 65
+    "2026-08": 66
   },
   "recent_for_ui": [
+    {
+      "id": "bda5fdf49d62a75fd627143e",
+      "title": "heise+ | Elektroautos laden: Welche Vor- und Nachteile das induktive Laden hat",
+      "url": "https://www.heise.de/hintergrund/Elektroautos-laden-Welche-Vor-und-Nachteile-das-induktive-Laden-hat-11375342.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-08-19T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroautos laden: Welche Vor- und Nachteile das induktive Laden hat Das kabellose Laden fürs E-Auto funktioniert technisch schon lange, doch nur Porsche bietet das für einen hohen Aufpreis an. Kommt in Zukunft mehr?",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "dc4ee792cffb1c648f8e3ef4",
       "title": "DUH und Green Planet Energy legen EU-Beschwerde gegen StromVKG ein",
@@ -4568,17 +4579,6 @@
       "source_id": "sueddeutsche-wirtschaft",
       "language": "de",
       "summary": "Elektroautos: Autobauer geben weniger Rabatte für Stromer Der Preisabstand zwischen E-Autos und Verbrennern wächst wieder. Warum Hersteller weniger Nachlass gewähren und welche Förderung jetzt greift.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e3d244c2f2f988c6bfa7d5a0",
-      "title": "Wolfang Kubicki: FDP-Parteichef will E-Auto-Kaufprämie sofort streichen",
-      "url": "https://www.golem.de/news/wolfang-kubicki-fdp-parteichef-will-e-auto-kaufpraemie-sofort-streichen-2605-209228.html",
-      "published_at": "2026-05-31T09:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Wolfang Kubicki: FDP-Parteichef will E-Auto-Kaufprämie sofort streichen Aus Sicht von Wolfgang Kubicki profitieren vor allem ausländische Autohersteller von der neuen E-Auto-Kaufprämie. ( Elektroauto , Politik )",
       "tags": [],
       "regions": []
     }
