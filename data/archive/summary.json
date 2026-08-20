@@ -1,19 +1,74 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-20T05:45:59Z",
+  "generated_at_utc": "2026-08-20T18:59:27Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 504,
+  "total_in_archive": 509,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 71
+    "2026-08": 76
   },
   "recent_for_ui": [
+    {
+      "id": "66bcc0cd927c800b26495304",
+      "title": "Flottenemissionen: Volkswagen drohen Milliardenstrafen der EU",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/co-emissionen-volkswagen-drohen-milliardenstrafen-der-eu-201143540.html",
+      "published_at": "2026-08-20T17:04:30Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Flottenemissionen: Volkswagen drohen Milliardenstrafen der EU Weil Volkswagen zu wenig Elektroautos verkauft, werden die europäischen Grenzwerte für CO₂-Emissionen nicht eingehalten. Das kann teuer werden. Für die Tochtergesellschaft Porsche deutet sich eine Lösung unter chinesischer Beteiligung an.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "33c301edbe65aa20a164b6fa",
+      "title": "Autonomes Fahren: Tesla-Robotaxi durchbricht detektierte Poller-Barriere",
+      "url": "https://www.golem.de/news/autonomes-fahren-tesla-robotaxi-durchbricht-detektierte-poller-barriere-2608-212129.html",
+      "published_at": "2026-08-20T10:41:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Tesla-Robotaxi durchbricht detektierte Poller-Barriere Angeblich will Tesla sein autonomes Cybercab noch in August 2026 in Betrieb nehmen. Doch die Software trifft bisweilen merkwürdige Entscheidungen. ( Cybercab , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2295afbe67613cdc353c1a96",
+      "title": "IAA Transportation: Tesla bringt den Elektro-Lkw Semi nach Europa",
+      "url": "https://www.golem.de/news/iaa-transportation-tesla-bringt-den-elektro-lkw-semi-nach-europa-2608-212121.html",
+      "published_at": "2026-08-20T09:21:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "IAA Transportation: Tesla bringt den Elektro-Lkw Semi nach Europa Vor allem in China boomt der Verkauf von elektrischen Bussen und Lkw. Tesla will Details zur Markteinführung des Semi auf der IAA Transportation vorstellen. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8d07c065cc2ab971d94ab010",
+      "title": "Batteriespeicher-Finanzierung: Fully Merchant geht mit Risikoaufschlag",
+      "url": "https://www.pv-magazine.de/2026/08/20/batteriespeicher-finanzierung-fully-merchant-geht-mit-risikoaufschlag/",
+      "published_at": "2026-08-20T07:37:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Batteriespeicher-Finanzierung: Fully Merchant geht mit Risikoaufschlag Peer Günzel, Geschäftsführer der DAL, erklärt im Interview mit pv magazine, wann Non-Recourse-Finanzierungen möglich sind und warum Tolling-Verträge bei größeren Projekten an Bedeutung gewinnen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "35b867b572d163542e95fdf8",
       "title": "Elektromobilität: Weltweiter Absatz von E-Lkw und E-Bussen fast verdoppelt",
       "url": "https://www.zeit.de/wirtschaft/2026-08/elektro-lkw-busse-verkaeufe-china-icct",
+      "published_at": "2026-08-20T02:01:17Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Weltweiter Absatz von E-Lkw und E-Bussen fast verdoppelt Einer Untersuchung zufolge wurden im Jahr 2025 rund eine halbe Million E-Busse und -Lkw verkauft. Die meisten Verkäufe entfielen auf China.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "529017569bc408f46fd16885",
+      "title": "Elektromobilität: Weltweiter Absatz von E-Lkw und E-Bussen fast verdoppelt",
+      "url": "https://www.zeit.de/wirtschaft/2026-08/elektro-lkw-busse-verkaeufe-china-icct-gxe",
       "published_at": "2026-08-20T02:01:17Z",
       "source_id": "zeit-wirtschaft",
       "language": "de",
@@ -4517,65 +4572,6 @@
       "language": "de",
       "summary": "Retrofitting: UN-Regelwerk soll E-Auto-Umbau weltweit vereinfachen Die UNECE plant harmonisierte Vorschriften für Elektro-Umrüstkits bis 2027. Private Garagen-Bastler könnten aber leer ausgehen. ( Elektromobilität , GreenIT )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c8bb1da1ac9ebd629c051baa",
-      "title": "Autonomes Fahren: BYD übernimmt volle Haftung für Assistenzsysteme",
-      "url": "https://www.golem.de/news/autonomes-fahren-byd-uebernimmt-volle-haftung-fuer-assistenzsysteme-2606-209277.html",
-      "published_at": "2026-06-01T16:11:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: BYD übernimmt volle Haftung für Assistenzsysteme Der Autohersteller BYD will auch dann für Schäden haften, wenn der Fahrer verantwortlich ist. ( BYD , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8d7bbe2e9182deac096ae57a",
-      "title": "Neues Verfahren vereinfacht Lithiumgewinnung aus Erz",
-      "url": "https://www.heise.de/news/Neues-Verfahren-vereinfacht-Lithiumgewinnung-aus-Erz-11314240.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-01T16:11:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Neues Verfahren vereinfacht Lithiumgewinnung aus Erz Ein neues Verfahren ermöglicht die Gewinnung von Lithium aus Erz auf einfache, günstige und umweltfreundliche Weise. Eine MIT-Ausgründung will es vermarkten.",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "ce91a2ae3474068dc2b54917",
-      "title": "Elektroauto kaufen gebraucht: Fahrer in Deutschland stürmen Markt für E-Pkw",
-      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-gebraucht-fahrer-in-deutschland-stuermen-markt-fuer-e-pkw-a-c5b7b80a-563b-491d-b0ee-a15001da8621",
-      "published_at": "2026-06-01T15:48:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Elektroauto kaufen gebraucht: Fahrer in Deutschland stürmen Markt für E-Pkw Die Nachfrage nach gebrauchten Elektroautos in Deutschland wächst stark – das hat offenbar mit dem Irankrieg zu tun. In der Statistik eines großen Verkaufsportals zeigen sich einschneidende Folgen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "174d8dea49a36a33de723d14",
-      "title": "(g+) Electric vehicles: BYD's new 4-nm self-driving chip fails to dispel investors' growth concerns",
-      "url": "https://www.golem.de/news/electric-vehicles-byd-s-new-4-nm-self-driving-chip-fails-to-dispel-investors-growth-concerns-2606-209266.html",
-      "published_at": "2026-06-01T14:30:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "(g+) Electric vehicles: BYD's new 4-nm self-driving chip fails to dispel investors' growth concerns EV maker hoping in-house strategy will help cut costs and break 8-month sales slump ( BYD , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "611ee2b0e19511304468e338",
-      "title": "Stadtwerke Tübingen, Zählerfreunde und Trianel starten Pilotprojekt für flexible Haushaltsenergie",
-      "url": "https://www.pv-magazine.de/2026/06/01/stadtwerke-tuebingen-zaehlerfreunde-und-trianel-starten-pilotprojekt-fuer-flexible-haushaltsenergie/",
-      "published_at": "2026-06-01T13:34:31Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Stadtwerke Tübingen, Zählerfreunde und Trianel starten Pilotprojekt für flexible Haushaltsenergie Die Unternehmen haben ein gemeinsames Pilotprojekt für intelligentes Energiemanagement gestartet. Dabei soll untersucht werden, wie sich Photovoltaik, Wärmepumpen, Batteriespeicher, Elektroautos und dynamische Stromtarife einfacher in den Alltag von Privatkunden integrieren lassen.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]
