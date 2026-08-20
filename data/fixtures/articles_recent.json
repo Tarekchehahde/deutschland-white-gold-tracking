@@ -2,83 +2,58 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "35b867b572d163542e95fdf8",
+      "id": "66bcc0cd927c800b26495304",
+      "title": "Flottenemissionen: Volkswagen drohen Milliardenstrafen der EU",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/co-emissionen-volkswagen-drohen-milliardenstrafen-der-eu-201143540.html",
+      "published_at": "2026-08-20T17:04:30Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Flottenemissionen: Volkswagen drohen Milliardenstrafen der EU Weil Volkswagen zu wenig Elektroautos verkauft, werden die europäischen Grenzwerte für CO₂-Emissionen nicht eingehalten. Das kann teuer werden. Für die Tochtergesellschaft Porsche deutet sich eine Lösung unter chinesischer Beteiligung an.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "33c301edbe65aa20a164b6fa",
+      "title": "Autonomes Fahren: Tesla-Robotaxi durchbricht detektierte Poller-Barriere",
+      "url": "https://www.golem.de/news/autonomes-fahren-tesla-robotaxi-durchbricht-detektierte-poller-barriere-2608-212129.html",
+      "published_at": "2026-08-20T10:41:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Tesla-Robotaxi durchbricht detektierte Poller-Barriere Angeblich will Tesla sein autonomes Cybercab noch in August 2026 in Betrieb nehmen. Doch die Software trifft bisweilen merkwürdige Entscheidungen. ( Cybercab , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2295afbe67613cdc353c1a96",
+      "title": "IAA Transportation: Tesla bringt den Elektro-Lkw Semi nach Europa",
+      "url": "https://www.golem.de/news/iaa-transportation-tesla-bringt-den-elektro-lkw-semi-nach-europa-2608-212121.html",
+      "published_at": "2026-08-20T09:21:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "IAA Transportation: Tesla bringt den Elektro-Lkw Semi nach Europa Vor allem in China boomt der Verkauf von elektrischen Bussen und Lkw. Tesla will Details zur Markteinführung des Semi auf der IAA Transportation vorstellen. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8d07c065cc2ab971d94ab010",
+      "title": "Batteriespeicher-Finanzierung: Fully Merchant geht mit Risikoaufschlag",
+      "url": "https://www.pv-magazine.de/2026/08/20/batteriespeicher-finanzierung-fully-merchant-geht-mit-risikoaufschlag/",
+      "published_at": "2026-08-20T07:37:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Batteriespeicher-Finanzierung: Fully Merchant geht mit Risikoaufschlag Peer Günzel, Geschäftsführer der DAL, erklärt im Interview mit pv magazine, wann Non-Recourse-Finanzierungen möglich sind und warum Tolling-Verträge bei größeren Projekten an Bedeutung gewinnen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "529017569bc408f46fd16885",
       "title": "Elektromobilität: Weltweiter Absatz von E-Lkw und E-Bussen fast verdoppelt",
-      "url": "https://www.zeit.de/wirtschaft/2026-08/elektro-lkw-busse-verkaeufe-china-icct",
+      "url": "https://www.zeit.de/wirtschaft/2026-08/elektro-lkw-busse-verkaeufe-china-icct-gxe",
       "published_at": "2026-08-20T02:01:17Z",
       "source_id": "zeit-wirtschaft",
       "language": "de",
       "summary": "Elektromobilität: Weltweiter Absatz von E-Lkw und E-Bussen fast verdoppelt Einer Untersuchung zufolge wurden im Jahr 2025 rund eine halbe Million E-Busse und -Lkw verkauft. Die meisten Verkäufe entfielen auf China.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9be09306dd147555ea702904",
-      "title": "Bayernwerk definiert neue Kriterien für den Netzanschluss großer Speicher und Verbraucher",
-      "url": "https://www.pv-magazine.de/2026/08/19/bayernwerk-definiert-neue-kriterien-fuer-den-netzanschluss-grosser-speicher-und-verbraucher/",
-      "published_at": "2026-08-19T09:37:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Bayernwerk definiert neue Kriterien für den Netzanschluss großer Speicher und Verbraucher Das neue Verfahren gilt für nur Graustrom-Batteriespeicher mit mehr als 300 Kilowatt Leistung sowie für Bezugskunden mit einem Leistungsbedarf von mehr als 1.000 Kilowatt. Neben dem Reifegrad berücksichtigt das Bayernwerk unter anderem eine effiziente Netznutzung, etwa der Flexibilitätsbereitschaft sowie der ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f3515f6e147527cb797bd266",
-      "title": "Model Y L: Hinweise auf europäischen Start des längeren Tesla Model Y",
-      "url": "https://www.golem.de/news/model-y-l-hinweise-deuten-auf-europaeischen-start-des-laengeren-tesla-model-y-2608-212083.html",
-      "published_at": "2026-08-19T09:26:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Model Y L: Hinweise auf europäischen Start des längeren Tesla Model Y Drei Sitzreihen, ein großer Akku und noch länger: Das Tesla Model Y L wird wohl bald auch in Europa verkauft. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8544ef296699e79e7ecd3013",
-      "title": "Förderung von Elektroautos: Wie muss die Kaufprämie reformiert werden?",
-      "url": "https://www.golem.de/news/foerderung-von-elektroautos-wie-muss-die-kaufpraemie-reformiert-werden-2608-212068.html",
-      "published_at": "2026-08-19T08:30:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Förderung von Elektroautos: Wie muss die Kaufprämie reformiert werden? Geförderte Luxusautos und viele Fahrzeuge aus chinesischer Produktion: An den Modalitäten der Kaufprämie für E-Autos wächst die Kritik. Eine Analyse von Friedhelm Greis ( Elektroauto , Politik )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e2e91380ee66d10875c84f41",
-      "title": "PV&B Austria veröffentlicht aktualisierten Brandschutzleitfaden",
-      "url": "https://www.pv-magazine.de/2026/08/19/pvb-austria-veroeffentlicht-aktualisierten-brandschutzleitfaden/",
-      "published_at": "2026-08-19T07:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "PV&B Austria veröffentlicht aktualisierten Brandschutzleitfaden Der österreichische Branchenverband PV&#38;B Austria hat seinen Leitfaden zum Brandschutz bei Photovoltaik-Anlagen und Batteriespeichern überarbeitet. Neu aufgenommen wurden unter anderem die technischen Richtlinien für Photovoltaik-Freiflächenanlagen sowie für Batteriespeichersysteme ab 250 Kilowattstunden. Auch neue Erkenntnisse aus",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bda5fdf49d62a75fd627143e",
-      "title": "heise+ | Elektroautos laden: Welche Vor- und Nachteile das induktive Laden hat",
-      "url": "https://www.heise.de/hintergrund/Elektroautos-laden-Welche-Vor-und-Nachteile-das-induktive-Laden-hat-11375342.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-08-19T05:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Elektroautos laden: Welche Vor- und Nachteile das induktive Laden hat Das kabellose Laden fürs E-Auto funktioniert technisch schon lange, doch nur Porsche bietet das für einen hohen Aufpreis an. Kommt in Zukunft mehr?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dc4ee792cffb1c648f8e3ef4",
-      "title": "DUH und Green Planet Energy legen EU-Beschwerde gegen StromVKG ein",
-      "url": "https://www.pv-magazine.de/2026/08/18/duh-und-green-planet-energy-legen-eu-beschwerde-gegen-stromvkg-ein/",
-      "published_at": "2026-08-18T09:47:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "DUH und Green Planet Energy legen EU-Beschwerde gegen StromVKG ein Die Deutsche Umwelthilfe und Green Planet Energy haben bei der EU-Kommission Beschwerde gegen das Stromversorgungssicherheits- und Kapazitätsgesetz eingereicht. Sie kritisieren, dass die Ausschreibungen für gesicherte Langzeitkapazitäten zwar formal technologieoffen sind, die technischen Anforderungen jedoch unter anderem Batteries",
-      "tags": [
-        "politik",
-        "umwelt"
-      ],
       "regions": []
     },
     {
