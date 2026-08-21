@@ -1,15 +1,26 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-20T18:59:27Z",
+  "generated_at_utc": "2026-08-21T05:47:21Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 509,
+  "total_in_archive": 510,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 76
+    "2026-08": 77
   },
   "recent_for_ui": [
+    {
+      "id": "3f9cea4d49afc824b0a68f8c",
+      "title": "Streit über E-Autos: Veraltete Emissionsregeln",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/emissionsregeln-droht-volkswagen-eine-milliardenstrafe-201144192.html",
+      "published_at": "2026-08-20T19:41:31Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Streit über E-Autos: Veraltete Emissionsregeln Dass der Ausbau der Elektromobilität viel länger dauert, als Politiker und Bürokraten das einst geplant haben, ist bekannt. Das muss Konsequenzen für die Strafzahlungen haben.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "66bcc0cd927c800b26495304",
       "title": "Flottenemissionen: Volkswagen drohen Milliardenstrafen der EU",
@@ -4560,17 +4571,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Stimmen der Energiewende: Georg Gallmetzer – Speicherunternehmer und Brückenbauer im Stromnetz? – ein pv magazine Podcast In dieser Podcastreihe sprechen wir mit Menschen, die die Energiewende an entscheidender Stelle mitgestalten. Die Moderatoren Michael Fuhs, pv magazine Chefredakteur, und Stefan Müller, COO von Enerparc, wollen von Georg Gallmetzer aus der Eco Stor Geschäftsführung wissen, wie ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9fede1496172063bb9fa7ef3",
-      "title": "Retrofitting: UN-Regelwerk soll E-Auto-Umbau weltweit vereinfachen",
-      "url": "https://www.golem.de/news/retrofitting-un-regelwerk-soll-e-auto-umbau-weltweit-vereinfachen-2606-209282.html",
-      "published_at": "2026-06-02T06:10:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Retrofitting: UN-Regelwerk soll E-Auto-Umbau weltweit vereinfachen Die UNECE plant harmonisierte Vorschriften für Elektro-Umrüstkits bis 2027. Private Garagen-Bastler könnten aber leer ausgehen. ( Elektromobilität , GreenIT )",
       "tags": [],
       "regions": []
     }

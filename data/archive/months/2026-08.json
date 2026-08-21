@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 76,
+  "article_count": 77,
   "articles": [
+    {
+      "id": "3f9cea4d49afc824b0a68f8c",
+      "title": "Streit über E-Autos: Veraltete Emissionsregeln",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/emissionsregeln-droht-volkswagen-eine-milliardenstrafe-201144192.html",
+      "published_at": "2026-08-20T19:41:31Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Streit über E-Autos: Veraltete Emissionsregeln Dass der Ausbau der Elektromobilität viel länger dauert, als Politiker und Bürokraten das einst geplant haben, ist bekannt. Das muss Konsequenzen für die Strafzahlungen haben.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "66bcc0cd927c800b26495304",
       "title": "Flottenemissionen: Volkswagen drohen Milliardenstrafen der EU",
