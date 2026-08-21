@@ -2,57 +2,63 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "3f9cea4d49afc824b0a68f8c",
-      "title": "Streit über E-Autos: Veraltete Emissionsregeln",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/emissionsregeln-droht-volkswagen-eine-milliardenstrafe-201144192.html",
-      "published_at": "2026-08-20T19:41:31Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Streit über E-Autos: Veraltete Emissionsregeln Dass der Ausbau der Elektromobilität viel länger dauert, als Politiker und Bürokraten das einst geplant haben, ist bekannt. Das muss Konsequenzen für die Strafzahlungen haben.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "33c301edbe65aa20a164b6fa",
-      "title": "Autonomes Fahren: Tesla-Robotaxi durchbricht detektierte Poller-Barriere",
-      "url": "https://www.golem.de/news/autonomes-fahren-tesla-robotaxi-durchbricht-detektierte-poller-barriere-2608-212129.html",
-      "published_at": "2026-08-20T10:41:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Tesla-Robotaxi durchbricht detektierte Poller-Barriere Angeblich will Tesla sein autonomes Cybercab noch in August 2026 in Betrieb nehmen. Doch die Software trifft bisweilen merkwürdige Entscheidungen. ( Cybercab , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2295afbe67613cdc353c1a96",
-      "title": "IAA Transportation: Tesla bringt den Elektro-Lkw Semi nach Europa",
-      "url": "https://www.golem.de/news/iaa-transportation-tesla-bringt-den-elektro-lkw-semi-nach-europa-2608-212121.html",
-      "published_at": "2026-08-20T09:21:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "IAA Transportation: Tesla bringt den Elektro-Lkw Semi nach Europa Vor allem in China boomt der Verkauf von elektrischen Bussen und Lkw. Tesla will Details zur Markteinführung des Semi auf der IAA Transportation vorstellen. ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8d07c065cc2ab971d94ab010",
-      "title": "Batteriespeicher-Finanzierung: Fully Merchant geht mit Risikoaufschlag",
-      "url": "https://www.pv-magazine.de/2026/08/20/batteriespeicher-finanzierung-fully-merchant-geht-mit-risikoaufschlag/",
-      "published_at": "2026-08-20T07:37:00Z",
+      "id": "494cfe9bfd90387b28fe4130",
+      "title": "Heidelberg bekräftigt Partnerschaft mit Phenogy zur Produktion von Natrium-Ionen-Batteriespeichern",
+      "url": "https://www.pv-magazine.de/2026/08/21/heidelberg-bekraeftigt-partnerschaft-mit-phenogy-zur-produktion-von-natrium-ionen-batteriespeichern/",
+      "published_at": "2026-08-21T13:05:00Z",
       "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "Batteriespeicher-Finanzierung: Fully Merchant geht mit Risikoaufschlag Peer Günzel, Geschäftsführer der DAL, erklärt im Interview mit pv magazine, wann Non-Recourse-Finanzierungen möglich sind und warum Tolling-Verträge bei größeren Projekten an Bedeutung gewinnen.",
+      "summary": "Heidelberg bekräftigt Partnerschaft mit Phenogy zur Produktion von Natrium-Ionen-Batteriespeichern Das Technologieunternehmen bestätigt zum Auftakt seines neuen Geschäftsjahrs das Ziel, gemeinsam mit seinem Schweizer Partner Batteriespeichersysteme zu fertigen und perspektivisch Natrium-Ionen-Batteriezellen auf Basis der Phenogy-Zellchemie aufzubauen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "adeab26c05af51a09d6b6953",
+      "title": "Österreichs Wirtschaftsministerium kündigt Speicher-Offensive an und umreißt Pläne für neue Solarförderung",
+      "url": "https://www.pv-magazine.de/2026/08/21/oesterreichs-wirtschaftsministerium-kuendigt-speicher-offensive-an-und-umreisst-plaene-fuer-neue-solarfoerderung/",
+      "published_at": "2026-08-21T12:23:46Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Österreichs Wirtschaftsministerium kündigt Speicher-Offensive an und umreißt Pläne für neue Solarförderung Ein Entwurf zur Neugestaltung der Photovoltaik-Förderung soll in den nächsten Wochen vorgelegt werden. Batteriespeicher werden dann in den Fokus rücken. Zudem will die Regierung weitere Maßnahmen ergreifen, um den notwendigen Speicherausbau anzukurbeln. Beim Bundesverband PV&#38;B Austria hof",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "3590180c49d4cd5a3cbe2c0f",
+      "title": "Probefahrt im C 400 4Matic: Ein Kandidat für das klassische Mercedes-Taxi",
+      "url": "https://www.golem.de/news/probefahrt-im-c-400-4matic-ein-kandidat-fuer-das-klassische-mercedes-taxi-2608-212147.html",
+      "published_at": "2026-08-21T10:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt im C 400 4Matic: Ein Kandidat für das klassische Mercedes-Taxi Die neue elektrische C-Klasse hat so viel PS wie die stärkste AMG-Version. Der KI-Assistent äußert sich subtil zu Kanzler Merz und empfiehlt den Dacia Spring. Ein Bericht von Friedhelm Greis ( Elektroauto , Auto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "cdf6a084cb0f7df425d7e864",
+      "title": "Kostal startet Verkauf seines neuen Batterie-Wechselrichters",
+      "url": "https://www.pv-magazine.de/2026/08/21/kostal-startet-verkauf-seines-neuen-batterie-wechselrichters/",
+      "published_at": "2026-08-21T09:27:07Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Kostal startet Verkauf seines neuen Batterie-Wechselrichters Mit einer Leistung von 25 Kilowatt ist das Produkt für größere Batteriespeicher gedacht. Der AC-gekoppelte Wechselrichter eignet sich sowohl für Bestands- als auch Neuanlagen.",
       "tags": [],
       "regions": []
     },
     {
-      "id": "529017569bc408f46fd16885",
-      "title": "Elektromobilität: Weltweiter Absatz von E-Lkw und E-Bussen fast verdoppelt",
-      "url": "https://www.zeit.de/wirtschaft/2026-08/elektro-lkw-busse-verkaeufe-china-icct-gxe",
-      "published_at": "2026-08-20T02:01:17Z",
-      "source_id": "zeit-wirtschaft",
+      "id": "5b311999be6402afc91ebc3c",
+      "title": "Inoffizielle Importe nach Deutschland: Importeur vertreibt China-Stromer von Audi",
+      "url": "https://www.golem.de/news/inoffizielle-importe-nach-deutschland-importeur-vertreibt-china-stromer-von-audi-2608-212157.html",
+      "published_at": "2026-08-21T07:54:01Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "Elektromobilität: Weltweiter Absatz von E-Lkw und E-Bussen fast verdoppelt Einer Untersuchung zufolge wurden im Jahr 2025 rund eine halbe Million E-Busse und -Lkw verkauft. Die meisten Verkäufe entfielen auf China.",
+      "summary": "Inoffizielle Importe nach Deutschland: Importeur vertreibt China-Stromer von Audi Ein Händler bietet die China-Modelle Audi E5 Sportback und E7X in Deutschland an. Der Vertrieb birgt aber rechtliche Risiken. ( Audi , Elektroauto )",
       "tags": [],
       "regions": []
     },
