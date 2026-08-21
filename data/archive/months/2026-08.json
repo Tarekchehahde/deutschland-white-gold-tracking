@@ -1,8 +1,69 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 77,
+  "article_count": 82,
   "articles": [
+    {
+      "id": "494cfe9bfd90387b28fe4130",
+      "title": "Heidelberg bekräftigt Partnerschaft mit Phenogy zur Produktion von Natrium-Ionen-Batteriespeichern",
+      "url": "https://www.pv-magazine.de/2026/08/21/heidelberg-bekraeftigt-partnerschaft-mit-phenogy-zur-produktion-von-natrium-ionen-batteriespeichern/",
+      "published_at": "2026-08-21T13:05:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Heidelberg bekräftigt Partnerschaft mit Phenogy zur Produktion von Natrium-Ionen-Batteriespeichern Das Technologieunternehmen bestätigt zum Auftakt seines neuen Geschäftsjahrs das Ziel, gemeinsam mit seinem Schweizer Partner Batteriespeichersysteme zu fertigen und perspektivisch Natrium-Ionen-Batteriezellen auf Basis der Phenogy-Zellchemie aufzubauen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "adeab26c05af51a09d6b6953",
+      "title": "Österreichs Wirtschaftsministerium kündigt Speicher-Offensive an und umreißt Pläne für neue Solarförderung",
+      "url": "https://www.pv-magazine.de/2026/08/21/oesterreichs-wirtschaftsministerium-kuendigt-speicher-offensive-an-und-umreisst-plaene-fuer-neue-solarfoerderung/",
+      "published_at": "2026-08-21T12:23:46Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Österreichs Wirtschaftsministerium kündigt Speicher-Offensive an und umreißt Pläne für neue Solarförderung Ein Entwurf zur Neugestaltung der Photovoltaik-Förderung soll in den nächsten Wochen vorgelegt werden. Batteriespeicher werden dann in den Fokus rücken. Zudem will die Regierung weitere Maßnahmen ergreifen, um den notwendigen Speicherausbau anzukurbeln. Beim Bundesverband PV&#38;B Austria hof",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "3590180c49d4cd5a3cbe2c0f",
+      "title": "Probefahrt im C 400 4Matic: Ein Kandidat für das klassische Mercedes-Taxi",
+      "url": "https://www.golem.de/news/probefahrt-im-c-400-4matic-ein-kandidat-fuer-das-klassische-mercedes-taxi-2608-212147.html",
+      "published_at": "2026-08-21T10:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt im C 400 4Matic: Ein Kandidat für das klassische Mercedes-Taxi Die neue elektrische C-Klasse hat so viel PS wie die stärkste AMG-Version. Der KI-Assistent äußert sich subtil zu Kanzler Merz und empfiehlt den Dacia Spring. Ein Bericht von Friedhelm Greis ( Elektroauto , Auto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "cdf6a084cb0f7df425d7e864",
+      "title": "Kostal startet Verkauf seines neuen Batterie-Wechselrichters",
+      "url": "https://www.pv-magazine.de/2026/08/21/kostal-startet-verkauf-seines-neuen-batterie-wechselrichters/",
+      "published_at": "2026-08-21T09:27:07Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Kostal startet Verkauf seines neuen Batterie-Wechselrichters Mit einer Leistung von 25 Kilowatt ist das Produkt für größere Batteriespeicher gedacht. Der AC-gekoppelte Wechselrichter eignet sich sowohl für Bestands- als auch Neuanlagen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5b311999be6402afc91ebc3c",
+      "title": "Inoffizielle Importe nach Deutschland: Importeur vertreibt China-Stromer von Audi",
+      "url": "https://www.golem.de/news/inoffizielle-importe-nach-deutschland-importeur-vertreibt-china-stromer-von-audi-2608-212157.html",
+      "published_at": "2026-08-21T07:54:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Inoffizielle Importe nach Deutschland: Importeur vertreibt China-Stromer von Audi Ein Händler bietet die China-Modelle Audi E5 Sportback und E7X in Deutschland an. Der Vertrieb birgt aber rechtliche Risiken. ( Audi , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "3f9cea4d49afc824b0a68f8c",
       "title": "Streit über E-Autos: Veraltete Emissionsregeln",

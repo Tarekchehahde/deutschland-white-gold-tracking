@@ -1,15 +1,76 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-21T05:47:21Z",
+  "generated_at_utc": "2026-08-21T18:56:31Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 510,
+  "total_in_archive": 515,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 77
+    "2026-08": 82
   },
   "recent_for_ui": [
+    {
+      "id": "494cfe9bfd90387b28fe4130",
+      "title": "Heidelberg bekräftigt Partnerschaft mit Phenogy zur Produktion von Natrium-Ionen-Batteriespeichern",
+      "url": "https://www.pv-magazine.de/2026/08/21/heidelberg-bekraeftigt-partnerschaft-mit-phenogy-zur-produktion-von-natrium-ionen-batteriespeichern/",
+      "published_at": "2026-08-21T13:05:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Heidelberg bekräftigt Partnerschaft mit Phenogy zur Produktion von Natrium-Ionen-Batteriespeichern Das Technologieunternehmen bestätigt zum Auftakt seines neuen Geschäftsjahrs das Ziel, gemeinsam mit seinem Schweizer Partner Batteriespeichersysteme zu fertigen und perspektivisch Natrium-Ionen-Batteriezellen auf Basis der Phenogy-Zellchemie aufzubauen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "adeab26c05af51a09d6b6953",
+      "title": "Österreichs Wirtschaftsministerium kündigt Speicher-Offensive an und umreißt Pläne für neue Solarförderung",
+      "url": "https://www.pv-magazine.de/2026/08/21/oesterreichs-wirtschaftsministerium-kuendigt-speicher-offensive-an-und-umreisst-plaene-fuer-neue-solarfoerderung/",
+      "published_at": "2026-08-21T12:23:46Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Österreichs Wirtschaftsministerium kündigt Speicher-Offensive an und umreißt Pläne für neue Solarförderung Ein Entwurf zur Neugestaltung der Photovoltaik-Förderung soll in den nächsten Wochen vorgelegt werden. Batteriespeicher werden dann in den Fokus rücken. Zudem will die Regierung weitere Maßnahmen ergreifen, um den notwendigen Speicherausbau anzukurbeln. Beim Bundesverband PV&#38;B Austria hof",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "3590180c49d4cd5a3cbe2c0f",
+      "title": "Probefahrt im C 400 4Matic: Ein Kandidat für das klassische Mercedes-Taxi",
+      "url": "https://www.golem.de/news/probefahrt-im-c-400-4matic-ein-kandidat-fuer-das-klassische-mercedes-taxi-2608-212147.html",
+      "published_at": "2026-08-21T10:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt im C 400 4Matic: Ein Kandidat für das klassische Mercedes-Taxi Die neue elektrische C-Klasse hat so viel PS wie die stärkste AMG-Version. Der KI-Assistent äußert sich subtil zu Kanzler Merz und empfiehlt den Dacia Spring. Ein Bericht von Friedhelm Greis ( Elektroauto , Auto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "cdf6a084cb0f7df425d7e864",
+      "title": "Kostal startet Verkauf seines neuen Batterie-Wechselrichters",
+      "url": "https://www.pv-magazine.de/2026/08/21/kostal-startet-verkauf-seines-neuen-batterie-wechselrichters/",
+      "published_at": "2026-08-21T09:27:07Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Kostal startet Verkauf seines neuen Batterie-Wechselrichters Mit einer Leistung von 25 Kilowatt ist das Produkt für größere Batteriespeicher gedacht. Der AC-gekoppelte Wechselrichter eignet sich sowohl für Bestands- als auch Neuanlagen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5b311999be6402afc91ebc3c",
+      "title": "Inoffizielle Importe nach Deutschland: Importeur vertreibt China-Stromer von Audi",
+      "url": "https://www.golem.de/news/inoffizielle-importe-nach-deutschland-importeur-vertreibt-china-stromer-von-audi-2608-212157.html",
+      "published_at": "2026-08-21T07:54:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Inoffizielle Importe nach Deutschland: Importeur vertreibt China-Stromer von Audi Ein Händler bietet die China-Modelle Audi E5 Sportback und E7X in Deutschland an. Der Vertrieb birgt aber rechtliche Risiken. ( Audi , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "3f9cea4d49afc824b0a68f8c",
       "title": "Streit über E-Autos: Veraltete Emissionsregeln",
@@ -4514,63 +4575,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Luxus-Elektroauto: Rolls-Royce stellt Spectre II mit mehr Reichweite vor Das Elektroauto Spectre von Rolls-Royce bekommt eine neue Version mit mehr Leistung, mehr Reichweite und einer Black-Badge-Variante. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9d581a6e9f05561db2fc4d18",
-      "title": "Natrium-Ionen-Batterien: „Da steckt viel geheimes Know-how drin“",
-      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/akku-fuer-e-auto-co-natrium-statt-lithium-rwth-aachen-testet-accg-200887792.html",
-      "published_at": "2026-06-03T07:35:53Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Natrium-Ionen-Batterien: „Da steckt viel geheimes Know-how drin“ Natrium statt Lithium: Eine neue Batterietechnologie könnte die Rohstoffabhängigkeit beenden. Forscher von der RWTH Aachen haben ein aktuelles Modell aus China zerlegt – und waren überrascht von der technischen Reife.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "77378931b9a6593ea230dcd4",
-      "title": "heise+ | Was 100 km mit dem Elektroauto im Sommer 2026 wirklich kosten",
-      "url": "https://www.heise.de/ratgeber/Was-100-km-mit-dem-Elektroauto-im-Sommer-2026-wirklich-kosten-11187500.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-06-03T04:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Was 100 km mit dem Elektroauto im Sommer 2026 wirklich kosten Autofahren ist deutlich teurer geworden. Wir zeigen anhand von zwölf Elektroautos, mit welchen Kosten Sie Mitte 2026 pro 100 km rechnen sollten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0f29976729de9a41671a296f",
-      "title": "Vor SpaceX-Börsengang: So viele seiner 602 Versprechen hat Musk erfüllt",
-      "url": "https://www.golem.de/news/vor-spacex-boersengang-so-viele-seiner-602-versprechen-hat-musk-erfuellt-2606-209318.html",
-      "published_at": "2026-06-02T14:30:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Vor SpaceX-Börsengang: So viele seiner 602 Versprechen hat Musk erfüllt Die New York Times hat überprüft, wie viele von Elon Musks Ankündigungen zu Tesla, SpaceX oder anderen Firmen tatsächlich umgesetzt wurden. ( Elon Musk , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7906b08dedce077f8f30fba2",
-      "title": "Next Kraftwerke und Eco Stor schließen Tolling-Vertrag für 300-Megawatt-Speicher in Förderstedt",
-      "url": "https://www.pv-magazine.de/2026/06/02/next-kraftwerke-und-eco-stor-schliessen-tolling-vertrag-fuer-300-megawatt-speicher-in-foerderstedt/",
-      "published_at": "2026-06-02T09:05:58Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Next Kraftwerke und Eco Stor schließen Tolling-Vertrag für 300-Megawatt-Speicher in Förderstedt Der Batteriespeicher in Sachsen-Anhalt soll ab November in drei Schritten in Betrieb gehen. Der über fünf Jahre laufende Vertrag kombiniert ein Tolling-Agreement für 80 Prozent der Leistung mit einer flexiblen, marktpreisorientierten Vergütung (Merchant) für die übrigen 20 Prozent.",
-      "tags": [],
-      "regions": [
-        "DE-ST"
-      ]
-    },
-    {
-      "id": "3a01499b35c6d70a6565ec51",
-      "title": "Stimmen der Energiewende: Georg Gallmetzer – Speicherunternehmer und Brückenbauer im Stromnetz? – ein pv magazine Podcast",
-      "url": "https://www.pv-magazine.de/2026/06/02/stimmen-der-energiewende-georg-gallmetzer-speicherunternehmer-und-brueckenbauer-im-stromnetz-ein-pv-magazine-podcast/",
-      "published_at": "2026-06-02T07:20:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Stimmen der Energiewende: Georg Gallmetzer – Speicherunternehmer und Brückenbauer im Stromnetz? – ein pv magazine Podcast In dieser Podcastreihe sprechen wir mit Menschen, die die Energiewende an entscheidender Stelle mitgestalten. Die Moderatoren Michael Fuhs, pv magazine Chefredakteur, und Stefan Müller, COO von Enerparc, wollen von Georg Gallmetzer aus der Eco Stor Geschäftsführung wissen, wie ",
       "tags": [],
       "regions": []
     }
