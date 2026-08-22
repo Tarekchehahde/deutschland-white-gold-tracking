@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 82,
+  "article_count": 83,
   "articles": [
+    {
+      "id": "840f61de6e27ff5ed9216bcf",
+      "title": "Tesla ruft in China fast drei Millionen Autos zurück",
+      "url": "https://www.dw.com/de/tesla-ruft-in-china-fast-drei-millionen-autos-zurück/a-78468748?maca=de-rss-de-eco-1018-xml-mrss",
+      "published_at": "2026-08-22T12:39:00Z",
+      "source_id": "dw-wirtschaft",
+      "language": "de",
+      "summary": "Tesla ruft in China fast drei Millionen Autos zurück Probleme mit der Notentriegelung der Türen zwingen Tesla zu einer groß angelegten Rückrufaktion in China. Die chinesischen Behörden verschärfen zugleich die Sicherheitsvorgaben für alle Elektroautos.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "494cfe9bfd90387b28fe4130",
       "title": "Heidelberg bekräftigt Partnerschaft mit Phenogy zur Produktion von Natrium-Ionen-Batteriespeichern",

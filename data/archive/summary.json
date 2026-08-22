@@ -1,15 +1,26 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-22T05:42:08Z",
+  "generated_at_utc": "2026-08-22T18:49:43Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 515,
+  "total_in_archive": 516,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 82
+    "2026-08": 83
   },
   "recent_for_ui": [
+    {
+      "id": "840f61de6e27ff5ed9216bcf",
+      "title": "Tesla ruft in China fast drei Millionen Autos zurück",
+      "url": "https://www.dw.com/de/tesla-ruft-in-china-fast-drei-millionen-autos-zurück/a-78468748?maca=de-rss-de-eco-1018-xml-mrss",
+      "published_at": "2026-08-22T12:39:00Z",
+      "source_id": "dw-wirtschaft",
+      "language": "de",
+      "summary": "Tesla ruft in China fast drei Millionen Autos zurück Probleme mit der Notentriegelung der Türen zwingen Tesla zu einer groß angelegten Rückrufaktion in China. Die chinesischen Behörden verschärfen zugleich die Sicherheitsvorgaben für alle Elektroautos.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "494cfe9bfd90387b28fe4130",
       "title": "Heidelberg bekräftigt Partnerschaft mit Phenogy zur Produktion von Natrium-Ionen-Batteriespeichern",
@@ -4565,17 +4576,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "00816a113d3e38cc1ee59a3e",
-      "title": "Luxus-Elektroauto: Rolls-Royce stellt Spectre II mit mehr Reichweite vor",
-      "url": "https://www.golem.de/news/luxus-elektroauto-rolls-royce-stellt-spectre-ii-mit-mehr-reichweite-vor-2606-209342.html",
-      "published_at": "2026-06-03T08:21:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Luxus-Elektroauto: Rolls-Royce stellt Spectre II mit mehr Reichweite vor Das Elektroauto Spectre von Rolls-Royce bekommt eine neue Version mit mehr Leistung, mehr Reichweite und einer Black-Badge-Variante. ( Elektroauto , Auto )",
-      "tags": [],
       "regions": []
     }
   ]
