@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 83,
+  "article_count": 84,
   "articles": [
+    {
+      "id": "1bbc49c850402d525092dfc2",
+      "title": "Von Natrium bis Eisen-Luft: Welche Batterietechnologie hat das größte Potenzial?",
+      "url": "https://t3n.de/news/stromspeicher-technologien-natrium-eisen-redoxflow-lithium-interview-1756748/",
+      "published_at": "2026-08-22T17:35:00Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Von Natrium bis Eisen-Luft: Welche Batterietechnologie hat das größte Potenzial? Fast alle neuen Gigawatt-Stromspeicher setzen auf Lithium-Eisenphosphat – dabei gibt es Alternativen wie Natrium-Ionen-, Eisen-Luft- oder Redoxflow-Batterien. Professor Dirk Uwe Sauer über Chancen der Technologien im Interview. Kaum eine Woche vergeht, ohne dass neue Stromspeicher im Gigawattbereich angekündigt werden",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "840f61de6e27ff5ed9216bcf",
       "title": "Tesla ruft in China fast drei Millionen Autos zurück",
