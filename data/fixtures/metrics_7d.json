@@ -3,7 +3,7 @@
   "articles_per_day": {
     "2026-08-18": 2,
     "2026-08-21": 5,
-    "2026-08-22": 1
+    "2026-08-22": 2
   },
   "tag_counts": {
     "exploration": 1,
@@ -11,6 +11,6 @@
     "politik": 1
   },
   "by_source_category": {
-    "national": 8
+    "national": 9
   }
 }

@@ -1,15 +1,26 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-22T18:49:43Z",
+  "generated_at_utc": "2026-08-23T05:44:21Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 516,
+  "total_in_archive": 517,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 83
+    "2026-08": 84
   },
   "recent_for_ui": [
+    {
+      "id": "1bbc49c850402d525092dfc2",
+      "title": "Von Natrium bis Eisen-Luft: Welche Batterietechnologie hat das größte Potenzial?",
+      "url": "https://t3n.de/news/stromspeicher-technologien-natrium-eisen-redoxflow-lithium-interview-1756748/",
+      "published_at": "2026-08-22T17:35:00Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Von Natrium bis Eisen-Luft: Welche Batterietechnologie hat das größte Potenzial? Fast alle neuen Gigawatt-Stromspeicher setzen auf Lithium-Eisenphosphat – dabei gibt es Alternativen wie Natrium-Ionen-, Eisen-Luft- oder Redoxflow-Batterien. Professor Dirk Uwe Sauer über Chancen der Technologien im Interview. Kaum eine Woche vergeht, ohne dass neue Stromspeicher im Gigawattbereich angekündigt werden",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "840f61de6e27ff5ed9216bcf",
       "title": "Tesla ruft in China fast drei Millionen Autos zurück",
@@ -4563,19 +4574,6 @@
       "language": "de",
       "summary": "Autonomes Fahren: Tesla lässt selbstreinigende Kameras patentieren Für die Robotaxis von Tesla ist eine gute Sicht entscheidend. Die patentierte Reinigung der Kameras dürfte für Serienfahrzeuge kaum nachrüstbar sein. ( Autonomes Fahren , Elektroauto )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e92f4f1bbe346b293beeb421",
-      "title": "Sponsored: Hauptsache flexibel– Batteriespeicher in Unternehmensnetzen",
-      "url": "https://www.pv-magazine.de/2026/06/03/sponsored-hauptsache-flexibel-batteriespeicher-in-unternehmensnetzen/",
-      "published_at": "2026-06-03T09:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Sponsored: Hauptsache flexibel– Batteriespeicher in Unternehmensnetzen Die Herausforderungen für Batteriespeicherlösungen in Industrie- und Gewerbebetrieben sind hoch. Sie müssen unterschiedliche Geschäftsmodelle abdecken – gleichzeitig oder nacheinander – sie müssen verschiedenste Erzeuger und Verbraucher steuern und sollten zudem höchsten Sicherheitsansprüchen genügen. Jörn Jürgens, Sales Direct",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]
