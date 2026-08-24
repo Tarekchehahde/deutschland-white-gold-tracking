@@ -1,15 +1,85 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-24T05:52:55Z",
+  "generated_at_utc": "2026-08-24T18:59:52Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 517,
+  "total_in_archive": 523,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 84
+    "2026-08": 90
   },
   "recent_for_ui": [
+    {
+      "id": "fdbd882af806b90cef648ab7",
+      "title": "Bidirektionales Laden: Autoindustrie kritisiert Strombremse für PV-Anlagen",
+      "url": "https://www.golem.de/news/bidirektionales-laden-autoindustrie-kritisiert-strombremse-fuer-pv-anlagen-2608-212239.html",
+      "published_at": "2026-08-24T14:25:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Bidirektionales Laden: Autoindustrie kritisiert Strombremse für PV-Anlagen Wirtschaftsministerin Reiche will die Einspeisung kleiner Solaranlagen pauschal deckeln. Das würde auch für Elektroautos gelten. ( Solarenergie , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "7307f7b498bc7f88bdb4d566",
+      "title": "Tesla: Chinas Elektroautos haben ein Türgriffproblem",
+      "url": "https://www.sueddeutsche.de/wirtschaft/china-elektroautos-tesla-rueckruf-tuergriffproblemen-li.3536024",
+      "published_at": "2026-08-24T13:27:30Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Tesla: Chinas Elektroautos haben ein Türgriffproblem Mehr als vier Millionen Elektroautos müssen in China nachgebessert werden, fast drei Millionen davon stammen von Tesla. Der Anlass wirkt banal. Doch hinter dem Rückruf steckt ein grundlegender Kurswechsel Pekings.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a2d656a4be53fd2432336419",
+      "title": "Behörde erteilt Baugenehmigung für schottischen Langzeit-Batteriespeicher mit 3,6-Gigawattstunden Kapazität",
+      "url": "https://www.pv-magazine.de/2026/08/24/behoerde-erteilt-baugenehmigung-fuer-schottischen-langzeit-batteriespeicher-mit-36-gigawattstunden-kapazitaet/",
+      "published_at": "2026-08-24T12:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Behörde erteilt Baugenehmigung für schottischen Langzeit-Batteriespeicher mit 3,6-Gigawattstunden Kapazität Der Speicher namens „Rigifa“ hat eine Leistung von 200 Megawatt. Er ist Teil der Liste von elf Batteriespeichern, die die britische Regulierungsbehörde Ofgem für eine „Cap-and-Floor“-Förderung ausgewählt hat.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "312aa9b97b83fadace82cb93",
+      "title": "Bodenschätze in der Mongolei",
+      "url": "https://www.zdfheute.de/video/zdf-mittagsmagazin/mongolei-rohstoffe-exporte-100.html",
+      "published_at": "2026-08-24T10:00:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "Bodenschätze in der Mongolei Die Mongolei setzt auf Kohle, Kupfer und Gold, um sich zwischen China, Russland und dem Westen zu behaupten. Neue Handelswege sollen den Export steigern.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1926a271da9e60f7e6eaf025",
+      "title": "Tesla, Xiaomi, Leapmotor: China ruft Millionen Autos wegen Türgriffen zurück",
+      "url": "https://www.golem.de/news/tesla-xiaomi-leapmotor-china-ruft-millionen-autos-wegen-tuergriffen-zurueck-2608-212211.html",
+      "published_at": "2026-08-24T08:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla, Xiaomi, Leapmotor: China ruft Millionen Autos wegen Türgriffen zurück Allein in China sollen 3 Millionen Teslas in die Werkstatt. Deutsche Hersteller sind von der Türgriff-Problematik offenbar nicht betroffen. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "75142394b0cf5eca9fb721ae",
+      "title": "MG Cyberster: 225 Kilo für zwei Passagiere und Gepäck",
+      "url": "https://www.golem.de/news/mg-cyberster-150-kilo-fuer-zwei-passagiere-und-gepaeck-2608-212181.html",
+      "published_at": "2026-08-24T07:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "MG Cyberster: 225 Kilo für zwei Passagiere und Gepäck Elektrische Roadster sind schwer zu bauen. Dass sich die Herausforderung meistern lässt, zeigt MG mit seinem Cyberster. Zwei Dinge daran nerven allerdings. Von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "1bbc49c850402d525092dfc2",
       "title": "Von Natrium bis Eisen-Luft: Welche Batterietechnologie hat das größte Potenzial?",
@@ -4505,74 +4575,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektroautos: BMW iX3 gewinnt Reichweitentest mit 781 km Tatsächliche Reichweiten von 600 bis 800 km sind inzwischen bei E-Autos verbreitet. Das zeigt ein Vergleich neuer Modelle in Norwegen. ( Elektroauto , Tesla )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9c558e713249d90d5ba7e93b",
-      "title": "Wieso immer mehr Deutsche auf Elektroautos setzen",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-nachfrage-100.html",
-      "published_at": "2026-06-04T12:07:26Z",
-      "source_id": "tagesschau-wirtschaft",
-      "language": "de",
-      "summary": "Wieso immer mehr Deutsche auf Elektroautos setzen E-Autos werden in Deutschland immer beliebter. Jeder vierte Neuwagen im Mai war ein Fahrzeug mit Elektroantrieb. Das liegt nicht nur an der neuen Kaufprämie der Bundesregierung - die auch negative Folgen hat. Von Till Bücker.",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "235a496eba19cefc1432101d",
-      "title": "Elektromobilität: Chinas E-Auto-Angriff auf Südamerika",
-      "url": "https://www.faz.net/premium/weltwirtschaft/weltwissen/chinesische-e-auto-offensive-in-suedamerika-accg-200886618.html",
-      "published_at": "2026-06-04T04:50:00Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Elektromobilität: Chinas E-Auto-Angriff auf Südamerika Vom EU-Mercosur-Freihandelsvertrag soll vor allem die europäische Autoindustrie profitieren. Doch China hat seinen Gegenangriff längst gestartet – und erschüttert die Machtverhältnisse in der Branche in ihren Grundfesten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4e39045d93538e611804f972",
-      "title": "Trotz Kaufprämie und Irankrieg: Zulassungszahlen von E-Autos im Mai rückläufig",
-      "url": "https://www.golem.de/news/trotz-kaufpraemie-und-irankrieg-zulassungszahlen-von-e-autos-im-mai-ruecklaeufig-2606-209383.html",
-      "published_at": "2026-06-03T16:45:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Trotz Kaufprämie und Irankrieg: Zulassungszahlen von E-Autos im Mai rückläufig Die Zahl der neu zugelassenen E-Autos ist im Vergleich zum Vormonat gesunken. BYD ist Marktführer bei Plug-in-Hybriden. ( Elektroauto , Tesla )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9bf1decfbdf5215aa69d3e86",
-      "title": "Next Energy und Enerfin realisieren Multi-Use-Energiesystem für Industriebetrieb",
-      "url": "https://www.pv-magazine.de/2026/06/03/next-energy-und-enerfin-realisieren-multi-use-energiesystem-fuer-industriebetrieb/",
-      "published_at": "2026-06-03T11:33:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Next Energy und Enerfin realisieren Multi-Use-Energiesystem für Industriebetrieb Bei dem Projekt in Hessen werden Photovoltaik, Batteriespeicher, Bioenergie und Ladeinfrastruktur in einem integrierten Energiesystem kombiniert. Der Batteriespeicher soll dabei gleichzeitig Eigenverbrauch optimieren, Lastspitzen reduzieren und Erlöse am Strommarkt erzielen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2558c79474453184c1a80f62",
-      "title": "Kyon Energy baut 146,5-Megawatt-Speicher in Niedersachsen",
-      "url": "https://www.pv-magazine.de/2026/06/03/kyon-energy-baut-1465-megawatt-speicher-in-niedersachsen/",
-      "published_at": "2026-06-03T09:47:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Kyon Energy baut 146,5-Megawatt-Speicher in Niedersachsen Im Juli sollen die Arbeiten an dem Batteriespeicher am Umspannwerk Mehringen im Landkreis Nienburg/Weser beginnen. Die Anlage soll über 296 Megawattstunden Kapazität verfügen und im Oktober 2027 in Betrieb genommen werden.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7879d691a411b303cccfbbd4",
-      "title": "Autonomes Fahren: Tesla lässt selbstreinigende Kameras patentieren",
-      "url": "https://www.golem.de/news/autonomes-fahren-tesla-laesst-selbstreinigende-kameras-patentieren-2606-209354.html",
-      "published_at": "2026-06-03T09:44:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Tesla lässt selbstreinigende Kameras patentieren Für die Robotaxis von Tesla ist eine gute Sicht entscheidend. Die patentierte Reinigung der Kameras dürfte für Serienfahrzeuge kaum nachrüstbar sein. ( Autonomes Fahren , Elektroauto )",
       "tags": [],
       "regions": []
     }
