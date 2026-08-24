@@ -2,6 +2,76 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "fdbd882af806b90cef648ab7",
+      "title": "Bidirektionales Laden: Autoindustrie kritisiert Strombremse für PV-Anlagen",
+      "url": "https://www.golem.de/news/bidirektionales-laden-autoindustrie-kritisiert-strombremse-fuer-pv-anlagen-2608-212239.html",
+      "published_at": "2026-08-24T14:25:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Bidirektionales Laden: Autoindustrie kritisiert Strombremse für PV-Anlagen Wirtschaftsministerin Reiche will die Einspeisung kleiner Solaranlagen pauschal deckeln. Das würde auch für Elektroautos gelten. ( Solarenergie , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "7307f7b498bc7f88bdb4d566",
+      "title": "Tesla: Chinas Elektroautos haben ein Türgriffproblem",
+      "url": "https://www.sueddeutsche.de/wirtschaft/china-elektroautos-tesla-rueckruf-tuergriffproblemen-li.3536024",
+      "published_at": "2026-08-24T13:27:30Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Tesla: Chinas Elektroautos haben ein Türgriffproblem Mehr als vier Millionen Elektroautos müssen in China nachgebessert werden, fast drei Millionen davon stammen von Tesla. Der Anlass wirkt banal. Doch hinter dem Rückruf steckt ein grundlegender Kurswechsel Pekings.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a2d656a4be53fd2432336419",
+      "title": "Behörde erteilt Baugenehmigung für schottischen Langzeit-Batteriespeicher mit 3,6-Gigawattstunden Kapazität",
+      "url": "https://www.pv-magazine.de/2026/08/24/behoerde-erteilt-baugenehmigung-fuer-schottischen-langzeit-batteriespeicher-mit-36-gigawattstunden-kapazitaet/",
+      "published_at": "2026-08-24T12:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Behörde erteilt Baugenehmigung für schottischen Langzeit-Batteriespeicher mit 3,6-Gigawattstunden Kapazität Der Speicher namens „Rigifa“ hat eine Leistung von 200 Megawatt. Er ist Teil der Liste von elf Batteriespeichern, die die britische Regulierungsbehörde Ofgem für eine „Cap-and-Floor“-Förderung ausgewählt hat.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "312aa9b97b83fadace82cb93",
+      "title": "Bodenschätze in der Mongolei",
+      "url": "https://www.zdfheute.de/video/zdf-mittagsmagazin/mongolei-rohstoffe-exporte-100.html",
+      "published_at": "2026-08-24T10:00:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "Bodenschätze in der Mongolei Die Mongolei setzt auf Kohle, Kupfer und Gold, um sich zwischen China, Russland und dem Westen zu behaupten. Neue Handelswege sollen den Export steigern.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1926a271da9e60f7e6eaf025",
+      "title": "Tesla, Xiaomi, Leapmotor: China ruft Millionen Autos wegen Türgriffen zurück",
+      "url": "https://www.golem.de/news/tesla-xiaomi-leapmotor-china-ruft-millionen-autos-wegen-tuergriffen-zurueck-2608-212211.html",
+      "published_at": "2026-08-24T08:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla, Xiaomi, Leapmotor: China ruft Millionen Autos wegen Türgriffen zurück Allein in China sollen 3 Millionen Teslas in die Werkstatt. Deutsche Hersteller sind von der Türgriff-Problematik offenbar nicht betroffen. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "75142394b0cf5eca9fb721ae",
+      "title": "MG Cyberster: 225 Kilo für zwei Passagiere und Gepäck",
+      "url": "https://www.golem.de/news/mg-cyberster-150-kilo-fuer-zwei-passagiere-und-gepaeck-2608-212181.html",
+      "published_at": "2026-08-24T07:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "MG Cyberster: 225 Kilo für zwei Passagiere und Gepäck Elektrische Roadster sind schwer zu bauen. Dass sich die Herausforderung meistern lässt, zeigt MG mit seinem Cyberster. Zwei Dinge daran nerven allerdings. Von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "1bbc49c850402d525092dfc2",
       "title": "Von Natrium bis Eisen-Luft: Welche Batterietechnologie hat das größte Potenzial?",
       "url": "https://t3n.de/news/stromspeicher-technologien-natrium-eisen-redoxflow-lithium-interview-1756748/",
