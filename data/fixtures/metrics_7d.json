@@ -2,15 +2,14 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-08-18": 2,
-    "2026-08-21": 4,
+    "2026-08-21": 3,
     "2026-08-22": 2
   },
   "tag_counts": {
-    "exploration": 1,
     "industrie": 1,
     "politik": 1
   },
   "by_source_category": {
-    "national": 8
+    "national": 7
   }
 }
