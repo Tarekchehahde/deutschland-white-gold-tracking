@@ -2,7 +2,6 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-08-21": 3,
-    "2026-08-22": 1,
     "2026-08-24": 6
   },
   "tag_counts": {
@@ -11,6 +10,6 @@
   },
   "by_source_category": {
     "broadcast": 1,
-    "national": 9
+    "national": 8
   }
 }
