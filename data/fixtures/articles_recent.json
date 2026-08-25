@@ -2,27 +2,110 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "fdbd882af806b90cef648ab7",
-      "title": "Bidirektionales Laden: Autoindustrie kritisiert Strombremse für PV-Anlagen",
-      "url": "https://www.golem.de/news/bidirektionales-laden-autoindustrie-kritisiert-strombremse-fuer-pv-anlagen-2608-212239.html",
-      "published_at": "2026-08-24T14:25:01Z",
+      "id": "3685686cafa7bafe1c73baec",
+      "title": "Bis zu 115.000 Stellen: VW-Betriebsrat befürchtet hohe Jobverluste in Deutschland",
+      "url": "https://www.golem.de/news/bis-zu-115-000-stellen-vw-betriebsrat-befuerchtet-hohe-jobverluste-in-deutschland-2608-212289.html",
+      "published_at": "2026-08-25T16:40:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Bidirektionales Laden: Autoindustrie kritisiert Strombremse für PV-Anlagen Wirtschaftsministerin Reiche will die Einspeisung kleiner Solaranlagen pauschal deckeln. Das würde auch für Elektroautos gelten. ( Solarenergie , Elektroauto )",
+      "summary": "Bis zu 115.000 Stellen: VW-Betriebsrat befürchtet hohe Jobverluste in Deutschland VW-Chef Oliver Blume deutet die Streichung von weiteren 25.000 Stellen bei VW in Deutschland an. Die Schließung von vier Werken ist nicht vom Tisch. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5b8f51476a6702573e341d91",
+      "title": "Autonomes Fahren: Waymo bringt Robotaxi-Dienst nach München",
+      "url": "https://www.golem.de/news/autonomes-fahren-waymo-bringt-robotaxi-dienst-nach-muenchen-2608-212286.html",
+      "published_at": "2026-08-25T15:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Waymo bringt Robotaxi-Dienst nach München Die Google-Schwesterfirma Waymo bietet ihren Robotaxi-Dienst künftig in München an. Vor dem Start werden zunächst ein Jahr lang Daten gesammelt. ( Waymo , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b9753db2325bed9c0264f96a",
+      "title": "Ausgeträumt: Dreame stoppt Pläne für elektrischen Luxuswagen",
+      "url": "https://www.golem.de/news/ausgetraeumt-dreame-stoppt-plaene-fuer-elektrische-luxuswagen-2608-212282.html",
+      "published_at": "2026-08-25T14:18:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ausgeträumt: Dreame stoppt Pläne für elektrischen Luxuswagen Der Staubsaugerhersteller Dreame fährt seine ambitionierten Pläne für E-Autos zurück. Das betrifft auch eine mögliche Fabrik in Brandenburg. ( Elektroauto , Wirtschaft )",
       "tags": [
-        "politik"
+        "industrie"
       ],
       "regions": []
     },
     {
-      "id": "7307f7b498bc7f88bdb4d566",
-      "title": "Tesla: Chinas Elektroautos haben ein Türgriffproblem",
-      "url": "https://www.sueddeutsche.de/wirtschaft/china-elektroautos-tesla-rueckruf-tuergriffproblemen-li.3536024",
-      "published_at": "2026-08-24T13:27:30Z",
-      "source_id": "sueddeutsche-wirtschaft",
+      "id": "62d1746bfd7712e2b729ecaa",
+      "title": "TÜV-Studie zur Mobilität: Jeder Zweite bevorzugt Elektroauto oder Hybrid",
+      "url": "https://rp-online.de/panorama/deutschland/tuev-studie-jeder-zweite-will-e-auto-oder-hybrid-kaufen_aid-153697311",
+      "published_at": "2026-08-25T14:06:08Z",
+      "source_id": "rp-online-wirtschaft",
       "language": "de",
-      "summary": "Tesla: Chinas Elektroautos haben ein Türgriffproblem Mehr als vier Millionen Elektroautos müssen in China nachgebessert werden, fast drei Millionen davon stammen von Tesla. Der Anlass wirkt banal. Doch hinter dem Rückruf steckt ein grundlegender Kurswechsel Pekings.",
+      "summary": "TÜV-Studie zur Mobilität: Jeder Zweite bevorzugt Elektroauto oder Hybrid Elektroautos und Hybride gewinnen einer TÜV-Studie zufolge an Zustimmung. Trotzdem nennen viele Befragte hohe Anschaffungskosten und geringe Reichweiten als Hürden. Gleichzeitig fordern 76 Prozent mehr Investitionen in den ÖPNV. Was folgt daraus?",
       "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f591c2a5961e6a61934ddb28",
+      "title": "Netzanschlüsse für Batteriespeicher: 574 Gigawatt angefragt, 54 Gigawatt zugesagt",
+      "url": "https://www.pv-magazine.de/2026/08/25/netzanschluesse-fuer-batteriespeicher-574-gigawatt-angefragt-54-gigawatt-zugesagt/",
+      "published_at": "2026-08-25T13:45:30Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Netzanschlüsse für Batteriespeicher: 574 Gigawatt angefragt, 54 Gigawatt zugesagt Die Zahl der Netzanschlussbegehren für Batteriespeicher ist 2025 stark gestiegen. Bei den Verteil- und Übertragungsnetzbetreibern gingen insgesamt 18.158 Anfragen über rund 574 Gigawatt Leistung und 1583 Gigawattstunden Kapazität ein. Anschlusszusagen erteilten die Netzbetreiber im Jahresverlauf für insgesamt gut 54 ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "bff070d443175a46fb95ea09",
+      "title": "Comax baut Batteriespeicher-Portfolio in Frankreich deutlich aus",
+      "url": "https://www.pv-magazine.de/2026/08/25/comax-baut-batteriespeicher-portfolio-in-frankreich-deutlich-aus/",
+      "published_at": "2026-08-25T12:36:37Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Comax baut Batteriespeicher-Portfolio in Frankreich deutlich aus Comax France hat an zehn Standorten Batteriespeicher mit insgesamt 57 Megawatt Leistung und 114 Megawattstunden Kapazität fertiggestellt und an das Verteilnetz angeschlossen. Damit steigt das operative Speicherportfolio des zur Schweizer MET Group gehörenden Unternehmens in Frankreich auf mehr als 86 Megawatt und 143 Megawattstunden.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "bc2055066cfd26441c72aa14",
+      "title": "Mit Südkorea und Japan: EU soll Allianz gegen Chinas Autoindustrie planen",
+      "url": "https://www.golem.de/news/mit-suedkorea-und-japan-eu-soll-allianz-gegen-chinas-autoindustrie-planen-2608-212263.html",
+      "published_at": "2026-08-25T09:53:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Mit Südkorea und Japan: EU soll Allianz gegen Chinas Autoindustrie planen Die Verkaufsanteile chinesischer Hersteller bei E-Autos und Plug-in-Hybriden nehmen stark zu. Das will die EU mit anderen Ländern eindämmen. ( Elektroauto , Politik )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b7fad5cadf342888ddc743c2",
+      "title": "Alpiq übernimmt Batteriespeicher von Eco Stor in Bollingstedt",
+      "url": "https://www.pv-magazine.de/2026/08/25/alpiq-uebernimmt-batteriespeicher-von-eco-stor-in-bollingstedt/",
+      "published_at": "2026-08-25T09:31:48Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Alpiq übernimmt Batteriespeicher von Eco Stor in Bollingstedt Das Schweizer Energieunternehmen neuer Eigentümer des Batteriespeichers Bollingstedt in Schleswig-Holstein. Eco Stor bleibt für die technische Betriebsführung der Anlage mit 238 Megawattstunden Kapazität verantwortlich. Für den Speicherbetrieb hat Eco Stor mit SH Netz einen FCA geschlossen, der die Grundlage für den Rollout einer solche",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "0b620c1392d7f5c2c740d1ab",
+      "title": "EU beschließt Leitlinien für mehr Flexibilität bei Förderung von Photovoltaik, Wärmepumpen und Batteriespeichern",
+      "url": "https://www.pv-magazine.de/2026/08/25/eu-beschliesst-leitlinien-fuer-mehr-flexibilitaet-bei-foerderung-von-photovoltaik-waermepumpen-und-batteriespeichern/",
+      "published_at": "2026-08-25T07:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "EU beschließt Leitlinien für mehr Flexibilität bei Förderung von Photovoltaik, Wärmepumpen und Batteriespeichern Die EU-Kommission gibt den Mitgliedstaaten die Möglichkeit, die Flexibilität der nationalen Ausnahmeregelung für Verteidigungszwecke auch zur Förderung von Maßnahmen für Energiesicherheit und Energiewende zu nutzen. Dies ist auf den Zeitraum von 2026 bis 2028 begrenzt. Zu den förderfähi",
+      "tags": [
+        "politik"
+      ],
       "regions": []
     },
     {
@@ -36,76 +119,6 @@
       "tags": [
         "politik"
       ],
-      "regions": []
-    },
-    {
-      "id": "312aa9b97b83fadace82cb93",
-      "title": "Bodenschätze in der Mongolei",
-      "url": "https://www.zdfheute.de/video/zdf-mittagsmagazin/mongolei-rohstoffe-exporte-100.html",
-      "published_at": "2026-08-24T10:00:00Z",
-      "source_id": "zdf-nachrichten",
-      "language": "de",
-      "summary": "Bodenschätze in der Mongolei Die Mongolei setzt auf Kohle, Kupfer und Gold, um sich zwischen China, Russland und dem Westen zu behaupten. Neue Handelswege sollen den Export steigern.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1926a271da9e60f7e6eaf025",
-      "title": "Tesla, Xiaomi, Leapmotor: China ruft Millionen Autos wegen Türgriffen zurück",
-      "url": "https://www.golem.de/news/tesla-xiaomi-leapmotor-china-ruft-millionen-autos-wegen-tuergriffen-zurueck-2608-212211.html",
-      "published_at": "2026-08-24T08:15:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla, Xiaomi, Leapmotor: China ruft Millionen Autos wegen Türgriffen zurück Allein in China sollen 3 Millionen Teslas in die Werkstatt. Deutsche Hersteller sind von der Türgriff-Problematik offenbar nicht betroffen. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "75142394b0cf5eca9fb721ae",
-      "title": "MG Cyberster: 225 Kilo für zwei Passagiere und Gepäck",
-      "url": "https://www.golem.de/news/mg-cyberster-150-kilo-fuer-zwei-passagiere-und-gepaeck-2608-212181.html",
-      "published_at": "2026-08-24T07:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "MG Cyberster: 225 Kilo für zwei Passagiere und Gepäck Elektrische Roadster sind schwer zu bauen. Dass sich die Herausforderung meistern lässt, zeigt MG mit seinem Cyberster. Zwei Dinge daran nerven allerdings. Von Dirk Kunde ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "494cfe9bfd90387b28fe4130",
-      "title": "Heidelberg bekräftigt Partnerschaft mit Phenogy zur Produktion von Natrium-Ionen-Batteriespeichern",
-      "url": "https://www.pv-magazine.de/2026/08/21/heidelberg-bekraeftigt-partnerschaft-mit-phenogy-zur-produktion-von-natrium-ionen-batteriespeichern/",
-      "published_at": "2026-08-21T13:05:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Heidelberg bekräftigt Partnerschaft mit Phenogy zur Produktion von Natrium-Ionen-Batteriespeichern Das Technologieunternehmen bestätigt zum Auftakt seines neuen Geschäftsjahrs das Ziel, gemeinsam mit seinem Schweizer Partner Batteriespeichersysteme zu fertigen und perspektivisch Natrium-Ionen-Batteriezellen auf Basis der Phenogy-Zellchemie aufzubauen.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "adeab26c05af51a09d6b6953",
-      "title": "Österreichs Wirtschaftsministerium kündigt Speicher-Offensive an und umreißt Pläne für neue Solarförderung",
-      "url": "https://www.pv-magazine.de/2026/08/21/oesterreichs-wirtschaftsministerium-kuendigt-speicher-offensive-an-und-umreisst-plaene-fuer-neue-solarfoerderung/",
-      "published_at": "2026-08-21T12:23:46Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Österreichs Wirtschaftsministerium kündigt Speicher-Offensive an und umreißt Pläne für neue Solarförderung Ein Entwurf zur Neugestaltung der Photovoltaik-Förderung soll in den nächsten Wochen vorgelegt werden. Batteriespeicher werden dann in den Fokus rücken. Zudem will die Regierung weitere Maßnahmen ergreifen, um den notwendigen Speicherausbau anzukurbeln. Beim Bundesverband PV&#38;B Austria hof",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "cdf6a084cb0f7df425d7e864",
-      "title": "Kostal startet Verkauf seines neuen Batterie-Wechselrichters",
-      "url": "https://www.pv-magazine.de/2026/08/21/kostal-startet-verkauf-seines-neuen-batterie-wechselrichters/",
-      "published_at": "2026-08-21T09:27:07Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Kostal startet Verkauf seines neuen Batterie-Wechselrichters Mit einer Leistung von 25 Kilowatt ist das Produkt für größere Batteriespeicher gedacht. Der AC-gekoppelte Wechselrichter eignet sich sowohl für Bestands- als auch Neuanlagen.",
-      "tags": [],
       "regions": []
     }
   ]

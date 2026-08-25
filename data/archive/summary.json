@@ -1,15 +1,122 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-25T05:47:15Z",
+  "generated_at_utc": "2026-08-25T18:57:19Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 523,
+  "total_in_archive": 532,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 90
+    "2026-08": 99
   },
   "recent_for_ui": [
+    {
+      "id": "3685686cafa7bafe1c73baec",
+      "title": "Bis zu 115.000 Stellen: VW-Betriebsrat befürchtet hohe Jobverluste in Deutschland",
+      "url": "https://www.golem.de/news/bis-zu-115-000-stellen-vw-betriebsrat-befuerchtet-hohe-jobverluste-in-deutschland-2608-212289.html",
+      "published_at": "2026-08-25T16:40:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Bis zu 115.000 Stellen: VW-Betriebsrat befürchtet hohe Jobverluste in Deutschland VW-Chef Oliver Blume deutet die Streichung von weiteren 25.000 Stellen bei VW in Deutschland an. Die Schließung von vier Werken ist nicht vom Tisch. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5b8f51476a6702573e341d91",
+      "title": "Autonomes Fahren: Waymo bringt Robotaxi-Dienst nach München",
+      "url": "https://www.golem.de/news/autonomes-fahren-waymo-bringt-robotaxi-dienst-nach-muenchen-2608-212286.html",
+      "published_at": "2026-08-25T15:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Waymo bringt Robotaxi-Dienst nach München Die Google-Schwesterfirma Waymo bietet ihren Robotaxi-Dienst künftig in München an. Vor dem Start werden zunächst ein Jahr lang Daten gesammelt. ( Waymo , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b9753db2325bed9c0264f96a",
+      "title": "Ausgeträumt: Dreame stoppt Pläne für elektrischen Luxuswagen",
+      "url": "https://www.golem.de/news/ausgetraeumt-dreame-stoppt-plaene-fuer-elektrische-luxuswagen-2608-212282.html",
+      "published_at": "2026-08-25T14:18:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ausgeträumt: Dreame stoppt Pläne für elektrischen Luxuswagen Der Staubsaugerhersteller Dreame fährt seine ambitionierten Pläne für E-Autos zurück. Das betrifft auch eine mögliche Fabrik in Brandenburg. ( Elektroauto , Wirtschaft )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "62d1746bfd7712e2b729ecaa",
+      "title": "TÜV-Studie zur Mobilität: Jeder Zweite bevorzugt Elektroauto oder Hybrid",
+      "url": "https://rp-online.de/panorama/deutschland/tuev-studie-jeder-zweite-will-e-auto-oder-hybrid-kaufen_aid-153697311",
+      "published_at": "2026-08-25T14:06:08Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "TÜV-Studie zur Mobilität: Jeder Zweite bevorzugt Elektroauto oder Hybrid Elektroautos und Hybride gewinnen einer TÜV-Studie zufolge an Zustimmung. Trotzdem nennen viele Befragte hohe Anschaffungskosten und geringe Reichweiten als Hürden. Gleichzeitig fordern 76 Prozent mehr Investitionen in den ÖPNV. Was folgt daraus?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f591c2a5961e6a61934ddb28",
+      "title": "Netzanschlüsse für Batteriespeicher: 574 Gigawatt angefragt, 54 Gigawatt zugesagt",
+      "url": "https://www.pv-magazine.de/2026/08/25/netzanschluesse-fuer-batteriespeicher-574-gigawatt-angefragt-54-gigawatt-zugesagt/",
+      "published_at": "2026-08-25T13:45:30Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Netzanschlüsse für Batteriespeicher: 574 Gigawatt angefragt, 54 Gigawatt zugesagt Die Zahl der Netzanschlussbegehren für Batteriespeicher ist 2025 stark gestiegen. Bei den Verteil- und Übertragungsnetzbetreibern gingen insgesamt 18.158 Anfragen über rund 574 Gigawatt Leistung und 1583 Gigawattstunden Kapazität ein. Anschlusszusagen erteilten die Netzbetreiber im Jahresverlauf für insgesamt gut 54 ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "bff070d443175a46fb95ea09",
+      "title": "Comax baut Batteriespeicher-Portfolio in Frankreich deutlich aus",
+      "url": "https://www.pv-magazine.de/2026/08/25/comax-baut-batteriespeicher-portfolio-in-frankreich-deutlich-aus/",
+      "published_at": "2026-08-25T12:36:37Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Comax baut Batteriespeicher-Portfolio in Frankreich deutlich aus Comax France hat an zehn Standorten Batteriespeicher mit insgesamt 57 Megawatt Leistung und 114 Megawattstunden Kapazität fertiggestellt und an das Verteilnetz angeschlossen. Damit steigt das operative Speicherportfolio des zur Schweizer MET Group gehörenden Unternehmens in Frankreich auf mehr als 86 Megawatt und 143 Megawattstunden.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "bc2055066cfd26441c72aa14",
+      "title": "Mit Südkorea und Japan: EU soll Allianz gegen Chinas Autoindustrie planen",
+      "url": "https://www.golem.de/news/mit-suedkorea-und-japan-eu-soll-allianz-gegen-chinas-autoindustrie-planen-2608-212263.html",
+      "published_at": "2026-08-25T09:53:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Mit Südkorea und Japan: EU soll Allianz gegen Chinas Autoindustrie planen Die Verkaufsanteile chinesischer Hersteller bei E-Autos und Plug-in-Hybriden nehmen stark zu. Das will die EU mit anderen Ländern eindämmen. ( Elektroauto , Politik )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b7fad5cadf342888ddc743c2",
+      "title": "Alpiq übernimmt Batteriespeicher von Eco Stor in Bollingstedt",
+      "url": "https://www.pv-magazine.de/2026/08/25/alpiq-uebernimmt-batteriespeicher-von-eco-stor-in-bollingstedt/",
+      "published_at": "2026-08-25T09:31:48Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Alpiq übernimmt Batteriespeicher von Eco Stor in Bollingstedt Das Schweizer Energieunternehmen neuer Eigentümer des Batteriespeichers Bollingstedt in Schleswig-Holstein. Eco Stor bleibt für die technische Betriebsführung der Anlage mit 238 Megawattstunden Kapazität verantwortlich. Für den Speicherbetrieb hat Eco Stor mit SH Netz einen FCA geschlossen, der die Grundlage für den Rollout einer solche",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "0b620c1392d7f5c2c740d1ab",
+      "title": "EU beschließt Leitlinien für mehr Flexibilität bei Förderung von Photovoltaik, Wärmepumpen und Batteriespeichern",
+      "url": "https://www.pv-magazine.de/2026/08/25/eu-beschliesst-leitlinien-fuer-mehr-flexibilitaet-bei-foerderung-von-photovoltaik-waermepumpen-und-batteriespeichern/",
+      "published_at": "2026-08-25T07:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "EU beschließt Leitlinien für mehr Flexibilität bei Förderung von Photovoltaik, Wärmepumpen und Batteriespeichern Die EU-Kommission gibt den Mitgliedstaaten die Möglichkeit, die Flexibilität der nationalen Ausnahmeregelung für Verteidigungszwecke auch zur Förderung von Maßnahmen für Energiesicherheit und Energiewende zu nutzen. Dies ist auf den Zeitraum von 2026 bis 2028 begrenzt. Zu den förderfähi",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
     {
       "id": "fdbd882af806b90cef648ab7",
       "title": "Bidirektionales Laden: Autoindustrie kritisiert Strombremse für PV-Anlagen",
@@ -4474,107 +4581,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Wavefly 5X vorgestellt: Ekranoplan für Privatkunden soll 80 km weit kommen Sogenannte Bodeneffektfahrzeuge wurden bislang für militärische und kommerzielle Zwecke entwickelt. Der Hersteller Navee hat das geändert. ( Schiff , Elektromobilität )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e7c2d080cb8dfed6edf8af22",
-      "title": "Kosmische Energiespeicher entschlüsselt: Neue Karte zeigt Magnetfelder im Weltall",
-      "url": "https://t3n.de/news/karte-magnetfelder-universum-radioteleskop-1746304/",
-      "published_at": "2026-06-06T19:18:45Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Kosmische Energiespeicher entschlüsselt: Neue Karte zeigt Magnetfelder im Weltall Lange Zeit galten die treibenden Kräfte zwischen den weit entfernten Galaxien als unsichtbar und kaum messbar. Ein neuer technischer Ansatz liefert nun Datensätze, die das bisherige astronomische Verständnis grundlegend auf den Prüfstand stellen könnten. Die australische Wissenschaftsbehörde CSIRO mit Sitz in Canberr",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "47893de130eba1c4c2457028",
-      "title": "Geothermie, Kernkraft und Batterien: US-Energie-Startups gehen erfolgreich an die Börse",
-      "url": "https://t3n.de/news/geothermie-kernkraft-batterien-energie-startups-usa-boerse-1744997/",
-      "published_at": "2026-06-06T15:30:00Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Geothermie, Kernkraft und Batterien: US-Energie-Startups gehen erfolgreich an die Börse Es ist kein Zufall, dass Solar- und Batterieanbieter, Nuklear-Startups und Geothermie-Firmen gleichzeitig IPOs feiern. Der KI-Boom macht Strom wieder zum strategischen Gut – und die Frage ist: Wer kann am schnellsten skalieren? In diesem Jahr gab es in den USA eine Welle von Börsengängen namhafter Energieuntern",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "8b5006ddad5770c3ab36f5c3",
-      "title": "BMW iX3 im Test: Jetzt aber mal Obacht",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/bmw-ix3-im-test-jetzt-aber-mal-obacht-accg-200872134.html",
-      "published_at": "2026-06-06T07:21:00Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "BMW iX3 im Test: Jetzt aber mal Obacht Mehr Spannung war nie im Markt der Elektroautos. BMW setzt alles auf die Karte seiner Neuen Klasse und viel in den neuen iX3. Das SUV ist teuer, kann aber einiges. Vor allem fährt es höchst talentiert durch den Alltag.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "133f4f3646c6b5059b3414d1",
-      "title": "Anzeige: Aimiler mobile Wallbox 11kW mit App und Kabel noch bis Sonntag zum Amazon-Tiefpreis",
-      "url": "https://www.golem.de/news/anzeige-aimiler-mobile-wallbox-11kw-mit-app-und-kabel-noch-bis-sonntag-zum-amazon-tiefpreis-2606-209462.html",
-      "published_at": "2026-06-05T14:50:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Aimiler mobile Wallbox 11kW mit App und Kabel noch bis Sonntag zum Amazon-Tiefpreis Die Aimiler Wallbox 11kW plus App und Kabel im Amazon-Angebot schützt mit zehn Sicherheitsfunktionen und passt an jede CEE-Steckdose. ( Elektromobilität , Technik/Hardware )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c416ce07d09381aaf155063d",
-      "title": "Nach 5 Jahren: Alte Waymo-Akkus landen in Energiespeichern",
-      "url": "https://www.golem.de/news/zweites-leben-alte-waymo-akkus-landen-in-energiespeichern-2606-209454.html",
-      "published_at": "2026-06-05T13:15:07Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Nach 5 Jahren: Alte Waymo-Akkus landen in Energiespeichern Der Robotaxi-Anbieter Waymo plant für die Ausmusterung seiner ersten Fahrzeuge vor. Die Batterien sollen als Stromspeicher weitergenutzt werden. ( Waymo , Akku )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ec0264566936bb87cfe3e1b1",
-      "title": "Eco Stors 238-Megawattstunden-Speicher in Schuby bekommt Monitoringlösung von Amperecloud",
-      "url": "https://www.pv-magazine.de/2026/06/05/eco-stors-238-megawattstunden-speicher-in-schuby-bekommt-monitoringloesung-von-amperecloud/",
-      "published_at": "2026-06-05T08:51:29Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Eco Stors 238-Megawattstunden-Speicher in Schuby bekommt Monitoringlösung von Amperecloud Der Batteriespeicher in Schuby von Eco Stor gehört zu den größten Projekten in Deutschland und soll noch im Herbst am Netz sein. Er wird mit der Monitoring-Lösung von Amperecloud versehen, die Ausfallzeiten vermeiden soll und garantierelevante Parameter überwachen wird.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "182c598b6fb89fa2f1136f9f",
-      "title": "Batterieforschung: Natriumbatterien altern kaum und halten Jahrzehnte",
-      "url": "https://www.golem.de/news/batterieforschung-natriumbatterien-altern-kaum-und-halten-jahrzehnte-2606-209432.html",
-      "published_at": "2026-06-05T08:45:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Batterieforschung: Natriumbatterien altern kaum und halten Jahrzehnte Aachen ist ein Zentrum der deutschen Batteriezellenforschung. Dort werden auch importierte Zellen analysiert, mit bemerkenswerten Resultaten. ( Akku , Wissenschaft )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c736bc8e9f5ab7838ad08f6e",
-      "title": "Produktionsstart des ID.Polo: Volkswagen konzentriert kompakte E-Mobilität in Spanien",
-      "url": "https://www.golem.de/news/produktionsstart-des-id-polo-volkswagen-konzentriert-kompakte-e-mobilitaet-in-spanien-2606-209422.html",
-      "published_at": "2026-06-05T06:30:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Produktionsstart des ID.Polo: Volkswagen konzentriert kompakte E-Mobilität in Spanien Die vier E-Autos der Volkswagen Urban Car Family werden in Spanien gebaut. VW-Chef Blume will so gegen die Konkurrenz aus China bestehen. Ein Bericht von Dirk Kunde ( VW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2f1ff4b901e6d5830670781f",
-      "title": "Elektroautos: BMW iX3 gewinnt Reichweitentest mit 781 km",
-      "url": "https://www.golem.de/news/elektroautos-bmw-ix3-gewinnt-reichweitentest-mit-781-km-2606-209421.html",
-      "published_at": "2026-06-04T17:18:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroautos: BMW iX3 gewinnt Reichweitentest mit 781 km Tatsächliche Reichweiten von 600 bis 800 km sind inzwischen bei E-Autos verbreitet. Das zeigt ein Vergleich neuer Modelle in Norwegen. ( Elektroauto , Tesla )",
       "tags": [],
       "regions": []
     }

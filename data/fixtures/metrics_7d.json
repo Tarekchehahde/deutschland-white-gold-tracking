@@ -1,15 +1,15 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-08-21": 3,
-    "2026-08-24": 6
+    "2026-08-24": 1,
+    "2026-08-25": 9
   },
   "tag_counts": {
-    "industrie": 1,
-    "politik": 3
+    "industrie": 3,
+    "politik": 2
   },
   "by_source_category": {
-    "broadcast": 1,
-    "national": 8
+    "national": 9,
+    "regional": 1
   }
 }
