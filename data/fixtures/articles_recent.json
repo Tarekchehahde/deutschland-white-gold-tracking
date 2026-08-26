@@ -2,6 +2,41 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "8248bca83d5bafb3bbbe7b08",
+      "title": "Mehr neue E-Autos auf den Straßen in Rheinland-Pfalz",
+      "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-mehr-neue-e-autos-auf-den-strassen-in-rheinland-pfalz-100.html",
+      "published_at": "2026-08-26T13:26:51Z",
+      "source_id": "tagesschau-rp",
+      "language": "de",
+      "summary": "Mehr neue E-Autos auf den Straßen in Rheinland-Pfalz Der Trend zur Elektromobilität setzt sich in Rheinland-Pfalz fort. Im ersten Halbjahr 2026 ist der Anteil der Neuzulassungen bei E-Autos deutlich gestiegen.",
+      "tags": [],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "5fdb3061022bba56beb718a6",
+      "title": "Flexpower bietet Rechenzentren flexible Beschaffung von Photovoltaik- und Windstrom",
+      "url": "https://www.pv-magazine.de/2026/08/26/flexpower-bietet-rechenzentren-flexible-beschaffung-von-photovoltaik-und-windstrom/",
+      "published_at": "2026-08-26T10:51:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Flexpower bietet Rechenzentren flexible Beschaffung von Photovoltaik- und Windstrom Flexpower will Rechenzentren eine Stromversorgung ermöglichen, die Grünstrom aus seinem Photovoltaik- und Windportfolio mit unterschiedlichen Beschaffungsmodellen und Batteriespeichern kombiniert. Betreiber können dabei mehrjährige Festpreise und PPAs mit einer flexiblen Beschaffung am kurzfristigen Strommarkt verb",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6a50430bbb0ffbdd62529466",
+      "title": "Batterie-Tolling: Wie sich Vermarktungsrisiken vertraglich verteilen lassen",
+      "url": "https://www.pv-magazine.de/2026/08/26/batterie-tolling-wie-sich-vermarktungsrisiken-vertraglich-verteilen-lassen/",
+      "published_at": "2026-08-26T07:24:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Batterie-Tolling: Wie sich Vermarktungsrisiken vertraglich verteilen lassen Der Batteriespeicher-Tsunami trifft auf einen Felsen bei der Finanzierung: volatile Erlöse. Immer mehr Projekte setzen deshalb auf Tolling-Agreements, um Risiken auszulagern und Cashflows zu stabilisieren. Doch das Geschäftsmodell bringt neue Komplexität und ist weit entfernt von Standardverträgen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "c9cc064f70ae3e85cfd5ffcf",
       "title": "heise+ | Elektroautos laden: Den rollenden Speicher wirtschaftlich nutzen",
       "url": "https://www.heise.de/hintergrund/Elektroautos-laden-Den-rollenden-Speicher-wirtschaftlich-nutzen-11375562.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
@@ -9,52 +44,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "heise+ | Elektroautos laden: Den rollenden Speicher wirtschaftlich nutzen Den Energiegehalt von Batterien wirtschaftlich nutzen, um mit dem E-Auto am Strommarkt teilzunehmen? Der Rollout ist zäh, doch das dürfte sich rasch ändern.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3685686cafa7bafe1c73baec",
-      "title": "Bis zu 115.000 Stellen: VW-Betriebsrat befürchtet hohe Jobverluste in Deutschland",
-      "url": "https://www.golem.de/news/bis-zu-115-000-stellen-vw-betriebsrat-befuerchtet-hohe-jobverluste-in-deutschland-2608-212289.html",
-      "published_at": "2026-08-25T16:40:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Bis zu 115.000 Stellen: VW-Betriebsrat befürchtet hohe Jobverluste in Deutschland VW-Chef Oliver Blume deutet die Streichung von weiteren 25.000 Stellen bei VW in Deutschland an. Die Schließung von vier Werken ist nicht vom Tisch. ( VW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5b8f51476a6702573e341d91",
-      "title": "Autonomes Fahren: Waymo bringt Robotaxi-Dienst nach München",
-      "url": "https://www.golem.de/news/autonomes-fahren-waymo-bringt-robotaxi-dienst-nach-muenchen-2608-212286.html",
-      "published_at": "2026-08-25T15:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Waymo bringt Robotaxi-Dienst nach München Die Google-Schwesterfirma Waymo bietet ihren Robotaxi-Dienst künftig in München an. Vor dem Start werden zunächst ein Jahr lang Daten gesammelt. ( Waymo , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b9753db2325bed9c0264f96a",
-      "title": "Ausgeträumt: Dreame stoppt Pläne für elektrischen Luxuswagen",
-      "url": "https://www.golem.de/news/ausgetraeumt-dreame-stoppt-plaene-fuer-elektrische-luxuswagen-2608-212282.html",
-      "published_at": "2026-08-25T14:18:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Ausgeträumt: Dreame stoppt Pläne für elektrischen Luxuswagen Der Staubsaugerhersteller Dreame fährt seine ambitionierten Pläne für E-Autos zurück. Das betrifft auch eine mögliche Fabrik in Brandenburg. ( Elektroauto , Wirtschaft )",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "62d1746bfd7712e2b729ecaa",
-      "title": "TÜV-Studie zur Mobilität: Jeder Zweite bevorzugt Elektroauto oder Hybrid",
-      "url": "https://rp-online.de/panorama/deutschland/tuev-studie-jeder-zweite-will-e-auto-oder-hybrid-kaufen_aid-153697311",
-      "published_at": "2026-08-25T14:06:08Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "TÜV-Studie zur Mobilität: Jeder Zweite bevorzugt Elektroauto oder Hybrid Elektroautos und Hybride gewinnen einer TÜV-Studie zufolge an Zustimmung. Trotzdem nennen viele Befragte hohe Anschaffungskosten und geringe Reichweiten als Hürden. Gleichzeitig fordern 76 Prozent mehr Investitionen in den ÖPNV. Was folgt daraus?",
       "tags": [],
       "regions": []
     },
@@ -83,52 +72,15 @@
       "regions": []
     },
     {
-      "id": "bc2055066cfd26441c72aa14",
-      "title": "Mit Südkorea und Japan: EU soll Allianz gegen Chinas Autoindustrie planen",
-      "url": "https://www.golem.de/news/mit-suedkorea-und-japan-eu-soll-allianz-gegen-chinas-autoindustrie-planen-2608-212263.html",
-      "published_at": "2026-08-25T09:53:01Z",
-      "source_id": "golem-rss",
+      "id": "679bfd521c7ecebf37b83944",
+      "title": "Batterien aus Deutschland: Salzgitter gegen den Rest der Welt",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/vw-will-eigene-batteriezellen-produzieren-mit-hilfe-aus-china-accg-201139848.html",
+      "published_at": "2026-08-25T07:43:31Z",
+      "source_id": "faz-aktuell",
       "language": "de",
-      "summary": "Mit Südkorea und Japan: EU soll Allianz gegen Chinas Autoindustrie planen Die Verkaufsanteile chinesischer Hersteller bei E-Autos und Plug-in-Hybriden nehmen stark zu. Das will die EU mit anderen Ländern eindämmen. ( Elektroauto , Politik )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b7fad5cadf342888ddc743c2",
-      "title": "Alpiq übernimmt Batteriespeicher von Eco Stor in Bollingstedt",
-      "url": "https://www.pv-magazine.de/2026/08/25/alpiq-uebernimmt-batteriespeicher-von-eco-stor-in-bollingstedt/",
-      "published_at": "2026-08-25T09:31:48Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Alpiq übernimmt Batteriespeicher von Eco Stor in Bollingstedt Das Schweizer Energieunternehmen neuer Eigentümer des Batteriespeichers Bollingstedt in Schleswig-Holstein. Eco Stor bleibt für die technische Betriebsführung der Anlage mit 238 Megawattstunden Kapazität verantwortlich. Für den Speicherbetrieb hat Eco Stor mit SH Netz einen FCA geschlossen, der die Grundlage für den Rollout einer solche",
+      "summary": "Batterien aus Deutschland: Salzgitter gegen den Rest der Welt Volkswagen startet die Großserienproduktion von Batteriezellen für Elektroautos in Salzgitter. Exklusiver Rundgang durch die Zwei-Milliarden-Euro-Fabrik.",
       "tags": [
         "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "0b620c1392d7f5c2c740d1ab",
-      "title": "EU beschließt Leitlinien für mehr Flexibilität bei Förderung von Photovoltaik, Wärmepumpen und Batteriespeichern",
-      "url": "https://www.pv-magazine.de/2026/08/25/eu-beschliesst-leitlinien-fuer-mehr-flexibilitaet-bei-foerderung-von-photovoltaik-waermepumpen-und-batteriespeichern/",
-      "published_at": "2026-08-25T07:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "EU beschließt Leitlinien für mehr Flexibilität bei Förderung von Photovoltaik, Wärmepumpen und Batteriespeichern Die EU-Kommission gibt den Mitgliedstaaten die Möglichkeit, die Flexibilität der nationalen Ausnahmeregelung für Verteidigungszwecke auch zur Förderung von Maßnahmen für Energiesicherheit und Energiewende zu nutzen. Dies ist auf den Zeitraum von 2026 bis 2028 begrenzt. Zu den förderfähi",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "a2d656a4be53fd2432336419",
-      "title": "Behörde erteilt Baugenehmigung für schottischen Langzeit-Batteriespeicher mit 3,6-Gigawattstunden Kapazität",
-      "url": "https://www.pv-magazine.de/2026/08/24/behoerde-erteilt-baugenehmigung-fuer-schottischen-langzeit-batteriespeicher-mit-36-gigawattstunden-kapazitaet/",
-      "published_at": "2026-08-24T12:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Behörde erteilt Baugenehmigung für schottischen Langzeit-Batteriespeicher mit 3,6-Gigawattstunden Kapazität Der Speicher namens „Rigifa“ hat eine Leistung von 200 Megawatt. Er ist Teil der Liste von elf Batteriespeichern, die die britische Regulierungsbehörde Ofgem für eine „Cap-and-Floor“-Förderung ausgewählt hat.",
-      "tags": [
-        "politik"
       ],
       "regions": []
     }
