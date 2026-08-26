@@ -1,15 +1,26 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-25T18:57:19Z",
+  "generated_at_utc": "2026-08-26T05:50:20Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 532,
+  "total_in_archive": 533,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 99
+    "2026-08": 100
   },
   "recent_for_ui": [
+    {
+      "id": "c9cc064f70ae3e85cfd5ffcf",
+      "title": "heise+ | Elektroautos laden: Den rollenden Speicher wirtschaftlich nutzen",
+      "url": "https://www.heise.de/hintergrund/Elektroautos-laden-Den-rollenden-Speicher-wirtschaftlich-nutzen-11375562.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-08-26T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroautos laden: Den rollenden Speicher wirtschaftlich nutzen Den Energiegehalt von Batterien wirtschaftlich nutzen, um mit dem E-Auto am Strommarkt teilzunehmen? Der Rollout ist zäh, doch das dürfte sich rasch ändern.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "3685686cafa7bafe1c73baec",
       "title": "Bis zu 115.000 Stellen: VW-Betriebsrat befürchtet hohe Jobverluste in Deutschland",
@@ -4570,17 +4581,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektroautos: Europas Streit um Verbrenner-Aus wird härter Europaparlament und Mitgliedstaaten ringen weiter um das Verbrenner-Aus ab 2035. Sieben EU-Länder wollen an E-Autos festhalten. ( Verbrennerverbot , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e5bb7d9e01bf2ebd187035fe",
-      "title": "Wavefly 5X vorgestellt: Ekranoplan für Privatkunden soll 80 km weit kommen",
-      "url": "https://www.golem.de/news/wavefly-5x-vorgestellt-ekranoplan-fuer-privatkunden-soll-80-km-weit-kommen-2606-209482.html",
-      "published_at": "2026-06-07T10:05:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Wavefly 5X vorgestellt: Ekranoplan für Privatkunden soll 80 km weit kommen Sogenannte Bodeneffektfahrzeuge wurden bislang für militärische und kommerzielle Zwecke entwickelt. Der Hersteller Navee hat das geändert. ( Schiff , Elektromobilität )",
       "tags": [],
       "regions": []
     }
