@@ -1,8 +1,43 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 100,
+  "article_count": 104,
   "articles": [
+    {
+      "id": "8248bca83d5bafb3bbbe7b08",
+      "title": "Mehr neue E-Autos auf den Straßen in Rheinland-Pfalz",
+      "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-mehr-neue-e-autos-auf-den-strassen-in-rheinland-pfalz-100.html",
+      "published_at": "2026-08-26T13:26:51Z",
+      "source_id": "tagesschau-rp",
+      "language": "de",
+      "summary": "Mehr neue E-Autos auf den Straßen in Rheinland-Pfalz Der Trend zur Elektromobilität setzt sich in Rheinland-Pfalz fort. Im ersten Halbjahr 2026 ist der Anteil der Neuzulassungen bei E-Autos deutlich gestiegen.",
+      "tags": [],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "5fdb3061022bba56beb718a6",
+      "title": "Flexpower bietet Rechenzentren flexible Beschaffung von Photovoltaik- und Windstrom",
+      "url": "https://www.pv-magazine.de/2026/08/26/flexpower-bietet-rechenzentren-flexible-beschaffung-von-photovoltaik-und-windstrom/",
+      "published_at": "2026-08-26T10:51:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Flexpower bietet Rechenzentren flexible Beschaffung von Photovoltaik- und Windstrom Flexpower will Rechenzentren eine Stromversorgung ermöglichen, die Grünstrom aus seinem Photovoltaik- und Windportfolio mit unterschiedlichen Beschaffungsmodellen und Batteriespeichern kombiniert. Betreiber können dabei mehrjährige Festpreise und PPAs mit einer flexiblen Beschaffung am kurzfristigen Strommarkt verb",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6a50430bbb0ffbdd62529466",
+      "title": "Batterie-Tolling: Wie sich Vermarktungsrisiken vertraglich verteilen lassen",
+      "url": "https://www.pv-magazine.de/2026/08/26/batterie-tolling-wie-sich-vermarktungsrisiken-vertraglich-verteilen-lassen/",
+      "published_at": "2026-08-26T07:24:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Batterie-Tolling: Wie sich Vermarktungsrisiken vertraglich verteilen lassen Der Batteriespeicher-Tsunami trifft auf einen Felsen bei der Finanzierung: volatile Erlöse. Immer mehr Projekte setzen deshalb auf Tolling-Agreements, um Risiken auszulagern und Cashflows zu stabilisieren. Doch das Geschäftsmodell bringt neue Komplexität und ist weit entfernt von Standardverträgen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c9cc064f70ae3e85cfd5ffcf",
       "title": "heise+ | Elektroautos laden: Den rollenden Speicher wirtschaftlich nutzen",
@@ -103,6 +138,19 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Alpiq übernimmt Batteriespeicher von Eco Stor in Bollingstedt Das Schweizer Energieunternehmen neuer Eigentümer des Batteriespeichers Bollingstedt in Schleswig-Holstein. Eco Stor bleibt für die technische Betriebsführung der Anlage mit 238 Megawattstunden Kapazität verantwortlich. Für den Speicherbetrieb hat Eco Stor mit SH Netz einen FCA geschlossen, der die Grundlage für den Rollout einer solche",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "679bfd521c7ecebf37b83944",
+      "title": "Batterien aus Deutschland: Salzgitter gegen den Rest der Welt",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/vw-will-eigene-batteriezellen-produzieren-mit-hilfe-aus-china-accg-201139848.html",
+      "published_at": "2026-08-25T07:43:31Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Batterien aus Deutschland: Salzgitter gegen den Rest der Welt Volkswagen startet die Großserienproduktion von Batteriezellen für Elektroautos in Salzgitter. Exklusiver Rundgang durch die Zwei-Milliarden-Euro-Fabrik.",
       "tags": [
         "industrie"
       ],
