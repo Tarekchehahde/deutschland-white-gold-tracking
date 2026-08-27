@@ -2,6 +2,52 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "31e30319ed8a648e1342a4d7",
+      "title": "Während VW in Emden bangt, stapeln sich in Wilhelmshaven tausende China-Autos",
+      "url": "https://www.rnd.de/wirtschaft/waehrend-vw-in-emden-bangt-stapeln-sich-in-wilhelmshaven-tausende-china-autos-UMT743YC3NEZ3MR2I2UIF4JRNQ.html",
+      "published_at": "2026-08-27T13:35:21Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Während VW in Emden bangt, stapeln sich in Wilhelmshaven tausende China-Autos Im Jade-Weser-Port in Wilhelmshaven werden zunehmend chinesische Elektroautos umgeschlagen, während 60 Kilometer entfernt in Emden VW-Mitarbeiter um ihre Zukunft bangen. Besuch bei einem Symbol für den Wandel der deutschen Automobilindustrie.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "439966a77b71cee509260c59",
+      "title": "KfW-Umfrage: Bereitschaft zu Investitionen in Photovoltaik, Wärmepumpen und Elektroautos steigt",
+      "url": "https://www.pv-magazine.de/2026/08/27/kfw-umfrage-bereitschaft-zu-investitionen-in-photovoltaik-waermepumpen-und-elektroautos-steigt/",
+      "published_at": "2026-08-27T11:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "KfW-Umfrage: Bereitschaft zu Investitionen in Photovoltaik, Wärmepumpen und Elektroautos steigt Fünf Prozent der Haushalten wollen innerhalb des nächsten Jahres in eine Energiewende-Technologie investieren, zeigt die Umfrage. Insgesamt 18 Prozent der befragten Haushalte besitzen eine Photovoltaik-Dachanlage, fünf Prozent ein Balkonkraftwerk.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9258253b71bac8303b78d7d3",
+      "title": "Batterierecycling ist derzeit nicht wirtschaftlich",
+      "url": "https://www.pv-magazine.de/2026/08/27/batterierecycling-ist-derzeit-nicht-wirtschaftlich/",
+      "published_at": "2026-08-27T09:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Batterierecycling ist derzeit nicht wirtschaftlich Ausgediente Elektroauto-Batterien müssen als Gefahrgut transportiert werden. Einer Studie der HHL Leipzig Graduate School of Management zufolge macht das deren Recycling unwirtschaftlich. Batterien werden daher teurer, wenn sie ab 2031 wiederverwertete Materialien enthalten müssen.",
+      "tags": [],
+      "regions": [
+        "DE-SN"
+      ]
+    },
+    {
+      "id": "1b7fa0ec982bafa3c23e9307",
+      "title": "Viel Erneuerbare, weniger Extreme: Batterieerlöse im Juli",
+      "url": "https://www.pv-magazine.de/2026/08/27/viel-erneuerbare-weniger-extreme-batterieerloese-im-juli/",
+      "published_at": "2026-08-27T07:04:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Viel Erneuerbare, weniger Extreme: Batterieerlöse im Juli Der Juli brachte ein ruhigeres, aber weiterhin attraktives Marktumfeld für Batteriespeicher. Ein Rekordanteil erneuerbarer Energien, häufigere Negativpreisphasen und moderatere Abendrampen sorgten für eine ausgewogenere Verteilung der Erlösmöglichkeiten zwischen Großhandels- und Regelenergiemärkten. Lennard Wilkening, CEO und Mitgründer von",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "8248bca83d5bafb3bbbe7b08",
       "title": "Mehr neue E-Autos auf den Straßen in Rheinland-Pfalz",
       "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-mehr-neue-e-autos-auf-den-strassen-in-rheinland-pfalz-100.html",
@@ -23,52 +69,6 @@
       "language": "de",
       "summary": "Flexpower bietet Rechenzentren flexible Beschaffung von Photovoltaik- und Windstrom Flexpower will Rechenzentren eine Stromversorgung ermöglichen, die Grünstrom aus seinem Photovoltaik- und Windportfolio mit unterschiedlichen Beschaffungsmodellen und Batteriespeichern kombiniert. Betreiber können dabei mehrjährige Festpreise und PPAs mit einer flexiblen Beschaffung am kurzfristigen Strommarkt verb",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6a50430bbb0ffbdd62529466",
-      "title": "Batterie-Tolling: Wie sich Vermarktungsrisiken vertraglich verteilen lassen",
-      "url": "https://www.pv-magazine.de/2026/08/26/batterie-tolling-wie-sich-vermarktungsrisiken-vertraglich-verteilen-lassen/",
-      "published_at": "2026-08-26T07:24:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Batterie-Tolling: Wie sich Vermarktungsrisiken vertraglich verteilen lassen Der Batteriespeicher-Tsunami trifft auf einen Felsen bei der Finanzierung: volatile Erlöse. Immer mehr Projekte setzen deshalb auf Tolling-Agreements, um Risiken auszulagern und Cashflows zu stabilisieren. Doch das Geschäftsmodell bringt neue Komplexität und ist weit entfernt von Standardverträgen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c9cc064f70ae3e85cfd5ffcf",
-      "title": "heise+ | Elektroautos laden: Den rollenden Speicher wirtschaftlich nutzen",
-      "url": "https://www.heise.de/hintergrund/Elektroautos-laden-Den-rollenden-Speicher-wirtschaftlich-nutzen-11375562.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-08-26T05:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Elektroautos laden: Den rollenden Speicher wirtschaftlich nutzen Den Energiegehalt von Batterien wirtschaftlich nutzen, um mit dem E-Auto am Strommarkt teilzunehmen? Der Rollout ist zäh, doch das dürfte sich rasch ändern.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f591c2a5961e6a61934ddb28",
-      "title": "Netzanschlüsse für Batteriespeicher: 574 Gigawatt angefragt, 54 Gigawatt zugesagt",
-      "url": "https://www.pv-magazine.de/2026/08/25/netzanschluesse-fuer-batteriespeicher-574-gigawatt-angefragt-54-gigawatt-zugesagt/",
-      "published_at": "2026-08-25T13:45:30Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Netzanschlüsse für Batteriespeicher: 574 Gigawatt angefragt, 54 Gigawatt zugesagt Die Zahl der Netzanschlussbegehren für Batteriespeicher ist 2025 stark gestiegen. Bei den Verteil- und Übertragungsnetzbetreibern gingen insgesamt 18.158 Anfragen über rund 574 Gigawatt Leistung und 1583 Gigawattstunden Kapazität ein. Anschlusszusagen erteilten die Netzbetreiber im Jahresverlauf für insgesamt gut 54 ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bff070d443175a46fb95ea09",
-      "title": "Comax baut Batteriespeicher-Portfolio in Frankreich deutlich aus",
-      "url": "https://www.pv-magazine.de/2026/08/25/comax-baut-batteriespeicher-portfolio-in-frankreich-deutlich-aus/",
-      "published_at": "2026-08-25T12:36:37Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Comax baut Batteriespeicher-Portfolio in Frankreich deutlich aus Comax France hat an zehn Standorten Batteriespeicher mit insgesamt 57 Megawatt Leistung und 114 Megawattstunden Kapazität fertiggestellt und an das Verteilnetz angeschlossen. Damit steigt das operative Speicherportfolio des zur Schweizer MET Group gehörenden Unternehmens in Frankreich auf mehr als 86 Megawatt und 143 Megawattstunden.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     },
     {

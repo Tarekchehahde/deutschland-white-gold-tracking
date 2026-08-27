@@ -1,11 +1,12 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-08-25": 3,
-    "2026-08-26": 4
+    "2026-08-25": 1,
+    "2026-08-26": 2,
+    "2026-08-27": 4
   },
   "tag_counts": {
-    "industrie": 2
+    "industrie": 1
   },
   "by_source_category": {
     "national": 6,

@@ -2,6 +2,52 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "31e30319ed8a648e1342a4d7",
+      "title": "Während VW in Emden bangt, stapeln sich in Wilhelmshaven tausende China-Autos",
+      "url": "https://www.rnd.de/wirtschaft/waehrend-vw-in-emden-bangt-stapeln-sich-in-wilhelmshaven-tausende-china-autos-UMT743YC3NEZ3MR2I2UIF4JRNQ.html",
+      "published_at": "2026-08-27T13:35:21Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Während VW in Emden bangt, stapeln sich in Wilhelmshaven tausende China-Autos Im Jade-Weser-Port in Wilhelmshaven werden zunehmend chinesische Elektroautos umgeschlagen, während 60 Kilometer entfernt in Emden VW-Mitarbeiter um ihre Zukunft bangen. Besuch bei einem Symbol für den Wandel der deutschen Automobilindustrie.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "439966a77b71cee509260c59",
+      "title": "KfW-Umfrage: Bereitschaft zu Investitionen in Photovoltaik, Wärmepumpen und Elektroautos steigt",
+      "url": "https://www.pv-magazine.de/2026/08/27/kfw-umfrage-bereitschaft-zu-investitionen-in-photovoltaik-waermepumpen-und-elektroautos-steigt/",
+      "published_at": "2026-08-27T11:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "KfW-Umfrage: Bereitschaft zu Investitionen in Photovoltaik, Wärmepumpen und Elektroautos steigt Fünf Prozent der Haushalten wollen innerhalb des nächsten Jahres in eine Energiewende-Technologie investieren, zeigt die Umfrage. Insgesamt 18 Prozent der befragten Haushalte besitzen eine Photovoltaik-Dachanlage, fünf Prozent ein Balkonkraftwerk.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9258253b71bac8303b78d7d3",
+      "title": "Batterierecycling ist derzeit nicht wirtschaftlich",
+      "url": "https://www.pv-magazine.de/2026/08/27/batterierecycling-ist-derzeit-nicht-wirtschaftlich/",
+      "published_at": "2026-08-27T09:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Batterierecycling ist derzeit nicht wirtschaftlich Ausgediente Elektroauto-Batterien müssen als Gefahrgut transportiert werden. Einer Studie der HHL Leipzig Graduate School of Management zufolge macht das deren Recycling unwirtschaftlich. Batterien werden daher teurer, wenn sie ab 2031 wiederverwertete Materialien enthalten müssen.",
+      "tags": [],
+      "regions": [
+        "DE-SN"
+      ]
+    },
+    {
+      "id": "1b7fa0ec982bafa3c23e9307",
+      "title": "Viel Erneuerbare, weniger Extreme: Batterieerlöse im Juli",
+      "url": "https://www.pv-magazine.de/2026/08/27/viel-erneuerbare-weniger-extreme-batterieerloese-im-juli/",
+      "published_at": "2026-08-27T07:04:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Viel Erneuerbare, weniger Extreme: Batterieerlöse im Juli Der Juli brachte ein ruhigeres, aber weiterhin attraktives Marktumfeld für Batteriespeicher. Ein Rekordanteil erneuerbarer Energien, häufigere Negativpreisphasen und moderatere Abendrampen sorgten für eine ausgewogenere Verteilung der Erlösmöglichkeiten zwischen Großhandels- und Regelenergiemärkten. Lennard Wilkening, CEO und Mitgründer von",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "8248bca83d5bafb3bbbe7b08",
       "title": "Mehr neue E-Autos auf den Straßen in Rheinland-Pfalz",
       "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-mehr-neue-e-autos-auf-den-strassen-in-rheinland-pfalz-100.html",
