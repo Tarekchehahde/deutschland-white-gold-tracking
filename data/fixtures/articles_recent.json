@@ -2,6 +2,72 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "01a4224c20a7160e8e7781d7",
+      "title": "Cellforce: Betriebsrat erhebt Vorwürfe",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/cellforce-vorwuerfe-betriebsrat-an-porsche-100.html",
+      "published_at": "2026-08-28T16:19:14Z",
+      "source_id": "swr-aktuell-rss",
+      "language": "de",
+      "summary": "Cellforce: Betriebsrat erhebt Vorwürfe Der Betriebsrat der Porsche-Tochter Cellforce mit Sitz in Kirchentellinsfurt ist unzufrieden. Denn Porsche, heißt es, lasse den Batteriezellenhersteller fallen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0a139166529bc66f8d5fef1e",
+      "title": "Cellforce: Betriebsrat erhebt Vorwürfe",
+      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-cellforce-betriebsrat-erhebt-vorwuerfe-100.html",
+      "published_at": "2026-08-28T13:55:44Z",
+      "source_id": "tagesschau-bw",
+      "language": "de",
+      "summary": "Cellforce: Betriebsrat erhebt Vorwürfe Der Betriebsrat der Porsche-Tochter Cellforce mit Sitz in Kirchentellinsfurt ist unzufrieden. Denn Porsche, heißt es, lasse den Batteriezellenhersteller fallen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1f7685c6c93e83a8b220b6bd",
+      "title": "Venezuela: Am Ende geht es doch ums Öl",
+      "url": "https://www.faz.net/aktuell/wirtschaft/venezuela-donald-trump-greift-nach-dem-oel-des-landes-201168478.html",
+      "published_at": "2026-08-28T13:54:02Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Venezuela: Am Ende geht es doch ums Öl Präsident Trump greift nach Venezuelas Bodenschätzen. Die Zyniker hatten recht – und die Demokratie muss warten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4478abfd219cd83af56fa82c",
+      "title": "Anzeige: Turtle Beach Vulcan II-RGB-Tactile-Gaming-Tastatur jetzt zum Tiefpreis bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-turtle-beach-vulcan-ii-rgb-tactile-gaming-tastatur-jetzt-zum-tiefpreis-bei-amazon-2608-212400.html",
+      "published_at": "2026-08-28T11:40:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Turtle Beach Vulcan II-RGB-Tactile-Gaming-Tastatur jetzt zum Tiefpreis bei Amazon Anders als viele mechanische Tastaturen setzt die Turtle Beach Vulcan II Tactile auf besonders schnelle und langlebige TITAN-Schalter. ( Technik/Hardware )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "637c9ce099b6ff16e0ddd797",
+      "title": "Enervis-Batteriespeicher-Index: Batteriespeicher-Erlöse in Deutschland bleiben im Juli auf hohem Niveau – starke Photovoltaik-Einspeisung und hohe Preise zu Spitzenlastzeiten, getrieben durch erneut gestiegene Gaspreise",
+      "url": "https://www.pv-magazine.de/2026/08/28/enervis-batteriespeicher-index-batteriespeicher-erloese-in-deutschland-bleiben-im-juli-auf-hohem-niveau-starke-photovoltaik-einspeisung-und-hohe-preise-zu-spitzenlastzeiten-getrieben-durch/",
+      "published_at": "2026-08-28T09:51:47Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enervis-Batteriespeicher-Index: Batteriespeicher-Erlöse in Deutschland bleiben im Juli auf hohem Niveau – starke Photovoltaik-Einspeisung und hohe Preise zu Spitzenlastzeiten, getrieben durch erneut gestiegene Gaspreise Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "52cb96efbd2cefcf92d14edd",
+      "title": "Elektromobilität bei der Polizei: Metropolitan Police setzt auf E-Motorräder",
+      "url": "https://www.golem.de/news/elektromobilitaet-bei-der-polizei-metropolitan-police-setzt-auf-e-motorraeder-2608-212382.html",
+      "published_at": "2026-08-28T06:26:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität bei der Polizei: Metropolitan Police setzt auf E-Motorräder Die Metropolitan Police stockt ihre Flotte von 5 auf 25 E-Motorräder auf, um Smartphone-Diebstähle in London zu bekämpfen. ( Elektromotorrad , Elektromobilität )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "31e30319ed8a648e1342a4d7",
       "title": "Während VW in Emden bangt, stapeln sich in Wilhelmshaven tausende China-Autos",
       "url": "https://www.rnd.de/wirtschaft/waehrend-vw-in-emden-bangt-stapeln-sich-in-wilhelmshaven-tausende-china-autos-UMT743YC3NEZ3MR2I2UIF4JRNQ.html",
@@ -37,17 +103,6 @@
       ]
     },
     {
-      "id": "1b7fa0ec982bafa3c23e9307",
-      "title": "Viel Erneuerbare, weniger Extreme: Batterieerlöse im Juli",
-      "url": "https://www.pv-magazine.de/2026/08/27/viel-erneuerbare-weniger-extreme-batterieerloese-im-juli/",
-      "published_at": "2026-08-27T07:04:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Viel Erneuerbare, weniger Extreme: Batterieerlöse im Juli Der Juli brachte ein ruhigeres, aber weiterhin attraktives Marktumfeld für Batteriespeicher. Ein Rekordanteil erneuerbarer Energien, häufigere Negativpreisphasen und moderatere Abendrampen sorgten für eine ausgewogenere Verteilung der Erlösmöglichkeiten zwischen Großhandels- und Regelenergiemärkten. Lennard Wilkening, CEO und Mitgründer von",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "8248bca83d5bafb3bbbe7b08",
       "title": "Mehr neue E-Autos auf den Straßen in Rheinland-Pfalz",
       "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-mehr-neue-e-autos-auf-den-strassen-in-rheinland-pfalz-100.html",
@@ -59,17 +114,6 @@
       "regions": [
         "DE-RP"
       ]
-    },
-    {
-      "id": "5fdb3061022bba56beb718a6",
-      "title": "Flexpower bietet Rechenzentren flexible Beschaffung von Photovoltaik- und Windstrom",
-      "url": "https://www.pv-magazine.de/2026/08/26/flexpower-bietet-rechenzentren-flexible-beschaffung-von-photovoltaik-und-windstrom/",
-      "published_at": "2026-08-26T10:51:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Flexpower bietet Rechenzentren flexible Beschaffung von Photovoltaik- und Windstrom Flexpower will Rechenzentren eine Stromversorgung ermöglichen, die Grünstrom aus seinem Photovoltaik- und Windportfolio mit unterschiedlichen Beschaffungsmodellen und Batteriespeichern kombiniert. Betreiber können dabei mehrjährige Festpreise und PPAs mit einer flexiblen Beschaffung am kurzfristigen Strommarkt verb",
-      "tags": [],
-      "regions": []
     },
     {
       "id": "679bfd521c7ecebf37b83944",

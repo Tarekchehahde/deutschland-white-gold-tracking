@@ -1,15 +1,81 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-28T02:11:24Z",
+  "generated_at_utc": "2026-08-28T17:26:28Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 541,
+  "total_in_archive": 547,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 108
+    "2026-08": 114
   },
   "recent_for_ui": [
+    {
+      "id": "01a4224c20a7160e8e7781d7",
+      "title": "Cellforce: Betriebsrat erhebt Vorwürfe",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/cellforce-vorwuerfe-betriebsrat-an-porsche-100.html",
+      "published_at": "2026-08-28T16:19:14Z",
+      "source_id": "swr-aktuell-rss",
+      "language": "de",
+      "summary": "Cellforce: Betriebsrat erhebt Vorwürfe Der Betriebsrat der Porsche-Tochter Cellforce mit Sitz in Kirchentellinsfurt ist unzufrieden. Denn Porsche, heißt es, lasse den Batteriezellenhersteller fallen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0a139166529bc66f8d5fef1e",
+      "title": "Cellforce: Betriebsrat erhebt Vorwürfe",
+      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-cellforce-betriebsrat-erhebt-vorwuerfe-100.html",
+      "published_at": "2026-08-28T13:55:44Z",
+      "source_id": "tagesschau-bw",
+      "language": "de",
+      "summary": "Cellforce: Betriebsrat erhebt Vorwürfe Der Betriebsrat der Porsche-Tochter Cellforce mit Sitz in Kirchentellinsfurt ist unzufrieden. Denn Porsche, heißt es, lasse den Batteriezellenhersteller fallen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1f7685c6c93e83a8b220b6bd",
+      "title": "Venezuela: Am Ende geht es doch ums Öl",
+      "url": "https://www.faz.net/aktuell/wirtschaft/venezuela-donald-trump-greift-nach-dem-oel-des-landes-201168478.html",
+      "published_at": "2026-08-28T13:54:02Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Venezuela: Am Ende geht es doch ums Öl Präsident Trump greift nach Venezuelas Bodenschätzen. Die Zyniker hatten recht – und die Demokratie muss warten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4478abfd219cd83af56fa82c",
+      "title": "Anzeige: Turtle Beach Vulcan II-RGB-Tactile-Gaming-Tastatur jetzt zum Tiefpreis bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-turtle-beach-vulcan-ii-rgb-tactile-gaming-tastatur-jetzt-zum-tiefpreis-bei-amazon-2608-212400.html",
+      "published_at": "2026-08-28T11:40:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Turtle Beach Vulcan II-RGB-Tactile-Gaming-Tastatur jetzt zum Tiefpreis bei Amazon Anders als viele mechanische Tastaturen setzt die Turtle Beach Vulcan II Tactile auf besonders schnelle und langlebige TITAN-Schalter. ( Technik/Hardware )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "637c9ce099b6ff16e0ddd797",
+      "title": "Enervis-Batteriespeicher-Index: Batteriespeicher-Erlöse in Deutschland bleiben im Juli auf hohem Niveau – starke Photovoltaik-Einspeisung und hohe Preise zu Spitzenlastzeiten, getrieben durch erneut gestiegene Gaspreise",
+      "url": "https://www.pv-magazine.de/2026/08/28/enervis-batteriespeicher-index-batteriespeicher-erloese-in-deutschland-bleiben-im-juli-auf-hohem-niveau-starke-photovoltaik-einspeisung-und-hohe-preise-zu-spitzenlastzeiten-getrieben-durch/",
+      "published_at": "2026-08-28T09:51:47Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enervis-Batteriespeicher-Index: Batteriespeicher-Erlöse in Deutschland bleiben im Juli auf hohem Niveau – starke Photovoltaik-Einspeisung und hohe Preise zu Spitzenlastzeiten, getrieben durch erneut gestiegene Gaspreise Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "52cb96efbd2cefcf92d14edd",
+      "title": "Elektromobilität bei der Polizei: Metropolitan Police setzt auf E-Motorräder",
+      "url": "https://www.golem.de/news/elektromobilitaet-bei-der-polizei-metropolitan-police-setzt-auf-e-motorraeder-2608-212382.html",
+      "published_at": "2026-08-28T06:26:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität bei der Polizei: Metropolitan Police setzt auf E-Motorräder Die Metropolitan Police stockt ihre Flotte von 5 auf 25 E-Motorräder auf, um Smartphone-Diebstähle in London zu bekämpfen. ( Elektromotorrad , Elektromobilität )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "31e30319ed8a648e1342a4d7",
       "title": "Während VW in Emden bangt, stapeln sich in Wilhelmshaven tausende China-Autos",
@@ -4512,76 +4578,6 @@
       "language": "de",
       "summary": "Stromspeicher für Balkonkraftwerke: Ab wann sich die Anschaffung für dich lohnt Mit einem Stromspeicher lässt sich noch mehr aus der Energie herausholen, die ein Balkonkraftwerk erzeugt. Wie funktionieren die zusätzlichen Geräte? Worauf muss man achten? Und wo liegen die Kosten? Balkonkraftwerke sind kinderleicht zu installieren und können Geräte wie Kühlschränke oder Fernseher mit Strom versorgen",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6265b80bb52e6e14b48da767",
-      "title": "Feierlicher Spatenstich von Maxsolars netzdienlichem Speicher für Bayernwerk",
-      "url": "https://www.pv-magazine.de/2026/06/09/feierlicher-spatenstich-von-maxsolars-netzdienlichem-speicher-fuer-bayernwerk/",
-      "published_at": "2026-06-09T10:59:59Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Feierlicher Spatenstich von Maxsolars netzdienlichem Speicher für Bayernwerk Der Batteriespeicher mit 5 Megawatt Leistung und 25 Megawattstunden Kapazität entsteht in Wutzldorf. Der Einsatz des Speichers erfolgt nicht primär marktgetrieben, sondern orientiert sich an den Anforderungen des Verteilnetzes und den Vorgaben des Netzbetreibers.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "cc8c101d0c794df9e9b56683",
-      "title": "Verkehrswende: Lidl Niederlande will bis 2027 nur Elektro-Lkw benutzen",
-      "url": "https://www.golem.de/news/verkehrswende-lidl-niederlande-will-bis-2027-nur-elektro-lkw-benutzen-2606-209561.html",
-      "published_at": "2026-06-09T10:02:06Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Verkehrswende: Lidl Niederlande will bis 2027 nur Elektro-Lkw benutzen In Noord-Holland und Flevoland werden alle Lidl-Filialen bereits ausschließlich mit E-Lkw beliefert - und bald flächendeckend. ( Lidl , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d10d480447b19bb5e10ac243",
-      "title": "USA: Pentagon stuft Alibaba, BYD und Baidu als chinesische Militärfirmen ein",
-      "url": "https://www.rnd.de/politik/usa-pentagon-stuft-alibaba-byd-und-baidu-als-chinesische-militaerfirmen-ein-3ND6XOTHW5HLTKTS6ADP5VAQ4U.html",
-      "published_at": "2026-06-09T08:35:20Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "USA: Pentagon stuft Alibaba, BYD und Baidu als chinesische Militärfirmen ein Eigentlich stellt BYD Elektroautos her. Nun findet sich das chinesische Unternehmen auf einer US-Liste chinesischer Militärfirmen wieder – ebenso wie zwei andere große Unternehmen aus Fernost, die üblicherweise nicht dem klassischen Verteidigungssektor zugeordnet werden.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "d2925f1fcbfbdf8ce2baa6ee",
-      "title": "Donut Lab entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen",
-      "url": "https://www.golem.de/news/donut-labs-entlarvt-angeblicher-wunderakku-soll-von-deutscher-firma-stammen-2606-209551.html",
-      "published_at": "2026-06-09T08:23:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Donut Lab entlarvt: Angeblicher Wunderakku soll von deutscher Firma stammen Von Anfang an gab es Zweifel an der revolutionären Batteriezelle des finnischen Anbieters Donut Lab. Dahinter soll eine deutsche Firma stecken. ( Akku , Patent )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c0d2e0d23e17eaa7b9ea4902",
-      "title": "Elektromobilität: Zahl der Ladepunkte steigt binnen 12 Monaten um fast 30.000",
-      "url": "https://www.heise.de/news/Elektromobilitaet-Zahl-der-Ladepunkte-steigt-binnen-12-Monaten-um-fast-30-000-11322635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-09T07:11:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Elektromobilität: Zahl der Ladepunkte steigt binnen 12 Monaten um fast 30.000 Der Ausbau der Ladeinfrastruktur in Deutschland kommt weiter voran. Auffällig ist, dass die durchschnittliche Leistung pro Ladepunkt ansteigt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dee7f82e62e7005e766cac84",
-      "title": "„Keimzelle einer nationalen Industrie“: Mexiko präsentiert erstes Elektroauto",
-      "url": "https://www.heise.de/news/Keimzelle-einer-nationalen-Industrie-Mexiko-praesentiert-erstes-Elektroauto-11322306.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-08T20:16:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "„Keimzelle einer nationalen Industrie“: Mexiko präsentiert erstes Elektroauto Mexikos Präsidentin Claudia Sheinbaum macht eine Probefahrt im ersten mexikanischen Elektroauto und träumt vom Aufbau einer nationalen E-Auto-Industrie.",
-      "tags": [
-        "exploration"
-      ],
       "regions": []
     }
   ]
