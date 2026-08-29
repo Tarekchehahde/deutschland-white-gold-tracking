@@ -1,15 +1,26 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-29T11:39:52Z",
+  "generated_at_utc": "2026-08-29T20:56:01Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 550,
+  "total_in_archive": 551,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 117
+    "2026-08": 118
   },
   "recent_for_ui": [
+    {
+      "id": "d07e70574952b30978234eb3",
+      "title": "Audi Q6 e-tron und XPeng P7+: Deutsches und chinesisches Elektroauto im Technik-Test",
+      "url": "https://www.spiegel.de/mobilitaet/auto/audi-q6-e-tron-und-xpeng-p7-deutsches-und-chinesisches-elektroauto-im-technik-test-a-b488b831-49dd-4538-8a8f-a94e7638e59e",
+      "published_at": "2026-08-29T15:28:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Audi Q6 e-tron und XPeng P7+: Deutsches und chinesisches Elektroauto im Technik-Test Chinesische Elektroautos sind günstiger als deutsche. Aber sind sie tatsächlich auch technisch überlegen? Ein Vergleichstest zwischen einem Audi und einem XPeng in fünf Disziplinen gibt Aufschluss.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "4d8585c6a201313510aac9b9",
       "title": "Armin Lutzke (FWG): Bürgerbeteiligung am geplanten Großbatteriespeicher prüfen",
@@ -4569,17 +4580,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Porsche-Chef Leiters: Der 911 wird nie ein Elektroauto Porsche-Chef Michael Leiters schließt eine vollelektrische Version des Sportwagens 911 aus. Der Fokus liegt dort stattdessen auf Verbrenner- und Hybrid-Technik.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "cda2059c656a592f9b64e007",
-      "title": "Test-Roundup: Rivian R2 überzeugt Tester - mit Einschränkungen",
-      "url": "https://www.golem.de/news/test-roundup-rivian-r2-ueberzeugt-tester-mit-einschraenkungen-2606-209597.html",
-      "published_at": "2026-06-10T07:55:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Test-Roundup: Rivian R2 überzeugt Tester - mit Einschränkungen Der neue R2 von Rivian ist eine kleinere, preiswertere Version des Rivian R1S. In ersten Fahrberichten kommt das Elektroauto grundsätzlich gut weg. ( Rivian , Elektroauto )",
       "tags": [],
       "regions": []
     }
