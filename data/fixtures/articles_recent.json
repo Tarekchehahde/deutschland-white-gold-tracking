@@ -2,6 +2,44 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "4d8585c6a201313510aac9b9",
+      "title": "Armin Lutzke (FWG): Bürgerbeteiligung am geplanten Großbatteriespeicher prüfen",
+      "url": "https://www.pfalz-express.de/armin-lutzke-fwg-buergerbeteiligung-am-geplanten-grossbatteriespeicher-pruefen/",
+      "published_at": "2026-08-29T10:25:58Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Armin Lutzke (FWG): Bürgerbeteiligung am geplanten Großbatteriespeicher prüfen Germersheim &#8211; Der Germersheimer FWG-Stadtrat Armin Lutzke regt an, beim geplanten Großbatteriespeicher am Umspannwerk Germersheim eine direkte Beteiligung der Bürger zu prüfen. Denkbar sei nach seiner Auffassung beispielsweise ein genossenschaftliches Modell. Die Stadtwerke Germersheim planen gemeinsam mit den Sta",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9356afc66fa897bb4a020f65",
+      "title": "PowerCo-Chef Frank Blome: Macht dieser Mann Volkswagen zum Batterie-Champion?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/frank-blome-wird-vw-zum-batterie-champion-in-salzgitter-accg-201157590.html",
+      "published_at": "2026-08-29T08:05:05Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "PowerCo-Chef Frank Blome: Macht dieser Mann Volkswagen zum Batterie-Champion? VW bereitet das größte Sparprogramm seiner Geschichte vor – und investiert zugleich Milliarden in neue Batteriefabriken. Frank Blome ist der Kopf hinter dem wagemutigsten Projekt der europäischen Autoindustrie.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "11cbfb3b16fb3dad5a47b8f5",
+      "title": "Umweltminister Carsten Schneider: „Wer einmal ein Elektroauto gefahren ist, steigt nicht mehr auf einen Verbrenner um“",
+      "url": "https://rp-online.de/politik/deutschland/umweltminister-schneider-im-interview-klimapolitik-darf-kein-glaubenssatz-sein_aid-153871049",
+      "published_at": "2026-08-29T05:26:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Umweltminister Carsten Schneider: „Wer einmal ein Elektroauto gefahren ist, steigt nicht mehr auf einen Verbrenner um“ Aus Sicht von Umweltminister Carsten Schneider zwingt der Klimawandel zum Umdenken. Im Interview spricht der SPD-Politiker über den Bewusstseinswandel in der Wirtschaft, Elektromobilität und den langen Atem bei seinen Klima-Vorhaben.",
+      "tags": [
+        "politik",
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
       "id": "0a139166529bc66f8d5fef1e",
       "title": "Cellforce: Betriebsrat erhebt Vorwürfe",
       "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-cellforce-betriebsrat-erhebt-vorwuerfe-100.html",
@@ -42,28 +80,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Enervis-Batteriespeicher-Index: Batteriespeicher-Erlöse in Deutschland bleiben im Juli auf hohem Niveau – starke Photovoltaik-Einspeisung und hohe Preise zu Spitzenlastzeiten, getrieben durch erneut gestiegene Gaspreise Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "52cb96efbd2cefcf92d14edd",
-      "title": "Elektromobilität bei der Polizei: Metropolitan Police setzt auf E-Motorräder",
-      "url": "https://www.golem.de/news/elektromobilitaet-bei-der-polizei-metropolitan-police-setzt-auf-e-motorraeder-2608-212382.html",
-      "published_at": "2026-08-28T06:26:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektromobilität bei der Polizei: Metropolitan Police setzt auf E-Motorräder Die Metropolitan Police stockt ihre Flotte von 5 auf 25 E-Motorräder auf, um Smartphone-Diebstähle in London zu bekämpfen. ( Elektromotorrad , Elektromobilität )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "31e30319ed8a648e1342a4d7",
-      "title": "Während VW in Emden bangt, stapeln sich in Wilhelmshaven tausende China-Autos",
-      "url": "https://www.rnd.de/wirtschaft/waehrend-vw-in-emden-bangt-stapeln-sich-in-wilhelmshaven-tausende-china-autos-UMT743YC3NEZ3MR2I2UIF4JRNQ.html",
-      "published_at": "2026-08-27T13:35:21Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Während VW in Emden bangt, stapeln sich in Wilhelmshaven tausende China-Autos Im Jade-Weser-Port in Wilhelmshaven werden zunehmend chinesische Elektroautos umgeschlagen, während 60 Kilometer entfernt in Emden VW-Mitarbeiter um ihre Zukunft bangen. Besuch bei einem Symbol für den Wandel der deutschen Automobilindustrie.",
       "tags": [],
       "regions": []
     },

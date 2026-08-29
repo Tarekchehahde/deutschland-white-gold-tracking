@@ -1,15 +1,53 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-29T01:45:41Z",
+  "generated_at_utc": "2026-08-29T11:39:52Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 547,
+  "total_in_archive": 550,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 114
+    "2026-08": 117
   },
   "recent_for_ui": [
+    {
+      "id": "4d8585c6a201313510aac9b9",
+      "title": "Armin Lutzke (FWG): Bürgerbeteiligung am geplanten Großbatteriespeicher prüfen",
+      "url": "https://www.pfalz-express.de/armin-lutzke-fwg-buergerbeteiligung-am-geplanten-grossbatteriespeicher-pruefen/",
+      "published_at": "2026-08-29T10:25:58Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Armin Lutzke (FWG): Bürgerbeteiligung am geplanten Großbatteriespeicher prüfen Germersheim &#8211; Der Germersheimer FWG-Stadtrat Armin Lutzke regt an, beim geplanten Großbatteriespeicher am Umspannwerk Germersheim eine direkte Beteiligung der Bürger zu prüfen. Denkbar sei nach seiner Auffassung beispielsweise ein genossenschaftliches Modell. Die Stadtwerke Germersheim planen gemeinsam mit den Sta",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9356afc66fa897bb4a020f65",
+      "title": "PowerCo-Chef Frank Blome: Macht dieser Mann Volkswagen zum Batterie-Champion?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/frank-blome-wird-vw-zum-batterie-champion-in-salzgitter-accg-201157590.html",
+      "published_at": "2026-08-29T08:05:05Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "PowerCo-Chef Frank Blome: Macht dieser Mann Volkswagen zum Batterie-Champion? VW bereitet das größte Sparprogramm seiner Geschichte vor – und investiert zugleich Milliarden in neue Batteriefabriken. Frank Blome ist der Kopf hinter dem wagemutigsten Projekt der europäischen Autoindustrie.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "11cbfb3b16fb3dad5a47b8f5",
+      "title": "Umweltminister Carsten Schneider: „Wer einmal ein Elektroauto gefahren ist, steigt nicht mehr auf einen Verbrenner um“",
+      "url": "https://rp-online.de/politik/deutschland/umweltminister-schneider-im-interview-klimapolitik-darf-kein-glaubenssatz-sein_aid-153871049",
+      "published_at": "2026-08-29T05:26:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Umweltminister Carsten Schneider: „Wer einmal ein Elektroauto gefahren ist, steigt nicht mehr auf einen Verbrenner um“ Aus Sicht von Umweltminister Carsten Schneider zwingt der Klimawandel zum Umdenken. Im Interview spricht der SPD-Politiker über den Bewusstseinswandel in der Wirtschaft, Elektromobilität und den langen Atem bei seinen Klima-Vorhaben.",
+      "tags": [
+        "politik",
+        "umwelt"
+      ],
+      "regions": []
+    },
     {
       "id": "01a4224c20a7160e8e7781d7",
       "title": "Cellforce: Betriebsrat erhebt Vorwürfe",
@@ -4542,41 +4580,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Test-Roundup: Rivian R2 überzeugt Tester - mit Einschränkungen Der neue R2 von Rivian ist eine kleinere, preiswertere Version des Rivian R1S. In ersten Fahrberichten kommt das Elektroauto grundsätzlich gut weg. ( Rivian , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f7eb4ffe049617a3b217081d",
-      "title": "Axialflussmotor in Serie: Der V8-Antrieb der E-Mobilität kommt aus Berlin",
-      "url": "https://www.golem.de/news/axialflussmotor-in-serie-der-v8-antrieb-der-e-mobilitaet-kommt-aus-berlin-2606-209583.html",
-      "published_at": "2026-06-10T06:37:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Axialflussmotor in Serie: Der V8-Antrieb der E-Mobilität kommt aus Berlin Mercedes hat die Serienproduktion des Axialflussmotors für AMG gestartet. Verkehrsminister Schnieder spricht von einer \"Revolution im Elektroantrieb\". Ein Bericht von Friedhelm Greis ( Elektroauto , Deutsche Bahn )",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "d3e6c382b99b52bf2baf954d",
-      "title": "Deutsche Firma involviert: Youtuber entlarvt angeblichen Wunderakku von Donut Lab",
-      "url": "https://t3n.de/news/wunderakku-donut-lab-1746765/",
-      "published_at": "2026-06-09T17:17:13Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Deutsche Firma involviert: Youtuber entlarvt angeblichen Wunderakku von Donut Lab Schon kurz nach der Vorstellung des angeblichen Wunderakkus waren Zweifel an der Behauptung von Donut Lab aufgekommen, es habe eine serienreife Feststoffbatterie entwickelt. Tatsächlich dürfte es sich um einen Lithium-Ionen-Akku handeln. Es klang viel zu schön, um wahr zu sein. Auf der CES 2026 in Las Vegas hatte die",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0cc049ac48d0293f2d11e329",
-      "title": "Stromspeicher für Balkonkraftwerke: Ab wann sich die Anschaffung für dich lohnt",
-      "url": "https://t3n.de/news/stromspeicher-fuer-balkonkraftwerke-ab-wann-sich-die-anschaffung-fuer-dich-lohnt-1746658/",
-      "published_at": "2026-06-09T13:00:03Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Stromspeicher für Balkonkraftwerke: Ab wann sich die Anschaffung für dich lohnt Mit einem Stromspeicher lässt sich noch mehr aus der Energie herausholen, die ein Balkonkraftwerk erzeugt. Wie funktionieren die zusätzlichen Geräte? Worauf muss man achten? Und wo liegen die Kosten? Balkonkraftwerke sind kinderleicht zu installieren und können Geräte wie Kühlschränke oder Fernseher mit Strom versorgen",
       "tags": [],
       "regions": []
     }
