@@ -4,13 +4,12 @@
     "2026-08-25": 1,
     "2026-08-26": 1,
     "2026-08-27": 3,
-    "2026-08-28": 6
+    "2026-08-28": 5
   },
   "tag_counts": {
     "industrie": 1
   },
   "by_source_category": {
-    "broadcast": 1,
     "national": 8,
     "regional": 2
   }
