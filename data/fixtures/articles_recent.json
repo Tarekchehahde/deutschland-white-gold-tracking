@@ -2,24 +2,13 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "d07e70574952b30978234eb3",
-      "title": "Audi Q6 e-tron und XPeng P7+: Deutsches und chinesisches Elektroauto im Technik-Test",
-      "url": "https://www.spiegel.de/mobilitaet/auto/audi-q6-e-tron-und-xpeng-p7-deutsches-und-chinesisches-elektroauto-im-technik-test-a-b488b831-49dd-4538-8a8f-a94e7638e59e",
-      "published_at": "2026-08-29T15:28:00Z",
-      "source_id": "spiegel-schlagzeilen",
+      "id": "efaa6c459bf9526326e74e30",
+      "title": "ID.1: VWs 20.000-Euro-Elektroauto soll ID.Up heißen",
+      "url": "https://www.golem.de/news/id-1-vws-20-000-euro-elektroauto-soll-id-up-heissen-2608-212422.html",
+      "published_at": "2026-08-30T08:33:01Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "Audi Q6 e-tron und XPeng P7+: Deutsches und chinesisches Elektroauto im Technik-Test Chinesische Elektroautos sind günstiger als deutsche. Aber sind sie tatsächlich auch technisch überlegen? Ein Vergleichstest zwischen einem Audi und einem XPeng in fünf Disziplinen gibt Aufschluss.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4d8585c6a201313510aac9b9",
-      "title": "Armin Lutzke (FWG): Bürgerbeteiligung am geplanten Großbatteriespeicher prüfen",
-      "url": "https://www.pfalz-express.de/armin-lutzke-fwg-buergerbeteiligung-am-geplanten-grossbatteriespeicher-pruefen/",
-      "published_at": "2026-08-29T10:25:58Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Armin Lutzke (FWG): Bürgerbeteiligung am geplanten Großbatteriespeicher prüfen Germersheim &#8211; Der Germersheimer FWG-Stadtrat Armin Lutzke regt an, beim geplanten Großbatteriespeicher am Umspannwerk Germersheim eine direkte Beteiligung der Bürger zu prüfen. Denkbar sei nach seiner Auffassung beispielsweise ein genossenschaftliches Modell. Die Stadtwerke Germersheim planen gemeinsam mit den Sta",
+      "summary": "ID.1: VWs 20.000-Euro-Elektroauto soll ID.Up heißen Volkswagen hat sich wohl bei der Benennung des Kleinwagens für eine bekannte Marke entschieden. Der ID.Up soll weiterhin günstiger bleiben. ( Volkswagen ID. , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -45,17 +34,6 @@
       "source_id": "tagesschau-bw",
       "language": "de",
       "summary": "Cellforce: Betriebsrat erhebt Vorwürfe Der Betriebsrat der Porsche-Tochter Cellforce mit Sitz in Kirchentellinsfurt ist unzufrieden. Denn Porsche, heißt es, lasse den Batteriezellenhersteller fallen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1f7685c6c93e83a8b220b6bd",
-      "title": "Venezuela: Am Ende geht es doch ums Öl",
-      "url": "https://www.faz.net/aktuell/wirtschaft/venezuela-donald-trump-greift-nach-dem-oel-des-landes-201168478.html",
-      "published_at": "2026-08-28T13:54:02Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Venezuela: Am Ende geht es doch ums Öl Präsident Trump greift nach Venezuelas Bodenschätzen. Die Zyniker hatten recht – und die Demokratie muss warten.",
       "tags": [],
       "regions": []
     },
