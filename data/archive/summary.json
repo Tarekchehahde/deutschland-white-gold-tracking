@@ -1,15 +1,26 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-29T20:56:01Z",
+  "generated_at_utc": "2026-08-30T10:28:54Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 551,
+  "total_in_archive": 552,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 118
+    "2026-08": 119
   },
   "recent_for_ui": [
+    {
+      "id": "efaa6c459bf9526326e74e30",
+      "title": "ID.1: VWs 20.000-Euro-Elektroauto soll ID.Up heißen",
+      "url": "https://www.golem.de/news/id-1-vws-20-000-euro-elektroauto-soll-id-up-heissen-2608-212422.html",
+      "published_at": "2026-08-30T08:33:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "ID.1: VWs 20.000-Euro-Elektroauto soll ID.Up heißen Volkswagen hat sich wohl bei der Benennung des Kleinwagens für eine bekannte Marke entschieden. Der ID.Up soll weiterhin günstiger bleiben. ( Volkswagen ID. , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d07e70574952b30978234eb3",
       "title": "Audi Q6 e-tron und XPeng P7+: Deutsches und chinesisches Elektroauto im Technik-Test",
@@ -4569,17 +4580,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Mercedes-Benz: Elektrischer GLC kann in günstigeren Varianten bestellt werden Nach dem GLC 400 4Matic kommen zwei preiswertere Varianten in den Handel. Die Preise starten bei knapp 65.000 Euro. ( Mercedes Benz , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fbe8e5d82a6615a0ec31dfd9",
-      "title": "Porsche-Chef Leiters: Der 911 wird nie ein Elektroauto",
-      "url": "https://www.heise.de/news/Porsche-Chef-Leiters-Der-911-wird-nie-ein-Elektroauto-11327626.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-10T13:29:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Porsche-Chef Leiters: Der 911 wird nie ein Elektroauto Porsche-Chef Michael Leiters schließt eine vollelektrische Version des Sportwagens 911 aus. Der Fokus liegt dort stattdessen auf Verbrenner- und Hybrid-Technik.",
       "tags": [],
       "regions": []
     }
