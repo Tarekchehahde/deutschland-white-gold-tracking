@@ -1,15 +1,63 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-31T11:35:58Z",
+  "generated_at_utc": "2026-08-31T22:51:39Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 554,
+  "total_in_archive": 558,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 121
+    "2026-08": 125
   },
   "recent_for_ui": [
+    {
+      "id": "19db509205f4297707346272",
+      "title": "Größter Batteriespeicher Deutschlands: Baustart in der Lausitz",
+      "url": "https://www.tagesschau.de/inland/regional/sachsen/energiewende-batteriespeicher-boxberg,leag-lausitz-gigawatt-factory-100.html",
+      "published_at": "2026-08-31T13:45:23Z",
+      "source_id": "tagesschau-sn",
+      "language": "de",
+      "summary": "Größter Batteriespeicher Deutschlands: Baustart in der Lausitz Mit Milliardeninvestitionen plant die LEAG den Ausbau von Solar- und Windenergie in der Lausitz bis 2030. Das Projekt verspricht klimaneutrale Energie, innovative Speichertechnologien und tausende neue Arbeitsplätze.",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "75aa9154e38ab57b65a2a6fd",
+      "title": "Baustart für 441 Megawattstunden-Speicher in Stendal",
+      "url": "https://www.pv-magazine.de/2026/08/31/baustart-fuer-441-megawattstunden-speicher-in-stendal/",
+      "published_at": "2026-08-31T13:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Baustart für 441 Megawattstunden-Speicher in Stendal Sunotec realisiert den Stand-alone-Batteriespeicher mit 100 Megawatt Leistung in Sachsen-Anhalt. Die Inbetriebnahme ist für das erste Quartal 2027 vorgesehen.",
+      "tags": [],
+      "regions": [
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "df37cef2fed98d07f72c2475",
+      "title": "Leag startet Bau des 1,6 Gigawattstunden-Speichers in Sachsen",
+      "url": "https://www.pv-magazine.de/2026/08/31/leag-startet-bau-des-16-gigawattstunden-speichers-in-sachsen/",
+      "published_at": "2026-08-31T12:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Leag startet Bau des 1,6 Gigawattstunden-Speichers in Sachsen Am sächsischen Kraftwerksstandort Boxberg entsteht der Batteriespeicher mit 400 Megawatt Leistung und 1600 Megawattstunden Kapazität. Neben Leag Clean Power sind Hyperstrong und Siemens Energy an dem Bau der „GigaBattery Boxberg 400“ beteiligt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ce563e6b11d73778401a1c76",
+      "title": "VDA: Deutschland kommt beim Lkw-Ladenetz kaum voran",
+      "url": "https://www.golem.de/news/vda-deutschland-kommt-beim-lkw-ladenetz-kaum-voran-2608-212456.html",
+      "published_at": "2026-08-31T11:51:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "VDA: Deutschland kommt beim Lkw-Ladenetz kaum voran Deutschland braucht in Zukunft Ladepunkte für Elektro-Lkw - der Ausbau stockt aber. Die VDA-Präsidentin fordert einen \"Ausbauturbo\". ( Lkw , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "72f8dca7f8aeefd0a3765db7",
       "title": "VW ID.California Cruise: Elektrischer Camper startet bei 60.761 Euro",
@@ -4536,50 +4584,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektroauto: BYDs Flash-Charging soll unter 60 Cent pro kWh kosten BYD will sein Flash-Charging-Netzwerk nach Europa bringen. Die Ladeleistungen erreichen 1.500 kW, der Preis soll für BYD-Kunden niedrig sein. ( BYD , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3b6261239c69035d907e7adc",
-      "title": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto",
-      "url": "https://www.heise.de/news/c-t-Webinar-Energiekosten-senken-mit-dem-Elektroauto-11322896.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-11T08:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto Wann lohnt sich Überschussladen, wann ein dynamischer Tarif? Das Webinar trennt technische Spielereien von wirtschaftlich sinnvollen Lösungen rund ums E-Auto.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2b7a8c667dca9b8db1bc90e5",
-      "title": "Enervis PPA-Price-Tracker für Photovoltaik: PPA-Preise im Mai leicht unter Vormonatsniveau",
-      "url": "https://www.pv-magazine.de/2026/06/11/enervis-ppa-price-tracker-fuer-photovoltaik-ppa-preise-im-mai-leicht-unter-vormonatsniveau/",
-      "published_at": "2026-06-11T07:28:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Enervis PPA-Price-Tracker für Photovoltaik: PPA-Preise im Mai leicht unter Vormonatsniveau Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e6d5169352e436dd127b74a2",
-      "title": "E-Pioniere: Aloisia und Wolfgang Streicher",
-      "url": "https://www.swr.de/video/sendungen-a-z/kaffee-oder-tee/e-pioniere-aloisia-und-wolfgang-streicher-100.html",
-      "published_at": "2026-06-11T07:20:54Z",
-      "source_id": "swr-aktuell-rss",
-      "language": "de",
-      "summary": "E-Pioniere: Aloisia und Wolfgang Streicher Aloisia und Wolfgang Streicher sind seit Jahren überzeugt von Elektromobilität. Ihr erstes E-Bike hatten sie bereits 2010.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "187f2b0c91906f17485b3587",
-      "title": "Elektroauto: Wenn versenkbare Türgriffe zum Todesrisiko werden",
-      "url": "https://www.golem.de/news/elektroauto-wenn-versenkbare-tuergriffe-zum-todesrisiko-werden-2606-209639.html",
-      "published_at": "2026-06-11T06:15:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Wenn versenkbare Türgriffe zum Todesrisiko werden Versenkbare Türgriffe können im Notfall Auto-Insassen einschließen. Ein Fall aus Deutschland zeigt, wie ernst das Problem ist. ( Auto , Elektroauto )",
       "tags": [],
       "regions": []
     }
