@@ -1,15 +1,37 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-30T21:07:31Z",
+  "generated_at_utc": "2026-08-31T11:35:58Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 552,
+  "total_in_archive": 554,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 119
+    "2026-08": 121
   },
   "recent_for_ui": [
+    {
+      "id": "72f8dca7f8aeefd0a3765db7",
+      "title": "VW ID.California Cruise: Elektrischer Camper startet bei 60.761 Euro",
+      "url": "https://www.golem.de/news/vw-id-california-cruise-elektrischer-camper-startet-bei-60-761-euro-2608-212446.html",
+      "published_at": "2026-08-31T10:03:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "VW ID.California Cruise: Elektrischer Camper startet bei 60.761 Euro VW bringt eine Campingversion des ID.Buzz auf den Markt. Der Aufpreis beträgt 4.700 Euro. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "be8937190aa53dbe85056d5f",
+      "title": "heise+ | Elektroauto Mercedes GLC 400 im Test: E-SUV lässt Verbrenner alt aussehen",
+      "url": "https://www.heise.de/tests/Elektroauto-Mercedes-GLC-400-im-Test-E-SUV-laesst-Verbrenner-alt-aussehen-11425170.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-08-31T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroauto Mercedes GLC 400 im Test: E-SUV lässt Verbrenner alt aussehen Der elektrische GLC überzeugt mit viel Komfort, hoher Reichweite und schnellem Laden. Er stellt den weiterhin angebotenen GLC mit Verbrenner in den Schatten.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "efaa6c459bf9526326e74e30",
       "title": "ID.1: VWs 20.000-Euro-Elektroauto soll ID.Up heißen",
@@ -4558,28 +4580,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektroauto: Wenn versenkbare Türgriffe zum Todesrisiko werden Versenkbare Türgriffe können im Notfall Auto-Insassen einschließen. Ein Fall aus Deutschland zeigt, wie ernst das Problem ist. ( Auto , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8a8227a313923ba43010f399",
-      "title": "Porsche-CEO: Porsche 911 wird es nicht als Elektroversion geben",
-      "url": "https://www.golem.de/news/porsche-ceo-porsche-911-wird-es-nicht-als-elektroversion-geben-2606-209628.html",
-      "published_at": "2026-06-10T14:20:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Porsche-CEO: Porsche 911 wird es nicht als Elektroversion geben Der Porsche 911 ist eine Ikone - und wird wohl nicht als Elektroauto erscheinen, zumindest wenn es nach Porsche-Chef Michael Leiters geht. ( Porsche , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0986d1a0b433014da1d4cb05",
-      "title": "Mercedes-Benz: Elektrischer GLC kann in günstigeren Varianten bestellt werden",
-      "url": "https://www.golem.de/news/mercedes-benz-elektrischer-glc-kann-in-guenstigeren-varianten-bestellt-werden-2606-209624.html",
-      "published_at": "2026-06-10T14:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Mercedes-Benz: Elektrischer GLC kann in günstigeren Varianten bestellt werden Nach dem GLC 400 4Matic kommen zwei preiswertere Varianten in den Handel. Die Preise starten bei knapp 65.000 Euro. ( Mercedes Benz , Elektroauto )",
       "tags": [],
       "regions": []
     }

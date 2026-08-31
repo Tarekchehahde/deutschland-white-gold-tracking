@@ -1,8 +1,30 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-08",
-  "article_count": 119,
+  "article_count": 121,
   "articles": [
+    {
+      "id": "72f8dca7f8aeefd0a3765db7",
+      "title": "VW ID.California Cruise: Elektrischer Camper startet bei 60.761 Euro",
+      "url": "https://www.golem.de/news/vw-id-california-cruise-elektrischer-camper-startet-bei-60-761-euro-2608-212446.html",
+      "published_at": "2026-08-31T10:03:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "VW ID.California Cruise: Elektrischer Camper startet bei 60.761 Euro VW bringt eine Campingversion des ID.Buzz auf den Markt. Der Aufpreis beträgt 4.700 Euro. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "be8937190aa53dbe85056d5f",
+      "title": "heise+ | Elektroauto Mercedes GLC 400 im Test: E-SUV lässt Verbrenner alt aussehen",
+      "url": "https://www.heise.de/tests/Elektroauto-Mercedes-GLC-400-im-Test-E-SUV-laesst-Verbrenner-alt-aussehen-11425170.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-08-31T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroauto Mercedes GLC 400 im Test: E-SUV lässt Verbrenner alt aussehen Der elektrische GLC überzeugt mit viel Komfort, hoher Reichweite und schnellem Laden. Er stellt den weiterhin angebotenen GLC mit Verbrenner in den Schatten.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "efaa6c459bf9526326e74e30",
       "title": "ID.1: VWs 20.000-Euro-Elektroauto soll ID.Up heißen",
