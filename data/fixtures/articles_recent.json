@@ -2,6 +2,54 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "19db509205f4297707346272",
+      "title": "Größter Batteriespeicher Deutschlands: Baustart in der Lausitz",
+      "url": "https://www.tagesschau.de/inland/regional/sachsen/energiewende-batteriespeicher-boxberg,leag-lausitz-gigawatt-factory-100.html",
+      "published_at": "2026-08-31T13:45:23Z",
+      "source_id": "tagesschau-sn",
+      "language": "de",
+      "summary": "Größter Batteriespeicher Deutschlands: Baustart in der Lausitz Mit Milliardeninvestitionen plant die LEAG den Ausbau von Solar- und Windenergie in der Lausitz bis 2030. Das Projekt verspricht klimaneutrale Energie, innovative Speichertechnologien und tausende neue Arbeitsplätze.",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "75aa9154e38ab57b65a2a6fd",
+      "title": "Baustart für 441 Megawattstunden-Speicher in Stendal",
+      "url": "https://www.pv-magazine.de/2026/08/31/baustart-fuer-441-megawattstunden-speicher-in-stendal/",
+      "published_at": "2026-08-31T13:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Baustart für 441 Megawattstunden-Speicher in Stendal Sunotec realisiert den Stand-alone-Batteriespeicher mit 100 Megawatt Leistung in Sachsen-Anhalt. Die Inbetriebnahme ist für das erste Quartal 2027 vorgesehen.",
+      "tags": [],
+      "regions": [
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "df37cef2fed98d07f72c2475",
+      "title": "Leag startet Bau des 1,6 Gigawattstunden-Speichers in Sachsen",
+      "url": "https://www.pv-magazine.de/2026/08/31/leag-startet-bau-des-16-gigawattstunden-speichers-in-sachsen/",
+      "published_at": "2026-08-31T12:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Leag startet Bau des 1,6 Gigawattstunden-Speichers in Sachsen Am sächsischen Kraftwerksstandort Boxberg entsteht der Batteriespeicher mit 400 Megawatt Leistung und 1600 Megawattstunden Kapazität. Neben Leag Clean Power sind Hyperstrong und Siemens Energy an dem Bau der „GigaBattery Boxberg 400“ beteiligt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ce563e6b11d73778401a1c76",
+      "title": "VDA: Deutschland kommt beim Lkw-Ladenetz kaum voran",
+      "url": "https://www.golem.de/news/vda-deutschland-kommt-beim-lkw-ladenetz-kaum-voran-2608-212456.html",
+      "published_at": "2026-08-31T11:51:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "VDA: Deutschland kommt beim Lkw-Ladenetz kaum voran Deutschland braucht in Zukunft Ladepunkte für Elektro-Lkw - der Ausbau stockt aber. Die VDA-Präsidentin fordert einen \"Ausbauturbo\". ( Lkw , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "72f8dca7f8aeefd0a3765db7",
       "title": "VW ID.California Cruise: Elektrischer Camper startet bei 60.761 Euro",
       "url": "https://www.golem.de/news/vw-id-california-cruise-elektrischer-camper-startet-bei-60-761-euro-2608-212446.html",
@@ -24,31 +72,6 @@
       "regions": []
     },
     {
-      "id": "efaa6c459bf9526326e74e30",
-      "title": "ID.1: VWs 20.000-Euro-Elektroauto soll ID.Up heißen",
-      "url": "https://www.golem.de/news/id-1-vws-20-000-euro-elektroauto-soll-id-up-heissen-2608-212422.html",
-      "published_at": "2026-08-30T08:33:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "ID.1: VWs 20.000-Euro-Elektroauto soll ID.Up heißen Volkswagen hat sich wohl bei der Benennung des Kleinwagens für eine bekannte Marke entschieden. Der ID.Up soll weiterhin günstiger bleiben. ( Volkswagen ID. , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "11cbfb3b16fb3dad5a47b8f5",
-      "title": "Umweltminister Carsten Schneider: „Wer einmal ein Elektroauto gefahren ist, steigt nicht mehr auf einen Verbrenner um“",
-      "url": "https://rp-online.de/politik/deutschland/umweltminister-schneider-im-interview-klimapolitik-darf-kein-glaubenssatz-sein_aid-153871049",
-      "published_at": "2026-08-29T05:26:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Umweltminister Carsten Schneider: „Wer einmal ein Elektroauto gefahren ist, steigt nicht mehr auf einen Verbrenner um“ Aus Sicht von Umweltminister Carsten Schneider zwingt der Klimawandel zum Umdenken. Im Interview spricht der SPD-Politiker über den Bewusstseinswandel in der Wirtschaft, Elektromobilität und den langen Atem bei seinen Klima-Vorhaben.",
-      "tags": [
-        "politik",
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
       "id": "0a139166529bc66f8d5fef1e",
       "title": "Cellforce: Betriebsrat erhebt Vorwürfe",
       "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-cellforce-betriebsrat-erhebt-vorwuerfe-100.html",
@@ -58,30 +81,6 @@
       "summary": "Cellforce: Betriebsrat erhebt Vorwürfe Der Betriebsrat der Porsche-Tochter Cellforce mit Sitz in Kirchentellinsfurt ist unzufrieden. Denn Porsche, heißt es, lasse den Batteriezellenhersteller fallen.",
       "tags": [],
       "regions": []
-    },
-    {
-      "id": "637c9ce099b6ff16e0ddd797",
-      "title": "Enervis-Batteriespeicher-Index: Batteriespeicher-Erlöse in Deutschland bleiben im Juli auf hohem Niveau – starke Photovoltaik-Einspeisung und hohe Preise zu Spitzenlastzeiten, getrieben durch erneut gestiegene Gaspreise",
-      "url": "https://www.pv-magazine.de/2026/08/28/enervis-batteriespeicher-index-batteriespeicher-erloese-in-deutschland-bleiben-im-juli-auf-hohem-niveau-starke-photovoltaik-einspeisung-und-hohe-preise-zu-spitzenlastzeiten-getrieben-durch/",
-      "published_at": "2026-08-28T09:51:47Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Enervis-Batteriespeicher-Index: Batteriespeicher-Erlöse in Deutschland bleiben im Juli auf hohem Niveau – starke Photovoltaik-Einspeisung und hohe Preise zu Spitzenlastzeiten, getrieben durch erneut gestiegene Gaspreise Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8248bca83d5bafb3bbbe7b08",
-      "title": "Mehr neue E-Autos auf den Straßen in Rheinland-Pfalz",
-      "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-mehr-neue-e-autos-auf-den-strassen-in-rheinland-pfalz-100.html",
-      "published_at": "2026-08-26T13:26:51Z",
-      "source_id": "tagesschau-rp",
-      "language": "de",
-      "summary": "Mehr neue E-Autos auf den Straßen in Rheinland-Pfalz Der Trend zur Elektromobilität setzt sich in Rheinland-Pfalz fort. Im ersten Halbjahr 2026 ist der Anteil der Neuzulassungen bei E-Autos deutlich gestiegen.",
-      "tags": [],
-      "regions": [
-        "DE-RP"
-      ]
     },
     {
       "id": "679bfd521c7ecebf37b83944",
