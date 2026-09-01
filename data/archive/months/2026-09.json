@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.3.0",
+  "month": "2026-09",
+  "article_count": 3,
+  "articles": [
+    {
+      "id": "80943c4f6095bbe9d38644ca",
+      "title": "Elektroauto: Niedervolt-Batterie mit Natrium statt Blei geht in Serie",
+      "url": "https://www.heise.de/news/Elektroauto-Niedervolt-Batterie-mit-Natrium-statt-Blei-geht-in-Serie-11436145.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-01T08:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroauto: Niedervolt-Batterie mit Natrium statt Blei geht in Serie Xupai liefert 12-Volt-Natrium-Ionen-Batterien für das Bordnetz von E-Autos der BAIC-Marke Arcfox. Die Technik hat das Zeug, Bleiakkus langfristig abzulösen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1c6a2af6c4e5c5fdf8485663",
+      "title": "Chiles Batteriespeicher-Boom: Warum Netzengpässe den Markt antreiben",
+      "url": "https://www.pv-magazine.de/2026/09/01/chiles-batteriespeicher-boom-warum-netzengpaesse-den-markt-antreiben/",
+      "published_at": "2026-09-01T07:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Chiles Batteriespeicher-Boom: Warum Netzengpässe den Markt antreiben Chile entwickelt sich zu einem der dynamischsten Batteriespeichermärkte Lateinamerikas. Treiber ist der schnelle Ausbau erneuerbarer Energien bei gleichzeitig begrenzter Netzkapazität und einer zunehmenden zeitlichen Verschiebung zwischen Erzeugung und Verbrauch. Für deutsche Technologieanbieter wird damit insbesondere die techni",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8a12f2fe0886748c84eb7c74",
+      "title": "Automobilindustrie: Elektro-Pickup Slate setzt auf Bring your own Device",
+      "url": "https://www.golem.de/news/automobilindustrie-elektro-pickup-slate-setzt-auf-bring-your-own-device-2609-212481.html",
+      "published_at": "2026-09-01T07:40:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Automobilindustrie: Elektro-Pickup Slate setzt auf Bring your own Device Das Start-up Slate bietet seinen Elektro-Pickup ab 24.950 US-Dollar an. Fahrer nutzen dafür ihr eigenes Smartphone oder Tablet. ( Auto , Elektroauto )",
+      "tags": [],
+      "regions": []
+    }
+  ]
+}
