@@ -2,6 +2,85 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "d96d91749f23165ff4c9f65d",
+      "title": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/batteriespeicher-enbw-philippsburg-104.html",
+      "published_at": "2026-09-01T18:22:48Z",
+      "source_id": "swr-aktuell-rss",
+      "language": "de",
+      "summary": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht Die EnBW baut derzeit in Philippsburg einen der größten Batteriespeicher in Deutschland. Er soll 100.000 Haushalte versorgen. Die ersten Batterie-Container werden jetzt installiert.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "da07a2753f2673464ff5bfd1",
+      "title": "Fast 40 Prozent E-Autos: Frankreich eilt Deutschland voraus",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/frankreich-fuehrt-bei-elektroautos-was-deutschland-fehlt-201178150.html",
+      "published_at": "2026-09-01T17:04:25Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Fast 40 Prozent E-Autos: Frankreich eilt Deutschland voraus Auf Frankreichs Straßen fahren immer mehr Elektroautos. Die gestiegenen Spritpreise gelten als ein Kaufargument – entscheidend dürfte aber etwas anderes sein.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a7f668026256d114988dd672",
+      "title": "Klimabilanz von E-Autos: Die Auto-Lüge der EU gibt es nicht",
+      "url": "https://www.golem.de/news/papier-der-tu-muenchen-die-auto-luege-der-eu-gibt-es-nicht-2609-212513.html",
+      "published_at": "2026-09-01T15:19:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Klimabilanz von E-Autos: Die Auto-Lüge der EU gibt es nicht Schon vor der Veröffentlichung hat ein Papier zur Klimabilanz von E-Autos politischen Wirbel verursacht. Die Erkenntnisse sind aber nicht neu und eher trivial. Ein Bericht von Friedhelm Greis ( Elektroauto , Politik )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "caaf436fdc5ad02f74bc89a6",
+      "title": "Übertragungsnetzbetreiber verdoppeln Annahmen für große Batteriespeicher bis 2040",
+      "url": "https://www.pv-magazine.de/2026/09/01/uebertragungsnetzbetreiber-verdoppeln-annahmen-fuer-grosse-batteriespeicher-bis-2040/",
+      "published_at": "2026-09-01T14:54:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Übertragungsnetzbetreiber verdoppeln Annahmen für große Batteriespeicher bis 2040 Die Konsultation der Netzentwicklungspläne der Übertragungsnetzbetreiber läuft bis zum 28. September. In den aktualisierten Szenariorahmen wird von deutlich mehr großen Batteriespeichern, aber etwas weniger Heimspeichern bis 2040 ausgegangen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "14c37dcd79e105140cb9830b",
+      "title": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht",
+      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-strom-aus-wind-und-sonne-wie-in-philippsburg-ein-riesiger-batteriespeicher-entsteht-100.html",
+      "published_at": "2026-09-01T14:21:50Z",
+      "source_id": "tagesschau-bw",
+      "language": "de",
+      "summary": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht Die EnBW baut derzeit in Philippsburg einen der größten Batteriespeicher in Deutschland. Er soll 100.000 Haushalte versorgen. Die ersten Batterie-Container werden jetzt installiert.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "72e1150ae88af75b1094a355",
+      "title": "E-Autos: Wenn ihr euch komplett abschaffen wollt, baut halt weiter Verbrenner",
+      "url": "https://www.zeit.de/wirtschaft/2026-09/e-autos-elektrombilitaet-markus-soeder-studie-verbrenner-autos",
+      "published_at": "2026-09-01T13:24:26Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "E-Autos: Wenn ihr euch komplett abschaffen wollt, baut halt weiter Verbrenner Laut einer Studie stoßen Elektroautos »nur« 41 Prozent weniger CO₂ aus. Und Markus Söder fordert wieder das Ende vom Verbrenner-Aus. Das Problem nur ist ein anderes.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3ab4245e98f00ae20f34625c",
+      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-09-01T11:43:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "80943c4f6095bbe9d38644ca",
       "title": "Elektroauto: Niedervolt-Batterie mit Natrium statt Blei geht in Serie",
       "url": "https://www.heise.de/news/Elektroauto-Niedervolt-Batterie-mit-Natrium-statt-Blei-geht-in-Serie-11436145.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -3307,17 +3386,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "3ab4245e98f00ae20f34625c",
-      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-07-02T13:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
-      "tags": [],
       "regions": []
     },
     {
