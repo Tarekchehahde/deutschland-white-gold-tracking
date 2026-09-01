@@ -1,15 +1,49 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-08-31T22:51:39Z",
+  "generated_at_utc": "2026-09-01T10:05:38Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 558,
+  "total_in_archive": 561,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 171,
-    "2026-08": 125
+    "2026-08": 125,
+    "2026-09": 3
   },
   "recent_for_ui": [
+    {
+      "id": "80943c4f6095bbe9d38644ca",
+      "title": "Elektroauto: Niedervolt-Batterie mit Natrium statt Blei geht in Serie",
+      "url": "https://www.heise.de/news/Elektroauto-Niedervolt-Batterie-mit-Natrium-statt-Blei-geht-in-Serie-11436145.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-01T08:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroauto: Niedervolt-Batterie mit Natrium statt Blei geht in Serie Xupai liefert 12-Volt-Natrium-Ionen-Batterien für das Bordnetz von E-Autos der BAIC-Marke Arcfox. Die Technik hat das Zeug, Bleiakkus langfristig abzulösen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1c6a2af6c4e5c5fdf8485663",
+      "title": "Chiles Batteriespeicher-Boom: Warum Netzengpässe den Markt antreiben",
+      "url": "https://www.pv-magazine.de/2026/09/01/chiles-batteriespeicher-boom-warum-netzengpaesse-den-markt-antreiben/",
+      "published_at": "2026-09-01T07:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Chiles Batteriespeicher-Boom: Warum Netzengpässe den Markt antreiben Chile entwickelt sich zu einem der dynamischsten Batteriespeichermärkte Lateinamerikas. Treiber ist der schnelle Ausbau erneuerbarer Energien bei gleichzeitig begrenzter Netzkapazität und einer zunehmenden zeitlichen Verschiebung zwischen Erzeugung und Verbrauch. Für deutsche Technologieanbieter wird damit insbesondere die techni",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8a12f2fe0886748c84eb7c74",
+      "title": "Automobilindustrie: Elektro-Pickup Slate setzt auf Bring your own Device",
+      "url": "https://www.golem.de/news/automobilindustrie-elektro-pickup-slate-setzt-auf-bring-your-own-device-2609-212481.html",
+      "published_at": "2026-09-01T07:40:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Automobilindustrie: Elektro-Pickup Slate setzt auf Bring your own Device Das Start-up Slate bietet seinen Elektro-Pickup ab 24.950 US-Dollar an. Fahrer nutzen dafür ihr eigenes Smartphone oder Tablet. ( Auto , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "19db509205f4297707346272",
       "title": "Größter Batteriespeicher Deutschlands: Baustart in der Lausitz",
@@ -4550,41 +4584,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "d68fd77bb5cf245af7279f0c",
-      "title": "Sponsored: Nachrüsten leicht gemacht – Der einfache Weg zum eigenen Stromspeicher",
-      "url": "https://www.pv-magazine.de/2026/06/11/sponsored-nachruesten-leicht-gemacht-der-einfache-weg-zum-eigenen-stromspeicher/",
-      "published_at": "2026-06-11T09:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Sponsored: Nachrüsten leicht gemacht – Der einfache Weg zum eigenen Stromspeicher Viele Photovoltaik-Anlagen produzieren mehr Strom als direkt genutzt werden kann. Plug-in Batteriespeicher wie die neue „Anker Solix Solarbank Max AC“ können dabei helfen, diesen Überschuss ohne Installationsaufwand zu speichern und später zu nutzen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0eb14e0eb57b25d1a8a4cfc9",
-      "title": "Probefahrt Denza Z9 GT: Das perfekte Angeberauto",
-      "url": "https://www.golem.de/news/probefahrt-denza-z9-gt-gummi-auf-der-strasse-lassen-2606-209524.html",
-      "published_at": "2026-06-11T08:30:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Probefahrt Denza Z9 GT: Das perfekte Angeberauto BYD bringt seine Oberklasse-Marke Denza nach Deutschland. Den Anfang macht der Z9 GT im Taycan-Preissegment. Von Dirk Kunde ( BYD , Elektroauto )",
-      "tags": [
-        "exploration"
-      ],
-      "regions": []
-    },
-    {
-      "id": "a2fd7292a18bb231e3acd1cd",
-      "title": "Elektroauto: BYDs Flash-Charging soll unter 60 Cent pro kWh kosten",
-      "url": "https://www.golem.de/news/elektroauto-byds-flash-charging-soll-unter-60-cent-pro-kwh-kosten-2606-209652.html",
-      "published_at": "2026-06-11T08:06:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: BYDs Flash-Charging soll unter 60 Cent pro kWh kosten BYD will sein Flash-Charging-Netzwerk nach Europa bringen. Die Ladeleistungen erreichen 1.500 kW, der Preis soll für BYD-Kunden niedrig sein. ( BYD , Elektroauto )",
-      "tags": [],
       "regions": []
     }
   ]

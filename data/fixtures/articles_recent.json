@@ -2,6 +2,39 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "80943c4f6095bbe9d38644ca",
+      "title": "Elektroauto: Niedervolt-Batterie mit Natrium statt Blei geht in Serie",
+      "url": "https://www.heise.de/news/Elektroauto-Niedervolt-Batterie-mit-Natrium-statt-Blei-geht-in-Serie-11436145.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-01T08:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroauto: Niedervolt-Batterie mit Natrium statt Blei geht in Serie Xupai liefert 12-Volt-Natrium-Ionen-Batterien für das Bordnetz von E-Autos der BAIC-Marke Arcfox. Die Technik hat das Zeug, Bleiakkus langfristig abzulösen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1c6a2af6c4e5c5fdf8485663",
+      "title": "Chiles Batteriespeicher-Boom: Warum Netzengpässe den Markt antreiben",
+      "url": "https://www.pv-magazine.de/2026/09/01/chiles-batteriespeicher-boom-warum-netzengpaesse-den-markt-antreiben/",
+      "published_at": "2026-09-01T07:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Chiles Batteriespeicher-Boom: Warum Netzengpässe den Markt antreiben Chile entwickelt sich zu einem der dynamischsten Batteriespeichermärkte Lateinamerikas. Treiber ist der schnelle Ausbau erneuerbarer Energien bei gleichzeitig begrenzter Netzkapazität und einer zunehmenden zeitlichen Verschiebung zwischen Erzeugung und Verbrauch. Für deutsche Technologieanbieter wird damit insbesondere die techni",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8a12f2fe0886748c84eb7c74",
+      "title": "Automobilindustrie: Elektro-Pickup Slate setzt auf Bring your own Device",
+      "url": "https://www.golem.de/news/automobilindustrie-elektro-pickup-slate-setzt-auf-bring-your-own-device-2609-212481.html",
+      "published_at": "2026-09-01T07:40:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Automobilindustrie: Elektro-Pickup Slate setzt auf Bring your own Device Das Start-up Slate bietet seinen Elektro-Pickup ab 24.950 US-Dollar an. Fahrer nutzen dafür ihr eigenes Smartphone oder Tablet. ( Auto , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "19db509205f4297707346272",
       "title": "Größter Batteriespeicher Deutschlands: Baustart in der Lausitz",
       "url": "https://www.tagesschau.de/inland/regional/sachsen/energiewende-batteriespeicher-boxberg,leag-lausitz-gigawatt-factory-100.html",
@@ -50,17 +83,6 @@
       "regions": []
     },
     {
-      "id": "72f8dca7f8aeefd0a3765db7",
-      "title": "VW ID.California Cruise: Elektrischer Camper startet bei 60.761 Euro",
-      "url": "https://www.golem.de/news/vw-id-california-cruise-elektrischer-camper-startet-bei-60-761-euro-2608-212446.html",
-      "published_at": "2026-08-31T10:03:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "VW ID.California Cruise: Elektrischer Camper startet bei 60.761 Euro VW bringt eine Campingversion des ID.Buzz auf den Markt. Der Aufpreis beträgt 4.700 Euro. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "be8937190aa53dbe85056d5f",
       "title": "heise+ | Elektroauto Mercedes GLC 400 im Test: E-SUV lässt Verbrenner alt aussehen",
       "url": "https://www.heise.de/tests/Elektroauto-Mercedes-GLC-400-im-Test-E-SUV-laesst-Verbrenner-alt-aussehen-11425170.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
@@ -80,19 +102,6 @@
       "language": "de",
       "summary": "Cellforce: Betriebsrat erhebt Vorwürfe Der Betriebsrat der Porsche-Tochter Cellforce mit Sitz in Kirchentellinsfurt ist unzufrieden. Denn Porsche, heißt es, lasse den Batteriezellenhersteller fallen.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "679bfd521c7ecebf37b83944",
-      "title": "Batterien aus Deutschland: Salzgitter gegen den Rest der Welt",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/vw-will-eigene-batteriezellen-produzieren-mit-hilfe-aus-china-accg-201139848.html",
-      "published_at": "2026-08-25T07:43:31Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Batterien aus Deutschland: Salzgitter gegen den Rest der Welt Volkswagen startet die Großserienproduktion von Batteriezellen für Elektroautos in Salzgitter. Exklusiver Rundgang durch die Zwei-Milliarden-Euro-Fabrik.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]
