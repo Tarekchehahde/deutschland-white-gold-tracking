@@ -1,7 +1,7 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-07",
-  "article_count": 171,
+  "article_count": 170,
   "articles": [
     {
       "id": "d0a437cd34c70cb5e8701851",
@@ -1840,17 +1840,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "3ab4245e98f00ae20f34625c",
-      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-07-02T13:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
-      "tags": [],
       "regions": []
     },
     {
