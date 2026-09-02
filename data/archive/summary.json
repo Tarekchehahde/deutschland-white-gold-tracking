@@ -1,16 +1,60 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-01T21:03:10Z",
+  "generated_at_utc": "2026-09-02T09:37:06Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 567,
+  "total_in_archive": 571,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 10
+    "2026-09": 14
   },
   "recent_for_ui": [
+    {
+      "id": "dd430d8cb46d82b20d350265",
+      "title": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel",
+      "url": "https://www.pv-magazine.de/2026/09/02/mispel-25-prozent-rendite-fuer-gewerbespeicher-mit-arbitragehandel/",
+      "published_at": "2026-09-02T09:27:52Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel Wenn die MiSpeL-Regelung im Oktober in Kraft tritt, wird Arbitragehandel mit Batteriespeichern auch hinter dem Zähler deutlich wirtschaftlicher. Minimum Energy hat durchgerechnet, wie sich Auslegung und Betrieb unter den neuen Bedingungen ändern. Im Beispiel steigert der Speicher die Einsparungen bei den Strombeschaffungskosten um ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "102cae453328d07ec6d754ae",
+      "title": "Ioniq 3: Hyundais ID.Cross-Konkurrent kostet ab 28.950 Euro",
+      "url": "https://www.golem.de/news/ioniq-3-hyundais-id-cross-konkurrent-kostet-ab-28-950-euro-2609-212531.html",
+      "published_at": "2026-09-02T09:01:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ioniq 3: Hyundais ID.Cross-Konkurrent kostet ab 28.950 Euro Ab sofort kann Hyundais Ioniq 3 vorbestellt werden. Die Preise starten bei unter 30.000 Euro und liegen damit auf dem Niveau von VWs ID.Cross. ( Hyundai , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a7393f988a1a7dee9d5a16e6",
+      "title": "Wer bei Batteriespeichern nur auf 2029 schaut, übersieht den entscheidenden zweiten Stichtag",
+      "url": "https://www.pv-magazine.de/2026/09/02/wer-bei-batteriespeichern-nur-auf-2029-schaut-uebersieht-den-entscheidenden-zweiten-stichtag/",
+      "published_at": "2026-09-02T07:42:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wer bei Batteriespeichern nur auf 2029 schaut, übersieht den entscheidenden zweiten Stichtag Wer von der Netzentgeltbefreiung für große Batteriespeicher profitieren will, muss mehrere Daten im Blick behalten, erklärt Marvin Großkrüger von Green BESS.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ca4b21d8b58eb1d2863451c9",
+      "title": "heise+ | Elektroautos mit Wechselstrom laden: Langsam, aber bewährt",
+      "url": "https://www.heise.de/hintergrund/Elektroautos-mit-Wechselstrom-laden-Langsam-aber-bewaehrt-11385092.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-09-02T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroautos mit Wechselstrom laden: Langsam, aber bewährt Beim Hype um hohe DC-Ladeleistungen wird das AC-Laden häufig vergessen. Dabei ist es günstiger, es gibt deutlich mehr Ladesäulen und weitere Vorteile.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d96d91749f23165ff4c9f65d",
       "title": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht",
@@ -4534,52 +4578,6 @@
       "language": "de",
       "summary": "E-208: Peugeot bringt Elektro-GTI Peugeot hat in Le Mans den E-208 GTi und seinen Bestellstart bekannt gegeben. Das E-Auto erreicht 100 km/h in 5,5 Sekunden. ( Peugeot , Elektroauto )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5d20c6da4e26d8f43709cb58",
-      "title": "Ladebuchse: Xiaomi will mit Roboterarm E-Autos aufladen",
-      "url": "https://www.golem.de/news/ladebuchse-xiaomi-will-mit-roboterarm-e-autos-aufladen-2606-209743.html",
-      "published_at": "2026-06-13T11:30:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Ladebuchse: Xiaomi will mit Roboterarm E-Autos aufladen Tesla hat es 2015 vorgeführt und dann aufgegeben. Xiaomi zeigt jetzt, wie ein Roboterarm das Elektroauto in der Garage selbstständig ansteckt. ( Wallbox , Roboter )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0e708685f7fe09193818cb23",
-      "title": "Elektroauto: Lärm »V8-Soundgewitter« – was soll das?",
-      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-laerm-v8-soundgewitter-was-soll-das-a-c03c777d-f665-4c1b-a0c7-2e730a84d750",
-      "published_at": "2026-06-13T07:51:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Elektroauto: Lärm »V8-Soundgewitter« – was soll das? Sie blubbern, bollern und brummen: Elektroautos imitieren zunehmend Verbrennergeräusche, sogar mit Möchtegern-Fehlzündungen. Eine neue internationale Regel soll die Lärmoffensive nun legitimieren.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b2ebf73e27d7eac5f760b895",
-      "title": "(g+) Transportation: Tesla's Robotaxi Falls Short With Long Waits, Stalled Rides",
-      "url": "https://www.golem.de/news/transportation-tesla-s-robotaxi-falls-short-with-long-waits-stalled-rides-2606-209716.html",
-      "published_at": "2026-06-12T12:30:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "(g+) Transportation: Tesla's Robotaxi Falls Short With Long Waits, Stalled Rides The carmaker has just 59 vehicles in its fleet and is limited to three Texas cities, nowhere close to Elon Musk's big promises. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a9d2b311ca5d8b8c47836470",
-      "title": "Leapmotor B05 ProMax im Fahrbericht: Der wird unbequem – für die Konkurrenz",
-      "url": "https://www.heise.de/tests/Leapmotor-B05-ProMax-im-Fahrbericht-Der-wird-unbequem-fuer-die-Konkurrenz-11330113.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-12T10:25:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Leapmotor B05 ProMax im Fahrbericht: Der wird unbequem – für die Konkurrenz Leapmotor schickt sich an, die Kompaktklasse aufzumischen. Das Elektroauto B05 ist mit einem Kampfpreis versehen. Wir konnten eine erste Proberunde drehen.",
-      "tags": [
-        "exploration"
-      ],
       "regions": []
     }
   ]

@@ -2,6 +2,50 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "dd430d8cb46d82b20d350265",
+      "title": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel",
+      "url": "https://www.pv-magazine.de/2026/09/02/mispel-25-prozent-rendite-fuer-gewerbespeicher-mit-arbitragehandel/",
+      "published_at": "2026-09-02T09:27:52Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel Wenn die MiSpeL-Regelung im Oktober in Kraft tritt, wird Arbitragehandel mit Batteriespeichern auch hinter dem Zähler deutlich wirtschaftlicher. Minimum Energy hat durchgerechnet, wie sich Auslegung und Betrieb unter den neuen Bedingungen ändern. Im Beispiel steigert der Speicher die Einsparungen bei den Strombeschaffungskosten um ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "102cae453328d07ec6d754ae",
+      "title": "Ioniq 3: Hyundais ID.Cross-Konkurrent kostet ab 28.950 Euro",
+      "url": "https://www.golem.de/news/ioniq-3-hyundais-id-cross-konkurrent-kostet-ab-28-950-euro-2609-212531.html",
+      "published_at": "2026-09-02T09:01:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ioniq 3: Hyundais ID.Cross-Konkurrent kostet ab 28.950 Euro Ab sofort kann Hyundais Ioniq 3 vorbestellt werden. Die Preise starten bei unter 30.000 Euro und liegen damit auf dem Niveau von VWs ID.Cross. ( Hyundai , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a7393f988a1a7dee9d5a16e6",
+      "title": "Wer bei Batteriespeichern nur auf 2029 schaut, übersieht den entscheidenden zweiten Stichtag",
+      "url": "https://www.pv-magazine.de/2026/09/02/wer-bei-batteriespeichern-nur-auf-2029-schaut-uebersieht-den-entscheidenden-zweiten-stichtag/",
+      "published_at": "2026-09-02T07:42:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wer bei Batteriespeichern nur auf 2029 schaut, übersieht den entscheidenden zweiten Stichtag Wer von der Netzentgeltbefreiung für große Batteriespeicher profitieren will, muss mehrere Daten im Blick behalten, erklärt Marvin Großkrüger von Green BESS.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ca4b21d8b58eb1d2863451c9",
+      "title": "heise+ | Elektroautos mit Wechselstrom laden: Langsam, aber bewährt",
+      "url": "https://www.heise.de/hintergrund/Elektroautos-mit-Wechselstrom-laden-Langsam-aber-bewaehrt-11385092.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-09-02T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroautos mit Wechselstrom laden: Langsam, aber bewährt Beim Hype um hohe DC-Ladeleistungen wird das AC-Laden häufig vergessen. Dabei ist es günstiger, es gibt deutlich mehr Ladesäulen und weitere Vorteile.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "d96d91749f23165ff4c9f65d",
       "title": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht",
       "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/batteriespeicher-enbw-philippsburg-104.html",
