@@ -5,10 +5,21 @@
       "id": "dd430d8cb46d82b20d350265",
       "title": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel",
       "url": "https://www.pv-magazine.de/2026/09/02/mispel-25-prozent-rendite-fuer-gewerbespeicher-mit-arbitragehandel/",
-      "published_at": "2026-09-02T09:27:52Z",
+      "published_at": "2026-09-02T13:27:52Z",
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel Wenn die MiSpeL-Regelung im Oktober in Kraft tritt, wird Arbitragehandel mit Batteriespeichern auch hinter dem Zähler deutlich wirtschaftlicher. Minimum Energy hat durchgerechnet, wie sich Auslegung und Betrieb unter den neuen Bedingungen ändern. Im Beispiel steigert der Speicher die Einsparungen bei den Strombeschaffungskosten um ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "cd13d0dfa72bfdaee183af84",
+      "title": "Dienstwagen-Check 2026: Das 800-Volt-Problem der elektrischen Luxusklasse",
+      "url": "https://www.golem.de/news/dienstwagen-check-2026-das-800-volt-problem-der-elektrischen-luxusklasse-2609-212550.html",
+      "published_at": "2026-09-02T12:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Dienstwagen-Check 2026: Das 800-Volt-Problem der elektrischen Luxusklasse Der Anteil von Elektroautos bei Dienstwagen von Spitzenpolitikern ist wieder gesunken. Das könnte auch an zu langen Ladezeiten liegen. ( Elektroauto , Auto )",
       "tags": [],
       "regions": []
     },
@@ -46,19 +57,6 @@
       "regions": []
     },
     {
-      "id": "a7f668026256d114988dd672",
-      "title": "Klimabilanz von E-Autos: Die Auto-Lüge der EU gibt es nicht",
-      "url": "https://www.golem.de/news/papier-der-tu-muenchen-die-auto-luege-der-eu-gibt-es-nicht-2609-212513.html",
-      "published_at": "2026-09-01T15:19:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Klimabilanz von E-Autos: Die Auto-Lüge der EU gibt es nicht Schon vor der Veröffentlichung hat ein Papier zur Klimabilanz von E-Autos politischen Wirbel verursacht. Die Erkenntnisse sind aber nicht neu und eher trivial. Ein Bericht von Friedhelm Greis ( Elektroauto , Politik )",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
       "id": "caaf436fdc5ad02f74bc89a6",
       "title": "Übertragungsnetzbetreiber verdoppeln Annahmen für große Batteriespeicher bis 2040",
       "url": "https://www.pv-magazine.de/2026/09/01/uebertragungsnetzbetreiber-verdoppeln-annahmen-fuer-grosse-batteriespeicher-bis-2040/",
@@ -77,50 +75,6 @@
       "source_id": "tagesschau-bw",
       "language": "de",
       "summary": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht Die EnBW baut derzeit in Philippsburg einen der größten Batteriespeicher in Deutschland. Er soll 100.000 Haushalte versorgen. Die ersten Batterie-Container werden jetzt installiert.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "72e1150ae88af75b1094a355",
-      "title": "E-Autos: Wenn ihr euch komplett abschaffen wollt, baut halt weiter Verbrenner",
-      "url": "https://www.zeit.de/wirtschaft/2026-09/e-autos-elektrombilitaet-markus-soeder-studie-verbrenner-autos",
-      "published_at": "2026-09-01T13:24:26Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "E-Autos: Wenn ihr euch komplett abschaffen wollt, baut halt weiter Verbrenner Laut einer Studie stoßen Elektroautos »nur« 41 Prozent weniger CO₂ aus. Und Markus Söder fordert wieder das Ende vom Verbrenner-Aus. Das Problem nur ist ein anderes.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3ab4245e98f00ae20f34625c",
-      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-09-01T11:43:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "80943c4f6095bbe9d38644ca",
-      "title": "Elektroauto: Niedervolt-Batterie mit Natrium statt Blei geht in Serie",
-      "url": "https://www.heise.de/news/Elektroauto-Niedervolt-Batterie-mit-Natrium-statt-Blei-geht-in-Serie-11436145.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-01T08:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Elektroauto: Niedervolt-Batterie mit Natrium statt Blei geht in Serie Xupai liefert 12-Volt-Natrium-Ionen-Batterien für das Bordnetz von E-Autos der BAIC-Marke Arcfox. Die Technik hat das Zeug, Bleiakkus langfristig abzulösen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1c6a2af6c4e5c5fdf8485663",
-      "title": "Chiles Batteriespeicher-Boom: Warum Netzengpässe den Markt antreiben",
-      "url": "https://www.pv-magazine.de/2026/09/01/chiles-batteriespeicher-boom-warum-netzengpaesse-den-markt-antreiben/",
-      "published_at": "2026-09-01T07:45:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Chiles Batteriespeicher-Boom: Warum Netzengpässe den Markt antreiben Chile entwickelt sich zu einem der dynamischsten Batteriespeichermärkte Lateinamerikas. Treiber ist der schnelle Ausbau erneuerbarer Energien bei gleichzeitig begrenzter Netzkapazität und einer zunehmenden zeitlichen Verschiebung zwischen Erzeugung und Verbrauch. Für deutsche Technologieanbieter wird damit insbesondere die techni",
       "tags": [],
       "regions": []
     },

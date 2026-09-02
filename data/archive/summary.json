@@ -1,24 +1,35 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-02T09:37:06Z",
+  "generated_at_utc": "2026-09-02T21:04:34Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 571,
+  "total_in_archive": 572,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 14
+    "2026-09": 15
   },
   "recent_for_ui": [
     {
       "id": "dd430d8cb46d82b20d350265",
       "title": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel",
       "url": "https://www.pv-magazine.de/2026/09/02/mispel-25-prozent-rendite-fuer-gewerbespeicher-mit-arbitragehandel/",
-      "published_at": "2026-09-02T09:27:52Z",
+      "published_at": "2026-09-02T13:27:52Z",
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel Wenn die MiSpeL-Regelung im Oktober in Kraft tritt, wird Arbitragehandel mit Batteriespeichern auch hinter dem Zähler deutlich wirtschaftlicher. Minimum Energy hat durchgerechnet, wie sich Auslegung und Betrieb unter den neuen Bedingungen ändern. Im Beispiel steigert der Speicher die Einsparungen bei den Strombeschaffungskosten um ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "cd13d0dfa72bfdaee183af84",
+      "title": "Dienstwagen-Check 2026: Das 800-Volt-Problem der elektrischen Luxusklasse",
+      "url": "https://www.golem.de/news/dienstwagen-check-2026-das-800-volt-problem-der-elektrischen-luxusklasse-2609-212550.html",
+      "published_at": "2026-09-02T12:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Dienstwagen-Check 2026: Das 800-Volt-Problem der elektrischen Luxusklasse Der Anteil von Elektroautos bei Dienstwagen von Spitzenpolitikern ist wieder gesunken. Das könnte auch an zu langen Ladezeiten liegen. ( Elektroauto , Auto )",
       "tags": [],
       "regions": []
     },
@@ -4566,17 +4577,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Tesla: Plastikköpfe im Cockpit tricksen Aufmerksamkeitskontrolle aus Mit einer kleinen Plastikfigur kann Teslas Innenraum-Kamerasystem samt Aufmerksamkeitskontrolle überlistet werden. ( Autonomes Fahren , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "da331b0e6d865071050c6e19",
-      "title": "E-208: Peugeot bringt Elektro-GTI",
-      "url": "https://www.golem.de/news/e-208-peugeot-bringt-elektro-gti-2606-209747.html",
-      "published_at": "2026-06-14T10:23:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "E-208: Peugeot bringt Elektro-GTI Peugeot hat in Le Mans den E-208 GTi und seinen Bestellstart bekannt gegeben. Das E-Auto erreicht 100 km/h in 5,5 Sekunden. ( Peugeot , Elektroauto )",
       "tags": [],
       "regions": []
     }
