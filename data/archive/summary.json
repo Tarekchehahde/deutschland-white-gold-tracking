@@ -1,16 +1,97 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-03T09:49:11Z",
+  "generated_at_utc": "2026-09-03T21:03:26Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 578,
+  "total_in_archive": 585,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 21
+    "2026-09": 28
   },
   "recent_for_ui": [
+    {
+      "id": "16d16d989509148b5477d45f",
+      "title": "Elektroauto: Ehrliche Klimarechnung als Lüge",
+      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-ehrliche-klimarechnung-als-luege-a-6675dd98-f9d4-41e2-a10a-fb5e087041c8",
+      "published_at": "2026-09-03T18:05:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto: Ehrliche Klimarechnung als Lüge Ein Diskussionspapier der TU München zur Klimabilanz von Elektroautos hat für Wirbel gesorgt. Der Vorschlag der Professoren, nicht nur auf die fehlenden Abgase zu schauen, kann sinnvoll sein. Doch wem nützt er wirklich?",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "cd3c605910804975041bda86",
+      "title": "Anzeige: VoltBox Mobile Wallbox 11kW mit CEE-Adapter jetzt wieder zum Tiefpreis bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-voltbox-mobile-wallbox-11kw-mit-cee-adapter-jetzt-wieder-zum-tiefpreis-bei-amazon-2609-212620.html",
+      "published_at": "2026-09-03T15:35:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: VoltBox Mobile Wallbox 11kW mit CEE-Adapter jetzt wieder zum Tiefpreis bei Amazon Die VoltBox Mobile Wallbox mit 11 kW, CEE-Adapter und verzögertem Laden plus 7 Meter Kabel ist wieder zum Tiefpreis verfügbar. ( Elektromobilität , Amazon )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e58a433975085f476d449f2b",
+      "title": "Auto: Einführung von Xiaomis Elektroautos in Deutschland rückt näher",
+      "url": "https://www.golem.de/news/auto-einfuehrung-von-xiaomis-elektroautos-in-deutschland-rueckt-naeher-2609-212627.html",
+      "published_at": "2026-09-03T14:49:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Auto: Einführung von Xiaomis Elektroautos in Deutschland rückt näher Mit Rundenrekorden am Nürburgring und starken Verkaufszahlen in China bereitet Xiaomi den Markteintritt seiner Elektroautos in Europa vor. ( Ifa 2026 , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "43b11c209d108fe928d81377",
+      "title": "Münchner Kirche mit Photovoltaik-Anlage und Batteriespeicher ausgestattet",
+      "url": "https://www.pv-magazine.de/2026/09/03/muenchner-kirche-mit-photovoltaik-anlage-und-batteriespeicher-ausgestattet/",
+      "published_at": "2026-09-03T14:26:54Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Münchner Kirche mit Photovoltaik-Anlage und Batteriespeicher ausgestattet Auf dem 95 Jahre alten Kirchendach sind komplett schwarze Solarmodule mit 65 Kilowatt Leistung installiert. Im Keller stehen zwei Batteriespeicher mit je knapp 30 Kilowattstunden Kapazität. So will die Kirche möglichst viel Solarstrom selbst verbrauchen. Auch eine Wärmepumpe ist noch in Planung.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e5c32a28d7542ddef6019901",
+      "title": "Pilotprojekt von Furo und Luox Energy zur Viertelstunden-Optimierung gewerblicher Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/09/03/pilotprojekt-von-furo-und-luox-energy-zur-viertelstunden-optimierung-gewerblicher-batteriespeicher/",
+      "published_at": "2026-09-03T12:15:36Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Pilotprojekt von Furo und Luox Energy zur Viertelstunden-Optimierung gewerblicher Batteriespeicher Die Unternehmen kombinieren ihre Lösungen, um zusätzliche Einnahmen für Speicher in Industrie und Gewerbe zu schaffen. In Pilotprojekten soll die Viertelstunden-Optimierung nun unter realen Bedingungen getestet werden.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8c553d275261527cc4e2bc11",
+      "title": "Zulassungsstatistik: Fast jeder dritte Neuwagen ist vollelektrisch",
+      "url": "https://www.golem.de/news/zulassungsstatistik-fast-jeder-dritte-neuwagen-ist-vollelektrisch-2609-212605.html",
+      "published_at": "2026-09-03T11:12:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Zulassungsstatistik: Fast jeder dritte Neuwagen ist vollelektrisch Die Kaufprämie zeigt weiter Wirkung. Der Anteil der Elektroautos an den Neuzulassungen steigt deutlich an. ( Elektroauto , Tesla )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d0e1721f2c5f7403fe0e6b28",
+      "title": "Elektroauto Polestar 4 SUV: Neue Variante ab September bestellbar",
+      "url": "https://www.heise.de/news/Elektroauto-Polestar-4-SUV-Neue-Variante-ab-September-bestellbar-11439661.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-03T10:52:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroauto Polestar 4 SUV: Neue Variante ab September bestellbar Polestar kündigt eine SUV-Variante seines kompakten Elektroauto-Modells Polestar 4 mit bis zu 630 km Reichweite an. Es ist ab sofort bestellbar.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "cdf2c2919dfff6f885c63935",
       "title": "Auto-Markt: E-Auto-Boom setzt sich fort",
@@ -4501,83 +4582,6 @@
       "tags": [
         "politik"
       ],
-      "regions": []
-    },
-    {
-      "id": "212f2aaf9191c43b74481676",
-      "title": "Continental: Neuer Reifen soll Elektroautos 30 Kilometer weiter bringen",
-      "url": "https://www.golem.de/news/continental-neuer-reifen-soll-elektroautos-30-kilometer-weiter-bringen-2606-209848.html",
-      "published_at": "2026-06-17T05:32:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Continental: Neuer Reifen soll Elektroautos 30 Kilometer weiter bringen Continental und Renault wollen beweisen, dass die richtige Gummimischung beim Reifen mehr Reichweite bringen kann als manche Akkuverbesserung. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1607213160f1896f1b6df103",
-      "title": "heise+ | Batterien für E-Autos: Natrium – Ersatz für den kritischen Rohstoff Lithium?",
-      "url": "https://www.heise.de/hintergrund/Batterien-fuer-E-Autos-Natrium-Ersatz-fuer-den-kritischen-Rohstoff-Lithium-11302241.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-06-17T05:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Batterien für E-Autos: Natrium – Ersatz für den kritischen Rohstoff Lithium? Natrium-Ionen-Batterien sind volumetrisch noch weniger energiedicht als LFP-Akkus, aber kaum kälteempfindlich. Können sie den Rohstoff Lithium ersetzen?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "53278e08ec948593475070dd",
-      "title": "Elektroauto: Was ein Urteil zur geringeren Reichweite für Fahrer bedeutet",
-      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-was-ein-urteil-zur-geringeren-reichweite-fuer-fahrer-bedeutet-a-65761078-b376-4db1-b9bd-9404c1842010",
-      "published_at": "2026-06-16T15:36:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Elektroauto: Was ein Urteil zur geringeren Reichweite für Fahrer bedeutet Viele E-Auto-Besitzer ärgern sich: Ihr Wagen kommt mit einer Akkuladung längst nicht so weit wie versprochen. Ein Gericht hat entschieden, wie viel Reichweite-Minus man nicht tolerieren muss.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "90d1ea2fdde01bb79194e546",
-      "title": "Autonomes Fahren: Tesla wirbt angeblich mit Fantasiezahlen für EU-Zulassung",
-      "url": "https://www.golem.de/news/autonomes-fahren-tesla-wirbt-angeblich-mit-fantasiezahlen-fuer-eu-zulassung-2606-209833.html",
-      "published_at": "2026-06-16T13:36:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Tesla wirbt angeblich mit Fantasiezahlen für EU-Zulassung Nach Ansicht von Tesla fahren Autos im FSD-Modus viel sicherer als Menschen. Die schöngerechnete Statistik soll EU-Zulassungsbehörden überzeugen. ( Autonomes Fahren , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "472d9149ee508e23881dac09",
-      "title": "(g+) Electric Vehicles: Tata-Chery collaboration highlights Indian EV makers' China reliance",
-      "url": "https://www.golem.de/news/electric-vehicles-tata-chery-collaboration-highlights-indian-ev-makers-china-reliance-2606-209821.html",
-      "published_at": "2026-06-16T12:30:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "(g+) Electric Vehicles: Tata-Chery collaboration highlights Indian EV makers' China reliance EV platform being used for Avinya cars amid efforts to cut development times ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "db06c0b386fb2499c5c5a02c",
-      "title": "Mehr E-Autos: Deutsche Batterieproduktion steigt auf Rekord",
-      "url": "https://www.heise.de/news/Mehr-E-Autos-Deutsche-Batterieproduktion-steigt-auf-Rekord-11334007.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-16T11:19:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Mehr E-Autos: Deutsche Batterieproduktion steigt auf Rekord Die Batterieproduktion in Deutschland steigt auf einen Höchstwert, doch zugleich wächst die Abhängigkeit von Importen aus China. Die Industrie warnt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "cdba37af6fa57bbe8fef334e",
-      "title": "Elektroindustrie: Deutsche Batterieproduktion steigt auf Rekord",
-      "url": "https://www.sueddeutsche.de/wirtschaft/elektroautos-batterien-produktion-industrie-rekord-li.3499698",
-      "published_at": "2026-06-16T09:26:21Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "Elektroindustrie: Deutsche Batterieproduktion steigt auf Rekord In Deutschland gibt es immer mehr E-Autos, daher werden auch immer mehr Batterien hergestellt. Aber die Industrie warnt vor Abhängigkeiten aus China – auch im Verteidigungsbereich.",
-      "tags": [],
       "regions": []
     }
   ]

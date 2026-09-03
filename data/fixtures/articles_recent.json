@@ -2,13 +2,83 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "cdf2c2919dfff6f885c63935",
-      "title": "Auto-Markt: E-Auto-Boom setzt sich fort",
-      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/e-auto-boom-setzt-sich-fort_aid-154187997",
-      "published_at": "2026-09-03T09:18:34Z",
-      "source_id": "volksfreund",
+      "id": "16d16d989509148b5477d45f",
+      "title": "Elektroauto: Ehrliche Klimarechnung als Lüge",
+      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-ehrliche-klimarechnung-als-luege-a-6675dd98-f9d4-41e2-a10a-fb5e087041c8",
+      "published_at": "2026-09-03T18:05:00Z",
+      "source_id": "spiegel-schlagzeilen",
       "language": "de",
-      "summary": "Auto-Markt: E-Auto-Boom setzt sich fort Reine Elektroautos erreichten im August einen Marktanteil von 32,4 Prozent. Was sind die Gründe für das starke Wachstum?",
+      "summary": "Elektroauto: Ehrliche Klimarechnung als Lüge Ein Diskussionspapier der TU München zur Klimabilanz von Elektroautos hat für Wirbel gesorgt. Der Vorschlag der Professoren, nicht nur auf die fehlenden Abgase zu schauen, kann sinnvoll sein. Doch wem nützt er wirklich?",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "cd3c605910804975041bda86",
+      "title": "Anzeige: VoltBox Mobile Wallbox 11kW mit CEE-Adapter jetzt wieder zum Tiefpreis bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-voltbox-mobile-wallbox-11kw-mit-cee-adapter-jetzt-wieder-zum-tiefpreis-bei-amazon-2609-212620.html",
+      "published_at": "2026-09-03T15:35:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: VoltBox Mobile Wallbox 11kW mit CEE-Adapter jetzt wieder zum Tiefpreis bei Amazon Die VoltBox Mobile Wallbox mit 11 kW, CEE-Adapter und verzögertem Laden plus 7 Meter Kabel ist wieder zum Tiefpreis verfügbar. ( Elektromobilität , Amazon )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e58a433975085f476d449f2b",
+      "title": "Auto: Einführung von Xiaomis Elektroautos in Deutschland rückt näher",
+      "url": "https://www.golem.de/news/auto-einfuehrung-von-xiaomis-elektroautos-in-deutschland-rueckt-naeher-2609-212627.html",
+      "published_at": "2026-09-03T14:49:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Auto: Einführung von Xiaomis Elektroautos in Deutschland rückt näher Mit Rundenrekorden am Nürburgring und starken Verkaufszahlen in China bereitet Xiaomi den Markteintritt seiner Elektroautos in Europa vor. ( Ifa 2026 , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "43b11c209d108fe928d81377",
+      "title": "Münchner Kirche mit Photovoltaik-Anlage und Batteriespeicher ausgestattet",
+      "url": "https://www.pv-magazine.de/2026/09/03/muenchner-kirche-mit-photovoltaik-anlage-und-batteriespeicher-ausgestattet/",
+      "published_at": "2026-09-03T14:26:54Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Münchner Kirche mit Photovoltaik-Anlage und Batteriespeicher ausgestattet Auf dem 95 Jahre alten Kirchendach sind komplett schwarze Solarmodule mit 65 Kilowatt Leistung installiert. Im Keller stehen zwei Batteriespeicher mit je knapp 30 Kilowattstunden Kapazität. So will die Kirche möglichst viel Solarstrom selbst verbrauchen. Auch eine Wärmepumpe ist noch in Planung.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e5c32a28d7542ddef6019901",
+      "title": "Pilotprojekt von Furo und Luox Energy zur Viertelstunden-Optimierung gewerblicher Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/09/03/pilotprojekt-von-furo-und-luox-energy-zur-viertelstunden-optimierung-gewerblicher-batteriespeicher/",
+      "published_at": "2026-09-03T12:15:36Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Pilotprojekt von Furo und Luox Energy zur Viertelstunden-Optimierung gewerblicher Batteriespeicher Die Unternehmen kombinieren ihre Lösungen, um zusätzliche Einnahmen für Speicher in Industrie und Gewerbe zu schaffen. In Pilotprojekten soll die Viertelstunden-Optimierung nun unter realen Bedingungen getestet werden.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8c553d275261527cc4e2bc11",
+      "title": "Zulassungsstatistik: Fast jeder dritte Neuwagen ist vollelektrisch",
+      "url": "https://www.golem.de/news/zulassungsstatistik-fast-jeder-dritte-neuwagen-ist-vollelektrisch-2609-212605.html",
+      "published_at": "2026-09-03T11:12:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Zulassungsstatistik: Fast jeder dritte Neuwagen ist vollelektrisch Die Kaufprämie zeigt weiter Wirkung. Der Anteil der Elektroautos an den Neuzulassungen steigt deutlich an. ( Elektroauto , Tesla )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d0e1721f2c5f7403fe0e6b28",
+      "title": "Elektroauto Polestar 4 SUV: Neue Variante ab September bestellbar",
+      "url": "https://www.heise.de/news/Elektroauto-Polestar-4-SUV-Neue-Variante-ab-September-bestellbar-11439661.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-03T10:52:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroauto Polestar 4 SUV: Neue Variante ab September bestellbar Polestar kündigt eine SUV-Variante seines kompakten Elektroauto-Modells Polestar 4 mit bis zu 630 km Reichweite an. Es ist ab sofort bestellbar.",
       "tags": [],
       "regions": []
     },
@@ -24,17 +94,6 @@
       "regions": []
     },
     {
-      "id": "82a47c85869c0ab00b170a19",
-      "title": "Elektroauto: 94 Prozent befragter E-Auto-Fahrer wollen nicht zurück zum Verbrenner",
-      "url": "https://www.golem.de/news/elektroauto-94-prozent-befragter-e-auto-fahrer-wollen-nicht-zurueck-zum-verbrenner-2609-212586.html",
-      "published_at": "2026-09-03T08:35:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: 94 Prozent befragter E-Auto-Fahrer wollen nicht zurück zum Verbrenner Eine Umfrage zeigt: Wer Elektroauto fährt, will dabei bleiben. Angstthemen wie Reichweite und die Ladesituation spielen nach dem Kauf keine Rolle mehr. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "dc299087fda4b2f33c78d814",
       "title": "Horizonte Group, Metelligent und Einklang kooperieren bei MiSpeL-konformen C&I-Batteriespeichern",
       "url": "https://www.pv-magazine.de/2026/09/03/horizonte-group-metelligent-und-einklang-kooperieren-bei-mispel-konformen-ci-batteriespeichern/",
@@ -42,65 +101,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Horizonte Group, Metelligent und Einklang kooperieren bei MiSpeL-konformen C&I-Batteriespeichern Installation, Messtechnik und Vermarktung von Batteriespeichern aus einer Hand ist das Ziel eines gemeinsamen Angebots für Gewerbe- und Industriekunden, das die neuen Möglichkeiten der MiSpeL-Vorgaben nutzen soll. Für das erste Jahr streben die Partner 50 gemeinsame Projekte an.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "05198baae54774b0d1398e9f",
-      "title": "Vulcan Energy legt Vormachbarkeitsstudie für Lithium- und Geothermieprojekt „Ludwig“ vor",
-      "url": "https://www.pfalz-express.de/vulcan-energy-legt-vormachbarkeitsstudie-fuer-lithium-und-geothermieprojekt-ludwig-vor/",
-      "published_at": "2026-09-03T07:31:59Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Vulcan Energy legt Vormachbarkeitsstudie für Lithium- und Geothermieprojekt „Ludwig“ vor Karlsruhe/Ludwigshafen. Das Unternehmen Vulcan Energy hat eine erste umfassende Untersuchung (Vormachbarkeitsstudie) für sein geplantes Projekt „Ludwig“ in der Region Ludwigshafen veröffentlicht. Es ist das zweite Vorhaben des Konzerns, bei dem Lithium und Erdwärme gemeinsam im Oberrheingraben gewonnen werden ",
-      "tags": [
-        "industrie"
-      ],
-      "regions": [
-        "DE-RP"
-      ]
-    },
-    {
-      "id": "6f41da5497e824ac72d2e078",
-      "title": "Autonomes Fahren: Uber startet erste Robotaxis in London",
-      "url": "https://www.golem.de/news/autonomes-fahren-uber-startet-erste-robotaxis-in-london-2609-212577.html",
-      "published_at": "2026-09-03T06:31:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Uber startet erste Robotaxis in London In Kooperation mit Wayve bringt Uber autonome Fahrzeuge nach London. Am Steuer sitzt aber vorerst weiterhin menschliches Sicherheitspersonal. ( Autonomes Fahren , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dd430d8cb46d82b20d350265",
-      "title": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel",
-      "url": "https://www.pv-magazine.de/2026/09/02/mispel-25-prozent-rendite-fuer-gewerbespeicher-mit-arbitragehandel/",
-      "published_at": "2026-09-02T13:27:52Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel Wenn die MiSpeL-Regelung im Oktober in Kraft tritt, wird Arbitragehandel mit Batteriespeichern auch hinter dem Zähler deutlich wirtschaftlicher. Minimum Energy hat durchgerechnet, wie sich Auslegung und Betrieb unter den neuen Bedingungen ändern. Im Beispiel steigert der Speicher die Einsparungen bei den Strombeschaffungskosten um ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "cd13d0dfa72bfdaee183af84",
-      "title": "Dienstwagen-Check 2026: Das 800-Volt-Problem der elektrischen Luxusklasse",
-      "url": "https://www.golem.de/news/dienstwagen-check-2026-das-800-volt-problem-der-elektrischen-luxusklasse-2609-212550.html",
-      "published_at": "2026-09-02T12:15:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Dienstwagen-Check 2026: Das 800-Volt-Problem der elektrischen Luxusklasse Der Anteil von Elektroautos bei Dienstwagen von Spitzenpolitikern ist wieder gesunken. Das könnte auch an zu langen Ladezeiten liegen. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a7393f988a1a7dee9d5a16e6",
-      "title": "Wer bei Batteriespeichern nur auf 2029 schaut, übersieht den entscheidenden zweiten Stichtag",
-      "url": "https://www.pv-magazine.de/2026/09/02/wer-bei-batteriespeichern-nur-auf-2029-schaut-uebersieht-den-entscheidenden-zweiten-stichtag/",
-      "published_at": "2026-09-02T07:42:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Wer bei Batteriespeichern nur auf 2029 schaut, übersieht den entscheidenden zweiten Stichtag Wer von der Netzentgeltbefreiung für große Batteriespeicher profitieren will, muss mehrere Daten im Blick behalten, erklärt Marvin Großkrüger von Green BESS.",
       "tags": [],
       "regions": []
     },
@@ -113,19 +113,6 @@
       "language": "de",
       "summary": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht Die EnBW baut derzeit in Philippsburg einen der größten Batteriespeicher in Deutschland. Er soll 100.000 Haushalte versorgen. Die ersten Batterie-Container werden jetzt installiert.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "19db509205f4297707346272",
-      "title": "Größter Batteriespeicher Deutschlands: Baustart in der Lausitz",
-      "url": "https://www.tagesschau.de/inland/regional/sachsen/energiewende-batteriespeicher-boxberg,leag-lausitz-gigawatt-factory-100.html",
-      "published_at": "2026-08-31T13:45:23Z",
-      "source_id": "tagesschau-sn",
-      "language": "de",
-      "summary": "Größter Batteriespeicher Deutschlands: Baustart in der Lausitz Mit Milliardeninvestitionen plant die LEAG den Ausbau von Solar- und Windenergie in der Lausitz bis 2030. Das Projekt verspricht klimaneutrale Energie, innovative Speichertechnologien und tausende neue Arbeitsplätze.",
-      "tags": [
-        "umwelt"
-      ],
       "regions": []
     }
   ]
