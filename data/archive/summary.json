@@ -1,16 +1,86 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-02T21:04:34Z",
+  "generated_at_utc": "2026-09-03T09:49:11Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 572,
+  "total_in_archive": 578,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 15
+    "2026-09": 21
   },
   "recent_for_ui": [
+    {
+      "id": "cdf2c2919dfff6f885c63935",
+      "title": "Auto-Markt: E-Auto-Boom setzt sich fort",
+      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/e-auto-boom-setzt-sich-fort_aid-154187997",
+      "published_at": "2026-09-03T09:18:34Z",
+      "source_id": "volksfreund",
+      "language": "de",
+      "summary": "Auto-Markt: E-Auto-Boom setzt sich fort Reine Elektroautos erreichten im August einen Marktanteil von 32,4 Prozent. Was sind die Gründe für das starke Wachstum?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fed7b570b781a887852f6596",
+      "title": "Lichtblick nimmt seinen bislang größten Solarpark mit 44,1 Megawatt in Thüringen in Betrieb",
+      "url": "https://www.pv-magazine.de/2026/09/03/lichtblick-nimmt-seinen-bislang-groessten-solarpark-mit-441-megawatt-in-thueringen-in-betrieb/",
+      "published_at": "2026-09-03T08:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Lichtblick nimmt seinen bislang größten Solarpark mit 44,1 Megawatt in Thüringen in Betrieb Der Ökostromversorger will das Photovoltaik-Kraftwerk im Eigenbestand halten. Ob ein Batteriespeicher zur Anlage ergänzt wird und der Solarstrom teilweise über einen PPA vermarktet wird, prüft Lichtblick derzeit noch.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "82a47c85869c0ab00b170a19",
+      "title": "Elektroauto: 94 Prozent befragter E-Auto-Fahrer wollen nicht zurück zum Verbrenner",
+      "url": "https://www.golem.de/news/elektroauto-94-prozent-befragter-e-auto-fahrer-wollen-nicht-zurueck-zum-verbrenner-2609-212586.html",
+      "published_at": "2026-09-03T08:35:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: 94 Prozent befragter E-Auto-Fahrer wollen nicht zurück zum Verbrenner Eine Umfrage zeigt: Wer Elektroauto fährt, will dabei bleiben. Angstthemen wie Reichweite und die Ladesituation spielen nach dem Kauf keine Rolle mehr. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dc299087fda4b2f33c78d814",
+      "title": "Horizonte Group, Metelligent und Einklang kooperieren bei MiSpeL-konformen C&I-Batteriespeichern",
+      "url": "https://www.pv-magazine.de/2026/09/03/horizonte-group-metelligent-und-einklang-kooperieren-bei-mispel-konformen-ci-batteriespeichern/",
+      "published_at": "2026-09-03T08:07:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Horizonte Group, Metelligent und Einklang kooperieren bei MiSpeL-konformen C&I-Batteriespeichern Installation, Messtechnik und Vermarktung von Batteriespeichern aus einer Hand ist das Ziel eines gemeinsamen Angebots für Gewerbe- und Industriekunden, das die neuen Möglichkeiten der MiSpeL-Vorgaben nutzen soll. Für das erste Jahr streben die Partner 50 gemeinsame Projekte an.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "05198baae54774b0d1398e9f",
+      "title": "Vulcan Energy legt Vormachbarkeitsstudie für Lithium- und Geothermieprojekt „Ludwig“ vor",
+      "url": "https://www.pfalz-express.de/vulcan-energy-legt-vormachbarkeitsstudie-fuer-lithium-und-geothermieprojekt-ludwig-vor/",
+      "published_at": "2026-09-03T07:31:59Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Vulcan Energy legt Vormachbarkeitsstudie für Lithium- und Geothermieprojekt „Ludwig“ vor Karlsruhe/Ludwigshafen. Das Unternehmen Vulcan Energy hat eine erste umfassende Untersuchung (Vormachbarkeitsstudie) für sein geplantes Projekt „Ludwig“ in der Region Ludwigshafen veröffentlicht. Es ist das zweite Vorhaben des Konzerns, bei dem Lithium und Erdwärme gemeinsam im Oberrheingraben gewonnen werden ",
+      "tags": [
+        "industrie"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "6f41da5497e824ac72d2e078",
+      "title": "Autonomes Fahren: Uber startet erste Robotaxis in London",
+      "url": "https://www.golem.de/news/autonomes-fahren-uber-startet-erste-robotaxis-in-london-2609-212577.html",
+      "published_at": "2026-09-03T06:31:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Uber startet erste Robotaxis in London In Kooperation mit Wayve bringt Uber autonome Fahrzeuge nach London. Am Steuer sitzt aber vorerst weiterhin menschliches Sicherheitspersonal. ( Autonomes Fahren , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "dd430d8cb46d82b20d350265",
       "title": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel",
@@ -4507,76 +4577,6 @@
       "source_id": "sueddeutsche-wirtschaft",
       "language": "de",
       "summary": "Elektroindustrie: Deutsche Batterieproduktion steigt auf Rekord In Deutschland gibt es immer mehr E-Autos, daher werden auch immer mehr Batterien hergestellt. Aber die Industrie warnt vor Abhängigkeiten aus China – auch im Verteidigungsbereich.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "47c3918cbe7c8999786e728b",
-      "title": "Elektroindustrie: Mehr E-Autos: Deutsche Batterieproduktion steigt auf Rekord",
-      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/mehr-e-autos-deutsche-batterieproduktion-steigt-auf-rekord_aid-149967615",
-      "published_at": "2026-06-16T09:12:49Z",
-      "source_id": "volksfreund",
-      "language": "de",
-      "summary": "Elektroindustrie: Mehr E-Autos: Deutsche Batterieproduktion steigt auf Rekord Die Batterieproduktion in Deutschland steigt auf einen Höchstwert, doch zugleich wächst die Abhängigkeit von Importen aus China. Die Elektroindustrie warnt vor Risiken in kritischen Sektoren.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b7b2db8697847addba430ccc",
-      "title": "Netzbetreiber: Das Energy Sharing ist zum Scheitern verurteilt",
-      "url": "https://www.golem.de/news/netzbetreiber-das-energy-sharing-ist-zum-scheitern-verurteilt-2606-209786.html",
-      "published_at": "2026-06-16T09:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Netzbetreiber: Das Energy Sharing ist zum Scheitern verurteilt Strom aus der eigenen Solaranlage soll an Nachbarn und Freunde weiterverkauft werden können. Die aktuelle Regelung dürfte an der Praxis scheitern. Von Mario Petzold ( Energiewende , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6f0e785eb0219942b268b960",
-      "title": "Tesla Cybercab: Offizielle Dokumente zeigen, was Tesla verschwiegen hat",
-      "url": "https://www.golem.de/news/tesla-cybercab-offizielle-dokumente-zeigen-was-tesla-verschwiegen-hat-2606-209809.html",
-      "published_at": "2026-06-16T08:16:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla Cybercab: Offizielle Dokumente zeigen, was Tesla verschwiegen hat Die US-Umweltbehörde EPA hat das Tesla Cybercab am 26. Mai 2026 offiziell zertifiziert. Dadurch kommen technische Details ans Licht. ( Cybercab , Elektroauto )",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "c985626e51bfcd831bb258bd",
-      "title": "Eco Stor schließt Finanzierung für 718 Megawattstunden-Speicher ab",
-      "url": "https://www.pv-magazine.de/2026/06/15/eco-stor-schliesst-finanzierung-fuer-718-megawattstunden-speicher-ab/",
-      "published_at": "2026-06-15T10:56:07Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Eco Stor schließt Finanzierung für 718 Megawattstunden-Speicher ab Die Banken Banco Sanander und die Nord LB werden die Finanzierung auf Basis des jüngst geschlossenen Tolling-Vertrags mit Next Kraftwerke übernehmen. Im kommenden Jahr soll der Batteriespeicher mit 300 Megawatt Leistung in Sachsen-Anhalt den Vollbetrieb aufnehmen.",
-      "tags": [],
-      "regions": [
-        "DE-ST"
-      ]
-    },
-    {
-      "id": "a53b0937d1e5bd19d2f8c49b",
-      "title": "H2 als Energiespeicher: Großmotor nutzt reinen Wasserstoff zur Stromerzeugung",
-      "url": "https://www.golem.de/news/h2-als-energiespeicher-grossmotor-nutzt-reinen-wasserstoff-zur-stromerzeugung-2606-209761.html",
-      "published_at": "2026-06-15T07:28:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "H2 als Energiespeicher: Großmotor nutzt reinen Wasserstoff zur Stromerzeugung Im Gegensatz zu Gasturbinen läuft der Motor schon jetzt ausschließlich mit Wasserstoff. Grundlage ist ein Diesel-Schiffsmotor. ( Wasserstoff , Brennstoffzelle )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bca7e445b493fc7ce6c8190b",
-      "title": "Tesla: Plastikköpfe im Cockpit tricksen Aufmerksamkeitskontrolle aus",
-      "url": "https://www.golem.de/news/tesla-plastikkoepfe-im-cockpit-tricksen-aufmerksamkeitskontrolle-aus-2606-209749.html",
-      "published_at": "2026-06-14T11:17:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla: Plastikköpfe im Cockpit tricksen Aufmerksamkeitskontrolle aus Mit einer kleinen Plastikfigur kann Teslas Innenraum-Kamerasystem samt Aufmerksamkeitskontrolle überlistet werden. ( Autonomes Fahren , Elektroauto )",
       "tags": [],
       "regions": []
     }
