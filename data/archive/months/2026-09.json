@@ -1,8 +1,89 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 21,
+  "article_count": 28,
   "articles": [
+    {
+      "id": "16d16d989509148b5477d45f",
+      "title": "Elektroauto: Ehrliche Klimarechnung als Lüge",
+      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-ehrliche-klimarechnung-als-luege-a-6675dd98-f9d4-41e2-a10a-fb5e087041c8",
+      "published_at": "2026-09-03T18:05:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto: Ehrliche Klimarechnung als Lüge Ein Diskussionspapier der TU München zur Klimabilanz von Elektroautos hat für Wirbel gesorgt. Der Vorschlag der Professoren, nicht nur auf die fehlenden Abgase zu schauen, kann sinnvoll sein. Doch wem nützt er wirklich?",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "cd3c605910804975041bda86",
+      "title": "Anzeige: VoltBox Mobile Wallbox 11kW mit CEE-Adapter jetzt wieder zum Tiefpreis bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-voltbox-mobile-wallbox-11kw-mit-cee-adapter-jetzt-wieder-zum-tiefpreis-bei-amazon-2609-212620.html",
+      "published_at": "2026-09-03T15:35:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: VoltBox Mobile Wallbox 11kW mit CEE-Adapter jetzt wieder zum Tiefpreis bei Amazon Die VoltBox Mobile Wallbox mit 11 kW, CEE-Adapter und verzögertem Laden plus 7 Meter Kabel ist wieder zum Tiefpreis verfügbar. ( Elektromobilität , Amazon )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e58a433975085f476d449f2b",
+      "title": "Auto: Einführung von Xiaomis Elektroautos in Deutschland rückt näher",
+      "url": "https://www.golem.de/news/auto-einfuehrung-von-xiaomis-elektroautos-in-deutschland-rueckt-naeher-2609-212627.html",
+      "published_at": "2026-09-03T14:49:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Auto: Einführung von Xiaomis Elektroautos in Deutschland rückt näher Mit Rundenrekorden am Nürburgring und starken Verkaufszahlen in China bereitet Xiaomi den Markteintritt seiner Elektroautos in Europa vor. ( Ifa 2026 , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "43b11c209d108fe928d81377",
+      "title": "Münchner Kirche mit Photovoltaik-Anlage und Batteriespeicher ausgestattet",
+      "url": "https://www.pv-magazine.de/2026/09/03/muenchner-kirche-mit-photovoltaik-anlage-und-batteriespeicher-ausgestattet/",
+      "published_at": "2026-09-03T14:26:54Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Münchner Kirche mit Photovoltaik-Anlage und Batteriespeicher ausgestattet Auf dem 95 Jahre alten Kirchendach sind komplett schwarze Solarmodule mit 65 Kilowatt Leistung installiert. Im Keller stehen zwei Batteriespeicher mit je knapp 30 Kilowattstunden Kapazität. So will die Kirche möglichst viel Solarstrom selbst verbrauchen. Auch eine Wärmepumpe ist noch in Planung.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e5c32a28d7542ddef6019901",
+      "title": "Pilotprojekt von Furo und Luox Energy zur Viertelstunden-Optimierung gewerblicher Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/09/03/pilotprojekt-von-furo-und-luox-energy-zur-viertelstunden-optimierung-gewerblicher-batteriespeicher/",
+      "published_at": "2026-09-03T12:15:36Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Pilotprojekt von Furo und Luox Energy zur Viertelstunden-Optimierung gewerblicher Batteriespeicher Die Unternehmen kombinieren ihre Lösungen, um zusätzliche Einnahmen für Speicher in Industrie und Gewerbe zu schaffen. In Pilotprojekten soll die Viertelstunden-Optimierung nun unter realen Bedingungen getestet werden.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8c553d275261527cc4e2bc11",
+      "title": "Zulassungsstatistik: Fast jeder dritte Neuwagen ist vollelektrisch",
+      "url": "https://www.golem.de/news/zulassungsstatistik-fast-jeder-dritte-neuwagen-ist-vollelektrisch-2609-212605.html",
+      "published_at": "2026-09-03T11:12:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Zulassungsstatistik: Fast jeder dritte Neuwagen ist vollelektrisch Die Kaufprämie zeigt weiter Wirkung. Der Anteil der Elektroautos an den Neuzulassungen steigt deutlich an. ( Elektroauto , Tesla )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d0e1721f2c5f7403fe0e6b28",
+      "title": "Elektroauto Polestar 4 SUV: Neue Variante ab September bestellbar",
+      "url": "https://www.heise.de/news/Elektroauto-Polestar-4-SUV-Neue-Variante-ab-September-bestellbar-11439661.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-03T10:52:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroauto Polestar 4 SUV: Neue Variante ab September bestellbar Polestar kündigt eine SUV-Variante seines kompakten Elektroauto-Modells Polestar 4 mit bis zu 630 km Reichweite an. Es ist ab sofort bestellbar.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "cdf2c2919dfff6f885c63935",
       "title": "Auto-Markt: E-Auto-Boom setzt sich fort",
