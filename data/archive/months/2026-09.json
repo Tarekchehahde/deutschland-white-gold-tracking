@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 32,
+  "article_count": 33,
   "articles": [
+    {
+      "id": "709bbecb26e98160bc2e9b68",
+      "title": "Fox ESS steigt mit Siliziumkarbid-Technologie von Infineon die Effizienz seiner Heimspeicher auf bis zu 98,47 Prozent",
+      "url": "https://www.pv-magazine.de/2026/09/04/fox-ess-steigt-mit-siliziumkarbid-technologie-von-infineon-die-effizienz-seiner-heimspeicher-auf-bis-zu-9847-prozent/",
+      "published_at": "2026-09-04T14:08:11Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fox ESS steigt mit Siliziumkarbid-Technologie von Infineon die Effizienz seiner Heimspeicher auf bis zu 98,47 Prozent Die Schaltverluste in den Batteriespeichern lassen sich mit den Siliziumakarbid-Halbleitern um 70 Prozent reduzieren. Sie sorgen auch mit Top-Side-Kühlung für ein optimiertes thermisches Verhalten sowie eine hohe Systemeffizienz und Leistungsdichte.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "3c9c8b4a8d8c959aaa135084",
       "title": "Staria Elektro: Hyundais Elektro-Van kostet ab 57.450 Euro",
