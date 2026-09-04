@@ -1,16 +1,60 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-03T21:03:26Z",
+  "generated_at_utc": "2026-09-04T09:38:51Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 585,
+  "total_in_archive": 589,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 28
+    "2026-09": 32
   },
   "recent_for_ui": [
+    {
+      "id": "3c9c8b4a8d8c959aaa135084",
+      "title": "Staria Elektro: Hyundais Elektro-Van kostet ab 57.450 Euro",
+      "url": "https://www.golem.de/news/staria-elektro-hyundais-elektro-van-kostet-ab-57-450-euro-2609-212643.html",
+      "published_at": "2026-09-04T07:44:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Staria Elektro: Hyundais Elektro-Van kostet ab 57.450 Euro Der Staria Elektro ist Hyundais erster Elektro-Van - und lädt dank 800-Volt-Technologie schnell. Der Van kommt auch in einer konfortablen Variante. ( Hyundai , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d5c630c25486dbf5915a6c27",
+      "title": "Ladeinfrastruktur für E-Auto: Das BSI befürchtet den ganz großen Hack",
+      "url": "https://www.golem.de/news/ladeinfrastruktur-fuer-e-auto-das-bsi-befuerchtet-den-ganz-grossen-hack-2609-212631.html",
+      "published_at": "2026-09-04T07:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ladeinfrastruktur für E-Auto: Das BSI befürchtet den ganz großen Hack Die Ladestationen für E-Autos gehören zur kritischen Infrastruktur. Das BSI hält Angriffe für wahrscheinlich, weiß aber noch nicht, wie und wann. Ein Bericht von Friedhelm Greis ( Ladesäule , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "46f944c7209302c8c984e36b",
+      "title": "Taxi ohne Lenkrad: Tesla stellt \"Cybercab\" vor",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-cybercab-taxi-ohne-lenkrad-100.html",
+      "published_at": "2026-09-04T06:53:50Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Taxi ohne Lenkrad: Tesla stellt \"Cybercab\" vor Der US-Elektroautobauer Tesla hat im Bundesstaat Texas sein neues \"Cybercab\" vorgestellt und mit ersten Fahrten begonnen. Die fahrerlosen Taxis werden zunächst in einigen Gegenden in Austin angeboten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "99e2889ca84f04ad837115af",
+      "title": "IFA: Xiaomi startet Elektroauto-Verkauf in Deutschland ab 2027",
+      "url": "https://www.heise.de/news/Xiaomi-bringt-Elektroautos-ab-2027-nach-Deutschland-11440984.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-04T05:57:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "IFA: Xiaomi startet Elektroauto-Verkauf in Deutschland ab 2027 Mit Rundenrekorden am Nürburgring und starken Verkaufszahlen in China bereitet Xiaomi den Markteintritt seiner Elektroautos in Europa vor.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "16d16d989509148b5477d45f",
       "title": "Elektroauto: Ehrliche Klimarechnung als Lüge",
@@ -4534,54 +4578,6 @@
       "language": "de",
       "summary": "Irland beabsichtigt Bau einer 600-MW-Energiespeicheranlage für 2 Milliarden Euro Irland will überschüssige Energie aus Erneuerbaren Energien zu grünem Wasserstoff umwandeln. In Spitzenlastzeiten kann daraus wieder Strom produziert werden.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "cbf6708b30e2e397979a3afb",
-      "title": "Facelift: Porsche Taycan bekommt Gangwechsel und Motorbremse",
-      "url": "https://www.golem.de/news/facelift-porsche-taycan-bekommt-gangwechsel-und-motorbremse-2606-209884.html",
-      "published_at": "2026-06-17T14:28:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Facelift: Porsche Taycan bekommt Gangwechsel und Motorbremse Das Facelift von Porsches Elektroauto Taycan hat mehr Reichweite und auf Wunsch künstliche Gänge - samt passendem Motorensound und Motorbremse. ( Porsche Taycan , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7c9de63c6dddfdfaf5aa2c6b",
-      "title": "Probefahrt Leapmotor B05: Hurra, es ist kein SUV!",
-      "url": "https://www.golem.de/news/probefahrt-leapmotor-b05-hurra-es-ist-kein-suv-2606-209880.html",
-      "published_at": "2026-06-17T13:14:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Probefahrt Leapmotor B05: Hurra, es ist kein SUV! Der B05 ist Leapmotors erster Hatchback im C-Segment. Das Elektroauto macht VWs ID.3 und Kias EV4 Konkurrenz, leistet aber mehr und kostet weniger. Ein Test von Tobias Költzsch ( Leapmotor , Elektroauto )",
-      "tags": [
-        "exploration"
-      ],
-      "regions": []
-    },
-    {
-      "id": "8e9b76c8e477097222323719",
-      "title": "Zu geringe WLTP-Reichweite: Gericht legt Grenzwert für Akkudegradation fest",
-      "url": "https://www.golem.de/news/zu-geringe-wltp-reichweite-gericht-legt-grenzwert-fuer-akkudegradation-fest-2606-209859.html",
-      "published_at": "2026-06-17T08:56:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Zu geringe WLTP-Reichweite: Gericht legt Grenzwert für Akkudegradation fest Ein Käufer war mit der Reichweite seines E-Autos unzufrieden. Vor Gericht hat er erfolgreich gegen den Händler geklagt. ( Elektroauto , Akku )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b5e71dc7a5b7790a2941f07c",
-      "title": "ZVEI: Batterieproduktion in Deutschland wieder auf Wachstumskurs",
-      "url": "https://www.pv-magazine.de/2026/06/17/zvei-batterieproduktion-in-deutschland-wieder-auf-wachstumskurs/",
-      "published_at": "2026-06-17T08:43:36Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "ZVEI: Batterieproduktion in Deutschland wieder auf Wachstumskurs Das Volumen des deutschen Batteriemarktes erreichte 22,4 Milliarden Euro. Allerdings sieht der Fachverband die Wettbewerbsfähigkeit und Resilienz des Standorts Deutschland für gefährdet an. Der ZVEI fordert von der Bundesregierung die Schaffung verlässlicher Investitionsanreize.",
-      "tags": [
-        "politik"
-      ],
       "regions": []
     }
   ]
