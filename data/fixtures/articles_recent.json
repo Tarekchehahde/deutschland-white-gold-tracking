@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "709bbecb26e98160bc2e9b68",
+      "title": "Fox ESS steigt mit Siliziumkarbid-Technologie von Infineon die Effizienz seiner Heimspeicher auf bis zu 98,47 Prozent",
+      "url": "https://www.pv-magazine.de/2026/09/04/fox-ess-steigt-mit-siliziumkarbid-technologie-von-infineon-die-effizienz-seiner-heimspeicher-auf-bis-zu-9847-prozent/",
+      "published_at": "2026-09-04T14:08:11Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fox ESS steigt mit Siliziumkarbid-Technologie von Infineon die Effizienz seiner Heimspeicher auf bis zu 98,47 Prozent Die Schaltverluste in den Batteriespeichern lassen sich mit den Siliziumakarbid-Halbleitern um 70 Prozent reduzieren. Sie sorgen auch mit Top-Side-Kühlung für ein optimiertes thermisches Verhalten sowie eine hohe Systemeffizienz und Leistungsdichte.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "3c9c8b4a8d8c959aaa135084",
       "title": "Staria Elektro: Hyundais Elektro-Van kostet ab 57.450 Euro",
       "url": "https://www.golem.de/news/staria-elektro-hyundais-elektro-van-kostet-ab-57-450-euro-2609-212643.html",
@@ -46,28 +57,6 @@
       "regions": []
     },
     {
-      "id": "cd3c605910804975041bda86",
-      "title": "Anzeige: VoltBox Mobile Wallbox 11kW mit CEE-Adapter jetzt wieder zum Tiefpreis bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-voltbox-mobile-wallbox-11kw-mit-cee-adapter-jetzt-wieder-zum-tiefpreis-bei-amazon-2609-212620.html",
-      "published_at": "2026-09-03T15:35:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: VoltBox Mobile Wallbox 11kW mit CEE-Adapter jetzt wieder zum Tiefpreis bei Amazon Die VoltBox Mobile Wallbox mit 11 kW, CEE-Adapter und verzögertem Laden plus 7 Meter Kabel ist wieder zum Tiefpreis verfügbar. ( Elektromobilität , Amazon )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e58a433975085f476d449f2b",
-      "title": "Auto: Einführung von Xiaomis Elektroautos in Deutschland rückt näher",
-      "url": "https://www.golem.de/news/auto-einfuehrung-von-xiaomis-elektroautos-in-deutschland-rueckt-naeher-2609-212627.html",
-      "published_at": "2026-09-03T14:49:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Auto: Einführung von Xiaomis Elektroautos in Deutschland rückt näher Mit Rundenrekorden am Nürburgring und starken Verkaufszahlen in China bereitet Xiaomi den Markteintritt seiner Elektroautos in Europa vor. ( Ifa 2026 , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "43b11c209d108fe928d81377",
       "title": "Münchner Kirche mit Photovoltaik-Anlage und Batteriespeicher ausgestattet",
       "url": "https://www.pv-magazine.de/2026/09/03/muenchner-kirche-mit-photovoltaik-anlage-und-batteriespeicher-ausgestattet/",
@@ -89,50 +78,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "d0e1721f2c5f7403fe0e6b28",
-      "title": "Elektroauto Polestar 4 SUV: Neue Variante ab September bestellbar",
-      "url": "https://www.heise.de/news/Elektroauto-Polestar-4-SUV-Neue-Variante-ab-September-bestellbar-11439661.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-03T10:52:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Elektroauto Polestar 4 SUV: Neue Variante ab September bestellbar Polestar kündigt eine SUV-Variante seines kompakten Elektroauto-Modells Polestar 4 mit bis zu 630 km Reichweite an. Es ist ab sofort bestellbar.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fed7b570b781a887852f6596",
-      "title": "Lichtblick nimmt seinen bislang größten Solarpark mit 44,1 Megawatt in Thüringen in Betrieb",
-      "url": "https://www.pv-magazine.de/2026/09/03/lichtblick-nimmt-seinen-bislang-groessten-solarpark-mit-441-megawatt-in-thueringen-in-betrieb/",
-      "published_at": "2026-09-03T08:45:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Lichtblick nimmt seinen bislang größten Solarpark mit 44,1 Megawatt in Thüringen in Betrieb Der Ökostromversorger will das Photovoltaik-Kraftwerk im Eigenbestand halten. Ob ein Batteriespeicher zur Anlage ergänzt wird und der Solarstrom teilweise über einen PPA vermarktet wird, prüft Lichtblick derzeit noch.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dc299087fda4b2f33c78d814",
-      "title": "Horizonte Group, Metelligent und Einklang kooperieren bei MiSpeL-konformen C&I-Batteriespeichern",
-      "url": "https://www.pv-magazine.de/2026/09/03/horizonte-group-metelligent-und-einklang-kooperieren-bei-mispel-konformen-ci-batteriespeichern/",
-      "published_at": "2026-09-03T08:07:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Horizonte Group, Metelligent und Einklang kooperieren bei MiSpeL-konformen C&I-Batteriespeichern Installation, Messtechnik und Vermarktung von Batteriespeichern aus einer Hand ist das Ziel eines gemeinsamen Angebots für Gewerbe- und Industriekunden, das die neuen Möglichkeiten der MiSpeL-Vorgaben nutzen soll. Für das erste Jahr streben die Partner 50 gemeinsame Projekte an.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "14c37dcd79e105140cb9830b",
-      "title": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht",
-      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-strom-aus-wind-und-sonne-wie-in-philippsburg-ein-riesiger-batteriespeicher-entsteht-100.html",
-      "published_at": "2026-09-01T14:21:50Z",
-      "source_id": "tagesschau-bw",
-      "language": "de",
-      "summary": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht Die EnBW baut derzeit in Philippsburg einen der größten Batteriespeicher in Deutschland. Er soll 100.000 Haushalte versorgen. Die ersten Batterie-Container werden jetzt installiert.",
-      "tags": [],
       "regions": []
     }
   ]

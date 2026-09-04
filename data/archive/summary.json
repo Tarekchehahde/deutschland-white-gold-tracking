@@ -1,16 +1,27 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-04T09:38:51Z",
+  "generated_at_utc": "2026-09-04T20:46:28Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 589,
+  "total_in_archive": 590,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 32
+    "2026-09": 33
   },
   "recent_for_ui": [
+    {
+      "id": "709bbecb26e98160bc2e9b68",
+      "title": "Fox ESS steigt mit Siliziumkarbid-Technologie von Infineon die Effizienz seiner Heimspeicher auf bis zu 98,47 Prozent",
+      "url": "https://www.pv-magazine.de/2026/09/04/fox-ess-steigt-mit-siliziumkarbid-technologie-von-infineon-die-effizienz-seiner-heimspeicher-auf-bis-zu-9847-prozent/",
+      "published_at": "2026-09-04T14:08:11Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fox ESS steigt mit Siliziumkarbid-Technologie von Infineon die Effizienz seiner Heimspeicher auf bis zu 98,47 Prozent Die Schaltverluste in den Batteriespeichern lassen sich mit den Siliziumakarbid-Halbleitern um 70 Prozent reduzieren. Sie sorgen auch mit Top-Side-Kühlung für ein optimiertes thermisches Verhalten sowie eine hohe Systemeffizienz und Leistungsdichte.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "3c9c8b4a8d8c959aaa135084",
       "title": "Staria Elektro: Hyundais Elektro-Van kostet ab 57.450 Euro",
@@ -4566,17 +4577,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "EU-Plan: Günstige E-Autos durch neue Fahrzeugklasse Europa will kleine Elektroautos mit Subventionen, Flottenrabatten und städtischen Privilegien fördern - aber nur, wenn sie in der EU gebaut werden. ( Auto , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5c77be4924ec0e771689f4c4",
-      "title": "Irland beabsichtigt Bau einer 600-MW-Energiespeicheranlage für 2 Milliarden Euro",
-      "url": "https://www.heise.de/news/Irland-beabsichtigt-Bau-einer-600-MW-Energiespeicheranlage-fuer-2-Milliarden-Euro-11336453.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-18T06:15:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Irland beabsichtigt Bau einer 600-MW-Energiespeicheranlage für 2 Milliarden Euro Irland will überschüssige Energie aus Erneuerbaren Energien zu grünem Wasserstoff umwandeln. In Spitzenlastzeiten kann daraus wieder Strom produziert werden.",
       "tags": [],
       "regions": []
     }
