@@ -1,8 +1,52 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 28,
+  "article_count": 32,
   "articles": [
+    {
+      "id": "3c9c8b4a8d8c959aaa135084",
+      "title": "Staria Elektro: Hyundais Elektro-Van kostet ab 57.450 Euro",
+      "url": "https://www.golem.de/news/staria-elektro-hyundais-elektro-van-kostet-ab-57-450-euro-2609-212643.html",
+      "published_at": "2026-09-04T07:44:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Staria Elektro: Hyundais Elektro-Van kostet ab 57.450 Euro Der Staria Elektro ist Hyundais erster Elektro-Van - und lädt dank 800-Volt-Technologie schnell. Der Van kommt auch in einer konfortablen Variante. ( Hyundai , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d5c630c25486dbf5915a6c27",
+      "title": "Ladeinfrastruktur für E-Auto: Das BSI befürchtet den ganz großen Hack",
+      "url": "https://www.golem.de/news/ladeinfrastruktur-fuer-e-auto-das-bsi-befuerchtet-den-ganz-grossen-hack-2609-212631.html",
+      "published_at": "2026-09-04T07:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ladeinfrastruktur für E-Auto: Das BSI befürchtet den ganz großen Hack Die Ladestationen für E-Autos gehören zur kritischen Infrastruktur. Das BSI hält Angriffe für wahrscheinlich, weiß aber noch nicht, wie und wann. Ein Bericht von Friedhelm Greis ( Ladesäule , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "46f944c7209302c8c984e36b",
+      "title": "Taxi ohne Lenkrad: Tesla stellt \"Cybercab\" vor",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-cybercab-taxi-ohne-lenkrad-100.html",
+      "published_at": "2026-09-04T06:53:50Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Taxi ohne Lenkrad: Tesla stellt \"Cybercab\" vor Der US-Elektroautobauer Tesla hat im Bundesstaat Texas sein neues \"Cybercab\" vorgestellt und mit ersten Fahrten begonnen. Die fahrerlosen Taxis werden zunächst in einigen Gegenden in Austin angeboten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "99e2889ca84f04ad837115af",
+      "title": "IFA: Xiaomi startet Elektroauto-Verkauf in Deutschland ab 2027",
+      "url": "https://www.heise.de/news/Xiaomi-bringt-Elektroautos-ab-2027-nach-Deutschland-11440984.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-04T05:57:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "IFA: Xiaomi startet Elektroauto-Verkauf in Deutschland ab 2027 Mit Rundenrekorden am Nürburgring und starken Verkaufszahlen in China bereitet Xiaomi den Markteintritt seiner Elektroautos in Europa vor.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "16d16d989509148b5477d45f",
       "title": "Elektroauto: Ehrliche Klimarechnung als Lüge",
