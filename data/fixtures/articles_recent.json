@@ -2,17 +2,6 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "e91d2ba87a2a999011a6d935",
-      "title": "Dodge Charger im Test: Bad Boy aus den USA",
-      "url": "https://www.spiegel.de/mobilitaet/auto/dodge-charger-im-test-bad-boy-aus-den-usa-a-1fd14843-527e-4be7-86db-50bb180de713",
-      "published_at": "2026-09-06T09:18:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Dodge Charger im Test: Bad Boy aus den USA Der Dodge Charger ist ein Muscle Car alter Schule. Mit V6-Biturbo-Benziner, Aggro-Optik und sinnlos pubertären Funktionen. Genau so kommt der Charger nach Europa – wahlweise auch als das lauteste Elektroauto der Welt.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "709bbecb26e98160bc2e9b68",
       "title": "Fox ESS steigt mit Siliziumkarbid-Technologie von Infineon die Effizienz seiner Heimspeicher auf bis zu 98,47 Prozent",
       "url": "https://www.pv-magazine.de/2026/09/04/fox-ess-steigt-mit-siliziumkarbid-technologie-von-infineon-die-effizienz-seiner-heimspeicher-auf-bis-zu-9847-prozent/",
@@ -31,17 +20,6 @@
       "source_id": "tagesschau-wirtschaft",
       "language": "de",
       "summary": "Taxi ohne Lenkrad: Tesla stellt \"Cybercab\" vor Der US-Elektroautobauer Tesla hat im Bundesstaat Texas sein neues \"Cybercab\" vorgestellt und mit ersten Fahrten begonnen. Die fahrerlosen Taxis werden zunächst in einigen Gegenden in Austin angeboten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "99e2889ca84f04ad837115af",
-      "title": "IFA: Xiaomi startet Elektroauto-Verkauf in Deutschland ab 2027",
-      "url": "https://www.heise.de/news/Xiaomi-bringt-Elektroautos-ab-2027-nach-Deutschland-11440984.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-04T05:57:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "IFA: Xiaomi startet Elektroauto-Verkauf in Deutschland ab 2027 Mit Rundenrekorden am Nürburgring und starken Verkaufszahlen in China bereitet Xiaomi den Markteintritt seiner Elektroautos in Europa vor.",
       "tags": [],
       "regions": []
     },
