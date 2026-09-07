@@ -1,16 +1,73 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-07T10:17:08Z",
+  "generated_at_utc": "2026-09-07T21:32:03Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 598,
+  "total_in_archive": 603,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 41
+    "2026-09": 46
   },
   "recent_for_ui": [
+    {
+      "id": "51359854e69f0f1d517fd4aa",
+      "title": "Chinesische Medien berichten von einer „Pause“ bei der Genehmigung neuer Projekte zur Herstellung von Batteriespeichern",
+      "url": "https://www.pv-magazine.de/2026/09/07/chinesische-medien-berichten-von-einer-pause-bei-der-genehmigung-neuer-projekte-zur-herstellung-von-batteriespeichern/",
+      "published_at": "2026-09-07T14:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Chinesische Medien berichten von einer „Pause“ bei der Genehmigung neuer Projekte zur Herstellung von Batteriespeichern Obwohl noch kein Erlass oder Rundschreiben veröffentlicht wurde, folgt diese Maßnahme den bisherigen behördlichen Vorgehensweisen.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "e6abe78a54e8f6c8f3c4f714",
+      "title": "Ohne Planwirtschaft: Die Zukunft der Mobilität",
+      "url": "https://www.faz.net/aktuell/technik-motor/die-zukunft-der-mobilitaet-201193835.html",
+      "published_at": "2026-09-07T12:25:39Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Ohne Planwirtschaft: Die Zukunft der Mobilität Nicht das Elektroauto belastet die deutsche Industrie. Es ist die Verbotspolitik, die in die Sackgasse führt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "11ed975d16f6e682fa039d25",
+      "title": "Bereits 230 Millionen Euro an Fördermitteln für Elektroautos ausbezahlt",
+      "url": "https://www.pv-magazine.de/2026/09/07/bereits-230-millionen-euro-an-foerdermitteln-fuer-elektroautos-ausbezahlt/",
+      "published_at": "2026-09-07T12:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bereits 230 Millionen Euro an Fördermitteln für Elektroautos ausbezahlt Bis zum 1. September hat das BAFA fast 52.500 Anträge bewilligt. Etwa 48.000 davon für reine Batterie-Elektrofahrzeuge. Vor allem die Modelle von Volkswagen und Tesla profitierten von dem Zuschuss.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a7309778933325e0130067fe",
+      "title": "Elektromobilität: VW ID.Polo und Skoda Epiq auf Monate ausverkauft",
+      "url": "https://www.golem.de/news/elektromobilitaet-vw-id-polo-und-skoda-epiq-auf-monate-ausverkauft-2609-212725.html",
+      "published_at": "2026-09-07T11:56:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität: VW ID.Polo und Skoda Epiq auf Monate ausverkauft Die günstigen E-Autos aus dem VW-Konzern stoßen auf eine große Nachfrage. Bislang werden über die Kaufprämie eher asiatische Kleinwagen gefördert. Ein Bericht von Friedhelm Greis ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "46ae3c33842522c6bca20dab",
+      "title": "Elektroauto: Audi A2 ist bestellbar zu Preisen bis 51.200 Euro",
+      "url": "https://www.golem.de/news/elektroauto-audi-a2-ist-bestellbar-zu-preisen-bis-51-200-euro-2609-212721.html",
+      "published_at": "2026-09-07T10:54:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Audi A2 ist bestellbar zu Preisen bis 51.200 Euro Der Audi A2 E-Tron ist offiziell, die Auslieferung ist ab Dezember 2026 geplant. Das Elektroauto kommt in insgesamt vier Leistungsvarianten. ( Audi , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "f0d694d3cc9e70d851ced682",
       "title": "Auto: Elektroautos im Betrieb günstiger als Benziner",
@@ -4522,61 +4579,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Tesla: Schweden will gegen EU-weite Zulassung von FSD stimmen Teslas teilautonomer Fahrmodus FSD Supervised soll nach Europa kommen - Schweden hat aber etwas dagegen. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b6d79c915e763181334dfe6d",
-      "title": "F.A.Z.: Volvo EX 60: Ohne Griff alles im Griff?",
-      "url": "https://www.faz.net/video/volvo-ex-60-ohne-griff-alles-im-griff-f-a-z-200947014.html",
-      "published_at": "2026-06-19T09:33:46Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "F.A.Z.: Volvo EX 60: Ohne Griff alles im Griff? Volvo fördert die Elektromobilität. Und fordert seine Kundschaft immer mal wieder heraus. So haben die Schweden am EX60 kurzerhand die Griffe weggezaubert. Ob es weitere Wunder gibt, zeigt der Fahrbericht mit Joshua Hildebrand in einer neuen Folge von F.A.Z. Technik & Motor.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "70db0cb156e664f6bd57c25d",
-      "title": "heise+ | Im Test: Nachrüst-Stromspeicher Anker Solix Solarbank AC Max",
-      "url": "https://www.heise.de/tests/Im-Test-Nachruest-Stromspeicher-Anker-Solix-Solarbank-AC-Max-11313336.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-06-19T08:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Im Test: Nachrüst-Stromspeicher Anker Solix Solarbank AC Max Batteriespeicher ist günstig wie nie und auch manche PV-Bestandsanlage könnte ein wenig mehr davon gebrauchen. Anker verspricht ein Update in fünf Minuten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e2ec7957927143d2796240a8",
-      "title": "Stimmen der Energiewende: EWE-Chef Stefan Dohler, Energieenthusiast und Netzbetreiber, sucht faire Lösungen",
-      "url": "https://www.pv-magazine.de/2026/06/19/stimmen-der-energiewende-ewe-chef-stefan-dohler-energieenthusiast-und-netzbetreiber-sucht-faire-loesungen/",
-      "published_at": "2026-06-19T07:23:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Stimmen der Energiewende: EWE-Chef Stefan Dohler, Energieenthusiast und Netzbetreiber, sucht faire Lösungen Wir wollen von Stefan Dohler, Chef von EWE und Präsident des BDEW, wissen, wie er die bevorstehenden Aufgaben beim Netzausbau einschätzt und wie eine faire Teilung der Redispatch-Risiken zwischen Netzbetreibern und Betreibern vom Batteriespeichern und Erzeugungsanlagen aussehen könnte.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a6ee921fa0ac26e2b7ead9b9",
-      "title": "Tesvolt baut Mega-Batteriespeicher in Wittenberg: 35 Millionen Euro Investition",
-      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/neubau-energiewende-speicher,tesvolt-batteriespeicher-100.html",
-      "published_at": "2026-06-18T17:17:45Z",
-      "source_id": "tagesschau-st",
-      "language": "de",
-      "summary": "Tesvolt baut Mega-Batteriespeicher in Wittenberg: 35 Millionen Euro Investition Damit Strom aus Sonne und Wind rund um die Uhr verfügbar ist, muss überschüssige Energie zwischengespeichert werden. In Wittenberg entsteht deshalb ein Großspeicher.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c09eda23cc1e3a17aae4dc62",
-      "title": "Elektrolimousine: BMW i3 startet als First Edition bei 75.000 Euro",
-      "url": "https://www.golem.de/news/elektrolimousine-bmw-i3-startet-als-first-edition-bei-75-000-euro-2606-209940.html",
-      "published_at": "2026-06-18T15:08:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektrolimousine: BMW i3 startet als First Edition bei 75.000 Euro Der BMW i3 soll zum Basispreis von 65.900 Euro auf den Markt kommen. Vorab lässt sich schon eine besser ausgestattete Version bestellen. ( BMW , Elektroauto )",
       "tags": [],
       "regions": []
     }
