@@ -1,16 +1,95 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-06T20:25:19Z",
+  "generated_at_utc": "2026-09-07T10:17:08Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 591,
+  "total_in_archive": 598,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 34
+    "2026-09": 41
   },
   "recent_for_ui": [
+    {
+      "id": "f0d694d3cc9e70d851ced682",
+      "title": "Auto: Elektroautos im Betrieb günstiger als Benziner",
+      "url": "https://www.golem.de/news/auto-elektroautos-im-betrieb-guenstiger-als-benziner-2609-212707.html",
+      "published_at": "2026-09-07T09:12:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Auto: Elektroautos im Betrieb günstiger als Benziner Fallende Batteriepreise und steigende Treibstoffkosten machen Elektroautos im Betrieb zur günstigeren Alternative. Auch die Anschaffungskosten sinken. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "16b7aceaabded3d9646b79a7",
+      "title": "Audi lässt den A2 als effizientes Elektroauto wiederaufleben",
+      "url": "https://www.heise.de/news/Elektroauto-Audi-A2-e-tron-Weltpremiere-des-Effizienzmodells-11436465.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-07T09:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Audi lässt den A2 als effizientes Elektroauto wiederaufleben Audi stellt mit dem A2 e-tron seinen sparsamsten Stromer vor: 12,8 kWh/100 km, LFP-Batterie und bis zu 500 km Reichweite. Gebaut wird er in Ingolstadt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3d5f01178aceb1f62f5d33f3",
+      "title": "Elektromobilität: Neue E-Autos laden schneller – Infrastruktur muss nachziehen",
+      "url": "https://www.rnd.de/wirtschaft/elektromobilitaet-neue-e-autos-laden-schneller-infrastruktur-muss-nachziehen-VXZVHFJJNNASVH6VB5L2HM2UUI.html",
+      "published_at": "2026-09-07T08:26:38Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Neue E-Autos laden schneller – Infrastruktur muss nachziehen Neue E-Autos können immer höhere Ladeleistungen aufnehmen, viele Ladeparks müssen deshalb modernisiert werden. Doch stärkere Netzanschlüsse dauern teils Jahre. Wo die Branche jetzt nachbessern will.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d66b0055ef14f10b83771a2f",
+      "title": "Ohne Fahrerwunsch: Tesla FSD übernimmt in Gefahrensituationen das Steuer",
+      "url": "https://www.golem.de/news/ohne-fahrerwunsch-tesla-fsd-uebernimmt-in-gefahrensituationen-das-steuer-2609-212703.html",
+      "published_at": "2026-09-07T08:22:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ohne Fahrerwunsch: Tesla FSD übernimmt in Gefahrensituationen das Steuer Teslas neues FSD-Update kann das Steuer übernehmen, selbst wenn der Fahrer das System gar nicht aktiviert hat. Das wirft Fragen auf. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4696f6ee0dcdaf7f8a6c13a3",
+      "title": "China-E-Autos: Volle Punktzahl beim Crashtest Euro NCAP",
+      "url": "https://www.golem.de/news/china-e-autos-volle-punktzahl-beim-crashtest-euro-ncap-2609-212700.html",
+      "published_at": "2026-09-07T08:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "China-E-Autos: Volle Punktzahl beim Crashtest Euro NCAP Drei Elektroautos aus China, der GAC Aion UT, der Geely E2 und der Leapmotor B05, erreichen bei Euro NCAP jeweils fünf Sterne. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "87dffa6610e2ded784f67941",
+      "title": "Energy Hubs: Mehr Energieautonomie für Gewerbestandorte",
+      "url": "https://www.pv-magazine.de/2026/09/07/energy-hubs-mehr-energieautonomie-fuer-gewerbestandorte/",
+      "published_at": "2026-09-07T07:50:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Energy Hubs: Mehr Energieautonomie für Gewerbestandorte Netzengpässe bremsen die Elektrifizierung von Industrie und Logistik. Die Antwort darauf liegt hinter dem Netzanschlusspunkt: Ein sogenannter Energy Hub verbindet Photovoltaik, Batteriespeicher, Verbraucher, Ladeinfrastruktur und Energiemanagement und macht den lokal erzeugten Strom bedarfsgerecht verfügbar. Zusätzlich können leichte Montages",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e1bb7feccafc03809fd0935d",
+      "title": "Kritische Infrastruktur: Energiecontainer liefert klimafreundlichen Notstrom",
+      "url": "https://www.golem.de/news/kritische-infrastruktur-energiecontainer-liefert-klimafreundlichen-notstrom-2609-212702.html",
+      "published_at": "2026-09-07T07:26:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Kritische Infrastruktur: Energiecontainer liefert klimafreundlichen Notstrom Um den Mobilfunk über Tage hinweg aufrechtzuerhalten, kombiniert das System Batteriespeicher und Wasserstoffverbrennung. ( Wasserstoff , Mobilfunk )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
     {
       "id": "e91d2ba87a2a999011a6d935",
       "title": "Dodge Charger im Test: Bad Boy aus den USA",
@@ -4498,85 +4577,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektrolimousine: BMW i3 startet als First Edition bei 75.000 Euro Der BMW i3 soll zum Basispreis von 65.900 Euro auf den Markt kommen. Vorab lässt sich schon eine besser ausgestattete Version bestellen. ( BMW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "aea0b92d658d98346d885e67",
-      "title": "Kooperation von The Mobility House und Solar Manager für Home Energy Solution",
-      "url": "https://www.pv-magazine.de/2026/06/18/kooperation-von-the-mobility-house-und-solar-manager-fuer-home-energy-solution/",
-      "published_at": "2026-06-18T14:52:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Kooperation von The Mobility House und Solar Manager für Home Energy Solution Im Mittelpunkt steht die Integration aller Energie-Assets im Eigenheim wie Photovoltaik-Anlage, Batteriespeicher, Wärmepumpen und Ladesäulen. Die Flexibilität soll am Energiemarkt vermarktet werden und den Weg für Vehicle-to-Home und Vehicle-to-Grid ebnen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "539c0ab9e2f5fe66aa5d94f6",
-      "title": "Energieprojekte: Einstufung als überragendes öffentliches Interesse hilft – aber nicht unbegrenzt",
-      "url": "https://www.pv-magazine.de/2026/06/18/energieprojekte-einstufung-als-ueberragendes-oeffentliches-interesse-hilft-aber-nicht-unbegrenzt/",
-      "published_at": "2026-06-18T14:23:52Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Energieprojekte: Einstufung als überragendes öffentliches Interesse hilft – aber nicht unbegrenzt Die Stiftung Umweltenergierecht hat untersucht, wie sich die gesetzlichen Einzelregelungen zum „überragenden öffentlichen Interesse“ von Windkraft- und Photovoltaik-Anlagen, Batteriespeichern und anderen Energiewendeprojekten auswirken. Einen Freifahrtschein bedeuten die Regelungen keineswegs. Stärker",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "dc88a5e0f3952425bc3b3760",
-      "title": "Überladung durch Anker Powerbank: Nutzer melden defekte Mac-Platine, USB-C-Ports",
-      "url": "https://www.heise.de/news/Anker-Powerbank-Nutzer-meldet-kaputte-MacBook-Hauptplatine-nach-Ladevorgang-11333679.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-18T09:55:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Überladung durch Anker Powerbank: Nutzer melden defekte Mac-Platine, USB-C-Ports YouTuber Evan Edinger hat sich mit einem Anker-Stromspeicher sein MacBook zerstört – andere Nutzer melden defekte USB-C-Ports. Anker will den Fall untersuchen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7d73b93edb13e14ab10a651a",
-      "title": "Anzeige: Nr. 1 bei Amazon - Mobile Wallbox 11kW mit App und 7-m-Kabel jetzt wieder nur rund 160 Euro",
-      "url": "https://www.golem.de/news/anzeige-nr-1-bei-amazon-mobile-wallbox-11kw-mit-app-und-7-m-kabel-jetzt-wieder-nur-rund-160-euro-2606-209914.html",
-      "published_at": "2026-06-18T08:54:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Nr. 1 bei Amazon - Mobile Wallbox 11kW mit App und 7-m-Kabel jetzt wieder nur rund 160 Euro Die Bestseller-Wallbox mit 11kW plus App und Kabel im Amazon-Angebot bietet Sicherheitsfunktionen und passt an jede CEE-Steckdose. ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "342daf73a87fd7ba9883db59",
-      "title": "Hohe Nachfrage: BMW zieht angeblich Bestellstart der Elektrolimousine i3 vor",
-      "url": "https://www.golem.de/news/hohe-nachfrage-bmw-zieht-angeblich-bestellstart-der-elektrolimousine-i3-vor-2606-209915.html",
-      "published_at": "2026-06-18T08:37:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Hohe Nachfrage: BMW zieht angeblich Bestellstart der Elektrolimousine i3 vor Mit einer Reichweite von bis zu 900 km erregte der BMW i3 bei seiner Präsentation Aufsehen. Das will der Hersteller nun ausnutzen. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ea37e89b71d2e83d5b9757a9",
-      "title": "Elektromobilität auf See: Norwegische Reederei baut riesige E-Containerfrachter",
-      "url": "https://www.golem.de/news/elektromobilitaet-auf-see-norwegische-reederei-baut-riesige-e-containerfrachter-2606-209909.html",
-      "published_at": "2026-06-18T07:58:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektromobilität auf See: Norwegische Reederei baut riesige E-Containerfrachter Die Eitzen Group bestellt zwei E-Containerfrachter mit 100-MWh-Akkus für einen grünen Frachtkorridor zwischen Hamburg und Oslo. ( Schifffahrt , Elektromobilität )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a66fc0f02db01865060c6bf3",
-      "title": "E-Mobilität: China verkauft mehr E-Autos als Verbrenner",
-      "url": "https://www.spiegel.de/wirtschaft/e-mobilitaet-china-verkauft-mehr-e-autos-als-verbrenner-a-8575b203-d594-4b1e-a7ca-c55ea39da065",
-      "published_at": "2026-06-18T06:57:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "E-Mobilität: China verkauft mehr E-Autos als Verbrenner Die Mobilitätswende im größten Automarkt der Welt nimmt rasant zu: Wie das »Handelsblatt« berichtet, haben chinesische Stellen im April vorwiegend Elektroautos zugelassen.",
       "tags": [],
       "regions": []
     }
