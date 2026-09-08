@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "db5c23179c958cc4d21b1e0d",
+      "title": "Elektroauto: Dacia Spring komplett überarbeitet",
+      "url": "https://www.golem.de/news/elektroauto-dacia-spring-komplett-ueberarbeitet-2609-212752.html",
+      "published_at": "2026-09-08T07:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Dacia Spring komplett überarbeitet Der Elektro-Stadtflitzer Dacia Spring kehrt in neuer Generation zurück - größer, moderner, aber weiterhin erfreulich günstig, obwohl er in Europa gebaut wird. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2d453561470cf70973d59559",
+      "title": "DIY: Das Balkonkraftwerk als E-Auto-Tankstelle",
+      "url": "https://www.golem.de/news/diy-das-balkonkraftwerk-als-e-auto-tankstelle-2609-212716.html",
+      "published_at": "2026-09-08T06:38:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "DIY: Das Balkonkraftwerk als E-Auto-Tankstelle Das E-Auto mit Strom aus eigener Produktion zu laden, war lange Hausbesitzern mit großer Dach-PV vorbehalten. Nun gibt es moderne Akku-Balkonkraftwerke - was geht damit bereits? Ein Erfahrungsbericht von Dennis Ziesecke ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "51359854e69f0f1d517fd4aa",
       "title": "Chinesische Medien berichten von einer „Pause“ bei der Genehmigung neuer Projekte zur Herstellung von Batteriespeichern",
       "url": "https://www.pv-magazine.de/2026/09/07/chinesische-medien-berichten-von-einer-pause-bei-der-genehmigung-neuer-projekte-zur-herstellung-von-batteriespeichern/",
@@ -12,17 +34,6 @@
       "tags": [
         "politik"
       ],
-      "regions": []
-    },
-    {
-      "id": "e6abe78a54e8f6c8f3c4f714",
-      "title": "Ohne Planwirtschaft: Die Zukunft der Mobilität",
-      "url": "https://www.faz.net/aktuell/technik-motor/die-zukunft-der-mobilitaet-201193835.html",
-      "published_at": "2026-09-07T12:25:39Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Ohne Planwirtschaft: Die Zukunft der Mobilität Nicht das Elektroauto belastet die deutsche Industrie. Es ist die Verbotspolitik, die in die Sackgasse führt.",
-      "tags": [],
       "regions": []
     },
     {
@@ -44,28 +55,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektromobilität: VW ID.Polo und Skoda Epiq auf Monate ausverkauft Die günstigen E-Autos aus dem VW-Konzern stoßen auf eine große Nachfrage. Bislang werden über die Kaufprämie eher asiatische Kleinwagen gefördert. Ein Bericht von Friedhelm Greis ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "46ae3c33842522c6bca20dab",
-      "title": "Elektroauto: Audi A2 ist bestellbar zu Preisen bis 51.200 Euro",
-      "url": "https://www.golem.de/news/elektroauto-audi-a2-ist-bestellbar-zu-preisen-bis-51-200-euro-2609-212721.html",
-      "published_at": "2026-09-07T10:54:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Audi A2 ist bestellbar zu Preisen bis 51.200 Euro Der Audi A2 E-Tron ist offiziell, die Auslieferung ist ab Dezember 2026 geplant. Das Elektroauto kommt in insgesamt vier Leistungsvarianten. ( Audi , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f0d694d3cc9e70d851ced682",
-      "title": "Auto: Elektroautos im Betrieb günstiger als Benziner",
-      "url": "https://www.golem.de/news/auto-elektroautos-im-betrieb-guenstiger-als-benziner-2609-212707.html",
-      "published_at": "2026-09-07T09:12:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Auto: Elektroautos im Betrieb günstiger als Benziner Fallende Batteriepreise und steigende Treibstoffkosten machen Elektroautos im Betrieb zur günstigeren Alternative. Auch die Anschaffungskosten sinken. ( Elektroauto , Auto )",
       "tags": [],
       "regions": []
     },
@@ -99,17 +88,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Energy Hubs: Mehr Energieautonomie für Gewerbestandorte Netzengpässe bremsen die Elektrifizierung von Industrie und Logistik. Die Antwort darauf liegt hinter dem Netzanschlusspunkt: Ein sogenannter Energy Hub verbindet Photovoltaik, Batteriespeicher, Verbraucher, Ladeinfrastruktur und Energiemanagement und macht den lokal erzeugten Strom bedarfsgerecht verfügbar. Zusätzlich können leichte Montages",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "709bbecb26e98160bc2e9b68",
-      "title": "Fox ESS steigt mit Siliziumkarbid-Technologie von Infineon die Effizienz seiner Heimspeicher auf bis zu 98,47 Prozent",
-      "url": "https://www.pv-magazine.de/2026/09/04/fox-ess-steigt-mit-siliziumkarbid-technologie-von-infineon-die-effizienz-seiner-heimspeicher-auf-bis-zu-9847-prozent/",
-      "published_at": "2026-09-04T14:08:11Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Fox ESS steigt mit Siliziumkarbid-Technologie von Infineon die Effizienz seiner Heimspeicher auf bis zu 98,47 Prozent Die Schaltverluste in den Batteriespeichern lassen sich mit den Siliziumakarbid-Halbleitern um 70 Prozent reduzieren. Sie sorgen auch mit Top-Side-Kühlung für ein optimiertes thermisches Verhalten sowie eine hohe Systemeffizienz und Leistungsdichte.",
       "tags": [],
       "regions": []
     }

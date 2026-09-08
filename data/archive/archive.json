@@ -2,6 +2,28 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "db5c23179c958cc4d21b1e0d",
+      "title": "Elektroauto: Dacia Spring komplett überarbeitet",
+      "url": "https://www.golem.de/news/elektroauto-dacia-spring-komplett-ueberarbeitet-2609-212752.html",
+      "published_at": "2026-09-08T07:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Dacia Spring komplett überarbeitet Der Elektro-Stadtflitzer Dacia Spring kehrt in neuer Generation zurück - größer, moderner, aber weiterhin erfreulich günstig, obwohl er in Europa gebaut wird. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2d453561470cf70973d59559",
+      "title": "DIY: Das Balkonkraftwerk als E-Auto-Tankstelle",
+      "url": "https://www.golem.de/news/diy-das-balkonkraftwerk-als-e-auto-tankstelle-2609-212716.html",
+      "published_at": "2026-09-08T06:38:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "DIY: Das Balkonkraftwerk als E-Auto-Tankstelle Das E-Auto mit Strom aus eigener Produktion zu laden, war lange Hausbesitzern mit großer Dach-PV vorbehalten. Nun gibt es moderne Akku-Balkonkraftwerke - was geht damit bereits? Ein Erfahrungsbericht von Dennis Ziesecke ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "51359854e69f0f1d517fd4aa",
       "title": "Chinesische Medien berichten von einer „Pause“ bei der Genehmigung neuer Projekte zur Herstellung von Batteriespeichern",
       "url": "https://www.pv-magazine.de/2026/09/07/chinesische-medien-berichten-von-einer-pause-bei-der-genehmigung-neuer-projekte-zur-herstellung-von-batteriespeichern/",
