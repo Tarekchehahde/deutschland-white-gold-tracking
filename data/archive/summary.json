@@ -1,16 +1,38 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-07T21:32:03Z",
+  "generated_at_utc": "2026-09-08T09:40:31Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 603,
+  "total_in_archive": 605,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 46
+    "2026-09": 48
   },
   "recent_for_ui": [
+    {
+      "id": "db5c23179c958cc4d21b1e0d",
+      "title": "Elektroauto: Dacia Spring komplett überarbeitet",
+      "url": "https://www.golem.de/news/elektroauto-dacia-spring-komplett-ueberarbeitet-2609-212752.html",
+      "published_at": "2026-09-08T07:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Dacia Spring komplett überarbeitet Der Elektro-Stadtflitzer Dacia Spring kehrt in neuer Generation zurück - größer, moderner, aber weiterhin erfreulich günstig, obwohl er in Europa gebaut wird. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2d453561470cf70973d59559",
+      "title": "DIY: Das Balkonkraftwerk als E-Auto-Tankstelle",
+      "url": "https://www.golem.de/news/diy-das-balkonkraftwerk-als-e-auto-tankstelle-2609-212716.html",
+      "published_at": "2026-09-08T06:38:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "DIY: Das Balkonkraftwerk als E-Auto-Tankstelle Das E-Auto mit Strom aus eigener Produktion zu laden, war lange Hausbesitzern mit großer Dach-PV vorbehalten. Nun gibt es moderne Akku-Balkonkraftwerke - was geht damit bereits? Ein Erfahrungsbericht von Dennis Ziesecke ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "51359854e69f0f1d517fd4aa",
       "title": "Chinesische Medien berichten von einer „Pause“ bei der Genehmigung neuer Projekte zur Herstellung von Batteriespeichern",
@@ -4557,28 +4579,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Mercedes-Benz CLA im Praxistest: Das Ende der Reichweitenangst Die Kombination von niedrigem Verbrauch und hoher Ladeleistung hat uns beim Mercedes CLA überzeugt. Darauf ist die Software aber noch nicht eingestellt. Ein Praxistest von Friedhelm Greis ( Elektroauto , Akku )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e63c0d55bfb892db6b88f8ef",
-      "title": "Eon will standardisierte FCAs für Batteriespeicher bis Jahresende deutschlandweit ausrollen – BVES fordert Branchendialog",
-      "url": "https://www.pv-magazine.de/2026/06/19/eon-will-standardisierte-fcas-fuer-batteriespeicher-bis-jahresende-deutschlandweit-ausrollen-bves-fordert-branchendialog/",
-      "published_at": "2026-06-19T09:57:25Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Eon will standardisierte FCAs für Batteriespeicher bis Jahresende deutschlandweit ausrollen – BVES fordert Branchendialog Nach einem aus Sicht der Eon-Verteilnetzbetreiber erfolgreichen Test einer flexiblen Netzanschlussvereinbarung für den Batteriespeicher von Eco Stor in Schleswig Holstein, kündigt der Energiekonzern einen deutschlandweiten Rollout des Modells an. Der BVES hält FCAs für ein wich",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f81164dff40d7a48ed887db7",
-      "title": "Tesla: Schweden will gegen EU-weite Zulassung von FSD stimmen",
-      "url": "https://www.golem.de/news/tesla-schweden-will-gegen-eu-weite-zulassung-von-fsd-stimmen-2606-209961.html",
-      "published_at": "2026-06-19T09:49:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla: Schweden will gegen EU-weite Zulassung von FSD stimmen Teslas teilautonomer Fahrmodus FSD Supervised soll nach Europa kommen - Schweden hat aber etwas dagegen. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     }
