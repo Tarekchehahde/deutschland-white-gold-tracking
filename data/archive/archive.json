@@ -2,6 +2,50 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "3e85704525f3cfc638b558c1",
+      "title": "Tim Höttges: Telekom bereitet sich auf Bewerbung für KI-Gigafactory vor",
+      "url": "https://www.golem.de/news/tim-hoettges-telekom-bereitet-sich-auf-bewerbung-fuer-ki-gigafactory-vor-2609-212783.html",
+      "published_at": "2026-09-08T15:18:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tim Höttges: Telekom bereitet sich auf Bewerbung für KI-Gigafactory vor Telekom-Chef Tim Höttges verhandelt um massive Subventionen und staatliche Energierabatte. Es geht um das Aufteilen öffentlicher Fördergelder. ( Telekom , Wirtschaft )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c0ab34f40b991afedfcacc4d",
+      "title": "21 Megawattstunden-Speicher nutzt freiwerdende Anschlusskapazität",
+      "url": "https://www.pv-magazine.de/2026/09/08/21-megawattstunden-speicher-nutzt-freiwerdende-anschlusskapazitaet/",
+      "published_at": "2026-09-08T15:03:09Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "21 Megawattstunden-Speicher nutzt freiwerdende Anschlusskapazität Der Rückgang energieintensiver Fertigung eröffnet in Aachen neue Anschlussmöglichkeiten für große Batteriespeicher. Bis zum Jahresende soll die Inbetriebnahme des Batteriespeichers mit 10 Megawatt Leistung und 21 Megawattstunden Kapazität von Voltfang auf dem ehemaligen Philips-Gelände erfolgen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c62d1d5aa98179d76ffb986d",
+      "title": "Aufschwung: Auf Pump",
+      "url": "https://www.faz.net/aktuell/technik-motor/volkswagen-und-die-schwache-konjunktur-schwung-auf-pump-201193963.html",
+      "published_at": "2026-09-08T11:11:28Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Aufschwung: Auf Pump Die Wirtschaft bekommt Rückenwind. Die Zulassungszahlen der Elektroautos steigen rasant. Das kann, das wird sich wahrscheinlich bald als trügerischer Moment herausstellen. VW zeigt, es herrscht Alarmstufe Rot.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "48adca99b86f2c45e8426338",
+      "title": "Suena vermarktet Co-Location-Graustromspeicher mit FCA",
+      "url": "https://www.pv-magazine.de/2026/09/08/suena-vermarktet-co-location-graustromspeicher-mit-fca/",
+      "published_at": "2026-09-08T10:07:31Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Suena vermarktet Co-Location-Graustromspeicher mit FCA Die Leistungsbegrenzungen für den Batteriespeicher, die Allgäu Netz definiert hat, fließen über eine API in die Anlagensteuerung und Handelsoptimierung ein. Suena will die Grundlage für die Vermarktung weiterer Batteriespeicher mit flexiblen Netzanschlüssen legen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "db5c23179c958cc4d21b1e0d",
       "title": "Elektroauto: Dacia Spring komplett überarbeitet",
       "url": "https://www.golem.de/news/elektroauto-dacia-spring-komplett-ueberarbeitet-2609-212752.html",

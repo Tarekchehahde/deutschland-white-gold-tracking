@@ -2,6 +2,50 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "3e85704525f3cfc638b558c1",
+      "title": "Tim Höttges: Telekom bereitet sich auf Bewerbung für KI-Gigafactory vor",
+      "url": "https://www.golem.de/news/tim-hoettges-telekom-bereitet-sich-auf-bewerbung-fuer-ki-gigafactory-vor-2609-212783.html",
+      "published_at": "2026-09-08T15:18:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tim Höttges: Telekom bereitet sich auf Bewerbung für KI-Gigafactory vor Telekom-Chef Tim Höttges verhandelt um massive Subventionen und staatliche Energierabatte. Es geht um das Aufteilen öffentlicher Fördergelder. ( Telekom , Wirtschaft )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c0ab34f40b991afedfcacc4d",
+      "title": "21 Megawattstunden-Speicher nutzt freiwerdende Anschlusskapazität",
+      "url": "https://www.pv-magazine.de/2026/09/08/21-megawattstunden-speicher-nutzt-freiwerdende-anschlusskapazitaet/",
+      "published_at": "2026-09-08T15:03:09Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "21 Megawattstunden-Speicher nutzt freiwerdende Anschlusskapazität Der Rückgang energieintensiver Fertigung eröffnet in Aachen neue Anschlussmöglichkeiten für große Batteriespeicher. Bis zum Jahresende soll die Inbetriebnahme des Batteriespeichers mit 10 Megawatt Leistung und 21 Megawattstunden Kapazität von Voltfang auf dem ehemaligen Philips-Gelände erfolgen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c62d1d5aa98179d76ffb986d",
+      "title": "Aufschwung: Auf Pump",
+      "url": "https://www.faz.net/aktuell/technik-motor/volkswagen-und-die-schwache-konjunktur-schwung-auf-pump-201193963.html",
+      "published_at": "2026-09-08T11:11:28Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Aufschwung: Auf Pump Die Wirtschaft bekommt Rückenwind. Die Zulassungszahlen der Elektroautos steigen rasant. Das kann, das wird sich wahrscheinlich bald als trügerischer Moment herausstellen. VW zeigt, es herrscht Alarmstufe Rot.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "48adca99b86f2c45e8426338",
+      "title": "Suena vermarktet Co-Location-Graustromspeicher mit FCA",
+      "url": "https://www.pv-magazine.de/2026/09/08/suena-vermarktet-co-location-graustromspeicher-mit-fca/",
+      "published_at": "2026-09-08T10:07:31Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Suena vermarktet Co-Location-Graustromspeicher mit FCA Die Leistungsbegrenzungen für den Batteriespeicher, die Allgäu Netz definiert hat, fließen über eine API in die Anlagensteuerung und Handelsoptimierung ein. Suena will die Grundlage für die Vermarktung weiterer Batteriespeicher mit flexiblen Netzanschlüssen legen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "db5c23179c958cc4d21b1e0d",
       "title": "Elektroauto: Dacia Spring komplett überarbeitet",
       "url": "https://www.golem.de/news/elektroauto-dacia-spring-komplett-ueberarbeitet-2609-212752.html",
@@ -48,28 +92,6 @@
       "regions": []
     },
     {
-      "id": "a7309778933325e0130067fe",
-      "title": "Elektromobilität: VW ID.Polo und Skoda Epiq auf Monate ausverkauft",
-      "url": "https://www.golem.de/news/elektromobilitaet-vw-id-polo-und-skoda-epiq-auf-monate-ausverkauft-2609-212725.html",
-      "published_at": "2026-09-07T11:56:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektromobilität: VW ID.Polo und Skoda Epiq auf Monate ausverkauft Die günstigen E-Autos aus dem VW-Konzern stoßen auf eine große Nachfrage. Bislang werden über die Kaufprämie eher asiatische Kleinwagen gefördert. Ein Bericht von Friedhelm Greis ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "16b7aceaabded3d9646b79a7",
-      "title": "Audi lässt den A2 als effizientes Elektroauto wiederaufleben",
-      "url": "https://www.heise.de/news/Elektroauto-Audi-A2-e-tron-Weltpremiere-des-Effizienzmodells-11436465.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-07T09:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Audi lässt den A2 als effizientes Elektroauto wiederaufleben Audi stellt mit dem A2 e-tron seinen sparsamsten Stromer vor: 12,8 kWh/100 km, LFP-Batterie und bis zu 500 km Reichweite. Gebaut wird er in Ingolstadt.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "3d5f01178aceb1f62f5d33f3",
       "title": "Elektromobilität: Neue E-Autos laden schneller – Infrastruktur muss nachziehen",
       "url": "https://www.rnd.de/wirtschaft/elektromobilitaet-neue-e-autos-laden-schneller-infrastruktur-muss-nachziehen-VXZVHFJJNNASVH6VB5L2HM2UUI.html",
@@ -77,17 +99,6 @@
       "source_id": "rnd-wirtschaft",
       "language": "de",
       "summary": "Elektromobilität: Neue E-Autos laden schneller – Infrastruktur muss nachziehen Neue E-Autos können immer höhere Ladeleistungen aufnehmen, viele Ladeparks müssen deshalb modernisiert werden. Doch stärkere Netzanschlüsse dauern teils Jahre. Wo die Branche jetzt nachbessern will.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "87dffa6610e2ded784f67941",
-      "title": "Energy Hubs: Mehr Energieautonomie für Gewerbestandorte",
-      "url": "https://www.pv-magazine.de/2026/09/07/energy-hubs-mehr-energieautonomie-fuer-gewerbestandorte/",
-      "published_at": "2026-09-07T07:50:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Energy Hubs: Mehr Energieautonomie für Gewerbestandorte Netzengpässe bremsen die Elektrifizierung von Industrie und Logistik. Die Antwort darauf liegt hinter dem Netzanschlusspunkt: Ein sogenannter Energy Hub verbindet Photovoltaik, Batteriespeicher, Verbraucher, Ladeinfrastruktur und Energiemanagement und macht den lokal erzeugten Strom bedarfsgerecht verfügbar. Zusätzlich können leichte Montages",
       "tags": [],
       "regions": []
     }
