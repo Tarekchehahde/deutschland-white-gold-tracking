@@ -2,6 +2,41 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "9db15c8279c880cd1a9e83c7",
+      "title": "Sonntag Energy übernimmt Agri-Photovoltaik-Geschäftsbereich von Grid Parity",
+      "url": "https://www.pv-magazine.de/2026/09/09/sonntag-energy-uebernimmt-agri-photovoltaik-geschaeftsbereich-von-grid-parity/",
+      "published_at": "2026-09-09T09:34:13Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sonntag Energy übernimmt Agri-Photovoltaik-Geschäftsbereich von Grid Parity Das Unternehmen will die bestehenden Agri-Photovoltaik-Anlagen weiterentwickeln. Sonntag Energy bringt dafür Photovoltaik, Batteriespeicher und Energiehandel zusammen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "1be0452b864a909d880d1d15",
+      "title": "Boom der Batteriespeicher",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/batterie-speicher-108.html",
+      "published_at": "2026-09-09T09:26:04Z",
+      "source_id": "tagesschau-wirtschaft-technologie",
+      "language": "de",
+      "summary": "Boom der Batteriespeicher In Deutschland entstehen immer mehr große Batteriespeicher, die Schwankungen im Stromnetz ausgleichen. Jüngstes Beispiel ist Aachen. Wo einst Elektronik produziert wurde, werden Riesen-Akkus errichtet. Von Philipp Wundersee.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "df220f71434da4ebb129641a",
+      "title": "Jetzt mit Allrad: Mercedes-Benz VLE mit größerer Modellpalette",
+      "url": "https://www.golem.de/news/jetzt-mit-allrad-mercedes-benz-vle-mit-groesserer-modellpalette-2609-212796.html",
+      "published_at": "2026-09-09T07:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Jetzt mit Allrad: Mercedes-Benz VLE mit größerer Modellpalette Der elektrische VLE von Mercedes-Benz ist ab sofort auch mit Allradantrieb bestellbar. Neu sind zudem günstigere Preise sowie mehr Ausstattungs- und Paketoptionen. ( Mercedes Benz , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "3e85704525f3cfc638b558c1",
       "title": "Tim Höttges: Telekom bereitet sich auf Bewerbung für KI-Gigafactory vor",
       "url": "https://www.golem.de/news/tim-hoettges-telekom-bereitet-sich-auf-bewerbung-fuer-ki-gigafactory-vor-2609-212783.html",

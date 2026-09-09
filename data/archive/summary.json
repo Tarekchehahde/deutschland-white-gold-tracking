@@ -1,16 +1,51 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-08T21:10:21Z",
+  "generated_at_utc": "2026-09-09T09:44:53Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 609,
+  "total_in_archive": 612,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 52
+    "2026-09": 55
   },
   "recent_for_ui": [
+    {
+      "id": "9db15c8279c880cd1a9e83c7",
+      "title": "Sonntag Energy übernimmt Agri-Photovoltaik-Geschäftsbereich von Grid Parity",
+      "url": "https://www.pv-magazine.de/2026/09/09/sonntag-energy-uebernimmt-agri-photovoltaik-geschaeftsbereich-von-grid-parity/",
+      "published_at": "2026-09-09T09:34:13Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sonntag Energy übernimmt Agri-Photovoltaik-Geschäftsbereich von Grid Parity Das Unternehmen will die bestehenden Agri-Photovoltaik-Anlagen weiterentwickeln. Sonntag Energy bringt dafür Photovoltaik, Batteriespeicher und Energiehandel zusammen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "1be0452b864a909d880d1d15",
+      "title": "Boom der Batteriespeicher",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/batterie-speicher-108.html",
+      "published_at": "2026-09-09T09:26:04Z",
+      "source_id": "tagesschau-wirtschaft-technologie",
+      "language": "de",
+      "summary": "Boom der Batteriespeicher In Deutschland entstehen immer mehr große Batteriespeicher, die Schwankungen im Stromnetz ausgleichen. Jüngstes Beispiel ist Aachen. Wo einst Elektronik produziert wurde, werden Riesen-Akkus errichtet. Von Philipp Wundersee.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "df220f71434da4ebb129641a",
+      "title": "Jetzt mit Allrad: Mercedes-Benz VLE mit größerer Modellpalette",
+      "url": "https://www.golem.de/news/jetzt-mit-allrad-mercedes-benz-vle-mit-groesserer-modellpalette-2609-212796.html",
+      "published_at": "2026-09-09T07:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Jetzt mit Allrad: Mercedes-Benz VLE mit größerer Modellpalette Der elektrische VLE von Mercedes-Benz ist ab sofort auch mit Allradantrieb bestellbar. Neu sind zudem günstigere Preise sowie mehr Ausstattungs- und Paketoptionen. ( Mercedes Benz , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "3e85704525f3cfc638b558c1",
       "title": "Tim Höttges: Telekom bereitet sich auf Bewerbung für KI-Gigafactory vor",
@@ -4539,46 +4574,6 @@
         "politik"
       ],
       "regions": []
-    },
-    {
-      "id": "0ef3e0f52b4a77940fd5eae3",
-      "title": "heise+ | Mit dem Elektroauto stressfrei in den Urlaub: Wie Sie in Europa günstig laden",
-      "url": "https://www.heise.de/ratgeber/Mit-dem-Elektroauto-stressfrei-in-den-Urlaub-Wie-Sie-in-Europa-guenstig-laden-11307461.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-06-22T05:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Mit dem Elektroauto stressfrei in den Urlaub: Wie Sie in Europa günstig laden Der Urlaub mit dem Elektroauto in Europa kann teuer werden. Wir zeigen, wie Sie Ladekosten im Ausland senken und teure Überraschungen vermeiden.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5f380d14dcd441cbc72da6e1",
-      "title": "Lyten übernimmt Northvolt-Gelände wohl für 60 Millionen Euro",
-      "url": "https://www.heise.de/news/Lyten-uebernimmt-Northvolt-Gelaende-wohl-fuer-60-Millionen-Euro-11339397.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-06-20T15:36:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Lyten übernimmt Northvolt-Gelände wohl für 60 Millionen Euro Lyten will auf dem früheren Northvolt-Gelände eine Batteriezellenfabrik errichten. Für die Übernahme wurde wohl ein Preis von rund 60 Millionen Euro vereinbart.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "721be6f30f830be4167c6dcf",
-      "title": "Umstrittene Pläne für Lithium-Abbau im Erzgebirge",
-      "url": "https://www.tagesschau.de/wirtschaft/energie/lithium-tschechien-erzgebirge-100.html",
-      "published_at": "2026-06-20T13:18:11Z",
-      "source_id": "tagesschau-wirtschaft",
-      "language": "de",
-      "summary": "Umstrittene Pläne für Lithium-Abbau im Erzgebirge Lithium wird für die Batterie-Produktion gebraucht. Zu Europas größten Lagerstätten gehört das Erzgebirge. Die tschechische Regierung treibt dort ein Abbauprojekt voran, aber die Sorgen vor Ort sind groß. Von Marianne Allweiss.",
-      "tags": [
-        "exploration",
-        "politik"
-      ],
-      "regions": [
-        "DE-SN"
-      ]
     }
   ]
 }
