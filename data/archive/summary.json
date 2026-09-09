@@ -1,16 +1,71 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-09T09:44:53Z",
+  "generated_at_utc": "2026-09-09T20:56:47Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 612,
+  "total_in_archive": 617,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 55
+    "2026-09": 60
   },
   "recent_for_ui": [
+    {
+      "id": "f7ed6c0c30ba100bf97c536f",
+      "title": "Enerparc-Schwestergesellschaft meldet Insolvenz in Eigenverwaltung an",
+      "url": "https://www.pv-magazine.de/2026/09/09/enerparc-schwestergesellschaft-meldet-insolvenz-in-eigenverwaltung-an/",
+      "published_at": "2026-09-09T15:41:59Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enerparc-Schwestergesellschaft meldet Insolvenz in Eigenverwaltung an Pvwerk ist auf die Installation von Photovoltaik-Kraftwerken und Batteriespeichern spezialisiert. Mit Hilfe des Verfahrens sollen möglichst viele der etwa 100 im Bau befindliche Solarparks und Batteriespeicher, die im Auftrag der Enerparc AG errichtet werden, ans Netz gebracht werden.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "069debd98eede04f622fcb61",
+      "title": "Fraunhofer ISE optimiert Batteriezellen – mehr Energie bei gleichem Gewicht",
+      "url": "https://www.pv-magazine.de/2026/09/09/fraunhofer-ise-optimiert-batteriezellen-mehr-energie-bei-gleichem-gewicht/",
+      "published_at": "2026-09-09T13:40:36Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fraunhofer ISE optimiert Batteriezellen – mehr Energie bei gleichem Gewicht Die Freiburger Forscher haben den Aufbau der Elektroden so verändert, dass 10 bis 15 Prozent mehr Energie gespeichert werden können. Die Erfolge konnten auch auf Zink- und Natrium-Ionen-Batteriezellen übertragen werden. Die Forscher sehen zudem gute Perspektiven für eine Batteriezellfertigung in Deutschland.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "bf28dc0348f9a202ba5de842",
+      "title": "Größter Batteriespeicher der Schweiz geht ans Netz",
+      "url": "https://www.pv-magazine.de/2026/09/09/groesster-batteriespeicher-der-schweiz-geht-ans-netz/",
+      "published_at": "2026-09-09T10:30:23Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Größter Batteriespeicher der Schweiz geht ans Netz Axpo und Energie Uri haben in Plattischachen unmittelbarer Nähe zwei Speicherprojekte realisiert, die zusammen auf 58,4 Megawatt Leistung kommen. Axpo hat in Frankreich, Deutschland, Italien, Polen und Rumänien zudem weitere 300 Megawatt an Speicherprojekten im Bau.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "45586e7ee5c195b1935f20e5",
+      "title": "Tesla: Cybercabs haben Touchscreen-Steuerung zum Fahren",
+      "url": "https://www.golem.de/news/tesla-cybercabs-haben-touchscreen-steuerung-zum-fahren-2609-212817.html",
+      "published_at": "2026-09-09T10:29:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Cybercabs haben Touchscreen-Steuerung zum Fahren Teslas Cybercabs haben kein Lenkrad - und können doch manuell gesteuert werden. Einem Kunden wurde eine Touchscreen-Steuerung angezeigt. ( Cybercab , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "042c5e722c485abaf3887415",
+      "title": "BMW iX3 im Praxistest: Ein gutes Argument für das Verbrennerverbot",
+      "url": "https://www.golem.de/news/bmw-ix3-im-praxistest-ein-gutes-argument-fuer-das-verbrennerverbot-2609-212787.html",
+      "published_at": "2026-09-09T10:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "BMW iX3 im Praxistest: Ein gutes Argument für das Verbrennerverbot BMW liefert mit dem iX3 gute Argumente gegen die Technologieoffenheit. Allerdings ist der Verbrauch auf der Autobahn nicht so niedrig wie erwartet. Ein Test von Friedhelm Greis ( Elektroauto , Test )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "9db15c8279c880cd1a9e83c7",
       "title": "Sonntag Energy übernimmt Agri-Photovoltaik-Geschäftsbereich von Grid Parity",
@@ -29,7 +84,7 @@
       "title": "Boom der Batteriespeicher",
       "url": "https://www.tagesschau.de/wirtschaft/technologie/batterie-speicher-108.html",
       "published_at": "2026-09-09T09:26:04Z",
-      "source_id": "tagesschau-wirtschaft-technologie",
+      "source_id": "tagesschau-wirtschaft",
       "language": "de",
       "summary": "Boom der Batteriespeicher In Deutschland entstehen immer mehr große Batteriespeicher, die Schwankungen im Stromnetz ausgleichen. Jüngstes Beispiel ist Aachen. Wo einst Elektronik produziert wurde, werden Riesen-Akkus errichtet. Von Philipp Wundersee.",
       "tags": [],
@@ -4514,65 +4569,6 @@
       "language": "de",
       "summary": "Capac Energy baut Zink-Bromid-Großspeicher in Bruchsal Im badischen Bruchsal soll einer der ersten Großspeicher auf Basis von Zink-Bromid-Batterien in Europa entstehen. Parallel haben Capac Energy und der US-Hersteller Eos Energy einen exklusiven Liefervertrag über zwei Gigawattstunden Speicherkapazität für die DACH-Region abgeschlossen und wollen damit eine Alternative zu Lithium-Ionen-Großspeich",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9a69430b3a4761880541a577",
-      "title": "Engie sichert sich in Deutschland Flexibilität aus 126 Megawatt Batteriespeichern von Flower",
-      "url": "https://www.pv-magazine.de/2026/06/22/engie-sichert-sich-in-deutschland-flexibilitaet-aus-126-megawatt-batteriespeichern-von-flower/",
-      "published_at": "2026-06-22T10:21:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Engie sichert sich in Deutschland Flexibilität aus 126 Megawatt Batteriespeichern von Flower Eine siebenjährige Vereinbarung zwischen Engie und dem schwedischen Unternehmen Flower soll den Bau und die Finanzierung mehrerer Batteriespeicherprojekte in Deutschland ermöglichen. Die Kooperation umfasst zunächst 126 Megawatt flexibel einsetzbare Speicherleistung und startet Anfang 2029.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "040c22e112beed0eb0322410",
-      "title": "Autopilot aktiviert: Tesla-Fahrer kracht in Wohnhaus",
-      "url": "https://www.golem.de/news/autopilot-aktiviert-tesla-fahrer-kracht-in-wohnhaus-2606-210027.html",
-      "published_at": "2026-06-22T10:13:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autopilot aktiviert: Tesla-Fahrer kracht in Wohnhaus Bei dem Unfall wurde die Bewohnerin des Hauses getötet. Laut dem Fahrer war Teslas Autopilot aktiviert. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "06603603093b7945ee774a5f",
-      "title": "BSW-Solar: Trotz Speicherboom ist Realisierung vieler Großprojekte nicht gesichert",
-      "url": "https://www.pv-magazine.de/2026/06/22/bsw-solar-trotz-speicherboom-ist-realisierung-vieler-grossprojekte-nicht-gesichert/",
-      "published_at": "2026-06-22T09:41:42Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "BSW-Solar: Trotz Speicherboom ist Realisierung vieler Großprojekte nicht gesichert Der Markt für Batteriespeicher wächst in Deutschland derzeit mit hoher Dynamik. Nach einer Analyse von Enervis könnte der Ausbau von Großspeichern in den kommenden Jahren jedoch deutlich hinter den Planungen zurückbleiben. Der Bundesverband Solarwirtschaft fordert deshalb den raschen Abbau regulatorischer Hemmnisse.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d6986741ac19ea53c81013ed",
-      "title": "The Mobility House Energy vermarktet mehr als ein Gigawatt Speicherleistung",
-      "url": "https://www.pv-magazine.de/2026/06/22/the-mobility-house-energy-vermarktet-mehr-als-ein-gigawatt-speicherleistung/",
-      "published_at": "2026-06-22T07:22:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "The Mobility House Energy vermarktet mehr als ein Gigawatt Speicherleistung Die Leistung verteilt sich auf 47 Batteriespeicher in vier Ländern. 2016 begann The Mobility House Energy mit der Vermarktung von rund 12 Megawatt aus 1000 gebrauchten Fahrzeugbatterien.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d48617cb21821eb653a95c57",
-      "title": "Mercedes-Aufsichtsratschef verteidigt Verbrenner-Kurs",
-      "url": "https://www.pfalz-express.de/mercedes-aufsichtsratschef-verteidigt-verbrenner-kurs/",
-      "published_at": "2026-06-22T07:19:59Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Mercedes-Aufsichtsratschef verteidigt Verbrenner-Kurs Stuttgart &#8211; Mercedes-Aufsichtsratschef Martin Brudermüller verteidigt den Verbrenner-Kurs von Konzernchef Ola Källenius. Brudermüller sagte dem &#8222;Handelsblatt&#8220;, Mercedes habe nicht seine grundsätzliche Strategie geändert, vollelektrisch werden zu wollen. Die Umsetzung dauere nur länger. Källenius hatte vor einigen Jahren angekü",
-      "tags": [
-        "politik"
-      ],
       "regions": []
     }
   ]
