@@ -2,6 +2,41 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "9db15c8279c880cd1a9e83c7",
+      "title": "Sonntag Energy übernimmt Agri-Photovoltaik-Geschäftsbereich von Grid Parity",
+      "url": "https://www.pv-magazine.de/2026/09/09/sonntag-energy-uebernimmt-agri-photovoltaik-geschaeftsbereich-von-grid-parity/",
+      "published_at": "2026-09-09T09:34:13Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sonntag Energy übernimmt Agri-Photovoltaik-Geschäftsbereich von Grid Parity Das Unternehmen will die bestehenden Agri-Photovoltaik-Anlagen weiterentwickeln. Sonntag Energy bringt dafür Photovoltaik, Batteriespeicher und Energiehandel zusammen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "1be0452b864a909d880d1d15",
+      "title": "Boom der Batteriespeicher",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/batterie-speicher-108.html",
+      "published_at": "2026-09-09T09:26:04Z",
+      "source_id": "tagesschau-wirtschaft-technologie",
+      "language": "de",
+      "summary": "Boom der Batteriespeicher In Deutschland entstehen immer mehr große Batteriespeicher, die Schwankungen im Stromnetz ausgleichen. Jüngstes Beispiel ist Aachen. Wo einst Elektronik produziert wurde, werden Riesen-Akkus errichtet. Von Philipp Wundersee.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "df220f71434da4ebb129641a",
+      "title": "Jetzt mit Allrad: Mercedes-Benz VLE mit größerer Modellpalette",
+      "url": "https://www.golem.de/news/jetzt-mit-allrad-mercedes-benz-vle-mit-groesserer-modellpalette-2609-212796.html",
+      "published_at": "2026-09-09T07:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Jetzt mit Allrad: Mercedes-Benz VLE mit größerer Modellpalette Der elektrische VLE von Mercedes-Benz ist ab sofort auch mit Allradantrieb bestellbar. Neu sind zudem günstigere Preise sowie mehr Ausstattungs- und Paketoptionen. ( Mercedes Benz , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "3e85704525f3cfc638b558c1",
       "title": "Tim Höttges: Telekom bereitet sich auf Bewerbung für KI-Gigafactory vor",
       "url": "https://www.golem.de/news/tim-hoettges-telekom-bereitet-sich-auf-bewerbung-fuer-ki-gigafactory-vor-2609-212783.html",
@@ -24,17 +59,6 @@
       "regions": []
     },
     {
-      "id": "c62d1d5aa98179d76ffb986d",
-      "title": "Aufschwung: Auf Pump",
-      "url": "https://www.faz.net/aktuell/technik-motor/volkswagen-und-die-schwache-konjunktur-schwung-auf-pump-201193963.html",
-      "published_at": "2026-09-08T11:11:28Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Aufschwung: Auf Pump Die Wirtschaft bekommt Rückenwind. Die Zulassungszahlen der Elektroautos steigen rasant. Das kann, das wird sich wahrscheinlich bald als trügerischer Moment herausstellen. VW zeigt, es herrscht Alarmstufe Rot.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "48adca99b86f2c45e8426338",
       "title": "Suena vermarktet Co-Location-Graustromspeicher mit FCA",
       "url": "https://www.pv-magazine.de/2026/09/08/suena-vermarktet-co-location-graustromspeicher-mit-fca/",
@@ -42,63 +66,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Suena vermarktet Co-Location-Graustromspeicher mit FCA Die Leistungsbegrenzungen für den Batteriespeicher, die Allgäu Netz definiert hat, fließen über eine API in die Anlagensteuerung und Handelsoptimierung ein. Suena will die Grundlage für die Vermarktung weiterer Batteriespeicher mit flexiblen Netzanschlüssen legen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "db5c23179c958cc4d21b1e0d",
-      "title": "Elektroauto: Dacia Spring komplett überarbeitet",
-      "url": "https://www.golem.de/news/elektroauto-dacia-spring-komplett-ueberarbeitet-2609-212752.html",
-      "published_at": "2026-09-08T07:14:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Dacia Spring komplett überarbeitet Der Elektro-Stadtflitzer Dacia Spring kehrt in neuer Generation zurück - größer, moderner, aber weiterhin erfreulich günstig, obwohl er in Europa gebaut wird. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2d453561470cf70973d59559",
-      "title": "DIY: Das Balkonkraftwerk als E-Auto-Tankstelle",
-      "url": "https://www.golem.de/news/diy-das-balkonkraftwerk-als-e-auto-tankstelle-2609-212716.html",
-      "published_at": "2026-09-08T06:38:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "DIY: Das Balkonkraftwerk als E-Auto-Tankstelle Das E-Auto mit Strom aus eigener Produktion zu laden, war lange Hausbesitzern mit großer Dach-PV vorbehalten. Nun gibt es moderne Akku-Balkonkraftwerke - was geht damit bereits? Ein Erfahrungsbericht von Dennis Ziesecke ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "51359854e69f0f1d517fd4aa",
-      "title": "Chinesische Medien berichten von einer „Pause“ bei der Genehmigung neuer Projekte zur Herstellung von Batteriespeichern",
-      "url": "https://www.pv-magazine.de/2026/09/07/chinesische-medien-berichten-von-einer-pause-bei-der-genehmigung-neuer-projekte-zur-herstellung-von-batteriespeichern/",
-      "published_at": "2026-09-07T14:45:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Chinesische Medien berichten von einer „Pause“ bei der Genehmigung neuer Projekte zur Herstellung von Batteriespeichern Obwohl noch kein Erlass oder Rundschreiben veröffentlicht wurde, folgt diese Maßnahme den bisherigen behördlichen Vorgehensweisen.",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "11ed975d16f6e682fa039d25",
-      "title": "Bereits 230 Millionen Euro an Fördermitteln für Elektroautos ausbezahlt",
-      "url": "https://www.pv-magazine.de/2026/09/07/bereits-230-millionen-euro-an-foerdermitteln-fuer-elektroautos-ausbezahlt/",
-      "published_at": "2026-09-07T12:20:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Bereits 230 Millionen Euro an Fördermitteln für Elektroautos ausbezahlt Bis zum 1. September hat das BAFA fast 52.500 Anträge bewilligt. Etwa 48.000 davon für reine Batterie-Elektrofahrzeuge. Vor allem die Modelle von Volkswagen und Tesla profitierten von dem Zuschuss.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3d5f01178aceb1f62f5d33f3",
-      "title": "Elektromobilität: Neue E-Autos laden schneller – Infrastruktur muss nachziehen",
-      "url": "https://www.rnd.de/wirtschaft/elektromobilitaet-neue-e-autos-laden-schneller-infrastruktur-muss-nachziehen-VXZVHFJJNNASVH6VB5L2HM2UUI.html",
-      "published_at": "2026-09-07T08:26:38Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Elektromobilität: Neue E-Autos laden schneller – Infrastruktur muss nachziehen Neue E-Autos können immer höhere Ladeleistungen aufnehmen, viele Ladeparks müssen deshalb modernisiert werden. Doch stärkere Netzanschlüsse dauern teils Jahre. Wo die Branche jetzt nachbessern will.",
       "tags": [],
       "regions": []
     }
