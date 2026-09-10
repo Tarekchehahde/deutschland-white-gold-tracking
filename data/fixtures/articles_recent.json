@@ -2,6 +2,39 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "65547e2d2962482f31085093",
+      "title": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
+      "url": "https://www.heise.de/hintergrund/Auswahl-bei-der-Zellchemie-im-gleichen-E-Auto-Oft-ist-die-solide-Basis-besser-11441132.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-09-10T17:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich Hersteller bieten E-Autos oft mit unterschiedlichen Batterietypen an. LFP-Zellen sind langlebiger und günstiger, NMC-Zellen bieten mehr Reichweite.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a6488f6986e4226ee7ab0ce0",
+      "title": "Anzeige: Anker SOLIX Solarbank zum Amazon-Sparpreis",
+      "url": "https://www.golem.de/news/anzeige-anker-solix-solarbank-zum-amazon-sparpreis-2609-212890.html",
+      "published_at": "2026-09-10T15:23:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Anker SOLIX Solarbank zum Amazon-Sparpreis Mit einem Batteriespeicher lässt sich die Effizienz eines Balkonkraftwerks steigern. Amazon bietet die Anker SOLIX 2 Plus Solarbank aktuell mit rund 50 Euro Rabatt an. ( Technik/Hardware , Powerstation )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "83adb1c087a4d2ae70ff0e56",
+      "title": "Finale Investitionsentscheidung für 254-Megawatt-Batteriespeicher in Brunsbüttel",
+      "url": "https://www.pv-magazine.de/2026/09/10/finale-investitionsentscheidung-fuer-254-megawatt-batteriespeicher-in-brunsbuettel/",
+      "published_at": "2026-09-10T10:42:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Finale Investitionsentscheidung für 254-Megawatt-Batteriespeicher in Brunsbüttel Vattenfall errichtet am ehemaligen Kernkraftwerksstandort einen der bislang größten Batteriespeicher Deutschlands. Als 4-Stunden-Speicher ist die Anlage auf 1000 Megawattstunden Kapazität ausgelegt.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "61aeb92574e5064cd0cdcc85",
       "title": "Spatenstich für 400 Megawattstunden-Batteriespeicher in Hamburg",
       "url": "https://www.pv-magazine.de/2026/09/10/spatenstich-fuer-400-megawattstunden-batteriespeicher-in-hamburg/",
@@ -26,17 +59,6 @@
       "regions": []
     },
     {
-      "id": "65547e2d2962482f31085093",
-      "title": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
-      "url": "https://www.heise.de/hintergrund/Auswahl-bei-der-Zellchemie-im-gleichen-E-Auto-Oft-ist-die-solide-Basis-besser-11441132.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-09-10T04:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich Hersteller bieten E-Autos oft mit unterschiedlichen Batterietypen an. LFP-Zellen sind langlebiger und günstiger, NMC-Zellen bieten mehr Reichweite.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "f7ed6c0c30ba100bf97c536f",
       "title": "Enerparc-Schwestergesellschaft meldet Insolvenz in Eigenverwaltung an",
       "url": "https://www.pv-magazine.de/2026/09/09/enerparc-schwestergesellschaft-meldet-insolvenz-in-eigenverwaltung-an/",
@@ -45,41 +67,6 @@
       "language": "de",
       "summary": "Enerparc-Schwestergesellschaft meldet Insolvenz in Eigenverwaltung an Pvwerk ist auf die Installation von Photovoltaik-Kraftwerken und Batteriespeichern spezialisiert. Mit Hilfe des Verfahrens sollen möglichst viele der etwa 100 im Bau befindliche Solarparks und Batteriespeicher, die im Auftrag der Enerparc AG errichtet werden, ans Netz gebracht werden.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "069debd98eede04f622fcb61",
-      "title": "Fraunhofer ISE optimiert Batteriezellen – mehr Energie bei gleichem Gewicht",
-      "url": "https://www.pv-magazine.de/2026/09/09/fraunhofer-ise-optimiert-batteriezellen-mehr-energie-bei-gleichem-gewicht/",
-      "published_at": "2026-09-09T13:40:36Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Fraunhofer ISE optimiert Batteriezellen – mehr Energie bei gleichem Gewicht Die Freiburger Forscher haben den Aufbau der Elektroden so verändert, dass 10 bis 15 Prozent mehr Energie gespeichert werden können. Die Erfolge konnten auch auf Zink- und Natrium-Ionen-Batteriezellen übertragen werden. Die Forscher sehen zudem gute Perspektiven für eine Batteriezellfertigung in Deutschland.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bf28dc0348f9a202ba5de842",
-      "title": "Größter Batteriespeicher der Schweiz geht ans Netz",
-      "url": "https://www.pv-magazine.de/2026/09/09/groesster-batteriespeicher-der-schweiz-geht-ans-netz/",
-      "published_at": "2026-09-09T10:30:23Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Größter Batteriespeicher der Schweiz geht ans Netz Axpo und Energie Uri haben in Plattischachen unmittelbarer Nähe zwei Speicherprojekte realisiert, die zusammen auf 58,4 Megawatt Leistung kommen. Axpo hat in Frankreich, Deutschland, Italien, Polen und Rumänien zudem weitere 300 Megawatt an Speicherprojekten im Bau.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9db15c8279c880cd1a9e83c7",
-      "title": "Sonntag Energy übernimmt Agri-Photovoltaik-Geschäftsbereich von Grid Parity",
-      "url": "https://www.pv-magazine.de/2026/09/09/sonntag-energy-uebernimmt-agri-photovoltaik-geschaeftsbereich-von-grid-parity/",
-      "published_at": "2026-09-09T09:34:13Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Sonntag Energy übernimmt Agri-Photovoltaik-Geschäftsbereich von Grid Parity Das Unternehmen will die bestehenden Agri-Photovoltaik-Anlagen weiterentwickeln. Sonntag Energy bringt dafür Photovoltaik, Batteriespeicher und Energiehandel zusammen.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     },
     {

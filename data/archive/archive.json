@@ -2,6 +2,39 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "65547e2d2962482f31085093",
+      "title": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
+      "url": "https://www.heise.de/hintergrund/Auswahl-bei-der-Zellchemie-im-gleichen-E-Auto-Oft-ist-die-solide-Basis-besser-11441132.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-09-10T17:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich Hersteller bieten E-Autos oft mit unterschiedlichen Batterietypen an. LFP-Zellen sind langlebiger und günstiger, NMC-Zellen bieten mehr Reichweite.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a6488f6986e4226ee7ab0ce0",
+      "title": "Anzeige: Anker SOLIX Solarbank zum Amazon-Sparpreis",
+      "url": "https://www.golem.de/news/anzeige-anker-solix-solarbank-zum-amazon-sparpreis-2609-212890.html",
+      "published_at": "2026-09-10T15:23:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Anker SOLIX Solarbank zum Amazon-Sparpreis Mit einem Batteriespeicher lässt sich die Effizienz eines Balkonkraftwerks steigern. Amazon bietet die Anker SOLIX 2 Plus Solarbank aktuell mit rund 50 Euro Rabatt an. ( Technik/Hardware , Powerstation )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "83adb1c087a4d2ae70ff0e56",
+      "title": "Finale Investitionsentscheidung für 254-Megawatt-Batteriespeicher in Brunsbüttel",
+      "url": "https://www.pv-magazine.de/2026/09/10/finale-investitionsentscheidung-fuer-254-megawatt-batteriespeicher-in-brunsbuettel/",
+      "published_at": "2026-09-10T10:42:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Finale Investitionsentscheidung für 254-Megawatt-Batteriespeicher in Brunsbüttel Vattenfall errichtet am ehemaligen Kernkraftwerksstandort einen der bislang größten Batteriespeicher Deutschlands. Als 4-Stunden-Speicher ist die Anlage auf 1000 Megawattstunden Kapazität ausgelegt.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "61aeb92574e5064cd0cdcc85",
       "title": "Spatenstich für 400 Megawattstunden-Batteriespeicher in Hamburg",
       "url": "https://www.pv-magazine.de/2026/09/10/spatenstich-fuer-400-megawattstunden-batteriespeicher-in-hamburg/",
@@ -22,17 +55,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "V2G: Was Kunden wollen und was der Markt anbietet pv+: Die ersten kommerziellen Vehicle-to-Grid-Angebote sind gestartet. BMW, Ford, Renault oder Octopus Energy versprechen Einnahmen für angeschlossene Elektroautos und machen Fahrzeugbatterien zu einem Teil des Energiesystems. Doch die Modelle unterscheiden sich bei Vergütung und Transparenz. Für Installateure entsteht damit ein neues Beratungsfeld",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "65547e2d2962482f31085093",
-      "title": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
-      "url": "https://www.heise.de/hintergrund/Auswahl-bei-der-Zellchemie-im-gleichen-E-Auto-Oft-ist-die-solide-Basis-besser-11441132.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-09-10T04:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich Hersteller bieten E-Autos oft mit unterschiedlichen Batterietypen an. LFP-Zellen sind langlebiger und günstiger, NMC-Zellen bieten mehr Reichweite.",
       "tags": [],
       "regions": []
     },
