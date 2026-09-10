@@ -1,16 +1,51 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-09T20:56:47Z",
+  "generated_at_utc": "2026-09-10T09:43:29Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 617,
+  "total_in_archive": 620,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 60
+    "2026-09": 63
   },
   "recent_for_ui": [
+    {
+      "id": "61aeb92574e5064cd0cdcc85",
+      "title": "Spatenstich für 400 Megawattstunden-Batteriespeicher in Hamburg",
+      "url": "https://www.pv-magazine.de/2026/09/10/spatenstich-fuer-400-megawattstunden-batteriespeicher-in-hamburg/",
+      "published_at": "2026-09-10T08:28:53Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Spatenstich für 400 Megawattstunden-Batteriespeicher in Hamburg Das schwedische Unternehmen Flower will den bislang größten Speicher in einer deutschen Großstadt realisieren. Er soll voraussichtlich Ende 2028 in Betrieb gehen, wobei dann Engie die Vermarktung übernimmt. Ein entsprechendes Flexibility Purchase Agreement ist bereits geschlossen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "ffbf334188652e9956988b2d",
+      "title": "V2G: Was Kunden wollen und was der Markt anbietet",
+      "url": "https://www.pv-magazine.de/2026/09/10/v2g-was-kunden-wollen-und-was-der-markt-anbietet/",
+      "published_at": "2026-09-10T07:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "V2G: Was Kunden wollen und was der Markt anbietet pv+: Die ersten kommerziellen Vehicle-to-Grid-Angebote sind gestartet. BMW, Ford, Renault oder Octopus Energy versprechen Einnahmen für angeschlossene Elektroautos und machen Fahrzeugbatterien zu einem Teil des Energiesystems. Doch die Modelle unterscheiden sich bei Vergütung und Transparenz. Für Installateure entsteht damit ein neues Beratungsfeld",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "65547e2d2962482f31085093",
+      "title": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
+      "url": "https://www.heise.de/hintergrund/Auswahl-bei-der-Zellchemie-im-gleichen-E-Auto-Oft-ist-die-solide-Basis-besser-11441132.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-09-10T04:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich Hersteller bieten E-Autos oft mit unterschiedlichen Batterietypen an. LFP-Zellen sind langlebiger und günstiger, NMC-Zellen bieten mehr Reichweite.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "f7ed6c0c30ba100bf97c536f",
       "title": "Enerparc-Schwestergesellschaft meldet Insolvenz in Eigenverwaltung an",
@@ -4535,39 +4570,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektroauto: Megane E-Tech bekommt LFP-Akku und 500 km Reichweite Renault hat den Megane E-Tech grundlegend überarbeitet. Ein Wechsel von NMC auf LFP, der mehr Reichweite und schnelleres Laden bringt. ( Renault , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c81ed4bef028d54c3b011fd6",
-      "title": "Studie: Auslegung entscheidet über Erlöspotenzial von Grünstromspeichern",
-      "url": "https://www.pv-magazine.de/2026/06/22/studie-auslegung-entscheidet-uber-erlospotenzial-von-grunstromspeichern/",
-      "published_at": "2026-06-22T13:20:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Studie: Auslegung entscheidet über Erlöspotenzial von Grünstromspeichern Die Konfiguration von Photovoltaik-Anlage und Batteriespeicher hat erheblichen Einfluss auf die Wirtschaftlichkeit von Co-Location-Projekten. Nach einer Studie von Suena Energy können sich die Erlöse je nach Auslegung mehr als verdoppeln.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "28bf939c57f72bf0db83bdca",
-      "title": "Ladesäule: Alpitronic bietet Megawattladen für Pkw",
-      "url": "https://www.golem.de/news/ladesaeule-alpitronic-bietet-megawattladen-fuer-pkw-2606-210038.html",
-      "published_at": "2026-06-22T13:11:00Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Ladesäule: Alpitronic bietet Megawattladen für Pkw Zwar beherrschen bislang nur wenige Elektroautos hohe Ladeleistungen bis 1.000 kW. Doch die ersten Ladesäulen dafür stehen bereit. ( Ladesäule , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "589102743c19d2cb6084a7ab",
-      "title": "Capac Energy baut Zink-Bromid-Großspeicher in Bruchsal",
-      "url": "https://www.pv-magazine.de/2026/06/22/capac-energy-baut-zink-bromid-grossspeicher-in-bruchsal/",
-      "published_at": "2026-06-22T12:00:46Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Capac Energy baut Zink-Bromid-Großspeicher in Bruchsal Im badischen Bruchsal soll einer der ersten Großspeicher auf Basis von Zink-Bromid-Batterien in Europa entstehen. Parallel haben Capac Energy und der US-Hersteller Eos Energy einen exklusiven Liefervertrag über zwei Gigawattstunden Speicherkapazität für die DACH-Region abgeschlossen und wollen damit eine Alternative zu Lithium-Ionen-Großspeich",
       "tags": [],
       "regions": []
     }

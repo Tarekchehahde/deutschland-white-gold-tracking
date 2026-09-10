@@ -2,6 +2,41 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "61aeb92574e5064cd0cdcc85",
+      "title": "Spatenstich für 400 Megawattstunden-Batteriespeicher in Hamburg",
+      "url": "https://www.pv-magazine.de/2026/09/10/spatenstich-fuer-400-megawattstunden-batteriespeicher-in-hamburg/",
+      "published_at": "2026-09-10T08:28:53Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Spatenstich für 400 Megawattstunden-Batteriespeicher in Hamburg Das schwedische Unternehmen Flower will den bislang größten Speicher in einer deutschen Großstadt realisieren. Er soll voraussichtlich Ende 2028 in Betrieb gehen, wobei dann Engie die Vermarktung übernimmt. Ein entsprechendes Flexibility Purchase Agreement ist bereits geschlossen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "ffbf334188652e9956988b2d",
+      "title": "V2G: Was Kunden wollen und was der Markt anbietet",
+      "url": "https://www.pv-magazine.de/2026/09/10/v2g-was-kunden-wollen-und-was-der-markt-anbietet/",
+      "published_at": "2026-09-10T07:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "V2G: Was Kunden wollen und was der Markt anbietet pv+: Die ersten kommerziellen Vehicle-to-Grid-Angebote sind gestartet. BMW, Ford, Renault oder Octopus Energy versprechen Einnahmen für angeschlossene Elektroautos und machen Fahrzeugbatterien zu einem Teil des Energiesystems. Doch die Modelle unterscheiden sich bei Vergütung und Transparenz. Für Installateure entsteht damit ein neues Beratungsfeld",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "65547e2d2962482f31085093",
+      "title": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
+      "url": "https://www.heise.de/hintergrund/Auswahl-bei-der-Zellchemie-im-gleichen-E-Auto-Oft-ist-die-solide-Basis-besser-11441132.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-09-10T04:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich Hersteller bieten E-Autos oft mit unterschiedlichen Batterietypen an. LFP-Zellen sind langlebiger und günstiger, NMC-Zellen bieten mehr Reichweite.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "f7ed6c0c30ba100bf97c536f",
       "title": "Enerparc-Schwestergesellschaft meldet Insolvenz in Eigenverwaltung an",
       "url": "https://www.pv-magazine.de/2026/09/09/enerparc-schwestergesellschaft-meldet-insolvenz-in-eigenverwaltung-an/",
@@ -35,28 +70,6 @@
       "regions": []
     },
     {
-      "id": "45586e7ee5c195b1935f20e5",
-      "title": "Tesla: Cybercabs haben Touchscreen-Steuerung zum Fahren",
-      "url": "https://www.golem.de/news/tesla-cybercabs-haben-touchscreen-steuerung-zum-fahren-2609-212817.html",
-      "published_at": "2026-09-09T10:29:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla: Cybercabs haben Touchscreen-Steuerung zum Fahren Teslas Cybercabs haben kein Lenkrad - und können doch manuell gesteuert werden. Einem Kunden wurde eine Touchscreen-Steuerung angezeigt. ( Cybercab , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "042c5e722c485abaf3887415",
-      "title": "BMW iX3 im Praxistest: Ein gutes Argument für das Verbrennerverbot",
-      "url": "https://www.golem.de/news/bmw-ix3-im-praxistest-ein-gutes-argument-fuer-das-verbrennerverbot-2609-212787.html",
-      "published_at": "2026-09-09T10:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "BMW iX3 im Praxistest: Ein gutes Argument für das Verbrennerverbot BMW liefert mit dem iX3 gute Argumente gegen die Technologieoffenheit. Allerdings ist der Verbrauch auf der Autobahn nicht so niedrig wie erwartet. Ein Test von Friedhelm Greis ( Elektroauto , Test )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "9db15c8279c880cd1a9e83c7",
       "title": "Sonntag Energy übernimmt Agri-Photovoltaik-Geschäftsbereich von Grid Parity",
       "url": "https://www.pv-magazine.de/2026/09/09/sonntag-energy-uebernimmt-agri-photovoltaik-geschaeftsbereich-von-grid-parity/",
@@ -77,17 +90,6 @@
       "source_id": "tagesschau-wirtschaft",
       "language": "de",
       "summary": "Boom der Batteriespeicher In Deutschland entstehen immer mehr große Batteriespeicher, die Schwankungen im Stromnetz ausgleichen. Jüngstes Beispiel ist Aachen. Wo einst Elektronik produziert wurde, werden Riesen-Akkus errichtet. Von Philipp Wundersee.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c0ab34f40b991afedfcacc4d",
-      "title": "21 Megawattstunden-Speicher nutzt freiwerdende Anschlusskapazität",
-      "url": "https://www.pv-magazine.de/2026/09/08/21-megawattstunden-speicher-nutzt-freiwerdende-anschlusskapazitaet/",
-      "published_at": "2026-09-08T15:03:09Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "21 Megawattstunden-Speicher nutzt freiwerdende Anschlusskapazität Der Rückgang energieintensiver Fertigung eröffnet in Aachen neue Anschlussmöglichkeiten für große Batteriespeicher. Bis zum Jahresende soll die Inbetriebnahme des Batteriespeichers mit 10 Megawatt Leistung und 21 Megawattstunden Kapazität von Voltfang auf dem ehemaligen Philips-Gelände erfolgen.",
       "tags": [],
       "regions": []
     }
