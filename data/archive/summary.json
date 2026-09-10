@@ -1,16 +1,49 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-10T09:43:29Z",
+  "generated_at_utc": "2026-09-10T20:53:15Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 620,
+  "total_in_archive": 622,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 63
+    "2026-09": 65
   },
   "recent_for_ui": [
+    {
+      "id": "65547e2d2962482f31085093",
+      "title": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
+      "url": "https://www.heise.de/hintergrund/Auswahl-bei-der-Zellchemie-im-gleichen-E-Auto-Oft-ist-die-solide-Basis-besser-11441132.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-09-10T17:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich Hersteller bieten E-Autos oft mit unterschiedlichen Batterietypen an. LFP-Zellen sind langlebiger und günstiger, NMC-Zellen bieten mehr Reichweite.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a6488f6986e4226ee7ab0ce0",
+      "title": "Anzeige: Anker SOLIX Solarbank zum Amazon-Sparpreis",
+      "url": "https://www.golem.de/news/anzeige-anker-solix-solarbank-zum-amazon-sparpreis-2609-212890.html",
+      "published_at": "2026-09-10T15:23:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Anker SOLIX Solarbank zum Amazon-Sparpreis Mit einem Batteriespeicher lässt sich die Effizienz eines Balkonkraftwerks steigern. Amazon bietet die Anker SOLIX 2 Plus Solarbank aktuell mit rund 50 Euro Rabatt an. ( Technik/Hardware , Powerstation )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "83adb1c087a4d2ae70ff0e56",
+      "title": "Finale Investitionsentscheidung für 254-Megawatt-Batteriespeicher in Brunsbüttel",
+      "url": "https://www.pv-magazine.de/2026/09/10/finale-investitionsentscheidung-fuer-254-megawatt-batteriespeicher-in-brunsbuettel/",
+      "published_at": "2026-09-10T10:42:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Finale Investitionsentscheidung für 254-Megawatt-Batteriespeicher in Brunsbüttel Vattenfall errichtet am ehemaligen Kernkraftwerksstandort einen der bislang größten Batteriespeicher Deutschlands. Als 4-Stunden-Speicher ist die Anlage auf 1000 Megawattstunden Kapazität ausgelegt.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "61aeb92574e5064cd0cdcc85",
       "title": "Spatenstich für 400 Megawattstunden-Batteriespeicher in Hamburg",
@@ -32,17 +65,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "V2G: Was Kunden wollen und was der Markt anbietet pv+: Die ersten kommerziellen Vehicle-to-Grid-Angebote sind gestartet. BMW, Ford, Renault oder Octopus Energy versprechen Einnahmen für angeschlossene Elektroautos und machen Fahrzeugbatterien zu einem Teil des Energiesystems. Doch die Modelle unterscheiden sich bei Vergütung und Transparenz. Für Installateure entsteht damit ein neues Beratungsfeld",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "65547e2d2962482f31085093",
-      "title": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
-      "url": "https://www.heise.de/hintergrund/Auswahl-bei-der-Zellchemie-im-gleichen-E-Auto-Oft-ist-die-solide-Basis-besser-11441132.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-09-10T04:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich Hersteller bieten E-Autos oft mit unterschiedlichen Batterietypen an. LFP-Zellen sind langlebiger und günstiger, NMC-Zellen bieten mehr Reichweite.",
       "tags": [],
       "regions": []
     },
@@ -4548,28 +4570,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Stream 5000: Ecoflow stellt skalierbares PV-System vor Der Nachfolger der bisherigen Stream-Serie lässt sich vom kleinen Balkonkraftwerk bis zur 90-kWh-Heimspeicheranlage verwenden. ( Balkonkraftwerk , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a1aaf0a5e22fb495e7dd8bb4",
-      "title": "E-Auto: Xiaomis YU7 GT fährt autonom zum Nordschleifen-Rekord",
-      "url": "https://www.golem.de/news/e-auto-xiaomis-yu7-gt-faehrt-autonom-zum-nordschleifen-rekord-2606-210051.html",
-      "published_at": "2026-06-23T05:58:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "E-Auto: Xiaomis YU7 GT fährt autonom zum Nordschleifen-Rekord Der Elektro-SUV Xiaomi YU7 GT fährt allein die Nordschleife ab. Ein Fahrer ist nicht an Bord. ( Xiaomi , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6bd83bb0cc82225be9400698",
-      "title": "Elektroauto: Megane E-Tech bekommt LFP-Akku und 500 km Reichweite",
-      "url": "https://www.golem.de/news/elektroauto-megane-e-tech-bekommt-lfp-akku-und-500-km-reichweite-2606-210050.html",
-      "published_at": "2026-06-23T05:39:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Megane E-Tech bekommt LFP-Akku und 500 km Reichweite Renault hat den Megane E-Tech grundlegend überarbeitet. Ein Wechsel von NMC auf LFP, der mehr Reichweite und schnelleres Laden bringt. ( Renault , Elektroauto )",
       "tags": [],
       "regions": []
     }
