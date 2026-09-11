@@ -2,13 +2,59 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "269a0a8ecacc5ab5df210e8f",
+      "title": "Masdar und Luxcara wollen gemeinsam 5 Milliarden Euro in Batteriespeicher und Offshore-Windkraft in Deutschland investieren",
+      "url": "https://www.pv-magazine.de/2026/09/11/masdar-und-luxcara-wollen-gemeinsam-5-milliarden-euro-in-batteriespeicher-und-offshore-windkraft-in-deutschland-investieren/",
+      "published_at": "2026-09-11T15:13:04Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Masdar und Luxcara wollen gemeinsam 5 Milliarden Euro in Batteriespeicher und Offshore-Windkraft in Deutschland investieren Das Energieunternehmen aus Abu Dhabi und der deutsche Vermögensverwalter für Infrastrukturprojekte haben eine entsprechende Absichtserklärung unterzeichnet. Die strategische Partnerschaft soll in erster Linie auf Batteriespeicher und Offshore-Windkraft ausgerichtet sein.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "860124e886418cc85d2e6ba3",
       "title": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
       "url": "https://www.tagesschau.de/wirtschaft/technologie/elektro-autos-laden-100.html",
-      "published_at": "2026-09-11T04:23:49Z",
+      "published_at": "2026-09-11T11:13:36Z",
       "source_id": "tagesschau-wirtschaft",
       "language": "de",
       "summary": "Elektromobilität: Baut Deutschland die falschen Ladesäulen? Der Erfolg der E-Mobilität hängt nicht nur von den Fahrzeugen, sondern auch von der Ladeinfrastruktur ab. Je mehr Ladesäulen, desto besser - das war lange die Devise. Doch stimmt das noch? Von Thomas Eckert.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "18104488abd44ed12193a73b",
+      "title": "Kampf um den Status: Die deutschen Autohersteller sind besser als ihr Ruf",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/bmw-mercedes-und-vw-warum-deutsche-autohersteller-besser-als-ihr-ruf-sind-201212193.html",
+      "published_at": "2026-09-11T11:04:24Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Kampf um den Status: Die deutschen Autohersteller sind besser als ihr Ruf BMW, Mercedes und VW kommen bei Elektroautos besser voran, als oft behauptet. Für den Weg aus der Krise sind Geduld, mehr Bewegung der Gewerkschaften und mehr Fokus auf die Kunden nötig.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f0d0ec7156cce04cfac0e9fa",
+      "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
+      "url": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
+      "published_at": "2026-09-11T11:00:44Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "Could United Launch Alliance's money problems finally force its owners to sell? ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "df4126cb512f31ec866d01ad",
+      "title": "Elektromobilität: Ungleichgewicht in Batterien verkürzt Lebenszeit deutlich",
+      "url": "https://www.golem.de/news/elektromobilitaet-ungleichgewicht-in-batterien-verkuerzt-lebenszeit-deutlich-2609-212920.html",
+      "published_at": "2026-09-11T10:45:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität: Ungleichgewicht in Batterien verkürzt Lebenszeit deutlich Weisen einzelne Batteriezellen Fehler auf, kann das die gesamte Laufzeit der E-Auto-Batterie um ein Viertel verkürzen. Dabei wäre die Kapazität noch vorhanden. ( Elektromobilität , Elektroauto )",
       "tags": [],
       "regions": []
     },
