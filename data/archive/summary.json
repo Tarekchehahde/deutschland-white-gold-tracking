@@ -1,16 +1,27 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-10T20:53:15Z",
+  "generated_at_utc": "2026-09-11T09:40:53Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 622,
+  "total_in_archive": 623,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 65
+    "2026-09": 66
   },
   "recent_for_ui": [
+    {
+      "id": "860124e886418cc85d2e6ba3",
+      "title": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/elektro-autos-laden-100.html",
+      "published_at": "2026-09-11T04:23:49Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Baut Deutschland die falschen Ladesäulen? Der Erfolg der E-Mobilität hängt nicht nur von den Fahrzeugen, sondern auch von der Ladeinfrastruktur ab. Je mehr Ladesäulen, desto besser - das war lange die Devise. Doch stimmt das noch? Von Thomas Eckert.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "65547e2d2962482f31085093",
       "title": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
@@ -4559,17 +4570,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Tado ergänzt Smart-Home-App um Lademanagement für E-Autos von 15 Marken Die Elektroauto-Funktionen der Smart-Charging-App von Tado sind nun in der Anwendung für Heizen, Kühlen und Stromtarife verfügbar – aber bald bloß gegen Geld.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e04a69f1f4785721604c921b",
-      "title": "Stream 5000: Ecoflow stellt skalierbares PV-System vor",
-      "url": "https://www.golem.de/news/stream-5000-ecoflow-stellt-skalierbares-pv-system-vor-2606-210063.html",
-      "published_at": "2026-06-23T07:38:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Stream 5000: Ecoflow stellt skalierbares PV-System vor Der Nachfolger der bisherigen Stream-Serie lässt sich vom kleinen Balkonkraftwerk bis zur 90-kWh-Heimspeicheranlage verwenden. ( Balkonkraftwerk , Elektroauto )",
       "tags": [],
       "regions": []
     }
