@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "860124e886418cc85d2e6ba3",
+      "title": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/elektro-autos-laden-100.html",
+      "published_at": "2026-09-11T04:23:49Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Baut Deutschland die falschen Ladesäulen? Der Erfolg der E-Mobilität hängt nicht nur von den Fahrzeugen, sondern auch von der Ladeinfrastruktur ab. Je mehr Ladesäulen, desto besser - das war lange die Devise. Doch stimmt das noch? Von Thomas Eckert.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "65547e2d2962482f31085093",
       "title": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
       "url": "https://www.heise.de/hintergrund/Auswahl-bei-der-Zellchemie-im-gleichen-E-Auto-Oft-ist-die-solide-Basis-besser-11441132.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
@@ -31,41 +42,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Finale Investitionsentscheidung für 254-Megawatt-Batteriespeicher in Brunsbüttel Vattenfall errichtet am ehemaligen Kernkraftwerksstandort einen der bislang größten Batteriespeicher Deutschlands. Als 4-Stunden-Speicher ist die Anlage auf 1000 Megawattstunden Kapazität ausgelegt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "61aeb92574e5064cd0cdcc85",
-      "title": "Spatenstich für 400 Megawattstunden-Batteriespeicher in Hamburg",
-      "url": "https://www.pv-magazine.de/2026/09/10/spatenstich-fuer-400-megawattstunden-batteriespeicher-in-hamburg/",
-      "published_at": "2026-09-10T08:28:53Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Spatenstich für 400 Megawattstunden-Batteriespeicher in Hamburg Das schwedische Unternehmen Flower will den bislang größten Speicher in einer deutschen Großstadt realisieren. Er soll voraussichtlich Ende 2028 in Betrieb gehen, wobei dann Engie die Vermarktung übernimmt. Ein entsprechendes Flexibility Purchase Agreement ist bereits geschlossen.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "ffbf334188652e9956988b2d",
-      "title": "V2G: Was Kunden wollen und was der Markt anbietet",
-      "url": "https://www.pv-magazine.de/2026/09/10/v2g-was-kunden-wollen-und-was-der-markt-anbietet/",
-      "published_at": "2026-09-10T07:45:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "V2G: Was Kunden wollen und was der Markt anbietet pv+: Die ersten kommerziellen Vehicle-to-Grid-Angebote sind gestartet. BMW, Ford, Renault oder Octopus Energy versprechen Einnahmen für angeschlossene Elektroautos und machen Fahrzeugbatterien zu einem Teil des Energiesystems. Doch die Modelle unterscheiden sich bei Vergütung und Transparenz. Für Installateure entsteht damit ein neues Beratungsfeld",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f7ed6c0c30ba100bf97c536f",
-      "title": "Enerparc-Schwestergesellschaft meldet Insolvenz in Eigenverwaltung an",
-      "url": "https://www.pv-magazine.de/2026/09/09/enerparc-schwestergesellschaft-meldet-insolvenz-in-eigenverwaltung-an/",
-      "published_at": "2026-09-09T15:41:59Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Enerparc-Schwestergesellschaft meldet Insolvenz in Eigenverwaltung an Pvwerk ist auf die Installation von Photovoltaik-Kraftwerken und Batteriespeichern spezialisiert. Mit Hilfe des Verfahrens sollen möglichst viele der etwa 100 im Bau befindliche Solarparks und Batteriespeicher, die im Auftrag der Enerparc AG errichtet werden, ans Netz gebracht werden.",
       "tags": [],
       "regions": []
     },

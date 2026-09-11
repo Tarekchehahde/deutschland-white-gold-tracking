@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 65,
+  "article_count": 66,
   "articles": [
+    {
+      "id": "860124e886418cc85d2e6ba3",
+      "title": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/elektro-autos-laden-100.html",
+      "published_at": "2026-09-11T04:23:49Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Baut Deutschland die falschen Ladesäulen? Der Erfolg der E-Mobilität hängt nicht nur von den Fahrzeugen, sondern auch von der Ladeinfrastruktur ab. Je mehr Ladesäulen, desto besser - das war lange die Devise. Doch stimmt das noch? Von Thomas Eckert.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "65547e2d2962482f31085093",
       "title": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
