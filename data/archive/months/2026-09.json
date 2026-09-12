@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 70,
+  "article_count": 71,
   "articles": [
+    {
+      "id": "4233931183f429df9cf801bd",
+      "title": "Elektromobilität: Tesla bringt den Semi nach Europa",
+      "url": "https://www.golem.de/news/elektromobilitaet-tesla-bringt-den-semi-nach-europa-2609-212943.html",
+      "published_at": "2026-09-12T08:42:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität: Tesla bringt den Semi nach Europa Tesla hat konkrete Leistungsdaten zum elektrischen Semi für Europa veröffentlicht. Der Marktstart erfolgt jedoch erst im Jahr 2027. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "269a0a8ecacc5ab5df210e8f",
       "title": "Masdar und Luxcara wollen gemeinsam 5 Milliarden Euro in Batteriespeicher und Offshore-Windkraft in Deutschland investieren",

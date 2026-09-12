@@ -1,16 +1,27 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-11T20:58:48Z",
+  "generated_at_utc": "2026-09-12T09:21:42Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 627,
+  "total_in_archive": 628,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 70
+    "2026-09": 71
   },
   "recent_for_ui": [
+    {
+      "id": "4233931183f429df9cf801bd",
+      "title": "Elektromobilität: Tesla bringt den Semi nach Europa",
+      "url": "https://www.golem.de/news/elektromobilitaet-tesla-bringt-den-semi-nach-europa-2609-212943.html",
+      "published_at": "2026-09-12T08:42:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität: Tesla bringt den Semi nach Europa Tesla hat konkrete Leistungsdaten zum elektrischen Semi für Europa veröffentlicht. Der Marktstart erfolgt jedoch erst im Jahr 2027. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "269a0a8ecacc5ab5df210e8f",
       "title": "Masdar und Luxcara wollen gemeinsam 5 Milliarden Euro in Batteriespeicher und Offshore-Windkraft in Deutschland investieren",
@@ -4557,17 +4568,6 @@
       "source_id": "deutschlandfunk-wissen",
       "language": "de",
       "summary": "Rare Ressourcen - Wie in Deutschland Lithium abgebaut werden soll Das Leichtmetall Lithium ist eine wichtige Ressource für die Energiewende. Es steckt in den Akkus von Smartphones oder E-Autos. Weil der Bedarf stark steigt, erschließen Fachleute neue Rohstoffquellen – auch mitten in Deutschland. Mrasek, Volker",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "244bc2f26d810e020bfda0c5",
-      "title": "The smarter E im Zeichen von „Erneuerbare 24/7“",
-      "url": "https://www.pv-magazine.de/2026/06/23/the-smarter-e-im-zeichen-von-erneuerbare-24-7/",
-      "published_at": "2026-06-23T11:56:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "The smarter E im Zeichen von „Erneuerbare 24/7“ Die Messe ist auch in diesem Jahr komplett belegt. Zwar sind es etwas weniger Aussteller als 2025, die aber haben im Schnitt größere Stände aufgebaut. Dort zeigen sie noch bis Donnerstag ihre Produkte und Dienstleistungen aus den Bereichen Photovoltaik, Batteriespeicher, Elektromobilität sowie Energiemanagement und Vernetzung. Eine Sonderschau bringt",
       "tags": [],
       "regions": []
     }
