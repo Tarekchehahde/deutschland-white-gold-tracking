@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 71,
+  "article_count": 72,
   "articles": [
+    {
+      "id": "8120a88a4a5b589085e4404e",
+      "title": "eActros 600: Amazon lässt Mercedes-E-Lkw auf deutschen Straßen fahren",
+      "url": "https://www.golem.de/news/eactros-600-amazon-laesst-mercedes-e-lkw-auf-deutschen-strassen-fahren-2609-212948.html",
+      "published_at": "2026-09-12T13:08:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "eActros 600: Amazon lässt Mercedes-E-Lkw auf deutschen Straßen fahren Amazon setzt über 50 batterieelektrische eActros 600 in Deutschland ein. ( Amazon , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "4233931183f429df9cf801bd",
       "title": "Elektromobilität: Tesla bringt den Semi nach Europa",

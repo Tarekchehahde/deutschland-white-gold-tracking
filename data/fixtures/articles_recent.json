@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "8120a88a4a5b589085e4404e",
+      "title": "eActros 600: Amazon lässt Mercedes-E-Lkw auf deutschen Straßen fahren",
+      "url": "https://www.golem.de/news/eactros-600-amazon-laesst-mercedes-e-lkw-auf-deutschen-strassen-fahren-2609-212948.html",
+      "published_at": "2026-09-12T13:08:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "eActros 600: Amazon lässt Mercedes-E-Lkw auf deutschen Straßen fahren Amazon setzt über 50 batterieelektrische eActros 600 in Deutschland ein. ( Amazon , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "4233931183f429df9cf801bd",
       "title": "Elektromobilität: Tesla bringt den Semi nach Europa",
       "url": "https://www.golem.de/news/elektromobilitaet-tesla-bringt-den-semi-nach-europa-2609-212943.html",
@@ -33,17 +44,6 @@
       "source_id": "tagesschau-wirtschaft",
       "language": "de",
       "summary": "Elektromobilität: Baut Deutschland die falschen Ladesäulen? Der Erfolg der E-Mobilität hängt nicht nur von den Fahrzeugen, sondern auch von der Ladeinfrastruktur ab. Je mehr Ladesäulen, desto besser - das war lange die Devise. Doch stimmt das noch? Von Thomas Eckert.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "18104488abd44ed12193a73b",
-      "title": "Kampf um den Status: Die deutschen Autohersteller sind besser als ihr Ruf",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/bmw-mercedes-und-vw-warum-deutsche-autohersteller-besser-als-ihr-ruf-sind-201212193.html",
-      "published_at": "2026-09-11T11:04:24Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Kampf um den Status: Die deutschen Autohersteller sind besser als ihr Ruf BMW, Mercedes und VW kommen bei Elektroautos besser voran, als oft behauptet. Für den Weg aus der Krise sind Geduld, mehr Bewegung der Gewerkschaften und mehr Fokus auf die Kunden nötig.",
       "tags": [],
       "regions": []
     },
