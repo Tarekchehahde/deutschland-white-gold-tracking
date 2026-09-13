@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "103cdb47811eacb1fd8c8696",
+      "title": "Elon Musk: Teslas neuer Roadster soll mit Raketentechnik abheben",
+      "url": "https://www.golem.de/news/elon-musk-teslas-neuer-roadster-soll-mit-raketentechnik-abheben-2609-212955.html",
+      "published_at": "2026-09-13T09:52:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elon Musk: Teslas neuer Roadster soll mit Raketentechnik abheben Neun Jahre nach der ersten Vorstellung soll Teslas neuer Roadster wieder öffentlich gezeigt werden. Elon Musk deutet eine außergewöhnliche Vorführung an. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "8120a88a4a5b589085e4404e",
       "title": "eActros 600: Amazon lässt Mercedes-E-Lkw auf deutschen Straßen fahren",
       "url": "https://www.golem.de/news/eactros-600-amazon-laesst-mercedes-e-lkw-auf-deutschen-strassen-fahren-2609-212948.html",
@@ -55,17 +66,6 @@
       "source_id": "arstechnica-all",
       "language": "en",
       "summary": "Could United Launch Alliance's money problems finally force its owners to sell? ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "df4126cb512f31ec866d01ad",
-      "title": "Elektromobilität: Ungleichgewicht in Batterien verkürzt Lebenszeit deutlich",
-      "url": "https://www.golem.de/news/elektromobilitaet-ungleichgewicht-in-batterien-verkuerzt-lebenszeit-deutlich-2609-212920.html",
-      "published_at": "2026-09-11T10:45:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektromobilität: Ungleichgewicht in Batterien verkürzt Lebenszeit deutlich Weisen einzelne Batteriezellen Fehler auf, kann das die gesamte Laufzeit der E-Auto-Batterie um ein Viertel verkürzen. Dabei wäre die Kapazität noch vorhanden. ( Elektromobilität , Elektroauto )",
       "tags": [],
       "regions": []
     },
