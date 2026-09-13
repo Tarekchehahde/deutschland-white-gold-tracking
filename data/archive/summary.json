@@ -1,16 +1,27 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-13T10:16:58Z",
+  "generated_at_utc": "2026-09-13T20:51:30Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 630,
+  "total_in_archive": 631,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 73
+    "2026-09": 74
   },
   "recent_for_ui": [
+    {
+      "id": "cc6bb28f2b6d117f270fea05",
+      "title": "Elektromobilität: Der Umbauer",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/e-mobilitaet-heiko-fleck-verbrennerautos-bastler-elektromobilitaet-umbau-e263291/",
+      "published_at": "2026-09-13T13:39:00Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Der Umbauer Heiko Fleck rüstet alte Verbrennerfahrzeuge auf Elektro um. Warum gerade immer mehr Landwirte zu ihm kommen und wie ausgerechnet der Erfolg der E-Mobilität sein Geschäftsmodell bedroht.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "103cdb47811eacb1fd8c8696",
       "title": "Elon Musk: Teslas neuer Roadster soll mit Raketentechnik abheben",
@@ -4556,19 +4567,6 @@
       "language": "de",
       "summary": "heise+ | Batterie für das Elektroautos: Welchen Vorteil Feststoffbatterien haben Festkörperbatterien sollen die Energiedichte von E-Autos massiv erhöhen. Doch was steckt hinter dem Begriff und welche Hürden gibt es bei der Serienfertigung?",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bc55083ce0503a2de3b8a191",
-      "title": "Cariad-Campus Berlin eröffnet: \"Das Scheitern war notwendig\"",
-      "url": "https://www.golem.de/news/cariad-campus-berlin-eroeffnet-das-scheitern-war-notwendig-2606-210101.html",
-      "published_at": "2026-06-23T16:41:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Cariad-Campus Berlin eröffnet: \"Das Scheitern war notwendig\" VW eröffnet mit der Bundestagspräsidentin seinen Campus für Autosoftware in Berlin. Klöckner fordert beim autonomen Fahren \"Mut zur Lücke\". Ein Bericht von Friedhelm Greis ( Cariad , Elektroauto )",
-      "tags": [
-        "politik"
-      ],
       "regions": []
     }
   ]
