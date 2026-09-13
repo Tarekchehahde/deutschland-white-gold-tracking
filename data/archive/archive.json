@@ -2,6 +2,17 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "cc6bb28f2b6d117f270fea05",
+      "title": "Elektromobilität: Der Umbauer",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/e-mobilitaet-heiko-fleck-verbrennerautos-bastler-elektromobilitaet-umbau-e263291/",
+      "published_at": "2026-09-13T13:39:00Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Der Umbauer Heiko Fleck rüstet alte Verbrennerfahrzeuge auf Elektro um. Warum gerade immer mehr Landwirte zu ihm kommen und wie ausgerechnet der Erfolg der E-Mobilität sein Geschäftsmodell bedroht.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "103cdb47811eacb1fd8c8696",
       "title": "Elon Musk: Teslas neuer Roadster soll mit Raketentechnik abheben",
       "url": "https://www.golem.de/news/elon-musk-teslas-neuer-roadster-soll-mit-raketentechnik-abheben-2609-212955.html",
