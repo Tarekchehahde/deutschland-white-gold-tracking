@@ -1,16 +1,27 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-12T20:34:17Z",
+  "generated_at_utc": "2026-09-13T10:16:58Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 629,
+  "total_in_archive": 630,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 72
+    "2026-09": 73
   },
   "recent_for_ui": [
+    {
+      "id": "103cdb47811eacb1fd8c8696",
+      "title": "Elon Musk: Teslas neuer Roadster soll mit Raketentechnik abheben",
+      "url": "https://www.golem.de/news/elon-musk-teslas-neuer-roadster-soll-mit-raketentechnik-abheben-2609-212955.html",
+      "published_at": "2026-09-13T09:52:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elon Musk: Teslas neuer Roadster soll mit Raketentechnik abheben Neun Jahre nach der ersten Vorstellung soll Teslas neuer Roadster wieder öffentlich gezeigt werden. Elon Musk deutet eine außergewöhnliche Vorführung an. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "8120a88a4a5b589085e4404e",
       "title": "eActros 600: Amazon lässt Mercedes-E-Lkw auf deutschen Straßen fahren",
@@ -4558,17 +4569,6 @@
       "tags": [
         "politik"
       ],
-      "regions": []
-    },
-    {
-      "id": "7f0c762b512a2bf36b08b591",
-      "title": "Anzeige: Mobile Wallbox mit 11kW zum Prime Day für nur noch rund 153 Euro",
-      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-mit-11kw-zum-prime-day-fuer-nur-noch-rund-153-euro-2606-210094.html",
-      "published_at": "2026-06-23T15:20:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Mobile Wallbox mit 11kW zum Prime Day für nur noch rund 153 Euro Die Mobile Wallbox lädt mit bis zu 11 kW, lässt sich per App steuern und liegt am Prime Day nur 43 Cent über dem ehemaligen Bestpreis. ( Elektromobilität , Elektroauto )",
-      "tags": [],
       "regions": []
     }
   ]
