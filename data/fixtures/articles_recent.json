@@ -2,6 +2,72 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "2bd2a66bde60eb7d24353452",
+      "title": "Elektroautos: Hamburg will künstlichen Motorenlärm verbieten",
+      "url": "https://www.golem.de/news/elektroautos-hamburg-will-kuenstlichen-motorenlaerm-verbieten-2609-213002.html",
+      "published_at": "2026-09-14T16:31:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: Hamburg will künstlichen Motorenlärm verbieten Hersteller wollen E-Autos durch externen Sound attraktiver machen. Das will Hamburg auf Bundesebene stoppen. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "012ffc4a7eecfc54696b43a6",
+      "title": "Größter chinesischer Fahrzeughersteller: BYD will jetzt auch seine Lkw in Europa produzieren",
+      "url": "https://rp-online.de/wirtschaft/unternehmen/byd-will-jetzt-auch-seine-lkw-in-europa-produzieren_aid-154776561",
+      "published_at": "2026-09-14T15:54:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Größter chinesischer Fahrzeughersteller: BYD will jetzt auch seine Lkw in Europa produzieren Der chinesische Elektroautobauer BYD will im kommenden Jahr seinen ersten Schwerlaster „ETT 44“ in Europa einführen und plant langfristig auch eine Lkw-Produktion.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0a40ec158c6a31946171e87f",
+      "title": "NGEN nimmt 170 Megawattstunden-Speicher in Österreich in Betrieb",
+      "url": "https://www.pv-magazine.de/2026/09/14/ngen-nimmt-170-megawattstunden-speicher-in-oesterreich-in-betrieb/",
+      "published_at": "2026-09-14T14:38:49Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "NGEN nimmt 170 Megawattstunden-Speicher in Österreich in Betrieb Es soll sich um den bislang größten Batteriespeicher des Landes handeln. Es ist ein Zwei-Stunden-Batteriespeicher nahe der Grenze zu Deutschland.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d4828907e6dc006267729dae",
+      "title": "Youtube: Elon Musk teilt erneut Verstoß gegen FSD-Nutzungsregeln",
+      "url": "https://www.golem.de/news/youtube-elon-musk-teilt-erneut-verstoss-gegen-fsd-nutzungsregeln-2609-212990.html",
+      "published_at": "2026-09-14T14:01:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Youtube: Elon Musk teilt erneut Verstoß gegen FSD-Nutzungsregeln Ein 98-jähriger Mann erklärt in einem Video, dass er in seinem Tesla nicht mehr auf den Verkehr achten müsse. Elon Musk findet das gut - für Tesla ein Problem. ( Elon Musk , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f7f972669f0a0957d6bf9f69",
+      "title": "EU-Staaten wollen Interessen in der Arktis schützen",
+      "url": "https://www.tagesschau.de/ausland/europa/arktis-gipfel-eu-100.html",
+      "published_at": "2026-09-14T13:43:23Z",
+      "source_id": "tagesschau-europa",
+      "language": "de",
+      "summary": "EU-Staaten wollen Interessen in der Arktis schützen Schifffahrtsrouten, Bodenschätze und Sicherheitspolitik: Deutschland und weitere europäische Staaten fordern eine stärkere Rolle der EU in der Arktis - vor allem wegen der Bedrohung aus Moskau.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9b826d5ab3365a56f81f9c4e",
+      "title": "Engie und Return erweitern Flexibilitätsvereinbarung für Speicher in Deutschland auf 400 Megawatt",
+      "url": "https://www.pv-magazine.de/2026/09/14/engie-und-return-erweitern-flexibilitaetsvereinbarung-fuer-speicher-in-deutschland-auf-400-megawatt/",
+      "published_at": "2026-09-14T12:32:36Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Engie und Return erweitern Flexibilitätsvereinbarung für Speicher in Deutschland auf 400 Megawatt Die Verträge werden nicht für einzelne Batteriespeicher-Standorte geschlossen, sondern über verschiedene Anlagen, die in einem Virtual Flexibility Portfolio gebündelt werden. Die erste Vereinbarung dieser Art schlossen Engie und Return im Februar.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "eae98c587b6622959d1e2178",
       "title": "Warum Rabot Energy einen 2-Kilowattstunden-AC-Batteriespeicher ohne Photovoltaik-Anlage verkauft",
       "url": "https://www.pv-magazine.de/2026/09/14/warum-rabot-energy-einen-2-kilowattstunden-ac-batteriespeicher-ohne-photovoltaik-anlage-verkauft/",
@@ -13,17 +79,6 @@
       "regions": []
     },
     {
-      "id": "187f59f292d806761129b8d9",
-      "title": "heise+ | Batteriespeicher mit dynamischem Tarif für Mieter: Rabot Flow im Praxis-Check",
-      "url": "https://www.heise.de/ratgeber/Batteriespeicher-mit-dynamischem-Tarif-fuer-Mieter-Rabot-Flow-im-Praxis-Check-11347989.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-09-14T05:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Batteriespeicher mit dynamischem Tarif für Mieter: Rabot Flow im Praxis-Check Speichern und verdienen: Rabot Energy vermarktet seinen Batteriespeicher an Mieter ohne Balkonkraftwerk. Wir probieren, ob sich der 400-Euro-Speicher rechnet.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "cc6bb28f2b6d117f270fea05",
       "title": "Elektromobilität: Der Umbauer",
       "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/e-mobilitaet-heiko-fleck-verbrennerautos-bastler-elektromobilitaet-umbau-e263291/",
@@ -31,28 +86,6 @@
       "source_id": "sueddeutsche-wirtschaft",
       "language": "de",
       "summary": "Elektromobilität: Der Umbauer Heiko Fleck rüstet alte Verbrennerfahrzeuge auf Elektro um. Warum gerade immer mehr Landwirte zu ihm kommen und wie ausgerechnet der Erfolg der E-Mobilität sein Geschäftsmodell bedroht.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "103cdb47811eacb1fd8c8696",
-      "title": "Elon Musk: Teslas neuer Roadster soll mit Raketentechnik abheben",
-      "url": "https://www.golem.de/news/elon-musk-teslas-neuer-roadster-soll-mit-raketentechnik-abheben-2609-212955.html",
-      "published_at": "2026-09-13T09:52:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elon Musk: Teslas neuer Roadster soll mit Raketentechnik abheben Neun Jahre nach der ersten Vorstellung soll Teslas neuer Roadster wieder öffentlich gezeigt werden. Elon Musk deutet eine außergewöhnliche Vorführung an. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8120a88a4a5b589085e4404e",
-      "title": "eActros 600: Amazon lässt Mercedes-E-Lkw auf deutschen Straßen fahren",
-      "url": "https://www.golem.de/news/eactros-600-amazon-laesst-mercedes-e-lkw-auf-deutschen-strassen-fahren-2609-212948.html",
-      "published_at": "2026-09-12T13:08:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "eActros 600: Amazon lässt Mercedes-E-Lkw auf deutschen Straßen fahren Amazon setzt über 50 batterieelektrische eActros 600 in Deutschland ein. ( Amazon , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -88,17 +121,6 @@
       "source_id": "faz-aktuell",
       "language": "de",
       "summary": "Kampf um den Status: Die deutschen Autohersteller sind besser als ihr Ruf BMW, Mercedes und VW kommen bei Elektroautos besser voran, als oft behauptet. Für den Weg aus der Krise sind Geduld, mehr Bewegung der Gewerkschaften und mehr Fokus auf die Kunden nötig.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f0d0ec7156cce04cfac0e9fa",
-      "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
-      "url": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
-      "published_at": "2026-09-11T11:00:44Z",
-      "source_id": "arstechnica-all",
-      "language": "en",
-      "summary": "Could United Launch Alliance's money problems finally force its owners to sell? ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
       "tags": [],
       "regions": []
     },

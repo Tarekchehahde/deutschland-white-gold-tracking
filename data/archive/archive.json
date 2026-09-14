@@ -2,6 +2,72 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "2bd2a66bde60eb7d24353452",
+      "title": "Elektroautos: Hamburg will künstlichen Motorenlärm verbieten",
+      "url": "https://www.golem.de/news/elektroautos-hamburg-will-kuenstlichen-motorenlaerm-verbieten-2609-213002.html",
+      "published_at": "2026-09-14T16:31:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: Hamburg will künstlichen Motorenlärm verbieten Hersteller wollen E-Autos durch externen Sound attraktiver machen. Das will Hamburg auf Bundesebene stoppen. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "012ffc4a7eecfc54696b43a6",
+      "title": "Größter chinesischer Fahrzeughersteller: BYD will jetzt auch seine Lkw in Europa produzieren",
+      "url": "https://rp-online.de/wirtschaft/unternehmen/byd-will-jetzt-auch-seine-lkw-in-europa-produzieren_aid-154776561",
+      "published_at": "2026-09-14T15:54:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Größter chinesischer Fahrzeughersteller: BYD will jetzt auch seine Lkw in Europa produzieren Der chinesische Elektroautobauer BYD will im kommenden Jahr seinen ersten Schwerlaster „ETT 44“ in Europa einführen und plant langfristig auch eine Lkw-Produktion.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0a40ec158c6a31946171e87f",
+      "title": "NGEN nimmt 170 Megawattstunden-Speicher in Österreich in Betrieb",
+      "url": "https://www.pv-magazine.de/2026/09/14/ngen-nimmt-170-megawattstunden-speicher-in-oesterreich-in-betrieb/",
+      "published_at": "2026-09-14T14:38:49Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "NGEN nimmt 170 Megawattstunden-Speicher in Österreich in Betrieb Es soll sich um den bislang größten Batteriespeicher des Landes handeln. Es ist ein Zwei-Stunden-Batteriespeicher nahe der Grenze zu Deutschland.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d4828907e6dc006267729dae",
+      "title": "Youtube: Elon Musk teilt erneut Verstoß gegen FSD-Nutzungsregeln",
+      "url": "https://www.golem.de/news/youtube-elon-musk-teilt-erneut-verstoss-gegen-fsd-nutzungsregeln-2609-212990.html",
+      "published_at": "2026-09-14T14:01:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Youtube: Elon Musk teilt erneut Verstoß gegen FSD-Nutzungsregeln Ein 98-jähriger Mann erklärt in einem Video, dass er in seinem Tesla nicht mehr auf den Verkehr achten müsse. Elon Musk findet das gut - für Tesla ein Problem. ( Elon Musk , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f7f972669f0a0957d6bf9f69",
+      "title": "EU-Staaten wollen Interessen in der Arktis schützen",
+      "url": "https://www.tagesschau.de/ausland/europa/arktis-gipfel-eu-100.html",
+      "published_at": "2026-09-14T13:43:23Z",
+      "source_id": "tagesschau-europa",
+      "language": "de",
+      "summary": "EU-Staaten wollen Interessen in der Arktis schützen Schifffahrtsrouten, Bodenschätze und Sicherheitspolitik: Deutschland und weitere europäische Staaten fordern eine stärkere Rolle der EU in der Arktis - vor allem wegen der Bedrohung aus Moskau.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9b826d5ab3365a56f81f9c4e",
+      "title": "Engie und Return erweitern Flexibilitätsvereinbarung für Speicher in Deutschland auf 400 Megawatt",
+      "url": "https://www.pv-magazine.de/2026/09/14/engie-und-return-erweitern-flexibilitaetsvereinbarung-fuer-speicher-in-deutschland-auf-400-megawatt/",
+      "published_at": "2026-09-14T12:32:36Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Engie und Return erweitern Flexibilitätsvereinbarung für Speicher in Deutschland auf 400 Megawatt Die Verträge werden nicht für einzelne Batteriespeicher-Standorte geschlossen, sondern über verschiedene Anlagen, die in einem Virtual Flexibility Portfolio gebündelt werden. Die erste Vereinbarung dieser Art schlossen Engie und Return im Februar.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "eae98c587b6622959d1e2178",
       "title": "Warum Rabot Energy einen 2-Kilowattstunden-AC-Batteriespeicher ohne Photovoltaik-Anlage verkauft",
       "url": "https://www.pv-magazine.de/2026/09/14/warum-rabot-energy-einen-2-kilowattstunden-ac-batteriespeicher-ohne-photovoltaik-anlage-verkauft/",
