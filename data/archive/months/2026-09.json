@@ -1,8 +1,30 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 74,
+  "article_count": 76,
   "articles": [
+    {
+      "id": "eae98c587b6622959d1e2178",
+      "title": "Warum Rabot Energy einen 2-Kilowattstunden-AC-Batteriespeicher ohne Photovoltaik-Anlage verkauft",
+      "url": "https://www.pv-magazine.de/2026/09/14/warum-rabot-energy-einen-2-kilowattstunden-ac-batteriespeicher-ohne-photovoltaik-anlage-verkauft/",
+      "published_at": "2026-09-14T09:23:53Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Warum Rabot Energy einen 2-Kilowattstunden-AC-Batteriespeicher ohne Photovoltaik-Anlage verkauft Der deutsche Energieversorger kann auf diesem Weg einen dynamischen Tarif mit garantierten Einsparungen anbieten, ohne dass ein intelligenter Stromzähler benötigt wird. Die Marstek-Speicher verkauft Rabot Energy dabei zum Selbstkostenpreis an seine Kunden.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "187f59f292d806761129b8d9",
+      "title": "heise+ | Batteriespeicher mit dynamischem Tarif für Mieter: Rabot Flow im Praxis-Check",
+      "url": "https://www.heise.de/ratgeber/Batteriespeicher-mit-dynamischem-Tarif-fuer-Mieter-Rabot-Flow-im-Praxis-Check-11347989.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-09-14T05:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Batteriespeicher mit dynamischem Tarif für Mieter: Rabot Flow im Praxis-Check Speichern und verdienen: Rabot Energy vermarktet seinen Batteriespeicher an Mieter ohne Balkonkraftwerk. Wir probieren, ob sich der 400-Euro-Speicher rechnet.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "cc6bb28f2b6d117f270fea05",
       "title": "Elektromobilität: Der Umbauer",
@@ -234,7 +256,7 @@
       "title": "Boom der Batteriespeicher",
       "url": "https://www.tagesschau.de/wirtschaft/technologie/batterie-speicher-108.html",
       "published_at": "2026-09-09T09:26:04Z",
-      "source_id": "tagesschau-wirtschaft",
+      "source_id": "tagesschau-wirtschaft-technologie",
       "language": "de",
       "summary": "Boom der Batteriespeicher In Deutschland entstehen immer mehr große Batteriespeicher, die Schwankungen im Stromnetz ausgleichen. Jüngstes Beispiel ist Aachen. Wo einst Elektronik produziert wurde, werden Riesen-Akkus errichtet. Von Philipp Wundersee.",
       "tags": [],

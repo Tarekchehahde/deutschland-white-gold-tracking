@@ -1,16 +1,38 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-13T20:51:30Z",
+  "generated_at_utc": "2026-09-14T10:38:06Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 631,
+  "total_in_archive": 633,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 74
+    "2026-09": 76
   },
   "recent_for_ui": [
+    {
+      "id": "eae98c587b6622959d1e2178",
+      "title": "Warum Rabot Energy einen 2-Kilowattstunden-AC-Batteriespeicher ohne Photovoltaik-Anlage verkauft",
+      "url": "https://www.pv-magazine.de/2026/09/14/warum-rabot-energy-einen-2-kilowattstunden-ac-batteriespeicher-ohne-photovoltaik-anlage-verkauft/",
+      "published_at": "2026-09-14T09:23:53Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Warum Rabot Energy einen 2-Kilowattstunden-AC-Batteriespeicher ohne Photovoltaik-Anlage verkauft Der deutsche Energieversorger kann auf diesem Weg einen dynamischen Tarif mit garantierten Einsparungen anbieten, ohne dass ein intelligenter Stromzähler benötigt wird. Die Marstek-Speicher verkauft Rabot Energy dabei zum Selbstkostenpreis an seine Kunden.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "187f59f292d806761129b8d9",
+      "title": "heise+ | Batteriespeicher mit dynamischem Tarif für Mieter: Rabot Flow im Praxis-Check",
+      "url": "https://www.heise.de/ratgeber/Batteriespeicher-mit-dynamischem-Tarif-fuer-Mieter-Rabot-Flow-im-Praxis-Check-11347989.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-09-14T05:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Batteriespeicher mit dynamischem Tarif für Mieter: Rabot Flow im Praxis-Check Speichern und verdienen: Rabot Energy vermarktet seinen Batteriespeicher an Mieter ohne Balkonkraftwerk. Wir probieren, ob sich der 400-Euro-Speicher rechnet.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "cc6bb28f2b6d117f270fea05",
       "title": "Elektromobilität: Der Umbauer",
@@ -242,7 +264,7 @@
       "title": "Boom der Batteriespeicher",
       "url": "https://www.tagesschau.de/wirtschaft/technologie/batterie-speicher-108.html",
       "published_at": "2026-09-09T09:26:04Z",
-      "source_id": "tagesschau-wirtschaft",
+      "source_id": "tagesschau-wirtschaft-technologie",
       "language": "de",
       "summary": "Boom der Batteriespeicher In Deutschland entstehen immer mehr große Batteriespeicher, die Schwankungen im Stromnetz ausgleichen. Jüngstes Beispiel ist Aachen. Wo einst Elektronik produziert wurde, werden Riesen-Akkus errichtet. Von Philipp Wundersee.",
       "tags": [],
@@ -4544,28 +4566,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektroauto: Hyundais sportliche Stromer sollen Auspuffknallen bekommen Hyundais virtuelle Schaltung vom Ioniq 5 N wird nun von Porsche kopiert. Kommende N-Modelle sollen \"noch realistischer\" werden. ( Hyundai , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "156b9cf67d97d51c8e07f37a",
-      "title": "Solarpower Europe: Großspeicher treiben Europas Batteriemarkt auf Rekordniveau",
-      "url": "https://www.pv-magazine.de/2026/06/24/solarpower-europe-grossspeicher-treiben-europas-batteriemarkt-auf-rekordniveau/",
-      "published_at": "2026-06-24T07:03:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Solarpower Europe: Großspeicher treiben Europas Batteriemarkt auf Rekordniveau Der europäische Markt für Batteriespeicher ist 2025 um 48 Prozent auf 36 Gigawattstunden neu zugebaute Kapazität gewachsen. Erstmals entfiel dabei mehr als die Hälfte des Zubaus auf Großspeicher. Bis 2030 erwartet Solarpower Europe eine Vervierfachung des jährlichen Marktes.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0c87da4714921e3193ed055c",
-      "title": "heise+ | Batterie für das Elektroautos: Welchen Vorteil Feststoffbatterien haben",
-      "url": "https://www.heise.de/hintergrund/Batterie-fuer-das-Elektroautos-Welchen-Vorteil-Feststoffbatterien-haben-11340635.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-06-24T05:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Batterie für das Elektroautos: Welchen Vorteil Feststoffbatterien haben Festkörperbatterien sollen die Energiedichte von E-Autos massiv erhöhen. Doch was steckt hinter dem Begriff und welche Hürden gibt es bei der Serienfertigung?",
       "tags": [],
       "regions": []
     }
