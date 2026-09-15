@@ -1,16 +1,73 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-14T21:50:39Z",
+  "generated_at_utc": "2026-09-15T10:04:19Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 639,
+  "total_in_archive": 644,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 82
+    "2026-09": 87
   },
   "recent_for_ui": [
+    {
+      "id": "d490fb893109237802a41566",
+      "title": "Probefahrt VW ID.Polo: Ein Stromer für fast alle",
+      "url": "https://www.golem.de/news/probefahrt-vw-id-polo-ein-stromer-fuer-fast-alle-2609-213017.html",
+      "published_at": "2026-09-15T10:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt VW ID.Polo: Ein Stromer für fast alle Der neue VW ID.Polo glänzt mit agilem Fahrverhalten, Golf-Komfort und großem Nutzwert. Ein Elektroauto für beinahe Jedermann, aber kein Billigheimer. Ein Bericht von Franz W. Rother ( Elektroauto , Auto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "0c96f0f133a3131265750a30",
+      "title": "Elektro-SUV BMW iX3: 100.000 Bestellungen allein in Europa",
+      "url": "https://www.golem.de/news/elektro-suv-bmw-ix3-100-000-bestellungen-allein-in-europa-2609-213025.html",
+      "published_at": "2026-09-15T09:07:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektro-SUV BMW iX3: 100.000 Bestellungen allein in Europa Der vor gut einem Jahr vorgestellte iX3 kommt bei den Kunden in Europa gut an. Zum China-Geschäft nennt BMW bislang keine Zahlen. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2c322d43a6ac49dd81e75466",
+      "title": "Autonomer Umweg: Cybercab-Fahrt dauert 70 Minuten statt nur 10",
+      "url": "https://www.golem.de/news/autonomer-umweg-cybercab-fahrt-dauert-70-minuten-statt-nur-10-2609-213016.html",
+      "published_at": "2026-09-15T07:37:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomer Umweg: Cybercab-Fahrt dauert 70 Minuten statt nur 10 Tesla lässt seine Robotaxis und Cybercabs nicht auf Autobahnen fahren. Für einen Fahrgast bedeutete das einen einstündigen Umweg. ( Cybercab , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f7e1c448613c23bfb3b99327",
+      "title": "Batteriespeicher-Investoren unter Zeitdruck",
+      "url": "https://www.pv-magazine.de/2026/09/15/investieren-unter-zeitdruck/",
+      "published_at": "2026-09-15T07:10:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Batteriespeicher-Investoren unter Zeitdruck AgNes und FID: Wer von der bislang noch geltenden Netzentgeltbefreiung für Batteriespeicher profitieren will, muss schnell eine finale Investitionsentscheidung treffen. Rechtsanwältin Leonie Meltendorf erläutert, welche Bedingungen hierfür gelten – und welche Fragen noch immer nicht exakt geklärt sind.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "cc46df9b589acce55f1e10ed",
+      "title": "600 km Reichweite: BYD drängt in Europas E-Lkw-Markt",
+      "url": "https://www.golem.de/news/600-km-reichweite-byd-draengt-in-europas-e-lkw-markt-2609-213007.html",
+      "published_at": "2026-09-15T05:39:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "600 km Reichweite: BYD drängt in Europas E-Lkw-Markt Auf der IAA Transportation 2026 in Hannover präsentiert BYD eine Elektrosattelzugmaschine und setzt damit Daimler, Volvo & Co. unter Druck. ( BYD , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "2bd2a66bde60eb7d24353452",
       "title": "Elektroautos: Hamburg will künstlichen Motorenlärm verbieten",
@@ -4507,65 +4564,6 @@
       "source_id": "spiegel-schlagzeilen",
       "language": "de",
       "summary": "Tesla: Fertigungsziel steigt – weitere 1000 Jobs in Grünheide geplant Erst im April hatte der US-Elektroautobauer Tesla angekündigt, 1000 neue Mitarbeiter in seinem Werk in Grünheide beschäftigen zu wollen. Doch der Konzern will noch weiter expandieren.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d09547e557d30bd5e2699181",
-      "title": "Höhere Produktion geplant: Tesla stellt 1.000 neue Mitarbeiter in Grünheide ein",
-      "url": "https://www.golem.de/news/hoehere-produktion-geplant-tesla-stellt-1-000-neue-mitarbeiter-in-gruenheide-ein-2606-210191.html",
-      "published_at": "2026-06-25T14:46:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Höhere Produktion geplant: Tesla stellt 1.000 neue Mitarbeiter in Grünheide ein Tesla will die Produktion des Model Y in Grünheide weiter hochfahren. Die Suche nach Mitarbeitern für die Batteriezellproduktion gestaltet sich schwierig. ( Gigafactory Berlin , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "34aa7b79bb657541700e9edc",
-      "title": "Akkutechnik: CATL stellt Stromspeicher mit neuer Natrium-Technik vor",
-      "url": "https://www.golem.de/news/akkutechnik-catl-stellt-stromspeicher-mit-neuer-natrium-technik-vor-2606-210186.html",
-      "published_at": "2026-06-25T14:31:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Akkutechnik: CATL stellt Stromspeicher mit neuer Natrium-Technik vor Container mit eisenbasierten NFPP-Natriumakkus sind effiziente Netzspeicher ohne seltene Rohstoffe. Nur das Produktionsvolumen muss steigen. Von Frank Wunderlich-Pfeiffer ( Natrium-Ionen-Akkus , Energie & Klima )",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "3d82a213fdf09503417bae0d",
-      "title": "EnBW startet Bau von 400-Megawatt-Batteriespeicher in Baden-Württemberg",
-      "url": "https://www.pv-magazine.de/2026/06/25/enbw-startet-bau-von-400-megawatt-batteriespeicher-in-baden-wuerttemberg/",
-      "published_at": "2026-06-25T12:45:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "EnBW startet Bau von 400-Megawatt-Batteriespeicher in Baden-Württemberg Der Großspeicher entsteht am Standort des ehemaligen Atomkraftwerks Philippsburg. Der Speicher hat eine Kapazität von 800 Megawattstunden. Das System soll bis Ende nächsten Jahres in Betrieb gehen.",
-      "tags": [],
-      "regions": [
-        "DE-BW"
-      ]
-    },
-    {
-      "id": "534b05723a0a5b6d40b2b358",
-      "title": "Energiemarkt auf Achterbahnfahrt: Warum die Hitzewelle die Strompreise abends explodieren lässt",
-      "url": "https://www.rnd.de/wirtschaft/energiemarkt-auf-achterbahnfahrt-warum-die-hitzewelle-die-strompreise-abends-explodieren-laesst-AUR2TEGL6FGVZNWML2N7LK2EPQ.html",
-      "published_at": "2026-06-25T12:30:14Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Energiemarkt auf Achterbahnfahrt: Warum die Hitzewelle die Strompreise abends explodieren lässt Im Großhandel legen die Preise für elektrische Energie derzeit eine nie gekannte Achterbahnfahrt hin. Das liegt am Strommix aus Erneuerbaren und Gaskraftwerken. Mehr Batteriespeicher könnten Abhilfe schaffen – und die Kosten drücken. Fragen und Antworten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3525b9bbd6fde5df37859a4f",
-      "title": "Crash mit FSD: Familie von Unfallopfer verklagt Tesla",
-      "url": "https://www.golem.de/news/crash-mit-fsd-familie-von-unfallopfer-verklagt-tesla-2606-210170.html",
-      "published_at": "2026-06-25T10:15:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Crash mit FSD: Familie von Unfallopfer verklagt Tesla Ein Tesla-Fahrer ist in ein Wohnhaus gerast, die Bewohnerin stirbt. Während die Ermittlungen noch laufen, verklagt die Familie Fahrer und Tesla. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     }
