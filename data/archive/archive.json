@@ -2,6 +2,63 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "d490fb893109237802a41566",
+      "title": "Probefahrt VW ID.Polo: Ein Stromer für fast alle",
+      "url": "https://www.golem.de/news/probefahrt-vw-id-polo-ein-stromer-fuer-fast-alle-2609-213017.html",
+      "published_at": "2026-09-15T10:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt VW ID.Polo: Ein Stromer für fast alle Der neue VW ID.Polo glänzt mit agilem Fahrverhalten, Golf-Komfort und großem Nutzwert. Ein Elektroauto für beinahe Jedermann, aber kein Billigheimer. Ein Bericht von Franz W. Rother ( Elektroauto , Auto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "0c96f0f133a3131265750a30",
+      "title": "Elektro-SUV BMW iX3: 100.000 Bestellungen allein in Europa",
+      "url": "https://www.golem.de/news/elektro-suv-bmw-ix3-100-000-bestellungen-allein-in-europa-2609-213025.html",
+      "published_at": "2026-09-15T09:07:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektro-SUV BMW iX3: 100.000 Bestellungen allein in Europa Der vor gut einem Jahr vorgestellte iX3 kommt bei den Kunden in Europa gut an. Zum China-Geschäft nennt BMW bislang keine Zahlen. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2c322d43a6ac49dd81e75466",
+      "title": "Autonomer Umweg: Cybercab-Fahrt dauert 70 Minuten statt nur 10",
+      "url": "https://www.golem.de/news/autonomer-umweg-cybercab-fahrt-dauert-70-minuten-statt-nur-10-2609-213016.html",
+      "published_at": "2026-09-15T07:37:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomer Umweg: Cybercab-Fahrt dauert 70 Minuten statt nur 10 Tesla lässt seine Robotaxis und Cybercabs nicht auf Autobahnen fahren. Für einen Fahrgast bedeutete das einen einstündigen Umweg. ( Cybercab , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f7e1c448613c23bfb3b99327",
+      "title": "Batteriespeicher-Investoren unter Zeitdruck",
+      "url": "https://www.pv-magazine.de/2026/09/15/investieren-unter-zeitdruck/",
+      "published_at": "2026-09-15T07:10:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Batteriespeicher-Investoren unter Zeitdruck AgNes und FID: Wer von der bislang noch geltenden Netzentgeltbefreiung für Batteriespeicher profitieren will, muss schnell eine finale Investitionsentscheidung treffen. Rechtsanwältin Leonie Meltendorf erläutert, welche Bedingungen hierfür gelten – und welche Fragen noch immer nicht exakt geklärt sind.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "cc46df9b589acce55f1e10ed",
+      "title": "600 km Reichweite: BYD drängt in Europas E-Lkw-Markt",
+      "url": "https://www.golem.de/news/600-km-reichweite-byd-draengt-in-europas-e-lkw-markt-2609-213007.html",
+      "published_at": "2026-09-15T05:39:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "600 km Reichweite: BYD drängt in Europas E-Lkw-Markt Auf der IAA Transportation 2026 in Hannover präsentiert BYD eine Elektrosattelzugmaschine und setzt damit Daimler, Volvo & Co. unter Druck. ( BYD , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "2bd2a66bde60eb7d24353452",
       "title": "Elektroautos: Hamburg will künstlichen Motorenlärm verbieten",
       "url": "https://www.golem.de/news/elektroautos-hamburg-will-kuenstlichen-motorenlaerm-verbieten-2609-213002.html",
