@@ -3,15 +3,15 @@
   "articles_per_day": {
     "2026-09-09": 1,
     "2026-09-11": 2,
-    "2026-09-13": 1,
-    "2026-09-14": 7,
-    "2026-09-15": 5
+    "2026-09-14": 4,
+    "2026-09-15": 6
   },
   "tag_counts": {
-    "exploration": 1
+    "exploration": 2,
+    "industrie": 1
   },
   "by_source_category": {
-    "national": 15,
-    "regional": 1
+    "national": 11,
+    "regional": 2
   }
 }

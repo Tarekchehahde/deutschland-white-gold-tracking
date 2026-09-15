@@ -1,8 +1,58 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 87,
+  "article_count": 90,
   "articles": [
+    {
+      "id": "fa4696115c277ddee81d323d",
+      "title": "Elektroauto gebraucht kaufen: Spritpreis-Schock verknappt das Angebot günstiger Stromer",
+      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-gebraucht-kaufen-spritpreis-schock-verknappt-das-angebot-guenstiger-stromer-a-262c2b77-6293-4fb7-ab1b-fdf1e9356e9b",
+      "published_at": "2026-09-15T17:36:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto gebraucht kaufen: Spritpreis-Schock verknappt das Angebot günstiger Stromer Sprit ist teuer wie nie – viele Autofahrer wollen rasch auf einen Elektro-Pkw umsteigen. Doch auf Neuwagen müssen sie lange warten, die Preise für Gebrauchte heben ab. Welche Modelle noch relativ gut zu haben sind.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2f424a606f3a109f392ea1cc",
+      "title": "Gescheiterte Finanzierung löste Enerparc-Insolvenz aus – Investorenprozess soll bald starten",
+      "url": "https://www.pv-magazine.de/2026/09/15/gescheiterte-finanzierung-loeste-enerparc-insolvenz-aus-investorenprozess-soll-bald-starten/",
+      "published_at": "2026-09-15T15:27:21Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Gescheiterte Finanzierung löste Enerparc-Insolvenz aus – Investorenprozess soll bald starten Der Insolvenzverwalter des Hamburger Photovoltaik-Unternehmens äußerte sich erstmals zu den Hintergründen des Verfahrens. Er will in Kürze einen Investorenprozess eröffnen. 90 Photovoltaik-Anlagen, teilweise mit Batteriespeichern, befinden sich aktuell im Bau. Oberste Priorität hat derzeit, bei den am weit",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "62f007d0638f918c0f0f23c4",
+      "title": "Bahnverkehr in der Pfalz: Neue Akku-Züge kommen – Reisezentrum Landau bleibt",
+      "url": "https://www.pfalz-express.de/bahnverkehr-in-der-pfalz-neue-akku-zuege-kommen-reisezentrum-landau-bleibt/",
+      "published_at": "2026-09-15T10:31:22Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Bahnverkehr in der Pfalz: Neue Akku-Züge kommen – Reisezentrum Landau bleibt Auf mehreren Bahnstrecken in der Pfalz beginnt am Montag, 21. September 2026, der Fahrgastbetrieb mit den neuen Akku-Zügen. Zwischen Landau und Neustadt sollen sie schrittweise die bisherigen Dieselzüge ersetzen. Gleichzeitig ist der langfristige Erhalt des Reisezentrums im Landauer Hauptbahnhof gesichert. Nach Verzögerun",
+      "tags": [
+        "exploration"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "f7e1c448613c23bfb3b99327",
+      "title": "Batteriespeicher-Investoren unter Zeitdruck",
+      "url": "https://www.pv-magazine.de/2026/09/15/investieren-unter-zeitdruck/",
+      "published_at": "2026-09-15T10:10:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Batteriespeicher-Investoren unter Zeitdruck AgNes und FID: Wer von der bislang noch geltenden Netzentgeltbefreiung für Batteriespeicher profitieren will, muss schnell eine finale Investitionsentscheidung treffen. Rechtsanwältin Leonie Meltendorf erläutert, welche Bedingungen hierfür gelten – und welche Fragen noch immer nicht exakt geklärt sind.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d490fb893109237802a41566",
       "title": "Probefahrt VW ID.Polo: Ein Stromer für fast alle",
@@ -35,17 +85,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Autonomer Umweg: Cybercab-Fahrt dauert 70 Minuten statt nur 10 Tesla lässt seine Robotaxis und Cybercabs nicht auf Autobahnen fahren. Für einen Fahrgast bedeutete das einen einstündigen Umweg. ( Cybercab , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f7e1c448613c23bfb3b99327",
-      "title": "Batteriespeicher-Investoren unter Zeitdruck",
-      "url": "https://www.pv-magazine.de/2026/09/15/investieren-unter-zeitdruck/",
-      "published_at": "2026-09-15T07:10:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Batteriespeicher-Investoren unter Zeitdruck AgNes und FID: Wer von der bislang noch geltenden Netzentgeltbefreiung für Batteriespeicher profitieren will, muss schnell eine finale Investitionsentscheidung treffen. Rechtsanwältin Leonie Meltendorf erläutert, welche Bedingungen hierfür gelten – und welche Fragen noch immer nicht exakt geklärt sind.",
       "tags": [],
       "regions": []
     },
