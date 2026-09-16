@@ -2,6 +2,41 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "276b760e5c59c38ce2cc485c",
+      "title": "Selbstzertifizierung: Tesla muss Verkehrssicherheit seiner Cybercabs nachweisen - unter Eid",
+      "url": "https://www.golem.de/news/selbstzertifizierung-tesla-muss-verkehrssicherheit-seiner-cybercabs-nachweisen-unter-eid-2609-213115.html",
+      "published_at": "2026-09-16T14:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Selbstzertifizierung: Tesla muss Verkehrssicherheit seiner Cybercabs nachweisen - unter Eid Die US-amerikanische Verkehrsbehörde verlangt, dass Tesla Beweise für die legale Zulassung seiner Cybercabs vorlegt. Das dürfte Tesla nicht gelingen. ( Cybercab , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5a2bcce09c40a680a64cd4ea",
+      "title": "Zelestra und Salzgitter Flachstahl unterzeichnen Hybrid-PPA für Photovoltaik und Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/09/16/zelestra-und-salzgitter-flachstahl-unterzeichnen-hybrid-ppa-fuer-photovoltaik-und-batteriespeicher/",
+      "published_at": "2026-09-16T13:40:07Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Zelestra und Salzgitter Flachstahl unterzeichnen Hybrid-PPA für Photovoltaik und Batteriespeicher Der hybride kommerzielle PPA kombiniert 147 Megawatt Photovoltaik mit 237 Megawattstunden Speicherkapazität für die Umstellung auf grünen Stahl.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "559de5f630b79339da0680ab",
+      "title": "Mobilität: Bau des bundesweiten E-Lkw-Ladenetzes an Autobahnen startet",
+      "url": "https://www.golem.de/news/mobilitaet-bau-des-bundesweiten-e-lkw-ladenetzes-an-autobahnen-startet-2609-213106.html",
+      "published_at": "2026-09-16T13:24:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Mobilität: Bau des bundesweiten E-Lkw-Ladenetzes an Autobahnen startet Verkehrsminister Bilger hat den Start des Ausbaus eines bundesweiten E-Lkw-Ladenetzwerks verkündet. Zunächst werden 124 Ladepunkte eingerichtet. ( Lkw , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
       "id": "e649556fac2a26c35b0b260b",
       "title": "VW ID.Neo GTI: Alter Wein in roten Schläuchen",
       "url": "https://www.golem.de/news/vw-id-neo-gti-alter-wein-in-roten-schlaeuchen-2609-213066.html",
@@ -23,39 +58,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "f7e1c448613c23bfb3b99327",
-      "title": "Batteriespeicher-Investoren unter Zeitdruck",
-      "url": "https://www.pv-magazine.de/2026/09/15/investieren-unter-zeitdruck/",
-      "published_at": "2026-09-15T10:10:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Batteriespeicher-Investoren unter Zeitdruck AgNes und FID: Wer von der bislang noch geltenden Netzentgeltbefreiung für Batteriespeicher profitieren will, muss schnell eine finale Investitionsentscheidung treffen. Rechtsanwältin Leonie Meltendorf erläutert, welche Bedingungen hierfür gelten – und welche Fragen noch immer nicht exakt geklärt sind.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "012ffc4a7eecfc54696b43a6",
-      "title": "Größter chinesischer Fahrzeughersteller: BYD will jetzt auch seine Lkw in Europa produzieren",
-      "url": "https://rp-online.de/wirtschaft/unternehmen/byd-will-jetzt-auch-seine-lkw-in-europa-produzieren_aid-154776561",
-      "published_at": "2026-09-14T15:54:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Größter chinesischer Fahrzeughersteller: BYD will jetzt auch seine Lkw in Europa produzieren Der chinesische Elektroautobauer BYD will im kommenden Jahr seinen ersten Schwerlaster „ETT 44“ in Europa einführen und plant langfristig auch eine Lkw-Produktion.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f7f972669f0a0957d6bf9f69",
-      "title": "EU-Staaten wollen Interessen in der Arktis schützen",
-      "url": "https://www.tagesschau.de/ausland/europa/arktis-gipfel-eu-100.html",
-      "published_at": "2026-09-14T13:43:23Z",
-      "source_id": "tagesschau-europa",
-      "language": "de",
-      "summary": "EU-Staaten wollen Interessen in der Arktis schützen Schifffahrtsrouten, Bodenschätze und Sicherheitspolitik: Deutschland und weitere europäische Staaten fordern eine stärkere Rolle der EU in der Arktis - vor allem wegen der Bedrohung aus Moskau.",
-      "tags": [],
       "regions": []
     },
     {
