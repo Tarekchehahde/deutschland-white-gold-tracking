@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 90,
+  "article_count": 91,
   "articles": [
+    {
+      "id": "e649556fac2a26c35b0b260b",
+      "title": "VW ID.Neo GTI: Alter Wein in roten Schläuchen",
+      "url": "https://www.golem.de/news/vw-id-neo-gti-alter-wein-in-roten-schlaeuchen-2609-213066.html",
+      "published_at": "2026-09-16T08:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "VW ID.Neo GTI: Alter Wein in roten Schläuchen VW bringt erstmals eine GTI-Version des ID.3 auf den Markt. Die Leistungsdaten erinnern stark an ein früheres Elektroauto-Modell. Ein Bericht von Friedhelm Greis ( Volkswagen ID. , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "fa4696115c277ddee81d323d",
       "title": "Elektroauto gebraucht kaufen: Spritpreis-Schock verknappt das Angebot günstiger Stromer",

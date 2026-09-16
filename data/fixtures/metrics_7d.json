@@ -1,17 +1,16 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-09-09": 1,
     "2026-09-11": 2,
-    "2026-09-14": 4,
-    "2026-09-15": 6
+    "2026-09-14": 2,
+    "2026-09-15": 2,
+    "2026-09-16": 1
   },
   "tag_counts": {
-    "exploration": 2,
     "industrie": 1
   },
   "by_source_category": {
-    "national": 11,
-    "regional": 2
+    "national": 6,
+    "regional": 1
   }
 }
