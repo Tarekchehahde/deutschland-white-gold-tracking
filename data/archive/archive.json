@@ -2,6 +2,28 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "77429808de46c78dfa4dfa54",
+      "title": "IAB aus 2023: Warum der Dezember für die Speicherbranche zu spät ist",
+      "url": "https://www.pv-magazine.de/2026/09/17/iab-aus-2023-warum-der-dezember-fuer-die-speicherbranche-zu-spaet-ist/",
+      "published_at": "2026-09-17T08:13:02Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "IAB aus 2023: Warum der Dezember für die Speicherbranche zu spät ist Auch für Batteriespeicher läuft bei kalendergleichem Wirtschaftsjahr zum 31. Dezember 2026 die Investitionsfrist für Investitionsabzugsbeträge aus dem Jahr 2023 ab. Wer bis dahin keine ausreichende begünstigte Investition vorgenommen und den IAB nicht entsprechend verwendet hat, muss ihn rückwirkend für 2023 rückgängig machen. Da",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1d88866ea1c9196a758d2db0",
+      "title": "Elektroauto: Audi A4 E-Tron kommt offenbar erst 2029",
+      "url": "https://www.golem.de/news/elektroauto-audi-a4-e-tron-kommt-offenbar-erst-2029-2609-213127.html",
+      "published_at": "2026-09-17T05:42:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Audi A4 E-Tron kommt offenbar erst 2029 Der elektrische Audi A4 verzögert sich nach Konzerninformationen um fast ein Jahr. Die neue SSP-Plattform gerät insgesamt rund drei Jahre in Verzug. ( Audi , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "276b760e5c59c38ce2cc485c",
       "title": "Selbstzertifizierung: Tesla muss Verkehrssicherheit seiner Cybercabs nachweisen - unter Eid",
       "url": "https://www.golem.de/news/selbstzertifizierung-tesla-muss-verkehrssicherheit-seiner-cybercabs-nachweisen-unter-eid-2609-213115.html",
