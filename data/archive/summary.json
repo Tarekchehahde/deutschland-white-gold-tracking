@@ -1,16 +1,38 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-16T21:19:43Z",
+  "generated_at_utc": "2026-09-17T09:59:02Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 651,
+  "total_in_archive": 653,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 94
+    "2026-09": 96
   },
   "recent_for_ui": [
+    {
+      "id": "77429808de46c78dfa4dfa54",
+      "title": "IAB aus 2023: Warum der Dezember für die Speicherbranche zu spät ist",
+      "url": "https://www.pv-magazine.de/2026/09/17/iab-aus-2023-warum-der-dezember-fuer-die-speicherbranche-zu-spaet-ist/",
+      "published_at": "2026-09-17T08:13:02Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "IAB aus 2023: Warum der Dezember für die Speicherbranche zu spät ist Auch für Batteriespeicher läuft bei kalendergleichem Wirtschaftsjahr zum 31. Dezember 2026 die Investitionsfrist für Investitionsabzugsbeträge aus dem Jahr 2023 ab. Wer bis dahin keine ausreichende begünstigte Investition vorgenommen und den IAB nicht entsprechend verwendet hat, muss ihn rückwirkend für 2023 rückgängig machen. Da",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1d88866ea1c9196a758d2db0",
+      "title": "Elektroauto: Audi A4 E-Tron kommt offenbar erst 2029",
+      "url": "https://www.golem.de/news/elektroauto-audi-a4-e-tron-kommt-offenbar-erst-2029-2609-213127.html",
+      "published_at": "2026-09-17T05:42:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Audi A4 E-Tron kommt offenbar erst 2029 Der elektrische Audi A4 verzögert sich nach Konzerninformationen um fast ein Jahr. Die neue SSP-Plattform gerät insgesamt rund drei Jahre in Verzug. ( Audi , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "276b760e5c59c38ce2cc485c",
       "title": "Selbstzertifizierung: Tesla muss Verkehrssicherheit seiner Cybercabs nachweisen - unter Eid",
@@ -4549,28 +4571,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "1e2cec078f2450fb2358ec67",
-      "title": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus",
-      "url": "https://www.tagesschau.de/inland/regional/sachsen/bergakademie-minecraft-computerspiel-countdown-bergau-wissen-100.html",
-      "published_at": "2026-06-29T09:08:16Z",
-      "source_id": "tagesschau-sn",
-      "language": "de",
-      "summary": "Schlauer durch Zocken: TU Bergakademie Freiberg bringt Computerspiel heraus Wissensvermittlung mal anders. Die TU Bergakademie will mit einer Freiberger Version von Minecraft junge Menschen für Bergbau und Rohstoffforschung begeistern. Auch Heimatkunde spielt in \"Countdown Freiberg\" eine Rolle.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e15f578808ef81f49d8108ea",
-      "title": "Stromkosten: Wann sich Batteriespeicher auch ohne Solaranlage lohnen",
-      "url": "https://www.spiegel.de/wirtschaft/service/stromkosten-wann-sich-batteriespeicher-auch-ohne-solaranlage-lohnen-a-bf45b49a-2678-4d44-bfe8-d1bcc1765e43",
-      "published_at": "2026-06-29T08:38:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Stromkosten: Wann sich Batteriespeicher auch ohne Solaranlage lohnen Billigen Strom speichern und später nutzen: Bislang war das ein Modell für Hausbesitzer mit Solaranlage. Jetzt bieten erste Firmen Batteriespeicher auch für Mieter an. Hier erfahren Sie, ob das sinnvoll ist.",
-      "tags": [],
       "regions": []
     }
   ]
