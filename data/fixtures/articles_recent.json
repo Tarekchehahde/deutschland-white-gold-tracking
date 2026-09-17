@@ -2,6 +2,50 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "e0b9952e4c0c483c19e4506c",
+      "title": "Hybridkraftwerk mit 69 Megawatt Photovoltaik und 76,5 Megawattstunden Speicher geht ans Netz",
+      "url": "https://www.pv-magazine.de/2026/09/17/hybridkraftwerk-mit-69-megawatt-photovoltaik-und-765-megawattstunden-speicher-geht-ans-netz/",
+      "published_at": "2026-09-17T14:03:17Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Hybridkraftwerk mit 69 Megawatt Photovoltaik und 76,5 Megawattstunden Speicher geht ans Netz Nach rund vier Jahren Planung und Entwicklung steht das Projekt kurz vor der feierlichen Inbetriebnahme. Der Batteriespeicher mit 76,5 Megawattstunden Kapazität muss zunächst komplett als Grünstromspeicher betrieben werden, da Eon Edis die zunächst zusagte Bezugsleistung von 6 Megawatt wieder aus dem Ansch",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b9f131ec3b4eceb7bb2b5c74",
+      "title": "Schnellladesäulen: Wenn der Ladestecker zickt",
+      "url": "https://www.golem.de/news/schnellladesaeulen-wenn-der-ladestecker-zickt-2609-213125.html",
+      "published_at": "2026-09-17T12:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Schnellladesäulen: Wenn der Ladestecker zickt Bei mehreren Autotests in diesem Sommer hatten wir Probleme mit Ladesteckern. Grund dafür ist unter anderem ein Fertigungsfehler. Ein Bericht von Friedhelm Greis ( Ladesäule , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e6e71ebfaf1418ecd0c7495d",
+      "title": "Eon bietet ab 2027 Photovoltaik-Komplettpaket mit Einspeisebonus an",
+      "url": "https://www.pv-magazine.de/2026/09/17/eon-bietet-ab-2027-photovoltaik-komplettpaket-mit-einspeisebonus-an/",
+      "published_at": "2026-09-17T11:23:11Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Eon bietet ab 2027 Photovoltaik-Komplettpaket mit Einspeisebonus an Bis zu 570 Euro Bonus jährlich und Ersparnisse durch smarte Solarstrom-Nutzung verspricht der Energiekonzern. Dies gilt für Privathaushalte mit einer 10 Kilowatt Photovoltaik-Anlage, Speicher, Elektroauto und Wärmepumpe. Der feste Einspeisebonus soll dabei das Risiko der schwankenden Börsenstrompreise für die Kunden kompensieren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c3611b76e63ace653284ac2a",
+      "title": "Deutschland: E-Autos boomen, Energiesteuern schwinden",
+      "url": "https://www.dw.com/de/deutschland-e-autos-boomen-energiesteuern-schwinden/a-79293200?maca=de-rss-de-eco-1018-xml-mrss",
+      "published_at": "2026-09-17T10:27:00Z",
+      "source_id": "dw-wirtschaft",
+      "language": "de",
+      "summary": "Deutschland: E-Autos boomen, Energiesteuern schwinden Mit den Spritpreisen steigt auch das Interesse an Elektroautos. Doch Elektromobilität lässt nicht nur schädliche CO2-Emissionen sinken, sondern auch die Steuereinnahmen. Wie reagiert die Politik auf das Paradox?",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "77429808de46c78dfa4dfa54",
       "title": "IAB aus 2023: Warum der Dezember für die Speicherbranche zu spät ist",
       "url": "https://www.pv-magazine.de/2026/09/17/iab-aus-2023-warum-der-dezember-fuer-die-speicherbranche-zu-spaet-ist/",
@@ -9,28 +53,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "IAB aus 2023: Warum der Dezember für die Speicherbranche zu spät ist Auch für Batteriespeicher läuft bei kalendergleichem Wirtschaftsjahr zum 31. Dezember 2026 die Investitionsfrist für Investitionsabzugsbeträge aus dem Jahr 2023 ab. Wer bis dahin keine ausreichende begünstigte Investition vorgenommen und den IAB nicht entsprechend verwendet hat, muss ihn rückwirkend für 2023 rückgängig machen. Da",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1d88866ea1c9196a758d2db0",
-      "title": "Elektroauto: Audi A4 E-Tron kommt offenbar erst 2029",
-      "url": "https://www.golem.de/news/elektroauto-audi-a4-e-tron-kommt-offenbar-erst-2029-2609-213127.html",
-      "published_at": "2026-09-17T05:42:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Audi A4 E-Tron kommt offenbar erst 2029 Der elektrische Audi A4 verzögert sich nach Konzerninformationen um fast ein Jahr. Die neue SSP-Plattform gerät insgesamt rund drei Jahre in Verzug. ( Audi , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "276b760e5c59c38ce2cc485c",
-      "title": "Selbstzertifizierung: Tesla muss Verkehrssicherheit seiner Cybercabs nachweisen - unter Eid",
-      "url": "https://www.golem.de/news/selbstzertifizierung-tesla-muss-verkehrssicherheit-seiner-cybercabs-nachweisen-unter-eid-2609-213115.html",
-      "published_at": "2026-09-16T14:23:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Selbstzertifizierung: Tesla muss Verkehrssicherheit seiner Cybercabs nachweisen - unter Eid Die US-amerikanische Verkehrsbehörde verlangt, dass Tesla Beweise für die legale Zulassung seiner Cybercabs vorlegt. Das dürfte Tesla nicht gelingen. ( Cybercab , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -43,32 +65,6 @@
       "language": "de",
       "summary": "Zelestra und Salzgitter Flachstahl unterzeichnen Hybrid-PPA für Photovoltaik und Batteriespeicher Der hybride kommerzielle PPA kombiniert 147 Megawatt Photovoltaik mit 237 Megawattstunden Speicherkapazität für die Umstellung auf grünen Stahl.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "559de5f630b79339da0680ab",
-      "title": "Mobilität: Bau des bundesweiten E-Lkw-Ladenetzes an Autobahnen startet",
-      "url": "https://www.golem.de/news/mobilitaet-bau-des-bundesweiten-e-lkw-ladenetzes-an-autobahnen-startet-2609-213106.html",
-      "published_at": "2026-09-16T13:24:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Mobilität: Bau des bundesweiten E-Lkw-Ladenetzes an Autobahnen startet Verkehrsminister Bilger hat den Start des Ausbaus eines bundesweiten E-Lkw-Ladenetzwerks verkündet. Zunächst werden 124 Ladepunkte eingerichtet. ( Lkw , Elektroauto )",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "2f424a606f3a109f392ea1cc",
-      "title": "Gescheiterte Finanzierung löste Enerparc-Insolvenz aus – Investorenprozess soll bald starten",
-      "url": "https://www.pv-magazine.de/2026/09/15/gescheiterte-finanzierung-loeste-enerparc-insolvenz-aus-investorenprozess-soll-bald-starten/",
-      "published_at": "2026-09-15T15:27:21Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Gescheiterte Finanzierung löste Enerparc-Insolvenz aus – Investorenprozess soll bald starten Der Insolvenzverwalter des Hamburger Photovoltaik-Unternehmens äußerte sich erstmals zu den Hintergründen des Verfahrens. Er will in Kürze einen Investorenprozess eröffnen. 90 Photovoltaik-Anlagen, teilweise mit Batteriespeichern, befinden sich aktuell im Bau. Oberste Priorität hat derzeit, bei den am weit",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     },
     {
