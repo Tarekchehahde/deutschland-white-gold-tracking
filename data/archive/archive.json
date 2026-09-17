@@ -2,6 +2,50 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "e0b9952e4c0c483c19e4506c",
+      "title": "Hybridkraftwerk mit 69 Megawatt Photovoltaik und 76,5 Megawattstunden Speicher geht ans Netz",
+      "url": "https://www.pv-magazine.de/2026/09/17/hybridkraftwerk-mit-69-megawatt-photovoltaik-und-765-megawattstunden-speicher-geht-ans-netz/",
+      "published_at": "2026-09-17T14:03:17Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Hybridkraftwerk mit 69 Megawatt Photovoltaik und 76,5 Megawattstunden Speicher geht ans Netz Nach rund vier Jahren Planung und Entwicklung steht das Projekt kurz vor der feierlichen Inbetriebnahme. Der Batteriespeicher mit 76,5 Megawattstunden Kapazität muss zunächst komplett als Grünstromspeicher betrieben werden, da Eon Edis die zunächst zusagte Bezugsleistung von 6 Megawatt wieder aus dem Ansch",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b9f131ec3b4eceb7bb2b5c74",
+      "title": "Schnellladesäulen: Wenn der Ladestecker zickt",
+      "url": "https://www.golem.de/news/schnellladesaeulen-wenn-der-ladestecker-zickt-2609-213125.html",
+      "published_at": "2026-09-17T12:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Schnellladesäulen: Wenn der Ladestecker zickt Bei mehreren Autotests in diesem Sommer hatten wir Probleme mit Ladesteckern. Grund dafür ist unter anderem ein Fertigungsfehler. Ein Bericht von Friedhelm Greis ( Ladesäule , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e6e71ebfaf1418ecd0c7495d",
+      "title": "Eon bietet ab 2027 Photovoltaik-Komplettpaket mit Einspeisebonus an",
+      "url": "https://www.pv-magazine.de/2026/09/17/eon-bietet-ab-2027-photovoltaik-komplettpaket-mit-einspeisebonus-an/",
+      "published_at": "2026-09-17T11:23:11Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Eon bietet ab 2027 Photovoltaik-Komplettpaket mit Einspeisebonus an Bis zu 570 Euro Bonus jährlich und Ersparnisse durch smarte Solarstrom-Nutzung verspricht der Energiekonzern. Dies gilt für Privathaushalte mit einer 10 Kilowatt Photovoltaik-Anlage, Speicher, Elektroauto und Wärmepumpe. Der feste Einspeisebonus soll dabei das Risiko der schwankenden Börsenstrompreise für die Kunden kompensieren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c3611b76e63ace653284ac2a",
+      "title": "Deutschland: E-Autos boomen, Energiesteuern schwinden",
+      "url": "https://www.dw.com/de/deutschland-e-autos-boomen-energiesteuern-schwinden/a-79293200?maca=de-rss-de-eco-1018-xml-mrss",
+      "published_at": "2026-09-17T10:27:00Z",
+      "source_id": "dw-wirtschaft",
+      "language": "de",
+      "summary": "Deutschland: E-Autos boomen, Energiesteuern schwinden Mit den Spritpreisen steigt auch das Interesse an Elektroautos. Doch Elektromobilität lässt nicht nur schädliche CO2-Emissionen sinken, sondern auch die Steuereinnahmen. Wie reagiert die Politik auf das Paradox?",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "77429808de46c78dfa4dfa54",
       "title": "IAB aus 2023: Warum der Dezember für die Speicherbranche zu spät ist",
       "url": "https://www.pv-magazine.de/2026/09/17/iab-aus-2023-warum-der-dezember-fuer-die-speicherbranche-zu-spaet-ist/",

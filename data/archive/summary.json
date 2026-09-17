@@ -1,16 +1,60 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-17T09:59:02Z",
+  "generated_at_utc": "2026-09-17T21:23:39Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 653,
+  "total_in_archive": 657,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 96
+    "2026-09": 100
   },
   "recent_for_ui": [
+    {
+      "id": "e0b9952e4c0c483c19e4506c",
+      "title": "Hybridkraftwerk mit 69 Megawatt Photovoltaik und 76,5 Megawattstunden Speicher geht ans Netz",
+      "url": "https://www.pv-magazine.de/2026/09/17/hybridkraftwerk-mit-69-megawatt-photovoltaik-und-765-megawattstunden-speicher-geht-ans-netz/",
+      "published_at": "2026-09-17T14:03:17Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Hybridkraftwerk mit 69 Megawatt Photovoltaik und 76,5 Megawattstunden Speicher geht ans Netz Nach rund vier Jahren Planung und Entwicklung steht das Projekt kurz vor der feierlichen Inbetriebnahme. Der Batteriespeicher mit 76,5 Megawattstunden Kapazität muss zunächst komplett als Grünstromspeicher betrieben werden, da Eon Edis die zunächst zusagte Bezugsleistung von 6 Megawatt wieder aus dem Ansch",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b9f131ec3b4eceb7bb2b5c74",
+      "title": "Schnellladesäulen: Wenn der Ladestecker zickt",
+      "url": "https://www.golem.de/news/schnellladesaeulen-wenn-der-ladestecker-zickt-2609-213125.html",
+      "published_at": "2026-09-17T12:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Schnellladesäulen: Wenn der Ladestecker zickt Bei mehreren Autotests in diesem Sommer hatten wir Probleme mit Ladesteckern. Grund dafür ist unter anderem ein Fertigungsfehler. Ein Bericht von Friedhelm Greis ( Ladesäule , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e6e71ebfaf1418ecd0c7495d",
+      "title": "Eon bietet ab 2027 Photovoltaik-Komplettpaket mit Einspeisebonus an",
+      "url": "https://www.pv-magazine.de/2026/09/17/eon-bietet-ab-2027-photovoltaik-komplettpaket-mit-einspeisebonus-an/",
+      "published_at": "2026-09-17T11:23:11Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Eon bietet ab 2027 Photovoltaik-Komplettpaket mit Einspeisebonus an Bis zu 570 Euro Bonus jährlich und Ersparnisse durch smarte Solarstrom-Nutzung verspricht der Energiekonzern. Dies gilt für Privathaushalte mit einer 10 Kilowatt Photovoltaik-Anlage, Speicher, Elektroauto und Wärmepumpe. Der feste Einspeisebonus soll dabei das Risiko der schwankenden Börsenstrompreise für die Kunden kompensieren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c3611b76e63ace653284ac2a",
+      "title": "Deutschland: E-Autos boomen, Energiesteuern schwinden",
+      "url": "https://www.dw.com/de/deutschland-e-autos-boomen-energiesteuern-schwinden/a-79293200?maca=de-rss-de-eco-1018-xml-mrss",
+      "published_at": "2026-09-17T10:27:00Z",
+      "source_id": "dw-wirtschaft",
+      "language": "de",
+      "summary": "Deutschland: E-Autos boomen, Energiesteuern schwinden Mit den Spritpreisen steigt auch das Interesse an Elektroautos. Doch Elektromobilität lässt nicht nur schädliche CO2-Emissionen sinken, sondern auch die Steuereinnahmen. Wie reagiert die Politik auf das Paradox?",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "77429808de46c78dfa4dfa54",
       "title": "IAB aus 2023: Warum der Dezember für die Speicherbranche zu spät ist",
@@ -4522,52 +4566,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "pv magazine Focus: Qualitätskontrolle als Grundlage für bankfähige BESS-Projekte Branchenexperten erklärten auf der Veranstaltung „pv magazine Focus“, die im Rahmen der Intersolar 2026 in München stattfand, dass nicht allein die Zellchemie, sondern vielmehr die Qualitätskontrolle, die Vertragsgestaltung und die Zertifizierung darüber entscheiden, ob Batterie-Energiespeichersystem-Projekte (BESS) ü",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "28ed550385655528adcd1cad",
-      "title": "Eku Energy realisiert bis 2029 Batteriespeicher mit 1600 Megawattstunden in Deutschland",
-      "url": "https://www.pv-magazine.de/2026/06/30/eku-energy-realisiert-bis-2029-batteriespeicher-mit-1600-megawattstunden-in-deutschland/",
-      "published_at": "2026-06-30T10:37:08Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Eku Energy realisiert bis 2029 Batteriespeicher mit 1600 Megawattstunden in Deutschland Der 4-Stunden-Speicher entsteht im niedersächsischen Lamspringe. Er soll direkt ans Übertragungsnetz angeschlossen werden. Es soll zudem netzbildend und schwarzstartfähig sein.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fb7eb546687a79db35d7c18d",
-      "title": "Enervis-Batteriespeicher-Index: Im Mai bleiben die Erlöse in Deutschland auf hohem Niveau und steigen leicht an, getragen von ähnlichen Marktbedingungen wie im April",
-      "url": "https://www.pv-magazine.de/2026/06/30/enervis-batteriespeicher-index-im-mai-bleiben-die-erloese-in-deutschland-auf-hohem-niveau-und-steigen-leicht-an-getragen-von-aehnlichen-marktbedingungen-wie-im-april/",
-      "published_at": "2026-06-30T07:10:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Enervis-Batteriespeicher-Index: Im Mai bleiben die Erlöse in Deutschland auf hohem Niveau und steigen leicht an, getragen von ähnlichen Marktbedingungen wie im April Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f171c6e7ea4d31ea18226d02",
-      "title": "Staubsaugerroboterhersteller: Der „verrückte Chef“ des Dreame-Konzerns",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dreame-gruender-yu-hao-krise-durch-social-media-exzesse-accg-200959579.html",
-      "published_at": "2026-06-30T05:53:10Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Staubsaugerroboterhersteller: Der „verrückte Chef“ des Dreame-Konzerns Dreame ist für Staubsaugerroboter bekannt – und wollte rasant expandieren: Elektroautos, Satelliten, Zahnbürsten. Doch nun steckt der Konzern in Schwierigkeiten. Der Grund: das exzessive Social-Media-Verhalten des Gründers.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "79831770d43c82e5ad2d6565",
-      "title": "E-Autos: Tesla-Batterien aus Nevada-Fabrik gestohlen",
-      "url": "https://www.golem.de/news/e-autos-tesla-batterien-aus-nevada-fabrik-gestohlen-2606-210320.html",
-      "published_at": "2026-06-30T05:15:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "E-Autos: Tesla-Batterien aus Nevada-Fabrik gestohlen Seit Dezember 2025 verschwinden aus Teslas Gigafactory in Nevada Akkus im Wert von je bis zu einer halben Million US-Dollar. ( Tesla , Elektroauto )",
       "tags": [
         "industrie"
       ],
