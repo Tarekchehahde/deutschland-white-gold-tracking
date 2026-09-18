@@ -2,6 +2,31 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "c00a8c3a1085614d1bf01156",
+      "title": "Spritpreise: Umweltbundesamt schlägt Hilfen zum Umstieg auf E-Mobilität vor",
+      "url": "https://www.heise.de/news/Spritpreise-Umweltbundesamt-schlaegt-Hilfen-zum-Umstieg-auf-E-Mobilitaet-vor-11457843.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-18T07:09:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Spritpreise: Umweltbundesamt schlägt Hilfen zum Umstieg auf E-Mobilität vor Während die Bundesregierung Entlastungen bei den Spritpreisen plant, schlägt das Umweltbundesamt Hilfen zu einem schnelleren Umstieg auf Elektromobilität vor.",
+      "tags": [
+        "politik",
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "740ddeb2efb185d308fc1f8d",
+      "title": "Hohe Benzinpreise: Wie der Treibstoffmarkt in fünf Jahren aussehen könnte",
+      "url": "https://www.golem.de/news/hohe-benzinpreise-wie-der-treibstoffmarkt-in-fuenf-jahren-aussehen-koennte-2609-213142.html",
+      "published_at": "2026-09-18T06:30:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Hohe Benzinpreise: Wie der Treibstoffmarkt in fünf Jahren aussehen könnte Benzin und Diesel werden immer teurer, weil die Nachfrage das Angebot übersteigt, soweit ganz logisch. Kann der E-Auto-Boom daran etwas ändern? Eine Analyse von Mario Petzold ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "e0b9952e4c0c483c19e4506c",
       "title": "Hybridkraftwerk mit 69 Megawatt Photovoltaik und 76,5 Megawattstunden Speicher geht ans Netz",
       "url": "https://www.pv-magazine.de/2026/09/17/hybridkraftwerk-mit-69-megawatt-photovoltaik-und-765-megawattstunden-speicher-geht-ans-netz/",
@@ -53,17 +78,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "IAB aus 2023: Warum der Dezember für die Speicherbranche zu spät ist Auch für Batteriespeicher läuft bei kalendergleichem Wirtschaftsjahr zum 31. Dezember 2026 die Investitionsfrist für Investitionsabzugsbeträge aus dem Jahr 2023 ab. Wer bis dahin keine ausreichende begünstigte Investition vorgenommen und den IAB nicht entsprechend verwendet hat, muss ihn rückwirkend für 2023 rückgängig machen. Da",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5a2bcce09c40a680a64cd4ea",
-      "title": "Zelestra und Salzgitter Flachstahl unterzeichnen Hybrid-PPA für Photovoltaik und Batteriespeicher",
-      "url": "https://www.pv-magazine.de/2026/09/16/zelestra-und-salzgitter-flachstahl-unterzeichnen-hybrid-ppa-fuer-photovoltaik-und-batteriespeicher/",
-      "published_at": "2026-09-16T13:40:07Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Zelestra und Salzgitter Flachstahl unterzeichnen Hybrid-PPA für Photovoltaik und Batteriespeicher Der hybride kommerzielle PPA kombiniert 147 Megawatt Photovoltaik mit 237 Megawattstunden Speicherkapazität für die Umstellung auf grünen Stahl.",
       "tags": [],
       "regions": []
     },

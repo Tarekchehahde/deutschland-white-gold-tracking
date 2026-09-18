@@ -1,16 +1,41 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-17T21:23:39Z",
+  "generated_at_utc": "2026-09-18T09:45:54Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 657,
+  "total_in_archive": 659,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 100
+    "2026-09": 102
   },
   "recent_for_ui": [
+    {
+      "id": "c00a8c3a1085614d1bf01156",
+      "title": "Spritpreise: Umweltbundesamt schlägt Hilfen zum Umstieg auf E-Mobilität vor",
+      "url": "https://www.heise.de/news/Spritpreise-Umweltbundesamt-schlaegt-Hilfen-zum-Umstieg-auf-E-Mobilitaet-vor-11457843.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-18T07:09:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Spritpreise: Umweltbundesamt schlägt Hilfen zum Umstieg auf E-Mobilität vor Während die Bundesregierung Entlastungen bei den Spritpreisen plant, schlägt das Umweltbundesamt Hilfen zu einem schnelleren Umstieg auf Elektromobilität vor.",
+      "tags": [
+        "politik",
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "740ddeb2efb185d308fc1f8d",
+      "title": "Hohe Benzinpreise: Wie der Treibstoffmarkt in fünf Jahren aussehen könnte",
+      "url": "https://www.golem.de/news/hohe-benzinpreise-wie-der-treibstoffmarkt-in-fuenf-jahren-aussehen-koennte-2609-213142.html",
+      "published_at": "2026-09-18T06:30:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Hohe Benzinpreise: Wie der Treibstoffmarkt in fünf Jahren aussehen könnte Benzin und Diesel werden immer teurer, weil die Nachfrage das Angebot übersteigt, soweit ganz logisch. Kann der E-Auto-Boom daran etwas ändern? Eine Analyse von Mario Petzold ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e0b9952e4c0c483c19e4506c",
       "title": "Hybridkraftwerk mit 69 Megawatt Photovoltaik und 76,5 Megawattstunden Speicher geht ans Netz",
@@ -4545,30 +4570,6 @@
       "language": "de",
       "summary": "Batterieforschung: Europas Chance bei Lithium-Schwefel-Akkus Während die Technologie in Asien als Konkurrenz wahrgenommen wird, fehlt in den USA die langfristige Forschungsarbeit. Diese Lücke gilt es zu nutzen. ( Akku , LG )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7c9350e8c137c565000dc96d",
-      "title": "GDV-Studie Elektroautos: E-Autos laut neuer Studie nicht gefährlicher als Verbrenner",
-      "url": "https://rp-online.de/leben/auto/alternative-antriebe/elektroauto/e-autos-laut-neuer-studie-nicht-gefaehrlicher-als-verbrenner_aid-150740163",
-      "published_at": "2026-06-30T12:37:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "GDV-Studie Elektroautos: E-Autos laut neuer Studie nicht gefährlicher als Verbrenner E-Autos sind im Großen und Ganzen nicht unfallanfälliger als Verbrenner - zu diesem Schluss kommt eine Untersuchung des Gesamtverbands der Versicherer. Allerdings gibt es Unfallmuster, die bei E-Autos häufiger auftreten. Welche sind das?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1a28a36d1b0f2c764a676b0b",
-      "title": "pv magazine Focus: Qualitätskontrolle als Grundlage für bankfähige BESS-Projekte",
-      "url": "https://www.pv-magazine.de/2026/06/30/pv-magazine-focus-qualitaetskontrolle-als-grundlage-fuer-bankfaehige-bess-projekte/",
-      "published_at": "2026-06-30T12:15:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "pv magazine Focus: Qualitätskontrolle als Grundlage für bankfähige BESS-Projekte Branchenexperten erklärten auf der Veranstaltung „pv magazine Focus“, die im Rahmen der Intersolar 2026 in München stattfand, dass nicht allein die Zellchemie, sondern vielmehr die Qualitätskontrolle, die Vertragsgestaltung und die Zertifizierung darüber entscheiden, ob Batterie-Energiespeichersystem-Projekte (BESS) ü",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]

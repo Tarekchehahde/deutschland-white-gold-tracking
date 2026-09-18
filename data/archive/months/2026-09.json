@@ -1,8 +1,33 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 100,
+  "article_count": 102,
   "articles": [
+    {
+      "id": "c00a8c3a1085614d1bf01156",
+      "title": "Spritpreise: Umweltbundesamt schlägt Hilfen zum Umstieg auf E-Mobilität vor",
+      "url": "https://www.heise.de/news/Spritpreise-Umweltbundesamt-schlaegt-Hilfen-zum-Umstieg-auf-E-Mobilitaet-vor-11457843.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-18T07:09:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Spritpreise: Umweltbundesamt schlägt Hilfen zum Umstieg auf E-Mobilität vor Während die Bundesregierung Entlastungen bei den Spritpreisen plant, schlägt das Umweltbundesamt Hilfen zu einem schnelleren Umstieg auf Elektromobilität vor.",
+      "tags": [
+        "politik",
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "740ddeb2efb185d308fc1f8d",
+      "title": "Hohe Benzinpreise: Wie der Treibstoffmarkt in fünf Jahren aussehen könnte",
+      "url": "https://www.golem.de/news/hohe-benzinpreise-wie-der-treibstoffmarkt-in-fuenf-jahren-aussehen-koennte-2609-213142.html",
+      "published_at": "2026-09-18T06:30:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Hohe Benzinpreise: Wie der Treibstoffmarkt in fünf Jahren aussehen könnte Benzin und Diesel werden immer teurer, weil die Nachfrage das Angebot übersteigt, soweit ganz logisch. Kann der E-Auto-Boom daran etwas ändern? Eine Analyse von Mario Petzold ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e0b9952e4c0c483c19e4506c",
       "title": "Hybridkraftwerk mit 69 Megawatt Photovoltaik und 76,5 Megawattstunden Speicher geht ans Netz",
