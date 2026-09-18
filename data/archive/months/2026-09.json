@@ -1,8 +1,65 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 102,
+  "article_count": 107,
   "articles": [
+    {
+      "id": "af9ae57469c8bef621b4efab",
+      "title": "Steer-by-Wire in der Praxis: Mit dem Jochlenker übers Penser Joch",
+      "url": "https://www.golem.de/news/steer-by-wire-in-der-praxis-mit-dem-jochlenker-uebers-penser-joch-2609-213186.html",
+      "published_at": "2026-09-18T16:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Steer-by-Wire in der Praxis: Mit dem Jochlenker übers Penser Joch Das elektronische Lenkrad geht bei Mercedes demnächst in Serie. Wie sich das System in der Praxis fährt, haben wir mit dem EQS in den Alpen ausprobiert. Ein Bericht von Friedhelm Greis ( Elektroauto , Tesla )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8d43b5014028835eb27d3257",
+      "title": "Spritpreise steigen: ADAC und Handwerk fordern niedrigere Stromsteuer",
+      "url": "https://www.golem.de/news/spritpreise-steigen-adac-und-handwerk-fordern-niedrigere-stromsteuer-2609-213212.html",
+      "published_at": "2026-09-18T13:24:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Spritpreise steigen: ADAC und Handwerk fordern niedrigere Stromsteuer Der ADAC und Handwerksvertreter fordern eine Senkung der Stromsteuer. Dadurch soll der Umstieg auf Elektromobilität beschleunigt werden. ( Elektroauto , Politik )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "00bae3b375fb94d2395c5b40",
+      "title": "Batteriespeicher: Speicherschwarm senkt Preise und entlastet Stromnetz",
+      "url": "https://www.golem.de/news/batteriespeicher-speicherschwarm-senkt-preise-und-entlastet-stromnetz-2609-213214.html",
+      "published_at": "2026-09-18T13:06:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Batteriespeicher: Speicherschwarm senkt Preise und entlastet Stromnetz Ein Verbund aus Millionen Heimspeichern könnte nicht nur das Stromnetz flexibilisieren. Privathaushalte hätten damit auch Zugriff auf Notstrom. ( Akku , Energiewende )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "aa725ea2036b85c50742bc5f",
+      "title": "Germersheim: Tafel bekommt Photovoltaikanlage",
+      "url": "https://www.pfalz-express.de/germersheim-tafel-bekommt-photovoltaikanlage/",
+      "published_at": "2026-09-18T11:30:24Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Germersheim: Tafel bekommt Photovoltaikanlage Germersheim – Die Tafel Germersheim will künftig einen Teil ihres Stroms selbst produzieren. Auf dem Dach des Gebäudes in der Waldstraße 15 soll eine Photovoltaikanlage entstehen. Dazu kommen ein Stromspeicher und drei Wallboxen für Elektrofahrzeuge. Am Donnerstag wurden dafür die entscheidenden Verträge unterzeichnet. Die Idee dahinter ist einfach: Di",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "74053ae2bd497155c6de3962",
+      "title": "Britische Regulierungsbehörde plant Gebühren für Batteriespeicher zur Verkürzung der Warteliste für Netzanschlüsse",
+      "url": "https://www.pv-magazine.de/2026/09/18/britische-regulierungsbehoerde-plant-gebuehren-fuer-batteriespeicher-zur-verkuerzung-der-warteliste-fuer-netzanschluesse/",
+      "published_at": "2026-09-18T10:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Britische Regulierungsbehörde plant Gebühren für Batteriespeicher zur Verkürzung der Warteliste für Netzanschlüsse Die finanzielle Verpflichtung für Batteriespeichersysteme steht kurz vor der Genehmigung, um die Überkapazitäten in der britischen Warteliste für Netzanschlüsse weiter abzubauen. Trotz der jüngsten Reformbemühungen bei den Netzanschlussverfahren ist die Warteliste immer noch mehr als ",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
     {
       "id": "c00a8c3a1085614d1bf01156",
       "title": "Spritpreise: Umweltbundesamt schlägt Hilfen zum Umstieg auf E-Mobilität vor",
