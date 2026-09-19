@@ -2,6 +2,30 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "ccebb39708468f4e2e61b789",
+      "title": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken",
+      "url": "https://www.heise.de/news/Stromnetze-vertragen-mehr-PV-Strom-mit-Batteriespeichern-an-Umspannwerken-11459047.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-19T08:18:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken Einer Studie zufolge verkraften die Stromnetze durch Batteriespeicher an Umspannwerken deutlich mehr Solarstrom.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "773bd187f64314557f25a92d",
+      "title": "USA installieren so viel Batteriespeicher wie nie – doch jetzt droht ein Problem",
+      "url": "https://t3n.de/news/usa-batteriespeicher-rekord-problem-china-1762957/",
+      "published_at": "2026-09-18T16:40:00Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "USA installieren so viel Batteriespeicher wie nie – doch jetzt droht ein Problem Batteriespeicher sind derzeit einer der wachstumsstärksten Bereiche der US-Energiewirtschaft. Doch fast alle neuen Systeme nutzen Zellen aus China — genau die will die Regierung nun aus sensiblen Netzprojekten verdrängen. Im zweiten Quartal dieses Jahres erreichten die Batteriespeicher-Installationen in den USA einen ",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
       "id": "af9ae57469c8bef621b4efab",
       "title": "Steer-by-Wire in der Praxis: Mit dem Jochlenker übers Penser Joch",
       "url": "https://www.golem.de/news/steer-by-wire-in-der-praxis-mit-dem-jochlenker-uebers-penser-joch-2609-213186.html",

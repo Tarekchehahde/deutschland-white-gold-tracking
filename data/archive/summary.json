@@ -1,16 +1,40 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-18T20:55:13Z",
+  "generated_at_utc": "2026-09-19T09:30:08Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 664,
+  "total_in_archive": 666,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 107
+    "2026-09": 109
   },
   "recent_for_ui": [
+    {
+      "id": "ccebb39708468f4e2e61b789",
+      "title": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken",
+      "url": "https://www.heise.de/news/Stromnetze-vertragen-mehr-PV-Strom-mit-Batteriespeichern-an-Umspannwerken-11459047.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-19T08:18:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken Einer Studie zufolge verkraften die Stromnetze durch Batteriespeicher an Umspannwerken deutlich mehr Solarstrom.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "773bd187f64314557f25a92d",
+      "title": "USA installieren so viel Batteriespeicher wie nie – doch jetzt droht ein Problem",
+      "url": "https://t3n.de/news/usa-batteriespeicher-rekord-problem-china-1762957/",
+      "published_at": "2026-09-18T16:40:00Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "USA installieren so viel Batteriespeicher wie nie – doch jetzt droht ein Problem Batteriespeicher sind derzeit einer der wachstumsstärksten Bereiche der US-Energiewirtschaft. Doch fast alle neuen Systeme nutzen Zellen aus China — genau die will die Regierung nun aus sensiblen Netzprojekten verdrängen. Im zweiten Quartal dieses Jahres erreichten die Batteriespeicher-Installationen in den USA einen ",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
     {
       "id": "af9ae57469c8bef621b4efab",
       "title": "Steer-by-Wire in der Praxis: Mit dem Jochlenker übers Penser Joch",
@@ -4545,30 +4569,6 @@
       "regions": [
         "DE-ST"
       ]
-    },
-    {
-      "id": "57b5de49310e3046ea78870d",
-      "title": "Green Flexibility übernimmt Batteriespeicher-Portfolio mit drei Gigawattstunden im Reifegradverfahren von Kajoni",
-      "url": "https://www.pv-magazine.de/2026/07/01/green-flexibility-uebernimmt-batteriespeicher-portfolio-mit-drei-gigawattstunden-im-reifegradverfahren-von-kajoni/",
-      "published_at": "2026-07-01T10:22:44Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Green Flexibility übernimmt Batteriespeicher-Portfolio mit drei Gigawattstunden im Reifegradverfahren von Kajoni Im Zuge des laufenden Reifegradverfahrens wird Kajoni die Projekte mit 750 Megawatt Leistung und rund 3000 Megawattstunde Kapazität zur Baureife bringen. Green Flexibility hilft, den notwendigen Kapitalbedarf zu decken und will die Anlagen bauen und betreiben. Zudem baut das Allgäuer Un",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "56a01443f486c2eabfdcf968",
-      "title": "Geely E5 im Test: Familien-Elektroauto mit langer Garantie",
-      "url": "https://www.spiegel.de/mobilitaet/auto/geely-e5-im-test-familien-elektroauto-mit-langer-garantie-a-9797a06e-5c33-421d-a3bd-f6ba8deaa8b0",
-      "published_at": "2026-07-01T08:29:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Geely E5 im Test: Familien-Elektroauto mit langer Garantie Geely baut das beliebteste Auto Chinas, doch versteckt es sich in Deutschland bislang hinter Marken von Volvo bis Smart. Nun soll der eigene Name gelten. Den Anfang macht ein Familien-SUV mit 200.000-Kilometer-Garantie.",
-      "tags": [],
-      "regions": []
     }
   ]
 }
