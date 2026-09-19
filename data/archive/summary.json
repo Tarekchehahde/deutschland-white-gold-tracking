@@ -1,16 +1,27 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-19T09:30:08Z",
+  "generated_at_utc": "2026-09-19T20:41:58Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 666,
+  "total_in_archive": 667,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 109
+    "2026-09": 110
   },
   "recent_for_ui": [
+    {
+      "id": "3ed406ee617d58be289916d2",
+      "title": "Hohe Spritpreise: Tankrabatt kehrt zurück, Preisdeckel ab 2027 geplant",
+      "url": "https://www.golem.de/news/hohe-spritpreise-tankrabatt-kehrt-zurueck-preisdeckel-ab-2027-geplant-2609-213243.html",
+      "published_at": "2026-09-19T10:31:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Hohe Spritpreise: Tankrabatt kehrt zurück, Preisdeckel ab 2027 geplant Bund und Länder haben sich auf ein Paket gegen hohe Spritpreise geeinigt. Ab Oktober kommt der Tankrabatt zurück, 2027 soll eine Preisobergrenze folgen. ( Auto , Elektromobilität )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "ccebb39708468f4e2e61b789",
       "title": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken",
@@ -4556,19 +4567,6 @@
       "summary": "Tödlicher Auffahrunfall: Elektrolastwagen Tesla Semi in Unfall verwickelt Weil der Fahrer offenbar eingeschlafen ist, ist ein Tesla Semi in Nevada auf stehende Fahrzeuge aufgefahren. Zwei Menschen starben. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
-    },
-    {
-      "id": "aebf90b6f91e1829d3b11f65",
-      "title": "Spatenstich für riesigen Batteriespeicher in Sachsen-Anhalt",
-      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/klostermansfeld-energiewende-energie-wind-solar-suedostlink,batteriespeicher-134.html",
-      "published_at": "2026-07-01T12:27:28Z",
-      "source_id": "tagesschau-st",
-      "language": "de",
-      "summary": "Spatenstich für riesigen Batteriespeicher in Sachsen-Anhalt Seit Mittwoch wird im Landkreis Mansfeld-Südharz einer der größten Batteriespeicherparks Deutschlands gebaut. Die Anlage in Klostermansfeld soll tausende Menschen mit Strom versorgen.",
-      "tags": [],
-      "regions": [
-        "DE-ST"
-      ]
     }
   ]
 }
