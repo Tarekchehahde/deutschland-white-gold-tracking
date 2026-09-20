@@ -3,13 +3,15 @@
   "articles_per_day": {
     "2026-09-17": 2,
     "2026-09-18": 6,
-    "2026-09-19": 2
+    "2026-09-19": 2,
+    "2026-09-20": 2
   },
   "tag_counts": {
     "politik": 3,
-    "umwelt": 1
+    "umwelt": 2
   },
   "by_source_category": {
-    "national": 10
+    "broadcast": 1,
+    "national": 11
   }
 }

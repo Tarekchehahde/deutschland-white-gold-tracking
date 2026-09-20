@@ -1,8 +1,32 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 110,
+  "article_count": 112,
   "articles": [
+    {
+      "id": "432283a19d7647489ea658b0",
+      "title": "Solarstrom: Verband fordert Batteriespeicher an 1.300 Umspannwerken",
+      "url": "https://www.golem.de/news/solarstrom-verband-fordert-batteriespeicher-an-1-300-umspannwerken-2609-213246.html",
+      "published_at": "2026-09-20T08:52:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Solarstrom: Verband fordert Batteriespeicher an 1.300 Umspannwerken Mit mehr Batteriespeichern sollen 150 Gigawatt zusätzliche Photovoltaikleistung erzeugt werden. Davon sollen alle Stromkunden profitieren. ( Solarenergie , Umweltschutz )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "2f6162be00a747a674e038d3",
+      "title": "Akku-Mythen im Check: So verlängern Sie die Akku-Lebensdauer",
+      "url": "https://www.zdfheute.de/ratgeber/akku-richtig-laden-schonen-handy-lithium-ionen-akku-tipps-100.html",
+      "published_at": "2026-09-20T04:31:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "Akku-Mythen im Check: So verlängern Sie die Akku-Lebensdauer Egal ob Nickel- oder Lithium-Ionen-Akku: Akkus sind ständige Begleiter im Alltag. Für ein langes Leben müssen sie richtig geladen werden. Welche Mythen rund ums Akkuladen stimmen?",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "3ed406ee617d58be289916d2",
       "title": "Hohe Spritpreise: Tankrabatt kehrt zurück, Preisdeckel ab 2027 geplant",
