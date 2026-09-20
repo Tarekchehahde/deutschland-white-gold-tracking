@@ -1,16 +1,40 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-19T20:41:58Z",
+  "generated_at_utc": "2026-09-20T09:48:29Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 667,
+  "total_in_archive": 669,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 110
+    "2026-09": 112
   },
   "recent_for_ui": [
+    {
+      "id": "432283a19d7647489ea658b0",
+      "title": "Solarstrom: Verband fordert Batteriespeicher an 1.300 Umspannwerken",
+      "url": "https://www.golem.de/news/solarstrom-verband-fordert-batteriespeicher-an-1-300-umspannwerken-2609-213246.html",
+      "published_at": "2026-09-20T08:52:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Solarstrom: Verband fordert Batteriespeicher an 1.300 Umspannwerken Mit mehr Batteriespeichern sollen 150 Gigawatt zusätzliche Photovoltaikleistung erzeugt werden. Davon sollen alle Stromkunden profitieren. ( Solarenergie , Umweltschutz )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "2f6162be00a747a674e038d3",
+      "title": "Akku-Mythen im Check: So verlängern Sie die Akku-Lebensdauer",
+      "url": "https://www.zdfheute.de/ratgeber/akku-richtig-laden-schonen-handy-lithium-ionen-akku-tipps-100.html",
+      "published_at": "2026-09-20T04:31:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "Akku-Mythen im Check: So verlängern Sie die Akku-Lebensdauer Egal ob Nickel- oder Lithium-Ionen-Akku: Akkus sind ständige Begleiter im Alltag. Für ein langes Leben müssen sie richtig geladen werden. Welche Mythen rund ums Akkuladen stimmen?",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "3ed406ee617d58be289916d2",
       "title": "Hohe Spritpreise: Tankrabatt kehrt zurück, Preisdeckel ab 2027 geplant",
@@ -4541,30 +4565,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Multiplina: Fiat bringt den Multipla als Elektro-Kleinstwagen zurück Der Fiat Multiplina basiert auf der elektrischen Topolino-Plattform, bietet aber mehr Platz - und ein an den Fiat 600 Multipla erinnerndes Design. ( Fiat , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "63483286c61b404464be2e15",
-      "title": "heise+ |  Batterien für Elektroautos: Was kommt nach Lithium?",
-      "url": "https://www.heise.de/hintergrund/Batterien-fuer-Elektroautos-Was-kommt-nach-Lithium-11347691.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-07-02T07:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ |  Batterien für Elektroautos: Was kommt nach Lithium? Die Forschung an Batteriezellen geht weit über das Elektroauto hinaus. Neue Zellchemien sollen Kosten und Abhängigkeiten senken und die Energiedichte steigern.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "711cec0e0e448fe5d062ffc3",
-      "title": "Tödlicher Auffahrunfall: Elektrolastwagen Tesla Semi in Unfall verwickelt",
-      "url": "https://www.golem.de/news/toedlicher-auffahrunfall-elektrolastwagen-tesla-semi-in-unfall-verwickelt-2607-210414.html",
-      "published_at": "2026-07-02T06:32:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tödlicher Auffahrunfall: Elektrolastwagen Tesla Semi in Unfall verwickelt Weil der Fahrer offenbar eingeschlafen ist, ist ein Tesla Semi in Nevada auf stehende Fahrzeuge aufgefahren. Zwei Menschen starben. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     }
