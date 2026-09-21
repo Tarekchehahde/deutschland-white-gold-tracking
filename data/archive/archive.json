@@ -2,6 +2,41 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "d5090f904fee387492c50a86",
+      "title": "Bauwo und Energy Partners starten Zusammenarbeit mit Photovoltaik-Speicher-Projekt in Rheinau",
+      "url": "https://www.pv-magazine.de/2026/09/21/bauwo-und-energy-partners-starten-zusammenarbeit-mit-photovoltaik-speicher-projekt-in-rheinau/",
+      "published_at": "2026-09-21T10:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bauwo und Energy Partners starten Zusammenarbeit mit Photovoltaik-Speicher-Projekt in Rheinau Der Immobilienentwickler Bauwo Invest und Energy Partners haben ihr erstes gemeinsames Energieinfrastrukturprojekt gestartet. An einem Logistikstandort in Rheinau kombinieren die Unternehmen eine Photovoltaik-Anlage mit rund vier Megawatt, einen Batteriespeicher mit fünf Megawattstunden und Ladeinfrastruk",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "57fa5107fcd6e050d272da02",
+      "title": "Subaru Uncharted im Test: Das Elektroauto für Knopfliebhaber",
+      "url": "https://www.golem.de/news/subaru-uncharted-im-test-das-elektroauto-fuer-knopfliebhaber-2609-213098.html",
+      "published_at": "2026-09-21T10:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Subaru Uncharted im Test: Das Elektroauto für Knopfliebhaber Der Innenraum von Subarus Uncharted wirkt verglichen mit der Konkurrenz aus der Zeit gefallen. Das ändert nichts daran, dass das Elektroauto Spaß macht. Ein Test von Tobias Költzsch ( Subaru , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7711aab94d5938bb35e713b9",
+      "title": "Studie sieht Potenzial für 150 Gigawatt zusätzliche Photovoltaik an Umspannwerken",
+      "url": "https://www.pv-magazine.de/2026/09/21/studie-sieht-potenzial-fuer-150-gigawatt-zusaetzliche-photovoltaik-an-umspannwerken/",
+      "published_at": "2026-09-21T08:44:20Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Studie sieht Potenzial für 150 Gigawatt zusätzliche Photovoltaik an Umspannwerken Intelligent gesteuerte Batteriespeicher könnten die vorhandenen Transformatoren zwischen Mittel- und Hochspannung deutlich besser auslasten: Eine Fraunhofer-IEE-Studie ermittelt für eine Gruppe von 1.313 ländlichen, von erneuerbaren Energien geprägten Umspannwerken ein theoretisches Zubaupotenzial von rund 150 Gigawa",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "432283a19d7647489ea658b0",
       "title": "Solarstrom: Verband fordert Batteriespeicher an 1.300 Umspannwerken",
       "url": "https://www.golem.de/news/solarstrom-verband-fordert-batteriespeicher-an-1-300-umspannwerken-2609-213246.html",
