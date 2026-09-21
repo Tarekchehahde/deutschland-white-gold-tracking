@@ -1,16 +1,51 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-20T20:50:28Z",
+  "generated_at_utc": "2026-09-21T10:43:47Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 669,
+  "total_in_archive": 672,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 112
+    "2026-09": 115
   },
   "recent_for_ui": [
+    {
+      "id": "d5090f904fee387492c50a86",
+      "title": "Bauwo und Energy Partners starten Zusammenarbeit mit Photovoltaik-Speicher-Projekt in Rheinau",
+      "url": "https://www.pv-magazine.de/2026/09/21/bauwo-und-energy-partners-starten-zusammenarbeit-mit-photovoltaik-speicher-projekt-in-rheinau/",
+      "published_at": "2026-09-21T10:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bauwo und Energy Partners starten Zusammenarbeit mit Photovoltaik-Speicher-Projekt in Rheinau Der Immobilienentwickler Bauwo Invest und Energy Partners haben ihr erstes gemeinsames Energieinfrastrukturprojekt gestartet. An einem Logistikstandort in Rheinau kombinieren die Unternehmen eine Photovoltaik-Anlage mit rund vier Megawatt, einen Batteriespeicher mit fünf Megawattstunden und Ladeinfrastruk",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "57fa5107fcd6e050d272da02",
+      "title": "Subaru Uncharted im Test: Das Elektroauto für Knopfliebhaber",
+      "url": "https://www.golem.de/news/subaru-uncharted-im-test-das-elektroauto-fuer-knopfliebhaber-2609-213098.html",
+      "published_at": "2026-09-21T10:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Subaru Uncharted im Test: Das Elektroauto für Knopfliebhaber Der Innenraum von Subarus Uncharted wirkt verglichen mit der Konkurrenz aus der Zeit gefallen. Das ändert nichts daran, dass das Elektroauto Spaß macht. Ein Test von Tobias Költzsch ( Subaru , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7711aab94d5938bb35e713b9",
+      "title": "Studie sieht Potenzial für 150 Gigawatt zusätzliche Photovoltaik an Umspannwerken",
+      "url": "https://www.pv-magazine.de/2026/09/21/studie-sieht-potenzial-fuer-150-gigawatt-zusaetzliche-photovoltaik-an-umspannwerken/",
+      "published_at": "2026-09-21T08:44:20Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Studie sieht Potenzial für 150 Gigawatt zusätzliche Photovoltaik an Umspannwerken Intelligent gesteuerte Batteriespeicher könnten die vorhandenen Transformatoren zwischen Mittel- und Hochspannung deutlich besser auslasten: Eine Fraunhofer-IEE-Studie ermittelt für eine Gruppe von 1.313 ländlichen, von erneuerbaren Energien geprägten Umspannwerken ein theoretisches Zubaupotenzial von rund 150 Gigawa",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "432283a19d7647489ea658b0",
       "title": "Solarstrom: Verband fordert Batteriespeicher an 1.300 Umspannwerken",
@@ -4528,43 +4563,6 @@
       "source_id": "faz-aktuell",
       "language": "de",
       "summary": "Elektroautos: Tesla erholt sich Der Autohersteller steigert seine Verkaufszahlen im zweiten Quartal um 25 Prozent. Und auch in Europa geht es trotz der Kontroversen um Elon Musk wieder aufwärts.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b2168dd015af566c7c861577",
-      "title": "US-Elektroautobauer: Tesla liefert im zweiten Quartal deutlich mehr Autos aus",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-07/tesla-auslieferungen-auto-quartal-analysten",
-      "published_at": "2026-07-02T15:37:31Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "US-Elektroautobauer: Tesla liefert im zweiten Quartal deutlich mehr Autos aus Das Unternehmen konnte im Vorjahresvergleich überraschend rund ein Viertel mehr Autos ausliefern. Tesla selbst und Analysten hatten mit weniger Absatz gerechnet.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "5d1d20aa45cead862af048ff",
-      "title": "Green Flexibility legt FCA-Blueprint vor",
-      "url": "https://www.pv-magazine.de/2026/07/02/green-flexibility-legt-fca-blueprint-vor/",
-      "published_at": "2026-07-02T13:40:34Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Green Flexibility legt FCA-Blueprint vor Seit einem Jahr betreibt das Unternehmen seinen netzneutralen Batteriespeicher in Immenstadt nach den Vorgaben des Allgäuer Überlandwerks. Aus diesen Erfahrungen sowie weiteren Verhandlungen über flexible Netzanschlussvereinbarungen entwickelte Green Flexibility nun eine Blaupause für FCAs. Allgäu Netz will auf dieser Basis nächstes Jahr weitere Großspeiche",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "b3b6dadffb961e8c8a941126",
-      "title": "Multiplina: Fiat bringt den Multipla als Elektro-Kleinstwagen zurück",
-      "url": "https://www.golem.de/news/multiplina-fiat-bringt-den-multipla-als-elektro-kleinstwagen-zurueck-2607-210442.html",
-      "published_at": "2026-07-02T12:16:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Multiplina: Fiat bringt den Multipla als Elektro-Kleinstwagen zurück Der Fiat Multiplina basiert auf der elektrischen Topolino-Plattform, bietet aber mehr Platz - und ein an den Fiat 600 Multipla erinnerndes Design. ( Fiat , Elektroauto )",
       "tags": [],
       "regions": []
     }
