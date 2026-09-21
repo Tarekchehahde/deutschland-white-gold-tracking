@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "d6d81448bde1b4ca96b25976",
+      "title": "Forschungsprojekt erprobt Schwarm aus Kleinspeichern in Mehrfamilienhäusern",
+      "url": "https://www.pv-magazine.de/2026/09/21/forschungsprojekt-erprobt-schwarm-aus-kleinspeichern-in-mehrfamilienhaeusern/",
+      "published_at": "2026-09-21T11:37:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Forschungsprojekt erprobt Schwarm aus Kleinspeichern in Mehrfamilienhäusern Im Forschungsprojekt Naresys sollen Batteriespeicher mit jeweils rund zwei Kilowattstunden Kapazität in Wohnungen von Mehrfamilienhäusern zu einem zentral steuerbaren Schwarm zusammengeschlossen werden. Erprobt werden unter anderem die Vermarktung der Flexibilität am Strommarkt und der netzdienliche Einsatz. In einem Reall",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "d5090f904fee387492c50a86",
       "title": "Bauwo und Energy Partners starten Zusammenarbeit mit Photovoltaik-Speicher-Projekt in Rheinau",
       "url": "https://www.pv-magazine.de/2026/09/21/bauwo-und-energy-partners-starten-zusammenarbeit-mit-photovoltaik-speicher-projekt-in-rheinau/",
@@ -37,30 +48,6 @@
       "regions": []
     },
     {
-      "id": "432283a19d7647489ea658b0",
-      "title": "Solarstrom: Verband fordert Batteriespeicher an 1.300 Umspannwerken",
-      "url": "https://www.golem.de/news/solarstrom-verband-fordert-batteriespeicher-an-1-300-umspannwerken-2609-213246.html",
-      "published_at": "2026-09-20T08:52:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Solarstrom: Verband fordert Batteriespeicher an 1.300 Umspannwerken Mit mehr Batteriespeichern sollen 150 Gigawatt zusätzliche Photovoltaikleistung erzeugt werden. Davon sollen alle Stromkunden profitieren. ( Solarenergie , Umweltschutz )",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "3ed406ee617d58be289916d2",
-      "title": "Hohe Spritpreise: Tankrabatt kehrt zurück, Preisdeckel ab 2027 geplant",
-      "url": "https://www.golem.de/news/hohe-spritpreise-tankrabatt-kehrt-zurueck-preisdeckel-ab-2027-geplant-2609-213243.html",
-      "published_at": "2026-09-19T10:31:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Hohe Spritpreise: Tankrabatt kehrt zurück, Preisdeckel ab 2027 geplant Bund und Länder haben sich auf ein Paket gegen hohe Spritpreise geeinigt. Ab Oktober kommt der Tankrabatt zurück, 2027 soll eine Preisobergrenze folgen. ( Auto , Elektromobilität )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "ccebb39708468f4e2e61b789",
       "title": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken",
       "url": "https://www.heise.de/news/Stromnetze-vertragen-mehr-PV-Strom-mit-Batteriespeichern-an-Umspannwerken-11459047.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -69,19 +56,6 @@
       "language": "de",
       "summary": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken Einer Studie zufolge verkraften die Stromnetze durch Batteriespeicher an Umspannwerken deutlich mehr Solarstrom.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "74053ae2bd497155c6de3962",
-      "title": "Britische Regulierungsbehörde plant Gebühren für Batteriespeicher zur Verkürzung der Warteliste für Netzanschlüsse",
-      "url": "https://www.pv-magazine.de/2026/09/18/britische-regulierungsbehoerde-plant-gebuehren-fuer-batteriespeicher-zur-verkuerzung-der-warteliste-fuer-netzanschluesse/",
-      "published_at": "2026-09-18T10:25:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Britische Regulierungsbehörde plant Gebühren für Batteriespeicher zur Verkürzung der Warteliste für Netzanschlüsse Die finanzielle Verpflichtung für Batteriespeichersysteme steht kurz vor der Genehmigung, um die Überkapazitäten in der britischen Warteliste für Netzanschlüsse weiter abzubauen. Trotz der jüngsten Reformbemühungen bei den Netzanschlussverfahren ist die Warteliste immer noch mehr als ",
-      "tags": [
-        "politik"
-      ],
       "regions": []
     },
     {

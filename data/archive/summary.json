@@ -1,16 +1,27 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-21T10:43:47Z",
+  "generated_at_utc": "2026-09-21T21:59:32Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 672,
+  "total_in_archive": 673,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 115
+    "2026-09": 116
   },
   "recent_for_ui": [
+    {
+      "id": "d6d81448bde1b4ca96b25976",
+      "title": "Forschungsprojekt erprobt Schwarm aus Kleinspeichern in Mehrfamilienhäusern",
+      "url": "https://www.pv-magazine.de/2026/09/21/forschungsprojekt-erprobt-schwarm-aus-kleinspeichern-in-mehrfamilienhaeusern/",
+      "published_at": "2026-09-21T11:37:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Forschungsprojekt erprobt Schwarm aus Kleinspeichern in Mehrfamilienhäusern Im Forschungsprojekt Naresys sollen Batteriespeicher mit jeweils rund zwei Kilowattstunden Kapazität in Wohnungen von Mehrfamilienhäusern zu einem zentral steuerbaren Schwarm zusammengeschlossen werden. Erprobt werden unter anderem die Vermarktung der Flexibilität am Strommarkt und der netzdienliche Einsatz. In einem Reall",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d5090f904fee387492c50a86",
       "title": "Bauwo und Energy Partners starten Zusammenarbeit mit Photovoltaik-Speicher-Projekt in Rheinau",
@@ -4552,17 +4563,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Flexibilitätsvermarktungsverträge – Checkliste rechtlicher Aspekte Verträge über die Vermarktung von Großbatteriespeichern („Flexibilitätsvermarktungsverträge“; auch die Bezeichnung als „Kapazitätsvermarktungsverträge“ ist gängig) bestimmen die Stromabsatzbedingungen bei Batteriespeicherprojekten und sind damit für die Finanzierung und den Erfolg eines Speicherprojektes essenziell. Der Beitrag bel",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "73140069fa85aedc3b73640b",
-      "title": "Elektroautos: Tesla erholt sich",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-verkaufszahlen-steigen-um-25-prozent-im-q2-200992187.html",
-      "published_at": "2026-07-02T17:07:38Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Elektroautos: Tesla erholt sich Der Autohersteller steigert seine Verkaufszahlen im zweiten Quartal um 25 Prozent. Und auch in Europa geht es trotz der Kontroversen um Elon Musk wieder aufwärts.",
       "tags": [],
       "regions": []
     }

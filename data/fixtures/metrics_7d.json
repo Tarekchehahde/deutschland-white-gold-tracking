@@ -2,17 +2,13 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-09-17": 1,
-    "2026-09-18": 1,
-    "2026-09-19": 2,
-    "2026-09-20": 1,
-    "2026-09-21": 3
+    "2026-09-19": 1,
+    "2026-09-21": 4
   },
   "tag_counts": {
-    "industrie": 1,
-    "politik": 1,
-    "umwelt": 1
+    "industrie": 1
   },
   "by_source_category": {
-    "national": 8
+    "national": 6
   }
 }

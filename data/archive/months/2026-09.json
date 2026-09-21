@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 115,
+  "article_count": 116,
   "articles": [
+    {
+      "id": "d6d81448bde1b4ca96b25976",
+      "title": "Forschungsprojekt erprobt Schwarm aus Kleinspeichern in Mehrfamilienhäusern",
+      "url": "https://www.pv-magazine.de/2026/09/21/forschungsprojekt-erprobt-schwarm-aus-kleinspeichern-in-mehrfamilienhaeusern/",
+      "published_at": "2026-09-21T11:37:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Forschungsprojekt erprobt Schwarm aus Kleinspeichern in Mehrfamilienhäusern Im Forschungsprojekt Naresys sollen Batteriespeicher mit jeweils rund zwei Kilowattstunden Kapazität in Wohnungen von Mehrfamilienhäusern zu einem zentral steuerbaren Schwarm zusammengeschlossen werden. Erprobt werden unter anderem die Vermarktung der Flexibilität am Strommarkt und der netzdienliche Einsatz. In einem Reall",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d5090f904fee387492c50a86",
       "title": "Bauwo und Energy Partners starten Zusammenarbeit mit Photovoltaik-Speicher-Projekt in Rheinau",
