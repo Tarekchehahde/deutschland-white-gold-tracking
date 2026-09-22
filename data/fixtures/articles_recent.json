@@ -2,6 +2,39 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "e2feeaf860cdb43813a431e0",
+      "title": "Elektroautos in der EU: Deutschland größter Markt, Dänemark hat höchsten Anteil",
+      "url": "https://www.heise.de/news/Elektroautos-in-der-EU-Deutschland-groesster-Markt-Daenemark-hat-hoechsten-Anteil-11461087.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-22T08:51:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroautos in der EU: Deutschland größter Markt, Dänemark hat höchsten Anteil 2025 fuhr gut jeder sechste neue Pkw in der EU batterieelektrisch. Deutschland lag mit 19,1 Prozent über dem Schnitt und stellte den größten Einzelmarkt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0675af66a8fd14b7c970e97b",
+      "title": "Statkraft und Wattmanufactur schließen Hybrid-PPA für Photovoltaik und Batteriespeicher in Rümpel",
+      "url": "https://www.pv-magazine.de/2026/09/22/statkraft-und-wattmanufactur-schliessen-hybrid-ppa-fuer-photovoltaik-und-batteriespeicher-in-ruempel/",
+      "published_at": "2026-09-22T08:11:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Statkraft und Wattmanufactur schließen Hybrid-PPA für Photovoltaik und Batteriespeicher in Rümpel Der Stromabnahmevertrag für das Co-Location-Projekt in Schleswig-Holstein umfasst einen Solarpark mit 20 Megawatt Leistung und einen Batteriespeicher mit 20 Megawattstunden Kapazität. Statkraft übernimmt die gemeinsame Vermarktung und zahlt einen Festpreis für den Strom aus beiden Anlagen. Der Hybrid-",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3c4f80290609a115210496d5",
+      "title": "Verbrenner nicht gefragt: E-Auto-Boom sorgt für lange Gesichter in Wolfsburg",
+      "url": "https://www.golem.de/news/verbrenner-nicht-gefragt-e-auto-boom-sorgt-fuer-lange-gesichter-in-wolfsburg-2609-213293.html",
+      "published_at": "2026-09-22T06:34:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Verbrenner nicht gefragt: E-Auto-Boom sorgt für lange Gesichter in Wolfsburg Die Nachfrage nach E-Autos zieht kräftig an, schneller als VW geplant hat. Während die Werke in Emden und Zwickau aufdrehen, streicht das Stammwerk Sonderschichten. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "d6d81448bde1b4ca96b25976",
       "title": "Forschungsprojekt erprobt Schwarm aus Kleinspeichern in Mehrfamilienhäusern",
       "url": "https://www.pv-magazine.de/2026/09/21/forschungsprojekt-erprobt-schwarm-aus-kleinspeichern-in-mehrfamilienhaeusern/",
@@ -26,17 +59,6 @@
       "regions": []
     },
     {
-      "id": "57fa5107fcd6e050d272da02",
-      "title": "Subaru Uncharted im Test: Das Elektroauto für Knopfliebhaber",
-      "url": "https://www.golem.de/news/subaru-uncharted-im-test-das-elektroauto-fuer-knopfliebhaber-2609-213098.html",
-      "published_at": "2026-09-21T10:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Subaru Uncharted im Test: Das Elektroauto für Knopfliebhaber Der Innenraum von Subarus Uncharted wirkt verglichen mit der Konkurrenz aus der Zeit gefallen. Das ändert nichts daran, dass das Elektroauto Spaß macht. Ein Test von Tobias Költzsch ( Subaru , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "7711aab94d5938bb35e713b9",
       "title": "Studie sieht Potenzial für 150 Gigawatt zusätzliche Photovoltaik an Umspannwerken",
       "url": "https://www.pv-magazine.de/2026/09/21/studie-sieht-potenzial-fuer-150-gigawatt-zusaetzliche-photovoltaik-an-umspannwerken/",
@@ -44,17 +66,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Studie sieht Potenzial für 150 Gigawatt zusätzliche Photovoltaik an Umspannwerken Intelligent gesteuerte Batteriespeicher könnten die vorhandenen Transformatoren zwischen Mittel- und Hochspannung deutlich besser auslasten: Eine Fraunhofer-IEE-Studie ermittelt für eine Gruppe von 1.313 ländlichen, von erneuerbaren Energien geprägten Umspannwerken ein theoretisches Zubaupotenzial von rund 150 Gigawa",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ccebb39708468f4e2e61b789",
-      "title": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken",
-      "url": "https://www.heise.de/news/Stromnetze-vertragen-mehr-PV-Strom-mit-Batteriespeichern-an-Umspannwerken-11459047.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-19T08:18:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken Einer Studie zufolge verkraften die Stromnetze durch Batteriespeicher an Umspannwerken deutlich mehr Solarstrom.",
       "tags": [],
       "regions": []
     },
