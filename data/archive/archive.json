@@ -2,6 +2,39 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "d57850e2397796f332043a12",
+      "title": "Förderfreie Anlagen: Der PPA-Markt kommt zurück",
+      "url": "https://www.pv-magazine.de/2026/09/22/foerderfreie-anlagen-der-ppa-markt-kommt-zurueck/",
+      "published_at": "2026-09-22T11:33:52Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Förderfreie Anlagen: Der PPA-Markt kommt zurück Die Schnelligkeit, mit der die Kannibalisierung des Solarstroms zugenommen hat, mag viele überrascht und den PPA-Markt nahezu zum Erliegen gebracht haben. Doch schon jetzt könnte es zu einem Revival des Segments kommen, wie ein Photovoltaik-Batteriespeicher-Projekt von Maxsolar zeigt, das mit dem Hybrid-PPA Solarstrom und Batterieflexibilität „Pay as",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5f687d452621fbf596a3806a",
+      "title": "Laden in 30 Minuten: LKW MAN eTGX fährt 720 Kilometer ohne Diesel",
+      "url": "https://www.golem.de/news/laden-in-30-minuten-lkw-man-etgx-faehrt-720-kilometer-ohne-diesel-2609-213305.html",
+      "published_at": "2026-09-22T10:20:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Laden in 30 Minuten: LKW MAN eTGX fährt 720 Kilometer ohne Diesel MAN hat seinen elektrischen Lkw eTGX mit neuen Akkus und bis zu 720 Kilometer Reichweite sowie Megawatt-Laden in 30 Minuten optimiert. ( Lkw , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6e70247c96f8d073c4ee3da1",
+      "title": "Tolling Agreement für Batteriespeicher nach IFRS 16: Wann liegt ein Leasingverhältnis vor?",
+      "url": "https://www.pv-magazine.de/2026/09/22/tolling-agreement-fuer-batteriespeicher-nach-ifrs-16-wann-liegt-ein-leasingverhaeltnis-vor/",
+      "published_at": "2026-09-22T10:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Tolling Agreement für Batteriespeicher nach IFRS 16: Wann liegt ein Leasingverhältnis vor? Tolling Agreements werden bei Batteriespeicherprojekten immer wichtiger. Sie können Betreibern planbare Einnahmen sichern, Marktpreisrisiken verringern und die Finanzierung von Speicherprojekten erleichtern. Mit der zunehmenden Verbreitung dieser Modelle rückt eine bilanzielle Frage in den Fokus: Ist ein Tol",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "e2feeaf860cdb43813a431e0",
       "title": "Elektroautos in der EU: Deutschland größter Markt, Dänemark hat höchsten Anteil",
       "url": "https://www.heise.de/news/Elektroautos-in-der-EU-Deutschland-groesster-Markt-Daenemark-hat-hoechsten-Anteil-11461087.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",

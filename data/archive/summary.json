@@ -1,16 +1,49 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-22T09:57:16Z",
+  "generated_at_utc": "2026-09-22T21:20:19Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 676,
+  "total_in_archive": 679,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 119
+    "2026-09": 122
   },
   "recent_for_ui": [
+    {
+      "id": "d57850e2397796f332043a12",
+      "title": "Förderfreie Anlagen: Der PPA-Markt kommt zurück",
+      "url": "https://www.pv-magazine.de/2026/09/22/foerderfreie-anlagen-der-ppa-markt-kommt-zurueck/",
+      "published_at": "2026-09-22T11:33:52Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Förderfreie Anlagen: Der PPA-Markt kommt zurück Die Schnelligkeit, mit der die Kannibalisierung des Solarstroms zugenommen hat, mag viele überrascht und den PPA-Markt nahezu zum Erliegen gebracht haben. Doch schon jetzt könnte es zu einem Revival des Segments kommen, wie ein Photovoltaik-Batteriespeicher-Projekt von Maxsolar zeigt, das mit dem Hybrid-PPA Solarstrom und Batterieflexibilität „Pay as",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5f687d452621fbf596a3806a",
+      "title": "Laden in 30 Minuten: LKW MAN eTGX fährt 720 Kilometer ohne Diesel",
+      "url": "https://www.golem.de/news/laden-in-30-minuten-lkw-man-etgx-faehrt-720-kilometer-ohne-diesel-2609-213305.html",
+      "published_at": "2026-09-22T10:20:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Laden in 30 Minuten: LKW MAN eTGX fährt 720 Kilometer ohne Diesel MAN hat seinen elektrischen Lkw eTGX mit neuen Akkus und bis zu 720 Kilometer Reichweite sowie Megawatt-Laden in 30 Minuten optimiert. ( Lkw , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6e70247c96f8d073c4ee3da1",
+      "title": "Tolling Agreement für Batteriespeicher nach IFRS 16: Wann liegt ein Leasingverhältnis vor?",
+      "url": "https://www.pv-magazine.de/2026/09/22/tolling-agreement-fuer-batteriespeicher-nach-ifrs-16-wann-liegt-ein-leasingverhaeltnis-vor/",
+      "published_at": "2026-09-22T10:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Tolling Agreement für Batteriespeicher nach IFRS 16: Wann liegt ein Leasingverhältnis vor? Tolling Agreements werden bei Batteriespeicherprojekten immer wichtiger. Sie können Betreibern planbare Einnahmen sichern, Marktpreisrisiken verringern und die Finanzierung von Speicherprojekten erleichtern. Mit der zunehmenden Verbreitung dieser Modelle rückt eine bilanzielle Frage in den Fokus: Ist ein Tol",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e2feeaf860cdb43813a431e0",
       "title": "Elektroautos in der EU: Deutschland größter Markt, Dänemark hat höchsten Anteil",
@@ -4530,39 +4563,6 @@
       "source_id": "rp-online-wirtschaft",
       "language": "de",
       "summary": "Neuzulassungen in Deutschland: Fast 50 Prozent mehr neue Elektroautos im ersten Halbjahr 2026 368.000 neue Elektroautos in sechs Monaten in Deutschland – diese Zahlen klingen nach Aufbruch. Doch Experten sehen in dem Boom vor allem das Werk staatlicher Subventionen, nicht echten Wandel. Wie lange hält das?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7283bca6a497fe20914c705d",
-      "title": "PPA und Tolling-Vertrag für innovatives Photovoltaik+Speicher-Projekt von Enertrag",
-      "url": "https://www.pv-magazine.de/2026/07/03/ppa-und-tolling-vertrag-fuer-innovatives-photovoltaikspeicher-projekt-von-enertrag/",
-      "published_at": "2026-07-03T13:00:21Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "PPA und Tolling-Vertrag für innovatives Photovoltaik+Speicher-Projekt von Enertrag EDF Trading hat einen Stromabnahmevertrag mit sieben Jahren Laufzeit für die Photovoltaik-Anlage mit 44,5 Megawatt unterzeichnet. E2m wiederum wird die Vermarktung des Batteriespeichers zunächst für fünf Jahre als Grünstrom-Co-Location-Anlage übernehmen und für zwei weitere als Graustrom-Co-Location-Anlage. Dabei wi",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "eaf0016f2f90670e88c1bde5",
-      "title": "Elektromobilität: Eon und Tank & Rast sollen E-Lkw-Ladenetz aufbauen",
-      "url": "https://www.golem.de/news/elektromobilitaet-eon-und-tank-rast-sollen-e-lkw-ladenetz-aufbauen-2607-210479.html",
-      "published_at": "2026-07-03T10:47:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektromobilität: Eon und Tank & Rast sollen E-Lkw-Ladenetz aufbauen Insgesamt sollen 195 Ladepunkte für E-Lkw an 24 Standorten entlang von Autobahnen entstehen. Ein Großteil der Lader unterstützt Megawatt-Charging. ( Lkw , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "327135e5ca6f7290d80f66d1",
-      "title": "Eisen als Langzeit-Energiespeicher: KIT untersucht Potenzial in der Stromerzeugung",
-      "url": "https://www.pv-magazine.de/2026/07/03/eisen-als-langzeit-energiespeicher-kit-untersucht-potenzial-in-der-stromerzeugung/",
-      "published_at": "2026-07-03T10:25:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Eisen als Langzeit-Energiespeicher: KIT untersucht Potenzial in der Stromerzeugung Eisen wäre eine sinnvolle Option zur Langzeitspeicherung der Energie aus Photovoltaik und Windkraft – so der zentrale Befund einer Studie des KIT. Das CO2-neutrale Verbrennen und anschließende Rückführen in den Ausgangszustand hat demnach erhebliches Potenzial für eine auf Erneuerbaren basierende Stromversorgung. Es",
       "tags": [],
       "regions": []
     }
