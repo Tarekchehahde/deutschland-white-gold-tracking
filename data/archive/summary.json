@@ -1,16 +1,62 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-22T21:20:19Z",
+  "generated_at_utc": "2026-09-23T09:59:01Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 679,
+  "total_in_archive": 683,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 122
+    "2026-09": 126
   },
   "recent_for_ui": [
+    {
+      "id": "24e7fdcf1272e887d2d860ac",
+      "title": "Nissan Pixo: Kleines Elektroauto für den Stadtverkehr",
+      "url": "https://www.heise.de/news/Nissan-Pixo-Kleines-Elektroauto-fuer-den-Stadtverkehr-11462898.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-23T09:25:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Nissan Pixo: Kleines Elektroauto für den Stadtverkehr Nissan stellt den Pixo vor, einen elektrischen Kleinstwagen, der sich auf Stadtnutzung konzentriert und rund 20.000 Euro kosten dürfte.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5b2b75d21af8d70d7ef50b5a",
+      "title": "Sponsored: Integrierte Energielösungen im Fokus auf der JA Roadshow 2026 „Journey Ahead“",
+      "url": "https://www.pv-magazine.de/2026/09/23/sponsored-integrierte-energieloesungen-im-fokus-auf-der-ja-roadshow-2026-journey-ahead/",
+      "published_at": "2026-09-23T09:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sponsored: Integrierte Energielösungen im Fokus auf der JA Roadshow 2026 „Journey Ahead“ Da Energieunabhängigkeit in ganz Europa zunehmend an Bedeutung gewinnt, bringt die erste Roadshow von JA, die „Journey Ahead: JA Roadshow 2026“ das wachsende Portfolio des Unternehmens an Photovoltaik- und Energiespeicherlösungen direkt zu den Kunden. An den einzelnen Stationen will JA zeigen, wie die Technolo",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "f9479c2fd9e5bb27262dba47",
+      "title": "Elektro-SUV: Skoda Epiq macht den Umstieg leicht",
+      "url": "https://www.golem.de/news/elektro-suv-skoda-epiq-macht-den-umstieg-leicht-2609-213316.html",
+      "published_at": "2026-09-23T07:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektro-SUV: Skoda Epiq macht den Umstieg leicht Mit dem Epiq rundet Skoda sein Angebot an Elektro-SUVs nach unten ab. Gegenüber dem ID.Polo kann er bei aller Familienähnlichkeit punkten. Ein Test von Franz W. Rother ( Elektroauto , Test )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "23dd4607228d1ab207619e88",
+      "title": "Die größten Batteriespeicher Europas: Diese Anlagen wollen Lithium überflüssig machen",
+      "url": "https://t3n.de/news/batteriespeicher-europas-ohne-lithium-1754509/",
+      "published_at": "2026-09-22T15:55:00Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Die größten Batteriespeicher Europas: Diese Anlagen wollen Lithium überflüssig machen Bei Großspeichern zur Stabilisierung des Stromnetzes jagt derzeit ein Superlativ den nächsten. Bei den größten Batterien Europas kommen neue Geschäftsmodelle sowie Techniken zum Einsatz, die ohne kritische Rohstoffe wie Lithium auskommen. Der größte Batteriespeicher Europas werde gerade in der Schweiz gebaut, mel",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d57850e2397796f332043a12",
       "title": "Förderfreie Anlagen: Der PPA-Markt kommt zurück",
@@ -4520,50 +4566,6 @@
       "tags": [
         "politik"
       ],
-      "regions": []
-    },
-    {
-      "id": "0600e979917b3e16231e9129",
-      "title": "Belectric baut weiter Photovoltaik-Speicher-Kraftwerke – nur derzeit kaum in Deutschland",
-      "url": "https://www.pv-magazine.de/2026/07/06/belectric-baut-weiter-photovoltaik-speicher-kraftwerke-nur-derzeit-kaum-in-deutschland/",
-      "published_at": "2026-07-06T10:19:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Belectric baut weiter Photovoltaik-Speicher-Kraftwerke – nur derzeit kaum in Deutschland Zum 25-jährigen Bestehen blickt Geschäftsführer Thorsten Blanke auf sechs Gigawatt realisierte Projekte zurück. Im Interview auf der The smarter E hat er erklärt, warum reine Solarparks in Deutschland derzeit schwierig sind und warum Batteriespeicher vor allem in Spanien schneller zum Geschäft werden. Allerdin",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d0a246ca9e494f8ca04cd9b2",
-      "title": "Elektroauto: Leasing, Autoabo, Carsharing im Vergleich",
-      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-leasing-autoabo-carsharing-im-vergleich-a-11a150d4-cfb4-4d87-8b40-7399ca90760c",
-      "published_at": "2026-07-04T13:30:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Elektroauto: Leasing, Autoabo, Carsharing im Vergleich Viele interessieren sich für ein Elektroauto, scheuen aber das Risiko eines Neuwagenkaufs. Die zahlreichen Alternativen sind schwierig zu überblicken. Hier bekommen Sie Orientierungshilfe.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "84fef1262ad18b978ddc597e",
-      "title": "Kraftfahrt-Bundesamt: Auto-Neuzulassungen im Juni deutlich gestiegen",
-      "url": "https://www.golem.de/news/kraftfahrt-bundesamt-auto-neuzulassungen-im-juni-deutlich-gestiegen-2607-210507.html",
-      "published_at": "2026-07-04T12:40:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Kraftfahrt-Bundesamt: Auto-Neuzulassungen im Juni deutlich gestiegen Mehr Elektroautos, mehr private Käufer, weniger Diesel und Benziner: Das Kraftfahrt-Bundesamt zieht für Juni 2026 eine positive Halbjahresbilanz. ( Auto , Mercedes Benz )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ed581bcee8725835959bec3a",
-      "title": "Neuzulassungen in Deutschland: Fast 50 Prozent mehr neue Elektroautos im ersten Halbjahr 2026",
-      "url": "https://rp-online.de/wirtschaft/deutschland-elektroauto-absatz-steigt-im-ersten-halbjahr-2026-um-48-prozent_aid-150928711",
-      "published_at": "2026-07-03T13:21:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Neuzulassungen in Deutschland: Fast 50 Prozent mehr neue Elektroautos im ersten Halbjahr 2026 368.000 neue Elektroautos in sechs Monaten in Deutschland – diese Zahlen klingen nach Aufbruch. Doch Experten sehen in dem Boom vor allem das Werk staatlicher Subventionen, nicht echten Wandel. Wie lange hält das?",
-      "tags": [],
       "regions": []
     }
   ]
