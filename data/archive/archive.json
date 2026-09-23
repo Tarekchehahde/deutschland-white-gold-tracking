@@ -2,6 +2,74 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "eba71b3faeb82bda3d3c19ac",
+      "title": "Elektro-Kleinstwagen: Twingo-Ableger Nissan Pixo vorgestellt",
+      "url": "https://www.golem.de/news/elektro-kleinstwagen-twingo-ableger-nissan-pixo-vorgestellt-2609-213367.html",
+      "published_at": "2026-09-23T15:17:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektro-Kleinstwagen: Twingo-Ableger Nissan Pixo vorgestellt Der Nissan Pixo ist noch kleiner als der Micra und deutlich schwächer motorisiert. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "66d159f103e02cc1a3447aec",
+      "title": "CO2-Ausstieg der Bundesregierung: Ja zur Wärmepumpe, nein zum Verbrenner",
+      "url": "https://www.golem.de/news/co2-ausstieg-der-bundesregierung-ja-zur-waermepumpe-nein-zum-verbrenner-2609-213362.html",
+      "published_at": "2026-09-23T14:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "CO2-Ausstieg der Bundesregierung: Ja zur Wärmepumpe, nein zum Verbrenner Die Bundesregierung beschließt den Fahrplan zur Energiewende. Er wird auf der UN-Generalversammlung vorgestellt und hält Überraschungen bereit. ( Energiewende , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "bd773773dd99394663a43e9b",
+      "title": "Ceer Motors: Saudi-Arabien zeigt futuristische Elektroautos mit 850 PS",
+      "url": "https://www.golem.de/news/ceer-motors-saudi-arabien-zeigt-futuristische-elektroautos-mit-850-ps-2609-213360.html",
+      "published_at": "2026-09-23T13:38:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ceer Motors: Saudi-Arabien zeigt futuristische Elektroautos mit 850 PS Zusammen mit BMW und Foxconn hat Saudi-Arabien eigene E-Autos entwickelt - inklusive Gebetszeiten-Benachrichtigung und Mekka-Kompass. ( Elektroauto , Foxconn )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d4caf4f42b42ea360ef1bad0",
+      "title": "Elektromobilität: Geely will E-Autos in vier Minuten laden",
+      "url": "https://www.golem.de/news/elektromobilitaet-geely-will-e-autos-in-vier-minuten-laden-2609-213359.html",
+      "published_at": "2026-09-23T13:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität: Geely will E-Autos in vier Minuten laden Geely stellt Ladesäulen mit 2,2 Megawatt vor und übertrifft damit BYD. Als erstes Auto unterstützt der Galaxy E5 die Technik. ( BYD , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "42ee33dcc81c1656966feb4f",
+      "title": "Gericht weist Klage ab: Auto online bestellt: Kein Recht auf Widerruf",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/auto-online-bestellt-gericht-verneint-recht-auf-widerruf-accg-201255496.html",
+      "published_at": "2026-09-23T10:51:52Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Gericht weist Klage ab: Auto online bestellt: Kein Recht auf Widerruf Ein Mann kauft für mehr als 60.000 Euro online ein Elektroauto und will die Bestellung widerrufen. Das Oberlandesgericht Frankfurt weist seine Klage aber ab. Das sind die Gründe.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9e51c2540515fd6b2a5f5b8a",
+      "title": "Den FCA-Standard wird es nicht geben",
+      "url": "https://www.pv-magazine.de/2026/09/23/den-fca-standard-wird-es-nicht-geben/",
+      "published_at": "2026-09-23T10:03:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Den FCA-Standard wird es nicht geben Flexible Netzanschlussvereinbarungen werden aktuell heiß diskutiert. Eon kam just zur Intersolar mit einer Vorlage für einen Standard-FCA bei seinen Verteilnetzbetreibern heraus und hat damit erst einmal für Empörung gesorgt. Mit dem Blueprint von Green Flexibility gibt es mittlerweile ein standardisiertes Alternativmodell. Doch es zeigt sich: Vieles spricht me",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "24e7fdcf1272e887d2d860ac",
       "title": "Nissan Pixo: Kleines Elektroauto für den Stadtverkehr",
       "url": "https://www.heise.de/news/Nissan-Pixo-Kleines-Elektroauto-fuer-den-Stadtverkehr-11462898.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
