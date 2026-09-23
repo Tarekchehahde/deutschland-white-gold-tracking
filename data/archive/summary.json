@@ -1,16 +1,84 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-23T09:59:01Z",
+  "generated_at_utc": "2026-09-23T21:31:05Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 683,
+  "total_in_archive": 689,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 126
+    "2026-09": 132
   },
   "recent_for_ui": [
+    {
+      "id": "eba71b3faeb82bda3d3c19ac",
+      "title": "Elektro-Kleinstwagen: Twingo-Ableger Nissan Pixo vorgestellt",
+      "url": "https://www.golem.de/news/elektro-kleinstwagen-twingo-ableger-nissan-pixo-vorgestellt-2609-213367.html",
+      "published_at": "2026-09-23T15:17:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektro-Kleinstwagen: Twingo-Ableger Nissan Pixo vorgestellt Der Nissan Pixo ist noch kleiner als der Micra und deutlich schwächer motorisiert. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "66d159f103e02cc1a3447aec",
+      "title": "CO2-Ausstieg der Bundesregierung: Ja zur Wärmepumpe, nein zum Verbrenner",
+      "url": "https://www.golem.de/news/co2-ausstieg-der-bundesregierung-ja-zur-waermepumpe-nein-zum-verbrenner-2609-213362.html",
+      "published_at": "2026-09-23T14:23:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "CO2-Ausstieg der Bundesregierung: Ja zur Wärmepumpe, nein zum Verbrenner Die Bundesregierung beschließt den Fahrplan zur Energiewende. Er wird auf der UN-Generalversammlung vorgestellt und hält Überraschungen bereit. ( Energiewende , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "bd773773dd99394663a43e9b",
+      "title": "Ceer Motors: Saudi-Arabien zeigt futuristische Elektroautos mit 850 PS",
+      "url": "https://www.golem.de/news/ceer-motors-saudi-arabien-zeigt-futuristische-elektroautos-mit-850-ps-2609-213360.html",
+      "published_at": "2026-09-23T13:38:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ceer Motors: Saudi-Arabien zeigt futuristische Elektroautos mit 850 PS Zusammen mit BMW und Foxconn hat Saudi-Arabien eigene E-Autos entwickelt - inklusive Gebetszeiten-Benachrichtigung und Mekka-Kompass. ( Elektroauto , Foxconn )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d4caf4f42b42ea360ef1bad0",
+      "title": "Elektromobilität: Geely will E-Autos in vier Minuten laden",
+      "url": "https://www.golem.de/news/elektromobilitaet-geely-will-e-autos-in-vier-minuten-laden-2609-213359.html",
+      "published_at": "2026-09-23T13:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität: Geely will E-Autos in vier Minuten laden Geely stellt Ladesäulen mit 2,2 Megawatt vor und übertrifft damit BYD. Als erstes Auto unterstützt der Galaxy E5 die Technik. ( BYD , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "42ee33dcc81c1656966feb4f",
+      "title": "Gericht weist Klage ab: Auto online bestellt: Kein Recht auf Widerruf",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/auto-online-bestellt-gericht-verneint-recht-auf-widerruf-accg-201255496.html",
+      "published_at": "2026-09-23T10:51:52Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Gericht weist Klage ab: Auto online bestellt: Kein Recht auf Widerruf Ein Mann kauft für mehr als 60.000 Euro online ein Elektroauto und will die Bestellung widerrufen. Das Oberlandesgericht Frankfurt weist seine Klage aber ab. Das sind die Gründe.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9e51c2540515fd6b2a5f5b8a",
+      "title": "Den FCA-Standard wird es nicht geben",
+      "url": "https://www.pv-magazine.de/2026/09/23/den-fca-standard-wird-es-nicht-geben/",
+      "published_at": "2026-09-23T10:03:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Den FCA-Standard wird es nicht geben Flexible Netzanschlussvereinbarungen werden aktuell heiß diskutiert. Eon kam just zur Intersolar mit einer Vorlage für einen Standard-FCA bei seinen Verteilnetzbetreibern heraus und hat damit erst einmal für Empörung gesorgt. Mit dem Blueprint von Green Flexibility gibt es mittlerweile ein standardisiertes Alternativmodell. Doch es zeigt sich: Vieles spricht me",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "24e7fdcf1272e887d2d860ac",
       "title": "Nissan Pixo: Kleines Elektroauto für den Stadtverkehr",
@@ -4494,78 +4562,6 @@
       "language": "de",
       "summary": "Podcast Finanzen & Immobilien: Wie die KI-Welle viele Investitionen und Anlageoptionen antreibt Geothermie, Fusionsreaktoren, Drohnen: Künstliche Intelligenz braucht mehr Energie und kann den Einsatz neuer Technik anregen. Was bedeutet das für Anleger?",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bab308da2bc99326316076a5",
-      "title": "FSD: Tesla fährt mit schlafender Fahrerin 100 km/h",
-      "url": "https://www.golem.de/news/fsd-tesla-faehrt-mit-schlafender-fahrerin-100-km-h-2607-210603.html",
-      "published_at": "2026-07-07T13:48:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "FSD: Tesla fährt mit schlafender Fahrerin 100 km/h In Kanada wurde eine Frau in ihrem Tesla auf der Landstraße gefilmt - schlafend. Die Überwachung lässt sich eigentlich nur mit Tricks aushebeln. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4dd7d67a9bd4d6ddc3b2bba8",
-      "title": "„Sprechende Batterie“ soll selbsttätig Hitze oder Gasbildung melden",
-      "url": "https://www.pv-magazine.de/2026/07/07/sprechende-batterie-soll-selbsttaetig-hitze-oder-gasbildung-melden/",
-      "published_at": "2026-07-07T10:50:59Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "„Sprechende Batterie“ soll selbsttätig Hitze oder Gasbildung melden Ein an der Uni Kiel entwickeltes Sensorsystem könnte frühzeitig potenziell gefährliche Zustände in stationären Batteriespeichern oder Elektroauto-Batterien melden. Eigene Datenleitung sind hierfür nicht nötig, das System nutzt die bereits vorhandenen Stromleitungen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f790c103d4ceb49d3380c03c",
-      "title": "Luxushersteller: Bentley tauft sein erstes Elektroauto Torcal",
-      "url": "https://www.golem.de/news/luxushersteller-bentley-tauft-sein-erstes-elektroauto-torcal-2607-210566.html",
-      "published_at": "2026-07-07T05:41:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Luxushersteller: Bentley tauft sein erstes Elektroauto Torcal Der Autobauer Bentley will sein erstes vollelektrisches Modell Torcal nennen. Der Name folgt einer vertrauten Tradition. ( Auto , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4e4958b15757a137d390f26e",
-      "title": "Reiche ändeRt Gesetzentwurf: Das plant die Bundesregierung gegen Dunkelflauten",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kraftwerksstrategie-was-die-bundesregierung-gegen-dunkelflauten-plant-201002418.html",
-      "published_at": "2026-07-06T17:28:56Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Reiche ändeRt Gesetzentwurf: Das plant die Bundesregierung gegen Dunkelflauten Am Donnerstag soll der Bundestag endlich die deutsche Kraftwerksstrategie verabschieden. Nachbesserungen sehen höhere Vergütungen vor, Erleichterungen für Batteriespeicher und Anreize für Nordostdeutschland.",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "8ddf06b7475dba2dcaa9db16",
-      "title": "Elektromobilität: Druck verdoppelt die Lebensdauer von Batterien",
-      "url": "https://www.golem.de/news/elektromobilitaet-druck-verdoppelt-die-lebensdauer-von-batterien-2607-210553.html",
-      "published_at": "2026-07-06T14:29:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektromobilität: Druck verdoppelt die Lebensdauer von Batterien Mit konstantem Druck auf einen Akku wird die typische Alterung minimiert. Eine andere Zellchemie oder seltene Materialien werden nicht benötigt. ( Akku , Elektroauto )",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "67e05a979bc2d7d5e58cc5ca",
-      "title": "Bundestag berät abschließend über Strom-VKG",
-      "url": "https://www.pv-magazine.de/2026/07/06/bundestag-beraet-abschliessend-ueber-strom-vkg/",
-      "published_at": "2026-07-06T13:01:25Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Bundestag berät abschließend über Strom-VKG Der Bundesverband Neue Energiewirtschaft hält die kurzfristig geplanten Änderungen wie die Anhebung des Gebotshöchstwerts um 41 Prozent für das völlig falsche Signal. Auch die Diskriminierung von Batteriespeichern bei den geplanten Kapazitätsausschreibungen ist im parlamentarischen Prozess nicht beseitigt worden.",
-      "tags": [
-        "politik"
-      ],
       "regions": []
     }
   ]
