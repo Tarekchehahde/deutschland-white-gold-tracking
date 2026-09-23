@@ -1,8 +1,54 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 122,
+  "article_count": 126,
   "articles": [
+    {
+      "id": "24e7fdcf1272e887d2d860ac",
+      "title": "Nissan Pixo: Kleines Elektroauto für den Stadtverkehr",
+      "url": "https://www.heise.de/news/Nissan-Pixo-Kleines-Elektroauto-fuer-den-Stadtverkehr-11462898.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-23T09:25:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Nissan Pixo: Kleines Elektroauto für den Stadtverkehr Nissan stellt den Pixo vor, einen elektrischen Kleinstwagen, der sich auf Stadtnutzung konzentriert und rund 20.000 Euro kosten dürfte.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5b2b75d21af8d70d7ef50b5a",
+      "title": "Sponsored: Integrierte Energielösungen im Fokus auf der JA Roadshow 2026 „Journey Ahead“",
+      "url": "https://www.pv-magazine.de/2026/09/23/sponsored-integrierte-energieloesungen-im-fokus-auf-der-ja-roadshow-2026-journey-ahead/",
+      "published_at": "2026-09-23T09:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sponsored: Integrierte Energielösungen im Fokus auf der JA Roadshow 2026 „Journey Ahead“ Da Energieunabhängigkeit in ganz Europa zunehmend an Bedeutung gewinnt, bringt die erste Roadshow von JA, die „Journey Ahead: JA Roadshow 2026“ das wachsende Portfolio des Unternehmens an Photovoltaik- und Energiespeicherlösungen direkt zu den Kunden. An den einzelnen Stationen will JA zeigen, wie die Technolo",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "f9479c2fd9e5bb27262dba47",
+      "title": "Elektro-SUV: Skoda Epiq macht den Umstieg leicht",
+      "url": "https://www.golem.de/news/elektro-suv-skoda-epiq-macht-den-umstieg-leicht-2609-213316.html",
+      "published_at": "2026-09-23T07:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektro-SUV: Skoda Epiq macht den Umstieg leicht Mit dem Epiq rundet Skoda sein Angebot an Elektro-SUVs nach unten ab. Gegenüber dem ID.Polo kann er bei aller Familienähnlichkeit punkten. Ein Test von Franz W. Rother ( Elektroauto , Test )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "23dd4607228d1ab207619e88",
+      "title": "Die größten Batteriespeicher Europas: Diese Anlagen wollen Lithium überflüssig machen",
+      "url": "https://t3n.de/news/batteriespeicher-europas-ohne-lithium-1754509/",
+      "published_at": "2026-09-22T15:55:00Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Die größten Batteriespeicher Europas: Diese Anlagen wollen Lithium überflüssig machen Bei Großspeichern zur Stabilisierung des Stromnetzes jagt derzeit ein Superlativ den nächsten. Bei den größten Batterien Europas kommen neue Geschäftsmodelle sowie Techniken zum Einsatz, die ohne kritische Rohstoffe wie Lithium auskommen. Der größte Batteriespeicher Europas werde gerade in der Schweiz gebaut, mel",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d57850e2397796f332043a12",
       "title": "Förderfreie Anlagen: Der PPA-Markt kommt zurück",
