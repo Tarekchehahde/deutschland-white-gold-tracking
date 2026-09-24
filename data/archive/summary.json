@@ -1,24 +1,57 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-24T10:00:35Z",
+  "generated_at_utc": "2026-09-24T21:32:37Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 692,
+  "total_in_archive": 695,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 135
+    "2026-09": 138
   },
   "recent_for_ui": [
     {
       "id": "19e3b254d4cdd2c9f9a64113",
       "title": "Batteriespeicher-Boom in Bulgarien",
       "url": "https://www.dw.com/de/batteriespeicher-boom-in-bulgarien/a-79203544?maca=de-rss-de-eco-1018-xml-mrss",
-      "published_at": "2026-09-24T08:41:00Z",
+      "published_at": "2026-09-24T18:10:00Z",
       "source_id": "dw-wirtschaft",
       "language": "de",
       "summary": "Batteriespeicher-Boom in Bulgarien In Bulgarien wird viel privates Geld investiert, um Batteriespeicher für Solarstrom zu bauen. Inzwischen ist das Land Vorreiter in Südosteuropa.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f48fc2e1c47bfcf188888ab9",
+      "title": "Elektroautos überholen Verbrenner bei VW-Bestellungen in Deutschland",
+      "url": "https://www.heise.de/news/VW-verschiebt-Produktion-Weniger-Verbrenner-mehr-Elektroautos-in-Deutschland-11464498.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-24T13:39:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroautos überholen Verbrenner bei VW-Bestellungen in Deutschland Volkswagen passt seine deutsche Produktion an: In Wolfsburg entfallen Sonderschichten für Verbrenner, Emden und Zwickau sollen mehr Elektroautos bauen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ada15248038b8f43a07f6962",
+      "title": "Weniger Photovoltaik-Anlagen und Elektroautos in AfD-Hochburgen",
+      "url": "https://www.pv-magazine.de/2026/09/24/weniger-photovoltaik-anlagen-und-elektroautos-in-afd-hochburgen/",
+      "published_at": "2026-09-24T10:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Weniger Photovoltaik-Anlagen und Elektroautos in AfD-Hochburgen Eine Studie der Universität Freiburg zeigt, dass die Verbreitung von E-Autos und Photovoltaik-Anlagen mit steigenden Stimmenanteilen für die AfD in der Folgezeit langsamer verläuft. Je weiter rechts sich Befragte politisch einordnen, desto weniger sind sie im Durchschnitt bereit, E-Autos oder Photovoltaik-Anlagen anzuschaffen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fc1c44254eec97932a1eab2b",
+      "title": "Renault zeigt Designstudie R8-Gordini-Coupé als Elektroauto",
+      "url": "https://www.heise.de/news/Renault-zeigt-Designstudie-R8-Gordini-Coupe-als-Elektroauto-11464098.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-24T10:14:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Renault zeigt Designstudie R8-Gordini-Coupé als Elektroauto Renault zeigt eine neue Interpretation des legendären 8 Gordini als zweisitziges Elektro-Coupé mit 200 kW und Heckantrieb. In Serie geht er aber nicht.",
       "tags": [],
       "regions": []
     },
@@ -4528,39 +4561,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Eisen statt Wasserstoff: Eisenpulver könnte zum relevanten Energiespeicher werden Eisen lässt sich zu Rost verbrennen - in bestehenden Kohlekraftwerken. Es kann Wasserstoff nicht ersetzen, aber eine preiswerte Ergänzung sein. ( Energiewende , Brennstoffzelle )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "623a180cd1bda40e8b78db88",
-      "title": "ADAC-Umfrage: E-Autos besser als ihr Ruf",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/studie-zu-e-autos-elektroautos-sind-besser-als-ihr-ruf-accg-201002502.html",
-      "published_at": "2026-07-08T07:13:30Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "ADAC-Umfrage: E-Autos besser als ihr Ruf Eine Umfrage zeigt: Im Alltag bewähren sich Elektroautos besser, als diejenigen vermuten, die keines fahren.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ff1ac88009b8e71e143488fd",
-      "title": "Geothermie: Quaise erhält 134 Millionen US-Dollar für berührungslose Bohrtechnik",
-      "url": "https://www.heise.de/news/Geothermie-Quaise-erhaelt-134-Millionen-US-Dollar-fuer-beruehrungslose-Bohrtechnik-11357363.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-08T05:55:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Geothermie: Quaise erhält 134 Millionen US-Dollar für berührungslose Bohrtechnik Das Geothermieprojekt der MIT-Ausgründung Quaise Energy schreitet voran. Neues Kapital für die nötige Tiefbohrtechnik wurde eingeworben.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1db9190f5ddd6c6f7c5a42ba",
-      "title": "Elektroauto-Zahlen: Tesla fährt wieder an die Spitze",
-      "url": "https://www.faz.net/premium/digitalwirtschaft/mobility/e-autos-im-juni-tesla-faehrt-wieder-an-die-spitze-accg-201007277.html",
-      "published_at": "2026-07-08T04:55:57Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Elektroauto-Zahlen: Tesla fährt wieder an die Spitze Die Neuzulassungen von Elektroautos sind im Juni um 78 Prozent auf 84.057 Fahrzeuge gestiegen. Den Schub tragen ein erstarktes Tesla, die wachsenden Marktanteile der chinesischen Angreifer und die Modelloffensiven von Mercedes und BMW.",
       "tags": [],
       "regions": []
     }
