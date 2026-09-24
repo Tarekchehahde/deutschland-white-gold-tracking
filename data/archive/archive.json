@@ -2,6 +2,39 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "19e3b254d4cdd2c9f9a64113",
+      "title": "Batteriespeicher-Boom in Bulgarien",
+      "url": "https://www.dw.com/de/batteriespeicher-boom-in-bulgarien/a-79203544?maca=de-rss-de-eco-1018-xml-mrss",
+      "published_at": "2026-09-24T08:41:00Z",
+      "source_id": "dw-wirtschaft",
+      "language": "de",
+      "summary": "Batteriespeicher-Boom in Bulgarien In Bulgarien wird viel privates Geld investiert, um Batteriespeicher für Solarstrom zu bauen. Inzwischen ist das Land Vorreiter in Südosteuropa.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "33d9fd0edf7a26fb606b0d21",
+      "title": "Bestellbutton: Autokäufer scheitert vor Gericht trotz falscher Beschriftung",
+      "url": "https://www.golem.de/news/bestellbutton-autokaeufer-scheitert-vor-gericht-trotz-falscher-beschriftung-2609-213382.html",
+      "published_at": "2026-09-24T06:59:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Bestellbutton: Autokäufer scheitert vor Gericht trotz falscher Beschriftung Ein Autokäufer hat mehr als ein Jahr später sein Geld zurückverlangt und sich dabei auf einen falsch beschrifteten Bestellbutton berufen - ohne Erfolg. ( Onlinehandel , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "554f4dc82f19609f37328678",
+      "title": "SUV: Bentley Torcal fährt mit 653 kW in die Elektro-Ära",
+      "url": "https://www.golem.de/news/suv-bentley-torcal-faehrt-mit-653-kw-in-die-elektro-aera-2609-213375.html",
+      "published_at": "2026-09-24T05:38:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "SUV: Bentley Torcal fährt mit 653 kW in die Elektro-Ära Der Bentley Torcal ist der erste Elektro-SUV der Marke. Er hat bis zu 653 kW (888 PS) und verfügt über einen 113-kWh-Akku. ( Elektroauto , OLED )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "eba71b3faeb82bda3d3c19ac",
       "title": "Elektro-Kleinstwagen: Twingo-Ableger Nissan Pixo vorgestellt",
       "url": "https://www.golem.de/news/elektro-kleinstwagen-twingo-ableger-nissan-pixo-vorgestellt-2609-213367.html",
