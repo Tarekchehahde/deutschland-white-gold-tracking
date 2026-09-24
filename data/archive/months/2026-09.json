@@ -1,16 +1,49 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 135,
+  "article_count": 138,
   "articles": [
     {
       "id": "19e3b254d4cdd2c9f9a64113",
       "title": "Batteriespeicher-Boom in Bulgarien",
       "url": "https://www.dw.com/de/batteriespeicher-boom-in-bulgarien/a-79203544?maca=de-rss-de-eco-1018-xml-mrss",
-      "published_at": "2026-09-24T08:41:00Z",
+      "published_at": "2026-09-24T18:10:00Z",
       "source_id": "dw-wirtschaft",
       "language": "de",
       "summary": "Batteriespeicher-Boom in Bulgarien In Bulgarien wird viel privates Geld investiert, um Batteriespeicher für Solarstrom zu bauen. Inzwischen ist das Land Vorreiter in Südosteuropa.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f48fc2e1c47bfcf188888ab9",
+      "title": "Elektroautos überholen Verbrenner bei VW-Bestellungen in Deutschland",
+      "url": "https://www.heise.de/news/VW-verschiebt-Produktion-Weniger-Verbrenner-mehr-Elektroautos-in-Deutschland-11464498.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-24T13:39:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroautos überholen Verbrenner bei VW-Bestellungen in Deutschland Volkswagen passt seine deutsche Produktion an: In Wolfsburg entfallen Sonderschichten für Verbrenner, Emden und Zwickau sollen mehr Elektroautos bauen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ada15248038b8f43a07f6962",
+      "title": "Weniger Photovoltaik-Anlagen und Elektroautos in AfD-Hochburgen",
+      "url": "https://www.pv-magazine.de/2026/09/24/weniger-photovoltaik-anlagen-und-elektroautos-in-afd-hochburgen/",
+      "published_at": "2026-09-24T10:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Weniger Photovoltaik-Anlagen und Elektroautos in AfD-Hochburgen Eine Studie der Universität Freiburg zeigt, dass die Verbreitung von E-Autos und Photovoltaik-Anlagen mit steigenden Stimmenanteilen für die AfD in der Folgezeit langsamer verläuft. Je weiter rechts sich Befragte politisch einordnen, desto weniger sind sie im Durchschnitt bereit, E-Autos oder Photovoltaik-Anlagen anzuschaffen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fc1c44254eec97932a1eab2b",
+      "title": "Renault zeigt Designstudie R8-Gordini-Coupé als Elektroauto",
+      "url": "https://www.heise.de/news/Renault-zeigt-Designstudie-R8-Gordini-Coupe-als-Elektroauto-11464098.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-24T10:14:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Renault zeigt Designstudie R8-Gordini-Coupé als Elektroauto Renault zeigt eine neue Interpretation des legendären 8 Gordini als zweisitziges Elektro-Coupé mit 200 kW und Heckantrieb. In Serie geht er aber nicht.",
       "tags": [],
       "regions": []
     },
