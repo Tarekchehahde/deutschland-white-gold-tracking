@@ -2,17 +2,6 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "131440672286dea8b5e26006",
-      "title": "E-Auto-Boom kostet den Staat Milliarden an Steuereinnahmen",
-      "url": "https://www.zdfheute.de/wirtschaft/deutschland-elektroauto-e-auto-steuer-100.html",
-      "published_at": "2026-09-25T09:02:00Z",
-      "source_id": "zdf-nachrichten",
-      "language": "de",
-      "summary": "E-Auto-Boom kostet den Staat Milliarden an Steuereinnahmen Der Aufstieg der Elektroautos hat einen Nebeneffekt: Dem Staat entgehen Einnahmen aus Kfz- und Mineralölsteuer. Das könnte zum Problem für die schwache Haushaltskasse werden.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "fb8c29cf138e703a82e6998b",
       "title": "Tesla: FSD fährt in Brüsseler 30er-Zonen zu schnell",
       "url": "https://www.golem.de/news/tesla-fsd-faehrt-in-bruesseler-30er-zonen-zu-schnell-2609-213419.html",
@@ -66,28 +55,6 @@
       "source_id": "t3n-news",
       "language": "de",
       "summary": "Wie ausgewechselt: Warum Afrikas Lieferfahrer und Taxis elektrisch fahren Ostafrika entwickelt sich zum Hotspot von Elektromobilität. Vor allem Motorräder mit Wechselakkus werden zu den Arbeitspferden für den Waren- und Personenverkehr. Clinton Landon hält mit seinem elektrischen Motorrad vor einem Schrank, der an eine Paketstation erinnert. Er öffnet eine Klappe an der Tankattrappe seines Motorra",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ada15248038b8f43a07f6962",
-      "title": "Weniger Photovoltaik-Anlagen und Elektroautos in AfD-Hochburgen",
-      "url": "https://www.pv-magazine.de/2026/09/24/weniger-photovoltaik-anlagen-und-elektroautos-in-afd-hochburgen/",
-      "published_at": "2026-09-24T10:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Weniger Photovoltaik-Anlagen und Elektroautos in AfD-Hochburgen Eine Studie der Universität Freiburg zeigt, dass die Verbreitung von E-Autos und Photovoltaik-Anlagen mit steigenden Stimmenanteilen für die AfD in der Folgezeit langsamer verläuft. Je weiter rechts sich Befragte politisch einordnen, desto weniger sind sie im Durchschnitt bereit, E-Autos oder Photovoltaik-Anlagen anzuschaffen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fc1c44254eec97932a1eab2b",
-      "title": "Renault zeigt Designstudie R8-Gordini-Coupé als Elektroauto",
-      "url": "https://www.heise.de/news/Renault-zeigt-Designstudie-R8-Gordini-Coupe-als-Elektroauto-11464098.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-24T10:14:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Renault zeigt Designstudie R8-Gordini-Coupé als Elektroauto Renault zeigt eine neue Interpretation des legendären 8 Gordini als zweisitziges Elektro-Coupé mit 200 kW und Heckantrieb. In Serie geht er aber nicht.",
       "tags": [],
       "regions": []
     }

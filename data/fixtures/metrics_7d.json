@@ -1,14 +1,13 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-09-24": 5,
-    "2026-09-25": 3
+    "2026-09-24": 3,
+    "2026-09-25": 2
   },
   "tag_counts": {
     "exploration": 1
   },
   "by_source_category": {
-    "broadcast": 1,
-    "national": 7
+    "national": 5
   }
 }
