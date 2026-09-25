@@ -1,16 +1,51 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-24T21:32:37Z",
+  "generated_at_utc": "2026-09-25T10:11:43Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 695,
+  "total_in_archive": 699,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 138
+    "2026-09": 142
   },
   "recent_for_ui": [
+    {
+      "id": "131440672286dea8b5e26006",
+      "title": "E-Auto-Boom kostet den Staat Milliarden an Steuereinnahmen",
+      "url": "https://www.zdfheute.de/wirtschaft/deutschland-elektroauto-e-auto-steuer-100.html",
+      "published_at": "2026-09-25T09:02:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "E-Auto-Boom kostet den Staat Milliarden an Steuereinnahmen Der Aufstieg der Elektroautos hat einen Nebeneffekt: Dem Staat entgehen Einnahmen aus Kfz- und Mineralölsteuer. Das könnte zum Problem für die schwache Haushaltskasse werden.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fb8c29cf138e703a82e6998b",
+      "title": "Tesla: FSD fährt in Brüsseler 30er-Zonen zu schnell",
+      "url": "https://www.golem.de/news/tesla-fsd-faehrt-in-bruesseler-30er-zonen-zu-schnell-2609-213419.html",
+      "published_at": "2026-09-25T05:33:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: FSD fährt in Brüsseler 30er-Zonen zu schnell Kurz vor der Abstimmung zur EU-weiten Zulassung von FSD zeigt eine Studie, dass Teslas Fahrassistent es mit der Geschwindigkeit nicht so genau nimmt. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "bcc86533184531bd3bee8294",
+      "title": "Freitag: Lizenzen für Flugdrohnen-Abschuss, Switch-Pirat soll an Nintendo zahlen",
+      "url": "https://www.heise.de/news/Freitag-Lizenzen-fuer-Flugdrohnen-Abschuss-Switch-Pirat-soll-an-Nintendo-zahlen-11465223.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-25T04:15:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Freitag: Lizenzen für Flugdrohnen-Abschuss, Switch-Pirat soll an Nintendo zahlen Abschuss von Flugdrohnen + Strafzahlung von Switch-Pirat an Nintendo + Kreditkartendaten geklaut + Elektroautos überholen Verbrenner + Rechenzentren im All",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
     {
       "id": "19e3b254d4cdd2c9f9a64113",
       "title": "Batteriespeicher-Boom in Bulgarien",
@@ -30,6 +65,17 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Elektroautos überholen Verbrenner bei VW-Bestellungen in Deutschland Volkswagen passt seine deutsche Produktion an: In Wolfsburg entfallen Sonderschichten für Verbrenner, Emden und Zwickau sollen mehr Elektroautos bauen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "048ddfd5b24c33d947a69129",
+      "title": "Wie ausgewechselt: Warum Afrikas Lieferfahrer und Taxis elektrisch fahren",
+      "url": "https://t3n.de/news/wie-ausgewechselt-warum-afrikas-lieferfahrer-und-taxis-elektrisch-fahren-1764505/",
+      "published_at": "2026-09-24T12:30:47Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Wie ausgewechselt: Warum Afrikas Lieferfahrer und Taxis elektrisch fahren Ostafrika entwickelt sich zum Hotspot von Elektromobilität. Vor allem Motorräder mit Wechselakkus werden zu den Arbeitspferden für den Waren- und Personenverkehr. Clinton Landon hält mit seinem elektrischen Motorrad vor einem Schrank, der an eine Paketstation erinnert. Er öffnet eine Klappe an der Tankattrappe seines Motorra",
       "tags": [],
       "regions": []
     },
@@ -4517,50 +4563,6 @@
       "source_id": "t3n-news",
       "language": "de",
       "summary": "E-Autos zum Verbrenner-Preis: Vietnamesischer Hersteller zeigt, wie es gehen soll Elektroautos sind teuer, die Produktion komplex. Der vietnamesische Hersteller VinFast setzt auf KI-gesteuerte Fertigung und vereinfachte Architekturen, um Kosten zu senken – ohne Abstriche bei der Qualität. Die Strategie dahinter. Elektroautos sind für viele Käufer noch immer zu teuer. Hohe Batteriekosten, komplexe ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9b93657eaa9e0d8fadc4c9e8",
-      "title": "Elektroauto: Kia EV4 kommt als Allradversion mit 195 kW",
-      "url": "https://www.golem.de/news/elektroauto-kia-ev4-kommt-als-allradversion-mit-195-kw-2607-210666.html",
-      "published_at": "2026-07-08T15:47:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Kia EV4 kommt als Allradversion mit 195 kW Kias in Europa gebautes Elektroauto EV4 bekommt zum Modelljahr 2027 eine neue Variante mit Allradantrieb, mehr Leistung und großem Akku. ( Kia , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b8614a5198e2427caaa1a6d8",
-      "title": "Netzausbau, Speicher und Flexibilität hinken dem Wachstum der erneuerbaren Energien in Europa hinterher",
-      "url": "https://www.pv-magazine.de/2026/07/08/netzausbau-speicher-und-flexibilitaet-hinken-dem-wachstum-der-erneuerbaren-energien-in-europa-hinterher/",
-      "published_at": "2026-07-08T14:55:18Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Netzausbau, Speicher und Flexibilität hinken dem Wachstum der erneuerbaren Energien in Europa hinterher Einem neuen Bericht des European Climate Neutrality Observatory zufolge schreiten der Netzausbau, die Batteriespeicher-Zubau und die Flexibilität, die für eine großflächige Nutzung von Photovoltaik, Windkraft &#38; Co. in Europa erforderlich sind, nicht schnell genug voran.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "910c707edb20291dbae2657c",
-      "title": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/unfall-zwei-tote-ueberholmanoever-bartholomae-100.html",
-      "published_at": "2026-07-08T14:48:01Z",
-      "source_id": "swr-aktuell-rss",
-      "language": "de",
-      "summary": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus Bei einem missglückten Überholmanöver nahe Bartholomä (Ostalbkreis) sind am späten Dienstagabend zwei Menschen getötet worden. Das Elektroauto fing Feuer und brannte aus.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9fb771ea2b70dc752e5919fc",
-      "title": "Eisen statt Wasserstoff: Eisenpulver könnte zum relevanten Energiespeicher werden",
-      "url": "https://www.golem.de/news/eisen-statt-wasserstoff-eisenpulver-koennte-zum-relevanten-energiespeicher-werden-2607-210627.html",
-      "published_at": "2026-07-08T08:20:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Eisen statt Wasserstoff: Eisenpulver könnte zum relevanten Energiespeicher werden Eisen lässt sich zu Rost verbrennen - in bestehenden Kohlekraftwerken. Es kann Wasserstoff nicht ersetzen, aber eine preiswerte Ergänzung sein. ( Energiewende , Brennstoffzelle )",
       "tags": [],
       "regions": []
     }
