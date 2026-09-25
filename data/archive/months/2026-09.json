@@ -1,8 +1,43 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 138,
+  "article_count": 142,
   "articles": [
+    {
+      "id": "131440672286dea8b5e26006",
+      "title": "E-Auto-Boom kostet den Staat Milliarden an Steuereinnahmen",
+      "url": "https://www.zdfheute.de/wirtschaft/deutschland-elektroauto-e-auto-steuer-100.html",
+      "published_at": "2026-09-25T09:02:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "E-Auto-Boom kostet den Staat Milliarden an Steuereinnahmen Der Aufstieg der Elektroautos hat einen Nebeneffekt: Dem Staat entgehen Einnahmen aus Kfz- und Mineralölsteuer. Das könnte zum Problem für die schwache Haushaltskasse werden.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fb8c29cf138e703a82e6998b",
+      "title": "Tesla: FSD fährt in Brüsseler 30er-Zonen zu schnell",
+      "url": "https://www.golem.de/news/tesla-fsd-faehrt-in-bruesseler-30er-zonen-zu-schnell-2609-213419.html",
+      "published_at": "2026-09-25T05:33:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: FSD fährt in Brüsseler 30er-Zonen zu schnell Kurz vor der Abstimmung zur EU-weiten Zulassung von FSD zeigt eine Studie, dass Teslas Fahrassistent es mit der Geschwindigkeit nicht so genau nimmt. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "bcc86533184531bd3bee8294",
+      "title": "Freitag: Lizenzen für Flugdrohnen-Abschuss, Switch-Pirat soll an Nintendo zahlen",
+      "url": "https://www.heise.de/news/Freitag-Lizenzen-fuer-Flugdrohnen-Abschuss-Switch-Pirat-soll-an-Nintendo-zahlen-11465223.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-25T04:15:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Freitag: Lizenzen für Flugdrohnen-Abschuss, Switch-Pirat soll an Nintendo zahlen Abschuss von Flugdrohnen + Strafzahlung von Switch-Pirat an Nintendo + Kreditkartendaten geklaut + Elektroautos überholen Verbrenner + Rechenzentren im All",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
     {
       "id": "19e3b254d4cdd2c9f9a64113",
       "title": "Batteriespeicher-Boom in Bulgarien",
@@ -22,6 +57,17 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Elektroautos überholen Verbrenner bei VW-Bestellungen in Deutschland Volkswagen passt seine deutsche Produktion an: In Wolfsburg entfallen Sonderschichten für Verbrenner, Emden und Zwickau sollen mehr Elektroautos bauen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "048ddfd5b24c33d947a69129",
+      "title": "Wie ausgewechselt: Warum Afrikas Lieferfahrer und Taxis elektrisch fahren",
+      "url": "https://t3n.de/news/wie-ausgewechselt-warum-afrikas-lieferfahrer-und-taxis-elektrisch-fahren-1764505/",
+      "published_at": "2026-09-24T12:30:47Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Wie ausgewechselt: Warum Afrikas Lieferfahrer und Taxis elektrisch fahren Ostafrika entwickelt sich zum Hotspot von Elektromobilität. Vor allem Motorräder mit Wechselakkus werden zu den Arbeitspferden für den Waren- und Personenverkehr. Clinton Landon hält mit seinem elektrischen Motorrad vor einem Schrank, der an eine Paketstation erinnert. Er öffnet eine Klappe an der Tankattrappe seines Motorra",
       "tags": [],
       "regions": []
     },

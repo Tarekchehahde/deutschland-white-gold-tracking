@@ -2,6 +2,41 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "131440672286dea8b5e26006",
+      "title": "E-Auto-Boom kostet den Staat Milliarden an Steuereinnahmen",
+      "url": "https://www.zdfheute.de/wirtschaft/deutschland-elektroauto-e-auto-steuer-100.html",
+      "published_at": "2026-09-25T09:02:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "E-Auto-Boom kostet den Staat Milliarden an Steuereinnahmen Der Aufstieg der Elektroautos hat einen Nebeneffekt: Dem Staat entgehen Einnahmen aus Kfz- und Mineralölsteuer. Das könnte zum Problem für die schwache Haushaltskasse werden.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fb8c29cf138e703a82e6998b",
+      "title": "Tesla: FSD fährt in Brüsseler 30er-Zonen zu schnell",
+      "url": "https://www.golem.de/news/tesla-fsd-faehrt-in-bruesseler-30er-zonen-zu-schnell-2609-213419.html",
+      "published_at": "2026-09-25T05:33:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: FSD fährt in Brüsseler 30er-Zonen zu schnell Kurz vor der Abstimmung zur EU-weiten Zulassung von FSD zeigt eine Studie, dass Teslas Fahrassistent es mit der Geschwindigkeit nicht so genau nimmt. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "bcc86533184531bd3bee8294",
+      "title": "Freitag: Lizenzen für Flugdrohnen-Abschuss, Switch-Pirat soll an Nintendo zahlen",
+      "url": "https://www.heise.de/news/Freitag-Lizenzen-fuer-Flugdrohnen-Abschuss-Switch-Pirat-soll-an-Nintendo-zahlen-11465223.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-25T04:15:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Freitag: Lizenzen für Flugdrohnen-Abschuss, Switch-Pirat soll an Nintendo zahlen Abschuss von Flugdrohnen + Strafzahlung von Switch-Pirat an Nintendo + Kreditkartendaten geklaut + Elektroautos überholen Verbrenner + Rechenzentren im All",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
       "id": "19e3b254d4cdd2c9f9a64113",
       "title": "Batteriespeicher-Boom in Bulgarien",
       "url": "https://www.dw.com/de/batteriespeicher-boom-in-bulgarien/a-79203544?maca=de-rss-de-eco-1018-xml-mrss",
@@ -24,6 +59,17 @@
       "regions": []
     },
     {
+      "id": "048ddfd5b24c33d947a69129",
+      "title": "Wie ausgewechselt: Warum Afrikas Lieferfahrer und Taxis elektrisch fahren",
+      "url": "https://t3n.de/news/wie-ausgewechselt-warum-afrikas-lieferfahrer-und-taxis-elektrisch-fahren-1764505/",
+      "published_at": "2026-09-24T12:30:47Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Wie ausgewechselt: Warum Afrikas Lieferfahrer und Taxis elektrisch fahren Ostafrika entwickelt sich zum Hotspot von Elektromobilität. Vor allem Motorräder mit Wechselakkus werden zu den Arbeitspferden für den Waren- und Personenverkehr. Clinton Landon hält mit seinem elektrischen Motorrad vor einem Schrank, der an eine Paketstation erinnert. Er öffnet eine Klappe an der Tankattrappe seines Motorra",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "ada15248038b8f43a07f6962",
       "title": "Weniger Photovoltaik-Anlagen und Elektroautos in AfD-Hochburgen",
       "url": "https://www.pv-magazine.de/2026/09/24/weniger-photovoltaik-anlagen-und-elektroautos-in-afd-hochburgen/",
@@ -42,39 +88,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Renault zeigt Designstudie R8-Gordini-Coupé als Elektroauto Renault zeigt eine neue Interpretation des legendären 8 Gordini als zweisitziges Elektro-Coupé mit 200 kW und Heckantrieb. In Serie geht er aber nicht.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "33d9fd0edf7a26fb606b0d21",
-      "title": "Bestellbutton: Autokäufer scheitert vor Gericht trotz falscher Beschriftung",
-      "url": "https://www.golem.de/news/bestellbutton-autokaeufer-scheitert-vor-gericht-trotz-falscher-beschriftung-2609-213382.html",
-      "published_at": "2026-09-24T06:59:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Bestellbutton: Autokäufer scheitert vor Gericht trotz falscher Beschriftung Ein Autokäufer hat mehr als ein Jahr später sein Geld zurückverlangt und sich dabei auf einen falsch beschrifteten Bestellbutton berufen - ohne Erfolg. ( Onlinehandel , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "554f4dc82f19609f37328678",
-      "title": "SUV: Bentley Torcal fährt mit 653 kW in die Elektro-Ära",
-      "url": "https://www.golem.de/news/suv-bentley-torcal-faehrt-mit-653-kw-in-die-elektro-aera-2609-213375.html",
-      "published_at": "2026-09-24T05:38:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "SUV: Bentley Torcal fährt mit 653 kW in die Elektro-Ära Der Bentley Torcal ist der erste Elektro-SUV der Marke. Er hat bis zu 653 kW (888 PS) und verfügt über einen 113-kWh-Akku. ( Elektroauto , OLED )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "23dd4607228d1ab207619e88",
-      "title": "Die größten Batteriespeicher Europas: Diese Anlagen wollen Lithium überflüssig machen",
-      "url": "https://t3n.de/news/batteriespeicher-europas-ohne-lithium-1754509/",
-      "published_at": "2026-09-22T15:55:00Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Die größten Batteriespeicher Europas: Diese Anlagen wollen Lithium überflüssig machen Bei Großspeichern zur Stabilisierung des Stromnetzes jagt derzeit ein Superlativ den nächsten. Bei den größten Batterien Europas kommen neue Geschäftsmodelle sowie Techniken zum Einsatz, die ohne kritische Rohstoffe wie Lithium auskommen. Der größte Batteriespeicher Europas werde gerade in der Schweiz gebaut, mel",
       "tags": [],
       "regions": []
     }
