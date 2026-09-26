@@ -2,13 +2,13 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "fb8c29cf138e703a82e6998b",
-      "title": "Tesla: FSD fährt in Brüsseler 30er-Zonen zu schnell",
-      "url": "https://www.golem.de/news/tesla-fsd-faehrt-in-bruesseler-30er-zonen-zu-schnell-2609-213419.html",
-      "published_at": "2026-09-25T05:33:02Z",
-      "source_id": "golem-rss",
+      "id": "d5aa184bfa3251df0a5ea121",
+      "title": "Gebrauchte E-Autos: Hohe Spritpreise machen gebrauchte Elektroautos teurer",
+      "url": "https://www.zeit.de/wirtschaft/2026-09/gebrauchte-e-autos-restwerte-preise-benzin-diesel-gxe",
+      "published_at": "2026-09-26T06:17:04Z",
+      "source_id": "zeit-wirtschaft",
       "language": "de",
-      "summary": "Tesla: FSD fährt in Brüsseler 30er-Zonen zu schnell Kurz vor der Abstimmung zur EU-weiten Zulassung von FSD zeigt eine Studie, dass Teslas Fahrassistent es mit der Geschwindigkeit nicht so genau nimmt. ( Tesla , Elektroauto )",
+      "summary": "Gebrauchte E-Autos: Hohe Spritpreise machen gebrauchte Elektroautos teurer Weil hohe Spritpreise E-Autos attraktiver machen, werden auch Gebrauchtwagen teurer. Und auch ihr Anteil auf dem Gebrauchtmarkt steigt.",
       "tags": [],
       "regions": []
     },
@@ -33,17 +33,6 @@
       "source_id": "dw-wirtschaft",
       "language": "de",
       "summary": "Batteriespeicher-Boom in Bulgarien In Bulgarien wird viel privates Geld investiert, um Batteriespeicher für Solarstrom zu bauen. Inzwischen ist das Land Vorreiter in Südosteuropa.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f48fc2e1c47bfcf188888ab9",
-      "title": "Elektroautos überholen Verbrenner bei VW-Bestellungen in Deutschland",
-      "url": "https://www.heise.de/news/VW-verschiebt-Produktion-Weniger-Verbrenner-mehr-Elektroautos-in-Deutschland-11464498.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-24T13:39:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Elektroautos überholen Verbrenner bei VW-Bestellungen in Deutschland Volkswagen passt seine deutsche Produktion an: In Wolfsburg entfallen Sonderschichten für Verbrenner, Emden und Zwickau sollen mehr Elektroautos bauen.",
       "tags": [],
       "regions": []
     },
