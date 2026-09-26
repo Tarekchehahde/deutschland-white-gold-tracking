@@ -1,16 +1,27 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-26T09:51:52Z",
+  "generated_at_utc": "2026-09-26T21:11:40Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 700,
+  "total_in_archive": 701,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 143
+    "2026-09": 144
   },
   "recent_for_ui": [
+    {
+      "id": "9e4e69b217c13cc765216095",
+      "title": "Was das langfristige Speichern von Strom schwierig macht",
+      "url": "https://www.zdfheute.de/wirtschaft/strom-batteriespeicher-erneuerbare-energien-langzeitspeicher-100.html",
+      "published_at": "2026-09-26T17:50:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "Was das langfristige Speichern von Strom schwierig macht Saisonale Energiespeicher könnten schwankende Verfügbarkeiten erneuerbarer Energien ausgleichen. Doch die Kosten sind hoch. Welche Ansätze es gibt und wie E-Autos helfen können.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d5aa184bfa3251df0a5ea121",
       "title": "Gebrauchte E-Autos: Hohe Spritpreise machen gebrauchte Elektroautos teurer",
@@ -4552,17 +4563,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Coupé und Spider: BYDs neuer Denza-Supersportwagen hat 1.604 PS Den Denza Z von BYD wird es in drei regulären Optionen geben - mit brachialer Leistung, schneller Beschleunigung und ansehnlichem Design. ( BYD , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "89d75de73fd29c10d8f95784",
-      "title": "Dynamische Stromtarife in Kombination mit Photovoltaikanlagen: Wirkungsgrade der Wechselrichter werden wichtiger",
-      "url": "https://www.pv-magazine.de/2026/07/09/dynamische-stromtarife-in-kombination-mit-photovoltaikanlagen-wirkungsgrade-der-wechselrichter-werden-wichtiger/",
-      "published_at": "2026-07-09T12:15:17Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Dynamische Stromtarife in Kombination mit Photovoltaikanlagen: Wirkungsgrade der Wechselrichter werden wichtiger pv+: In der Stromspeicher-Inspektion 2026 wurde erstmalig auch die Umwandlungseffizienz der Batteriesysteme beim Speichern von Netzstrom näher beleuchtet. Warum geringe Wechselrichterverluste entscheidend sind, damit sich für Haushalte mit dynamischen Stromtarifen das Speichern von Stro",
       "tags": [],
       "regions": []
     }
