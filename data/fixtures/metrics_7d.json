@@ -3,12 +3,13 @@
   "articles_per_day": {
     "2026-09-24": 2,
     "2026-09-25": 1,
-    "2026-09-26": 1
+    "2026-09-26": 2
   },
   "tag_counts": {
     "exploration": 1
   },
   "by_source_category": {
+    "broadcast": 1,
     "national": 4
   }
 }
