@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 142,
+  "article_count": 143,
   "articles": [
+    {
+      "id": "d5aa184bfa3251df0a5ea121",
+      "title": "Gebrauchte E-Autos: Hohe Spritpreise machen gebrauchte Elektroautos teurer",
+      "url": "https://www.zeit.de/wirtschaft/2026-09/gebrauchte-e-autos-restwerte-preise-benzin-diesel-gxe",
+      "published_at": "2026-09-26T06:17:04Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "Gebrauchte E-Autos: Hohe Spritpreise machen gebrauchte Elektroautos teurer Weil hohe Spritpreise E-Autos attraktiver machen, werden auch Gebrauchtwagen teurer. Und auch ihr Anteil auf dem Gebrauchtmarkt steigt.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "131440672286dea8b5e26006",
       "title": "E-Auto-Boom kostet den Staat Milliarden an Steuereinnahmen",

@@ -1,16 +1,27 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-25T21:36:09Z",
+  "generated_at_utc": "2026-09-26T09:51:52Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 699,
+  "total_in_archive": 700,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 142
+    "2026-09": 143
   },
   "recent_for_ui": [
+    {
+      "id": "d5aa184bfa3251df0a5ea121",
+      "title": "Gebrauchte E-Autos: Hohe Spritpreise machen gebrauchte Elektroautos teurer",
+      "url": "https://www.zeit.de/wirtschaft/2026-09/gebrauchte-e-autos-restwerte-preise-benzin-diesel-gxe",
+      "published_at": "2026-09-26T06:17:04Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "Gebrauchte E-Autos: Hohe Spritpreise machen gebrauchte Elektroautos teurer Weil hohe Spritpreise E-Autos attraktiver machen, werden auch Gebrauchtwagen teurer. Und auch ihr Anteil auf dem Gebrauchtmarkt steigt.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "131440672286dea8b5e26006",
       "title": "E-Auto-Boom kostet den Staat Milliarden an Steuereinnahmen",
@@ -4552,17 +4563,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Dynamische Stromtarife in Kombination mit Photovoltaikanlagen: Wirkungsgrade der Wechselrichter werden wichtiger pv+: In der Stromspeicher-Inspektion 2026 wurde erstmalig auch die Umwandlungseffizienz der Batteriesysteme beim Speichern von Netzstrom näher beleuchtet. Warum geringe Wechselrichterverluste entscheidend sind, damit sich für Haushalte mit dynamischen Stromtarifen das Speichern von Stro",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d36608aa411d31aa3fe10674",
-      "title": "E-Autos zum Verbrenner-Preis: Vietnamesischer Hersteller zeigt, wie es gehen soll",
-      "url": "https://t3n.de/news/e-autos-verbrenner-preis-ki-produktion-1745354/",
-      "published_at": "2026-07-09T11:30:00Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "E-Autos zum Verbrenner-Preis: Vietnamesischer Hersteller zeigt, wie es gehen soll Elektroautos sind teuer, die Produktion komplex. Der vietnamesische Hersteller VinFast setzt auf KI-gesteuerte Fertigung und vereinfachte Architekturen, um Kosten zu senken – ohne Abstriche bei der Qualität. Die Strategie dahinter. Elektroautos sind für viele Käufer noch immer zu teuer. Hohe Batteriekosten, komplexe ",
       "tags": [],
       "regions": []
     }
