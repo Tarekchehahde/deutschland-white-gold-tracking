@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "945d07fe60e1b5cb61c2c31c",
+      "title": "Steigende Nachfrage : Hohe Spritpreise machen gebrauchte Elektroautos teurer",
+      "url": "https://rp-online.de/wirtschaft/preise-von-gebrauchten-e-autos-steigen-wegen-oelkrise_aid-155480967",
+      "published_at": "2026-09-27T09:45:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Steigende Nachfrage : Hohe Spritpreise machen gebrauchte Elektroautos teurer Weil Benzin und Diesel so teuer geworden sind, entscheiden sich die Menschen beim Gebrauchtwagenkauf eher für ein Elektroauto. Das macht sich auch bei den Preisen bemerkbar.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "9e4e69b217c13cc765216095",
       "title": "Was das langfristige Speichern von Strom schwierig macht",
       "url": "https://www.zdfheute.de/wirtschaft/strom-batteriespeicher-erneuerbare-energien-langzeitspeicher-100.html",

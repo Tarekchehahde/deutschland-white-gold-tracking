@@ -1,16 +1,27 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-26T21:11:40Z",
+  "generated_at_utc": "2026-09-27T10:33:23Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 701,
+  "total_in_archive": 702,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 144
+    "2026-09": 145
   },
   "recent_for_ui": [
+    {
+      "id": "945d07fe60e1b5cb61c2c31c",
+      "title": "Steigende Nachfrage : Hohe Spritpreise machen gebrauchte Elektroautos teurer",
+      "url": "https://rp-online.de/wirtschaft/preise-von-gebrauchten-e-autos-steigen-wegen-oelkrise_aid-155480967",
+      "published_at": "2026-09-27T09:45:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Steigende Nachfrage : Hohe Spritpreise machen gebrauchte Elektroautos teurer Weil Benzin und Diesel so teuer geworden sind, entscheiden sich die Menschen beim Gebrauchtwagenkauf eher für ein Elektroauto. Das macht sich auch bei den Preisen bemerkbar.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "9e4e69b217c13cc765216095",
       "title": "Was das langfristige Speichern von Strom schwierig macht",
@@ -4552,17 +4563,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Marktübersicht Heimspeicher: Eigenverbrauch, Notstrom und Vermarktung im Fokus Jedes Jahr zeigen wir in unserer Juni-Ausgabe die Marktübersicht Heimspeicher. Den Begleitartikel, der die Trends aus der Datenerhebung aufgreift, stellen wir in diesem Jahr frei zur Verfügung. Kaum eine Photovoltaikanlage wird heute noch ohne Batteriespeicher installiert. Immerhin sind sie deutlich günstiger geworden. ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bbc4919117e838d765e60f9c",
-      "title": "Coupé und Spider: BYDs neuer Denza-Supersportwagen hat 1.604 PS",
-      "url": "https://www.golem.de/news/coupe-und-spider-byds-neuer-denza-supersportwagen-hat-1-604-ps-2607-210706.html",
-      "published_at": "2026-07-09T13:56:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Coupé und Spider: BYDs neuer Denza-Supersportwagen hat 1.604 PS Den Denza Z von BYD wird es in drei regulären Optionen geben - mit brachialer Leistung, schneller Beschleunigung und ansehnlichem Design. ( BYD , Elektroauto )",
       "tags": [],
       "regions": []
     }
