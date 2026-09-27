@@ -1,14 +1,14 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-27T10:33:23Z",
+  "generated_at_utc": "2026-09-27T21:21:47Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 702,
+  "total_in_archive": 703,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 145
+    "2026-09": 146
   },
   "recent_for_ui": [
     {
@@ -30,6 +30,17 @@
       "source_id": "zdf-nachrichten",
       "language": "de",
       "summary": "Was das langfristige Speichern von Strom schwierig macht Saisonale Energiespeicher könnten schwankende Verfügbarkeiten erneuerbarer Energien ausgleichen. Doch die Kosten sind hoch. Welche Ansätze es gibt und wie E-Autos helfen können.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f32f0fe9f7160e7cf0ca13b7",
+      "title": "Batteriespeicher aus Salz und Schall: Diese Startups wollen Lithium überflüssig machen",
+      "url": "https://t3n.de/news/batteriespeicher-salz-schall-lithium-alternativen-1754509/",
+      "published_at": "2026-09-26T17:15:00Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Batteriespeicher aus Salz und Schall: Diese Startups wollen Lithium überflüssig machen Bei Großspeichern zur Stabilisierung des Stromnetzes jagt derzeit ein Superlativ den nächsten. Bei den größten Batterien Europas kommen neue Geschäftsmodelle sowie Techniken zum Einsatz, die ohne kritische Rohstoffe wie Lithium auskommen. Der größte Batteriespeicher Europas werde gerade in der Schweiz gebaut, me",
       "tags": [],
       "regions": []
     },
@@ -4552,17 +4563,6 @@
       "source_id": "tagesschau-rp",
       "language": "de",
       "summary": "Riesiger Batteriespeicher in Wittlich: Baubeginn nach vier Jahren Wartezeit Vor vier Jahren sind in Wittlich die Pläne für ein riesiges Batteriespeicherwerk vorgestellt worden. Nun sollen die Bauarbeiten beginnen. Der Weg war lang, die Bedenken groß.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5d67275f51cab0e262f5ca3c",
-      "title": "Marktübersicht Heimspeicher: Eigenverbrauch, Notstrom und Vermarktung im Fokus",
-      "url": "https://www.pv-magazine.de/2026/07/09/marktuebersicht-heimspeicher-eigenverbrauch-notstrom-und-vermarktung-im-fokus/",
-      "published_at": "2026-07-09T14:20:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Marktübersicht Heimspeicher: Eigenverbrauch, Notstrom und Vermarktung im Fokus Jedes Jahr zeigen wir in unserer Juni-Ausgabe die Marktübersicht Heimspeicher. Den Begleitartikel, der die Trends aus der Datenerhebung aufgreift, stellen wir in diesem Jahr frei zur Verfügung. Kaum eine Photovoltaikanlage wird heute noch ohne Batteriespeicher installiert. Immerhin sind sie deutlich günstiger geworden. ",
       "tags": [],
       "regions": []
     }
