@@ -1,8 +1,109 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 149,
+  "article_count": 158,
   "articles": [
+    {
+      "id": "aa77ac2cd8d0fd16c0739ca4",
+      "title": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China",
+      "url": "https://www.rnd.de/wirtschaft/vw-vereinbart-milliardendeal-mit-batteriepartner-gotion-aus-china-O3F3TAAIKBA77F7LU2HTSTMDHY.html",
+      "published_at": "2026-09-28T21:42:04Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet eine Menge Geld. VW arbeitet in Europa nun enger mit einem Partner aus China zusammen. Wie beide davon profitieren wollen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4e8f7aacfd1a4524ec2b83fa",
+      "title": "Elektromobilität: Chinesischer Batteriepartner kommt für VW-Partnerschaft nach Europa",
+      "url": "https://www.sueddeutsche.de/wirtschaft/vw-partnerschaft-china-powerco-gotion-li.3555272",
+      "published_at": "2026-09-28T17:08:40Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Chinesischer Batteriepartner kommt für VW-Partnerschaft nach Europa Europas größter Autobauer und der chinesische Batteriezellhersteller Gotion bauen ihre Zusammenarbeit aus. Im spanischen Valencia soll ein europäisches Produktionszentrum für Einheitszellen entstehen. VW spricht von einem „Durchbruch“.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "eded50107800346721957239",
+      "title": "Bosch streicht die Hälfte seiner Stellen im Nürnberger Werk",
+      "url": "https://www.rnd.de/wirtschaft/bosch-streicht-die-haelfte-seiner-stellen-im-nuernberger-werk-BUNICSJFYJBY7BNITLJU5MB3OA.html",
+      "published_at": "2026-09-28T15:13:48Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Bosch streicht die Hälfte seiner Stellen im Nürnberger Werk Bosch streicht am Standort Nürnberg 900 von 1800 Stellen – die Hälfte der Belegschaft. Der Abbau soll bis 2029 erfolgen und kommt zusätzlich zu den bereits angekündigten 22.000 Stellen konzernweit. Grund ist der Wandel zur Elektromobilität und Druck durch chinesische Konkurrenz.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7d86728188d49133eb38d4f9",
+      "title": "Kasachstan bietet Deutschland Rohstoff-Partnerschaft an",
+      "url": "https://www.pfalz-express.de/kasachstan-bietet-deutschland-rohstoff-partnerschaft-an/",
+      "published_at": "2026-09-28T13:28:52Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Kasachstan bietet Deutschland Rohstoff-Partnerschaft an Berlin &#8211; Kasachstans Präsident Kassym-Schomart Tokajew bietet Deutschland eine engere Rohstoff- und Industriekooperation an. &#8222;Kasachstan fördert bereits 21 der 34 für Europa strategisch wichtigen Rohstoffe, darunter Lithium, Silizium, Kobalt, Niob, Wolfram und Kupfer&#8220;, schreibt Tokajew in einem Gastbeitrag für das &#8222;Han",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "37579c936845e64d3310db24",
+      "title": "Grünheide: Tesla erhöht Gehälter um bis zu fünf Prozent – keine Tarifbindung",
+      "url": "https://www.rnd.de/panorama/gruenheide-tesla-erhoeht-gehaelter-um-bis-zu-fuenf-prozent-keine-tarifbindung-4LX7Z7QSDZAQBAIFU5FXNPUEAU.html",
+      "published_at": "2026-09-28T13:08:37Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Grünheide: Tesla erhöht Gehälter um bis zu fünf Prozent – keine Tarifbindung Der US-Elektroautobauer hebt die Entgelte in seiner Gigafactory in Brandenburg erneut an – um durchschnittlich vier bis fünf Prozent. Rund 11.000 Beschäftigte profitieren davon. Das Einstiegsgehalt in der Produktion liegt damit bei 45.750 Euro im Jahr.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6db85c24db359562fd3e5cdf",
+      "title": "Fraunhofer ISE: Batteriespeicher könnten EEG-Förderbedarf stark senken",
+      "url": "https://www.pv-magazine.de/2026/09/28/fraunhofer-ise-batteriespeicher-koennten-eeg-foerderbedarf-stark-senken/",
+      "published_at": "2026-09-28T12:56:44Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fraunhofer ISE: Batteriespeicher könnten EEG-Förderbedarf stark senken Eine Simulation des Fraunhofer ISE zeigt, dass zusätzliche 20 Gigawatt Speicherleistung die Zahl der Stunden mit negativen Strompreisen verglichen mit 2025 mehr als halbieren würden. Der Marktwert Solar stiege um gut ein Drittel. In der Folge würde der EEG-Förderbedarf rechnerisch um bis zu 1,2 Milliarden Euro jährlich zurückge",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fb46b41526802dc6940c1bbe",
+      "title": "Wenn der Installateur den Batteriespeicher tauschen muss",
+      "url": "https://www.pv-magazine.de/2026/09/28/wenn-der-installateur-den-batteriespeicher-tauschen-muss/",
+      "published_at": "2026-09-28T12:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wenn der Installateur den Batteriespeicher tauschen muss Viele Umstände können dazu führen, dass Akkus getauscht oder Speichersysteme abgebaut werden müssen. Je nach Situation ergeben sich dann Pflichten für Installateure.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "02de11d98ffe580b7df9a94b",
+      "title": "Premiere im Oktober: VW ID.Tiguan löst ID.4 und ID.5 ab",
+      "url": "https://www.golem.de/news/premiere-im-oktober-vw-id-tiguan-loest-id-4-und-id-5-ab-2609-213496.html",
+      "published_at": "2026-09-28T11:59:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Premiere im Oktober: VW ID.Tiguan löst ID.4 und ID.5 ab VW kehrt mit einem weiteren Elektroauto zu den etablierten Modellnamen zurück. Den ID.5 scheint es künftig jedoch nicht mehr zu geben. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "22b849d569fd3ab9b4fc8752",
+      "title": "heise+ | Erste Proberunde im VW ID. Tiguan, dem Nachfolger von VW ID.4 und ID.5",
+      "url": "https://www.heise.de/news/Erste-Proberunde-im-VW-ID-Tiguan-dem-Nachfolger-von-VW-ID-4-und-ID-5-11467955.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-09-28T11:57:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Erste Proberunde im VW ID. Tiguan, dem Nachfolger von VW ID.4 und ID.5 Volkswagen ersetzt Anfang 2027 seine Elektroauto-Modelle VW ID.4 und ID.5 durch den VW ID. Tiguan. Das Elektro-SUV basiert weiterhin auf der MEB-Plattform.",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
     {
       "id": "166f3fbdd37392f8eaa788a8",
       "title": "Video: Wie Großbatteriespeicher private Investition in PV-Akkus beeinflussen",

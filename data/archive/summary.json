@@ -1,16 +1,117 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-28T11:41:23Z",
+  "generated_at_utc": "2026-09-28T23:17:37Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 706,
+  "total_in_archive": 715,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 149
+    "2026-09": 158
   },
   "recent_for_ui": [
+    {
+      "id": "aa77ac2cd8d0fd16c0739ca4",
+      "title": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China",
+      "url": "https://www.rnd.de/wirtschaft/vw-vereinbart-milliardendeal-mit-batteriepartner-gotion-aus-china-O3F3TAAIKBA77F7LU2HTSTMDHY.html",
+      "published_at": "2026-09-28T21:42:04Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet eine Menge Geld. VW arbeitet in Europa nun enger mit einem Partner aus China zusammen. Wie beide davon profitieren wollen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4e8f7aacfd1a4524ec2b83fa",
+      "title": "Elektromobilität: Chinesischer Batteriepartner kommt für VW-Partnerschaft nach Europa",
+      "url": "https://www.sueddeutsche.de/wirtschaft/vw-partnerschaft-china-powerco-gotion-li.3555272",
+      "published_at": "2026-09-28T17:08:40Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Chinesischer Batteriepartner kommt für VW-Partnerschaft nach Europa Europas größter Autobauer und der chinesische Batteriezellhersteller Gotion bauen ihre Zusammenarbeit aus. Im spanischen Valencia soll ein europäisches Produktionszentrum für Einheitszellen entstehen. VW spricht von einem „Durchbruch“.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "eded50107800346721957239",
+      "title": "Bosch streicht die Hälfte seiner Stellen im Nürnberger Werk",
+      "url": "https://www.rnd.de/wirtschaft/bosch-streicht-die-haelfte-seiner-stellen-im-nuernberger-werk-BUNICSJFYJBY7BNITLJU5MB3OA.html",
+      "published_at": "2026-09-28T15:13:48Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Bosch streicht die Hälfte seiner Stellen im Nürnberger Werk Bosch streicht am Standort Nürnberg 900 von 1800 Stellen – die Hälfte der Belegschaft. Der Abbau soll bis 2029 erfolgen und kommt zusätzlich zu den bereits angekündigten 22.000 Stellen konzernweit. Grund ist der Wandel zur Elektromobilität und Druck durch chinesische Konkurrenz.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7d86728188d49133eb38d4f9",
+      "title": "Kasachstan bietet Deutschland Rohstoff-Partnerschaft an",
+      "url": "https://www.pfalz-express.de/kasachstan-bietet-deutschland-rohstoff-partnerschaft-an/",
+      "published_at": "2026-09-28T13:28:52Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Kasachstan bietet Deutschland Rohstoff-Partnerschaft an Berlin &#8211; Kasachstans Präsident Kassym-Schomart Tokajew bietet Deutschland eine engere Rohstoff- und Industriekooperation an. &#8222;Kasachstan fördert bereits 21 der 34 für Europa strategisch wichtigen Rohstoffe, darunter Lithium, Silizium, Kobalt, Niob, Wolfram und Kupfer&#8220;, schreibt Tokajew in einem Gastbeitrag für das &#8222;Han",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "37579c936845e64d3310db24",
+      "title": "Grünheide: Tesla erhöht Gehälter um bis zu fünf Prozent – keine Tarifbindung",
+      "url": "https://www.rnd.de/panorama/gruenheide-tesla-erhoeht-gehaelter-um-bis-zu-fuenf-prozent-keine-tarifbindung-4LX7Z7QSDZAQBAIFU5FXNPUEAU.html",
+      "published_at": "2026-09-28T13:08:37Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Grünheide: Tesla erhöht Gehälter um bis zu fünf Prozent – keine Tarifbindung Der US-Elektroautobauer hebt die Entgelte in seiner Gigafactory in Brandenburg erneut an – um durchschnittlich vier bis fünf Prozent. Rund 11.000 Beschäftigte profitieren davon. Das Einstiegsgehalt in der Produktion liegt damit bei 45.750 Euro im Jahr.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6db85c24db359562fd3e5cdf",
+      "title": "Fraunhofer ISE: Batteriespeicher könnten EEG-Förderbedarf stark senken",
+      "url": "https://www.pv-magazine.de/2026/09/28/fraunhofer-ise-batteriespeicher-koennten-eeg-foerderbedarf-stark-senken/",
+      "published_at": "2026-09-28T12:56:44Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fraunhofer ISE: Batteriespeicher könnten EEG-Förderbedarf stark senken Eine Simulation des Fraunhofer ISE zeigt, dass zusätzliche 20 Gigawatt Speicherleistung die Zahl der Stunden mit negativen Strompreisen verglichen mit 2025 mehr als halbieren würden. Der Marktwert Solar stiege um gut ein Drittel. In der Folge würde der EEG-Förderbedarf rechnerisch um bis zu 1,2 Milliarden Euro jährlich zurückge",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fb46b41526802dc6940c1bbe",
+      "title": "Wenn der Installateur den Batteriespeicher tauschen muss",
+      "url": "https://www.pv-magazine.de/2026/09/28/wenn-der-installateur-den-batteriespeicher-tauschen-muss/",
+      "published_at": "2026-09-28T12:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wenn der Installateur den Batteriespeicher tauschen muss Viele Umstände können dazu führen, dass Akkus getauscht oder Speichersysteme abgebaut werden müssen. Je nach Situation ergeben sich dann Pflichten für Installateure.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "02de11d98ffe580b7df9a94b",
+      "title": "Premiere im Oktober: VW ID.Tiguan löst ID.4 und ID.5 ab",
+      "url": "https://www.golem.de/news/premiere-im-oktober-vw-id-tiguan-loest-id-4-und-id-5-ab-2609-213496.html",
+      "published_at": "2026-09-28T11:59:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Premiere im Oktober: VW ID.Tiguan löst ID.4 und ID.5 ab VW kehrt mit einem weiteren Elektroauto zu den etablierten Modellnamen zurück. Den ID.5 scheint es künftig jedoch nicht mehr zu geben. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "22b849d569fd3ab9b4fc8752",
+      "title": "heise+ | Erste Proberunde im VW ID. Tiguan, dem Nachfolger von VW ID.4 und ID.5",
+      "url": "https://www.heise.de/news/Erste-Proberunde-im-VW-ID-Tiguan-dem-Nachfolger-von-VW-ID-4-und-ID-5-11467955.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-09-28T11:57:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Erste Proberunde im VW ID. Tiguan, dem Nachfolger von VW ID.4 und ID.5 Volkswagen ersetzt Anfang 2027 seine Elektroauto-Modelle VW ID.4 und ID.5 durch den VW ID. Tiguan. Das Elektro-SUV basiert weiterhin auf der MEB-Plattform.",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
     {
       "id": "166f3fbdd37392f8eaa788a8",
       "title": "Video: Wie Großbatteriespeicher private Investition in PV-Akkus beeinflussen",
@@ -4458,113 +4559,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Flugreisen: Powerbanks und E-Zigaretten gehören ins Handgepäck Immer mehr Fluggesellschaften verbieten Powerbanks im Aufgabegepäck. Lithium-Akkus gelten mittlerweile als größtes Sicherheitsrisiko im Flugbetrieb.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1f46ea34d7f1f016b66f1483",
-      "title": "Umweltbank finanziert Stand-alone-Speicher ohne Tolling-Absicherung",
-      "url": "https://www.pv-magazine.de/2026/07/13/umweltbank-finanziert-stand-alone-speicher-ohne-tolling-absicherung/",
-      "published_at": "2026-07-13T10:48:01Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Umweltbank finanziert Stand-alone-Speicher ohne Tolling-Absicherung Der Batteriespeicher in Sachsen-Anhalt hat eine Leistung von 11 Megawatt und eine Kapazität von 22 Megawattstunden. Die strukturierte Finanzierung durch die Umweltbank erfolgt rein auf Markterlösen.",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": [
-        "DE-ST"
-      ]
-    },
-    {
-      "id": "166c698510a498d2921a1e1a",
-      "title": "Chinas Batterieproduktion könnte bis 2030 den weltweiten Bedarf übersteigen",
-      "url": "https://www.pv-magazine.de/2026/07/13/chinas-batterieproduktion-koennte-bis-2030-den-weltweiten-bedarf-uebersteigen/",
-      "published_at": "2026-07-13T08:25:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Chinas Batterieproduktion könnte bis 2030 den weltweiten Bedarf übersteigen Chinas Produktionskapazitäten für Batteriezellen könnten bis 2030 die prognostizierte weltweite Nachfrage übersteigen, so ein neuer Bericht von Carnegie Endowment. Die Autoren empfehlen eine selektive Zusammenarbeit mit chinesischen Unternehmen, um Risiken in der Lieferkette zu verringern.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "b2af55a6399241114cac9dd6",
-      "title": "Elektroauto: VW ID. Polo Trend startet ab 24.995 Euro",
-      "url": "https://www.golem.de/news/elektroauto-vw-id-polo-trend-startet-ab-24-995-euro-2607-210771.html",
-      "published_at": "2026-07-11T10:05:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: VW ID. Polo Trend startet ab 24.995 Euro Volkswagen öffnet den Konfigurator für die günstigste Ausstattungslinie des ID. Polo ab Mitte Juli. ( Volkswagen ID. , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2472b33c82c64bef1039fe7e",
-      "title": "Kretschmer sieht VW für Werk Zwickau in Verantwortung: „Erinnert immer mehr an ein Kombinat“",
-      "url": "https://www.rnd.de/wirtschaft/kretschmer-sieht-vw-fuer-werk-zwickau-in-verantwortung-das-hat-nichts-mit-marktwirtschaft-zu-tun-4H4MESZUJ5BETC7ECZDGM72W3Q.html",
-      "published_at": "2026-07-10T14:26:14Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Kretschmer sieht VW für Werk Zwickau in Verantwortung: „Erinnert immer mehr an ein Kombinat“ Sachsens Ministerpräsident Michael Kretschmer wirft VW Vertrauensbruch vor: Das Zwickauer Werk habe als Leitwerk der Elektromobilität Zusagen bekommen, später seien Produkte abgezogen worden. Kritik kommt auch aus anderen Richtungen.",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "2f76cccd9bc1c6344f5d2205",
-      "title": "Stimmen der Energiewende: Bundesnetzagentur-Vize Barbie Haller über steigende Netzkosten und Prosumer-Beiträge",
-      "url": "https://www.pv-magazine.de/2026/07/10/stimmen-der-energiewende-bundesnetzagentur-vize-barbie-haller-uber-steigende-netzkosten-und-prosumer-beitrage/",
-      "published_at": "2026-07-10T11:11:33Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Stimmen der Energiewende: Bundesnetzagentur-Vize Barbie Haller über steigende Netzkosten und Prosumer-Beiträge Wir diskutieren mit Barbie Haller, Vizepräsidentin der Bundesnetzagentur, wie sich die steigenden Netzkosten senken und besser auf die Nutzer des Stromnetzes verteilen lassen. Außerdem spechen wir mit ihr über die Frage, wie flexible Netzanschlussvereinbarungen für Batteriespeicher standa",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "30145bac6aed248928a3ac68",
-      "title": "GT-Version: Kia EV4 kommt mit 292 PS und Schaltsimulation",
-      "url": "https://www.golem.de/news/gt-version-kia-ev4-kommt-mit-292-ps-und-schaltsimulation-2607-210749.html",
-      "published_at": "2026-07-10T10:42:06Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "GT-Version: Kia EV4 kommt mit 292 PS und Schaltsimulation Nach den leistungsfähigeren Allrad-Varianten bringt Kia jetzt noch eine GT-Version des EV4 mit Schaltsimulation und Motorsound. ( Kia , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "cf4844b097e037a1449f9741",
-      "title": "Wood Mackenzie: Verbot von risikobehafteten Photovoltaik-Wechselrichtern wird sich bis 2030 auf 14 Prozent der EU-Nachfrage auswirken",
-      "url": "https://www.pv-magazine.de/2026/07/10/wood-mackenzie-verbot-von-risikobehafteten-photovoltaik-wechselrichtern-wird-sich-bis-2030-auf-14-prozent-der-eu-nachfrage-auswirken/",
-      "published_at": "2026-07-10T08:21:45Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Wood Mackenzie: Verbot von risikobehafteten Photovoltaik-Wechselrichtern wird sich bis 2030 auf 14 Prozent der EU-Nachfrage auswirken Ein EU-Finanzierungsverbot würde nach der Analyse auch 12 Prozent der Energiespeicher-Installationen zwischen 2026 und 2030 betreffen. Wenn die Mitgliedsstaaten noch eigene Maßnahmen ergreifen, könnte der Prozentsatz noch deutlich höher liegen. Die Auswirkungen auf ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f3fe52297f5727d109239df6",
-      "title": "Riesiger Batteriespeicher in Wittlich: Baubeginn nach vier Jahren Wartezeit",
-      "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/batteriespeicher-in-wittlich-wird-nach-vier-jahren-planung-gebaut-100.html",
-      "published_at": "2026-07-10T07:55:25Z",
-      "source_id": "swr-aktuell-rss",
-      "language": "de",
-      "summary": "Riesiger Batteriespeicher in Wittlich: Baubeginn nach vier Jahren Wartezeit Vor vier Jahren sind in Wittlich die Pläne für ein riesiges Batteriespeicherwerk vorgestellt worden. Nun sollen die Bauarbeiten beginnen. Der Weg war lang, die Bedenken groß.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "73f3431f166632638e7c3154",
-      "title": "Autonomes Fahren: Gesetzentwurf untersagt Teslas Robotaxis den Betrieb",
-      "url": "https://www.golem.de/news/autonomes-fahren-gesetzentwurf-untersagt-teslas-robotaxis-den-betrieb-2607-210734.html",
-      "published_at": "2026-07-10T07:40:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Gesetzentwurf untersagt Teslas Robotaxis den Betrieb In New Jersey sollen Robotaxis künftig neben Kameras noch zwei weitere Sensortypen verwenden. Kein Problem für Waymo, für Tesla schon. ( Cybercab , Elektroauto )",
       "tags": [],
       "regions": []
     }
