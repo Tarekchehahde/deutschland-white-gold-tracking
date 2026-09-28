@@ -1,16 +1,51 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-27T21:21:47Z",
+  "generated_at_utc": "2026-09-28T11:41:23Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 703,
+  "total_in_archive": 706,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 146
+    "2026-09": 149
   },
   "recent_for_ui": [
+    {
+      "id": "166f3fbdd37392f8eaa788a8",
+      "title": "Video: Wie Großbatteriespeicher private Investition in PV-Akkus beeinflussen",
+      "url": "https://www.heise.de/news/Video-Grossbatteriespeicher-nuetzlich-nicht-das-Ende-dynamischer-Stromtarife-11467997.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-28T11:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Video: Wie Großbatteriespeicher private Investition in PV-Akkus beeinflussen Großbatteriespeicher übertreffen sich mit Rekordmeldungen. Werden dynamische Stromtarife und private Arbitrage-Stromspeicher dadurch unrentabel?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7c7026675c347f076b9b837c",
+      "title": "Tarifvertrag wird abgelehnt: Tesla-Angestellte in Grünheide bekommen mehr Geld",
+      "url": "https://www.golem.de/news/tarifvertrag-wird-abgelehnt-tesla-angestellte-in-gruenheide-bekommen-mehr-geld-2609-213491.html",
+      "published_at": "2026-09-28T10:55:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tarifvertrag wird abgelehnt: Tesla-Angestellte in Grünheide bekommen mehr Geld Die Gehälter im deutschen Tesla-Autowerk bei Berlin steigen. Das Unternehmen sieht die Beschäftigten bessergestellt, als wenn es einen Tarifvertrag gäbe. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8174cc291aa3d4df9ab304d5",
+      "title": "Elektroautos auf dem Gebrauchtmarkt immer beliebter",
+      "url": "https://www.heise.de/news/Gebrauchte-Elektroautos-gefragter-als-vor-einem-Jahr-Preise-steigen-11467488.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-28T06:10:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroautos auf dem Gebrauchtmarkt immer beliebter Weil Benzin und Diesel so teuer geworden sind, greifen die Menschen beim Gebrauchtkauf eher zum Elektroauto. Das macht sich auch bei den Preisen bemerkbar.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "945d07fe60e1b5cb61c2c31c",
       "title": "Steigende Nachfrage : Hohe Spritpreise machen gebrauchte Elektroautos teurer",
@@ -4530,39 +4565,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Autonomes Fahren: Gesetzentwurf untersagt Teslas Robotaxis den Betrieb In New Jersey sollen Robotaxis künftig neben Kameras noch zwei weitere Sensortypen verwenden. Kein Problem für Waymo, für Tesla schon. ( Cybercab , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e5530c32dbb899c3dc878c82",
-      "title": "Photovoltaik-Zubau in der Schweiz sinkt 2025 auf 1,33 Gigawatt",
-      "url": "https://www.pv-magazine.de/2026/07/10/photovoltaik-zubau-in-der-schweiz-sinkt-2025-auf-133-gigawatt/",
-      "published_at": "2026-07-10T07:35:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Photovoltaik-Zubau in der Schweiz sinkt 2025 auf 1,33 Gigawatt Insgesamt sind in dem Land nun Photovoltaik-Anlagen mit knapp 9,5 Gigawatt installiert. Während weniger Photovoltaik-Anlagen hinzukamen, steigt die Nachfrage nach Batteriespeichern, die ein Marktwachstum von 70 Prozent verzeichneten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "28491b8b460c7642e856a8b0",
-      "title": "CLA 45: Mercedes-AMG elektrisiert die Kompaktklasse mit 680 PS",
-      "url": "https://www.golem.de/news/cla-45-mercedes-amg-elektrisiert-die-kompaktklasse-mit-680-ps-2607-210721.html",
-      "published_at": "2026-07-10T05:59:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "CLA 45: Mercedes-AMG elektrisiert die Kompaktklasse mit 680 PS Mercedes-AMG schickt den CLA 45 4MATIC+ ins Rennen und macht das Kompaktsegment zur Hochleistungsklasse. ( Mercedes Benz , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d8eb1d0ed2bd09d0bf64c60c",
-      "title": "Riesiger Batteriespeicher in Wittlich: Baubeginn nach vier Jahren Wartezeit",
-      "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-riesiger-batteriespeicher-in-wittlich-baubeginn-nach-vier-jahren-wartezeit-100.html",
-      "published_at": "2026-07-10T04:03:01Z",
-      "source_id": "tagesschau-rp",
-      "language": "de",
-      "summary": "Riesiger Batteriespeicher in Wittlich: Baubeginn nach vier Jahren Wartezeit Vor vier Jahren sind in Wittlich die Pläne für ein riesiges Batteriespeicherwerk vorgestellt worden. Nun sollen die Bauarbeiten beginnen. Der Weg war lang, die Bedenken groß.",
       "tags": [],
       "regions": []
     }

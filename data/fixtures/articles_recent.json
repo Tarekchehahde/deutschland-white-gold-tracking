@@ -2,6 +2,41 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "166f3fbdd37392f8eaa788a8",
+      "title": "Video: Wie Großbatteriespeicher private Investition in PV-Akkus beeinflussen",
+      "url": "https://www.heise.de/news/Video-Grossbatteriespeicher-nuetzlich-nicht-das-Ende-dynamischer-Stromtarife-11467997.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-28T11:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Video: Wie Großbatteriespeicher private Investition in PV-Akkus beeinflussen Großbatteriespeicher übertreffen sich mit Rekordmeldungen. Werden dynamische Stromtarife und private Arbitrage-Stromspeicher dadurch unrentabel?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7c7026675c347f076b9b837c",
+      "title": "Tarifvertrag wird abgelehnt: Tesla-Angestellte in Grünheide bekommen mehr Geld",
+      "url": "https://www.golem.de/news/tarifvertrag-wird-abgelehnt-tesla-angestellte-in-gruenheide-bekommen-mehr-geld-2609-213491.html",
+      "published_at": "2026-09-28T10:55:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tarifvertrag wird abgelehnt: Tesla-Angestellte in Grünheide bekommen mehr Geld Die Gehälter im deutschen Tesla-Autowerk bei Berlin steigen. Das Unternehmen sieht die Beschäftigten bessergestellt, als wenn es einen Tarifvertrag gäbe. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8174cc291aa3d4df9ab304d5",
+      "title": "Elektroautos auf dem Gebrauchtmarkt immer beliebter",
+      "url": "https://www.heise.de/news/Gebrauchte-Elektroautos-gefragter-als-vor-einem-Jahr-Preise-steigen-11467488.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-28T06:10:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroautos auf dem Gebrauchtmarkt immer beliebter Weil Benzin und Diesel so teuer geworden sind, greifen die Menschen beim Gebrauchtkauf eher zum Elektroauto. Das macht sich auch bei den Preisen bemerkbar.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "945d07fe60e1b5cb61c2c31c",
       "title": "Steigende Nachfrage : Hohe Spritpreise machen gebrauchte Elektroautos teurer",
       "url": "https://rp-online.de/wirtschaft/preise-von-gebrauchten-e-autos-steigen-wegen-oelkrise_aid-155480967",

@@ -1,9 +1,9 @@
 {
   "schema_version": "0.2.0",
-  "generated_at_utc": "2026-09-27T21:21:26Z",
+  "generated_at_utc": "2026-09-28T11:41:04Z",
   "window_days": 7,
   "locale_ui": "de",
-  "sources_revision": "05c26358ccd9",
+  "sources_revision": "fb7d98117192",
   "feeds_ok": 29,
   "feeds_errors": 1,
   "max_entries_per_feed": 80
