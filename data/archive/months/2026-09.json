@@ -1,8 +1,52 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 158,
+  "article_count": 162,
   "articles": [
+    {
+      "id": "6a865f8974595addf54f046b",
+      "title": "Elektromobilität: Auslastung von Ladesäulen nimmt deutlich zu",
+      "url": "https://www.golem.de/news/elektromobilitaet-auslastung-von-ladesaeulen-nimmt-deutlich-zu-2609-213520.html",
+      "published_at": "2026-09-29T08:40:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität: Auslastung von Ladesäulen nimmt deutlich zu Die hohen Spritpreise und viele Neuzulassungen von E-Autos führen zu mehr Ladevorgängen an öffentlichen Säulen. ( Ladesäule , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b6174623d13a45ea887a2a9f",
+      "title": "Elektroauto: Tesla Roadster wird wieder verschoben - diesmal wegen Wetter",
+      "url": "https://www.golem.de/news/elektroauto-tesla-roadster-wird-wieder-verschoben-diesmal-wegen-wetter-2609-213517.html",
+      "published_at": "2026-09-29T08:03:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Tesla Roadster wird wieder verschoben - diesmal wegen Wetter In McGregor, Texas, wird es ungemütlich - daher wird die Präsentation des neuen Tesla Roadsters erneut verschoben, um ganze zwei Wochen. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "36400d10bcfe27b31cbf2367",
+      "title": "Auslastung von Ladesäulen für E-Autos nimmt zu",
+      "url": "https://www.heise.de/news/Auslastung-von-Ladesaeulen-fuer-E-Autos-nimmt-zu-11469064.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-29T07:15:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Auslastung von Ladesäulen für E-Autos nimmt zu Wer mit einem Elektroauto eine freie Ladesäule sucht, hat es in der Regel nicht schwer. Nun melden Betreiber, dass die Auslastung der Ladepunkte steigt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6bfb92ea94f45edd94625f84",
+      "title": "Elektroautos: VW vereinbart Milliardenpakt mit Batteriepartner aus China",
+      "url": "https://www.golem.de/news/elektroautos-vw-vereinbart-milliardenpakt-mit-batteriepartner-aus-china-2609-213513.html",
+      "published_at": "2026-09-29T07:08:05Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: VW vereinbart Milliardenpakt mit Batteriepartner aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet Geld. VW arbeitet nun auch in Europa enger mit einem Partner aus China zusammen. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "aa77ac2cd8d0fd16c0739ca4",
       "title": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China",
@@ -21,7 +65,7 @@
       "published_at": "2026-09-28T17:08:40Z",
       "source_id": "sueddeutsche-wirtschaft",
       "language": "de",
-      "summary": "Elektromobilität: Chinesischer Batteriepartner kommt für VW-Partnerschaft nach Europa Europas größter Autobauer und der chinesische Batteriezellhersteller Gotion bauen ihre Zusammenarbeit aus. Im spanischen Valencia soll ein europäisches Produktionszentrum für Einheitszellen entstehen. VW spricht von einem „Durchbruch“.",
+      "summary": "Elektromobilität: Chinesischer Batteriepartner kommt für VW-Partnerschaft nach Europa Europas größter Autobauer und der chinesische Batteriezellhersteller Gotion bauen ihre Zusammenarbeit aus. Im spanischen Valencia soll ein europäisches Produktionszentrum entstehen. VW spricht von einem „Durchbruch“.",
       "tags": [],
       "regions": []
     },
