@@ -2,6 +2,50 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "6a865f8974595addf54f046b",
+      "title": "Elektromobilität: Auslastung von Ladesäulen nimmt deutlich zu",
+      "url": "https://www.golem.de/news/elektromobilitaet-auslastung-von-ladesaeulen-nimmt-deutlich-zu-2609-213520.html",
+      "published_at": "2026-09-29T08:40:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilität: Auslastung von Ladesäulen nimmt deutlich zu Die hohen Spritpreise und viele Neuzulassungen von E-Autos führen zu mehr Ladevorgängen an öffentlichen Säulen. ( Ladesäule , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b6174623d13a45ea887a2a9f",
+      "title": "Elektroauto: Tesla Roadster wird wieder verschoben - diesmal wegen Wetter",
+      "url": "https://www.golem.de/news/elektroauto-tesla-roadster-wird-wieder-verschoben-diesmal-wegen-wetter-2609-213517.html",
+      "published_at": "2026-09-29T08:03:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Tesla Roadster wird wieder verschoben - diesmal wegen Wetter In McGregor, Texas, wird es ungemütlich - daher wird die Präsentation des neuen Tesla Roadsters erneut verschoben, um ganze zwei Wochen. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "36400d10bcfe27b31cbf2367",
+      "title": "Auslastung von Ladesäulen für E-Autos nimmt zu",
+      "url": "https://www.heise.de/news/Auslastung-von-Ladesaeulen-fuer-E-Autos-nimmt-zu-11469064.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-29T07:15:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Auslastung von Ladesäulen für E-Autos nimmt zu Wer mit einem Elektroauto eine freie Ladesäule sucht, hat es in der Regel nicht schwer. Nun melden Betreiber, dass die Auslastung der Ladepunkte steigt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6bfb92ea94f45edd94625f84",
+      "title": "Elektroautos: VW vereinbart Milliardenpakt mit Batteriepartner aus China",
+      "url": "https://www.golem.de/news/elektroautos-vw-vereinbart-milliardenpakt-mit-batteriepartner-aus-china-2609-213513.html",
+      "published_at": "2026-09-29T07:08:05Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: VW vereinbart Milliardenpakt mit Batteriepartner aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet Geld. VW arbeitet nun auch in Europa enger mit einem Partner aus China zusammen. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "aa77ac2cd8d0fd16c0739ca4",
       "title": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China",
       "url": "https://www.rnd.de/wirtschaft/vw-vereinbart-milliardendeal-mit-batteriepartner-gotion-aus-china-O3F3TAAIKBA77F7LU2HTSTMDHY.html",
@@ -19,7 +63,7 @@
       "published_at": "2026-09-28T17:08:40Z",
       "source_id": "sueddeutsche-wirtschaft",
       "language": "de",
-      "summary": "Elektromobilität: Chinesischer Batteriepartner kommt für VW-Partnerschaft nach Europa Europas größter Autobauer und der chinesische Batteriezellhersteller Gotion bauen ihre Zusammenarbeit aus. Im spanischen Valencia soll ein europäisches Produktionszentrum für Einheitszellen entstehen. VW spricht von einem „Durchbruch“.",
+      "summary": "Elektromobilität: Chinesischer Batteriepartner kommt für VW-Partnerschaft nach Europa Europas größter Autobauer und der chinesische Batteriezellhersteller Gotion bauen ihre Zusammenarbeit aus. Im spanischen Valencia soll ein europäisches Produktionszentrum entstehen. VW spricht von einem „Durchbruch“.",
       "tags": [],
       "regions": []
     },
@@ -31,17 +75,6 @@
       "source_id": "rnd-wirtschaft",
       "language": "de",
       "summary": "Bosch streicht die Hälfte seiner Stellen im Nürnberger Werk Bosch streicht am Standort Nürnberg 900 von 1800 Stellen – die Hälfte der Belegschaft. Der Abbau soll bis 2029 erfolgen und kommt zusätzlich zu den bereits angekündigten 22.000 Stellen konzernweit. Grund ist der Wandel zur Elektromobilität und Druck durch chinesische Konkurrenz.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7d86728188d49133eb38d4f9",
-      "title": "Kasachstan bietet Deutschland Rohstoff-Partnerschaft an",
-      "url": "https://www.pfalz-express.de/kasachstan-bietet-deutschland-rohstoff-partnerschaft-an/",
-      "published_at": "2026-09-28T13:28:52Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Kasachstan bietet Deutschland Rohstoff-Partnerschaft an Berlin &#8211; Kasachstans Präsident Kassym-Schomart Tokajew bietet Deutschland eine engere Rohstoff- und Industriekooperation an. &#8222;Kasachstan fördert bereits 21 der 34 für Europa strategisch wichtigen Rohstoffe, darunter Lithium, Silizium, Kobalt, Niob, Wolfram und Kupfer&#8220;, schreibt Tokajew in einem Gastbeitrag für das &#8222;Han",
       "tags": [],
       "regions": []
     },
@@ -110,52 +143,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Video: Wie Großbatteriespeicher private Investition in PV-Akkus beeinflussen Großbatteriespeicher übertreffen sich mit Rekordmeldungen. Werden dynamische Stromtarife und private Arbitrage-Stromspeicher dadurch unrentabel?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7c7026675c347f076b9b837c",
-      "title": "Tarifvertrag wird abgelehnt: Tesla-Angestellte in Grünheide bekommen mehr Geld",
-      "url": "https://www.golem.de/news/tarifvertrag-wird-abgelehnt-tesla-angestellte-in-gruenheide-bekommen-mehr-geld-2609-213491.html",
-      "published_at": "2026-09-28T10:55:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tarifvertrag wird abgelehnt: Tesla-Angestellte in Grünheide bekommen mehr Geld Die Gehälter im deutschen Tesla-Autowerk bei Berlin steigen. Das Unternehmen sieht die Beschäftigten bessergestellt, als wenn es einen Tarifvertrag gäbe. ( Gigafactory Berlin , Elektroauto )",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "8174cc291aa3d4df9ab304d5",
-      "title": "Elektroautos auf dem Gebrauchtmarkt immer beliebter",
-      "url": "https://www.heise.de/news/Gebrauchte-Elektroautos-gefragter-als-vor-einem-Jahr-Preise-steigen-11467488.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-28T06:10:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Elektroautos auf dem Gebrauchtmarkt immer beliebter Weil Benzin und Diesel so teuer geworden sind, greifen die Menschen beim Gebrauchtkauf eher zum Elektroauto. Das macht sich auch bei den Preisen bemerkbar.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "945d07fe60e1b5cb61c2c31c",
-      "title": "Steigende Nachfrage : Hohe Spritpreise machen gebrauchte Elektroautos teurer",
-      "url": "https://rp-online.de/wirtschaft/preise-von-gebrauchten-e-autos-steigen-wegen-oelkrise_aid-155480967",
-      "published_at": "2026-09-27T09:45:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Steigende Nachfrage : Hohe Spritpreise machen gebrauchte Elektroautos teurer Weil Benzin und Diesel so teuer geworden sind, entscheiden sich die Menschen beim Gebrauchtwagenkauf eher für ein Elektroauto. Das macht sich auch bei den Preisen bemerkbar.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f32f0fe9f7160e7cf0ca13b7",
-      "title": "Batteriespeicher aus Salz und Schall: Diese Startups wollen Lithium überflüssig machen",
-      "url": "https://t3n.de/news/batteriespeicher-salz-schall-lithium-alternativen-1754509/",
-      "published_at": "2026-09-26T17:15:00Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Batteriespeicher aus Salz und Schall: Diese Startups wollen Lithium überflüssig machen Bei Großspeichern zur Stabilisierung des Stromnetzes jagt derzeit ein Superlativ den nächsten. Bei den größten Batterien Europas kommen neue Geschäftsmodelle sowie Techniken zum Einsatz, die ohne kritische Rohstoffe wie Lithium auskommen. Der größte Batteriespeicher Europas werde gerade in der Schweiz gebaut, me",
       "tags": [],
       "regions": []
     },
