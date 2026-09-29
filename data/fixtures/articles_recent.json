@@ -2,6 +2,39 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "1e5d3b2f6ce1aada469be6a8",
+      "title": "Elektrolimousine: BMW i3 in zwei Basisvarianten bestellbar",
+      "url": "https://www.golem.de/news/elektrolimousine-bmw-i3-in-zwei-basisvarianten-bestellbar-2609-213548.html",
+      "published_at": "2026-09-29T22:06:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektrolimousine: BMW i3 in zwei Basisvarianten bestellbar BMW öffnet die Bestellbücher für die Elektrolimousine i3. Die Einstiegsversion kostet 60.000 Euro und soll 710 km weit kommen. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d58e1dd014fb7f38ce331d59",
+      "title": "Stromförderung: Knapper Strom, hohe Preise",
+      "url": "https://www.golem.de/news/stromfoerderung-knapper-strom-hohe-preise-2609-213551.html",
+      "published_at": "2026-09-29T16:25:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Stromförderung: Knapper Strom, hohe Preise Ein Papier der Unionsfraktion stellt die Förderung erneuerbarer Energien infrage. Das könnte die Energiepreise nach oben treiben. ( Energiewende , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "aa77ac2cd8d0fd16c0739ca4",
+      "title": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China",
+      "url": "https://www.rnd.de/wirtschaft/vw-vereinbart-milliardendeal-mit-batteriepartner-gotion-aus-china-O3F3TAAIKBA77F7LU2HTSTMDHY.html",
+      "published_at": "2026-09-29T14:11:41Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet eine Menge Geld. VW arbeitet in Europa nun enger mit einem Partner aus China zusammen. Wie beide davon profitieren wollen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "6a865f8974595addf54f046b",
       "title": "Elektromobilität: Auslastung von Ladesäulen nimmt deutlich zu",
       "url": "https://www.golem.de/news/elektromobilitaet-auslastung-von-ladesaeulen-nimmt-deutlich-zu-2609-213520.html",
@@ -31,28 +64,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Auslastung von Ladesäulen für E-Autos nimmt zu Wer mit einem Elektroauto eine freie Ladesäule sucht, hat es in der Regel nicht schwer. Nun melden Betreiber, dass die Auslastung der Ladepunkte steigt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6bfb92ea94f45edd94625f84",
-      "title": "Elektroautos: VW vereinbart Milliardenpakt mit Batteriepartner aus China",
-      "url": "https://www.golem.de/news/elektroautos-vw-vereinbart-milliardenpakt-mit-batteriepartner-aus-china-2609-213513.html",
-      "published_at": "2026-09-29T07:08:05Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroautos: VW vereinbart Milliardenpakt mit Batteriepartner aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet Geld. VW arbeitet nun auch in Europa enger mit einem Partner aus China zusammen. ( VW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "aa77ac2cd8d0fd16c0739ca4",
-      "title": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China",
-      "url": "https://www.rnd.de/wirtschaft/vw-vereinbart-milliardendeal-mit-batteriepartner-gotion-aus-china-O3F3TAAIKBA77F7LU2HTSTMDHY.html",
-      "published_at": "2026-09-28T21:42:04Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet eine Menge Geld. VW arbeitet in Europa nun enger mit einem Partner aus China zusammen. Wie beide davon profitieren wollen.",
       "tags": [],
       "regions": []
     },
@@ -112,48 +123,13 @@
       "regions": []
     },
     {
-      "id": "02de11d98ffe580b7df9a94b",
-      "title": "Premiere im Oktober: VW ID.Tiguan löst ID.4 und ID.5 ab",
-      "url": "https://www.golem.de/news/premiere-im-oktober-vw-id-tiguan-loest-id-4-und-id-5-ab-2609-213496.html",
-      "published_at": "2026-09-28T11:59:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Premiere im Oktober: VW ID.Tiguan löst ID.4 und ID.5 ab VW kehrt mit einem weiteren Elektroauto zu den etablierten Modellnamen zurück. Den ID.5 scheint es künftig jedoch nicht mehr zu geben. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "22b849d569fd3ab9b4fc8752",
-      "title": "heise+ | Erste Proberunde im VW ID. Tiguan, dem Nachfolger von VW ID.4 und ID.5",
-      "url": "https://www.heise.de/news/Erste-Proberunde-im-VW-ID-Tiguan-dem-Nachfolger-von-VW-ID-4-und-ID-5-11467955.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-09-28T11:57:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Erste Proberunde im VW ID. Tiguan, dem Nachfolger von VW ID.4 und ID.5 Volkswagen ersetzt Anfang 2027 seine Elektroauto-Modelle VW ID.4 und ID.5 durch den VW ID. Tiguan. Das Elektro-SUV basiert weiterhin auf der MEB-Plattform.",
-      "tags": [
-        "exploration"
-      ],
-      "regions": []
-    },
-    {
-      "id": "166f3fbdd37392f8eaa788a8",
-      "title": "Video: Wie Großbatteriespeicher private Investition in PV-Akkus beeinflussen",
-      "url": "https://www.heise.de/news/Video-Grossbatteriespeicher-nuetzlich-nicht-das-Ende-dynamischer-Stromtarife-11467997.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-28T11:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Video: Wie Großbatteriespeicher private Investition in PV-Akkus beeinflussen Großbatteriespeicher übertreffen sich mit Rekordmeldungen. Werden dynamische Stromtarife und private Arbitrage-Stromspeicher dadurch unrentabel?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "19e3b254d4cdd2c9f9a64113",
-      "title": "Batteriespeicher-Boom in Bulgarien",
-      "url": "https://www.dw.com/de/batteriespeicher-boom-in-bulgarien/a-79203544?maca=de-rss-de-eco-1018-xml-mrss",
+      "id": "e026159fa6b71ee7e745c0a4",
+      "title": "Warum Batteriespeicher in Bulgarien boomen",
+      "url": "https://www.dw.com/de/warum-batteriespeicher-in-bulgarien-boomen/a-79203544?maca=de-rss-de-eco-1018-xml-mrss",
       "published_at": "2026-09-24T18:10:00Z",
       "source_id": "dw-wirtschaft",
       "language": "de",
-      "summary": "Batteriespeicher-Boom in Bulgarien In Bulgarien wird viel privates Geld investiert, um Batteriespeicher für Solarstrom zu bauen. Inzwischen ist das Land Vorreiter in Südosteuropa.",
+      "summary": "Warum Batteriespeicher in Bulgarien boomen In Bulgarien wird viel privates Geld investiert, um Batteriespeicher für Solarstrom zu bauen. Inzwischen ist das Land Vorreiter in Südosteuropa.",
       "tags": [],
       "regions": []
     }

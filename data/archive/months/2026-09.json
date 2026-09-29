@@ -1,8 +1,41 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-09",
-  "article_count": 162,
+  "article_count": 165,
   "articles": [
+    {
+      "id": "1e5d3b2f6ce1aada469be6a8",
+      "title": "Elektrolimousine: BMW i3 in zwei Basisvarianten bestellbar",
+      "url": "https://www.golem.de/news/elektrolimousine-bmw-i3-in-zwei-basisvarianten-bestellbar-2609-213548.html",
+      "published_at": "2026-09-29T22:06:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektrolimousine: BMW i3 in zwei Basisvarianten bestellbar BMW öffnet die Bestellbücher für die Elektrolimousine i3. Die Einstiegsversion kostet 60.000 Euro und soll 710 km weit kommen. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d58e1dd014fb7f38ce331d59",
+      "title": "Stromförderung: Knapper Strom, hohe Preise",
+      "url": "https://www.golem.de/news/stromfoerderung-knapper-strom-hohe-preise-2609-213551.html",
+      "published_at": "2026-09-29T16:25:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Stromförderung: Knapper Strom, hohe Preise Ein Papier der Unionsfraktion stellt die Förderung erneuerbarer Energien infrage. Das könnte die Energiepreise nach oben treiben. ( Energiewende , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "aa77ac2cd8d0fd16c0739ca4",
+      "title": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China",
+      "url": "https://www.rnd.de/wirtschaft/vw-vereinbart-milliardendeal-mit-batteriepartner-gotion-aus-china-O3F3TAAIKBA77F7LU2HTSTMDHY.html",
+      "published_at": "2026-09-29T14:11:41Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet eine Menge Geld. VW arbeitet in Europa nun enger mit einem Partner aus China zusammen. Wie beide davon profitieren wollen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "6a865f8974595addf54f046b",
       "title": "Elektromobilität: Auslastung von Ladesäulen nimmt deutlich zu",
@@ -44,17 +77,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektroautos: VW vereinbart Milliardenpakt mit Batteriepartner aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet Geld. VW arbeitet nun auch in Europa enger mit einem Partner aus China zusammen. ( VW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "aa77ac2cd8d0fd16c0739ca4",
-      "title": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China",
-      "url": "https://www.rnd.de/wirtschaft/vw-vereinbart-milliardendeal-mit-batteriepartner-gotion-aus-china-O3F3TAAIKBA77F7LU2HTSTMDHY.html",
-      "published_at": "2026-09-28T21:42:04Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet eine Menge Geld. VW arbeitet in Europa nun enger mit einem Partner aus China zusammen. Wie beide davon profitieren wollen.",
       "tags": [],
       "regions": []
     },
@@ -270,6 +292,17 @@
       "source_id": "dw-wirtschaft",
       "language": "de",
       "summary": "Batteriespeicher-Boom in Bulgarien In Bulgarien wird viel privates Geld investiert, um Batteriespeicher für Solarstrom zu bauen. Inzwischen ist das Land Vorreiter in Südosteuropa.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e026159fa6b71ee7e745c0a4",
+      "title": "Warum Batteriespeicher in Bulgarien boomen",
+      "url": "https://www.dw.com/de/warum-batteriespeicher-in-bulgarien-boomen/a-79203544?maca=de-rss-de-eco-1018-xml-mrss",
+      "published_at": "2026-09-24T18:10:00Z",
+      "source_id": "dw-wirtschaft",
+      "language": "de",
+      "summary": "Warum Batteriespeicher in Bulgarien boomen In Bulgarien wird viel privates Geld investiert, um Batteriespeicher für Solarstrom zu bauen. Inzwischen ist das Land Vorreiter in Südosteuropa.",
       "tags": [],
       "regions": []
     },

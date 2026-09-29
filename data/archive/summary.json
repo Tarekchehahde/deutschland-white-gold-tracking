@@ -1,16 +1,49 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-29T11:21:57Z",
+  "generated_at_utc": "2026-09-29T22:16:23Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 719,
+  "total_in_archive": 722,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 162
+    "2026-09": 165
   },
   "recent_for_ui": [
+    {
+      "id": "1e5d3b2f6ce1aada469be6a8",
+      "title": "Elektrolimousine: BMW i3 in zwei Basisvarianten bestellbar",
+      "url": "https://www.golem.de/news/elektrolimousine-bmw-i3-in-zwei-basisvarianten-bestellbar-2609-213548.html",
+      "published_at": "2026-09-29T22:06:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektrolimousine: BMW i3 in zwei Basisvarianten bestellbar BMW öffnet die Bestellbücher für die Elektrolimousine i3. Die Einstiegsversion kostet 60.000 Euro und soll 710 km weit kommen. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d58e1dd014fb7f38ce331d59",
+      "title": "Stromförderung: Knapper Strom, hohe Preise",
+      "url": "https://www.golem.de/news/stromfoerderung-knapper-strom-hohe-preise-2609-213551.html",
+      "published_at": "2026-09-29T16:25:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Stromförderung: Knapper Strom, hohe Preise Ein Papier der Unionsfraktion stellt die Förderung erneuerbarer Energien infrage. Das könnte die Energiepreise nach oben treiben. ( Energiewende , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "aa77ac2cd8d0fd16c0739ca4",
+      "title": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China",
+      "url": "https://www.rnd.de/wirtschaft/vw-vereinbart-milliardendeal-mit-batteriepartner-gotion-aus-china-O3F3TAAIKBA77F7LU2HTSTMDHY.html",
+      "published_at": "2026-09-29T14:11:41Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet eine Menge Geld. VW arbeitet in Europa nun enger mit einem Partner aus China zusammen. Wie beide davon profitieren wollen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "6a865f8974595addf54f046b",
       "title": "Elektromobilität: Auslastung von Ladesäulen nimmt deutlich zu",
@@ -52,17 +85,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektroautos: VW vereinbart Milliardenpakt mit Batteriepartner aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet Geld. VW arbeitet nun auch in Europa enger mit einem Partner aus China zusammen. ( VW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "aa77ac2cd8d0fd16c0739ca4",
-      "title": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China",
-      "url": "https://www.rnd.de/wirtschaft/vw-vereinbart-milliardendeal-mit-batteriepartner-gotion-aus-china-O3F3TAAIKBA77F7LU2HTSTMDHY.html",
-      "published_at": "2026-09-28T21:42:04Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet eine Menge Geld. VW arbeitet in Europa nun enger mit einem Partner aus China zusammen. Wie beide davon profitieren wollen.",
       "tags": [],
       "regions": []
     },
@@ -278,6 +300,17 @@
       "source_id": "dw-wirtschaft",
       "language": "de",
       "summary": "Batteriespeicher-Boom in Bulgarien In Bulgarien wird viel privates Geld investiert, um Batteriespeicher für Solarstrom zu bauen. Inzwischen ist das Land Vorreiter in Südosteuropa.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e026159fa6b71ee7e745c0a4",
+      "title": "Warum Batteriespeicher in Bulgarien boomen",
+      "url": "https://www.dw.com/de/warum-batteriespeicher-in-bulgarien-boomen/a-79203544?maca=de-rss-de-eco-1018-xml-mrss",
+      "published_at": "2026-09-24T18:10:00Z",
+      "source_id": "dw-wirtschaft",
+      "language": "de",
+      "summary": "Warum Batteriespeicher in Bulgarien boomen In Bulgarien wird viel privates Geld investiert, um Batteriespeicher für Solarstrom zu bauen. Inzwischen ist das Land Vorreiter in Südosteuropa.",
       "tags": [],
       "regions": []
     },
@@ -4526,39 +4559,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "VW ID.Cross angeschaut: Volkswagen startet Aufholjagd bei kompakten SUVs Die vollelektrische Version des T-Cross soll 439 km weit kommen. Gegenüber dem ID.Polo hat der VW ID.Cross mehr Platz in Heck und Front. Ein Bericht von Friedhelm Greis ( Elektroauto , Technologie )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "cbe00b0136e2cc3f14849fa9",
-      "title": "Viraler Trend in Indien: Smartphone-Nutzer legen per App E-Fahrzeuge lahm",
-      "url": "https://www.golem.de/news/viraler-trend-in-indien-smartphone-nutzer-legen-per-app-e-fahrzeuge-lahm-2607-210853.html",
-      "published_at": "2026-07-14T11:46:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Viraler Trend in Indien: Smartphone-Nutzer legen per App E-Fahrzeuge lahm Mit speziellen Smartphone-Apps bringen Nutzer in Indien reihenweise E-Rikschas und E-Scooter zum Stillstand. Videos davon gehen teilweise viral. ( Elektromobilität , Smartphone )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e5f283d051276e9098893574",
-      "title": "Batterieherstellung: Drohender Preisverfall bei Batterien durch Überproduktion",
-      "url": "https://www.golem.de/news/batterieherstellung-drohender-preisverfall-bei-batterien-durch-ueberproduktion-2607-210844.html",
-      "published_at": "2026-07-14T10:14:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Batterieherstellung: Drohender Preisverfall bei Batterien durch Überproduktion Setzt sich die Entwicklung fort, werden in wenigen Jahren doppelt so viele Akkumulatoren hergestellt wie benötigt - wie zuletzt bei Solarzellen. ( Akku , LG )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "be8734f9b808ce63ae2d6280",
-      "title": "Batterie-Tolling: Wie sich Vermarktungsrisiken vertraglich verteilen lassen",
-      "url": "https://www.pv-magazine.de/2026/07/14/batterie-tolling-wie-sich-vermarktungsrisiken-vertraglich-verteilen-lassen/",
-      "published_at": "2026-07-14T09:24:07Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Batterie-Tolling: Wie sich Vermarktungsrisiken vertraglich verteilen lassen Der Batteriespeicher-Tsunami trifft auf einen Felsen bei der Finanzierung: volatile Erlöse. Immer mehr Projekte setzen deshalb auf Tolling-Agreements, um Risiken auszulagern und Cashflows zu stabilisieren. Doch das Geschäftsmodell bringt neue Komplexität und ist weit entfernt von Standardverträgen.",
       "tags": [],
       "regions": []
     }
