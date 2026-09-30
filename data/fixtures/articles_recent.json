@@ -2,6 +2,87 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "2fd89db8a711b5de3be86739",
+      "title": "Vattenfall übernimmt Vermarktung von deutschem Batteriespeicher-Portfolio mit 285 Megawatt",
+      "url": "https://www.pv-magazine.de/2026/09/30/vattenfall-uebernimmt-vermarktung-von-deutschem-batteriespeicher-portfolio-mit-285-megawatt/",
+      "published_at": "2026-09-30T09:55:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Vattenfall übernimmt Vermarktung von deutschem Batteriespeicher-Portfolio mit 285 Megawatt Der Energiekonzern hat langfristige Vermarktungsverträge für vier Großbatterien an verschiedenen Standorten in Deutschland abgeschlossen. Laut Vattenfall handelt es sich um das erste physische Batterieportfolio dieser Art in Europa. Die Speicher mit insgesamt 285 Megawatt Leistung sollen am Großhandelsmarkt ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "36a55e8809fe252d9f243085",
+      "title": "Geothermie: 3 km tiefe Geothermieanlage in Berlin als Wegbereiter",
+      "url": "https://www.golem.de/news/geothermie-3-km-tiefe-geothermieanlage-in-berlin-als-wegbereiter-2609-213575.html",
+      "published_at": "2026-09-30T09:45:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Geothermie: 3 km tiefe Geothermieanlage in Berlin als Wegbereiter Mit einer neuen Technologie soll Erdwärme mit weniger Aufwand und damit bezahlbarer an die Oberfläche geholt werden. Die Praxistests laufen. ( Geothermie , Wissenschaft )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "960269e9d20e31abfc342b08",
+      "title": "Weitere Prüfung der Tiefengeothermie durch Neustadter Stadtrat beschlossen",
+      "url": "https://www.pfalz-express.de/weitere-pruefung-der-tiefengeothermie-durch-neustadter-stadtrat-beschlossen/",
+      "published_at": "2026-09-30T08:48:47Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Weitere Prüfung der Tiefengeothermie durch Neustadter Stadtrat beschlossen Neustadt. Welche Rolle könnte Tiefengeothermie künftig für die Wärmeversorgung in Neustadt spielen? Mit dieser Frage hat sich der Stadtrat in seiner Sitzung am 29. September befasst. Grundlage der Beratung war ein Vorschlag der Stadtverwaltung, die technische und wirtschaftliche Machbarkeit eines gemeinsamen Wärmeprojekts m",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "aaf8ec5af4fbc6e1d8868e41",
+      "title": "Metrify und HEMS-Anbieter standardisieren Steuerung von Photovoltaik-Anlagen und Speichern",
+      "url": "https://www.pv-magazine.de/2026/09/30/metrify-und-hems-anbieter-standardisieren-steuerung-von-photovoltaik-anlagen-und-speichern/",
+      "published_at": "2026-09-30T08:41:04Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Metrify und HEMS-Anbieter standardisieren Steuerung von Photovoltaik-Anlagen und Speichern Der wettbewerbliche Messstellenbetreiber Metrify hat gemeinsam mit mehreren Anbietern von Heimenergiemanagementsystemen (HEMS) einen standardisierten Prozess für die Anbindung steuerbarer Anlagen entwickelt. Über die EEBUS-Schnittstelle sollen sich unter anderem Photovoltaik-Anlagen und Batteriespeicher mit ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "756010ea6b55725ff35c18c5",
+      "title": "Enervis-Batteriespeicher-Index: BESS-Erlöse bleiben im August stabil – steigende Gaspreise und hohe Photovoltaik-Einspeisung stützen Marktspreads",
+      "url": "https://www.pv-magazine.de/2026/09/30/enervis-batteriespeicher-index-bess-erloese-bleiben-im-august-stabil-steigende-gaspreise-und-hohe-photovoltaik-einspeisung-stuetzen-marktspreads/",
+      "published_at": "2026-09-30T07:40:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enervis-Batteriespeicher-Index: BESS-Erlöse bleiben im August stabil – steigende Gaspreise und hohe Photovoltaik-Einspeisung stützen Marktspreads Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b56f52d300117cc4f8bfc30f",
+      "title": "Elektroauto Ventra reduziert von Reifen- und Bremsabrieb verursachten Feinstaub",
+      "url": "https://www.heise.de/news/Ventra-Elektroauto-faengt-selbst-verursachten-Feinstaub-waehrend-der-Fahrt-ein-11470427.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-30T06:13:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroauto Ventra reduziert von Reifen- und Bremsabrieb verursachten Feinstaub Der Ventra der Eindhoven University of Technology verursacht weniger Feinstaub durch Reifen- und Bremsabrieb. Der Filter arbeitet mit elektrischen Ladungen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ebb0f08c99f46c818ce339f3",
+      "title": "Nur mit E-Kennzeichen: Bundesrat will E-Autos von Umweltplakette befreien",
+      "url": "https://www.golem.de/news/nur-mit-e-kennzeichen-bundesrat-will-e-autos-von-umweltplakette-befreien-2609-213560.html",
+      "published_at": "2026-09-30T05:36:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Nur mit E-Kennzeichen: Bundesrat will E-Autos von Umweltplakette befreien E-Autos mit E-Kennzeichen sollen in Zukunft keine grüne Plakette mehr an der Windschutzscheibe benötigen, um in Umweltzonen zu fahren. ( Elektroauto , Auto )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
       "id": "1e5d3b2f6ce1aada469be6a8",
       "title": "Elektrolimousine: BMW i3 in zwei Basisvarianten bestellbar",
       "url": "https://www.golem.de/news/elektrolimousine-bmw-i3-in-zwei-basisvarianten-bestellbar-2609-213548.html",
@@ -35,39 +116,6 @@
       "regions": []
     },
     {
-      "id": "6a865f8974595addf54f046b",
-      "title": "Elektromobilität: Auslastung von Ladesäulen nimmt deutlich zu",
-      "url": "https://www.golem.de/news/elektromobilitaet-auslastung-von-ladesaeulen-nimmt-deutlich-zu-2609-213520.html",
-      "published_at": "2026-09-29T08:40:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektromobilität: Auslastung von Ladesäulen nimmt deutlich zu Die hohen Spritpreise und viele Neuzulassungen von E-Autos führen zu mehr Ladevorgängen an öffentlichen Säulen. ( Ladesäule , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b6174623d13a45ea887a2a9f",
-      "title": "Elektroauto: Tesla Roadster wird wieder verschoben - diesmal wegen Wetter",
-      "url": "https://www.golem.de/news/elektroauto-tesla-roadster-wird-wieder-verschoben-diesmal-wegen-wetter-2609-213517.html",
-      "published_at": "2026-09-29T08:03:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Tesla Roadster wird wieder verschoben - diesmal wegen Wetter In McGregor, Texas, wird es ungemütlich - daher wird die Präsentation des neuen Tesla Roadsters erneut verschoben, um ganze zwei Wochen. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "36400d10bcfe27b31cbf2367",
-      "title": "Auslastung von Ladesäulen für E-Autos nimmt zu",
-      "url": "https://www.heise.de/news/Auslastung-von-Ladesaeulen-fuer-E-Autos-nimmt-zu-11469064.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-29T07:15:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Auslastung von Ladesäulen für E-Autos nimmt zu Wer mit einem Elektroauto eine freie Ladesäule sucht, hat es in der Regel nicht schwer. Nun melden Betreiber, dass die Auslastung der Ladepunkte steigt.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "4e8f7aacfd1a4524ec2b83fa",
       "title": "Elektromobilität: Chinesischer Batteriepartner kommt für VW-Partnerschaft nach Europa",
       "url": "https://www.sueddeutsche.de/wirtschaft/vw-partnerschaft-china-powerco-gotion-li.3555272",
@@ -86,39 +134,6 @@
       "source_id": "rnd-wirtschaft",
       "language": "de",
       "summary": "Bosch streicht die Hälfte seiner Stellen im Nürnberger Werk Bosch streicht am Standort Nürnberg 900 von 1800 Stellen – die Hälfte der Belegschaft. Der Abbau soll bis 2029 erfolgen und kommt zusätzlich zu den bereits angekündigten 22.000 Stellen konzernweit. Grund ist der Wandel zur Elektromobilität und Druck durch chinesische Konkurrenz.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "37579c936845e64d3310db24",
-      "title": "Grünheide: Tesla erhöht Gehälter um bis zu fünf Prozent – keine Tarifbindung",
-      "url": "https://www.rnd.de/panorama/gruenheide-tesla-erhoeht-gehaelter-um-bis-zu-fuenf-prozent-keine-tarifbindung-4LX7Z7QSDZAQBAIFU5FXNPUEAU.html",
-      "published_at": "2026-09-28T13:08:37Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Grünheide: Tesla erhöht Gehälter um bis zu fünf Prozent – keine Tarifbindung Der US-Elektroautobauer hebt die Entgelte in seiner Gigafactory in Brandenburg erneut an – um durchschnittlich vier bis fünf Prozent. Rund 11.000 Beschäftigte profitieren davon. Das Einstiegsgehalt in der Produktion liegt damit bei 45.750 Euro im Jahr.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6db85c24db359562fd3e5cdf",
-      "title": "Fraunhofer ISE: Batteriespeicher könnten EEG-Förderbedarf stark senken",
-      "url": "https://www.pv-magazine.de/2026/09/28/fraunhofer-ise-batteriespeicher-koennten-eeg-foerderbedarf-stark-senken/",
-      "published_at": "2026-09-28T12:56:44Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Fraunhofer ISE: Batteriespeicher könnten EEG-Förderbedarf stark senken Eine Simulation des Fraunhofer ISE zeigt, dass zusätzliche 20 Gigawatt Speicherleistung die Zahl der Stunden mit negativen Strompreisen verglichen mit 2025 mehr als halbieren würden. Der Marktwert Solar stiege um gut ein Drittel. In der Folge würde der EEG-Förderbedarf rechnerisch um bis zu 1,2 Milliarden Euro jährlich zurückge",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fb46b41526802dc6940c1bbe",
-      "title": "Wenn der Installateur den Batteriespeicher tauschen muss",
-      "url": "https://www.pv-magazine.de/2026/09/28/wenn-der-installateur-den-batteriespeicher-tauschen-muss/",
-      "published_at": "2026-09-28T12:15:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Wenn der Installateur den Batteriespeicher tauschen muss Viele Umstände können dazu führen, dass Akkus getauscht oder Speichersysteme abgebaut werden müssen. Je nach Situation ergeben sich dann Pflichten für Installateure.",
       "tags": [],
       "regions": []
     },
