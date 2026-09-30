@@ -1,16 +1,73 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-30T11:10:11Z",
+  "generated_at_utc": "2026-09-30T22:17:18Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 729,
+  "total_in_archive": 734,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 172
+    "2026-09": 177
   },
   "recent_for_ui": [
+    {
+      "id": "aea9594af2beecab9adafc24",
+      "title": "FWG Landau kritisiert geplante Fernwärmesatzung und fordert Verzicht auf Anschlusszwang",
+      "url": "https://www.pfalz-express.de/fwg-landau-kritisiert-geplante-fernwaermesatzung-und-fordert-verzicht-auf-anschlusszwang/",
+      "published_at": "2026-09-30T16:41:45Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "FWG Landau kritisiert geplante Fernwärmesatzung und fordert Verzicht auf Anschlusszwang Landau. Die Freie Wählergruppe (FWG) Landau begrüßt grundsätzlich den Ausbau der Fernwärmeversorgung in der Stadt. Fernwärme aus Geothermie sei eine emissionsarme und nachhaltige Energieform, die langfristig Unabhängigkeit von fossilen Energieträgern schaffe, erklärte die Fraktion in einer Pressemitteilung vom ",
+      "tags": [],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "890cb4f6a8c74f0253ccc584",
+      "title": "Elektroauto: BMW kündigt Kompaktmodell der Neuen Klasse an",
+      "url": "https://www.golem.de/news/elektroauto-bmw-kuendigt-kompaktmodell-der-neuen-klasse-an-2609-213593.html",
+      "published_at": "2026-09-30T15:04:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: BMW kündigt Kompaktmodell der Neuen Klasse an 2028 will BMW sein Elektroauto-Portfolio um ein Kompaktmodell erweitern. Außerdem könnte es für die USA einen Riesen-BMW geben. ( BMW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "89ba7d41a9ab54a84c3e39f1",
+      "title": "VW Mission Efficiency: Ein Rekord ist nicht genug",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/ein-rekord-ist-nicht-genug-der-vw-mission-efficiency-201226504.html",
+      "published_at": "2026-09-30T13:00:00Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "VW Mission Efficiency: Ein Rekord ist nicht genug Genügsamkeit ist eine Tugend, erst recht im Automobilbau. Mit dem Mission Efficiency demonstriert VW, wie sparsam ein Elektroauto mit Aerodynamik und Verzicht sein kann.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c684405dd8ebd70b1cb455e0",
+      "title": "Voltfang und Mangold Energy öffnen Großspeicher-Projekt für Privatanleger",
+      "url": "https://www.pv-magazine.de/2026/09/30/voltfang-und-mangold-energy-oeffnen-grossspeicher-projekt-fuer-privatanleger/",
+      "published_at": "2026-09-30T12:01:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Voltfang und Mangold Energy öffnen Großspeicher-Projekt für Privatanleger Im nordrhein-westfälischen Alsdorf entsteht ein Batteriespeicherpark, bei dem Privatpersonen einzelne Speichereinheiten direkt erwerben können. Insgesamt sind 50 Einheiten mit jeweils 100 Kilowatt Leistung und 261 Kilowattstunden Kapazität vorgesehen. Voltfang übernimmt den technischen Betrieb, Mangold Energy die Vermarktung",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2974287a4e471a93dc805d15",
+      "title": "Serienproduktion gestartet: Teslas Semi ist ein aufgebohrter Cybertruck",
+      "url": "https://www.golem.de/news/serienproduktion-gestartet-teslas-semi-ist-ein-aufgebohrter-cybertruck-2609-213581.html",
+      "published_at": "2026-09-30T11:52:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Serienproduktion gestartet: Teslas Semi ist ein aufgebohrter Cybertruck Nach jahrelangen Verzögerungen baut Tesla die ersten Semi in Serie. Der Elektro-Lkw nutzt wesentliche Komponenten des Cybertrucks. Ein Bericht von Friedhelm Greis ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "2fd89db8a711b5de3be86739",
       "title": "Vattenfall übernimmt Vermarktung von deutschem Batteriespeicher-Portfolio mit 285 Megawatt",
@@ -4502,63 +4559,6 @@
       "summary": "Elektroautos in Deutschland im Trend: Jeder vierte Neuwagen fährt elektrisch Elektroautos stehen weiter im Trend: Ihr Anteil an den Neuzulassungen im ersten Halbjahr 2026 ist bundesweit deutlich gestiegen. Rund jedes vierte Auto fährt rein elektrisch. Die Gründe dafür sind vielschichtig.",
       "tags": [],
       "regions": []
-    },
-    {
-      "id": "a55a983a1f77690b8f446f2a",
-      "title": "Keine E-Autos vor 2030: Laut Lamborghini fehlen Elektroautos die Emotionen",
-      "url": "https://www.golem.de/news/keine-e-autos-vor-2030-laut-lamborghini-fehlen-elektroautos-die-emotionen-2607-210953.html",
-      "published_at": "2026-07-16T12:27:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Keine E-Autos vor 2030: Laut Lamborghini fehlen Elektroautos die Emotionen Der Lamborghini Lanzador wird als Plug-in-Hybrid verkauft. Generell wird es wohl kein rein elektrisches Modell vor 2030 geben. ( Lamborghini , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "95531b2a8ad92c21034774a8",
-      "title": "Halbjahresbilanz: Automobile Hölle",
-      "url": "https://www.faz.net/aktuell/technik-motor/deutsche-autoindustrie-jobabbau-und-halbjahresbilanz-201003642.html",
-      "published_at": "2026-07-16T10:34:41Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Halbjahresbilanz: Automobile Hölle Mehr Elektroautos, schön und gut. Weniger Produktion im Inland, misslich und schlecht. Die deutsche Autoindustrie leidet. Worüber sich niemand freuen sollte: Es gehen Zehntausende Jobs verloren.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "714479b3a4b82693767aaeba",
-      "title": "heise+ | Elektroauto vs. Verbrenner: Wer wirklich schneller von Freiburg nach Rügen fährt",
-      "url": "https://www.heise.de/ratgeber/Elektroauto-vs-Verbrenner-Wer-wirklich-schneller-von-Freiburg-nach-Ruegen-faehrt-11347632.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-07-16T09:03:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Elektroauto vs. Verbrenner: Wer wirklich schneller von Freiburg nach Rügen fährt Lange Autofahrten mit Elektroauto oder Verbrenner: Wir simulieren 1000 km quer durch Deutschland und zeigen den wahren Zeitunterschied.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "71cce0cfa0883b5d3b308ee0",
-      "title": "Elektroautos legen bei Neuzulassungen deutlich zu",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/elektro-autos-erstes-halbjahr-100.html",
-      "published_at": "2026-07-16T07:21:11Z",
-      "source_id": "tagesschau-wirtschaft",
-      "language": "de",
-      "summary": "Elektroautos legen bei Neuzulassungen deutlich zu Elektroautos gewinnen weiter an Bedeutung: Ihr Anteil an den Neuzulassungen ist bundesweit deutlich gestiegen. Fast jedes vierte neue Auto fährt rein elektrisch. Doch es gibt regionale Unterschiede.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f6f0991fc61b64c9062970d9",
-      "title": "Ein Viertel aller Neuwagen in BW fahren ausschließlich mit Strom",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/e-autos-beliebter-100.html",
-      "published_at": "2026-07-16T07:03:47Z",
-      "source_id": "swr-aktuell-rss",
-      "language": "de",
-      "summary": "Ein Viertel aller Neuwagen in BW fahren ausschließlich mit Strom Der Anteil reiner Elektroautos an den Neuzulassungen in Baden-Württemberg ist deutlich gestiegen. Noch beliebter sind die Stromer nur in zwei Bundesländern.",
-      "tags": [],
-      "regions": [
-        "DE-BW"
-      ]
     }
   ]
 }

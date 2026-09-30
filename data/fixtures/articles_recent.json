@@ -2,6 +2,63 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "aea9594af2beecab9adafc24",
+      "title": "FWG Landau kritisiert geplante Fernwärmesatzung und fordert Verzicht auf Anschlusszwang",
+      "url": "https://www.pfalz-express.de/fwg-landau-kritisiert-geplante-fernwaermesatzung-und-fordert-verzicht-auf-anschlusszwang/",
+      "published_at": "2026-09-30T16:41:45Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "FWG Landau kritisiert geplante Fernwärmesatzung und fordert Verzicht auf Anschlusszwang Landau. Die Freie Wählergruppe (FWG) Landau begrüßt grundsätzlich den Ausbau der Fernwärmeversorgung in der Stadt. Fernwärme aus Geothermie sei eine emissionsarme und nachhaltige Energieform, die langfristig Unabhängigkeit von fossilen Energieträgern schaffe, erklärte die Fraktion in einer Pressemitteilung vom ",
+      "tags": [],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "890cb4f6a8c74f0253ccc584",
+      "title": "Elektroauto: BMW kündigt Kompaktmodell der Neuen Klasse an",
+      "url": "https://www.golem.de/news/elektroauto-bmw-kuendigt-kompaktmodell-der-neuen-klasse-an-2609-213593.html",
+      "published_at": "2026-09-30T15:04:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: BMW kündigt Kompaktmodell der Neuen Klasse an 2028 will BMW sein Elektroauto-Portfolio um ein Kompaktmodell erweitern. Außerdem könnte es für die USA einen Riesen-BMW geben. ( BMW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "89ba7d41a9ab54a84c3e39f1",
+      "title": "VW Mission Efficiency: Ein Rekord ist nicht genug",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/ein-rekord-ist-nicht-genug-der-vw-mission-efficiency-201226504.html",
+      "published_at": "2026-09-30T13:00:00Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "VW Mission Efficiency: Ein Rekord ist nicht genug Genügsamkeit ist eine Tugend, erst recht im Automobilbau. Mit dem Mission Efficiency demonstriert VW, wie sparsam ein Elektroauto mit Aerodynamik und Verzicht sein kann.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c684405dd8ebd70b1cb455e0",
+      "title": "Voltfang und Mangold Energy öffnen Großspeicher-Projekt für Privatanleger",
+      "url": "https://www.pv-magazine.de/2026/09/30/voltfang-und-mangold-energy-oeffnen-grossspeicher-projekt-fuer-privatanleger/",
+      "published_at": "2026-09-30T12:01:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Voltfang und Mangold Energy öffnen Großspeicher-Projekt für Privatanleger Im nordrhein-westfälischen Alsdorf entsteht ein Batteriespeicherpark, bei dem Privatpersonen einzelne Speichereinheiten direkt erwerben können. Insgesamt sind 50 Einheiten mit jeweils 100 Kilowatt Leistung und 261 Kilowattstunden Kapazität vorgesehen. Voltfang übernimmt den technischen Betrieb, Mangold Energy die Vermarktung",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2974287a4e471a93dc805d15",
+      "title": "Serienproduktion gestartet: Teslas Semi ist ein aufgebohrter Cybertruck",
+      "url": "https://www.golem.de/news/serienproduktion-gestartet-teslas-semi-ist-ein-aufgebohrter-cybertruck-2609-213581.html",
+      "published_at": "2026-09-30T11:52:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Serienproduktion gestartet: Teslas Semi ist ein aufgebohrter Cybertruck Nach jahrelangen Verzögerungen baut Tesla die ersten Semi in Serie. Der Elektro-Lkw nutzt wesentliche Komponenten des Cybertrucks. Ein Bericht von Friedhelm Greis ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "2fd89db8a711b5de3be86739",
       "title": "Vattenfall übernimmt Vermarktung von deutschem Batteriespeicher-Portfolio mit 285 Megawatt",
       "url": "https://www.pv-magazine.de/2026/09/30/vattenfall-uebernimmt-vermarktung-von-deutschem-batteriespeicher-portfolio-mit-285-megawatt/",
@@ -21,19 +78,6 @@
       "language": "de",
       "summary": "Geothermie: 3 km tiefe Geothermieanlage in Berlin als Wegbereiter Mit einer neuen Technologie soll Erdwärme mit weniger Aufwand und damit bezahlbarer an die Oberfläche geholt werden. Die Praxistests laufen. ( Geothermie , Wissenschaft )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "960269e9d20e31abfc342b08",
-      "title": "Weitere Prüfung der Tiefengeothermie durch Neustadter Stadtrat beschlossen",
-      "url": "https://www.pfalz-express.de/weitere-pruefung-der-tiefengeothermie-durch-neustadter-stadtrat-beschlossen/",
-      "published_at": "2026-09-30T08:48:47Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Weitere Prüfung der Tiefengeothermie durch Neustadter Stadtrat beschlossen Neustadt. Welche Rolle könnte Tiefengeothermie künftig für die Wärmeversorgung in Neustadt spielen? Mit dieser Frage hat sich der Stadtrat in seiner Sitzung am 29. September befasst. Grundlage der Beratung war ein Vorschlag der Stadtverwaltung, die technische und wirtschaftliche Machbarkeit eines gemeinsamen Wärmeprojekts m",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     },
     {
@@ -80,61 +124,6 @@
       "tags": [
         "umwelt"
       ],
-      "regions": []
-    },
-    {
-      "id": "1e5d3b2f6ce1aada469be6a8",
-      "title": "Elektrolimousine: BMW i3 in zwei Basisvarianten bestellbar",
-      "url": "https://www.golem.de/news/elektrolimousine-bmw-i3-in-zwei-basisvarianten-bestellbar-2609-213548.html",
-      "published_at": "2026-09-29T22:06:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektrolimousine: BMW i3 in zwei Basisvarianten bestellbar BMW öffnet die Bestellbücher für die Elektrolimousine i3. Die Einstiegsversion kostet 60.000 Euro und soll 710 km weit kommen. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d58e1dd014fb7f38ce331d59",
-      "title": "Stromförderung: Knapper Strom, hohe Preise",
-      "url": "https://www.golem.de/news/stromfoerderung-knapper-strom-hohe-preise-2609-213551.html",
-      "published_at": "2026-09-29T16:25:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Stromförderung: Knapper Strom, hohe Preise Ein Papier der Unionsfraktion stellt die Förderung erneuerbarer Energien infrage. Das könnte die Energiepreise nach oben treiben. ( Energiewende , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "aa77ac2cd8d0fd16c0739ca4",
-      "title": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China",
-      "url": "https://www.rnd.de/wirtschaft/vw-vereinbart-milliardendeal-mit-batteriepartner-gotion-aus-china-O3F3TAAIKBA77F7LU2HTSTMDHY.html",
-      "published_at": "2026-09-29T14:11:41Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "VW vereinbart Milliardendeal mit Batteriepartner Gotion aus China Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet eine Menge Geld. VW arbeitet in Europa nun enger mit einem Partner aus China zusammen. Wie beide davon profitieren wollen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4e8f7aacfd1a4524ec2b83fa",
-      "title": "Elektromobilität: Chinesischer Batteriepartner kommt für VW-Partnerschaft nach Europa",
-      "url": "https://www.sueddeutsche.de/wirtschaft/vw-partnerschaft-china-powerco-gotion-li.3555272",
-      "published_at": "2026-09-28T17:08:40Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "Elektromobilität: Chinesischer Batteriepartner kommt für VW-Partnerschaft nach Europa Europas größter Autobauer und der chinesische Batteriezellhersteller Gotion bauen ihre Zusammenarbeit aus. Im spanischen Valencia soll ein europäisches Produktionszentrum entstehen. VW spricht von einem „Durchbruch“.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "eded50107800346721957239",
-      "title": "Bosch streicht die Hälfte seiner Stellen im Nürnberger Werk",
-      "url": "https://www.rnd.de/wirtschaft/bosch-streicht-die-haelfte-seiner-stellen-im-nuernberger-werk-BUNICSJFYJBY7BNITLJU5MB3OA.html",
-      "published_at": "2026-09-28T15:13:48Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Bosch streicht die Hälfte seiner Stellen im Nürnberger Werk Bosch streicht am Standort Nürnberg 900 von 1800 Stellen – die Hälfte der Belegschaft. Der Abbau soll bis 2029 erfolgen und kommt zusätzlich zu den bereits angekündigten 22.000 Stellen konzernweit. Grund ist der Wandel zur Elektromobilität und Druck durch chinesische Konkurrenz.",
-      "tags": [],
       "regions": []
     },
     {
