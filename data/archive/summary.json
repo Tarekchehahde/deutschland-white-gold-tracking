@@ -1,16 +1,97 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-09-29T22:16:23Z",
+  "generated_at_utc": "2026-09-30T11:10:11Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 722,
+  "total_in_archive": 729,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
-    "2026-09": 165
+    "2026-09": 172
   },
   "recent_for_ui": [
+    {
+      "id": "2fd89db8a711b5de3be86739",
+      "title": "Vattenfall übernimmt Vermarktung von deutschem Batteriespeicher-Portfolio mit 285 Megawatt",
+      "url": "https://www.pv-magazine.de/2026/09/30/vattenfall-uebernimmt-vermarktung-von-deutschem-batteriespeicher-portfolio-mit-285-megawatt/",
+      "published_at": "2026-09-30T09:55:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Vattenfall übernimmt Vermarktung von deutschem Batteriespeicher-Portfolio mit 285 Megawatt Der Energiekonzern hat langfristige Vermarktungsverträge für vier Großbatterien an verschiedenen Standorten in Deutschland abgeschlossen. Laut Vattenfall handelt es sich um das erste physische Batterieportfolio dieser Art in Europa. Die Speicher mit insgesamt 285 Megawatt Leistung sollen am Großhandelsmarkt ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "36a55e8809fe252d9f243085",
+      "title": "Geothermie: 3 km tiefe Geothermieanlage in Berlin als Wegbereiter",
+      "url": "https://www.golem.de/news/geothermie-3-km-tiefe-geothermieanlage-in-berlin-als-wegbereiter-2609-213575.html",
+      "published_at": "2026-09-30T09:45:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Geothermie: 3 km tiefe Geothermieanlage in Berlin als Wegbereiter Mit einer neuen Technologie soll Erdwärme mit weniger Aufwand und damit bezahlbarer an die Oberfläche geholt werden. Die Praxistests laufen. ( Geothermie , Wissenschaft )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "960269e9d20e31abfc342b08",
+      "title": "Weitere Prüfung der Tiefengeothermie durch Neustadter Stadtrat beschlossen",
+      "url": "https://www.pfalz-express.de/weitere-pruefung-der-tiefengeothermie-durch-neustadter-stadtrat-beschlossen/",
+      "published_at": "2026-09-30T08:48:47Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Weitere Prüfung der Tiefengeothermie durch Neustadter Stadtrat beschlossen Neustadt. Welche Rolle könnte Tiefengeothermie künftig für die Wärmeversorgung in Neustadt spielen? Mit dieser Frage hat sich der Stadtrat in seiner Sitzung am 29. September befasst. Grundlage der Beratung war ein Vorschlag der Stadtverwaltung, die technische und wirtschaftliche Machbarkeit eines gemeinsamen Wärmeprojekts m",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "aaf8ec5af4fbc6e1d8868e41",
+      "title": "Metrify und HEMS-Anbieter standardisieren Steuerung von Photovoltaik-Anlagen und Speichern",
+      "url": "https://www.pv-magazine.de/2026/09/30/metrify-und-hems-anbieter-standardisieren-steuerung-von-photovoltaik-anlagen-und-speichern/",
+      "published_at": "2026-09-30T08:41:04Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Metrify und HEMS-Anbieter standardisieren Steuerung von Photovoltaik-Anlagen und Speichern Der wettbewerbliche Messstellenbetreiber Metrify hat gemeinsam mit mehreren Anbietern von Heimenergiemanagementsystemen (HEMS) einen standardisierten Prozess für die Anbindung steuerbarer Anlagen entwickelt. Über die EEBUS-Schnittstelle sollen sich unter anderem Photovoltaik-Anlagen und Batteriespeicher mit ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "756010ea6b55725ff35c18c5",
+      "title": "Enervis-Batteriespeicher-Index: BESS-Erlöse bleiben im August stabil – steigende Gaspreise und hohe Photovoltaik-Einspeisung stützen Marktspreads",
+      "url": "https://www.pv-magazine.de/2026/09/30/enervis-batteriespeicher-index-bess-erloese-bleiben-im-august-stabil-steigende-gaspreise-und-hohe-photovoltaik-einspeisung-stuetzen-marktspreads/",
+      "published_at": "2026-09-30T07:40:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enervis-Batteriespeicher-Index: BESS-Erlöse bleiben im August stabil – steigende Gaspreise und hohe Photovoltaik-Einspeisung stützen Marktspreads Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b56f52d300117cc4f8bfc30f",
+      "title": "Elektroauto Ventra reduziert von Reifen- und Bremsabrieb verursachten Feinstaub",
+      "url": "https://www.heise.de/news/Ventra-Elektroauto-faengt-selbst-verursachten-Feinstaub-waehrend-der-Fahrt-ein-11470427.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-30T06:13:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektroauto Ventra reduziert von Reifen- und Bremsabrieb verursachten Feinstaub Der Ventra der Eindhoven University of Technology verursacht weniger Feinstaub durch Reifen- und Bremsabrieb. Der Filter arbeitet mit elektrischen Ladungen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ebb0f08c99f46c818ce339f3",
+      "title": "Nur mit E-Kennzeichen: Bundesrat will E-Autos von Umweltplakette befreien",
+      "url": "https://www.golem.de/news/nur-mit-e-kennzeichen-bundesrat-will-e-autos-von-umweltplakette-befreien-2609-213560.html",
+      "published_at": "2026-09-30T05:36:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Nur mit E-Kennzeichen: Bundesrat will E-Autos von Umweltplakette befreien E-Autos mit E-Kennzeichen sollen in Zukunft keine grüne Plakette mehr an der Windschutzscheibe benötigen, um in Umweltzonen zu fahren. ( Elektroauto , Auto )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
     {
       "id": "1e5d3b2f6ce1aada469be6a8",
       "title": "Elektrolimousine: BMW i3 in zwei Basisvarianten bestellbar",
@@ -4478,89 +4559,6 @@
       "regions": [
         "DE-BW"
       ]
-    },
-    {
-      "id": "66e5ac18e94638354febbcd7",
-      "title": "Ein Viertel aller Neuwagen in BW fahren ausschließlich mit Strom",
-      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-ein-viertel-aller-neuwagen-in-bw-fahren-ausschliesslich-mit-strom-100.html",
-      "published_at": "2026-07-16T06:04:00Z",
-      "source_id": "tagesschau-bw",
-      "language": "de",
-      "summary": "Ein Viertel aller Neuwagen in BW fahren ausschließlich mit Strom Der Anteil reiner Elektroautos an den Neuzulassungen in Baden-Württemberg ist deutlich gestiegen. Noch beliebter sind die Stromer nur in zwei Bundesländern.",
-      "tags": [],
-      "regions": [
-        "DE-BW"
-      ]
-    },
-    {
-      "id": "d9da792da0171b2df4c4cd0a",
-      "title": "Dynamische Stromtarife: Warum sich flexible Preise seltener lohnen als gedacht",
-      "url": "https://www.spiegel.de/wirtschaft/dynamische-stromtarife-warum-sich-flexible-preise-seltener-lohnen-als-gedacht-a-7dbfb91c-981b-46e4-bc7e-e5ebbce8d468",
-      "published_at": "2026-07-16T04:01:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Dynamische Stromtarife: Warum sich flexible Preise seltener lohnen als gedacht Strom billig kaufen bei viel Wind und Sonne – das ist die Idee dynamischer Tarife. Doch die Verträge mit schwankenden Preisen lohnen sich oft nicht, zeigt eine neue Auswertung. Eine Ausnahme sind Haushalte mit Elektroauto.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "adcf50340cffcf8c926e5ec0",
-      "title": "Continental: Neuer Reifen soll Elektroautos 30 Kilometer weiter bringen",
-      "url": "https://www.golem.de/news/continental-neuer-reifen-soll-elektroautos-30-kilometer-weiter-bringen-2607-210910.html",
-      "published_at": "2026-07-15T14:05:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Continental: Neuer Reifen soll Elektroautos 30 Kilometer weiter bringen Continental und Renault wollen beweisen, dass die richtige Gummimischung beim Reifen mehr Reichweite bringen kann als manche Akkuverbesserung. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0ce48f57d4178b1873caf9ad",
-      "title": "Umweltbundesamt: Erneuerbare Energie wächst überall, Windkraft macht Sorgen",
-      "url": "https://www.golem.de/news/umweltbundesamt-erneuerbare-energie-waechst-ueberall-aber-wind-macht-sorgen-2607-210896.html",
-      "published_at": "2026-07-15T13:26:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Umweltbundesamt: Erneuerbare Energie wächst überall, Windkraft macht Sorgen Vor allem die Wärmewende hat sich laut neuester Zahlen des Umweltbundesamts deutlich beschleunigt. Die Entwicklung verläuft aber nicht unbedingt nach Plan. ( Energiewende , Elektromobilität )",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "8df5b47160b13eb543783399",
-      "title": "GEIG: Gesetz für verbesserte Ladeinfrastruktur angenommen",
-      "url": "https://www.golem.de/news/geig-gesetz-fuer-verbesserte-ladeinfrastruktur-angenommen-2607-210903.html",
-      "published_at": "2026-07-15T12:39:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "GEIG: Gesetz für verbesserte Ladeinfrastruktur angenommen Das Gebäude-Elektromobilitätsinfrastruktur-Gesetz (GEIG) hat den Bundestag und Bundesrat passiert - mit etwas mehr Flexibilität bei den Vorgaben für Eigentümer. ( Elektroauto , Politik )",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "ea0d74ff0a9b81e03ed56fe3",
-      "title": "Whitepaper: Was Banken bei der Finanzierung von Batteriespeichern wirklich wichtig ist",
-      "url": "https://www.pv-magazine.de/2026/07/15/whitepaper-was-banken-bei-der-finanzierung-von-batteriespeichern-wirklich-wichtig-ist/",
-      "published_at": "2026-07-15T11:26:43Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Whitepaper: Was Banken bei der Finanzierung von Batteriespeichern wirklich wichtig ist Capcora und Suena Energy haben die Faktoren zusammengetragen, die Banken bewerten, wenn sie über die Finanzierung von Speichern entscheiden. Je verlässlicher die Zahlungsströme, umso höher ist der Fremdkapitalanteil. Aber auch die Risikoverteilung spielt eine große Rolle bei der Finanzierung.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "af9020d5692cc06df65fc1f8",
-      "title": "VW ID.Cross angeschaut: Volkswagen startet Aufholjagd bei kompakten SUVs",
-      "url": "https://www.golem.de/news/vw-id-cross-angeschaut-volkswagen-startet-aufholjagd-bei-kompakten-suvs-2607-210825.html",
-      "published_at": "2026-07-15T10:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "VW ID.Cross angeschaut: Volkswagen startet Aufholjagd bei kompakten SUVs Die vollelektrische Version des T-Cross soll 439 km weit kommen. Gegenüber dem ID.Polo hat der VW ID.Cross mehr Platz in Heck und Front. Ein Bericht von Friedhelm Greis ( Elektroauto , Technologie )",
-      "tags": [],
-      "regions": []
     }
   ]
 }
