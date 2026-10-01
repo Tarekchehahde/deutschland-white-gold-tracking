@@ -2,6 +2,105 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "a1cb55c7593f885caa441843",
+      "title": "Heimspeicher künftig mit Netzstrom laden und EEG-Förderung behalten",
+      "url": "https://www.heise.de/news/Bundesnetzagentur-erlaubt-flexible-Nutzung-von-Stromspeichern-mit-EEG-Foerderung-11472565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-01T10:59:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Heimspeicher künftig mit Netzstrom laden und EEG-Förderung behalten Die Bundesnetzagentur beschließt mit MiSpeL neue Regeln: Batteriespeicher können künftig Solar- und Netzstrom flexibel nutzen, ohne die Förderung zu verlieren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "844482e33ea73034965e8601",
+      "title": "BMW plant kompaktes Elektroauto für Europa und kappt Managementstellen",
+      "url": "https://www.heise.de/news/BMW-kuerzt-Modellpalette-und-setzt-KI-fuer-hoehere-Profitabilitaet-ein-11472601.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-01T10:55:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "BMW plant kompaktes Elektroauto für Europa und kappt Managementstellen BMW will mit weniger Modellen, Managementabbau, dem Einsatz von KI und einem neuen Elektroauto zurück zu alter Stärke. Den 2er Active Tourer trifft es zuerst.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d7a508b7627abcfc5b8cd01f",
+      "title": "Energiewende: Bundesnetzagentur erleichtert Stromhandel mit Heimspeichern",
+      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/bundesnetzagentur-erleichtert-stromhandel-mit-heimspeichern_aid-155789173",
+      "published_at": "2026-10-01T10:54:20Z",
+      "source_id": "volksfreund",
+      "language": "de",
+      "summary": "Energiewende: Bundesnetzagentur erleichtert Stromhandel mit Heimspeichern Neue Regeln sollen helfen, dass Millionen Haushalte ihren Batteriespeicher flexibler nutzen und damit Geld sparen können. Auch das Zwei-Richtungs-Laden von Autos soll damit attraktiver werden.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "081b1752b1ae852b2999a9e7",
+      "title": "Stromsimulator: Batteriespeicher schaffen Platz im Stromnetz",
+      "url": "https://www.golem.de/news/stromsimulator-batteriespeicher-schaffen-platz-im-stromnetz-2610-213609.html",
+      "published_at": "2026-10-01T10:42:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Stromsimulator: Batteriespeicher schaffen Platz im Stromnetz Simulationen mit mehr Großspeichern im deutschen Stromnetz zeigen, dass der Strompreis insgesamt sinkt. Ein anderer Effekt ist noch wichtiger. ( Akku , Windkraft )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4504eb0a8b2f9086bba7baaf",
+      "title": "Mispel-Regulierung: Deutliche Erleichterungen für bidirektionales Laden",
+      "url": "https://www.golem.de/news/mispel-regulierung-deutliche-erleichterungen-fuer-bidirektionales-laden-2610-213610.html",
+      "published_at": "2026-10-01T10:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Mispel-Regulierung: Deutliche Erleichterungen für bidirektionales Laden Die Bundesnetzagentur regelt erstmals das bidirektionale Laden. Damit können Speicher und E-Autos einfach eingebunden und abgerechnet werden. Ein Bericht von Friedhelm Greis ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2fd5682c06a212a4c0f01cd8",
+      "title": "Telekom bietet dynamischen Stromtarif von Rabot Energy mit Batteriespeicher an",
+      "url": "https://www.pv-magazine.de/2026/10/01/telekom-bietet-dynamischen-stromtarif-von-rabot-energy-mit-batteriespeicher-an/",
+      "published_at": "2026-10-01T09:55:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Telekom bietet dynamischen Stromtarif von Rabot Energy mit Batteriespeicher an Die Deutsche Telekom nimmt in Kooperation mit Rabot Energy drei Stromtarife in ihr Angebot auf. Stromlieferant und Vertragspartner ist Rabot Energy. Neben zwei Fixpreistarifen gibt es einen dynamischen Tarif mit Preisobergrenze, der sich optional mit einem kleinen Batteriespeicher kombinieren lässt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5cfa8f1c06cd1a3a574ebac0",
+      "title": "Bundesnetzagentur beschließt MiSpeL-Regeln für Speicher und bidirektionales Laden",
+      "url": "https://www.pv-magazine.de/2026/10/01/bundesnetzagentur-beschliesst-mispel-regeln-fuer-speicher-und-bidirektionales-laden/",
+      "published_at": "2026-10-01T08:25:33Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bundesnetzagentur beschließt MiSpeL-Regeln für Speicher und bidirektionales Laden Die Bundesnetzagentur hat am Donnerstag die Festlegung zur Marktintegration von Stromspeichern und Ladepunkten beschlossen. Damit können Speicher künftig Solar- und Netzstrom aufnehmen, ohne dass für den zwischengespeicherten Solarstrom die EEG-Förderung verloren geht. Für Haushalte mit Photovoltaik-Anlagen bis 30 Ki",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3ab4245e98f00ae20f34625c",
+      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-10-01T07:50:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6106e1affaa224de8db991b0",
+      "title": "Batteriespeicher-Boom lockt Spekulanten",
+      "url": "https://www.heise.de/news/Batteriespeicher-Boom-Warum-die-Branche-Spekulanten-anlockt-11472014.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-01T05:50:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Batteriespeicher-Boom lockt Spekulanten Große Batteriefarmen speichern Strom aus erneuerbaren Energien für die spätere Abgabe in die Netze. Das verspricht viel Geld und lockt Spekulanten an.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "aea9594af2beecab9adafc24",
       "title": "FWG Landau kritisiert geplante Fernwärmesatzung und fordert Verzicht auf Anschlusszwang",
       "url": "https://www.pfalz-express.de/fwg-landau-kritisiert-geplante-fernwaermesatzung-und-fordert-verzicht-auf-anschlusszwang/",
@@ -22,17 +121,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektroauto: BMW kündigt Kompaktmodell der Neuen Klasse an 2028 will BMW sein Elektroauto-Portfolio um ein Kompaktmodell erweitern. Außerdem könnte es für die USA einen Riesen-BMW geben. ( BMW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "89ba7d41a9ab54a84c3e39f1",
-      "title": "VW Mission Efficiency: Ein Rekord ist nicht genug",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/ein-rekord-ist-nicht-genug-der-vw-mission-efficiency-201226504.html",
-      "published_at": "2026-09-30T13:00:00Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "VW Mission Efficiency: Ein Rekord ist nicht genug Genügsamkeit ist eine Tugend, erst recht im Automobilbau. Mit dem Mission Efficiency demonstriert VW, wie sparsam ein Elektroauto mit Aerodynamik und Verzicht sein kann.",
       "tags": [],
       "regions": []
     },
@@ -1958,17 +2046,6 @@
       "source_id": "zeit-wirtschaft",
       "language": "de",
       "summary": "E-Autos: Wenn ihr euch komplett abschaffen wollt, baut halt weiter Verbrenner Laut einer Studie stoßen Elektroautos »nur« 41 Prozent weniger CO₂ aus. Und Markus Söder fordert wieder das Ende vom Verbrenner-Aus. Das Problem nur ist ein anderes.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3ab4245e98f00ae20f34625c",
-      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-09-01T11:43:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
       "tags": [],
       "regions": []
     },
