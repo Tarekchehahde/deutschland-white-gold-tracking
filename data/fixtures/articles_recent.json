@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "7c10131eb830f05f73aa9063",
+      "title": "Batteriewerk für eine Milliarde Euro: BMW startet Serienproduktion",
+      "url": "https://www.heise.de/news/BMW-nimmt-Batteriefertigung-im-neuen-Werk-Irlbach-Strasskirchen-auf-11472845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-01T13:20:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Batteriewerk für eine Milliarde Euro: BMW startet Serienproduktion Im niederbayerischen Irlbach baut BMW jetzt Hochvoltakkus für alle deutschen BMW-Werke. Dank hoher Nachfrage beginnt die Fertigung schon im Zweischichtbetrieb.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3e909d63704b6b0e142e6b6a",
+      "title": "Fraunhofer ISE startet Simulator für den Einfluss von Batteriespeichern auf die Strompreise",
+      "url": "https://www.pv-magazine.de/2026/10/01/fraunhofer-ise-startet-simulator-fuer-den-einfluss-von-batteriespeichern-auf-die-strompreise/",
+      "published_at": "2026-10-01T12:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fraunhofer ISE startet Simulator für den Einfluss von Batteriespeichern auf die Strompreise Das Fraunhofer ISE hat seine Datenplattform Energy-Charts um einen frei zugänglichen Strompreissimulator erweitert. Nutzer können damit anhand realer Gebotsdaten untersuchen, wie sich zusätzliche Batteriespeicher auf die Preise am Day-Ahead-Markt und den Marktwert von Solar- und Windstrom ausgewirkt hätten.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "a1cb55c7593f885caa441843",
       "title": "Heimspeicher künftig mit Netzstrom laden und EEG-Förderung behalten",
       "url": "https://www.heise.de/news/Bundesnetzagentur-erlaubt-flexible-Nutzung-von-Stromspeichern-mit-EEG-Foerderung-11472565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -24,24 +46,13 @@
       "regions": []
     },
     {
-      "id": "d7a508b7627abcfc5b8cd01f",
-      "title": "Energiewende: Bundesnetzagentur erleichtert Stromhandel mit Heimspeichern",
-      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/bundesnetzagentur-erleichtert-stromhandel-mit-heimspeichern_aid-155789173",
-      "published_at": "2026-10-01T10:54:20Z",
-      "source_id": "volksfreund",
-      "language": "de",
-      "summary": "Energiewende: Bundesnetzagentur erleichtert Stromhandel mit Heimspeichern Neue Regeln sollen helfen, dass Millionen Haushalte ihren Batteriespeicher flexibler nutzen und damit Geld sparen können. Auch das Zwei-Richtungs-Laden von Autos soll damit attraktiver werden.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "081b1752b1ae852b2999a9e7",
-      "title": "Stromsimulator: Batteriespeicher schaffen Platz im Stromnetz",
+      "title": "Ohne Netzausbau: Batteriespeicher schaffen Platz im Stromnetz",
       "url": "https://www.golem.de/news/stromsimulator-batteriespeicher-schaffen-platz-im-stromnetz-2610-213609.html",
       "published_at": "2026-10-01T10:42:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Stromsimulator: Batteriespeicher schaffen Platz im Stromnetz Simulationen mit mehr Großspeichern im deutschen Stromnetz zeigen, dass der Strompreis insgesamt sinkt. Ein anderer Effekt ist noch wichtiger. ( Akku , Windkraft )",
+      "summary": "Ohne Netzausbau: Batteriespeicher schaffen Platz im Stromnetz Simulationen mit mehr Großspeichern im deutschen Stromnetz zeigen, dass der Strompreis insgesamt sinkt. Ein anderer Effekt ist noch wichtiger. ( Akku , Windkraft )",
       "tags": [],
       "regions": []
     },
@@ -101,30 +112,6 @@
       "regions": []
     },
     {
-      "id": "aea9594af2beecab9adafc24",
-      "title": "FWG Landau kritisiert geplante Fernwärmesatzung und fordert Verzicht auf Anschlusszwang",
-      "url": "https://www.pfalz-express.de/fwg-landau-kritisiert-geplante-fernwaermesatzung-und-fordert-verzicht-auf-anschlusszwang/",
-      "published_at": "2026-09-30T16:41:45Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "FWG Landau kritisiert geplante Fernwärmesatzung und fordert Verzicht auf Anschlusszwang Landau. Die Freie Wählergruppe (FWG) Landau begrüßt grundsätzlich den Ausbau der Fernwärmeversorgung in der Stadt. Fernwärme aus Geothermie sei eine emissionsarme und nachhaltige Energieform, die langfristig Unabhängigkeit von fossilen Energieträgern schaffe, erklärte die Fraktion in einer Pressemitteilung vom ",
-      "tags": [],
-      "regions": [
-        "DE-RP"
-      ]
-    },
-    {
-      "id": "890cb4f6a8c74f0253ccc584",
-      "title": "Elektroauto: BMW kündigt Kompaktmodell der Neuen Klasse an",
-      "url": "https://www.golem.de/news/elektroauto-bmw-kuendigt-kompaktmodell-der-neuen-klasse-an-2609-213593.html",
-      "published_at": "2026-09-30T15:04:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: BMW kündigt Kompaktmodell der Neuen Klasse an 2028 will BMW sein Elektroauto-Portfolio um ein Kompaktmodell erweitern. Außerdem könnte es für die USA einen Riesen-BMW geben. ( BMW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "c684405dd8ebd70b1cb455e0",
       "title": "Voltfang und Mangold Energy öffnen Großspeicher-Projekt für Privatanleger",
       "url": "https://www.pv-magazine.de/2026/09/30/voltfang-und-mangold-energy-oeffnen-grossspeicher-projekt-fuer-privatanleger/",
@@ -132,39 +119,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Voltfang und Mangold Energy öffnen Großspeicher-Projekt für Privatanleger Im nordrhein-westfälischen Alsdorf entsteht ein Batteriespeicherpark, bei dem Privatpersonen einzelne Speichereinheiten direkt erwerben können. Insgesamt sind 50 Einheiten mit jeweils 100 Kilowatt Leistung und 261 Kilowattstunden Kapazität vorgesehen. Voltfang übernimmt den technischen Betrieb, Mangold Energy die Vermarktung",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2974287a4e471a93dc805d15",
-      "title": "Serienproduktion gestartet: Teslas Semi ist ein aufgebohrter Cybertruck",
-      "url": "https://www.golem.de/news/serienproduktion-gestartet-teslas-semi-ist-ein-aufgebohrter-cybertruck-2609-213581.html",
-      "published_at": "2026-09-30T11:52:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Serienproduktion gestartet: Teslas Semi ist ein aufgebohrter Cybertruck Nach jahrelangen Verzögerungen baut Tesla die ersten Semi in Serie. Der Elektro-Lkw nutzt wesentliche Komponenten des Cybertrucks. Ein Bericht von Friedhelm Greis ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2fd89db8a711b5de3be86739",
-      "title": "Vattenfall übernimmt Vermarktung von deutschem Batteriespeicher-Portfolio mit 285 Megawatt",
-      "url": "https://www.pv-magazine.de/2026/09/30/vattenfall-uebernimmt-vermarktung-von-deutschem-batteriespeicher-portfolio-mit-285-megawatt/",
-      "published_at": "2026-09-30T09:55:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Vattenfall übernimmt Vermarktung von deutschem Batteriespeicher-Portfolio mit 285 Megawatt Der Energiekonzern hat langfristige Vermarktungsverträge für vier Großbatterien an verschiedenen Standorten in Deutschland abgeschlossen. Laut Vattenfall handelt es sich um das erste physische Batterieportfolio dieser Art in Europa. Die Speicher mit insgesamt 285 Megawatt Leistung sollen am Großhandelsmarkt ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e026159fa6b71ee7e745c0a4",
-      "title": "Warum Batteriespeicher in Bulgarien boomen",
-      "url": "https://www.dw.com/de/warum-batteriespeicher-in-bulgarien-boomen/a-79203544?maca=de-rss-de-eco-1018-xml-mrss",
-      "published_at": "2026-09-24T18:10:00Z",
-      "source_id": "dw-wirtschaft",
-      "language": "de",
-      "summary": "Warum Batteriespeicher in Bulgarien boomen In Bulgarien wird viel privates Geld investiert, um Batteriespeicher für Solarstrom zu bauen. Inzwischen ist das Land Vorreiter in Südosteuropa.",
       "tags": [],
       "regions": []
     }

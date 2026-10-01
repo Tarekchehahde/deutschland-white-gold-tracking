@@ -1,8 +1,30 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 9,
+  "article_count": 11,
   "articles": [
+    {
+      "id": "7c10131eb830f05f73aa9063",
+      "title": "Batteriewerk für eine Milliarde Euro: BMW startet Serienproduktion",
+      "url": "https://www.heise.de/news/BMW-nimmt-Batteriefertigung-im-neuen-Werk-Irlbach-Strasskirchen-auf-11472845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-01T13:20:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Batteriewerk für eine Milliarde Euro: BMW startet Serienproduktion Im niederbayerischen Irlbach baut BMW jetzt Hochvoltakkus für alle deutschen BMW-Werke. Dank hoher Nachfrage beginnt die Fertigung schon im Zweischichtbetrieb.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3e909d63704b6b0e142e6b6a",
+      "title": "Fraunhofer ISE startet Simulator für den Einfluss von Batteriespeichern auf die Strompreise",
+      "url": "https://www.pv-magazine.de/2026/10/01/fraunhofer-ise-startet-simulator-fuer-den-einfluss-von-batteriespeichern-auf-die-strompreise/",
+      "published_at": "2026-10-01T12:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fraunhofer ISE startet Simulator für den Einfluss von Batteriespeichern auf die Strompreise Das Fraunhofer ISE hat seine Datenplattform Energy-Charts um einen frei zugänglichen Strompreissimulator erweitert. Nutzer können damit anhand realer Gebotsdaten untersuchen, wie sich zusätzliche Batteriespeicher auf die Preise am Day-Ahead-Markt und den Marktwert von Solar- und Windstrom ausgewirkt hätten.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "a1cb55c7593f885caa441843",
       "title": "Heimspeicher künftig mit Netzstrom laden und EEG-Förderung behalten",
@@ -38,12 +60,12 @@
     },
     {
       "id": "081b1752b1ae852b2999a9e7",
-      "title": "Stromsimulator: Batteriespeicher schaffen Platz im Stromnetz",
+      "title": "Ohne Netzausbau: Batteriespeicher schaffen Platz im Stromnetz",
       "url": "https://www.golem.de/news/stromsimulator-batteriespeicher-schaffen-platz-im-stromnetz-2610-213609.html",
       "published_at": "2026-10-01T10:42:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Stromsimulator: Batteriespeicher schaffen Platz im Stromnetz Simulationen mit mehr Großspeichern im deutschen Stromnetz zeigen, dass der Strompreis insgesamt sinkt. Ein anderer Effekt ist noch wichtiger. ( Akku , Windkraft )",
+      "summary": "Ohne Netzausbau: Batteriespeicher schaffen Platz im Stromnetz Simulationen mit mehr Großspeichern im deutschen Stromnetz zeigen, dass der Strompreis insgesamt sinkt. Ein anderer Effekt ist noch wichtiger. ( Akku , Windkraft )",
       "tags": [],
       "regions": []
     },
