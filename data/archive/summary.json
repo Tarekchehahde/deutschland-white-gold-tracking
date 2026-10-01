@@ -1,17 +1,39 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-01T11:37:09Z",
+  "generated_at_utc": "2026-10-01T22:42:12Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 741,
+  "total_in_archive": 743,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 9
+    "2026-10": 11
   },
   "recent_for_ui": [
+    {
+      "id": "7c10131eb830f05f73aa9063",
+      "title": "Batteriewerk für eine Milliarde Euro: BMW startet Serienproduktion",
+      "url": "https://www.heise.de/news/BMW-nimmt-Batteriefertigung-im-neuen-Werk-Irlbach-Strasskirchen-auf-11472845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-01T13:20:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Batteriewerk für eine Milliarde Euro: BMW startet Serienproduktion Im niederbayerischen Irlbach baut BMW jetzt Hochvoltakkus für alle deutschen BMW-Werke. Dank hoher Nachfrage beginnt die Fertigung schon im Zweischichtbetrieb.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3e909d63704b6b0e142e6b6a",
+      "title": "Fraunhofer ISE startet Simulator für den Einfluss von Batteriespeichern auf die Strompreise",
+      "url": "https://www.pv-magazine.de/2026/10/01/fraunhofer-ise-startet-simulator-fuer-den-einfluss-von-batteriespeichern-auf-die-strompreise/",
+      "published_at": "2026-10-01T12:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fraunhofer ISE startet Simulator für den Einfluss von Batteriespeichern auf die Strompreise Das Fraunhofer ISE hat seine Datenplattform Energy-Charts um einen frei zugänglichen Strompreissimulator erweitert. Nutzer können damit anhand realer Gebotsdaten untersuchen, wie sich zusätzliche Batteriespeicher auf die Preise am Day-Ahead-Markt und den Marktwert von Solar- und Windstrom ausgewirkt hätten.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "a1cb55c7593f885caa441843",
       "title": "Heimspeicher künftig mit Netzstrom laden und EEG-Förderung behalten",
@@ -47,12 +69,12 @@
     },
     {
       "id": "081b1752b1ae852b2999a9e7",
-      "title": "Stromsimulator: Batteriespeicher schaffen Platz im Stromnetz",
+      "title": "Ohne Netzausbau: Batteriespeicher schaffen Platz im Stromnetz",
       "url": "https://www.golem.de/news/stromsimulator-batteriespeicher-schaffen-platz-im-stromnetz-2610-213609.html",
       "published_at": "2026-10-01T10:42:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Stromsimulator: Batteriespeicher schaffen Platz im Stromnetz Simulationen mit mehr Großspeichern im deutschen Stromnetz zeigen, dass der Strompreis insgesamt sinkt. Ein anderer Effekt ist noch wichtiger. ( Akku , Windkraft )",
+      "summary": "Ohne Netzausbau: Batteriespeicher schaffen Platz im Stromnetz Simulationen mit mehr Großspeichern im deutschen Stromnetz zeigen, dass der Strompreis insgesamt sinkt. Ein anderer Effekt ist noch wichtiger. ( Akku , Windkraft )",
       "tags": [],
       "regions": []
     },
@@ -4534,30 +4556,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Stromspeicher Anker Solarbank 4 Pro im Test: für ein Balkonkraftwerk zu schade Die Anker Solarbank 4 Pro bietet eine PV-Eingangsleistung von 5000 Watt und kann bis zu 2500 Watt einspeisen. Was sie sonst noch leistet, zeigt der Test.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "15db3ecd3897144d8b82230c",
-      "title": "Stiftung Umweltenergierecht: Beschränkungen von Netzanschlüssen nach EU-Recht nur unter bestimmten Bedingungen zulässig",
-      "url": "https://www.pv-magazine.de/2026/07/17/stiftung-umweltenergierecht-beschraenkungen-von-netzanschluessen-nach-eu-recht-nur-unter-bestimmten-bedingungen-zulaessig/",
-      "published_at": "2026-07-17T12:54:36Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Stiftung Umweltenergierecht: Beschränkungen von Netzanschlüssen nach EU-Recht nur unter bestimmten Bedingungen zulässig Redipatch-Vorbehalt und flexible Netzanschlussvereinbarungen sind aktuell in aller Munde, wenn es um den weiteren Ausbau von Erneuerbaren und Batteriespeichern in Deutschland geht. Die Stiftung Umweltenergierecht hat in einer neuen Studie untersucht, welche Spielräume nationale G",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "dba7ad47da5488134466188a",
-      "title": "Xpeng L03 angeschaut: Das Auto als Tech-Plattform",
-      "url": "https://www.golem.de/news/xpeng-l03-angeschaut-das-auto-als-tech-plattform-2607-211005.html",
-      "published_at": "2026-07-17T12:53:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Xpeng L03 angeschaut: Das Auto als Tech-Plattform Xpeng ist bisher in Deutschland nur wenig bekannt - ändern soll das ein SUV-Coupé, das voller Technologie steckt und zum Kampfpreis erscheint. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
       "tags": [],
       "regions": []
     }
