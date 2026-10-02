@@ -1,8 +1,41 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 15,
+  "article_count": 18,
   "articles": [
+    {
+      "id": "2e62246c4c0ace2dc8f593c2",
+      "title": "Surevive: Batteriespeicher übernehmen Systemverantwortung",
+      "url": "https://www.pv-magazine.de/2026/10/02/surevive-batteriespeicher-uebernehmen-systemverantwortung/",
+      "published_at": "2026-10-02T14:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Surevive: Batteriespeicher übernehmen Systemverantwortung Ein Konsortium erprobt die Nutzung netzbildender Wechselrichter von Batteriegroßspeichern auf Verteilnetzebene. Diese Aufgabe können – und müssen – solche Anlagen bald in großem Umfang übernehmen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f751a66de839ebafd7ae9f67",
+      "title": "Dürresommer: Frankreichs Strommarkt gerät in Bewegung",
+      "url": "https://www.golem.de/news/duerresommer-frankreichs-strommarkt-geraet-in-bewegung-2610-213652.html",
+      "published_at": "2026-10-02T13:01:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Dürresommer: Frankreichs Strommarkt gerät in Bewegung Hohe Temperaturen und fehlendes Wasser haben den von Atomstrom dominierten französischen Strommarkt verändert. Batteriespeicher profitieren davon. ( Atomkraft , Solarenergie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "daa8242bb50615aea9082021",
+      "title": "Solarauto: Aptera braucht 25 Millionen US-Dollar für Produktionsstart",
+      "url": "https://www.golem.de/news/solarauto-aptera-braucht-25-millionen-us-dollar-fuer-produktionsstart-2610-213655.html",
+      "published_at": "2026-10-02T12:18:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Solarauto: Aptera braucht 25 Millionen US-Dollar für Produktionsstart Das Solarauto-Startup braucht weniger Kapital für den Produktionsstart als bisher geglaubt. Die finanzielle Situation bleibt aber herausfordernd. ( Elektroauto , Solarenergie )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c666f70ac73ada66ae5f5e62",
       "title": "Nach Schießerei: Tesla-Fahrer können im Notfall mit angeschlossenem Ladekabel wegfahren",
