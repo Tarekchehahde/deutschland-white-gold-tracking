@@ -2,6 +2,52 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "c666f70ac73ada66ae5f5e62",
+      "title": "Nach Schießerei: Tesla-Fahrer können im Notfall mit angeschlossenem Ladekabel wegfahren",
+      "url": "https://www.golem.de/news/nach-schiesserei-tesla-fahrer-koennen-im-notfall-mit-angeschlossenem-ladekabel-wegfahren-2610-213647.html",
+      "published_at": "2026-10-02T10:10:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Nach Schießerei: Tesla-Fahrer können im Notfall mit angeschlossenem Ladekabel wegfahren Tesla hat einen Notfall-Wegfahrmodus für seine Autos vorgestellt: Im Ernstfall können Tesla-Fahrer mit angeschlossenem Ladekabel losfahren. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3492621ca13d65bc2f087f80",
+      "title": "Ista übernimmt Photovoltaik- und Wärmepumpen-Anbieter Homenergy",
+      "url": "https://www.pv-magazine.de/2026/10/02/ista-uebernimmt-photovoltaik-und-waermepumpen-anbieter-homenergy/",
+      "published_at": "2026-10-02T08:26:18Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Ista übernimmt Photovoltaik- und Wärmepumpen-Anbieter Homenergy Der Energie- und Immobiliendienstleister Ista will mit der Akquisition von Homenergy sein Geschäft mit integrierten Energielösungen für Gebäude ausbauen. Das 2022 gegründete Unternehmen plant und installiert unter anderem Photovoltaik-Anlagen, Wärmepumpen und Batteriespeicher.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "0079e0a3a0f957f13091a4cb",
+      "title": "Leapmotor iC10 im Test: Mehr Kurvenspaß, aber weniger Komfort im Alltag",
+      "url": "https://www.golem.de/news/leapmotor-ic10-im-test-mehr-kurvenspass-aber-weniger-komfort-im-alltag-2610-213586.html",
+      "published_at": "2026-10-02T07:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Leapmotor iC10 im Test: Mehr Kurvenspaß, aber weniger Komfort im Alltag Mit dem iC10 zeigt Leapmotor, dass auch ein Elektro-SUV über die reine Leistung hinaus sportlich sein kann - dank des Sportfahrwerks. Ein Test von Tobias Költzsch ( Leapmotor , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c64ad71639b0117d12471922",
+      "title": "Elektroauto: Serienproduktion in neuem Batteriewerk von BMW gestartet",
+      "url": "https://www.golem.de/news/elektroauto-serienproduktion-in-neuem-batteriewerk-von-bmw-gestartet-2610-213640.html",
+      "published_at": "2026-10-02T07:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Serienproduktion in neuem Batteriewerk von BMW gestartet Im Batteriewerk Irlberg-Straßkirchen wird zunächst die Batterie für den neuen BMW i3 gefertigt. ( BMW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "7c10131eb830f05f73aa9063",
       "title": "Batteriewerk für eine Milliarde Euro: BMW startet Serienproduktion",
       "url": "https://www.heise.de/news/BMW-nimmt-Batteriefertigung-im-neuen-Werk-Irlbach-Strasskirchen-auf-11472845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
