@@ -2,6 +2,39 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "2e62246c4c0ace2dc8f593c2",
+      "title": "Surevive: Batteriespeicher übernehmen Systemverantwortung",
+      "url": "https://www.pv-magazine.de/2026/10/02/surevive-batteriespeicher-uebernehmen-systemverantwortung/",
+      "published_at": "2026-10-02T14:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Surevive: Batteriespeicher übernehmen Systemverantwortung Ein Konsortium erprobt die Nutzung netzbildender Wechselrichter von Batteriegroßspeichern auf Verteilnetzebene. Diese Aufgabe können – und müssen – solche Anlagen bald in großem Umfang übernehmen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f751a66de839ebafd7ae9f67",
+      "title": "Dürresommer: Frankreichs Strommarkt gerät in Bewegung",
+      "url": "https://www.golem.de/news/duerresommer-frankreichs-strommarkt-geraet-in-bewegung-2610-213652.html",
+      "published_at": "2026-10-02T13:01:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Dürresommer: Frankreichs Strommarkt gerät in Bewegung Hohe Temperaturen und fehlendes Wasser haben den von Atomstrom dominierten französischen Strommarkt verändert. Batteriespeicher profitieren davon. ( Atomkraft , Solarenergie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "daa8242bb50615aea9082021",
+      "title": "Solarauto: Aptera braucht 25 Millionen US-Dollar für Produktionsstart",
+      "url": "https://www.golem.de/news/solarauto-aptera-braucht-25-millionen-us-dollar-fuer-produktionsstart-2610-213655.html",
+      "published_at": "2026-10-02T12:18:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Solarauto: Aptera braucht 25 Millionen US-Dollar für Produktionsstart Das Solarauto-Startup braucht weniger Kapital für den Produktionsstart als bisher geglaubt. Die finanzielle Situation bleibt aber herausfordernd. ( Elektroauto , Solarenergie )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "c666f70ac73ada66ae5f5e62",
       "title": "Nach Schießerei: Tesla-Fahrer können im Notfall mit angeschlossenem Ladekabel wegfahren",
       "url": "https://www.golem.de/news/nach-schiesserei-tesla-fahrer-koennen-im-notfall-mit-angeschlossenem-ladekabel-wegfahren-2610-213647.html",
@@ -59,17 +92,6 @@
       "regions": []
     },
     {
-      "id": "3e909d63704b6b0e142e6b6a",
-      "title": "Fraunhofer ISE startet Simulator für den Einfluss von Batteriespeichern auf die Strompreise",
-      "url": "https://www.pv-magazine.de/2026/10/01/fraunhofer-ise-startet-simulator-fuer-den-einfluss-von-batteriespeichern-auf-die-strompreise/",
-      "published_at": "2026-10-01T12:20:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Fraunhofer ISE startet Simulator für den Einfluss von Batteriespeichern auf die Strompreise Das Fraunhofer ISE hat seine Datenplattform Energy-Charts um einen frei zugänglichen Strompreissimulator erweitert. Nutzer können damit anhand realer Gebotsdaten untersuchen, wie sich zusätzliche Batteriespeicher auf die Preise am Day-Ahead-Markt und den Marktwert von Solar- und Windstrom ausgewirkt hätten.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "a1cb55c7593f885caa441843",
       "title": "Heimspeicher künftig mit Netzstrom laden und EEG-Förderung behalten",
       "url": "https://www.heise.de/news/Bundesnetzagentur-erlaubt-flexible-Nutzung-von-Stromspeichern-mit-EEG-Foerderung-11472565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -88,39 +110,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "BMW plant kompaktes Elektroauto für Europa und kappt Managementstellen BMW will mit weniger Modellen, Managementabbau, dem Einsatz von KI und einem neuen Elektroauto zurück zu alter Stärke. Den 2er Active Tourer trifft es zuerst.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2fd5682c06a212a4c0f01cd8",
-      "title": "Telekom bietet dynamischen Stromtarif von Rabot Energy mit Batteriespeicher an",
-      "url": "https://www.pv-magazine.de/2026/10/01/telekom-bietet-dynamischen-stromtarif-von-rabot-energy-mit-batteriespeicher-an/",
-      "published_at": "2026-10-01T09:55:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Telekom bietet dynamischen Stromtarif von Rabot Energy mit Batteriespeicher an Die Deutsche Telekom nimmt in Kooperation mit Rabot Energy drei Stromtarife in ihr Angebot auf. Stromlieferant und Vertragspartner ist Rabot Energy. Neben zwei Fixpreistarifen gibt es einen dynamischen Tarif mit Preisobergrenze, der sich optional mit einem kleinen Batteriespeicher kombinieren lässt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3ab4245e98f00ae20f34625c",
-      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-10-01T07:50:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6106e1affaa224de8db991b0",
-      "title": "Batteriespeicher-Boom lockt Spekulanten",
-      "url": "https://www.heise.de/news/Batteriespeicher-Boom-Warum-die-Branche-Spekulanten-anlockt-11472014.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-10-01T05:50:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Batteriespeicher-Boom lockt Spekulanten Große Batteriefarmen speichern Strom aus erneuerbaren Energien für die spätere Abgabe in die Netze. Das verspricht viel Geld und lockt Spekulanten an.",
       "tags": [],
       "regions": []
     }
