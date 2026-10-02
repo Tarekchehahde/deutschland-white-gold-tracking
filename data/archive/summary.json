@@ -1,17 +1,63 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-01T22:42:12Z",
+  "generated_at_utc": "2026-10-02T11:06:16Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 743,
+  "total_in_archive": 747,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 11
+    "2026-10": 15
   },
   "recent_for_ui": [
+    {
+      "id": "c666f70ac73ada66ae5f5e62",
+      "title": "Nach Schießerei: Tesla-Fahrer können im Notfall mit angeschlossenem Ladekabel wegfahren",
+      "url": "https://www.golem.de/news/nach-schiesserei-tesla-fahrer-koennen-im-notfall-mit-angeschlossenem-ladekabel-wegfahren-2610-213647.html",
+      "published_at": "2026-10-02T10:10:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Nach Schießerei: Tesla-Fahrer können im Notfall mit angeschlossenem Ladekabel wegfahren Tesla hat einen Notfall-Wegfahrmodus für seine Autos vorgestellt: Im Ernstfall können Tesla-Fahrer mit angeschlossenem Ladekabel losfahren. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3492621ca13d65bc2f087f80",
+      "title": "Ista übernimmt Photovoltaik- und Wärmepumpen-Anbieter Homenergy",
+      "url": "https://www.pv-magazine.de/2026/10/02/ista-uebernimmt-photovoltaik-und-waermepumpen-anbieter-homenergy/",
+      "published_at": "2026-10-02T08:26:18Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Ista übernimmt Photovoltaik- und Wärmepumpen-Anbieter Homenergy Der Energie- und Immobiliendienstleister Ista will mit der Akquisition von Homenergy sein Geschäft mit integrierten Energielösungen für Gebäude ausbauen. Das 2022 gegründete Unternehmen plant und installiert unter anderem Photovoltaik-Anlagen, Wärmepumpen und Batteriespeicher.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "0079e0a3a0f957f13091a4cb",
+      "title": "Leapmotor iC10 im Test: Mehr Kurvenspaß, aber weniger Komfort im Alltag",
+      "url": "https://www.golem.de/news/leapmotor-ic10-im-test-mehr-kurvenspass-aber-weniger-komfort-im-alltag-2610-213586.html",
+      "published_at": "2026-10-02T07:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Leapmotor iC10 im Test: Mehr Kurvenspaß, aber weniger Komfort im Alltag Mit dem iC10 zeigt Leapmotor, dass auch ein Elektro-SUV über die reine Leistung hinaus sportlich sein kann - dank des Sportfahrwerks. Ein Test von Tobias Költzsch ( Leapmotor , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c64ad71639b0117d12471922",
+      "title": "Elektroauto: Serienproduktion in neuem Batteriewerk von BMW gestartet",
+      "url": "https://www.golem.de/news/elektroauto-serienproduktion-in-neuem-batteriewerk-von-bmw-gestartet-2610-213640.html",
+      "published_at": "2026-10-02T07:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Serienproduktion in neuem Batteriewerk von BMW gestartet Im Batteriewerk Irlberg-Straßkirchen wird zunächst die Batterie für den neuen BMW i3 gefertigt. ( BMW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "7c10131eb830f05f73aa9063",
       "title": "Batteriewerk für eine Milliarde Euro: BMW startet Serienproduktion",
@@ -4512,50 +4558,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto Wer ein E-Auto besitzt, kann damit nicht nur fahren, sondern auch Stromkosten senken. Das Webinar zeigt, welche Konzepte sich heute tatsächlich rechnen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "917e9175ada74f449edbc0c3",
-      "title": "E-Auto-Prämie: Mehr als 50 Millionen Euro ausgezahlt – Tesla vorne",
-      "url": "https://www.rnd.de/wirtschaft/e-auto-praemie-mehr-als-50-millionen-euro-ausgezahlt-tesla-vorne-Q3VUAXG6SNF4HKPABB53FYMQME.html",
-      "published_at": "2026-07-18T05:25:25Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "E-Auto-Prämie: Mehr als 50 Millionen Euro ausgezahlt – Tesla vorne Seit knapp zwei Monaten gibt es wieder eine staatliche Förderung, um das Geschäft mit Elektroautos in Deutschland anzukurbeln. Wie viel Geld floss schon - und welche Marken profitierten zum Start?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4fcc725921f38b7ebfb3b365",
-      "title": "Tesla vorne: Mehr als 50 Millionen Euro für E-Auto-Prämien",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/elektroauto-kaufpraemien-50-millionen-euro-ausgezahlt-accg-201042491.html",
-      "published_at": "2026-07-18T03:49:57Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Tesla vorne: Mehr als 50 Millionen Euro für E-Auto-Prämien Seit knapp zwei Monaten gibt es wieder eine staatliche Förderung, um das Geschäft mit Elektroautos in Deutschland anzukurbeln. Wie viel Geld floss schon - und welche Marken profitierten zum Start?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8d6ef91f128cce700159410b",
-      "title": "Mobilität: Mehr als 50 Millionen Euro für E-Auto-Prämien - Tesla vorne",
-      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/mehr-als-50-millionen-euro-fuer-e-auto-praemien-tesla-vorne_aid-151705759",
-      "published_at": "2026-07-18T02:30:05Z",
-      "source_id": "volksfreund",
-      "language": "de",
-      "summary": "Mobilität: Mehr als 50 Millionen Euro für E-Auto-Prämien - Tesla vorne Seit knapp zwei Monaten gibt es wieder eine staatliche Förderung, um das Geschäft mit Elektroautos in Deutschland anzukurbeln. Wie viel Geld floss schon - und welche Marken profitierten zum Start?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2186b4f8c8fc5986399c5bfd",
-      "title": "Stromspeicher Anker Solarbank 4 Pro im Test: für ein Balkonkraftwerk zu schade",
-      "url": "https://www.heise.de/bestenlisten/testbericht/stromspeicher-anker-solarbank-4-pro-im-test-fuer-ein-balkonkraftwerk-zu-schade/g4gf1v6?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-17T14:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Stromspeicher Anker Solarbank 4 Pro im Test: für ein Balkonkraftwerk zu schade Die Anker Solarbank 4 Pro bietet eine PV-Eingangsleistung von 5000 Watt und kann bis zu 2500 Watt einspeisen. Was sie sonst noch leistet, zeigt der Test.",
       "tags": [],
       "regions": []
     }

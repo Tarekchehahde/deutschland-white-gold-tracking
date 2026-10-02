@@ -2,6 +2,52 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "c666f70ac73ada66ae5f5e62",
+      "title": "Nach Schießerei: Tesla-Fahrer können im Notfall mit angeschlossenem Ladekabel wegfahren",
+      "url": "https://www.golem.de/news/nach-schiesserei-tesla-fahrer-koennen-im-notfall-mit-angeschlossenem-ladekabel-wegfahren-2610-213647.html",
+      "published_at": "2026-10-02T10:10:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Nach Schießerei: Tesla-Fahrer können im Notfall mit angeschlossenem Ladekabel wegfahren Tesla hat einen Notfall-Wegfahrmodus für seine Autos vorgestellt: Im Ernstfall können Tesla-Fahrer mit angeschlossenem Ladekabel losfahren. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3492621ca13d65bc2f087f80",
+      "title": "Ista übernimmt Photovoltaik- und Wärmepumpen-Anbieter Homenergy",
+      "url": "https://www.pv-magazine.de/2026/10/02/ista-uebernimmt-photovoltaik-und-waermepumpen-anbieter-homenergy/",
+      "published_at": "2026-10-02T08:26:18Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Ista übernimmt Photovoltaik- und Wärmepumpen-Anbieter Homenergy Der Energie- und Immobiliendienstleister Ista will mit der Akquisition von Homenergy sein Geschäft mit integrierten Energielösungen für Gebäude ausbauen. Das 2022 gegründete Unternehmen plant und installiert unter anderem Photovoltaik-Anlagen, Wärmepumpen und Batteriespeicher.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "0079e0a3a0f957f13091a4cb",
+      "title": "Leapmotor iC10 im Test: Mehr Kurvenspaß, aber weniger Komfort im Alltag",
+      "url": "https://www.golem.de/news/leapmotor-ic10-im-test-mehr-kurvenspass-aber-weniger-komfort-im-alltag-2610-213586.html",
+      "published_at": "2026-10-02T07:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Leapmotor iC10 im Test: Mehr Kurvenspaß, aber weniger Komfort im Alltag Mit dem iC10 zeigt Leapmotor, dass auch ein Elektro-SUV über die reine Leistung hinaus sportlich sein kann - dank des Sportfahrwerks. Ein Test von Tobias Költzsch ( Leapmotor , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c64ad71639b0117d12471922",
+      "title": "Elektroauto: Serienproduktion in neuem Batteriewerk von BMW gestartet",
+      "url": "https://www.golem.de/news/elektroauto-serienproduktion-in-neuem-batteriewerk-von-bmw-gestartet-2610-213640.html",
+      "published_at": "2026-10-02T07:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Serienproduktion in neuem Batteriewerk von BMW gestartet Im Batteriewerk Irlberg-Straßkirchen wird zunächst die Batterie für den neuen BMW i3 gefertigt. ( BMW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "7c10131eb830f05f73aa9063",
       "title": "Batteriewerk für eine Milliarde Euro: BMW startet Serienproduktion",
       "url": "https://www.heise.de/news/BMW-nimmt-Batteriefertigung-im-neuen-Werk-Irlbach-Strasskirchen-auf-11472845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -46,28 +92,6 @@
       "regions": []
     },
     {
-      "id": "081b1752b1ae852b2999a9e7",
-      "title": "Ohne Netzausbau: Batteriespeicher schaffen Platz im Stromnetz",
-      "url": "https://www.golem.de/news/stromsimulator-batteriespeicher-schaffen-platz-im-stromnetz-2610-213609.html",
-      "published_at": "2026-10-01T10:42:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Ohne Netzausbau: Batteriespeicher schaffen Platz im Stromnetz Simulationen mit mehr Großspeichern im deutschen Stromnetz zeigen, dass der Strompreis insgesamt sinkt. Ein anderer Effekt ist noch wichtiger. ( Akku , Windkraft )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4504eb0a8b2f9086bba7baaf",
-      "title": "Mispel-Regulierung: Deutliche Erleichterungen für bidirektionales Laden",
-      "url": "https://www.golem.de/news/mispel-regulierung-deutliche-erleichterungen-fuer-bidirektionales-laden-2610-213610.html",
-      "published_at": "2026-10-01T10:15:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Mispel-Regulierung: Deutliche Erleichterungen für bidirektionales Laden Die Bundesnetzagentur regelt erstmals das bidirektionale Laden. Damit können Speicher und E-Autos einfach eingebunden und abgerechnet werden. Ein Bericht von Friedhelm Greis ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "2fd5682c06a212a4c0f01cd8",
       "title": "Telekom bietet dynamischen Stromtarif von Rabot Energy mit Batteriespeicher an",
       "url": "https://www.pv-magazine.de/2026/10/01/telekom-bietet-dynamischen-stromtarif-von-rabot-energy-mit-batteriespeicher-an/",
@@ -75,17 +99,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Telekom bietet dynamischen Stromtarif von Rabot Energy mit Batteriespeicher an Die Deutsche Telekom nimmt in Kooperation mit Rabot Energy drei Stromtarife in ihr Angebot auf. Stromlieferant und Vertragspartner ist Rabot Energy. Neben zwei Fixpreistarifen gibt es einen dynamischen Tarif mit Preisobergrenze, der sich optional mit einem kleinen Batteriespeicher kombinieren lässt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5cfa8f1c06cd1a3a574ebac0",
-      "title": "Bundesnetzagentur beschließt MiSpeL-Regeln für Speicher und bidirektionales Laden",
-      "url": "https://www.pv-magazine.de/2026/10/01/bundesnetzagentur-beschliesst-mispel-regeln-fuer-speicher-und-bidirektionales-laden/",
-      "published_at": "2026-10-01T08:25:33Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Bundesnetzagentur beschließt MiSpeL-Regeln für Speicher und bidirektionales Laden Die Bundesnetzagentur hat am Donnerstag die Festlegung zur Marktintegration von Stromspeichern und Ladepunkten beschlossen. Damit können Speicher künftig Solar- und Netzstrom aufnehmen, ohne dass für den zwischengespeicherten Solarstrom die EEG-Förderung verloren geht. Für Haushalte mit Photovoltaik-Anlagen bis 30 Ki",
       "tags": [],
       "regions": []
     },
@@ -108,17 +121,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Batteriespeicher-Boom lockt Spekulanten Große Batteriefarmen speichern Strom aus erneuerbaren Energien für die spätere Abgabe in die Netze. Das verspricht viel Geld und lockt Spekulanten an.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c684405dd8ebd70b1cb455e0",
-      "title": "Voltfang und Mangold Energy öffnen Großspeicher-Projekt für Privatanleger",
-      "url": "https://www.pv-magazine.de/2026/09/30/voltfang-und-mangold-energy-oeffnen-grossspeicher-projekt-fuer-privatanleger/",
-      "published_at": "2026-09-30T12:01:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Voltfang und Mangold Energy öffnen Großspeicher-Projekt für Privatanleger Im nordrhein-westfälischen Alsdorf entsteht ein Batteriespeicherpark, bei dem Privatpersonen einzelne Speichereinheiten direkt erwerben können. Insgesamt sind 50 Einheiten mit jeweils 100 Kilowatt Leistung und 261 Kilowattstunden Kapazität vorgesehen. Voltfang übernimmt den technischen Betrieb, Mangold Energy die Vermarktung",
       "tags": [],
       "regions": []
     }
