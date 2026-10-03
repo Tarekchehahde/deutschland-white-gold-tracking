@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "0104a900a164efec989592bf",
+      "title": "Das E-Auto als Powerbank – jetzt geht es richtig los",
+      "url": "https://www.spiegel.de/mobilitaet/auto/das-e-auto-als-powerbank-jetzt-geht-es-richtig-los-a-56a73077-1e6a-40d1-a3bc-8c16082c9530",
+      "published_at": "2026-10-03T06:20:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Das E-Auto als Powerbank – jetzt geht es richtig los Seit Anfang Oktober gelten für das Laden von Elektroautos neue Regeln – sie haben revolutionäres Potenzial: Millionen Speicher könnten künftig das Stromnetz stabilisieren, wenn Wind und Sonne fehlen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "2e62246c4c0ace2dc8f593c2",
       "title": "Surevive: Batteriespeicher übernehmen Systemverantwortung",
       "url": "https://www.pv-magazine.de/2026/10/02/surevive-batteriespeicher-uebernehmen-systemverantwortung/",
@@ -88,28 +99,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Batteriewerk für eine Milliarde Euro: BMW startet Serienproduktion Im niederbayerischen Irlbach baut BMW jetzt Hochvoltakkus für alle deutschen BMW-Werke. Dank hoher Nachfrage beginnt die Fertigung schon im Zweischichtbetrieb.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a1cb55c7593f885caa441843",
-      "title": "Heimspeicher künftig mit Netzstrom laden und EEG-Förderung behalten",
-      "url": "https://www.heise.de/news/Bundesnetzagentur-erlaubt-flexible-Nutzung-von-Stromspeichern-mit-EEG-Foerderung-11472565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-10-01T10:59:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Heimspeicher künftig mit Netzstrom laden und EEG-Förderung behalten Die Bundesnetzagentur beschließt mit MiSpeL neue Regeln: Batteriespeicher können künftig Solar- und Netzstrom flexibel nutzen, ohne die Förderung zu verlieren.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "844482e33ea73034965e8601",
-      "title": "BMW plant kompaktes Elektroauto für Europa und kappt Managementstellen",
-      "url": "https://www.heise.de/news/BMW-kuerzt-Modellpalette-und-setzt-KI-fuer-hoehere-Profitabilitaet-ein-11472601.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-10-01T10:55:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "BMW plant kompaktes Elektroauto für Europa und kappt Managementstellen BMW will mit weniger Modellen, Managementabbau, dem Einsatz von KI und einem neuen Elektroauto zurück zu alter Stärke. Den 2er Active Tourer trifft es zuerst.",
       "tags": [],
       "regions": []
     }

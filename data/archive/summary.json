@@ -1,17 +1,28 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-02T22:15:24Z",
+  "generated_at_utc": "2026-10-03T10:24:36Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 750,
+  "total_in_archive": 751,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 18
+    "2026-10": 19
   },
   "recent_for_ui": [
+    {
+      "id": "0104a900a164efec989592bf",
+      "title": "Das E-Auto als Powerbank – jetzt geht es richtig los",
+      "url": "https://www.spiegel.de/mobilitaet/auto/das-e-auto-als-powerbank-jetzt-geht-es-richtig-los-a-56a73077-1e6a-40d1-a3bc-8c16082c9530",
+      "published_at": "2026-10-03T06:20:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Das E-Auto als Powerbank – jetzt geht es richtig los Seit Anfang Oktober gelten für das Laden von Elektroautos neue Regeln – sie haben revolutionäres Potenzial: Millionen Speicher könnten künftig das Stromnetz stabilisieren, wenn Wind und Sonne fehlen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "2e62246c4c0ace2dc8f593c2",
       "title": "Surevive: Batteriespeicher übernehmen Systemverantwortung",
@@ -4544,19 +4555,6 @@
       "language": "de",
       "summary": "Laufrad: Tesla verkauft Fahrrad für 225 Dollar Tesla erweitert sein Sortiment um ein motorloses Laufrad für Kleinkinder, komplett im Markendesign und mit stolzem Preis. ( Tesla , Elektroauto )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c197366d94c083b2af4b1ce3",
-      "title": "Erste Fahrt im Zeekr 7: Nur nicht mit 007 anlegen",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/zeekr-7gt-im-test-das-elektroauto-mit-100-kwh-akku-accg-201009824.html",
-      "published_at": "2026-07-18T12:33:35Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Erste Fahrt im Zeekr 7: Nur nicht mit 007 anlegen Ein ungewohnter Anbieter von Elektroautos nach dem anderen, man kommt ja kaum noch nach. Aber wir sind natürlich neugierig. Erste Probefahrt mit dem elektrischen Zeekr 7GT und seinem üppigen 100-kWh-Akku.",
-      "tags": [
-        "exploration"
-      ],
       "regions": []
     }
   ]
