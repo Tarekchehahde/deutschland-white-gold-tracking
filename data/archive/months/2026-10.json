@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 18,
+  "article_count": 19,
   "articles": [
+    {
+      "id": "0104a900a164efec989592bf",
+      "title": "Das E-Auto als Powerbank – jetzt geht es richtig los",
+      "url": "https://www.spiegel.de/mobilitaet/auto/das-e-auto-als-powerbank-jetzt-geht-es-richtig-los-a-56a73077-1e6a-40d1-a3bc-8c16082c9530",
+      "published_at": "2026-10-03T06:20:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Das E-Auto als Powerbank – jetzt geht es richtig los Seit Anfang Oktober gelten für das Laden von Elektroautos neue Regeln – sie haben revolutionäres Potenzial: Millionen Speicher könnten künftig das Stromnetz stabilisieren, wenn Wind und Sonne fehlen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "2e62246c4c0ace2dc8f593c2",
       "title": "Surevive: Batteriespeicher übernehmen Systemverantwortung",
