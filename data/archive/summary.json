@@ -1,17 +1,39 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-03T21:16:52Z",
+  "generated_at_utc": "2026-10-04T11:06:22Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 751,
+  "total_in_archive": 753,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 19
+    "2026-10": 21
   },
   "recent_for_ui": [
+    {
+      "id": "c650ac2a505cd84d473eb047",
+      "title": "Neustart bei Porsche: Autos, die keiner braucht",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-in-der-krise-michael-leiters-riskanter-verbrenner-kurs-accg-201268752.html",
+      "published_at": "2026-10-04T10:26:18Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Neustart bei Porsche: Autos, die keiner braucht Die Krise von Porsche zeigt: Sportwagenfans haben keine Lust auf Elektroautos. Jetzt lässt der neue Chef mehr Verbrenner-Autos entwickeln. So riskiert er, die nächste Generation von Kunden zu verlieren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6e00db250d32c99ac2a7f438",
+      "title": "Elektromobilität: Auf dem Land weiter Nachholbedarf bei öffentlichen Ladepunkten",
+      "url": "https://www.sueddeutsche.de/wirtschaft/ladesaeulen-e-autos-elektromobilitaet-ladepunkte-ladeinfrastruktur-li.3558156",
+      "published_at": "2026-10-04T09:04:58Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Auf dem Land weiter Nachholbedarf bei öffentlichen Ladepunkten Die Zahl der Ladepunkte für E-Autos steigt stark. Auf dem Land ist allerdings vielerorts noch Luft nach oben.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "0104a900a164efec989592bf",
       "title": "Das E-Auto als Powerbank – jetzt geht es richtig los",
@@ -4532,28 +4554,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Tesla peilt in Deutschland Expansion an Die Nachfrage nach Elektroautos zieht wieder an. Das gibt dem Autohersteller Tesla Rückenwind für seine Produktionspläne.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a9fa452121c70e9c4490d065",
-      "title": "Tesla peilt in Deutschland Expansion an: Produktion soll deutlich steigen",
-      "url": "https://www.rnd.de/wirtschaft/tesla-peilt-in-deutschland-expansion-an-produktion-soll-deutlich-steigen-WTHRYZWSRFBPJJEK2LDGUKR6T4.html",
-      "published_at": "2026-07-19T05:21:23Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Tesla peilt in Deutschland Expansion an: Produktion soll deutlich steigen Die Nachfrage nach Elektroautos zieht wieder an. Das gibt dem Autobauer Tesla Rückenwind für seine Produktionspläne. Wie lief das vergangene Jahr, wie ist die Prognose?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c5b311974f045f060903c670",
-      "title": "Laufrad: Tesla verkauft Fahrrad für 225 Dollar",
-      "url": "https://www.golem.de/news/laufrad-tesla-verkauft-fahrrad-fuer-225-dollar-2607-211032.html",
-      "published_at": "2026-07-18T12:53:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Laufrad: Tesla verkauft Fahrrad für 225 Dollar Tesla erweitert sein Sortiment um ein motorloses Laufrad für Kleinkinder, komplett im Markendesign und mit stolzem Preis. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     }
