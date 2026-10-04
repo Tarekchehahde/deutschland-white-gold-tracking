@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "c650ac2a505cd84d473eb047",
+      "title": "Neustart bei Porsche: Autos, die keiner braucht",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-in-der-krise-michael-leiters-riskanter-verbrenner-kurs-accg-201268752.html",
+      "published_at": "2026-10-04T10:26:18Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Neustart bei Porsche: Autos, die keiner braucht Die Krise von Porsche zeigt: Sportwagenfans haben keine Lust auf Elektroautos. Jetzt lässt der neue Chef mehr Verbrenner-Autos entwickeln. So riskiert er, die nächste Generation von Kunden zu verlieren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6e00db250d32c99ac2a7f438",
+      "title": "Elektromobilität: Auf dem Land weiter Nachholbedarf bei öffentlichen Ladepunkten",
+      "url": "https://www.sueddeutsche.de/wirtschaft/ladesaeulen-e-autos-elektromobilitaet-ladepunkte-ladeinfrastruktur-li.3558156",
+      "published_at": "2026-10-04T09:04:58Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Auf dem Land weiter Nachholbedarf bei öffentlichen Ladepunkten Die Zahl der Ladepunkte für E-Autos steigt stark. Auf dem Land ist allerdings vielerorts noch Luft nach oben.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "2e62246c4c0ace2dc8f593c2",
       "title": "Surevive: Batteriespeicher übernehmen Systemverantwortung",
       "url": "https://www.pv-magazine.de/2026/10/02/surevive-batteriespeicher-uebernehmen-systemverantwortung/",
@@ -56,39 +78,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "0079e0a3a0f957f13091a4cb",
-      "title": "Leapmotor iC10 im Test: Mehr Kurvenspaß, aber weniger Komfort im Alltag",
-      "url": "https://www.golem.de/news/leapmotor-ic10-im-test-mehr-kurvenspass-aber-weniger-komfort-im-alltag-2610-213586.html",
-      "published_at": "2026-10-02T07:30:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Leapmotor iC10 im Test: Mehr Kurvenspaß, aber weniger Komfort im Alltag Mit dem iC10 zeigt Leapmotor, dass auch ein Elektro-SUV über die reine Leistung hinaus sportlich sein kann - dank des Sportfahrwerks. Ein Test von Tobias Költzsch ( Leapmotor , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c64ad71639b0117d12471922",
-      "title": "Elektroauto: Serienproduktion in neuem Batteriewerk von BMW gestartet",
-      "url": "https://www.golem.de/news/elektroauto-serienproduktion-in-neuem-batteriewerk-von-bmw-gestartet-2610-213640.html",
-      "published_at": "2026-10-02T07:15:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Serienproduktion in neuem Batteriewerk von BMW gestartet Im Batteriewerk Irlberg-Straßkirchen wird zunächst die Batterie für den neuen BMW i3 gefertigt. ( BMW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7c10131eb830f05f73aa9063",
-      "title": "Batteriewerk für eine Milliarde Euro: BMW startet Serienproduktion",
-      "url": "https://www.heise.de/news/BMW-nimmt-Batteriefertigung-im-neuen-Werk-Irlbach-Strasskirchen-auf-11472845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-10-01T13:20:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Batteriewerk für eine Milliarde Euro: BMW startet Serienproduktion Im niederbayerischen Irlbach baut BMW jetzt Hochvoltakkus für alle deutschen BMW-Werke. Dank hoher Nachfrage beginnt die Fertigung schon im Zweischichtbetrieb.",
-      "tags": [],
       "regions": []
     }
   ]

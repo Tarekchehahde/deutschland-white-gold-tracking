@@ -2,6 +2,28 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "c650ac2a505cd84d473eb047",
+      "title": "Neustart bei Porsche: Autos, die keiner braucht",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-in-der-krise-michael-leiters-riskanter-verbrenner-kurs-accg-201268752.html",
+      "published_at": "2026-10-04T10:26:18Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Neustart bei Porsche: Autos, die keiner braucht Die Krise von Porsche zeigt: Sportwagenfans haben keine Lust auf Elektroautos. Jetzt lässt der neue Chef mehr Verbrenner-Autos entwickeln. So riskiert er, die nächste Generation von Kunden zu verlieren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6e00db250d32c99ac2a7f438",
+      "title": "Elektromobilität: Auf dem Land weiter Nachholbedarf bei öffentlichen Ladepunkten",
+      "url": "https://www.sueddeutsche.de/wirtschaft/ladesaeulen-e-autos-elektromobilitaet-ladepunkte-ladeinfrastruktur-li.3558156",
+      "published_at": "2026-10-04T09:04:58Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: Auf dem Land weiter Nachholbedarf bei öffentlichen Ladepunkten Die Zahl der Ladepunkte für E-Autos steigt stark. Auf dem Land ist allerdings vielerorts noch Luft nach oben.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "0104a900a164efec989592bf",
       "title": "Das E-Auto als Powerbank – jetzt geht es richtig los",
       "url": "https://www.spiegel.de/mobilitaet/auto/das-e-auto-als-powerbank-jetzt-geht-es-richtig-los-a-56a73077-1e6a-40d1-a3bc-8c16082c9530",
