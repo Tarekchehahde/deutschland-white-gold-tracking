@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 21,
+  "article_count": 22,
   "articles": [
+    {
+      "id": "5bf29d5ebbe584125f7df3ae",
+      "title": "Elon Musk räumt ein: Teslas Robotaxis sehen nachts zu wenig",
+      "url": "https://www.golem.de/news/elon-musk-raeumt-ein-teslas-robotaxis-sehen-nachts-zu-wenig-2610-213685.html",
+      "published_at": "2026-10-04T13:05:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elon Musk räumt ein: Teslas Robotaxis sehen nachts zu wenig Elon Musk hat Angst, dass Teslas Robotaxis Katzen überfahren. Grund dafür ist seine Haltung zur Sensorik. Lösen soll das Problem KI. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c650ac2a505cd84d473eb047",
       "title": "Neustart bei Porsche: Autos, die keiner braucht",
