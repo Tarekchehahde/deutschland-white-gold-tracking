@@ -1,17 +1,28 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-04T11:06:22Z",
+  "generated_at_utc": "2026-10-04T21:26:54Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 753,
+  "total_in_archive": 754,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 21
+    "2026-10": 22
   },
   "recent_for_ui": [
+    {
+      "id": "5bf29d5ebbe584125f7df3ae",
+      "title": "Elon Musk räumt ein: Teslas Robotaxis sehen nachts zu wenig",
+      "url": "https://www.golem.de/news/elon-musk-raeumt-ein-teslas-robotaxis-sehen-nachts-zu-wenig-2610-213685.html",
+      "published_at": "2026-10-04T13:05:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elon Musk räumt ein: Teslas Robotaxis sehen nachts zu wenig Elon Musk hat Angst, dass Teslas Robotaxis Katzen überfahren. Grund dafür ist seine Haltung zur Sensorik. Lösen soll das Problem KI. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c650ac2a505cd84d473eb047",
       "title": "Neustart bei Porsche: Autos, die keiner braucht",
@@ -4543,17 +4554,6 @@
       "source_id": "rp-online-wirtschaft",
       "language": "de",
       "summary": "3500 neue Arbeitsplätze geplant: Tesla will in Grünheide expandieren Der US-Elektroautobauer Tesla setzt dank der Steigerung von Nachfrage und Gewinn auf einen rasanten Ausbau der Produktion im deutschen Werk in Grünheide bei Berlin. Was genau ist geplant?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "25dd41f2b4660dd2ec12f3d0",
-      "title": "Tesla peilt in Deutschland Expansion an",
-      "url": "https://www.heise.de/news/Tesla-peilt-in-Deutschland-Expansion-an-11369992.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-19T09:17:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Tesla peilt in Deutschland Expansion an Die Nachfrage nach Elektroautos zieht wieder an. Das gibt dem Autohersteller Tesla Rückenwind für seine Produktionspläne.",
       "tags": [],
       "regions": []
     }

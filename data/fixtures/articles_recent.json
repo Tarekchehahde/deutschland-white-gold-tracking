@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "5bf29d5ebbe584125f7df3ae",
+      "title": "Elon Musk räumt ein: Teslas Robotaxis sehen nachts zu wenig",
+      "url": "https://www.golem.de/news/elon-musk-raeumt-ein-teslas-robotaxis-sehen-nachts-zu-wenig-2610-213685.html",
+      "published_at": "2026-10-04T13:05:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elon Musk räumt ein: Teslas Robotaxis sehen nachts zu wenig Elon Musk hat Angst, dass Teslas Robotaxis Katzen überfahren. Grund dafür ist seine Haltung zur Sensorik. Lösen soll das Problem KI. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "c650ac2a505cd84d473eb047",
       "title": "Neustart bei Porsche: Autos, die keiner braucht",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-in-der-krise-michael-leiters-riskanter-verbrenner-kurs-accg-201268752.html",
@@ -53,17 +64,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Solarauto: Aptera braucht 25 Millionen US-Dollar für Produktionsstart Das Solarauto-Startup braucht weniger Kapital für den Produktionsstart als bisher geglaubt. Die finanzielle Situation bleibt aber herausfordernd. ( Elektroauto , Solarenergie )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c666f70ac73ada66ae5f5e62",
-      "title": "Nach Schießerei: Tesla-Fahrer können im Notfall mit angeschlossenem Ladekabel wegfahren",
-      "url": "https://www.golem.de/news/nach-schiesserei-tesla-fahrer-koennen-im-notfall-mit-angeschlossenem-ladekabel-wegfahren-2610-213647.html",
-      "published_at": "2026-10-02T10:10:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Nach Schießerei: Tesla-Fahrer können im Notfall mit angeschlossenem Ladekabel wegfahren Tesla hat einen Notfall-Wegfahrmodus für seine Autos vorgestellt: Im Ernstfall können Tesla-Fahrer mit angeschlossenem Ladekabel losfahren. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     },
