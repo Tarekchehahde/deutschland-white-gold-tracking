@@ -1,17 +1,39 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-06T00:04:18Z",
+  "generated_at_utc": "2026-10-06T12:01:31Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 765,
+  "total_in_archive": 767,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 33
+    "2026-10": 35
   },
   "recent_for_ui": [
+    {
+      "id": "d821d06be01480265adfd113",
+      "title": "Fast 100.000 Elektroautos mit 432 Millionen Euro gefördert",
+      "url": "https://www.pv-magazine.de/2026/10/06/fast-100-000-elektroautos-mit-432-millionen-euro-gefoerdert/",
+      "published_at": "2026-10-06T08:24:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fast 100.000 Elektroautos mit 432 Millionen Euro gefördert Nach einem Zwischenbericht des BAFA sind die Kaufprämien für knapp 90.000 reine Elektroautos und gut 8000 Plug-in-Hybride bisher bewilligt. Kauf und Leasing halten sich die Waage. Besonders Einkommen bis 45.000 Euro haben die Prämie für die Anschaffung eines Elektroautos genutzt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "635941216e9bfba3cb0a3cb0",
+      "title": "Anzeige: Mobile Wallbox mit 11 kW, Zubehör und App am Prime Day zum neuen Bestpreis",
+      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-mit-11-kw-zubehoer-und-app-am-prime-day-zum-neuen-bestpreis-2610-213738.html",
+      "published_at": "2026-10-06T06:27:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Mobile Wallbox mit 11 kW, Zubehör und App am Prime Day zum neuen Bestpreis Ob Garage oder Ferienhaus, die dé Mobile Wallbox lädt E-Autos per App gesteuert mit bis zu 11 kW und ist zum Prime Day so günstig wie nie. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "6d9637af961918ae07040bb5",
       "title": "News des Tages: Rekord bei Neuzulassungen für Elektroautos, Sánchez kündigt Neuwahlen in Spanien, Medizin-Nobelpreis für zwei Deutsche",
@@ -4536,28 +4558,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "KI-Training: Tesla lässt Grünheide-Belegschaft für Roboter Optimus filmen Ausgewählte Tesla-Teams sollen Kameras am Arbeitsplatz tragen. Die Aufnahmen sollen dem Roboter Optimus beibringen, wie Menschen arbeiten. ( Gigafactory Berlin , Roboter )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "712f75dc72a47a96b25fd59f",
-      "title": "Autokonzerne im Rückzugsgefecht: Für die Deutschen stellt sich in China die Existenzfrage",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-bmw-und-mercedes-fuer-die-deutschen-stellt-sich-in-china-die-existenzfrage-accg-201035548.html",
-      "published_at": "2026-07-21T04:45:52Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Autokonzerne im Rückzugsgefecht: Für die Deutschen stellt sich in China die Existenzfrage Investieren oder aufgeben: Elektroautos made in Germany sind in China nicht gefragt. VW, BMW und Mercedes müssen ihre Strategie auf dem weltgrößten Automarkt revidieren – und denken sogar an das Äußerste.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4e1f64adbadf6e2c11a00b3b",
-      "title": "Autokonzerne im Rückzugsgefecht: Für die Deutschen stellt sich in China die Existenzfrage",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/autokrise-in-china-warum-deutsche-hersteller-um-ihre-zukunft-kaempfen-accg-201035548.html",
-      "published_at": "2026-07-21T04:45:52Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Autokonzerne im Rückzugsgefecht: Für die Deutschen stellt sich in China die Existenzfrage Investieren oder aufgeben: Elektroautos made in Germany sind in China nicht gefragt. VW, BMW und Mercedes müssen ihre Strategie auf dem weltgrößten Automarkt revidieren – und denken sogar an das Äußerste.",
       "tags": [],
       "regions": []
     }

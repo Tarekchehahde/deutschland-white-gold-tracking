@@ -2,39 +2,24 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "6d9637af961918ae07040bb5",
-      "title": "News des Tages: Rekord bei Neuzulassungen für Elektroautos, Sánchez kündigt Neuwahlen in Spanien, Medizin-Nobelpreis für zwei Deutsche",
-      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-rekord-bei-neuzulassungen-fuer-elektroautos-sanchez-kuendigt-neuwahlen-in-spanien-medizin-nobelpreis-fuer-zwei-deutsche-a-7e10d801-7db4-448c-8f36-a7f00e41d2f7",
-      "published_at": "2026-10-05T15:54:00Z",
-      "source_id": "spiegel-schlagzeilen",
+      "id": "d821d06be01480265adfd113",
+      "title": "Fast 100.000 Elektroautos mit 432 Millionen Euro gefördert",
+      "url": "https://www.pv-magazine.de/2026/10/06/fast-100-000-elektroautos-mit-432-millionen-euro-gefoerdert/",
+      "published_at": "2026-10-06T08:24:00Z",
+      "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "News des Tages: Rekord bei Neuzulassungen für Elektroautos, Sánchez kündigt Neuwahlen in Spanien, Medizin-Nobelpreis für zwei Deutsche Die Neuzulassung von Elektroautos erreicht einen Rekord. In Spanien haben geplante Gesetze gegen die Wohnungsnot die Regierung gesprengt. Und der Medizin-Nobelpreis geht an zwei Deutsche – und Markus Söder. Das ist die Lage am Montagabend.",
-      "tags": [
-        "politik"
-      ],
+      "summary": "Fast 100.000 Elektroautos mit 432 Millionen Euro gefördert Nach einem Zwischenbericht des BAFA sind die Kaufprämien für knapp 90.000 reine Elektroautos und gut 8000 Plug-in-Hybride bisher bewilligt. Kauf und Leasing halten sich die Waage. Besonders Einkommen bis 45.000 Euro haben die Prämie für die Anschaffung eines Elektroautos genutzt.",
+      "tags": [],
       "regions": []
     },
     {
-      "id": "34bfcbf1ea797e9e75f88d2e",
-      "title": "Elektroauto kaufen: Diese zehn Modelle wurden am häufigsten mit der Kaufprämie bezuschusst",
-      "url": "https://www.spiegel.de/mobilitaet/elektroauto-kaufen-diese-zehn-modelle-wurden-am-haeufigsten-mit-der-kaufpraemie-bezuschusst-a-59d50556-5e1f-467a-bb78-42975bd5e408",
-      "published_at": "2026-10-05T15:33:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Elektroauto kaufen: Diese zehn Modelle wurden am häufigsten mit der Kaufprämie bezuschusst Die staatliche E-Auto-Förderung der Bundesregierung richtet sich an Menschen mit mittlerem und geringem Einkommen. Am häufigsten wurde eine Prämie für das Tesla Model Y bewilligt.",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "f1e89e19eabc82138c30a06a",
-      "title": "Kein Test im Regen: Softwarebug legt Formel-1-Autos lahm und verzögert Rennstart",
-      "url": "https://www.golem.de/news/kein-test-im-regen-softwarebug-legt-formel-1-autos-lahm-und-verzoegert-rennstart-2610-213719.html",
-      "published_at": "2026-10-05T13:34:02Z",
+      "id": "635941216e9bfba3cb0a3cb0",
+      "title": "Anzeige: Mobile Wallbox mit 11 kW, Zubehör und App am Prime Day zum neuen Bestpreis",
+      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-mit-11-kw-zubehoer-und-app-am-prime-day-zum-neuen-bestpreis-2610-213738.html",
+      "published_at": "2026-10-06T06:27:01Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Kein Test im Regen: Softwarebug legt Formel-1-Autos lahm und verzögert Rennstart Um ein Formel-1-Rennen fortsetzen zu können, haben die Teams ein Softwareupdate auf den Fahrzeugen installieren müssen. ( Formel 1 , Elektroauto )",
+      "summary": "Anzeige: Mobile Wallbox mit 11 kW, Zubehör und App am Prime Day zum neuen Bestpreis Ob Garage oder Ferienhaus, die dé Mobile Wallbox lädt E-Autos per App gesteuert mit bis zu 11 kW und ist zum Prime Day so günstig wie nie. ( Elektromobilität , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -49,17 +34,6 @@
       "tags": [
         "politik"
       ],
-      "regions": []
-    },
-    {
-      "id": "37a52b24362b9a6b42ebcccc",
-      "title": "Tesla boomt wieder: Mehr als jeder dritte Neuwagen vollelektrisch",
-      "url": "https://www.golem.de/news/tesla-boomt-wieder-mehr-als-jeder-dritte-neuwagen-vollelektrisch-2610-213709.html",
-      "published_at": "2026-10-05T10:53:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla boomt wieder: Mehr als jeder dritte Neuwagen vollelektrisch Schon 100.000 Haushalte profitieren von der Kaufprämie für E-Autos. Vor allem Teslas Verkaufszahlen sind im September 2026 stark angestiegen. ( Elektroauto , Tesla )",
-      "tags": [],
       "regions": []
     },
     {
@@ -96,17 +70,6 @@
       "regions": []
     },
     {
-      "id": "a33aba339138ee91ffd92fb6",
-      "title": "Grünstromspeicher an Windparks: Was im Vergleich zu Photovoltaik anders ist",
-      "url": "https://www.pv-magazine.de/2026/10/05/gruenstromspeicher-an-windparks-was-im-vergleich-zu-photovoltaik-anders-ist/",
-      "published_at": "2026-10-05T07:12:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Grünstromspeicher an Windparks: Was im Vergleich zu Photovoltaik anders ist Batteriespeicher an Solar- und Windparks – sogenannte Grünstromspeicher – gehören bei der Projektplanung zunehmend zum festen Bestandteil. Sie ermöglichen es, erneuerbare Erzeugung zeitlich zu verschieben, negative Preisphasen abzufedern und zusätzliche Vermarktungsspielräume zu erschließen. Doch obwohl Grünstromspeicher b",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "c650ac2a505cd84d473eb047",
       "title": "Neustart bei Porsche: Autos, die keiner braucht",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-in-der-krise-michael-leiters-riskanter-verbrenner-kurs-accg-201268752.html",
@@ -114,28 +77,6 @@
       "source_id": "faz-aktuell",
       "language": "de",
       "summary": "Neustart bei Porsche: Autos, die keiner braucht Die Krise von Porsche zeigt: Sportwagenfans haben keine Lust auf Elektroautos. Jetzt lässt der neue Chef mehr Verbrenner-Autos entwickeln. So riskiert er, die nächste Generation von Kunden zu verlieren.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5e23bab97bce0ff2e23817b6",
-      "title": "Elektromobilität: Auf dem Land weiter Nachholbedarf bei öffentlichen Ladepunkten",
-      "url": "https://www.sueddeutsche.de/wirtschaft/ladesaeulen-e-autos-elektromobilitaet-infrastruktur-orte-probleme-li.3558156",
-      "published_at": "2026-10-04T09:04:58Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "Elektromobilität: Auf dem Land weiter Nachholbedarf bei öffentlichen Ladepunkten Die Zahl der Ladepunkte für E-Autos steigt stark. Auf dem Land ist allerdings vielerorts noch Luft nach oben.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2e62246c4c0ace2dc8f593c2",
-      "title": "Surevive: Batteriespeicher übernehmen Systemverantwortung",
-      "url": "https://www.pv-magazine.de/2026/10/02/surevive-batteriespeicher-uebernehmen-systemverantwortung/",
-      "published_at": "2026-10-02T14:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Surevive: Batteriespeicher übernehmen Systemverantwortung Ein Konsortium erprobt die Nutzung netzbildender Wechselrichter von Batteriegroßspeichern auf Verteilnetzebene. Diese Aufgabe können – und müssen – solche Anlagen bald in großem Umfang übernehmen.",
       "tags": [],
       "regions": []
     }
