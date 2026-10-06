@@ -2,6 +2,56 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "6d9637af961918ae07040bb5",
+      "title": "News des Tages: Rekord bei Neuzulassungen für Elektroautos, Sánchez kündigt Neuwahlen in Spanien, Medizin-Nobelpreis für zwei Deutsche",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-rekord-bei-neuzulassungen-fuer-elektroautos-sanchez-kuendigt-neuwahlen-in-spanien-medizin-nobelpreis-fuer-zwei-deutsche-a-7e10d801-7db4-448c-8f36-a7f00e41d2f7",
+      "published_at": "2026-10-05T15:54:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "News des Tages: Rekord bei Neuzulassungen für Elektroautos, Sánchez kündigt Neuwahlen in Spanien, Medizin-Nobelpreis für zwei Deutsche Die Neuzulassung von Elektroautos erreicht einen Rekord. In Spanien haben geplante Gesetze gegen die Wohnungsnot die Regierung gesprengt. Und der Medizin-Nobelpreis geht an zwei Deutsche – und Markus Söder. Das ist die Lage am Montagabend.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "34bfcbf1ea797e9e75f88d2e",
+      "title": "Elektroauto kaufen: Diese zehn Modelle wurden am häufigsten mit der Kaufprämie bezuschusst",
+      "url": "https://www.spiegel.de/mobilitaet/elektroauto-kaufen-diese-zehn-modelle-wurden-am-haeufigsten-mit-der-kaufpraemie-bezuschusst-a-59d50556-5e1f-467a-bb78-42975bd5e408",
+      "published_at": "2026-10-05T15:33:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto kaufen: Diese zehn Modelle wurden am häufigsten mit der Kaufprämie bezuschusst Die staatliche E-Auto-Förderung der Bundesregierung richtet sich an Menschen mit mittlerem und geringem Einkommen. Am häufigsten wurde eine Prämie für das Tesla Model Y bewilligt.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "f1e89e19eabc82138c30a06a",
+      "title": "Kein Test im Regen: Softwarebug legt Formel-1-Autos lahm und verzögert Rennstart",
+      "url": "https://www.golem.de/news/kein-test-im-regen-softwarebug-legt-formel-1-autos-lahm-und-verzoegert-rennstart-2610-213719.html",
+      "published_at": "2026-10-05T13:34:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Kein Test im Regen: Softwarebug legt Formel-1-Autos lahm und verzögert Rennstart Um ein Formel-1-Rennen fortsetzen zu können, haben die Teams ein Softwareupdate auf den Fahrzeugen installieren müssen. ( Formel 1 , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1756164532676f41251cd47c",
+      "title": "Schon 100.000 Förderanträge: Drei Lehren aus dem E-Auto-Boom",
+      "url": "https://rp-online.de/wirtschaft/e-autos-und-tankrabatt-koalition-muss-sich-entscheiden_aid-155967481",
+      "published_at": "2026-10-05T13:24:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Schon 100.000 Förderanträge: Drei Lehren aus dem E-Auto-Boom Die Elektromobilität kommt voran, das ist auch ein Erfolg der Bundesregierung. Doch dass sie einerseits E-Autos unterstützt und andererseits Diesel und Benzin per Tankrabatt fördert, ist ein Widerspruch. Sie muss sich entscheiden.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
       "id": "37a52b24362b9a6b42ebcccc",
       "title": "Tesla boomt wieder: Mehr als jeder dritte Neuwagen vollelektrisch",
       "url": "https://www.golem.de/news/tesla-boomt-wieder-mehr-als-jeder-dritte-neuwagen-vollelektrisch-2610-213709.html",
