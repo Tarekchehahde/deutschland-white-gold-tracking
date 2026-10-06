@@ -2,14 +2,14 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-10-04": 1,
-    "2026-10-05": 4,
-    "2026-10-06": 2
+    "2026-10-05": 3,
+    "2026-10-06": 4
   },
   "tag_counts": {
-    "politik": 1
+    "politik": 2
   },
   "by_source_category": {
-    "national": 6,
+    "national": 7,
     "regional": 1
   }
 }

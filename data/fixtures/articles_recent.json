@@ -2,6 +2,41 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "1543cedc5ab79371f6f38bb3",
+      "title": "Toyota bZ4X: Nächster Versuch",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/der-neue-toyota-bz4x-im-test-201252871.html",
+      "published_at": "2026-10-06T15:10:20Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Toyota bZ4X: Nächster Versuch Das erste Elektroauto von Toyota auf dem deutschen Markt enttäuschte Kunden und Fachpresse. Also auf ein Neues. Der Name ist der alte: bZ4X, die Technik grundlegend überarbeitet.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5f3626eaf1a3128963cdefc8",
+      "title": "FSD Supervised: Bundesverkehrsminister will Zulassung von Teslas Fahrassistenten",
+      "url": "https://www.golem.de/news/fsd-supervised-bundesverkehrsminister-will-zulassung-von-teslas-fahrassistenten-2610-213778.html",
+      "published_at": "2026-10-06T14:47:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "FSD Supervised: Bundesverkehrsminister will Zulassung von Teslas Fahrassistenten Bundesverkehrsminister Steffen Bilger ist offenbar von Teslas FSD Supervised überzeugt. Das System solle in der EU zugelassen werden. ( Tesla , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "e963f5abd0efd483f80b6850",
+      "title": "SH Netz veröffentlicht verschiedene FCA-Musterverträge",
+      "url": "https://www.pv-magazine.de/2026/10/06/sh-netz-veroeffentlicht-verschiedene-fca-mustervertraege/",
+      "published_at": "2026-10-06T14:01:33Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "SH Netz veröffentlicht verschiedene FCA-Musterverträge Es handelt sich um Musterverträge für flexible Netzanschlussvereinbarungen für Stand-alone-Batteriespeicher, Co-Location-Batteriespeicher mit Überbauung sowie flexible Großverbraucher auf der Bezugsseite. SH Netz setzt zudem künftig auch auf ein neues Zuteilungsverfahren für freie Netzanschlusskapazitäten, an dem alle Batteriespeichervorhaben ",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "d821d06be01480265adfd113",
       "title": "Fast 100.000 Elektroautos mit 432 Millionen Euro gefördert",
       "url": "https://www.pv-magazine.de/2026/10/06/fast-100-000-elektroautos-mit-432-millionen-euro-gefoerdert/",
@@ -9,17 +44,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Fast 100.000 Elektroautos mit 432 Millionen Euro gefördert Nach einem Zwischenbericht des BAFA sind die Kaufprämien für knapp 90.000 reine Elektroautos und gut 8000 Plug-in-Hybride bisher bewilligt. Kauf und Leasing halten sich die Waage. Besonders Einkommen bis 45.000 Euro haben die Prämie für die Anschaffung eines Elektroautos genutzt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "635941216e9bfba3cb0a3cb0",
-      "title": "Anzeige: Mobile Wallbox mit 11 kW, Zubehör und App am Prime Day zum neuen Bestpreis",
-      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-mit-11-kw-zubehoer-und-app-am-prime-day-zum-neuen-bestpreis-2610-213738.html",
-      "published_at": "2026-10-06T06:27:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Mobile Wallbox mit 11 kW, Zubehör und App am Prime Day zum neuen Bestpreis Ob Garage oder Ferienhaus, die dé Mobile Wallbox lädt E-Autos per App gesteuert mit bis zu 11 kW und ist zum Prime Day so günstig wie nie. ( Elektromobilität , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -55,17 +79,6 @@
       "source_id": "tagesschau-wirtschaft",
       "language": "de",
       "summary": "E-Autos boomen bei deutschen Käufern Die hohen Spritpreise lassen offenbar viele Menschen umdenken: Mehr als jedes dritte neu zugelassene Auto war zuletzt ein Elektroauto. Die Zulassungen von Benzin- und Dieselautos brachen dagegen ein.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "edca7f8c1be515928cf0bc12",
-      "title": "Maxsolar erhält Finanzierung über 155 Millionen Euro",
-      "url": "https://www.pv-magazine.de/2026/10/05/maxsolar-erhaelt-finanzierung-ueber-155-millionen-euro/",
-      "published_at": "2026-10-05T09:22:02Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Maxsolar erhält Finanzierung über 155 Millionen Euro Die Mittel stammen von Fonds, die Copenhagen Infrastructure Partners verwaltet. Das Kapital dient zum einen der Refinanzierung, zum anderen Projektinvestitionen. Das Portfolio umfasst 912 Megawatt Photovoltaik- und 379 Megawatt Batteriespeicher-Leistung.",
       "tags": [],
       "regions": []
     },
