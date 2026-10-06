@@ -1,8 +1,43 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 35,
+  "article_count": 38,
   "articles": [
+    {
+      "id": "1543cedc5ab79371f6f38bb3",
+      "title": "Toyota bZ4X: Nächster Versuch",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/der-neue-toyota-bz4x-im-test-201252871.html",
+      "published_at": "2026-10-06T15:10:20Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Toyota bZ4X: Nächster Versuch Das erste Elektroauto von Toyota auf dem deutschen Markt enttäuschte Kunden und Fachpresse. Also auf ein Neues. Der Name ist der alte: bZ4X, die Technik grundlegend überarbeitet.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5f3626eaf1a3128963cdefc8",
+      "title": "FSD Supervised: Bundesverkehrsminister will Zulassung von Teslas Fahrassistenten",
+      "url": "https://www.golem.de/news/fsd-supervised-bundesverkehrsminister-will-zulassung-von-teslas-fahrassistenten-2610-213778.html",
+      "published_at": "2026-10-06T14:47:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "FSD Supervised: Bundesverkehrsminister will Zulassung von Teslas Fahrassistenten Bundesverkehrsminister Steffen Bilger ist offenbar von Teslas FSD Supervised überzeugt. Das System solle in der EU zugelassen werden. ( Tesla , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "e963f5abd0efd483f80b6850",
+      "title": "SH Netz veröffentlicht verschiedene FCA-Musterverträge",
+      "url": "https://www.pv-magazine.de/2026/10/06/sh-netz-veroeffentlicht-verschiedene-fca-mustervertraege/",
+      "published_at": "2026-10-06T14:01:33Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "SH Netz veröffentlicht verschiedene FCA-Musterverträge Es handelt sich um Musterverträge für flexible Netzanschlussvereinbarungen für Stand-alone-Batteriespeicher, Co-Location-Batteriespeicher mit Überbauung sowie flexible Großverbraucher auf der Bezugsseite. SH Netz setzt zudem künftig auch auf ein neues Zuteilungsverfahren für freie Netzanschlusskapazitäten, an dem alle Batteriespeichervorhaben ",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d821d06be01480265adfd113",
       "title": "Fast 100.000 Elektroautos mit 432 Millionen Euro gefördert",
