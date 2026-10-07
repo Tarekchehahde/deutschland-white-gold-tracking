@@ -2,6 +2,50 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "0d4b9d52a02fc2edbcee7eba",
+      "title": "BMW iX4 und iX3 M60 xDrive: Coupé- und leistungsstarke M-Version des iX3 vorgestellt",
+      "url": "https://www.golem.de/news/bmw-ix4-und-ix3-m60-xdrive-coupe-und-leistungsstarke-m-version-des-ix3-vorgestellt-2610-213847.html",
+      "published_at": "2026-10-07T22:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "BMW iX4 und iX3 M60 xDrive: Coupé- und leistungsstarke M-Version des iX3 vorgestellt BMW erweitert sein Angebot des vollelektrischen iX3. Die Schrägheckversion kommt noch etwas weiter als das SUV, ist aber teurer ausgestattet. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7a456ce3b36e88aa87cdc1d6",
+      "title": "Porsches E-Rückzug: Kurzfristig richtig, langfristig riskant",
+      "url": "https://www.golem.de/news/porsches-e-rueckzug-kurzfristig-richtig-langfristig-riskant-2610-213826.html",
+      "published_at": "2026-10-07T14:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Porsches E-Rückzug: Kurzfristig richtig, langfristig riskant Porsche will wieder mehr Geld pro Auto verdienen und setzt auf teurere Modelle mit Verbrennungsmotor und Hybrid-Antrieb. Eine Strategie, die zum Problem werden könnte. Eine Analyse von Dirk Kunde ( Porsche , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e63c5805c8b25bf1f2e55ceb",
+      "title": "Elektro-Kleinwagen: GTI-Version des VW ID.Polo startet bei 40.000 Euro",
+      "url": "https://www.golem.de/news/elektro-kleinwagen-gti-version-des-vw-id-polo-startet-bei-40-000-euro-2610-213824.html",
+      "published_at": "2026-10-07T13:36:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektro-Kleinwagen: GTI-Version des VW ID.Polo startet bei 40.000 Euro VW bietet mit dem ID.Polo erstmals eine vollelektrische GTI-Version an. Die Höchstgeschwindigkeit wurde auf Wunsch der Kunden erhöht. ( Elektroauto , Technologie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0fefac697fc99d6964250567",
+      "title": "Langzeitspeicher: Zwei Länder, eine Versorgungslücke",
+      "url": "https://www.pv-magazine.de/2026/10/07/langzeitspeicher-zwei-laender-eine-versorgungsluecke/",
+      "published_at": "2026-10-07T12:51:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Langzeitspeicher: Zwei Länder, eine Versorgungslücke Großbritannien schafft mit einem Cap-and-Floor-Modell einen Markt für Batteriespeicher mit bis zu 18 Stunden Entladedauer. Deutschland steht vor einer ähnlichen Versorgungslücke, doch das StromVKG ist so ausgestaltet, dass Speicher kaum zum Zuge kommen dürften. Der Vergleich zeigt, wie unterschiedlich zwei Länder dieselbe Aufgabe angehen – und w",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "68316247d7844fdd41bfa23c",
       "title": "Morreon bietet KI-Plattform zur beschleunigten Planung von Batteriespeichern an",
       "url": "https://www.pv-magazine.de/2026/10/07/morreon-bietet-ki-plattform-zur-beschleunigten-planung-von-batteriespeichern-an/",
@@ -35,38 +79,14 @@
       "regions": []
     },
     {
-      "id": "733e30d3107866c101a379a6",
-      "title": "Zeekr 9X: Luxus-SUV mit Kino und Range Extender",
-      "url": "https://www.golem.de/news/zeekr-9x-luxus-suv-mit-kino-und-range-extender-2610-213761.html",
-      "published_at": "2026-10-07T06:57:02Z",
-      "source_id": "golem-rss",
+      "id": "364f89d1c1e96511f642a747",
+      "title": "Elektroautos: BYD hängt den Rivalen Tesla ab",
+      "url": "https://www.faz.net/premium/digitalwirtschaft/kuenstliche-intelligenz/byd-ueberholt-den-erzrivalen-tesla-rekordzahlen-bei-elektroautos-accg-201293753.html",
+      "published_at": "2026-10-07T04:50:00Z",
+      "source_id": "faz-aktuell",
       "language": "de",
-      "summary": "Zeekr 9X: Luxus-SUV mit Kino und Range Extender Mit dem Zeekr 9X greift die Geely-Marke etablierte Luxus-SUVs an. Sein Antrieb kombiniert elektrisches Fahren mit Plug-in-Hybrid und Range Extender. Ein Bericht von Dirk Kunde ( Auto , Elektroauto )",
+      "summary": "Elektroautos: BYD hängt den Rivalen Tesla ab Mit einer konsequenten Exportstrategie baut BYD seinen Vorsprung auf Tesla weiter aus. Wachstum finden die Hersteller von Elektroautos derzeit nur noch in Europa und in einigen Schwellenländern.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0dd8158f6b21f6aa1c1538e5",
-      "title": "Tesla: Abgelehnter Bewerber verschickt Schweineaugen",
-      "url": "https://www.golem.de/news/tesla-abgelehnter-bewerber-verschickt-schweineaugen-2610-213787.html",
-      "published_at": "2026-10-07T05:50:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla: Abgelehnter Bewerber verschickt Schweineaugen Nach einer Jobabsage bei Tesla hat der abgelehnte Bewerber mit Terror gedroht und Schweineaugen verschickt. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5f3626eaf1a3128963cdefc8",
-      "title": "FSD Supervised: Bundesverkehrsminister will Zulassung von Teslas Fahrassistenten",
-      "url": "https://www.golem.de/news/fsd-supervised-bundesverkehrsminister-will-zulassung-von-teslas-fahrassistenten-2610-213778.html",
-      "published_at": "2026-10-06T14:47:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "FSD Supervised: Bundesverkehrsminister will Zulassung von Teslas Fahrassistenten Bundesverkehrsminister Steffen Bilger ist offenbar von Teslas FSD Supervised überzeugt. Das System solle in der EU zugelassen werden. ( Tesla , Elektroauto )",
-      "tags": [
-        "politik"
-      ],
       "regions": []
     },
     {
@@ -77,28 +97,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "SH Netz veröffentlicht verschiedene FCA-Musterverträge Es handelt sich um Musterverträge für flexible Netzanschlussvereinbarungen für Stand-alone-Batteriespeicher, Co-Location-Batteriespeicher mit Überbauung sowie flexible Großverbraucher auf der Bezugsseite. SH Netz setzt zudem künftig auch auf ein neues Zuteilungsverfahren für freie Netzanschlusskapazitäten, an dem alle Batteriespeichervorhaben ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d821d06be01480265adfd113",
-      "title": "Fast 100.000 Elektroautos mit 432 Millionen Euro gefördert",
-      "url": "https://www.pv-magazine.de/2026/10/06/fast-100-000-elektroautos-mit-432-millionen-euro-gefoerdert/",
-      "published_at": "2026-10-06T08:24:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Fast 100.000 Elektroautos mit 432 Millionen Euro gefördert Nach einem Zwischenbericht des BAFA sind die Kaufprämien für knapp 90.000 reine Elektroautos und gut 8000 Plug-in-Hybride bisher bewilligt. Kauf und Leasing halten sich die Waage. Besonders Einkommen bis 45.000 Euro haben die Prämie für die Anschaffung eines Elektroautos genutzt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b8cbc41370999714a6a45efa",
-      "title": "Elektroauto-Neuzulassungen: Mehr als jeder dritte Neuwagen ist ein E-Auto",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/elektroautos-neuzulassungen-deutschland-kba-e-auto-praemie-gxe",
-      "published_at": "2026-10-05T10:35:44Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "Elektroauto-Neuzulassungen: Mehr als jeder dritte Neuwagen ist ein E-Auto Die hohe Nachfrage nach E-Autos in Deutschland hält an. Im Vorjahresvergleich gab es im September 95 Prozent mehr Neuzulassungen. Nur Hybride waren noch beliebter.",
       "tags": [],
       "regions": []
     },
