@@ -1,8 +1,52 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 43,
+  "article_count": 48,
   "articles": [
+    {
+      "id": "0d4b9d52a02fc2edbcee7eba",
+      "title": "BMW iX4 und iX3 M60 xDrive: Coupé- und leistungsstarke M-Version des iX3 vorgestellt",
+      "url": "https://www.golem.de/news/bmw-ix4-und-ix3-m60-xdrive-coupe-und-leistungsstarke-m-version-des-ix3-vorgestellt-2610-213847.html",
+      "published_at": "2026-10-07T22:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "BMW iX4 und iX3 M60 xDrive: Coupé- und leistungsstarke M-Version des iX3 vorgestellt BMW erweitert sein Angebot des vollelektrischen iX3. Die Schrägheckversion kommt noch etwas weiter als das SUV, ist aber teurer ausgestattet. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7a456ce3b36e88aa87cdc1d6",
+      "title": "Porsches E-Rückzug: Kurzfristig richtig, langfristig riskant",
+      "url": "https://www.golem.de/news/porsches-e-rueckzug-kurzfristig-richtig-langfristig-riskant-2610-213826.html",
+      "published_at": "2026-10-07T14:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Porsches E-Rückzug: Kurzfristig richtig, langfristig riskant Porsche will wieder mehr Geld pro Auto verdienen und setzt auf teurere Modelle mit Verbrennungsmotor und Hybrid-Antrieb. Eine Strategie, die zum Problem werden könnte. Eine Analyse von Dirk Kunde ( Porsche , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e63c5805c8b25bf1f2e55ceb",
+      "title": "Elektro-Kleinwagen: GTI-Version des VW ID.Polo startet bei 40.000 Euro",
+      "url": "https://www.golem.de/news/elektro-kleinwagen-gti-version-des-vw-id-polo-startet-bei-40-000-euro-2610-213824.html",
+      "published_at": "2026-10-07T13:36:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektro-Kleinwagen: GTI-Version des VW ID.Polo startet bei 40.000 Euro VW bietet mit dem ID.Polo erstmals eine vollelektrische GTI-Version an. Die Höchstgeschwindigkeit wurde auf Wunsch der Kunden erhöht. ( Elektroauto , Technologie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0fefac697fc99d6964250567",
+      "title": "Langzeitspeicher: Zwei Länder, eine Versorgungslücke",
+      "url": "https://www.pv-magazine.de/2026/10/07/langzeitspeicher-zwei-laender-eine-versorgungsluecke/",
+      "published_at": "2026-10-07T12:51:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Langzeitspeicher: Zwei Länder, eine Versorgungslücke Großbritannien schafft mit einem Cap-and-Floor-Modell einen Markt für Batteriespeicher mit bis zu 18 Stunden Entladedauer. Deutschland steht vor einer ähnlichen Versorgungslücke, doch das StromVKG ist so ausgestaltet, dass Speicher kaum zum Zuge kommen dürften. Der Vergleich zeigt, wie unterschiedlich zwei Länder dieselbe Aufgabe angehen – und w",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "68316247d7844fdd41bfa23c",
       "title": "Morreon bietet KI-Plattform zur beschleunigten Planung von Batteriespeichern an",
@@ -55,6 +99,17 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Tesla: Abgelehnter Bewerber verschickt Schweineaugen Nach einer Jobabsage bei Tesla hat der abgelehnte Bewerber mit Terror gedroht und Schweineaugen verschickt. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "364f89d1c1e96511f642a747",
+      "title": "Elektroautos: BYD hängt den Rivalen Tesla ab",
+      "url": "https://www.faz.net/premium/digitalwirtschaft/kuenstliche-intelligenz/byd-ueberholt-den-erzrivalen-tesla-rekordzahlen-bei-elektroautos-accg-201293753.html",
+      "published_at": "2026-10-07T04:50:00Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Elektroautos: BYD hängt den Rivalen Tesla ab Mit einer konsequenten Exportstrategie baut BYD seinen Vorsprung auf Tesla weiter aus. Wachstum finden die Hersteller von Elektroautos derzeit nur noch in Europa und in einigen Schwellenländern.",
       "tags": [],
       "regions": []
     },
