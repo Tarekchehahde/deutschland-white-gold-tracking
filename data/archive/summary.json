@@ -1,17 +1,72 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-06T22:39:52Z",
+  "generated_at_utc": "2026-10-07T11:47:04Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 770,
+  "total_in_archive": 775,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 38
+    "2026-10": 43
   },
   "recent_for_ui": [
+    {
+      "id": "68316247d7844fdd41bfa23c",
+      "title": "Morreon bietet KI-Plattform zur beschleunigten Planung von Batteriespeichern an",
+      "url": "https://www.pv-magazine.de/2026/10/07/morreon-bietet-ki-plattform-zur-beschleunigten-planung-von-batteriespeichern-an/",
+      "published_at": "2026-10-07T11:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Morreon bietet KI-Plattform zur beschleunigten Planung von Batteriespeichern an Das deutsche Start-up hat eine KI-basierte Plattform entwickelt, um die Planung, die Konstruktionsoptimierung, die Ausschreibung und die Projektterminierung für Batteriespeicher und andere Energieinfrastrukturprojekte zu optimieren. Das System automatisiert die Datenverarbeitung und die Layoutplanung unter Beibehaltung",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f7124144a6713dc63a043d24",
+      "title": "Jaguar Type 01 vorgestellt: Fast viermal so lang wie hoch",
+      "url": "https://www.golem.de/news/jaguar-type-01-vorgestellt-fast-viermal-so-lang-wie-hoch-2610-213806.html",
+      "published_at": "2026-10-07T10:46:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Jaguar Type 01 vorgestellt: Fast viermal so lang wie hoch Trotz viel Kritik am Type 00 bringt Jaguar den Type 01 kaum verändert auf den Markt. Auch im Innenraum finden sich ungewöhnliche Designelemente. ( Elektroauto , Technologie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "94e786f02765541e2671b3e2",
+      "title": "Autoindustrie: Mercedes stürzt in China weiter ab",
+      "url": "https://www.sueddeutsche.de/wirtschaft/mercedes-china-absatz-elektroautos-2026-li.3559827",
+      "published_at": "2026-10-07T09:37:46Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Autoindustrie: Mercedes stürzt in China weiter ab In der Volksrepublik verkauft Mercedes rund ein Drittel weniger Autos als im Vorjahr. Hoffnung macht dagegen der Trend bei den Elektroautos.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "733e30d3107866c101a379a6",
+      "title": "Zeekr 9X: Luxus-SUV mit Kino und Range Extender",
+      "url": "https://www.golem.de/news/zeekr-9x-luxus-suv-mit-kino-und-range-extender-2610-213761.html",
+      "published_at": "2026-10-07T06:57:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Zeekr 9X: Luxus-SUV mit Kino und Range Extender Mit dem Zeekr 9X greift die Geely-Marke etablierte Luxus-SUVs an. Sein Antrieb kombiniert elektrisches Fahren mit Plug-in-Hybrid und Range Extender. Ein Bericht von Dirk Kunde ( Auto , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0dd8158f6b21f6aa1c1538e5",
+      "title": "Tesla: Abgelehnter Bewerber verschickt Schweineaugen",
+      "url": "https://www.golem.de/news/tesla-abgelehnter-bewerber-verschickt-schweineaugen-2610-213787.html",
+      "published_at": "2026-10-07T05:50:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Abgelehnter Bewerber verschickt Schweineaugen Nach einer Jobabsage bei Tesla hat der abgelehnte Bewerber mit Terror gedroht und Schweineaugen verschickt. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "1543cedc5ab79371f6f38bb3",
       "title": "Toyota bZ4X: Nächster Versuch",
@@ -4503,63 +4558,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Booking.com: Geschäftsmodell Endreinigung Wie Ferienhausanbieter auf Booking.com den Preis nach der Buchung durch Pflichtgebühren massiv erhöhen. Eine Recherche von Markus Feilner ( Reisen , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bb6fc32d0f9c520633b0af1c",
-      "title": "Brand in Batteriespeicher in Bautzen: Anwohner wegen Rauchentwicklung evakuiert",
-      "url": "https://www.tagesschau.de/inland/regional/sachsen/feuerwehr-rauch-warnung-,brand-batteriespeicher-104.html",
-      "published_at": "2026-07-21T19:14:38Z",
-      "source_id": "tagesschau-sn",
-      "language": "de",
-      "summary": "Brand in Batteriespeicher in Bautzen: Anwohner wegen Rauchentwicklung evakuiert In Bautzen brennt seit Dienstagnachmittag ein Batteriespeicher. Mehrere Anwohner mussten wegen der starken Rauchentwicklung ihre Häuser verlassen, die Feuerwehr ist mit rund 50 Einsatzkräften im Einsatz.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "58c1ac977b67177a0b34594e",
-      "title": "Alternative zu Batterien: So will China 200 Kilowattstunden Strom mit einem Schwungrad speichern",
-      "url": "https://t3n.de/news/alternative-zu-batterien-so-will-china-200-kilowattstunden-strom-mit-einem-schwungrad-speichern-1753777/",
-      "published_at": "2026-07-21T14:30:34Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Alternative zu Batterien: So will China 200 Kilowattstunden Strom mit einem Schwungrad speichern Wenn Windräder und Solaranlagen viel Strom liefern, können Batteriespeicher das oft nicht aufnehmen und der Vorteil verpufft. In China arbeitet eine Firma nun an einem neuartigen Schwungrad. So soll es Strom mit Bewegung speichern. Das Unternehmen Qnetic errichtet in Shanghai eine Testanlage für Schwun",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "c4d36dc6656b34580ae5ec0c",
-      "title": "Westnetz bietet speziellen FCA für schnelleren Anschluss von Co-Location-Graustromspeichern",
-      "url": "https://www.pv-magazine.de/2026/07/21/westnetz-bietet-speziellen-fca-fuer-schnelleren-anschluss-von-co-location-graustromspeichern/",
-      "published_at": "2026-07-21T10:10:23Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Westnetz bietet speziellen FCA für schnelleren Anschluss von Co-Location-Graustromspeichern Das Angebot richtet sich an Investoren, die einen Batteriespeicher an einem gemeinsamen Standort mit einer Photovoltaik- oder Windkraftanlage errichten wollen. In der flexiblen Netzanschlussvereinbarung wird die Begrenzung der Fahrweise der Speicher festgeschrieben, die sich auch an der Auslastung des umlie",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ec76a8246ef84be67b6fdef9",
-      "title": "FSD: Floridas Staatsanwalt will keine 243-Millionen-Strafe gegen Tesla",
-      "url": "https://www.golem.de/news/fsd-floridas-staatsanwalt-will-keine-243-millionen-strafe-gegen-tesla-2607-211102.html",
-      "published_at": "2026-07-21T09:15:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "FSD: Floridas Staatsanwalt will keine 243-Millionen-Strafe gegen Tesla Die hohe Strafe gegen Tesla wegen eines FSD-Unfalls soll aufgehoben werden - oder zumindest reduziert. Zwei Gerichte hatten sie zuvor bestätigt. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "66b14d95b787d4ae89bd3ec0",
-      "title": "KI-Service „perfectPV“ ermittelt herstellerunabhängig die optimale Speichergröße für jeden Haushalt",
-      "url": "https://www.pv-magazine.de/2026/07/21/ki-service-perfectpv-ermittelt-herstellerunabhaengig-die-optimale-speichergroesse-fuer-jeden-haushalt/",
-      "published_at": "2026-07-21T09:02:42Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "KI-Service „perfectPV“ ermittelt herstellerunabhängig die optimale Speichergröße für jeden Haushalt Unter Berücksichtigung der Verbraucherverhaltens kann die Software binnen weniger Minuten ermitteln, wie groß der Batteriespeicher zur Photovoltaik-Anlage sein sollte. Der Service kostet einmalig 39 Euro, kann nach Angaben des Heilbronner Start-ups aber teure Fehlinvestitionen vermeiden.",
       "tags": [],
       "regions": []
     }

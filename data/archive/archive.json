@@ -2,6 +2,61 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "68316247d7844fdd41bfa23c",
+      "title": "Morreon bietet KI-Plattform zur beschleunigten Planung von Batteriespeichern an",
+      "url": "https://www.pv-magazine.de/2026/10/07/morreon-bietet-ki-plattform-zur-beschleunigten-planung-von-batteriespeichern-an/",
+      "published_at": "2026-10-07T11:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Morreon bietet KI-Plattform zur beschleunigten Planung von Batteriespeichern an Das deutsche Start-up hat eine KI-basierte Plattform entwickelt, um die Planung, die Konstruktionsoptimierung, die Ausschreibung und die Projektterminierung für Batteriespeicher und andere Energieinfrastrukturprojekte zu optimieren. Das System automatisiert die Datenverarbeitung und die Layoutplanung unter Beibehaltung",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f7124144a6713dc63a043d24",
+      "title": "Jaguar Type 01 vorgestellt: Fast viermal so lang wie hoch",
+      "url": "https://www.golem.de/news/jaguar-type-01-vorgestellt-fast-viermal-so-lang-wie-hoch-2610-213806.html",
+      "published_at": "2026-10-07T10:46:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Jaguar Type 01 vorgestellt: Fast viermal so lang wie hoch Trotz viel Kritik am Type 00 bringt Jaguar den Type 01 kaum verändert auf den Markt. Auch im Innenraum finden sich ungewöhnliche Designelemente. ( Elektroauto , Technologie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "94e786f02765541e2671b3e2",
+      "title": "Autoindustrie: Mercedes stürzt in China weiter ab",
+      "url": "https://www.sueddeutsche.de/wirtschaft/mercedes-china-absatz-elektroautos-2026-li.3559827",
+      "published_at": "2026-10-07T09:37:46Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Autoindustrie: Mercedes stürzt in China weiter ab In der Volksrepublik verkauft Mercedes rund ein Drittel weniger Autos als im Vorjahr. Hoffnung macht dagegen der Trend bei den Elektroautos.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "733e30d3107866c101a379a6",
+      "title": "Zeekr 9X: Luxus-SUV mit Kino und Range Extender",
+      "url": "https://www.golem.de/news/zeekr-9x-luxus-suv-mit-kino-und-range-extender-2610-213761.html",
+      "published_at": "2026-10-07T06:57:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Zeekr 9X: Luxus-SUV mit Kino und Range Extender Mit dem Zeekr 9X greift die Geely-Marke etablierte Luxus-SUVs an. Sein Antrieb kombiniert elektrisches Fahren mit Plug-in-Hybrid und Range Extender. Ein Bericht von Dirk Kunde ( Auto , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0dd8158f6b21f6aa1c1538e5",
+      "title": "Tesla: Abgelehnter Bewerber verschickt Schweineaugen",
+      "url": "https://www.golem.de/news/tesla-abgelehnter-bewerber-verschickt-schweineaugen-2610-213787.html",
+      "published_at": "2026-10-07T05:50:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Abgelehnter Bewerber verschickt Schweineaugen Nach einer Jobabsage bei Tesla hat der abgelehnte Bewerber mit Terror gedroht und Schweineaugen verschickt. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "1543cedc5ab79371f6f38bb3",
       "title": "Toyota bZ4X: Nächster Versuch",
       "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/der-neue-toyota-bz4x-im-test-201252871.html",
