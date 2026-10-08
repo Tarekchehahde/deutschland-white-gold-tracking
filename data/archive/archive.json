@@ -2,6 +2,39 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "ef08cea7f591fd9c0e4c7064",
+      "title": "Wirsol baut in Niedersachsen 39 Photovoltaik-Anlagen gekoppelt mit 15 Megawattstunden Grünstromspeicher",
+      "url": "https://www.pv-magazine.de/2026/10/08/wirsol-baut-in-niedersachsen-39-photovoltaik-anlagen-gekoppelt-mit-15-megawattstunden-gruenstromspeicher/",
+      "published_at": "2026-10-08T14:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wirsol baut in Niedersachsen 39 Photovoltaik-Anlagen gekoppelt mit 15 Megawattstunden Grünstromspeicher Die Photovoltaik-Anlagen mit jeweils rund 242 Kilowatt Leistung werden als Direktinvestments angeboten. Der angeschlossene Grünstromspeicher ermöglicht eine optimierte Einspeisung des Solarstroms. Bis zum zweiten Quartal 2027 sollen alle Anlagen am Netz angeschlossen sein.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6a1d278beddb244085efbcfc",
+      "title": "Mehr Reichweite: Elektrobus kann über Reifen geladen werden",
+      "url": "https://www.golem.de/news/mehr-reichweite-elektrobus-kann-ueber-reifen-geladen-werden-2610-213880.html",
+      "published_at": "2026-10-08T12:54:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Mehr Reichweite: Elektrobus kann über Reifen geladen werden Busse könnten mit kleineren Batterien größere Strecken fahren. Das senkt die Gesamtkosten, erfordert aber neue Lösungen. ( Elektrobus , Elektromobilität )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "739aed125973d0a78275e581",
+      "title": "Autoindustrie: Lasst sie weiter Verbrenner bauen – und den Preis dafür zahlen",
+      "url": "https://www.sueddeutsche.de/wirtschaft/autoindustrie-verbrenner-elektroautos-porsche-kommentar-li.3560414",
+      "published_at": "2026-10-08T12:29:50Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Autoindustrie: Lasst sie weiter Verbrenner bauen – und den Preis dafür zahlen Die deutschen Autohersteller haben erfolgreich in Brüssel lobbyiert. Nun haben sie wenigstens keine Ausreden mehr, wenn die Konkurrenz sie bei den Elektroautos abhängt.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "308d093ebb75d1f094d6394d",
       "title": "Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz",
       "url": "https://www.golem.de/news/grundlastfaehig-geothermiekraftwerk-geht-in-utah-ans-stromnetz-2610-213871.html",
