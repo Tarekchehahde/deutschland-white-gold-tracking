@@ -2,6 +2,39 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "ef08cea7f591fd9c0e4c7064",
+      "title": "Wirsol baut in Niedersachsen 39 Photovoltaik-Anlagen gekoppelt mit 15 Megawattstunden Grünstromspeicher",
+      "url": "https://www.pv-magazine.de/2026/10/08/wirsol-baut-in-niedersachsen-39-photovoltaik-anlagen-gekoppelt-mit-15-megawattstunden-gruenstromspeicher/",
+      "published_at": "2026-10-08T14:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wirsol baut in Niedersachsen 39 Photovoltaik-Anlagen gekoppelt mit 15 Megawattstunden Grünstromspeicher Die Photovoltaik-Anlagen mit jeweils rund 242 Kilowatt Leistung werden als Direktinvestments angeboten. Der angeschlossene Grünstromspeicher ermöglicht eine optimierte Einspeisung des Solarstroms. Bis zum zweiten Quartal 2027 sollen alle Anlagen am Netz angeschlossen sein.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6a1d278beddb244085efbcfc",
+      "title": "Mehr Reichweite: Elektrobus kann über Reifen geladen werden",
+      "url": "https://www.golem.de/news/mehr-reichweite-elektrobus-kann-ueber-reifen-geladen-werden-2610-213880.html",
+      "published_at": "2026-10-08T12:54:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Mehr Reichweite: Elektrobus kann über Reifen geladen werden Busse könnten mit kleineren Batterien größere Strecken fahren. Das senkt die Gesamtkosten, erfordert aber neue Lösungen. ( Elektrobus , Elektromobilität )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "739aed125973d0a78275e581",
+      "title": "Autoindustrie: Lasst sie weiter Verbrenner bauen – und den Preis dafür zahlen",
+      "url": "https://www.sueddeutsche.de/wirtschaft/autoindustrie-verbrenner-elektroautos-porsche-kommentar-li.3560414",
+      "published_at": "2026-10-08T12:29:50Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Autoindustrie: Lasst sie weiter Verbrenner bauen – und den Preis dafür zahlen Die deutschen Autohersteller haben erfolgreich in Brüssel lobbyiert. Nun haben sie wenigstens keine Ausreden mehr, wenn die Konkurrenz sie bei den Elektroautos abhängt.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "308d093ebb75d1f094d6394d",
       "title": "Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz",
       "url": "https://www.golem.de/news/grundlastfaehig-geothermiekraftwerk-geht-in-utah-ans-stromnetz-2610-213871.html",
@@ -37,17 +70,6 @@
       "regions": []
     },
     {
-      "id": "0d4b9d52a02fc2edbcee7eba",
-      "title": "BMW iX4 und iX3 M60 xDrive: Coupé- und leistungsstarke M-Version des iX3 vorgestellt",
-      "url": "https://www.golem.de/news/bmw-ix4-und-ix3-m60-xdrive-coupe-und-leistungsstarke-m-version-des-ix3-vorgestellt-2610-213847.html",
-      "published_at": "2026-10-07T22:30:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "BMW iX4 und iX3 M60 xDrive: Coupé- und leistungsstarke M-Version des iX3 vorgestellt BMW erweitert sein Angebot des vollelektrischen iX3. Die Schrägheckversion kommt noch etwas weiter als das SUV, ist aber teurer ausgestattet. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "0fefac697fc99d6964250567",
       "title": "Langzeitspeicher: Zwei Länder, eine Versorgungslücke",
       "url": "https://www.pv-magazine.de/2026/10/07/langzeitspeicher-zwei-laender-eine-versorgungsluecke/",
@@ -55,28 +77,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Langzeitspeicher: Zwei Länder, eine Versorgungslücke Großbritannien schafft mit einem Cap-and-Floor-Modell einen Markt für Batteriespeicher mit bis zu 18 Stunden Entladedauer. Deutschland steht vor einer ähnlichen Versorgungslücke, doch das StromVKG ist so ausgestaltet, dass Speicher kaum zum Zuge kommen dürften. Der Vergleich zeigt, wie unterschiedlich zwei Länder dieselbe Aufgabe angehen – und w",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "68316247d7844fdd41bfa23c",
-      "title": "Morreon bietet KI-Plattform zur beschleunigten Planung von Batteriespeichern an",
-      "url": "https://www.pv-magazine.de/2026/10/07/morreon-bietet-ki-plattform-zur-beschleunigten-planung-von-batteriespeichern-an/",
-      "published_at": "2026-10-07T11:20:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Morreon bietet KI-Plattform zur beschleunigten Planung von Batteriespeichern an Das deutsche Start-up hat eine KI-basierte Plattform entwickelt, um die Planung, die Konstruktionsoptimierung, die Ausschreibung und die Projektterminierung für Batteriespeicher und andere Energieinfrastrukturprojekte zu optimieren. Das System automatisiert die Datenverarbeitung und die Layoutplanung unter Beibehaltung",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "94e786f02765541e2671b3e2",
-      "title": "Autoindustrie: Mercedes stürzt in China weiter ab",
-      "url": "https://www.sueddeutsche.de/wirtschaft/mercedes-china-absatz-elektroautos-2026-li.3559827",
-      "published_at": "2026-10-07T09:37:46Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "Autoindustrie: Mercedes stürzt in China weiter ab In der Volksrepublik verkauft Mercedes rund ein Drittel weniger Autos als im Vorjahr. Hoffnung macht dagegen der Trend bei den Elektroautos.",
       "tags": [],
       "regions": []
     },

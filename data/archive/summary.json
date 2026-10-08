@@ -1,17 +1,50 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-08T12:01:33Z",
+  "generated_at_utc": "2026-10-08T23:22:05Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 783,
+  "total_in_archive": 786,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 51
+    "2026-10": 54
   },
   "recent_for_ui": [
+    {
+      "id": "ef08cea7f591fd9c0e4c7064",
+      "title": "Wirsol baut in Niedersachsen 39 Photovoltaik-Anlagen gekoppelt mit 15 Megawattstunden Grünstromspeicher",
+      "url": "https://www.pv-magazine.de/2026/10/08/wirsol-baut-in-niedersachsen-39-photovoltaik-anlagen-gekoppelt-mit-15-megawattstunden-gruenstromspeicher/",
+      "published_at": "2026-10-08T14:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wirsol baut in Niedersachsen 39 Photovoltaik-Anlagen gekoppelt mit 15 Megawattstunden Grünstromspeicher Die Photovoltaik-Anlagen mit jeweils rund 242 Kilowatt Leistung werden als Direktinvestments angeboten. Der angeschlossene Grünstromspeicher ermöglicht eine optimierte Einspeisung des Solarstroms. Bis zum zweiten Quartal 2027 sollen alle Anlagen am Netz angeschlossen sein.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6a1d278beddb244085efbcfc",
+      "title": "Mehr Reichweite: Elektrobus kann über Reifen geladen werden",
+      "url": "https://www.golem.de/news/mehr-reichweite-elektrobus-kann-ueber-reifen-geladen-werden-2610-213880.html",
+      "published_at": "2026-10-08T12:54:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Mehr Reichweite: Elektrobus kann über Reifen geladen werden Busse könnten mit kleineren Batterien größere Strecken fahren. Das senkt die Gesamtkosten, erfordert aber neue Lösungen. ( Elektrobus , Elektromobilität )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "739aed125973d0a78275e581",
+      "title": "Autoindustrie: Lasst sie weiter Verbrenner bauen – und den Preis dafür zahlen",
+      "url": "https://www.sueddeutsche.de/wirtschaft/autoindustrie-verbrenner-elektroautos-porsche-kommentar-li.3560414",
+      "published_at": "2026-10-08T12:29:50Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Autoindustrie: Lasst sie weiter Verbrenner bauen – und den Preis dafür zahlen Die deutschen Autohersteller haben erfolgreich in Brüssel lobbyiert. Nun haben sie wenigstens keine Ausreden mehr, wenn die Konkurrenz sie bei den Elektroautos abhängt.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "308d093ebb75d1f094d6394d",
       "title": "Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz",
@@ -4527,39 +4560,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Feuer in 1,5-Megawatt-Batteriespeicher in Bautzen gelöscht Update: Das Feuer in dem seit Dienstagnachmittag brennenden Batteriespeicher ist gelöscht, wie die Stadt am Donnerstag mitteilte. Sie hob die Vorsichtsmaßnahmen mittlerweile auf.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ca28f8538d019d2dd04515c4",
-      "title": "Elektroautos werden beliebter: Näher am Massenmarkt, aber doch noch weit entfernt",
-      "url": "https://www.rnd.de/wirtschaft/elektroautos-werden-beliebter-naeher-am-massenmarkt-aber-doch-noch-weit-entfernt-NBQCTPDBPNHJRMUTB3ECKXNFOE.html",
-      "published_at": "2026-07-23T14:25:40Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Elektroautos werden beliebter: Näher am Massenmarkt, aber doch noch weit entfernt Elektroautos werden bei der Kundschaft beliebter. Doch der Boom hat seine Tücken: Er funktioniert nur durch Kaufprämien. Und vor allem chinesische Hersteller profitieren davon.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e11712ffb2ec2d05a6becb88",
-      "title": "Energiewende: Bohrloch-Batterie speichert Strom als künstliche Geothermie",
-      "url": "https://www.golem.de/news/wind-und-solar-bohrloch-batterie-speichert-strom-als-kuenstliche-geothermie-2607-211199.html",
-      "published_at": "2026-07-23T11:14:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Energiewende: Bohrloch-Batterie speichert Strom als künstliche Geothermie Aufgegebene Förderstellen für Öl und Gas können große Energiemengen aufnehmen. Zurück ins Netz gelangt der Strom wie bei einem Geothermiekraftwerk. ( Energiewende , Solarenergie )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4c7d4a21220dd6bfeb762252",
-      "title": "Tesla: Gewinneinbußen und höhere Kosten",
-      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/tesla-weniger-gewinn-delle-kosten-absatz-elon-musk-100.html",
-      "published_at": "2026-07-23T10:23:00Z",
-      "source_id": "zdf-nachrichten",
-      "language": "de",
-      "summary": "Tesla: Gewinneinbußen und höhere Kosten Tesla hat im zweiten Quartal einen geringeren Gewinn verbucht. Zudem stiegen die Kosten. Der Elektroautobauer verfehlte die Erwartungen an der Wall Street haushoch.",
       "tags": [],
       "regions": []
     }
