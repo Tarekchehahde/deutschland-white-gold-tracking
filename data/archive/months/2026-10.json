@@ -1,8 +1,43 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 48,
+  "article_count": 51,
   "articles": [
+    {
+      "id": "308d093ebb75d1f094d6394d",
+      "title": "Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz",
+      "url": "https://www.golem.de/news/grundlastfaehig-geothermiekraftwerk-geht-in-utah-ans-stromnetz-2610-213871.html",
+      "published_at": "2026-10-08T10:49:06Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz Bis 2027 soll die Leistung auf 100 Megawatt steigen. Google hat bereits ein Vielfaches bestellt, allein dieser Standort bietet noch mehr. ( Geothermie , Energiewende )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "70062abc9e0ac0ba14532a76",
+      "title": "Urteil gegen EWE Go: Roaming-Gebühren beim Laden könnten sinken",
+      "url": "https://www.golem.de/news/urteil-gegen-ewe-go-roaming-gebuehren-beim-laden-koennten-sinken-2610-213869.html",
+      "published_at": "2026-10-08T10:28:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Urteil gegen EWE Go: Roaming-Gebühren beim Laden könnten sinken Ein Gericht hat die Preisgestaltung von EWE Go gegenüber Roaming-Anbietern für unrechtmäßig erklärt. Das könnte weitreichende Auswirkungen haben. ( Verbraucherschutz , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ac0dfd2234fe61f8b5907e1c",
+      "title": "Second Foundation nimmt 3-Stunden-Speicher mit Batterie- und Energiemanagement aus eigener Entwicklung in Betrieb",
+      "url": "https://www.pv-magazine.de/2026/10/08/second-foundation-nimmt-3-stunden-speicher-mit-batterie-und-energiemanagement-aus-eigener-entwicklung-in-betrieb/",
+      "published_at": "2026-10-08T10:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Second Foundation nimmt 3-Stunden-Speicher mit Batterie- und Energiemanagement aus eigener Entwicklung in Betrieb Der Batteriespeicher in Tirpersdorf verfügt über eine Leistung von 17,25 Megawatt und eine Kapazität von 50 Megawattstunden. Es ist das erste Projekt, in dem das Unternehmen auf Batterie- und Energiemanagement aus der eigenen Entwicklung setzt.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "0d4b9d52a02fc2edbcee7eba",
       "title": "BMW iX4 und iX3 M60 xDrive: Coupé- und leistungsstarke M-Version des iX3 vorgestellt",

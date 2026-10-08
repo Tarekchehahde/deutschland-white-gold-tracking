@@ -2,6 +2,41 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "308d093ebb75d1f094d6394d",
+      "title": "Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz",
+      "url": "https://www.golem.de/news/grundlastfaehig-geothermiekraftwerk-geht-in-utah-ans-stromnetz-2610-213871.html",
+      "published_at": "2026-10-08T10:49:06Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz Bis 2027 soll die Leistung auf 100 Megawatt steigen. Google hat bereits ein Vielfaches bestellt, allein dieser Standort bietet noch mehr. ( Geothermie , Energiewende )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "70062abc9e0ac0ba14532a76",
+      "title": "Urteil gegen EWE Go: Roaming-Gebühren beim Laden könnten sinken",
+      "url": "https://www.golem.de/news/urteil-gegen-ewe-go-roaming-gebuehren-beim-laden-koennten-sinken-2610-213869.html",
+      "published_at": "2026-10-08T10:28:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Urteil gegen EWE Go: Roaming-Gebühren beim Laden könnten sinken Ein Gericht hat die Preisgestaltung von EWE Go gegenüber Roaming-Anbietern für unrechtmäßig erklärt. Das könnte weitreichende Auswirkungen haben. ( Verbraucherschutz , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ac0dfd2234fe61f8b5907e1c",
+      "title": "Second Foundation nimmt 3-Stunden-Speicher mit Batterie- und Energiemanagement aus eigener Entwicklung in Betrieb",
+      "url": "https://www.pv-magazine.de/2026/10/08/second-foundation-nimmt-3-stunden-speicher-mit-batterie-und-energiemanagement-aus-eigener-entwicklung-in-betrieb/",
+      "published_at": "2026-10-08T10:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Second Foundation nimmt 3-Stunden-Speicher mit Batterie- und Energiemanagement aus eigener Entwicklung in Betrieb Der Batteriespeicher in Tirpersdorf verfügt über eine Leistung von 17,25 Megawatt und eine Kapazität von 50 Megawattstunden. Es ist das erste Projekt, in dem das Unternehmen auf Batterie- und Energiemanagement aus der eigenen Entwicklung setzt.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "0d4b9d52a02fc2edbcee7eba",
       "title": "BMW iX4 und iX3 M60 xDrive: Coupé- und leistungsstarke M-Version des iX3 vorgestellt",
       "url": "https://www.golem.de/news/bmw-ix4-und-ix3-m60-xdrive-coupe-und-leistungsstarke-m-version-des-ix3-vorgestellt-2610-213847.html",
@@ -9,28 +44,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "BMW iX4 und iX3 M60 xDrive: Coupé- und leistungsstarke M-Version des iX3 vorgestellt BMW erweitert sein Angebot des vollelektrischen iX3. Die Schrägheckversion kommt noch etwas weiter als das SUV, ist aber teurer ausgestattet. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7a456ce3b36e88aa87cdc1d6",
-      "title": "Porsches E-Rückzug: Kurzfristig richtig, langfristig riskant",
-      "url": "https://www.golem.de/news/porsches-e-rueckzug-kurzfristig-richtig-langfristig-riskant-2610-213826.html",
-      "published_at": "2026-10-07T14:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Porsches E-Rückzug: Kurzfristig richtig, langfristig riskant Porsche will wieder mehr Geld pro Auto verdienen und setzt auf teurere Modelle mit Verbrennungsmotor und Hybrid-Antrieb. Eine Strategie, die zum Problem werden könnte. Eine Analyse von Dirk Kunde ( Porsche , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e63c5805c8b25bf1f2e55ceb",
-      "title": "Elektro-Kleinwagen: GTI-Version des VW ID.Polo startet bei 40.000 Euro",
-      "url": "https://www.golem.de/news/elektro-kleinwagen-gti-version-des-vw-id-polo-startet-bei-40-000-euro-2610-213824.html",
-      "published_at": "2026-10-07T13:36:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektro-Kleinwagen: GTI-Version des VW ID.Polo startet bei 40.000 Euro VW bietet mit dem ID.Polo erstmals eine vollelektrische GTI-Version an. Die Höchstgeschwindigkeit wurde auf Wunsch der Kunden erhöht. ( Elektroauto , Technologie )",
       "tags": [],
       "regions": []
     },
@@ -57,17 +70,6 @@
       "regions": []
     },
     {
-      "id": "f7124144a6713dc63a043d24",
-      "title": "Jaguar Type 01 vorgestellt: Fast viermal so lang wie hoch",
-      "url": "https://www.golem.de/news/jaguar-type-01-vorgestellt-fast-viermal-so-lang-wie-hoch-2610-213806.html",
-      "published_at": "2026-10-07T10:46:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Jaguar Type 01 vorgestellt: Fast viermal so lang wie hoch Trotz viel Kritik am Type 00 bringt Jaguar den Type 01 kaum verändert auf den Markt. Auch im Innenraum finden sich ungewöhnliche Designelemente. ( Elektroauto , Technologie )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "94e786f02765541e2671b3e2",
       "title": "Autoindustrie: Mercedes stürzt in China weiter ab",
       "url": "https://www.sueddeutsche.de/wirtschaft/mercedes-china-absatz-elektroautos-2026-li.3559827",
@@ -75,28 +77,6 @@
       "source_id": "sueddeutsche-wirtschaft",
       "language": "de",
       "summary": "Autoindustrie: Mercedes stürzt in China weiter ab In der Volksrepublik verkauft Mercedes rund ein Drittel weniger Autos als im Vorjahr. Hoffnung macht dagegen der Trend bei den Elektroautos.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "364f89d1c1e96511f642a747",
-      "title": "Elektroautos: BYD hängt den Rivalen Tesla ab",
-      "url": "https://www.faz.net/premium/digitalwirtschaft/kuenstliche-intelligenz/byd-ueberholt-den-erzrivalen-tesla-rekordzahlen-bei-elektroautos-accg-201293753.html",
-      "published_at": "2026-10-07T04:50:00Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Elektroautos: BYD hängt den Rivalen Tesla ab Mit einer konsequenten Exportstrategie baut BYD seinen Vorsprung auf Tesla weiter aus. Wachstum finden die Hersteller von Elektroautos derzeit nur noch in Europa und in einigen Schwellenländern.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e963f5abd0efd483f80b6850",
-      "title": "SH Netz veröffentlicht verschiedene FCA-Musterverträge",
-      "url": "https://www.pv-magazine.de/2026/10/06/sh-netz-veroeffentlicht-verschiedene-fca-mustervertraege/",
-      "published_at": "2026-10-06T14:01:33Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "SH Netz veröffentlicht verschiedene FCA-Musterverträge Es handelt sich um Musterverträge für flexible Netzanschlussvereinbarungen für Stand-alone-Batteriespeicher, Co-Location-Batteriespeicher mit Überbauung sowie flexible Großverbraucher auf der Bezugsseite. SH Netz setzt zudem künftig auch auf ein neues Zuteilungsverfahren für freie Netzanschlusskapazitäten, an dem alle Batteriespeichervorhaben ",
       "tags": [],
       "regions": []
     },
