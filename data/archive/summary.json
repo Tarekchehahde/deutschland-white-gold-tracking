@@ -1,17 +1,52 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-07T23:06:48Z",
+  "generated_at_utc": "2026-10-08T12:01:33Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 780,
+  "total_in_archive": 783,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 48
+    "2026-10": 51
   },
   "recent_for_ui": [
+    {
+      "id": "308d093ebb75d1f094d6394d",
+      "title": "Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz",
+      "url": "https://www.golem.de/news/grundlastfaehig-geothermiekraftwerk-geht-in-utah-ans-stromnetz-2610-213871.html",
+      "published_at": "2026-10-08T10:49:06Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz Bis 2027 soll die Leistung auf 100 Megawatt steigen. Google hat bereits ein Vielfaches bestellt, allein dieser Standort bietet noch mehr. ( Geothermie , Energiewende )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "70062abc9e0ac0ba14532a76",
+      "title": "Urteil gegen EWE Go: Roaming-Gebühren beim Laden könnten sinken",
+      "url": "https://www.golem.de/news/urteil-gegen-ewe-go-roaming-gebuehren-beim-laden-koennten-sinken-2610-213869.html",
+      "published_at": "2026-10-08T10:28:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Urteil gegen EWE Go: Roaming-Gebühren beim Laden könnten sinken Ein Gericht hat die Preisgestaltung von EWE Go gegenüber Roaming-Anbietern für unrechtmäßig erklärt. Das könnte weitreichende Auswirkungen haben. ( Verbraucherschutz , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ac0dfd2234fe61f8b5907e1c",
+      "title": "Second Foundation nimmt 3-Stunden-Speicher mit Batterie- und Energiemanagement aus eigener Entwicklung in Betrieb",
+      "url": "https://www.pv-magazine.de/2026/10/08/second-foundation-nimmt-3-stunden-speicher-mit-batterie-und-energiemanagement-aus-eigener-entwicklung-in-betrieb/",
+      "published_at": "2026-10-08T10:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Second Foundation nimmt 3-Stunden-Speicher mit Batterie- und Energiemanagement aus eigener Entwicklung in Betrieb Der Batteriespeicher in Tirpersdorf verfügt über eine Leistung von 17,25 Megawatt und eine Kapazität von 50 Megawattstunden. Es ist das erste Projekt, in dem das Unternehmen auf Batterie- und Energiemanagement aus der eigenen Entwicklung setzt.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "0d4b9d52a02fc2edbcee7eba",
       "title": "BMW iX4 und iX3 M60 xDrive: Coupé- und leistungsstarke M-Version des iX3 vorgestellt",
@@ -4525,39 +4560,6 @@
       "source_id": "zdf-nachrichten",
       "language": "de",
       "summary": "Tesla: Gewinneinbußen und höhere Kosten Tesla hat im zweiten Quartal einen geringeren Gewinn verbucht. Zudem stiegen die Kosten. Der Elektroautobauer verfehlte die Erwartungen an der Wall Street haushoch.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "210511b7cb99c35b331bd438",
-      "title": "Batteriespeicher-Investments und der Investitionsabzugsbetrag: Die Container-Risiken",
-      "url": "https://www.pv-magazine.de/2026/07/23/batteriespeicher-investments-und-der-investitionsabzugsbetrag-die-container-risiken/",
-      "published_at": "2026-07-23T07:25:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Batteriespeicher-Investments und der Investitionsabzugsbetrag: Die Container-Risiken Direktinvestitionen in Batteriespeicher-Container locken mit hohen Steuervorteilen aus Investitionsabzugsbetrag und Sonderabschreibung, doch ein zentrales Risiko wird in vielen Verkaufsunterlagen nicht thematisiert: Ist das einzeln erworbene Batterie-Pack oder Rack steuerlich überhaupt ein selbständiges Wirtschaft",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9cdbd27415c67b63890a2dea",
-      "title": "Ford verkauft Teil des Spanien-Werks an Rivalen aus China",
-      "url": "https://www.spiegel.de/wirtschaft/ford-verkauft-teil-des-spanien-werks-an-rivalen-aus-china-a-6bda5a00-02da-4b18-ace2-d43884c9d134",
-      "published_at": "2026-07-23T05:10:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Ford verkauft Teil des Spanien-Werks an Rivalen aus China Mit Elektroautos hat Ford bisher wenig Erfolg gehabt. Jetzt will der US-Hersteller mit dem Verkauf von Teilen des Werks in Valencia an den chinesischen Geely-Konzern Kosten senken. Ein Schritt mit Nebenwirkungen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "58bc3a5e4964d17b7cd3e2e6",
-      "title": "Quartalszahlen: Tesla macht weniger Gewinn als im Vorjahr",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-07/tesla-quartalszahlen-gewinn-elon-musk-aktie-gxe",
-      "published_at": "2026-07-23T03:19:21Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "Quartalszahlen: Tesla macht weniger Gewinn als im Vorjahr Der Elektroautobauer kämpft mit hohen Ausgaben und einem von Donald Trump geschmälerten Geschäft mit CO₂-Zertifikaten. Nur der Umsatz fiel besser aus als erwartet.",
       "tags": [],
       "regions": []
     }
