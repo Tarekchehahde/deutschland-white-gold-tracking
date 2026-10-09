@@ -1,8 +1,57 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 54,
+  "article_count": 58,
   "articles": [
+    {
+      "id": "80669660c3c9fffb761265fe",
+      "title": "VW ID.Tiguan vorgestellt: Der ID.4-Nachfolger rollt der Konkurrenz hinterher",
+      "url": "https://www.golem.de/news/vw-id-tiguan-vorgestellt-der-id-4-nachfolger-rollt-der-konkurrenz-hinterher-2610-213882.html",
+      "published_at": "2026-10-09T10:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "VW ID.Tiguan vorgestellt: Der ID.4-Nachfolger rollt der Konkurrenz hinterher Der ID.Tiguan ist eine umfangreiche Modellpflege des VW ID.4. Doch bei Soft- und Hardware ist die Konkurrenz dem Volkswagen-Konzern voraus. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a45a64dc067ee2d9d4801669",
+      "title": "DB Energie will Rahmenvertrag für Photovoltaik-Dachanlagen und Batteriespeicher ausschreiben",
+      "url": "https://www.pv-magazine.de/2026/10/09/db-energie-will-rahmenvertrag-fuer-photovoltaik-dachanlagen-und-batteriespeicher-ausschreiben/",
+      "published_at": "2026-10-09T09:47:52Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "DB Energie will Rahmenvertrag für Photovoltaik-Dachanlagen und Batteriespeicher ausschreiben Zunächst startet das Unternehmen eine Markterkundung. In den nächsten fünf Jahr sieht sie Potenzial etwa 70 Photovoltaik-Dachanlagen mit und ohne Batteriespeicher an Standorten der Deutschen Bahn zu realisieren. Dafür sollen zunächst geeignete Partnerunternehmen identifiziert werden.",
+      "tags": [
+        "exploration",
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "b6bda6f045d1f48ac8eb80b7",
+      "title": "Energiekosten: Batteriespeicher weltweit günstiger als Gasturbinen",
+      "url": "https://www.golem.de/news/energiekosten-batteriespeicher-weltweit-guenstiger-als-gasturbinen-2610-213920.html",
+      "published_at": "2026-10-09T09:31:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Energiekosten: Batteriespeicher weltweit günstiger als Gasturbinen Der hohe Gaspreis hat Auswirkungen auf die Stromkosten. Selbst aus der Batterie sind diese nun niedriger als aus Gas. Der Trend ist eindeutig. ( Akku , Solarenergie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3f2588f337ff845d6eb29c70",
+      "title": "Autonomes Fahren: Teslas Kampagne um die FSD-Zulassung in den Niederlanden",
+      "url": "https://www.golem.de/news/autonomes-fahren-teslas-kampagne-um-die-fsd-zulassung-in-den-niederlanden-2610-213916.html",
+      "published_at": "2026-10-09T08:48:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Teslas Kampagne um die FSD-Zulassung in den Niederlanden Die Korrespondenz mit der niederländischen Verkehrsaufsicht zeigt, wie Tesla die Prüfung zu FSD Supervised beeinflusst hat. Experten üben Kritik. ( Tesla , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
     {
       "id": "ef08cea7f591fd9c0e4c7064",
       "title": "Wirsol baut in Niedersachsen 39 Photovoltaik-Anlagen gekoppelt mit 15 Megawattstunden Grünstromspeicher",
