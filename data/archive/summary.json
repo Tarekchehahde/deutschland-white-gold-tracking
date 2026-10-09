@@ -1,17 +1,42 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-09T11:53:47Z",
+  "generated_at_utc": "2026-10-09T22:39:25Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 790,
+  "total_in_archive": 792,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 58
+    "2026-10": 60
   },
   "recent_for_ui": [
+    {
+      "id": "af71de2525b85108aadf36ab",
+      "title": "Lithium-Abbau: EU stuft Projekte im Osten als strategisch wichtig ein",
+      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/eu-kommission-neptune-energy-altmark-zinnwald,lithium-142.html",
+      "published_at": "2026-10-09T19:06:23Z",
+      "source_id": "tagesschau-st",
+      "language": "de",
+      "summary": "Lithium-Abbau: EU stuft Projekte im Osten als strategisch wichtig ein Die EU hat Projekte zur Lithium-Förderung in Salzwedel und Zinnwald als strategisch wichtig eingestuft. Hintergrund ist, dass Europa unabhängiger von Rohstoffimporten werden will.",
+      "tags": [],
+      "regions": [
+        "DE-SN",
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "6db8dc92212294d48d4a42cc",
+      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+      "published_at": "2026-10-09T11:00:57Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine? \"I can say we’re weeks away from launching on Vulcan.\"",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "80669660c3c9fffb761265fe",
       "title": "VW ID.Tiguan vorgestellt: Der ID.4-Nachfolger rollt der Konkurrenz hinterher",
@@ -4541,30 +4566,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Revolta bringt Natrium-Ionen-Hochvolt-Speicher auf den deutschen Markt Ein Batteriemodul verfügt über 2,0 Kilowattstunden Kapazität. Mit bis zu zehn Modulen kann der Batteriespeicher auf bis zu 20 Kilowattstunden skaliert werden. Mehrere Pilotprojekte hat Revolta bereits in der Pipeline.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4ca84b7f2e243fd7db627daa",
-      "title": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen",
-      "url": "https://www.rnd.de/wirtschaft/die-superpower-der-energiewende-wie-riesige-batteriespeicher-strom-billiger-machen-sollen-VWPIYBRWSNCILHHXHLQ7V2R5IU.html",
-      "published_at": "2026-07-24T10:12:32Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Die Superpower der Energiewende? Wie riesige Batteriespeicher Strom billiger machen sollen Der Ausbau von Speicherbatterien erlebt einen Boom. Die riesigen Akkus können Investoren hohe Renditen bringen – und gleichzeitig den Strom für Verbraucher und Unternehmen billiger machen. Doch es gibt auch Hürden und Risiken.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "e9eb04e7345081b4f4aca8f5",
-      "title": "Hype um Lithiumorotat: Hilft Lithiumorotat wirklich gegen Demenz, Herr Kempermann?",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/hype-um-lithiumorotat-hilft-das-mittel-wirklich-gegen-demenz-accg-201008032.html",
-      "published_at": "2026-07-24T08:09:59Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Hype um Lithiumorotat: Hilft Lithiumorotat wirklich gegen Demenz, Herr Kempermann? Es soll vor dem Vergessen bewahren, wird im Netz gefeiert und ist in Deutschland verboten: Lithiumorotat. Ein Neurowissenschaftler ordnet den Hype ein – und erklärt, was wirklich vor Alzheimer schützen kann.",
       "tags": [],
       "regions": []
     }

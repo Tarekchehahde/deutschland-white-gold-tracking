@@ -3,8 +3,9 @@
   "articles_per_day": {
     "2026-10-04": 1,
     "2026-10-05": 1,
-    "2026-10-08": 2,
-    "2026-10-09": 4
+    "2026-10-06": 1,
+    "2026-10-08": 1,
+    "2026-10-09": 6
   },
   "tag_counts": {
     "exploration": 1,
@@ -12,6 +13,7 @@
     "politik": 1
   },
   "by_source_category": {
-    "national": 8
+    "national": 9,
+    "regional": 1
   }
 }

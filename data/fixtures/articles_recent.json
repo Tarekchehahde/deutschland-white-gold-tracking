@@ -2,6 +2,31 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "af71de2525b85108aadf36ab",
+      "title": "Lithium-Abbau: EU stuft Projekte im Osten als strategisch wichtig ein",
+      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/eu-kommission-neptune-energy-altmark-zinnwald,lithium-142.html",
+      "published_at": "2026-10-09T19:06:23Z",
+      "source_id": "tagesschau-st",
+      "language": "de",
+      "summary": "Lithium-Abbau: EU stuft Projekte im Osten als strategisch wichtig ein Die EU hat Projekte zur Lithium-Förderung in Salzwedel und Zinnwald als strategisch wichtig eingestuft. Hintergrund ist, dass Europa unabhängiger von Rohstoffimporten werden will.",
+      "tags": [],
+      "regions": [
+        "DE-SN",
+        "DE-ST"
+      ]
+    },
+    {
+      "id": "6db8dc92212294d48d4a42cc",
+      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+      "published_at": "2026-10-09T11:00:57Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine? \"I can say we’re weeks away from launching on Vulcan.\"",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "80669660c3c9fffb761265fe",
       "title": "VW ID.Tiguan vorgestellt: Der ID.4-Nachfolger rollt der Konkurrenz hinterher",
       "url": "https://www.golem.de/news/vw-id-tiguan-vorgestellt-der-id-4-nachfolger-rollt-der-konkurrenz-hinterher-2610-213882.html",
@@ -62,13 +87,13 @@
       "regions": []
     },
     {
-      "id": "739aed125973d0a78275e581",
-      "title": "Autoindustrie: Lasst sie weiter Verbrenner bauen – und den Preis dafür zahlen",
-      "url": "https://www.sueddeutsche.de/wirtschaft/autoindustrie-verbrenner-elektroautos-porsche-kommentar-li.3560414",
-      "published_at": "2026-10-08T12:29:50Z",
-      "source_id": "sueddeutsche-wirtschaft",
+      "id": "1543cedc5ab79371f6f38bb3",
+      "title": "Toyota bZ4X: Nächster Versuch",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/der-neue-toyota-bz4x-im-test-201252871.html",
+      "published_at": "2026-10-06T15:10:20Z",
+      "source_id": "faz-aktuell",
       "language": "de",
-      "summary": "Autoindustrie: Lasst sie weiter Verbrenner bauen – und den Preis dafür zahlen Die deutschen Autohersteller haben erfolgreich in Brüssel lobbyiert. Nun haben sie wenigstens keine Ausreden mehr, wenn die Konkurrenz sie bei den Elektroautos abhängt.",
+      "summary": "Toyota bZ4X: Nächster Versuch Das erste Elektroauto von Toyota auf dem deutschen Markt enttäuschte Kunden und Fachpresse. Also auf ein Neues. Der Name ist der alte: bZ4X, die Technik grundlegend überarbeitet.",
       "tags": [],
       "regions": []
     },
