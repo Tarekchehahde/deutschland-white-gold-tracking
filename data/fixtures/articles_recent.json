@@ -2,6 +2,55 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "80669660c3c9fffb761265fe",
+      "title": "VW ID.Tiguan vorgestellt: Der ID.4-Nachfolger rollt der Konkurrenz hinterher",
+      "url": "https://www.golem.de/news/vw-id-tiguan-vorgestellt-der-id-4-nachfolger-rollt-der-konkurrenz-hinterher-2610-213882.html",
+      "published_at": "2026-10-09T10:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "VW ID.Tiguan vorgestellt: Der ID.4-Nachfolger rollt der Konkurrenz hinterher Der ID.Tiguan ist eine umfangreiche Modellpflege des VW ID.4. Doch bei Soft- und Hardware ist die Konkurrenz dem Volkswagen-Konzern voraus. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a45a64dc067ee2d9d4801669",
+      "title": "DB Energie will Rahmenvertrag für Photovoltaik-Dachanlagen und Batteriespeicher ausschreiben",
+      "url": "https://www.pv-magazine.de/2026/10/09/db-energie-will-rahmenvertrag-fuer-photovoltaik-dachanlagen-und-batteriespeicher-ausschreiben/",
+      "published_at": "2026-10-09T09:47:52Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "DB Energie will Rahmenvertrag für Photovoltaik-Dachanlagen und Batteriespeicher ausschreiben Zunächst startet das Unternehmen eine Markterkundung. In den nächsten fünf Jahr sieht sie Potenzial etwa 70 Photovoltaik-Dachanlagen mit und ohne Batteriespeicher an Standorten der Deutschen Bahn zu realisieren. Dafür sollen zunächst geeignete Partnerunternehmen identifiziert werden.",
+      "tags": [
+        "exploration",
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "b6bda6f045d1f48ac8eb80b7",
+      "title": "Energiekosten: Batteriespeicher weltweit günstiger als Gasturbinen",
+      "url": "https://www.golem.de/news/energiekosten-batteriespeicher-weltweit-guenstiger-als-gasturbinen-2610-213920.html",
+      "published_at": "2026-10-09T09:31:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Energiekosten: Batteriespeicher weltweit günstiger als Gasturbinen Der hohe Gaspreis hat Auswirkungen auf die Stromkosten. Selbst aus der Batterie sind diese nun niedriger als aus Gas. Der Trend ist eindeutig. ( Akku , Solarenergie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3f2588f337ff845d6eb29c70",
+      "title": "Autonomes Fahren: Teslas Kampagne um die FSD-Zulassung in den Niederlanden",
+      "url": "https://www.golem.de/news/autonomes-fahren-teslas-kampagne-um-die-fsd-zulassung-in-den-niederlanden-2610-213916.html",
+      "published_at": "2026-10-09T08:48:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Teslas Kampagne um die FSD-Zulassung in den Niederlanden Die Korrespondenz mit der niederländischen Verkehrsaufsicht zeigt, wie Tesla die Prüfung zu FSD Supervised beeinflusst hat. Experten üben Kritik. ( Tesla , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
       "id": "ef08cea7f591fd9c0e4c7064",
       "title": "Wirsol baut in Niedersachsen 39 Photovoltaik-Anlagen gekoppelt mit 15 Megawattstunden Grünstromspeicher",
       "url": "https://www.pv-magazine.de/2026/10/08/wirsol-baut-in-niedersachsen-39-photovoltaik-anlagen-gekoppelt-mit-15-megawattstunden-gruenstromspeicher/",
@@ -13,17 +62,6 @@
       "regions": []
     },
     {
-      "id": "6a1d278beddb244085efbcfc",
-      "title": "Mehr Reichweite: Elektrobus kann über Reifen geladen werden",
-      "url": "https://www.golem.de/news/mehr-reichweite-elektrobus-kann-ueber-reifen-geladen-werden-2610-213880.html",
-      "published_at": "2026-10-08T12:54:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Mehr Reichweite: Elektrobus kann über Reifen geladen werden Busse könnten mit kleineren Batterien größere Strecken fahren. Das senkt die Gesamtkosten, erfordert aber neue Lösungen. ( Elektrobus , Elektromobilität )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "739aed125973d0a78275e581",
       "title": "Autoindustrie: Lasst sie weiter Verbrenner bauen – und den Preis dafür zahlen",
       "url": "https://www.sueddeutsche.de/wirtschaft/autoindustrie-verbrenner-elektroautos-porsche-kommentar-li.3560414",
@@ -31,52 +69,6 @@
       "source_id": "sueddeutsche-wirtschaft",
       "language": "de",
       "summary": "Autoindustrie: Lasst sie weiter Verbrenner bauen – und den Preis dafür zahlen Die deutschen Autohersteller haben erfolgreich in Brüssel lobbyiert. Nun haben sie wenigstens keine Ausreden mehr, wenn die Konkurrenz sie bei den Elektroautos abhängt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "308d093ebb75d1f094d6394d",
-      "title": "Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz",
-      "url": "https://www.golem.de/news/grundlastfaehig-geothermiekraftwerk-geht-in-utah-ans-stromnetz-2610-213871.html",
-      "published_at": "2026-10-08T10:49:06Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz Bis 2027 soll die Leistung auf 100 Megawatt steigen. Google hat bereits ein Vielfaches bestellt, allein dieser Standort bietet noch mehr. ( Geothermie , Energiewende )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "70062abc9e0ac0ba14532a76",
-      "title": "Urteil gegen EWE Go: Roaming-Gebühren beim Laden könnten sinken",
-      "url": "https://www.golem.de/news/urteil-gegen-ewe-go-roaming-gebuehren-beim-laden-koennten-sinken-2610-213869.html",
-      "published_at": "2026-10-08T10:28:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Urteil gegen EWE Go: Roaming-Gebühren beim Laden könnten sinken Ein Gericht hat die Preisgestaltung von EWE Go gegenüber Roaming-Anbietern für unrechtmäßig erklärt. Das könnte weitreichende Auswirkungen haben. ( Verbraucherschutz , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ac0dfd2234fe61f8b5907e1c",
-      "title": "Second Foundation nimmt 3-Stunden-Speicher mit Batterie- und Energiemanagement aus eigener Entwicklung in Betrieb",
-      "url": "https://www.pv-magazine.de/2026/10/08/second-foundation-nimmt-3-stunden-speicher-mit-batterie-und-energiemanagement-aus-eigener-entwicklung-in-betrieb/",
-      "published_at": "2026-10-08T10:20:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Second Foundation nimmt 3-Stunden-Speicher mit Batterie- und Energiemanagement aus eigener Entwicklung in Betrieb Der Batteriespeicher in Tirpersdorf verfügt über eine Leistung von 17,25 Megawatt und eine Kapazität von 50 Megawattstunden. Es ist das erste Projekt, in dem das Unternehmen auf Batterie- und Energiemanagement aus der eigenen Entwicklung setzt.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "0fefac697fc99d6964250567",
-      "title": "Langzeitspeicher: Zwei Länder, eine Versorgungslücke",
-      "url": "https://www.pv-magazine.de/2026/10/07/langzeitspeicher-zwei-laender-eine-versorgungsluecke/",
-      "published_at": "2026-10-07T12:51:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Langzeitspeicher: Zwei Länder, eine Versorgungslücke Großbritannien schafft mit einem Cap-and-Floor-Modell einen Markt für Batteriespeicher mit bis zu 18 Stunden Entladedauer. Deutschland steht vor einer ähnlichen Versorgungslücke, doch das StromVKG ist so ausgestaltet, dass Speicher kaum zum Zuge kommen dürften. Der Vergleich zeigt, wie unterschiedlich zwei Länder dieselbe Aufgabe angehen – und w",
       "tags": [],
       "regions": []
     },

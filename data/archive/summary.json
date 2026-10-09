@@ -1,17 +1,66 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-08T23:22:05Z",
+  "generated_at_utc": "2026-10-09T11:53:47Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 786,
+  "total_in_archive": 790,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 54
+    "2026-10": 58
   },
   "recent_for_ui": [
+    {
+      "id": "80669660c3c9fffb761265fe",
+      "title": "VW ID.Tiguan vorgestellt: Der ID.4-Nachfolger rollt der Konkurrenz hinterher",
+      "url": "https://www.golem.de/news/vw-id-tiguan-vorgestellt-der-id-4-nachfolger-rollt-der-konkurrenz-hinterher-2610-213882.html",
+      "published_at": "2026-10-09T10:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "VW ID.Tiguan vorgestellt: Der ID.4-Nachfolger rollt der Konkurrenz hinterher Der ID.Tiguan ist eine umfangreiche Modellpflege des VW ID.4. Doch bei Soft- und Hardware ist die Konkurrenz dem Volkswagen-Konzern voraus. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a45a64dc067ee2d9d4801669",
+      "title": "DB Energie will Rahmenvertrag für Photovoltaik-Dachanlagen und Batteriespeicher ausschreiben",
+      "url": "https://www.pv-magazine.de/2026/10/09/db-energie-will-rahmenvertrag-fuer-photovoltaik-dachanlagen-und-batteriespeicher-ausschreiben/",
+      "published_at": "2026-10-09T09:47:52Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "DB Energie will Rahmenvertrag für Photovoltaik-Dachanlagen und Batteriespeicher ausschreiben Zunächst startet das Unternehmen eine Markterkundung. In den nächsten fünf Jahr sieht sie Potenzial etwa 70 Photovoltaik-Dachanlagen mit und ohne Batteriespeicher an Standorten der Deutschen Bahn zu realisieren. Dafür sollen zunächst geeignete Partnerunternehmen identifiziert werden.",
+      "tags": [
+        "exploration",
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "b6bda6f045d1f48ac8eb80b7",
+      "title": "Energiekosten: Batteriespeicher weltweit günstiger als Gasturbinen",
+      "url": "https://www.golem.de/news/energiekosten-batteriespeicher-weltweit-guenstiger-als-gasturbinen-2610-213920.html",
+      "published_at": "2026-10-09T09:31:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Energiekosten: Batteriespeicher weltweit günstiger als Gasturbinen Der hohe Gaspreis hat Auswirkungen auf die Stromkosten. Selbst aus der Batterie sind diese nun niedriger als aus Gas. Der Trend ist eindeutig. ( Akku , Solarenergie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3f2588f337ff845d6eb29c70",
+      "title": "Autonomes Fahren: Teslas Kampagne um die FSD-Zulassung in den Niederlanden",
+      "url": "https://www.golem.de/news/autonomes-fahren-teslas-kampagne-um-die-fsd-zulassung-in-den-niederlanden-2610-213916.html",
+      "published_at": "2026-10-09T08:48:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Teslas Kampagne um die FSD-Zulassung in den Niederlanden Die Korrespondenz mit der niederländischen Verkehrsaufsicht zeigt, wie Tesla die Prüfung zu FSD Supervised beeinflusst hat. Experten üben Kritik. ( Tesla , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
     {
       "id": "ef08cea7f591fd9c0e4c7064",
       "title": "Wirsol baut in Niedersachsen 39 Photovoltaik-Anlagen gekoppelt mit 15 Megawattstunden Grünstromspeicher",
@@ -4516,50 +4565,6 @@
       "source_id": "faz-aktuell",
       "language": "de",
       "summary": "Hype um Lithiumorotat: Hilft Lithiumorotat wirklich gegen Demenz, Herr Kempermann? Es soll vor dem Vergessen bewahren, wird im Netz gefeiert und ist in Deutschland verboten: Lithiumorotat. Ein Neurowissenschaftler ordnet den Hype ein – und erklärt, was wirklich vor Alzheimer schützen kann.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b54ce66b2e87915a55294ee9",
-      "title": "Plattformwechsel: Apple Maps zieht fest in Fords E-Autos ein",
-      "url": "https://www.golem.de/news/plattformwechsel-apple-maps-zieht-fest-in-fords-e-autos-ein-2607-211238.html",
-      "published_at": "2026-07-24T08:02:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Plattformwechsel: Apple Maps zieht fest in Fords E-Autos ein Ford baut Apple Maps direkt in seine kommende Elektroauto-Plattform ein. Den Anfang macht 2027 ein neuer Pick-up für rund 30.000 Dollar. ( Ford , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9e1e391fb5d46df6a077e6e6",
-      "title": "Smart #5 Brabus im Test: Familienkutschen-Sleeper mit unerwartet viel Wumms und Gebimmel",
-      "url": "https://www.golem.de/news/smart-5-brabus-im-test-familienkutschen-sleeper-mit-unerwartet-viel-wumms-und-gebimmel-2607-211206.html",
-      "published_at": "2026-07-24T07:10:05Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Smart #5 Brabus im Test: Familienkutschen-Sleeper mit unerwartet viel Wumms und Gebimmel Die Brabus-Version von Smarts #5 mit 646 PS beschleunigt rasant und ist ein großartiges Langstreckenauto. Die Software nervt allerdings oft. Ein Praxistest von Tobias Költzsch ( Elektroauto , Test )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f2669afdd1b1f15157106705",
-      "title": "Krebs: Die unterschätzte Gefahr des Übergewichts",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/uebergewicht-krebsrisiko-doppelt-so-hoch-wie-gedacht-accg-201040007.html",
-      "published_at": "2026-07-24T06:07:09Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Krebs: Die unterschätzte Gefahr des Übergewichts Fettgewebe ist nicht einfach nur ein Energiespeicher, sondern beeinflusst den Stoffwechsel. Und es trägt offenbar doppelt so viel zur Entstehung von Krebs bei als bisher angenommen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "eec00549aff13162c037c30f",
-      "title": "Feuer in 1,5-Megawatt-Batteriespeicher in Bautzen gelöscht",
-      "url": "https://www.pv-magazine.de/2026/07/23/feuer-in-15-megawatt-batteriespeicher-in-bautzen-geloscht/",
-      "published_at": "2026-07-23T15:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Feuer in 1,5-Megawatt-Batteriespeicher in Bautzen gelöscht Update: Das Feuer in dem seit Dienstagnachmittag brennenden Batteriespeicher ist gelöscht, wie die Stadt am Donnerstag mitteilte. Sie hob die Vorsichtsmaßnahmen mittlerweile auf.",
       "tags": [],
       "regions": []
     }
