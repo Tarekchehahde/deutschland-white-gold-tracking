@@ -5,15 +5,15 @@
     "2026-10-05": 1,
     "2026-10-06": 1,
     "2026-10-08": 1,
-    "2026-10-09": 6
+    "2026-10-09": 7
   },
   "tag_counts": {
     "exploration": 1,
     "industrie": 1,
-    "politik": 1
+    "politik": 2
   },
   "by_source_category": {
-    "national": 9,
+    "national": 10,
     "regional": 1
   }
 }
