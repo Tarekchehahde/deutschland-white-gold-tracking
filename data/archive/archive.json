@@ -2,6 +2,28 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "3c596d6f6336643b196a8237",
+      "title": "„Assisted Driving“: Tesla benennt Assistenzsystem in Europa um",
+      "url": "https://www.sueddeutsche.de/wirtschaft/tesla-fahrassistenzsystem-europa-fsd-assisted-driving-elon-musk-autonomes-fahren-li.3561790",
+      "published_at": "2026-10-11T10:22:49Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "„Assisted Driving“: Tesla benennt Assistenzsystem in Europa um Tesla spricht in Europa künftig von „Tesla Assisted Driving“. Damit reagiert der Elektroauto-Hersteller auf den Vorwurf, der bisherige Name verspreche autonomes Fahren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b9a5e058b5780339f7393396",
+      "title": "Assistenzsystem: Tesla benennt Full Self Driving um",
+      "url": "https://www.golem.de/news/assistenzsystem-tesla-benennt-full-self-driving-um-2610-213959.html",
+      "published_at": "2026-10-11T09:32:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Assistenzsystem: Tesla benennt Full Self Driving um Nach Kritik aus Deutschland hat Tesla sein Assistenzsystem umbenannt. Der neue Name klingt bescheidener, die Technik bleibt die gleiche. ( Autonomes Fahren , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "af71de2525b85108aadf36ab",
       "title": "Lithium-Abbau: EU stuft Projekte im Osten als strategisch wichtig ein",
       "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/eu-kommission-neptune-energy-altmark-zinnwald,lithium-142.html",

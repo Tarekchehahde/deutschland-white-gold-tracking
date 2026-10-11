@@ -1,17 +1,39 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-10T21:45:59Z",
+  "generated_at_utc": "2026-10-11T11:24:19Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 793,
+  "total_in_archive": 795,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 61
+    "2026-10": 63
   },
   "recent_for_ui": [
+    {
+      "id": "3c596d6f6336643b196a8237",
+      "title": "„Assisted Driving“: Tesla benennt Assistenzsystem in Europa um",
+      "url": "https://www.sueddeutsche.de/wirtschaft/tesla-fahrassistenzsystem-europa-fsd-assisted-driving-elon-musk-autonomes-fahren-li.3561790",
+      "published_at": "2026-10-11T10:22:49Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "„Assisted Driving“: Tesla benennt Assistenzsystem in Europa um Tesla spricht in Europa künftig von „Tesla Assisted Driving“. Damit reagiert der Elektroauto-Hersteller auf den Vorwurf, der bisherige Name verspreche autonomes Fahren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b9a5e058b5780339f7393396",
+      "title": "Assistenzsystem: Tesla benennt Full Self Driving um",
+      "url": "https://www.golem.de/news/assistenzsystem-tesla-benennt-full-self-driving-um-2610-213959.html",
+      "published_at": "2026-10-11T09:32:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Assistenzsystem: Tesla benennt Full Self Driving um Nach Kritik aus Deutschland hat Tesla sein Assistenzsystem umbenannt. Der neue Name klingt bescheidener, die Technik bleibt die gleiche. ( Autonomes Fahren , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "af71de2525b85108aadf36ab",
       "title": "Lithium-Abbau: EU stuft Projekte im Osten als strategisch wichtig ein",
@@ -4545,30 +4567,6 @@
       "language": "de",
       "summary": "(g+) Opinion: Japan automakers bought time with hybrids, now must spend it on software Competition between intelligent vehicles and merely electrified ones has just begun Von Hans Greimel ( Wirtschaft , Elektroauto )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ad47ee52be6b485e6fd027d8",
-      "title": "Wirtschaftsblase: Die Tesla-SpaceX-Blase platzt",
-      "url": "https://www.golem.de/news/wirtschaftsblase-die-tesla-spacex-blase-platzt-2607-211258.html",
-      "published_at": "2026-07-24T15:35:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Wirtschaftsblase: Die Tesla-SpaceX-Blase platzt Die Geschäftspläne, die nicht von Science-Fiction-Romanen zu unterscheiden sind, überzeugen nicht mehr. Eine Analyse von Frank Wunderlich-Pfeiffer ( SpaceX , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c587d49a1ba9bb9bca732d81",
-      "title": "Photovoltaik rettet Leben",
-      "url": "https://www.pv-magazine.de/2026/07/24/photovoltaik-rettet-leben/",
-      "published_at": "2026-07-24T12:05:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Photovoltaik rettet Leben Solarmodule, Batteriespeicher, Hybrid-Wechselrichter, kurz: Photovoltaik-Komponenten für notstromfähige Systeme stehen im Mittelpunkt der Kampagne Solar für die Ukraine. Die Initiative von Greenpeace und Biohaus-Stiftung gibt es schon länger, doch eines bleibt immer aktuell: der Aufruf, sie mit Spenden zu unterstützen. Wobei gerade Unternehmen dabei durchaus auch für sich",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]

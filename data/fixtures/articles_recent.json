@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "3c596d6f6336643b196a8237",
+      "title": "„Assisted Driving“: Tesla benennt Assistenzsystem in Europa um",
+      "url": "https://www.sueddeutsche.de/wirtschaft/tesla-fahrassistenzsystem-europa-fsd-assisted-driving-elon-musk-autonomes-fahren-li.3561790",
+      "published_at": "2026-10-11T10:22:49Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "„Assisted Driving“: Tesla benennt Assistenzsystem in Europa um Tesla spricht in Europa künftig von „Tesla Assisted Driving“. Damit reagiert der Elektroauto-Hersteller auf den Vorwurf, der bisherige Name verspreche autonomes Fahren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b9a5e058b5780339f7393396",
+      "title": "Assistenzsystem: Tesla benennt Full Self Driving um",
+      "url": "https://www.golem.de/news/assistenzsystem-tesla-benennt-full-self-driving-um-2610-213959.html",
+      "published_at": "2026-10-11T09:32:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Assistenzsystem: Tesla benennt Full Self Driving um Nach Kritik aus Deutschland hat Tesla sein Assistenzsystem umbenannt. Der neue Name klingt bescheidener, die Technik bleibt die gleiche. ( Autonomes Fahren , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "af71de2525b85108aadf36ab",
       "title": "Lithium-Abbau: EU stuft Projekte im Osten als strategisch wichtig ein",
       "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/eu-kommission-neptune-energy-altmark-zinnwald,lithium-142.html",
@@ -16,6 +38,19 @@
       ]
     },
     {
+      "id": "70a2e1b7b6c73cf95f8c342e",
+      "title": "Druck aus Deutschland: Tesla benennt Assistenzsystem um",
+      "url": "https://t3n.de/news/tesla-streicht-full-self-driving-europa-1767628/",
+      "published_at": "2026-10-09T18:00:11Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Druck aus Deutschland: Tesla benennt Assistenzsystem um Jahrelang galt die Bezeichnung als markantes Aushängeschild für Teslas Fahrsoftware. Nun vollzieht der US-Konzern auf Druck des deutschen Verkehrsministers eine bemerkenswerte Kurskorrektur. Der US-Elektroautobauer Tesla ändert die offizielle Bezeichnung seines Fahrassistenzsystems für den europäischen Markt. Wie Techcrunch berichtet, firmier",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
       "id": "6db8dc92212294d48d4a42cc",
       "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
       "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
@@ -23,17 +58,6 @@
       "source_id": "arstechnica-all",
       "language": "en",
       "summary": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine? \"I can say we’re weeks away from launching on Vulcan.\"",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "80669660c3c9fffb761265fe",
-      "title": "VW ID.Tiguan vorgestellt: Der ID.4-Nachfolger rollt der Konkurrenz hinterher",
-      "url": "https://www.golem.de/news/vw-id-tiguan-vorgestellt-der-id-4-nachfolger-rollt-der-konkurrenz-hinterher-2610-213882.html",
-      "published_at": "2026-10-09T10:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "VW ID.Tiguan vorgestellt: Der ID.4-Nachfolger rollt der Konkurrenz hinterher Der ID.Tiguan ist eine umfangreiche Modellpflege des VW ID.4. Doch bei Soft- und Hardware ist die Konkurrenz dem Volkswagen-Konzern voraus. ( Elektroauto , Auto )",
       "tags": [],
       "regions": []
     },
@@ -49,17 +73,6 @@
         "exploration",
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "b6bda6f045d1f48ac8eb80b7",
-      "title": "Energiekosten: Batteriespeicher weltweit günstiger als Gasturbinen",
-      "url": "https://www.golem.de/news/energiekosten-batteriespeicher-weltweit-guenstiger-als-gasturbinen-2610-213920.html",
-      "published_at": "2026-10-09T09:31:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Energiekosten: Batteriespeicher weltweit günstiger als Gasturbinen Der hohe Gaspreis hat Auswirkungen auf die Stromkosten. Selbst aus der Batterie sind diese nun niedriger als aus Gas. Der Trend ist eindeutig. ( Akku , Solarenergie )",
-      "tags": [],
       "regions": []
     },
     {
@@ -81,17 +94,6 @@
       "source_id": "faz-aktuell",
       "language": "de",
       "summary": "Toyota bZ4X: Nächster Versuch Das erste Elektroauto von Toyota auf dem deutschen Markt enttäuschte Kunden und Fachpresse. Also auf ein Neues. Der Name ist der alte: bZ4X, die Technik grundlegend überarbeitet.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c650ac2a505cd84d473eb047",
-      "title": "Neustart bei Porsche: Autos, die keiner braucht",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-in-der-krise-michael-leiters-riskanter-verbrenner-kurs-accg-201268752.html",
-      "published_at": "2026-10-04T10:26:18Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Neustart bei Porsche: Autos, die keiner braucht Die Krise von Porsche zeigt: Sportwagenfans haben keine Lust auf Elektroautos. Jetzt lässt der neue Chef mehr Verbrenner-Autos entwickeln. So riskiert er, die nächste Generation von Kunden zu verlieren.",
       "tags": [],
       "regions": []
     }
