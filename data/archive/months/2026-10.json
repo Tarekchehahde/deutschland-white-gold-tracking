@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 63,
+  "article_count": 64,
   "articles": [
+    {
+      "id": "da1208158108c83188bcaafa",
+      "title": "ÖPNV: Hamburg kommt mit Wasserstoffbussen nicht voran",
+      "url": "https://www.golem.de/news/oepnv-hamburg-kommt-mit-wasserstoffbussen-nicht-voran-2610-213965.html",
+      "published_at": "2026-10-11T12:11:06Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "ÖPNV: Hamburg kommt mit Wasserstoffbussen nicht voran Brennstoffzellenantriebe werden als Alternative zu Elektrobussen gehandelt. In der Praxis gibt es technische Probleme und teuren grünen Wasserstoff. ( Elektrobus , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "3c596d6f6336643b196a8237",
       "title": "„Assisted Driving“: Tesla benennt Assistenzsystem in Europa um",
