@@ -1,17 +1,83 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-11T21:59:07Z",
+  "generated_at_utc": "2026-10-12T13:09:56Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 796,
+  "total_in_archive": 802,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 64
+    "2026-10": 70
   },
   "recent_for_ui": [
+    {
+      "id": "c691a508f04aed70aeb7d812",
+      "title": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-china-hybridautos-102.html",
+      "published_at": "2026-10-12T11:38:03Z",
+      "source_id": "tagesschau-europa",
+      "language": "de",
+      "summary": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr Seit zwei Jahren sind EU-Zölle auf Elektroautos aus China in Kraft, viele chinesische Hersteller steigerten seitdem ihre Exporte von Hybridfahrzeugen. Dem setzt die Europäische Union jetzt Grenzen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e7863846c9394c930df336cb",
+      "title": "E-Auto-Verkäufe rückläufig: Starke Einbrüche von VW auf wichtigen Märkten",
+      "url": "https://www.golem.de/news/e-auto-verkaeufe-ruecklaeufig-starke-einbrueche-von-vw-auf-wichtigen-maerkten-2610-213999.html",
+      "published_at": "2026-10-12T11:01:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "E-Auto-Verkäufe rückläufig: Starke Einbrüche von VW auf wichtigen Märkten Nur in Europa kann VW in diesem Jahr mehr E-Autos verkaufen. Das kann den starken Rückgang in anderen Regionen nicht ausgleichen. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fcf4f6863c5f43b547ec384d",
+      "title": "Subaru E-Outback im Offroad-Test: Subarus neues Elektroauto kann auch ohne Straßen",
+      "url": "https://www.golem.de/news/subaru-e-outback-im-offroad-test-wuehlen-unter-strom-2610-213947.html",
+      "published_at": "2026-10-12T10:00:06Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Subaru E-Outback im Offroad-Test: Subarus neues Elektroauto kann auch ohne Straßen Tiefer Sand, steile Hänge und in der Luft hängende Räder: Subaru schickt seinen elektrischen Outback ins Gelände. Im Test zeigt sich, was der Allrad-SUV kann. Ein Test von Tobias Költzsch ( Subaru , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "861eb657ebf63c77a989daff",
+      "title": "Elektroauto-Boom: Zuerst kippt der Diesel. Dann kann es sehr schnell gehen",
+      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-boom-zuerst-kippt-der-diesel-dann-kann-es-sehr-schnell-gehen-a-67a37482-c48f-4c23-b857-d9213f2ed9c3",
+      "published_at": "2026-10-12T09:04:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto-Boom: Zuerst kippt der Diesel. Dann kann es sehr schnell gehen In Brüssel kämpft die Autobranche für den Verbrennungsmotor, doch die Käufer rennen der Technik in Scharen davon. Viel spricht dafür, dass sich E-Autos deutlich früher durchsetzen als gedacht.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4f840a7aeb788338215c4f8a",
+      "title": "Die Ente fliegt wieder: Citroën bringt den 2CV als E-Kleinwagen zurück",
+      "url": "https://www.golem.de/news/die-ente-fliegt-wieder-citroen-bringt-den-2cv-als-e-kleinwagen-zurueck-2610-213980.html",
+      "published_at": "2026-10-12T06:29:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Die Ente fliegt wieder: Citroën bringt den 2CV als E-Kleinwagen zurück Auf dem Pariser Autosalon 2026 zeigt Citroën das 2CV Concept. Kompakt, leicht und für rund 15.000 Euro geplant, soll das Auto 2028 erscheinen. ( Citroën , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "44732827b8f9333e7d0cfd98",
+      "title": "heise+ | Elektroauto Xpeng X9 im Test: Die konsequente Absage an Agilität",
+      "url": "https://www.heise.de/tests/Elektroauto-Xpeng-X9-im-Test-Die-konsequente-Absage-an-Agilitaet-11480552.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-10-12T05:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroauto Xpeng X9 im Test: Die konsequente Absage an Agilität Der komfortable X9 liefert einige Superlative im Test: Er ist wahrlich riesig und kann schneller laden, als es die hiesige Infrastruktur meistens erlaubt.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "da1208158108c83188bcaafa",
       "title": "ÖPNV: Hamburg kommt mit Wasserstoffbussen nicht voran",
@@ -4498,74 +4564,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Weltweite Batteriespeicher-Leistung wird sich bis 2030 versechsfachen Global Data erwartet bis zum Ende des Jahrzehnts eine Wachstumsrate von 42 Prozent pro Jahr. Als Gründe nennen die US-Analysten unter anderem den Flexibilisierungsbedarf bei den Erneuerbaren sowie sinkende Speicherkosten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "50cdfd534f81900a69ae0d2d",
-      "title": "6,6 Millionen neue Elektroautos: Markt wächst langsamer",
-      "url": "https://www.heise.de/news/6-6-Millionen-neue-Elektroautos-Markt-waechst-langsamer-11379674.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-28T05:54:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "6,6 Millionen neue Elektroautos: Markt wächst langsamer Weil China schwächelt, geht es bei den Verkaufszahlen der E-Autos weltweit etwas langsamer als zuvor voran. In Europa läuft es deutlich besser.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "45212858ceedb57a040de229",
-      "title": "Cornex peilt ein Drittel des deutschen Batteriespeichermarkts an",
-      "url": "https://www.pv-magazine.de/2026/07/27/cornex-peilt-ein-drittel-des-deutschen-batteriespeichermarkts-an/",
-      "published_at": "2026-07-27T08:20:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Cornex peilt ein Drittel des deutschen Batteriespeichermarkts an Der chinesische Zellhersteller will seine Position im europäischen Speichersegment deutlich ausbauen. Feng Huang erläutert die Strategie für Deutschland, die Aufteilung zwischen Zellverkauf und DC-Containern sowie die Unterschiede zwischen den führenden Batterieherstellern.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7151c3d010fd06c43ac10295",
-      "title": "Das CCWPS-Speicherkraftwerk als ein netzdienliches Systemelement -vor allem für die Stromstrategie als der Basis der zukünftigen effizienten, klimaneutralen Energieversorgung",
-      "url": "https://www.pv-magazine.de/2026/07/27/das-ccwps-speicherkraftwerk-als-ein-netzdienliches-systemelement-vor-allem-fuer-die-stromstrategie-als-der-basis-der-zukuenftigen-effizienten-klimaneutralen-energieversorgung/",
-      "published_at": "2026-07-27T08:15:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Das CCWPS-Speicherkraftwerk als ein netzdienliches Systemelement -vor allem für die Stromstrategie als der Basis der zukünftigen effizienten, klimaneutralen Energieversorgung Das CCWPS-Verfahren ist Basis für ein auch netzdienliches Giga Wattstunden Strom Großspeicher-System. Ohne Einsatz von Lithium, sondern nur mit langlebigen, bewährten technischen Anlagen nach dem Stand der Technik. Es ist dam",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "4536fd84f7fac25dc3b35c7c",
-      "title": "Blume will höhere Zölle: VW-Elektroautos boomen",
-      "url": "https://www.golem.de/news/blume-will-hoehere-zoelle-vw-elektroautos-boomen-2607-211294.html",
-      "published_at": "2026-07-27T05:33:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Blume will höhere Zölle: VW-Elektroautos boomen Volkswagen bekommt mehr Bestellungen für Elektroautos. Konzernchef Blume spricht deshalb kaum noch über ein Verbrennerverbot. ( VW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c8dc6dab555ae418c16fb7b3",
-      "title": "heise+ | Elektroauto Kia EV2 im Test: Kurz und gut",
-      "url": "https://www.heise.de/tests/Elektroauto-Kia-EV2-im-Test-Kurz-und-gut-11354828.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-07-26T12:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Elektroauto Kia EV2 im Test: Kurz und gut Gemessen daran, dass der EV2 ein Kleinwagen ist, fährt er ziemlich erwachsen und ist auch mit der kleinen Batterie empfehlenswert, sofern das Profil stimmt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "eb1c21f912bca7dd059bd8a4",
-      "title": "Elektroauto: Audi A2 E-Tron gesichtet, Preise starten bei 38.200 Euro",
-      "url": "https://www.golem.de/news/elektroauto-audi-a2-e-tron-gesichtet-preise-starten-bei-38-200-euro-2607-211286.html",
-      "published_at": "2026-07-25T12:14:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Audi A2 E-Tron gesichtet, Preise starten bei 38.200 Euro Audis kommender A2 E-Tron ist in Kopenhagen gesichtet worden. Der Einstiegspreis soll merklich über dem des ID.3 liegen. ( Audi , Elektroauto )",
       "tags": [],
       "regions": []
     }
