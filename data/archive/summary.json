@@ -1,17 +1,28 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-13T12:42:16Z",
+  "generated_at_utc": "2026-10-13T22:46:06Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 812,
+  "total_in_archive": 813,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 80
+    "2026-10": 81
   },
   "recent_for_ui": [
+    {
+      "id": "a866909ed851731efda1b428",
+      "title": "Finaler Countdown für Batterie-Investitionen mit Bestandsschutz",
+      "url": "https://www.pv-magazine.de/2026/10/13/finaler-countdown-fuer-batterie-investitionen-mit-bestandsschutz/",
+      "published_at": "2026-10-13T14:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Finaler Countdown für Batterie-Investitionen mit Bestandsschutz Der Countdown zur Erfüllung der Anforderungen für die finale Investitionsentscheidung (FID) für große Batteriespeicherprojekte läuft. Doch noch sind viele Fragen offen, die sich voraussichtlich erst mit der Veröffentlichung der Festlegung der neuen Allgemeinen Netzentgeltsystematik Strom (AgNes) beantworten lassen. Christof Aha, Anwal",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e04de53b05a3e5989ca98390",
       "title": "Stromsteuersenkung: So stark würden Elektroautofahrer entlastet",
@@ -30,7 +41,7 @@
       "published_at": "2026-10-13T11:42:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Zink-Luft-Batterie: Leistungsstarker Akku statt Wegwerfzelle Zink-Luft-Batterien speichern fünfmal mehr Energie als Lithium-Ionen-Akkus. Ein weitverbreitetes Mineral könnte sie langlebig machen. ( Akku , Energiewende )",
+      "summary": "Zink-Luft-Batterie: Leistungsstarker Akku statt Wegwerfzelle Zink-Luft-Batterien speichern die fünffache Energie im Vergleich zu Lithium-Ionen-Akkus. Ein weitverbreitetes Mineral könnte sie langlebig machen. ( Akku , Energiewende )",
       "tags": [],
       "regions": []
     },
@@ -4551,17 +4562,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Tesla: Ex-Manager von Teslas Robotaxis berichtet von gefährlichen Bedingungen Nach Angaben des ehemaligen Managers von Teslas Robotaxis in Houston war er für zu viele Fahrzeuge verantwortlich - und gefährlich überarbeitet. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2a5e7e14be127c31be3c426b",
-      "title": "Größter Batteriespeicher in Deutschland steht vor Teilinbetriebnahme",
-      "url": "https://www.heise.de/news/Groesster-Batteriespeicher-in-Deutschland-steht-vor-Teilinbetriebnahme-11381243.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-29T08:46:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Größter Batteriespeicher in Deutschland steht vor Teilinbetriebnahme 300 MW soll der Batteriespeicher in Förderstedt im Endausbau leisten. 100 MW davon sollen bis Ende 2026 in Betrieb gehen.",
       "tags": [],
       "regions": []
     }
