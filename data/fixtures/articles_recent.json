@@ -2,13 +2,57 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "c691a508f04aed70aeb7d812",
-      "title": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-china-hybridautos-102.html",
-      "published_at": "2026-10-12T11:38:03Z",
-      "source_id": "tagesschau-europa",
+      "id": "6c0b882541a93dfebcc25e1d",
+      "title": "Vereinbarung mit EU: China soll nur noch 350.000 Hybride jährlich einführen",
+      "url": "https://www.golem.de/news/vereinbarung-mit-eu-china-soll-nur-noch-350-000-hybride-jaehrlich-einfuehren-2610-214024.html",
+      "published_at": "2026-10-12T17:54:02Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr Seit zwei Jahren sind EU-Zölle auf Elektroautos aus China in Kraft, viele chinesische Hersteller steigerten seitdem ihre Exporte von Hybridfahrzeugen. Dem setzt die Europäische Union jetzt Grenzen.",
+      "summary": "Vereinbarung mit EU: China soll nur noch 350.000 Hybride jährlich einführen Die EU und China haben sich auf Exportbeschränkungen für Hybrid-Pkw geeinigt. Das dürfte die Zahl der chinesischen Fahrzeuge stark senken. ( Plugin-Hybrid , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "26178a8b2e72b0549d438c33",
+      "title": "Stromsteuer: Was die Pläne von Friedrich Merz für Verbraucher bringen",
+      "url": "https://www.spiegel.de/wirtschaft/service/stromsteuer-was-die-plaene-von-friedrich-merz-fuer-verbraucher-bringen-a-443f60ba-71ac-436b-916e-c05d26a8aadd",
+      "published_at": "2026-10-12T16:10:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Stromsteuer: Was die Pläne von Friedrich Merz für Verbraucher bringen Kanzler Merz kündigt an, die Stromsteuer für alle zu senken. Das brächte nicht nur finanziell Entlastung, sondern würde auch Elektroautos und Wärmepumpen wirtschaftlicher machen. Doch es gibt auch Grund zur Skepsis.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1177acf94e9782f75608613c",
+      "title": "Luxus-Elektroauto: Xpeng G9L kommt mit Kühlschrank",
+      "url": "https://www.golem.de/news/luxus-elektroauto-xpeng-g9l-kommt-mit-kuehlschrank-2610-214015.html",
+      "published_at": "2026-10-12T14:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Luxus-Elektroauto: Xpeng G9L kommt mit Kühlschrank Xpeng bringt seinen Flaggschiff-SUV G9L nach Europa. 800 Volt, 540 kW Ladeleistung und 591 km Reichweite sowie ein großes Kühlfach sind die Eckdaten. ( Xpeng , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f6e7dc651b5ca3e68195ac9b",
+      "title": "Entlastung: Merz kündigt Stromsteuersenkung \"in Kürze\" an",
+      "url": "https://www.golem.de/news/entlastung-merz-kuendigt-in-kuerze-stromsteuersenkung-an-2610-214013.html",
+      "published_at": "2026-10-12T13:46:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Entlastung: Merz kündigt Stromsteuersenkung \"in Kürze\" an Die Stromsteuer soll auf das EU-Minimum sinken. Für einen Haushalt mit 3.500 kWh Jahresverbrauch wären rund 81 Euro Entlastung möglich. ( Strom , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4c943f35faa8a6257ebf7343",
+      "title": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-china-hybridautos-102.html",
+      "published_at": "2026-10-12T11:38:03Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr Seit zwei Jahren sind EU-Zölle auf Elektroautos aus China in Kraft, viele chinesische Hersteller steigerten seitdem trotzdem ihre Exporte von Hybridfahrzeugen. Dem setzt die Europäische Union jetzt Grenzen.",
       "tags": [],
       "regions": []
     },
@@ -35,28 +79,6 @@
       "regions": []
     },
     {
-      "id": "861eb657ebf63c77a989daff",
-      "title": "Elektroauto-Boom: Zuerst kippt der Diesel. Dann kann es sehr schnell gehen",
-      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-boom-zuerst-kippt-der-diesel-dann-kann-es-sehr-schnell-gehen-a-67a37482-c48f-4c23-b857-d9213f2ed9c3",
-      "published_at": "2026-10-12T09:04:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Elektroauto-Boom: Zuerst kippt der Diesel. Dann kann es sehr schnell gehen In Brüssel kämpft die Autobranche für den Verbrennungsmotor, doch die Käufer rennen der Technik in Scharen davon. Viel spricht dafür, dass sich E-Autos deutlich früher durchsetzen als gedacht.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4f840a7aeb788338215c4f8a",
-      "title": "Die Ente fliegt wieder: Citroën bringt den 2CV als E-Kleinwagen zurück",
-      "url": "https://www.golem.de/news/die-ente-fliegt-wieder-citroen-bringt-den-2cv-als-e-kleinwagen-zurueck-2610-213980.html",
-      "published_at": "2026-10-12T06:29:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Die Ente fliegt wieder: Citroën bringt den 2CV als E-Kleinwagen zurück Auf dem Pariser Autosalon 2026 zeigt Citroën das 2CV Concept. Kompakt, leicht und für rund 15.000 Euro geplant, soll das Auto 2028 erscheinen. ( Citroën , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "44732827b8f9333e7d0cfd98",
       "title": "heise+ | Elektroauto Xpeng X9 im Test: Die konsequente Absage an Agilität",
       "url": "https://www.heise.de/tests/Elektroauto-Xpeng-X9-im-Test-Die-konsequente-Absage-an-Agilitaet-11480552.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
@@ -64,17 +86,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "heise+ | Elektroauto Xpeng X9 im Test: Die konsequente Absage an Agilität Der komfortable X9 liefert einige Superlative im Test: Er ist wahrlich riesig und kann schneller laden, als es die hiesige Infrastruktur meistens erlaubt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "da1208158108c83188bcaafa",
-      "title": "ÖPNV: Hamburg kommt mit Wasserstoffbussen nicht voran",
-      "url": "https://www.golem.de/news/oepnv-hamburg-kommt-mit-wasserstoffbussen-nicht-voran-2610-213965.html",
-      "published_at": "2026-10-11T12:11:06Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "ÖPNV: Hamburg kommt mit Wasserstoffbussen nicht voran Brennstoffzellenantriebe werden als Alternative zu Elektrobussen gehandelt. In der Praxis gibt es technische Probleme und teuren grünen Wasserstoff. ( Elektrobus , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -102,31 +113,6 @@
         "DE-SN",
         "DE-ST"
       ]
-    },
-    {
-      "id": "6db8dc92212294d48d4a42cc",
-      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
-      "published_at": "2026-10-09T11:00:57Z",
-      "source_id": "arstechnica-all",
-      "language": "en",
-      "summary": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine? \"I can say we’re weeks away from launching on Vulcan.\"",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a45a64dc067ee2d9d4801669",
-      "title": "DB Energie will Rahmenvertrag für Photovoltaik-Dachanlagen und Batteriespeicher ausschreiben",
-      "url": "https://www.pv-magazine.de/2026/10/09/db-energie-will-rahmenvertrag-fuer-photovoltaik-dachanlagen-und-batteriespeicher-ausschreiben/",
-      "published_at": "2026-10-09T09:47:52Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "DB Energie will Rahmenvertrag für Photovoltaik-Dachanlagen und Batteriespeicher ausschreiben Zunächst startet das Unternehmen eine Markterkundung. In den nächsten fünf Jahr sieht sie Potenzial etwa 70 Photovoltaik-Dachanlagen mit und ohne Batteriespeicher an Standorten der Deutschen Bahn zu realisieren. Dafür sollen zunächst geeignete Partnerunternehmen identifiziert werden.",
-      "tags": [
-        "exploration",
-        "industrie"
-      ],
-      "regions": []
     },
     {
       "id": "1543cedc5ab79371f6f38bb3",
