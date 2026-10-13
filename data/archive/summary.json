@@ -1,17 +1,72 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-13T00:41:33Z",
+  "generated_at_utc": "2026-10-13T12:42:16Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 807,
+  "total_in_archive": 812,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 75
+    "2026-10": 80
   },
   "recent_for_ui": [
+    {
+      "id": "e04de53b05a3e5989ca98390",
+      "title": "Stromsteuersenkung: So stark würden Elektroautofahrer entlastet",
+      "url": "https://www.golem.de/news/stromsteuersenkung-so-stark-wuerden-elektroautofahrer-entlastet-2610-214052.html",
+      "published_at": "2026-10-13T12:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Stromsteuersenkung: So stark würden Elektroautofahrer entlastet Bundeskanzler Merz hat eine Senkung der Stromsteuer angekündigt. Fahrer von E-Autos können nicht immer davon profitieren. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "cd2f2f8b56acb58879251bdf",
+      "title": "Zink-Luft-Batterie: Leistungsstarker Akku statt Wegwerfzelle",
+      "url": "https://www.golem.de/news/zink-luft-batterie-leistungsstarker-akku-statt-wegwerfzelle-2610-214053.html",
+      "published_at": "2026-10-13T11:42:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Zink-Luft-Batterie: Leistungsstarker Akku statt Wegwerfzelle Zink-Luft-Batterien speichern fünfmal mehr Energie als Lithium-Ionen-Akkus. Ein weitverbreitetes Mineral könnte sie langlebig machen. ( Akku , Energiewende )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7684ae5e2d2b9e4f98fd9cd2",
+      "title": "CATL und Intilion streben Bau von bis zu 3 Gigawattstunde Natrium-Ionen-Speichern an",
+      "url": "https://www.pv-magazine.de/2026/10/13/catl-und-intilion-streben-bau-von-bis-zu-3-gigawattstunde-natrium-ionen-speichern-an/",
+      "published_at": "2026-10-13T10:26:43Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "CATL und Intilion streben Bau von bis zu 3 Gigawattstunde Natrium-Ionen-Speichern an Die auf fünf Jahre angelegte Vereinbarung erweitert eine bestehende Partnerschaft für Natrium-Ionen-Batteriespeicher auf Deutschland, Österreich und die Schweiz. Die Umsetzung soll wohl in den nächsten fünf Jahren erfolgen, wenngleich es noch keine bestätigten Lieferungen gibt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b35ef98a85994ac3ddbd97e0",
+      "title": "Österreich reformiert Netzentgelte – Kritik an Regelungen für Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/10/13/oesterreich-reformiert-netzentgelte-kritik-an-regelungen-fuer-batteriespeicher/",
+      "published_at": "2026-10-13T09:37:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Österreich reformiert Netzentgelte – Kritik an Regelungen für Batteriespeicher E-Control hat eine neue Netzentgeltstruktur erarbeitet, die ab 2027 schrittweise wirksam wird. Sie soll Leistungsspitzen stärker berücksichtigen und flexible Stromnutzung belohnen. Für systemdienliche Speicher sind Vergünstigungen vorgesehen. Branchenverbände warnen allerdings, dass die beschlossenen Regelungen den drin",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "22d18b2b3ddb7a54c23961a4",
+      "title": "Drei Elektromotoren: Peugeot E-T16 Concept lässt die Rallye-Tradition als E-Auto aufleben",
+      "url": "https://www.golem.de/news/drei-elektromotoren-peugeot-e-t16-concept-laesst-die-rallye-tradition-als-e-auto-aufleben-2610-214039.html",
+      "published_at": "2026-10-13T08:51:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Drei Elektromotoren: Peugeot E-T16 Concept lässt die Rallye-Tradition als E-Auto aufleben Peugeot hat das E-T16 Concept vorgestellt, eine Elektroauto-Studie, die offenbar stark an die Rallye-Vergangenheit der Marke anknüpft. ( Peugeot , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "6c0b882541a93dfebcc25e1d",
       "title": "Vereinbarung mit EU: China soll nur noch 350.000 Hybride jährlich einführen",
@@ -4507,63 +4562,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Größter Batteriespeicher in Deutschland steht vor Teilinbetriebnahme 300 MW soll der Batteriespeicher in Förderstedt im Endausbau leisten. 100 MW davon sollen bis Ende 2026 in Betrieb gehen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6560c1957110bb733eb68b52",
-      "title": "Enervis-Batteriespeicher-Index: Erlöse in Deutschland bleiben im Juni auf hohem Niveau – starke Photovoltaik-Einspeisung und Preisspitzen während der Hitzewelle treiben die Erlöse",
-      "url": "https://www.pv-magazine.de/2026/07/29/enervis-batteriespeicher-index-erloese-in-deutschland-bleiben-im-juni-auf-hohem-niveau-starke-photovoltaik-einspeisung-und-preisspitzen-waehrend-der-hitzewelle-treiben-die-erloese/",
-      "published_at": "2026-07-29T06:35:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Enervis-Batteriespeicher-Index: Erlöse in Deutschland bleiben im Juni auf hohem Niveau – starke Photovoltaik-Einspeisung und Preisspitzen während der Hitzewelle treiben die Erlöse Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e7f78c742bb92f1a6cfa8020",
-      "title": "Tesla: Staatsanwaltschaft stoppt Beschwerde im Streit um heimliche Aufnahme",
-      "url": "https://www.golem.de/news/tesla-staatsanwaltschaft-stoppt-beschwerde-im-streit-um-heimliche-aufnahme-2607-211367.html",
-      "published_at": "2026-07-28T14:14:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla: Staatsanwaltschaft stoppt Beschwerde im Streit um heimliche Aufnahme Tesla hätte gerne, dass die Ermittlungen gegen einen Gewerkschaftssekretär weitergehen - die Staatsanwaltschaft sieht aber keine Gründe dafür. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "da9ca4a49f744128e54c64f0",
-      "title": "Kritische Rohstoffe: Lithiumabbau in Sachsen wird wahrscheinlicher",
-      "url": "https://www.golem.de/news/kritische-rohstoffe-lithiumabbau-in-sachsen-wird-wahrscheinlicher-2607-211362.html",
-      "published_at": "2026-07-28T12:35:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Kritische Rohstoffe: Lithiumabbau in Sachsen wird wahrscheinlicher Das Vorkommen im Erzgebirge gilt als eines der größten in Europa. In der Region soll heimisches Lithium für Batterien gefördert werden. ( Lithium , Elektroauto )",
-      "tags": [],
-      "regions": [
-        "DE-SN"
-      ]
-    },
-    {
-      "id": "ff1d15cff8f7e40c2431e6f9",
-      "title": "Neue Klasse: BMW soll an elektrischem Cabrio arbeiten",
-      "url": "https://www.golem.de/news/neue-klasse-bmw-soll-an-elektrischem-cabrio-arbeiten-2607-211355.html",
-      "published_at": "2026-07-28T10:45:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Neue Klasse: BMW soll an elektrischem Cabrio arbeiten Die Auswahl an vollelektrischen Cabriolets ist überschaubar - mit dem i4 Cabrio von BMW soll 2028 eines hinzukommen. ( BMW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3f57d323c90f009fee52d696",
-      "title": "Automarkt: Zahl der Elektroautos steigt in der EU auf neues Allzeithoch",
-      "url": "https://www.zeit.de/wirtschaft/2026-07/e-autos-europa-marktanteil-bev-deutschland-oelpreis",
-      "published_at": "2026-07-28T10:33:58Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "Automarkt: Zahl der Elektroautos steigt in der EU auf neues Allzeithoch In der EU werden so viele Elektroautos verkauft wie noch nie. Als Grund dafür sieht PwC die schwankenden Ölpreise – und die rasante technologische Entwicklung.",
       "tags": [],
       "regions": []
     }
