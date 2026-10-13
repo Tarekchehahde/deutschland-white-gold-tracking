@@ -2,6 +2,17 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "a866909ed851731efda1b428",
+      "title": "Finaler Countdown für Batterie-Investitionen mit Bestandsschutz",
+      "url": "https://www.pv-magazine.de/2026/10/13/finaler-countdown-fuer-batterie-investitionen-mit-bestandsschutz/",
+      "published_at": "2026-10-13T14:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Finaler Countdown für Batterie-Investitionen mit Bestandsschutz Der Countdown zur Erfüllung der Anforderungen für die finale Investitionsentscheidung (FID) für große Batteriespeicherprojekte läuft. Doch noch sind viele Fragen offen, die sich voraussichtlich erst mit der Veröffentlichung der Festlegung der neuen Allgemeinen Netzentgeltsystematik Strom (AgNes) beantworten lassen. Christof Aha, Anwal",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "e04de53b05a3e5989ca98390",
       "title": "Stromsteuersenkung: So stark würden Elektroautofahrer entlastet",
       "url": "https://www.golem.de/news/stromsteuersenkung-so-stark-wuerden-elektroautofahrer-entlastet-2610-214052.html",
@@ -19,7 +30,7 @@
       "published_at": "2026-10-13T11:42:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Zink-Luft-Batterie: Leistungsstarker Akku statt Wegwerfzelle Zink-Luft-Batterien speichern fünfmal mehr Energie als Lithium-Ionen-Akkus. Ein weitverbreitetes Mineral könnte sie langlebig machen. ( Akku , Energiewende )",
+      "summary": "Zink-Luft-Batterie: Leistungsstarker Akku statt Wegwerfzelle Zink-Luft-Batterien speichern die fünffache Energie im Vergleich zu Lithium-Ionen-Akkus. Ein weitverbreitetes Mineral könnte sie langlebig machen. ( Akku , Energiewende )",
       "tags": [],
       "regions": []
     },

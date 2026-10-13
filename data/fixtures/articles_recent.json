@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "a866909ed851731efda1b428",
+      "title": "Finaler Countdown für Batterie-Investitionen mit Bestandsschutz",
+      "url": "https://www.pv-magazine.de/2026/10/13/finaler-countdown-fuer-batterie-investitionen-mit-bestandsschutz/",
+      "published_at": "2026-10-13T14:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Finaler Countdown für Batterie-Investitionen mit Bestandsschutz Der Countdown zur Erfüllung der Anforderungen für die finale Investitionsentscheidung (FID) für große Batteriespeicherprojekte läuft. Doch noch sind viele Fragen offen, die sich voraussichtlich erst mit der Veröffentlichung der Festlegung der neuen Allgemeinen Netzentgeltsystematik Strom (AgNes) beantworten lassen. Christof Aha, Anwal",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "e04de53b05a3e5989ca98390",
       "title": "Stromsteuersenkung: So stark würden Elektroautofahrer entlastet",
       "url": "https://www.golem.de/news/stromsteuersenkung-so-stark-wuerden-elektroautofahrer-entlastet-2610-214052.html",
@@ -19,7 +30,7 @@
       "published_at": "2026-10-13T11:42:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Zink-Luft-Batterie: Leistungsstarker Akku statt Wegwerfzelle Zink-Luft-Batterien speichern fünfmal mehr Energie als Lithium-Ionen-Akkus. Ein weitverbreitetes Mineral könnte sie langlebig machen. ( Akku , Energiewende )",
+      "summary": "Zink-Luft-Batterie: Leistungsstarker Akku statt Wegwerfzelle Zink-Luft-Batterien speichern die fünffache Energie im Vergleich zu Lithium-Ionen-Akkus. Ein weitverbreitetes Mineral könnte sie langlebig machen. ( Akku , Energiewende )",
       "tags": [],
       "regions": []
     },
@@ -57,39 +68,6 @@
       "regions": []
     },
     {
-      "id": "6c0b882541a93dfebcc25e1d",
-      "title": "Vereinbarung mit EU: China soll nur noch 350.000 Hybride jährlich einführen",
-      "url": "https://www.golem.de/news/vereinbarung-mit-eu-china-soll-nur-noch-350-000-hybride-jaehrlich-einfuehren-2610-214024.html",
-      "published_at": "2026-10-12T17:54:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Vereinbarung mit EU: China soll nur noch 350.000 Hybride jährlich einführen Die EU und China haben sich auf Exportbeschränkungen für Hybrid-Pkw geeinigt. Das dürfte die Zahl der chinesischen Fahrzeuge stark senken. ( Plugin-Hybrid , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1177acf94e9782f75608613c",
-      "title": "Luxus-Elektroauto: Xpeng G9L kommt mit Kühlschrank",
-      "url": "https://www.golem.de/news/luxus-elektroauto-xpeng-g9l-kommt-mit-kuehlschrank-2610-214015.html",
-      "published_at": "2026-10-12T14:30:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Luxus-Elektroauto: Xpeng G9L kommt mit Kühlschrank Xpeng bringt seinen Flaggschiff-SUV G9L nach Europa. 800 Volt, 540 kW Ladeleistung und 591 km Reichweite sowie ein großes Kühlfach sind die Eckdaten. ( Xpeng , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f6e7dc651b5ca3e68195ac9b",
-      "title": "Entlastung: Merz kündigt Stromsteuersenkung \"in Kürze\" an",
-      "url": "https://www.golem.de/news/entlastung-merz-kuendigt-in-kuerze-stromsteuersenkung-an-2610-214013.html",
-      "published_at": "2026-10-12T13:46:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Entlastung: Merz kündigt Stromsteuersenkung \"in Kürze\" an Die Stromsteuer soll auf das EU-Minimum sinken. Für einen Haushalt mit 3.500 kWh Jahresverbrauch wären rund 81 Euro Entlastung möglich. ( Strom , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "4c943f35faa8a6257ebf7343",
       "title": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr",
       "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-china-hybridautos-102.html",
@@ -113,17 +91,6 @@
         "DE-SN",
         "DE-ST"
       ]
-    },
-    {
-      "id": "1543cedc5ab79371f6f38bb3",
-      "title": "Toyota bZ4X: Nächster Versuch",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/der-neue-toyota-bz4x-im-test-201252871.html",
-      "published_at": "2026-10-06T15:10:20Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Toyota bZ4X: Nächster Versuch Das erste Elektroauto von Toyota auf dem deutschen Markt enttäuschte Kunden und Fachpresse. Also auf ein Neues. Der Name ist der alte: bZ4X, die Technik grundlegend überarbeitet.",
-      "tags": [],
-      "regions": []
     }
   ]
 }
