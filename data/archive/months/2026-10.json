@@ -1,8 +1,63 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 75,
+  "article_count": 80,
   "articles": [
+    {
+      "id": "e04de53b05a3e5989ca98390",
+      "title": "Stromsteuersenkung: So stark würden Elektroautofahrer entlastet",
+      "url": "https://www.golem.de/news/stromsteuersenkung-so-stark-wuerden-elektroautofahrer-entlastet-2610-214052.html",
+      "published_at": "2026-10-13T12:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Stromsteuersenkung: So stark würden Elektroautofahrer entlastet Bundeskanzler Merz hat eine Senkung der Stromsteuer angekündigt. Fahrer von E-Autos können nicht immer davon profitieren. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "cd2f2f8b56acb58879251bdf",
+      "title": "Zink-Luft-Batterie: Leistungsstarker Akku statt Wegwerfzelle",
+      "url": "https://www.golem.de/news/zink-luft-batterie-leistungsstarker-akku-statt-wegwerfzelle-2610-214053.html",
+      "published_at": "2026-10-13T11:42:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Zink-Luft-Batterie: Leistungsstarker Akku statt Wegwerfzelle Zink-Luft-Batterien speichern fünfmal mehr Energie als Lithium-Ionen-Akkus. Ein weitverbreitetes Mineral könnte sie langlebig machen. ( Akku , Energiewende )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7684ae5e2d2b9e4f98fd9cd2",
+      "title": "CATL und Intilion streben Bau von bis zu 3 Gigawattstunde Natrium-Ionen-Speichern an",
+      "url": "https://www.pv-magazine.de/2026/10/13/catl-und-intilion-streben-bau-von-bis-zu-3-gigawattstunde-natrium-ionen-speichern-an/",
+      "published_at": "2026-10-13T10:26:43Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "CATL und Intilion streben Bau von bis zu 3 Gigawattstunde Natrium-Ionen-Speichern an Die auf fünf Jahre angelegte Vereinbarung erweitert eine bestehende Partnerschaft für Natrium-Ionen-Batteriespeicher auf Deutschland, Österreich und die Schweiz. Die Umsetzung soll wohl in den nächsten fünf Jahren erfolgen, wenngleich es noch keine bestätigten Lieferungen gibt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b35ef98a85994ac3ddbd97e0",
+      "title": "Österreich reformiert Netzentgelte – Kritik an Regelungen für Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/10/13/oesterreich-reformiert-netzentgelte-kritik-an-regelungen-fuer-batteriespeicher/",
+      "published_at": "2026-10-13T09:37:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Österreich reformiert Netzentgelte – Kritik an Regelungen für Batteriespeicher E-Control hat eine neue Netzentgeltstruktur erarbeitet, die ab 2027 schrittweise wirksam wird. Sie soll Leistungsspitzen stärker berücksichtigen und flexible Stromnutzung belohnen. Für systemdienliche Speicher sind Vergünstigungen vorgesehen. Branchenverbände warnen allerdings, dass die beschlossenen Regelungen den drin",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "22d18b2b3ddb7a54c23961a4",
+      "title": "Drei Elektromotoren: Peugeot E-T16 Concept lässt die Rallye-Tradition als E-Auto aufleben",
+      "url": "https://www.golem.de/news/drei-elektromotoren-peugeot-e-t16-concept-laesst-die-rallye-tradition-als-e-auto-aufleben-2610-214039.html",
+      "published_at": "2026-10-13T08:51:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Drei Elektromotoren: Peugeot E-T16 Concept lässt die Rallye-Tradition als E-Auto aufleben Peugeot hat das E-T16 Concept vorgestellt, eine Elektroauto-Studie, die offenbar stark an die Rallye-Vergangenheit der Marke anknüpft. ( Peugeot , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "6c0b882541a93dfebcc25e1d",
       "title": "Vereinbarung mit EU: China soll nur noch 350.000 Hybride jährlich einführen",
