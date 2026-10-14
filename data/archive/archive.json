@@ -2,6 +2,39 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "1d844d3376a10a01f4440235",
+      "title": "Gebrauchte Elektroautos: Warum ein Batteriezertifikat wichtig ist",
+      "url": "https://www.heise.de/ratgeber/Gebrauchte-Elektroautos-Warum-ein-Batteriezertifikat-wichtig-ist-11488217.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-14T14:52:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Gebrauchte Elektroautos: Warum ein Batteriezertifikat wichtig ist Eine Förderung für gebrauchte Elektroautos gibt es nicht. Vielleicht wäre es sinnvoll, wenn der Staat etwas für ein Batteriezertifikat dazugibt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "161f54e34c68d4f0cc462ee2",
+      "title": "PPA-Preise steigen in Europa im September um fünf Prozent",
+      "url": "https://www.pv-magazine.de/2026/10/14/ppa-preise-steigen-in-europa-im-september-um-fuenf-prozent/",
+      "published_at": "2026-10-14T13:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "PPA-Preise steigen in Europa im September um fünf Prozent Das Plus ist vor allem auf höhere Terminpreise für Strom und Gas zurückzuführen. Die Zahl der Vertragsabschlüsse stieg auf 25 Transaktionen mit einem Gesamtvolumen von 1,2 Gigawatt. Das Interesse an hybriden Stromabnahmeverträgen und Vereinbarungen mit Batteriespeicher nahm zu.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6e13311dd402b398faa44a7f",
+      "title": "Enertrag und SMA starten Bau von 840-Megawattstunden-Speicher in der Uckermark",
+      "url": "https://www.pv-magazine.de/2026/10/14/enertrag-und-sma-starten-bau-von-840-megawattstunden-speicher-in-der-uckermark/",
+      "published_at": "2026-10-14T12:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enertrag und SMA starten Bau von 840-Megawattstunden-Speicher in der Uckermark Der 200-Megawatt-Batteriespeicher wird ans Übertragungsnetz angeschlossen. Die Anlage soll Wind- und Photovoltaik-Erzeugungsspitzen aufnehmen sowie Systemdienstleistungen für das Stromnetz bereit stellen. Der Speicher soll im Laufe des nächsten Jahres in Betrieb gehen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "6fcb9d0f6b9a5388f62d6246",
       "title": "Sind gewerbliche Batteriespeicher die Lösung für Europas Wettbewerbsdruck?",
       "url": "https://www.pv-magazine.de/2026/10/14/sind-gewerbliche-batteriespeicher-die-loesung-fuer-europas-wettbewerbsdruck/",

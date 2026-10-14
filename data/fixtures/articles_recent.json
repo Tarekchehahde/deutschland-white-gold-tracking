@@ -2,6 +2,39 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "1d844d3376a10a01f4440235",
+      "title": "Gebrauchte Elektroautos: Warum ein Batteriezertifikat wichtig ist",
+      "url": "https://www.heise.de/ratgeber/Gebrauchte-Elektroautos-Warum-ein-Batteriezertifikat-wichtig-ist-11488217.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-14T14:52:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Gebrauchte Elektroautos: Warum ein Batteriezertifikat wichtig ist Eine Förderung für gebrauchte Elektroautos gibt es nicht. Vielleicht wäre es sinnvoll, wenn der Staat etwas für ein Batteriezertifikat dazugibt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "161f54e34c68d4f0cc462ee2",
+      "title": "PPA-Preise steigen in Europa im September um fünf Prozent",
+      "url": "https://www.pv-magazine.de/2026/10/14/ppa-preise-steigen-in-europa-im-september-um-fuenf-prozent/",
+      "published_at": "2026-10-14T13:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "PPA-Preise steigen in Europa im September um fünf Prozent Das Plus ist vor allem auf höhere Terminpreise für Strom und Gas zurückzuführen. Die Zahl der Vertragsabschlüsse stieg auf 25 Transaktionen mit einem Gesamtvolumen von 1,2 Gigawatt. Das Interesse an hybriden Stromabnahmeverträgen und Vereinbarungen mit Batteriespeicher nahm zu.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6e13311dd402b398faa44a7f",
+      "title": "Enertrag und SMA starten Bau von 840-Megawattstunden-Speicher in der Uckermark",
+      "url": "https://www.pv-magazine.de/2026/10/14/enertrag-und-sma-starten-bau-von-840-megawattstunden-speicher-in-der-uckermark/",
+      "published_at": "2026-10-14T12:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enertrag und SMA starten Bau von 840-Megawattstunden-Speicher in der Uckermark Der 200-Megawatt-Batteriespeicher wird ans Übertragungsnetz angeschlossen. Die Anlage soll Wind- und Photovoltaik-Erzeugungsspitzen aufnehmen sowie Systemdienstleistungen für das Stromnetz bereit stellen. Der Speicher soll im Laufe des nächsten Jahres in Betrieb gehen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "6fcb9d0f6b9a5388f62d6246",
       "title": "Sind gewerbliche Batteriespeicher die Lösung für Europas Wettbewerbsdruck?",
       "url": "https://www.pv-magazine.de/2026/10/14/sind-gewerbliche-batteriespeicher-die-loesung-fuer-europas-wettbewerbsdruck/",
@@ -26,17 +59,6 @@
       "regions": []
     },
     {
-      "id": "3f4b19a99c770f0b83d9da70",
-      "title": "Bruchsal macht Ernst: Fernwärme aus Tiefengeothermie ab sofort im Netz",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/geothermie-bruchsal-beliefert-kommunales-fernwaermenetz-100.html",
-      "published_at": "2026-10-14T05:17:13Z",
-      "source_id": "swr-aktuell-rss",
-      "language": "de",
-      "summary": "Bruchsal macht Ernst: Fernwärme aus Tiefengeothermie ab sofort im Netz Das Geothermiekraftwerk Bruchsal setzt Maßstäbe: Als erste Anlage im Land beliefert sie in der nächsten Heizperiode das kommunale Fernwärmenetz. Aber die Bruchsaler Geothermie kann noch mehr.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "9f78ab9413275168829e6b7c",
       "title": "Bruchsal macht Ernst: Fernwärme aus Tiefengeothermie ab sofort im Netz",
       "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-bruchsal-macht-ernst-fernwaerme-aus-tiefengeothermie-ab-sofort-im-netz-100.html",
@@ -55,50 +77,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Finaler Countdown für Batterie-Investitionen mit Bestandsschutz Der Countdown zur Erfüllung der Anforderungen für die finale Investitionsentscheidung (FID) für große Batteriespeicherprojekte läuft. Doch noch sind viele Fragen offen, die sich voraussichtlich erst mit der Veröffentlichung der Festlegung der neuen Allgemeinen Netzentgeltsystematik Strom (AgNes) beantworten lassen. Christof Aha, Anwal",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e04de53b05a3e5989ca98390",
-      "title": "Stromsteuersenkung: So stark würden Elektroautofahrer entlastet",
-      "url": "https://www.golem.de/news/stromsteuersenkung-so-stark-wuerden-elektroautofahrer-entlastet-2610-214052.html",
-      "published_at": "2026-10-13T12:14:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Stromsteuersenkung: So stark würden Elektroautofahrer entlastet Bundeskanzler Merz hat eine Senkung der Stromsteuer angekündigt. Fahrer von E-Autos können nicht immer davon profitieren. ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "cd2f2f8b56acb58879251bdf",
-      "title": "Zink-Luft-Batterie: Leistungsstarker Akku statt Wegwerfzelle",
-      "url": "https://www.golem.de/news/zink-luft-batterie-leistungsstarker-akku-statt-wegwerfzelle-2610-214053.html",
-      "published_at": "2026-10-13T11:42:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Zink-Luft-Batterie: Leistungsstarker Akku statt Wegwerfzelle Zink-Luft-Batterien speichern die fünffache Energie im Vergleich zu Lithium-Ionen-Akkus. Ein weitverbreitetes Mineral könnte sie langlebig machen. ( Akku , Energiewende )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7684ae5e2d2b9e4f98fd9cd2",
-      "title": "CATL und Intilion streben Bau von bis zu 3 Gigawattstunde Natrium-Ionen-Speichern an",
-      "url": "https://www.pv-magazine.de/2026/10/13/catl-und-intilion-streben-bau-von-bis-zu-3-gigawattstunde-natrium-ionen-speichern-an/",
-      "published_at": "2026-10-13T10:26:43Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "CATL und Intilion streben Bau von bis zu 3 Gigawattstunde Natrium-Ionen-Speichern an Die auf fünf Jahre angelegte Vereinbarung erweitert eine bestehende Partnerschaft für Natrium-Ionen-Batteriespeicher auf Deutschland, Österreich und die Schweiz. Die Umsetzung soll wohl in den nächsten fünf Jahren erfolgen, wenngleich es noch keine bestätigten Lieferungen gibt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b35ef98a85994ac3ddbd97e0",
-      "title": "Österreich reformiert Netzentgelte – Kritik an Regelungen für Batteriespeicher",
-      "url": "https://www.pv-magazine.de/2026/10/13/oesterreich-reformiert-netzentgelte-kritik-an-regelungen-fuer-batteriespeicher/",
-      "published_at": "2026-10-13T09:37:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Österreich reformiert Netzentgelte – Kritik an Regelungen für Batteriespeicher E-Control hat eine neue Netzentgeltstruktur erarbeitet, die ab 2027 schrittweise wirksam wird. Sie soll Leistungsspitzen stärker berücksichtigen und flexible Stromnutzung belohnen. Für systemdienliche Speicher sind Vergünstigungen vorgesehen. Branchenverbände warnen allerdings, dass die beschlossenen Regelungen den drin",
       "tags": [],
       "regions": []
     },
