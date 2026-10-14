@@ -2,6 +2,52 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "6fcb9d0f6b9a5388f62d6246",
+      "title": "Sind gewerbliche Batteriespeicher die Lösung für Europas Wettbewerbsdruck?",
+      "url": "https://www.pv-magazine.de/2026/10/14/sind-gewerbliche-batteriespeicher-die-loesung-fuer-europas-wettbewerbsdruck/",
+      "published_at": "2026-10-14T07:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sind gewerbliche Batteriespeicher die Lösung für Europas Wettbewerbsdruck? Die Strompreise für Unternehmen haben sich innerhalb eines Jahrzehnts mehr als verdoppelt, während die Batteriekosten stark gesunken sind. Eine Umfrage unter Installateuren in Australien deutet darauf hin, dass inzwischen die Umsetzung und nicht die Nachfrage der limitierende Faktor ist. Wir bei Orkestra haben die europäisc",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "fd76f8ba888d4e5371c209db",
+      "title": "Fluence erhält Lieferauftrag für Gigawattstunden-Batteriespeicher von Vattenfall",
+      "url": "https://www.pv-magazine.de/2026/10/14/fluence-erhaelt-lieferauftrag-fuer-gigawattstunden-batteriespeicher-von-vattenfall/",
+      "published_at": "2026-10-14T07:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fluence erhält Lieferauftrag für Gigawattstunden-Batteriespeicher von Vattenfall Neben der Lieferung der Batteriespeicher umfasst die Vereinbarung auch langfristige Servicedienstleistungen. Vattenfall will bis Ende 2028 an seinem ehemaligen AKW-Standort Brunsbüttel einen 4-Stunden-Speicher mit 254 Megawatt Leistung und mehr als einer Gigawattstunde Kapazität in Betrieb nehmen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3f4b19a99c770f0b83d9da70",
+      "title": "Bruchsal macht Ernst: Fernwärme aus Tiefengeothermie ab sofort im Netz",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/geothermie-bruchsal-beliefert-kommunales-fernwaermenetz-100.html",
+      "published_at": "2026-10-14T05:17:13Z",
+      "source_id": "swr-aktuell-rss",
+      "language": "de",
+      "summary": "Bruchsal macht Ernst: Fernwärme aus Tiefengeothermie ab sofort im Netz Das Geothermiekraftwerk Bruchsal setzt Maßstäbe: Als erste Anlage im Land beliefert sie in der nächsten Heizperiode das kommunale Fernwärmenetz. Aber die Bruchsaler Geothermie kann noch mehr.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9f78ab9413275168829e6b7c",
+      "title": "Bruchsal macht Ernst: Fernwärme aus Tiefengeothermie ab sofort im Netz",
+      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-bruchsal-macht-ernst-fernwaerme-aus-tiefengeothermie-ab-sofort-im-netz-100.html",
+      "published_at": "2026-10-14T05:17:00Z",
+      "source_id": "tagesschau-bw",
+      "language": "de",
+      "summary": "Bruchsal macht Ernst: Fernwärme aus Tiefengeothermie ab sofort im Netz Das Geothermiekraftwerk Bruchsal setzt Maßstäbe: Als erste Anlage im Land beliefert sie in der nächsten Heizperiode das kommunale Fernwärmenetz. Aber die Bruchsaler Geothermie kann noch mehr.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "a866909ed851731efda1b428",
       "title": "Finaler Countdown für Batterie-Investitionen mit Bestandsschutz",
       "url": "https://www.pv-magazine.de/2026/10/13/finaler-countdown-fuer-batterie-investitionen-mit-bestandsschutz/",
