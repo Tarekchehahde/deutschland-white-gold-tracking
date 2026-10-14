@@ -1,17 +1,50 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-14T10:11:28Z",
+  "generated_at_utc": "2026-10-14T21:42:00Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 817,
+  "total_in_archive": 820,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 85
+    "2026-10": 88
   },
   "recent_for_ui": [
+    {
+      "id": "1d844d3376a10a01f4440235",
+      "title": "Gebrauchte Elektroautos: Warum ein Batteriezertifikat wichtig ist",
+      "url": "https://www.heise.de/ratgeber/Gebrauchte-Elektroautos-Warum-ein-Batteriezertifikat-wichtig-ist-11488217.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-14T14:52:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Gebrauchte Elektroautos: Warum ein Batteriezertifikat wichtig ist Eine Förderung für gebrauchte Elektroautos gibt es nicht. Vielleicht wäre es sinnvoll, wenn der Staat etwas für ein Batteriezertifikat dazugibt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "161f54e34c68d4f0cc462ee2",
+      "title": "PPA-Preise steigen in Europa im September um fünf Prozent",
+      "url": "https://www.pv-magazine.de/2026/10/14/ppa-preise-steigen-in-europa-im-september-um-fuenf-prozent/",
+      "published_at": "2026-10-14T13:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "PPA-Preise steigen in Europa im September um fünf Prozent Das Plus ist vor allem auf höhere Terminpreise für Strom und Gas zurückzuführen. Die Zahl der Vertragsabschlüsse stieg auf 25 Transaktionen mit einem Gesamtvolumen von 1,2 Gigawatt. Das Interesse an hybriden Stromabnahmeverträgen und Vereinbarungen mit Batteriespeicher nahm zu.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6e13311dd402b398faa44a7f",
+      "title": "Enertrag und SMA starten Bau von 840-Megawattstunden-Speicher in der Uckermark",
+      "url": "https://www.pv-magazine.de/2026/10/14/enertrag-und-sma-starten-bau-von-840-megawattstunden-speicher-in-der-uckermark/",
+      "published_at": "2026-10-14T12:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enertrag und SMA starten Bau von 840-Megawattstunden-Speicher in der Uckermark Der 200-Megawatt-Batteriespeicher wird ans Übertragungsnetz angeschlossen. Die Anlage soll Wind- und Photovoltaik-Erzeugungsspitzen aufnehmen sowie Systemdienstleistungen für das Stromnetz bereit stellen. Der Speicher soll im Laufe des nächsten Jahres in Betrieb gehen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "6fcb9d0f6b9a5388f62d6246",
       "title": "Sind gewerbliche Batteriespeicher die Lösung für Europas Wettbewerbsdruck?",
@@ -4526,39 +4559,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "Mercedes GLA vorgestellt: Der Doppel-Erbe Mercedes beendet das teure Nebeneinander von GLA und EQA: Der neue GLA wird mit E-Antrieb und Hybriden zu haben sein. Den Anfang macht das Elektroauto.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8484965a9e7239fa025b00dd",
-      "title": "Mein Server muss länger leben als meine Firma",
-      "url": "https://www.pv-magazine.de/2026/07/30/mein-server-muss-laenger-leben-als-meine-firma/",
-      "published_at": "2026-07-30T07:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Mein Server muss länger leben als meine Firma Ab Februar 2027 braucht in der EU jeder Batteriespeicher über zwei Kilowattstunden einen eigenen digitalen Pass, abrufbar pro Seriennummer. Softwareentwickler Majid Goschka baut die Technik dafür und erklärt, warum die eigentliche Hürde nicht der QR-Code ist, sondern eine unscheinbare Frage: Woher kommen die Daten, und wer haftet am Ende für sie?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b15f7fdfe4d5c3f5a47b1dd1",
-      "title": "Ladesäulenregister: Deutschland verzeichnet über 200.000 öffentliche Ladepunkte",
-      "url": "https://www.golem.de/news/ladesaeulenregister-deutschland-verzeichnet-ueber-200-000-oeffentliche-ladepunkte-2607-211428.html",
-      "published_at": "2026-07-30T06:56:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Ladesäulenregister: Deutschland verzeichnet über 200.000 öffentliche Ladepunkte Die Bundesnetzagentur meldet zum 1. Juli 2026 mehr als 209.000 öffentliche Ladepunkte in Deutschland. Der Schnellladeausbau wächst stark. ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "063e3716f2a4778773223d84",
-      "title": "Mercedes-Benz GLA vorgestellt: Der EQA-Nachfolger macht einen großen Schritt nach vorn",
-      "url": "https://www.golem.de/news/mercedes-benz-gla-vorgestellt-der-eqa-nachfolger-macht-einen-grossen-schritt-nach-vorn-2607-211395.html",
-      "published_at": "2026-07-29T18:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Mercedes-Benz GLA vorgestellt: Der EQA-Nachfolger macht einen großen Schritt nach vorn Der EQA war jahrelang das meistverkaufte E-Auto von Mercedes. Der Nachfolger GLA ist in vielen Punkten deutlich besser. Ein Bericht von Friedhelm Greis ( Elektroauto , Akku )",
       "tags": [],
       "regions": []
     }
