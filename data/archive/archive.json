@@ -2,6 +2,52 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "82c386301d39aefdaf7f339d",
+      "title": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen",
+      "url": "https://www.rnd.de/wirtschaft/schon-wieder-ein-rueckruf-bei-volkswagen-dieses-mal-sind-es-die-batteriezellen-XFKR3GZHSBG4HLW6MAD4MZGZFI.html",
+      "published_at": "2026-10-15T17:32:40Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen Volkswagen ruft weltweit mehrere Tausend Elektroautos der ID.-Familie zurück. Grund sind fehlerhafte Batteriezellen eines Zulieferers. Im Extremfall können die Fahrzeuge in Brand geraten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "00cb78155a7e905fc4935a5e",
+      "title": "Brandgefahr bei E-Autos: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor",
+      "url": "https://rp-online.de/wirtschaft/unternehmen/brandgefahr-vw-bereitet-rueckruf-wegen-fehlerhafter-batteriezellen-vor_aid-156638219",
+      "published_at": "2026-10-15T17:24:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Brandgefahr bei E-Autos: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor Der Rückruf von Millionen Fahrzeugen wegen einer fehlerhaften Schraube ist erst wenige Wochen her – nun muss VW den nächsten Mangel ausräumen. Betroffen sind dieses Mal E‑Autos. Was bislang bekannt ist.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "633323d77328f678f025cde0",
+      "title": "Schweizer Organisation präsentiert Mustervertrag für die Beschaffung von großen Batteriespeichern aus Käufersicht",
+      "url": "https://www.pv-magazine.de/2026/10/15/schweizer-organisation-praesentiert-mustervertrag-fuer-die-beschaffung-von-grossen-batteriespeichern-aus-kaeufersicht/",
+      "published_at": "2026-10-15T14:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Schweizer Organisation präsentiert Mustervertrag für die Beschaffung von großen Batteriespeichern aus Käufersicht Eine gemeinnützige Organisation aus der Schweiz hat einen Musterliefervertrag für Großspeicher aus Käufersicht vorgelegt. Dessen Kernklauseln können kostenlos heruntergeladen werden. Die Organisation wird von Unternehmen unterstützt, die Speicher im Umfang von insgesamt mehr als 40 Gig",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "398e0cdafd3049740bad4c1e",
+      "title": "Rabot Energy erhält Finanzierung über 50 Millionen Euro",
+      "url": "https://www.pv-magazine.de/2026/10/15/rabot-energy-erhaelt-finanzierung-ueber-50-millionen-euro/",
+      "published_at": "2026-10-15T13:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Rabot Energy erhält Finanzierung über 50 Millionen Euro An der Series-B-Finanzierungsrunde beteiligt sich neben Bestandsinvestoren auch ein neuer Lead Investor. Mit dem Kapital will Rabot Energy seinen Kundenstamm verfünffachen und seine Technologieplattform zu erweitern. Im Fokus steht dabei die Vernetzung von Batteriespeichern in Haushalten.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "585e5d763115194500b2cb69",
       "title": "Geothermie und Lithium in Insheim: Vulcan testet Rückleitung für Thermalwasser in den Untergrund",
       "url": "https://www.pfalz-express.de/geothermie-und-lithium-in-insheim-vulcan-testet-rueckleitung-fuer-thermalwasser-in-den-untergrund/",
