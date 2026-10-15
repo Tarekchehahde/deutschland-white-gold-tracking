@@ -2,6 +2,52 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "82c386301d39aefdaf7f339d",
+      "title": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen",
+      "url": "https://www.rnd.de/wirtschaft/schon-wieder-ein-rueckruf-bei-volkswagen-dieses-mal-sind-es-die-batteriezellen-XFKR3GZHSBG4HLW6MAD4MZGZFI.html",
+      "published_at": "2026-10-15T17:32:40Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen Volkswagen ruft weltweit mehrere Tausend Elektroautos der ID.-Familie zurück. Grund sind fehlerhafte Batteriezellen eines Zulieferers. Im Extremfall können die Fahrzeuge in Brand geraten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "00cb78155a7e905fc4935a5e",
+      "title": "Brandgefahr bei E-Autos: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor",
+      "url": "https://rp-online.de/wirtschaft/unternehmen/brandgefahr-vw-bereitet-rueckruf-wegen-fehlerhafter-batteriezellen-vor_aid-156638219",
+      "published_at": "2026-10-15T17:24:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Brandgefahr bei E-Autos: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor Der Rückruf von Millionen Fahrzeugen wegen einer fehlerhaften Schraube ist erst wenige Wochen her – nun muss VW den nächsten Mangel ausräumen. Betroffen sind dieses Mal E‑Autos. Was bislang bekannt ist.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "633323d77328f678f025cde0",
+      "title": "Schweizer Organisation präsentiert Mustervertrag für die Beschaffung von großen Batteriespeichern aus Käufersicht",
+      "url": "https://www.pv-magazine.de/2026/10/15/schweizer-organisation-praesentiert-mustervertrag-fuer-die-beschaffung-von-grossen-batteriespeichern-aus-kaeufersicht/",
+      "published_at": "2026-10-15T14:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Schweizer Organisation präsentiert Mustervertrag für die Beschaffung von großen Batteriespeichern aus Käufersicht Eine gemeinnützige Organisation aus der Schweiz hat einen Musterliefervertrag für Großspeicher aus Käufersicht vorgelegt. Dessen Kernklauseln können kostenlos heruntergeladen werden. Die Organisation wird von Unternehmen unterstützt, die Speicher im Umfang von insgesamt mehr als 40 Gig",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "398e0cdafd3049740bad4c1e",
+      "title": "Rabot Energy erhält Finanzierung über 50 Millionen Euro",
+      "url": "https://www.pv-magazine.de/2026/10/15/rabot-energy-erhaelt-finanzierung-ueber-50-millionen-euro/",
+      "published_at": "2026-10-15T13:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Rabot Energy erhält Finanzierung über 50 Millionen Euro An der Series-B-Finanzierungsrunde beteiligt sich neben Bestandsinvestoren auch ein neuer Lead Investor. Mit dem Kapital will Rabot Energy seinen Kundenstamm verfünffachen und seine Technologieplattform zu erweitern. Im Fokus steht dabei die Vernetzung von Batteriespeichern in Haushalten.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "585e5d763115194500b2cb69",
       "title": "Geothermie und Lithium in Insheim: Vulcan testet Rückleitung für Thermalwasser in den Untergrund",
       "url": "https://www.pfalz-express.de/geothermie-und-lithium-in-insheim-vulcan-testet-rueckleitung-fuer-thermalwasser-in-den-untergrund/",
@@ -37,17 +83,6 @@
       "regions": []
     },
     {
-      "id": "37aaa24092a225de8f0c5fa7",
-      "title": "Tesla: Gigafactory Berlin will eine Million Fahrzeuge pro Jahr bauen",
-      "url": "https://www.golem.de/news/tesla-gigafactory-berlin-will-eine-million-fahrzeuge-pro-jahr-bauen-2610-214121.html",
-      "published_at": "2026-10-15T05:23:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla: Gigafactory Berlin will eine Million Fahrzeuge pro Jahr bauen Tesla plant in Grünheide eine zweite Produktionshalle. Im Endausbau soll die Produktionskapazität auf eine Million Autos pro Jahr erhöht werden. ( Gigafactory Berlin , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "1d844d3376a10a01f4440235",
       "title": "Gebrauchte Elektroautos: Warum ein Batteriezertifikat wichtig ist",
       "url": "https://www.heise.de/ratgeber/Gebrauchte-Elektroautos-Warum-ein-Batteriezertifikat-wichtig-ist-11488217.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -70,41 +105,6 @@
       "regions": []
     },
     {
-      "id": "6e13311dd402b398faa44a7f",
-      "title": "Enertrag und SMA starten Bau von 840-Megawattstunden-Speicher in der Uckermark",
-      "url": "https://www.pv-magazine.de/2026/10/14/enertrag-und-sma-starten-bau-von-840-megawattstunden-speicher-in-der-uckermark/",
-      "published_at": "2026-10-14T12:45:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Enertrag und SMA starten Bau von 840-Megawattstunden-Speicher in der Uckermark Der 200-Megawatt-Batteriespeicher wird ans Übertragungsnetz angeschlossen. Die Anlage soll Wind- und Photovoltaik-Erzeugungsspitzen aufnehmen sowie Systemdienstleistungen für das Stromnetz bereit stellen. Der Speicher soll im Laufe des nächsten Jahres in Betrieb gehen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6fcb9d0f6b9a5388f62d6246",
-      "title": "Sind gewerbliche Batteriespeicher die Lösung für Europas Wettbewerbsdruck?",
-      "url": "https://www.pv-magazine.de/2026/10/14/sind-gewerbliche-batteriespeicher-die-loesung-fuer-europas-wettbewerbsdruck/",
-      "published_at": "2026-10-14T07:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Sind gewerbliche Batteriespeicher die Lösung für Europas Wettbewerbsdruck? Die Strompreise für Unternehmen haben sich innerhalb eines Jahrzehnts mehr als verdoppelt, während die Batteriekosten stark gesunken sind. Eine Umfrage unter Installateuren in Australien deutet darauf hin, dass inzwischen die Umsetzung und nicht die Nachfrage der limitierende Faktor ist. Wir bei Orkestra haben die europäisc",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "fd76f8ba888d4e5371c209db",
-      "title": "Fluence erhält Lieferauftrag für Gigawattstunden-Batteriespeicher von Vattenfall",
-      "url": "https://www.pv-magazine.de/2026/10/14/fluence-erhaelt-lieferauftrag-fuer-gigawattstunden-batteriespeicher-von-vattenfall/",
-      "published_at": "2026-10-14T07:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Fluence erhält Lieferauftrag für Gigawattstunden-Batteriespeicher von Vattenfall Neben der Lieferung der Batteriespeicher umfasst die Vereinbarung auch langfristige Servicedienstleistungen. Vattenfall will bis Ende 2028 an seinem ehemaligen AKW-Standort Brunsbüttel einen 4-Stunden-Speicher mit 254 Megawatt Leistung und mehr als einer Gigawattstunde Kapazität in Betrieb nehmen.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "9f78ab9413275168829e6b7c",
       "title": "Bruchsal macht Ernst: Fernwärme aus Tiefengeothermie ab sofort im Netz",
       "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-bruchsal-macht-ernst-fernwaerme-aus-tiefengeothermie-ab-sofort-im-netz-100.html",
@@ -114,20 +114,6 @@
       "summary": "Bruchsal macht Ernst: Fernwärme aus Tiefengeothermie ab sofort im Netz Das Geothermiekraftwerk Bruchsal setzt Maßstäbe: Als erste Anlage im Land beliefert sie in der nächsten Heizperiode das kommunale Fernwärmenetz. Aber die Bruchsaler Geothermie kann noch mehr.",
       "tags": [],
       "regions": []
-    },
-    {
-      "id": "af71de2525b85108aadf36ab",
-      "title": "Lithium-Abbau: EU stuft Projekte im Osten als strategisch wichtig ein",
-      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/eu-kommission-neptune-energy-altmark-zinnwald,lithium-142.html",
-      "published_at": "2026-10-09T19:06:23Z",
-      "source_id": "tagesschau-st",
-      "language": "de",
-      "summary": "Lithium-Abbau: EU stuft Projekte im Osten als strategisch wichtig ein Die EU hat Projekte zur Lithium-Förderung in Salzwedel und Zinnwald als strategisch wichtig eingestuft. Hintergrund ist, dass Europa unabhängiger von Rohstoffimporten werden will.",
-      "tags": [],
-      "regions": [
-        "DE-SN",
-        "DE-ST"
-      ]
     }
   ]
 }

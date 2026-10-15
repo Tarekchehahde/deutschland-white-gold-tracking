@@ -1,17 +1,63 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-15T09:53:51Z",
+  "generated_at_utc": "2026-10-15T21:23:59Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 824,
+  "total_in_archive": 828,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 92
+    "2026-10": 96
   },
   "recent_for_ui": [
+    {
+      "id": "82c386301d39aefdaf7f339d",
+      "title": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen",
+      "url": "https://www.rnd.de/wirtschaft/schon-wieder-ein-rueckruf-bei-volkswagen-dieses-mal-sind-es-die-batteriezellen-XFKR3GZHSBG4HLW6MAD4MZGZFI.html",
+      "published_at": "2026-10-15T17:32:40Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen Volkswagen ruft weltweit mehrere Tausend Elektroautos der ID.-Familie zurück. Grund sind fehlerhafte Batteriezellen eines Zulieferers. Im Extremfall können die Fahrzeuge in Brand geraten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "00cb78155a7e905fc4935a5e",
+      "title": "Brandgefahr bei E-Autos: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor",
+      "url": "https://rp-online.de/wirtschaft/unternehmen/brandgefahr-vw-bereitet-rueckruf-wegen-fehlerhafter-batteriezellen-vor_aid-156638219",
+      "published_at": "2026-10-15T17:24:00Z",
+      "source_id": "rp-online-wirtschaft",
+      "language": "de",
+      "summary": "Brandgefahr bei E-Autos: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor Der Rückruf von Millionen Fahrzeugen wegen einer fehlerhaften Schraube ist erst wenige Wochen her – nun muss VW den nächsten Mangel ausräumen. Betroffen sind dieses Mal E‑Autos. Was bislang bekannt ist.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "633323d77328f678f025cde0",
+      "title": "Schweizer Organisation präsentiert Mustervertrag für die Beschaffung von großen Batteriespeichern aus Käufersicht",
+      "url": "https://www.pv-magazine.de/2026/10/15/schweizer-organisation-praesentiert-mustervertrag-fuer-die-beschaffung-von-grossen-batteriespeichern-aus-kaeufersicht/",
+      "published_at": "2026-10-15T14:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Schweizer Organisation präsentiert Mustervertrag für die Beschaffung von großen Batteriespeichern aus Käufersicht Eine gemeinnützige Organisation aus der Schweiz hat einen Musterliefervertrag für Großspeicher aus Käufersicht vorgelegt. Dessen Kernklauseln können kostenlos heruntergeladen werden. Die Organisation wird von Unternehmen unterstützt, die Speicher im Umfang von insgesamt mehr als 40 Gig",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "398e0cdafd3049740bad4c1e",
+      "title": "Rabot Energy erhält Finanzierung über 50 Millionen Euro",
+      "url": "https://www.pv-magazine.de/2026/10/15/rabot-energy-erhaelt-finanzierung-ueber-50-millionen-euro/",
+      "published_at": "2026-10-15T13:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Rabot Energy erhält Finanzierung über 50 Millionen Euro An der Series-B-Finanzierungsrunde beteiligt sich neben Bestandsinvestoren auch ein neuer Lead Investor. Mit dem Kapital will Rabot Energy seinen Kundenstamm verfünffachen und seine Technologieplattform zu erweitern. Im Fokus steht dabei die Vernetzung von Batteriespeichern in Haushalten.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "585e5d763115194500b2cb69",
       "title": "Geothermie und Lithium in Insheim: Vulcan testet Rückleitung für Thermalwasser in den Untergrund",
@@ -4516,52 +4562,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "89a59beadba7e4e38aad8d2e",
-      "title": "Ferrari: Elektroauto »Luce« erreicht Absatzziel offenbar vorzeitig",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/ferrari-elektroauto-luce-erreicht-absatzziel-offenbar-vorzeitig-a-1042adf8-9781-484a-9d45-ee8cfa8254a4",
-      "published_at": "2026-07-30T16:28:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Ferrari: Elektroauto »Luce« erreicht Absatzziel offenbar vorzeitig Als Ferrari im Mai ein E-Auto vorstellte, prophezeite manch einer den Untergang der Marke. Das Jahresziel für den Luce ist aber wohl schon geknackt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d504cf88ad0a2e7fd36f4448",
-      "title": "Axpo unterzeichnet 10-jährigen Tolling-Vertrag für Speicherprojekt mit 830 Megawattstunden in Italien",
-      "url": "https://www.pv-magazine.de/2026/07/30/axpo-unterzeichnet-10-jaehrigen-tolling-vertrag-fuer-speicherprojekt-mit-830-megawattstunden-in-italien/",
-      "published_at": "2026-07-30T14:48:27Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Axpo unterzeichnet 10-jährigen Tolling-Vertrag für Speicherprojekt mit 830 Megawattstunden in Italien Axpo hat den Tolling-Vertrag mit mit Zelestra geschlossen. Es handelt sich um ein Batteriespeicher-Projekt mit einer Leistung von 207 Megawatt und einer Kapazität von 830 Megawattstunden im Nordosten Italiens.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ed02dfc544bf731d9b0dc96e",
-      "title": "KI-„Gigafactorys“: EU-Kommission startet Ausschreibung",
-      "url": "https://www.heise.de/news/AI-Gigafactorys-EU-Kommission-startet-Ausschreibung-11387125.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-07-30T13:36:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "KI-„Gigafactorys“: EU-Kommission startet Ausschreibung Mit spezialisierten KI-Großrechenzentren soll der erwartete EU-Bedarf an Rechenkapazität in den kommenden Jahren gedeckt werden.",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "91044ce770196f3a2c11f69a",
-      "title": "Carwow: Interesse an chinesischen Automarken steigt",
-      "url": "https://www.golem.de/news/carwow-interesse-an-chinesischen-automarken-steigt-2607-211454.html",
-      "published_at": "2026-07-30T13:11:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Carwow: Interesse an chinesischen Automarken steigt Die Autohandelsplattform Carwow hat Nutzerdaten ausgewertet: Deutsche Autofahrer verlieren offenbar die Scheu vor Herstellern aus China. ( Elektroauto , Auto )",
-      "tags": [],
       "regions": []
     }
   ]
