@@ -2,6 +2,52 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "585e5d763115194500b2cb69",
+      "title": "Geothermie und Lithium in Insheim: Vulcan testet Rückleitung für Thermalwasser in den Untergrund",
+      "url": "https://www.pfalz-express.de/geothermie-und-lithium-in-insheim-vulcan-testet-rueckleitung-fuer-thermalwasser-in-den-untergrund/",
+      "published_at": "2026-10-15T09:08:19Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Geothermie und Lithium in Insheim: Vulcan testet Rückleitung für Thermalwasser in den Untergrund Insheim – Vulcan Energy hat am Bohrplatz Schleidberg getestet, ob sich Thermalwasser in einen stärker durchlässigen Gesteinsbereich zurückleiten lässt. Nach Angaben des Unternehmens hat das funktioniert. Der Test ist ein Schritt für das Projekt „Lionheart“, mit dem Vulcan Lithium und Wärme gewinnen wil",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "5b586791020878b2123f7f2d",
+      "title": "NASA entwickelt Feststoffbatterie für Einsatz in extremer Kälte und Hitze",
+      "url": "https://www.heise.de/news/NASA-entwickelt-Feststoffbatterie-fuer-Einsatz-in-extremer-Kaelte-und-Hitze-11488875.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-15T08:07:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "NASA entwickelt Feststoffbatterie für Einsatz in extremer Kälte und Hitze Herkömmliche Batterien können extremer Hitze und Kälte auf dem Mond nicht standhalten. Die NASA hat Prototypen von Feststoffbatterien entwickelt, die es können.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c5a9b43d0b8adf5b181b35fd",
+      "title": "Xpeng Next Generation Pilot: Fahrerlos durch Paris",
+      "url": "https://www.golem.de/news/xpeng-next-generation-pilot-fahrerlos-durch-paris-2610-214120.html",
+      "published_at": "2026-10-15T06:39:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Xpeng Next Generation Pilot: Fahrerlos durch Paris Xpeng zeigt seinen Next Generation Pilot im Praxistest. Während der Automesse in Paris findet der L03 mit seinem Level-2++-System den Weg durch Kreisverkehre. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "37aaa24092a225de8f0c5fa7",
+      "title": "Tesla: Gigafactory Berlin will eine Million Fahrzeuge pro Jahr bauen",
+      "url": "https://www.golem.de/news/tesla-gigafactory-berlin-will-eine-million-fahrzeuge-pro-jahr-bauen-2610-214121.html",
+      "published_at": "2026-10-15T05:23:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Gigafactory Berlin will eine Million Fahrzeuge pro Jahr bauen Tesla plant in Grünheide eine zweite Produktionshalle. Im Endausbau soll die Produktionskapazität auf eine Million Autos pro Jahr erhöht werden. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "1d844d3376a10a01f4440235",
       "title": "Gebrauchte Elektroautos: Warum ein Batteriezertifikat wichtig ist",
       "url": "https://www.heise.de/ratgeber/Gebrauchte-Elektroautos-Warum-ein-Batteriezertifikat-wichtig-ist-11488217.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
