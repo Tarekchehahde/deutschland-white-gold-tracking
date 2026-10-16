@@ -1,25 +1,128 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-15T21:23:59Z",
+  "generated_at_utc": "2026-10-16T09:47:49Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 828,
+  "total_in_archive": 837,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 96
+    "2026-10": 105
   },
   "recent_for_ui": [
+    {
+      "id": "61843e320957615ef8c8b05f",
+      "title": "90 statt 100 Prozent: Europa kann nicht vom Verbrennungsmotor lassen",
+      "url": "https://www.golem.de/news/90-statt-100-prozent-europa-kann-nicht-vom-verbrennungsmotor-lassen-2610-214178.html",
+      "published_at": "2026-10-16T09:20:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "90 statt 100 Prozent: Europa kann nicht vom Verbrennungsmotor lassen Frankreich und Deutschland haben sich im Streit um das EU-weite Verbrennerverbot geeinigt. Jede Seite bekommt ihren Willen. ( Verbrennerverbot , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f1619a1f6892da612d1c9d77",
+      "title": "heise+ | Elektroautos für Familien: Sechs neue und gebrauchte Modelle im Vergleich",
+      "url": "https://www.heise.de/ratgeber/Elektroautos-fuer-Familien-Sechs-neue-und-gebrauchte-Modelle-im-Vergleich-11421382.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-10-16T08:50:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroautos für Familien: Sechs neue und gebrauchte Modelle im Vergleich Wer auf der Suche nach einem Familienauto auch junge Gebrauchte berücksichtigt, erweitert die Auswahl beträchtlich. Ein Vergleich von Modellen bis 50.000 Euro.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "82c386301d39aefdaf7f339d",
       "title": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen",
       "url": "https://www.rnd.de/wirtschaft/schon-wieder-ein-rueckruf-bei-volkswagen-dieses-mal-sind-es-die-batteriezellen-XFKR3GZHSBG4HLW6MAD4MZGZFI.html",
-      "published_at": "2026-10-15T17:32:40Z",
+      "published_at": "2026-10-16T08:47:09Z",
       "source_id": "rnd-wirtschaft",
       "language": "de",
-      "summary": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen Volkswagen ruft weltweit mehrere Tausend Elektroautos der ID.-Familie zurück. Grund sind fehlerhafte Batteriezellen eines Zulieferers. Im Extremfall können die Fahrzeuge in Brand geraten.",
+      "summary": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen Volkswagen ruft weltweit mehrere Tausend Elektroautos der ID-Familie zurück. Grund sind fehlerhafte Batteriezellen eines Zulieferers. Im Extremfall können die Fahrzeuge in Brand geraten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dcc732d4d94d4aa19c8700c6",
+      "title": "Tesla in Grünheide will wachsen: Werkschef Thierig nennt zwei zentrale Hürden",
+      "url": "https://www.rnd.de/wirtschaft/tesla-in-gruenheide-will-wachsen-werkschef-thierig-nennt-zwei-zentrale-huerden-7KJOAIZXFBFAPHN3Q3MCYE43PQ.html",
+      "published_at": "2026-10-16T07:30:22Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Tesla in Grünheide will wachsen: Werkschef Thierig nennt zwei zentrale Hürden Die Tesla-Fabrik in Grünheide ist auf Wachstumskurs. Kommendes Jahr startet die Batterieproduktion, der Antrag für eine große Werkserweiterung wird vorbereitet. Doch der Ausbau wird laut Werksleiter André Thierig durch Bürokratie ausgebremst.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "1b2564798f3d3d0187361ed2",
+      "title": "Regeln für Stromanschlüsse als Bremse für E-Autos",
+      "url": "https://www.rnd.de/wirtschaft/regeln-fuer-stromanschluesse-als-bremse-fuer-e-autos-DSWTN7I6GZAMDFYVZY3JBOHG3I.html",
+      "published_at": "2026-10-16T07:14:33Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Regeln für Stromanschlüsse als Bremse für E-Autos Die Elektromobilität boomt. Doch der notwendige Ausbau der Ladeinfrastruktur droht ins Stocken zu kommen. Protest gegen Restriktionen bei der Vergabe von Netzanschlüssen wird lauter.",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "76394c236f26d91d37221e76",
+      "title": "ID.3, ID.4 und Cupra Born: VW könnte 11.000 E-Autos zurückrufen",
+      "url": "https://www.golem.de/news/id-3-id-4-und-cupra-born-vw-ruft-tausende-e-autos-zurueck-2610-214165.html",
+      "published_at": "2026-10-16T06:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "ID.3, ID.4 und Cupra Born: VW könnte 11.000 E-Autos zurückrufen Rund 11.000 VW-Elektroautos in Deutschland könnten von einem Rückruf betroffen sein. Bis zur endgültigen Lösung gilt: Ladelimit auf 80 Prozent. ( VW , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ad2580430325015efea49ad3",
+      "title": "Grenzwerte: E-Auto-Boom macht CO2-Ziele erreichbar",
+      "url": "https://www.golem.de/news/grenzwerte-e-auto-boom-macht-co2-ziele-erreichbar-2610-214166.html",
+      "published_at": "2026-10-16T05:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Grenzwerte: E-Auto-Boom macht CO2-Ziele erreichbar Eine neue Analyse zeigt: Wenn der Elektroauto-Boom anhält, schaffen die Autobauer die strengen CO2-Ziele der EU auch ohne Nachbesserung. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "57cc10461a64039cf394232c",
+      "title": "Neuzulassungen 2026: In manchen Regionen boomen Elektroautos ganz besonders",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/elektroautos-wo-die-meisten-neuzulassungen-mit-strom-fahren-accg-201458988.html",
+      "published_at": "2026-10-16T04:58:15Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Neuzulassungen 2026: In manchen Regionen boomen Elektroautos ganz besonders E-Autos sind in Großstädten beliebt? Offizielle Zahlen zeigen ein anderes Bild. In zwei ländlich geprägten Bundesländern fahren mehr als 30 Prozent der Neuzulassungen mit Strom – in einem Stadtstaat besonders wenige.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a50ca94cb7f741f06f6d19e5",
+      "title": "Elektromobilität: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/vw-rueckruf-batterie-elektroautos-id3-id4-gxe",
+      "published_at": "2026-10-16T03:04:39Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor Wegen Qualitätsmängeln plant Volkswagen den Rückruf einzelner E-Auto-Modelle. Betroffen sind einige Tausend Fahrzeuge. Im Extremfall könnte ein Brand entstehen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dc8ccb0240960b676a8b4124",
+      "title": "Hypersportwagen: Tesla Roadster kann fliegen",
+      "url": "https://www.golem.de/news/hypersportwagen-tesla-roadster-kann-fliegen-2610-214167.html",
+      "published_at": "2026-10-16T02:39:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Hypersportwagen: Tesla Roadster kann fliegen Tesla hat seinen neuen Roadster vorgestellt - mit rekordverdächtiger Beschleunigung, Kaltgastriebwerken und einer Show voller Stunts. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -4457,111 +4560,6 @@
       "language": "de",
       "summary": "Elektroauto: Audi präsentiert erste Verbrauchszahl zum A2 E-Tron Der A2 E-Tron soll wie sein Vorgänger sparsam sein. Dafür trimmt Audi die Karosserie und verwendet einen effizienten Antrieb. ( Audi , Elektroauto )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ed5e9b96a771e025c5f1d6f1",
-      "title": "Erste Fahrt im Audi A2 e-tron: Retro-Design für moderne Elektroauto-Technik",
-      "url": "https://www.heise.de/tests/Erste-Fahrt-im-Audi-A2-e-tron-Retro-Design-fuer-moderne-Elektroauto-Technik-11395600.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-08-03T22:01:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Erste Fahrt im Audi A2 e-tron: Retro-Design für moderne Elektroauto-Technik Audi lässt den A2 als Elektroauto wiederaufleben. Eine Fahrt in einem Vorserien-A2 e-tron wirft die Frage auf, ob der A2 als E-Auto den hohen Preis wert ist.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d3df87b982fd17424dc4ac3e",
-      "title": "V2G: Was Kunden wollen und was der Markt anbietet",
-      "url": "https://www.pv-magazine.de/2026/08/03/v2g-was-kunden-wollen-und-was-der-markt-anbietet/",
-      "published_at": "2026-08-03T15:11:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "V2G: Was Kunden wollen und was der Markt anbietet pv+: Die ersten kommerziellen Vehicle-to-Grid-Angebote sind gestartet. BMW, Ford, Renault oder Octopus Energy versprechen Einnahmen für angeschlossene Elektroautos und machen Fahrzeugbatterien zu einem Teil des Energiesystems. Doch die Modelle unterscheiden sich bei Vergütung und Transparenz. Für Installateure entsteht damit ein neues Beratungsfeld",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7598b3a8dd9a7b03cc4a2d8b",
-      "title": "Solarauto Sion: Sono Motors endgültig pleite",
-      "url": "https://www.golem.de/news/solarauto-sion-insolvente-firma-sono-motors-verkauft-hardware-und-know-how-2608-211536.html",
-      "published_at": "2026-08-03T09:42:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Solarauto Sion: Sono Motors endgültig pleite Nach zehn Jahren gescheiterter Versuche zum Bau eines Solarautos ist Sono Motors Geschichte. Die frühere Mutterfirma macht mit Bitcoins weiter. ( Sono Motors , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ee31f0f53277cc36478eaa62",
-      "title": "Elektro-Mobilität: Hersteller gewähren weniger Rabatte auf E-Autos",
-      "url": "https://www.spiegel.de/wirtschaft/elektro-mobilitaet-hersteller-gewaehren-weniger-rabatte-auf-e-autos-a-984ca9d5-a17a-4dbf-8b7b-6c7db8a1c49d",
-      "published_at": "2026-08-03T05:32:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Elektro-Mobilität: Hersteller gewähren weniger Rabatte auf E-Autos Die Nachfrage nach Elektroautos wächst. So gut, dass Kaufanreize offenbar überflüssig werden. Die Hersteller jedenfalls knausern zunehmend mit Rabatten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "73e537fb2ccc2ec676c7dca0",
-      "title": "Anzeige: Mobile Wallbox 11 kW und Zubehör für nur 142,45 Euro bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-11-kw-und-zubehoer-fuer-nur-142-45-euro-bei-amazon-2608-211498.html",
-      "published_at": "2026-08-01T08:40:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Mobile Wallbox 11 kW und Zubehör für nur 142,45 Euro bei Amazon Diese Mobile Wallbox lädt mit bis zu 11 kW über CEE-Stecker und Typ-2-Kabel. Liegt bei Amazon nur rund fünf Euro über dem Bestpreis. ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d0a437cd34c70cb5e8701851",
-      "title": "Mit einem 2400 Meter tiefen Bohrloch: Wie ein Startup ein sterbendes Kraftwerk wiederbelebte",
-      "url": "https://t3n.de/news/bohrloch-startup-kraftwerk-1755600/",
-      "published_at": "2026-07-31T14:00:43Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Mit einem 2400 Meter tiefen Bohrloch: Wie ein Startup ein sterbendes Kraftwerk wiederbelebte Das Startup Zanskar will zeigen, dass auch alte Geothermiekraftwerke eine Chance verdienen. Eine Anlage in den USA wird jetzt mit neuer Technik wiederbelebt. Im Juni 2024 erwarb ein junges Unternehmen namens Zanskar Geothermal ein Geothermiekraftwerk im US-Bundesstaat New Mexico, das zum damaligen Zeitpunk",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "95a0e6cb597c3e2f95f7c9dc",
-      "title": "Tesla: Elon Musk dementiert Gerüchte um Verkauf von China-Geschäft",
-      "url": "https://www.golem.de/news/tesla-elon-musk-dementiert-geruechte-um-verkauf-von-china-geschaeft-2607-211495.html",
-      "published_at": "2026-07-31T13:41:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla: Elon Musk dementiert Gerüchte um Verkauf von China-Geschäft Das China-Geschäft von Tesla steht einem möglichen Zusammenschluss mit SpaceX im Weg - Gerüchte um einen Verkauf dementiert Elon Musk. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b2cf8eed0340a693751f7447",
-      "title": "Vom Öl zu Lithium: Wie die Energiewende Asiens Geopolitik verändert",
-      "url": "https://www.dw.com/de/vom-öl-zu-lithium-wie-die-energiewende-asiens-geopolitik-verändert/a-78189922?maca=de-rss-de-eco-1018-xml-mrss",
-      "published_at": "2026-07-31T13:11:00Z",
-      "source_id": "dw-wirtschaft",
-      "language": "de",
-      "summary": "Vom Öl zu Lithium: Wie die Energiewende Asiens Geopolitik verändert Mit der Energiewende wollen Indien und China ihre Abhängigkeit von Öl und Gas verringern. Doch an die Stelle fossiler Energien treten neue geopolitische Risiken - von kritischen Mineralien bis zu globalen Lieferketten.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "d81f900af768fea87edcf0c9",
-      "title": "Kritische Rohstoffe: Europas wirtschaftliche Freiheit wird auch in Hanau verteidigt",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/vac-vacuumschmelze-hanau-verkauf-an-us-konzern-201069100.html",
-      "published_at": "2026-07-31T07:18:00Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Kritische Rohstoffe: Europas wirtschaftliche Freiheit wird auch in Hanau verteidigt Der Bund muss den Verkauf des Magnetherstellers VAC aus Hanau prüfen. Das Unternehmen ist von strategischer Bedeutung. Warum bleibt die Industrie so passiv?",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]
