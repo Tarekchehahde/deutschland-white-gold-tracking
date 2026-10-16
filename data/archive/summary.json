@@ -1,17 +1,94 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-16T09:47:49Z",
+  "generated_at_utc": "2026-10-16T21:10:10Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 837,
+  "total_in_archive": 843,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 105
+    "2026-10": 111
   },
   "recent_for_ui": [
+    {
+      "id": "cd15ae2a967b91978e1bfdc5",
+      "title": "Tesla Roadster fliegt durch die Luft: Elon Musk hat die Bodenhaftung verloren. Buchstäblich",
+      "url": "https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich-a-ed7a0234-7b5c-4c95-8744-5e4575995ecb",
+      "published_at": "2026-10-16T14:47:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Tesla Roadster fliegt durch die Luft: Elon Musk hat die Bodenhaftung verloren. Buchstäblich Tesla stellt 20 Jahre nach seinem ersten Elektroauto den Nachfolger vor. Der Roadster ist Elon Musks aktuelle Vision eines Zukunftsautos: Es soll von 0 auf 100 in weniger als einer Sekunde beschleunigen – und fliegen können.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "475dc6db4a833ac96a92e85a",
+      "title": "AfD-Antrag zu Technologieoffenheit im mVerkehrsbereich",
+      "url": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5240419",
+      "published_at": "2026-10-16T13:21:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "AfD-Antrag zu Technologieoffenheit im mVerkehrsbereich AfD-Fraktion mit dem Titel „Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden“",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "82c386301d39aefdaf7f339d",
+      "title": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen",
+      "url": "https://www.rnd.de/wirtschaft/schon-wieder-ein-rueckruf-bei-volkswagen-dieses-mal-sind-es-die-batteriezellen-XFKR3GZHSBG4HLW6MAD4MZGZFI.html",
+      "published_at": "2026-10-16T12:49:05Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen Volkswagen ruft weltweit mehrere Tausend Elektroautos der ID-Familie zurück. Grund sind fehlerhafte Batteriezellen eines Zulieferers. Im Extremfall können die Fahrzeuge in Brand geraten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "bcd7f39f3b793a304c5652bb",
+      "title": "Tesla Roadster: Raketenshow statt preiswertem Auto für alle",
+      "url": "https://www.golem.de/news/tesla-roadster-raketenshow-statt-preiswertem-auto-fuer-alle-2610-214187.html",
+      "published_at": "2026-10-16T11:53:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla Roadster: Raketenshow statt preiswertem Auto für alle Teslas neuer Roadster ist zweifellos eine technische Meisterleistung, die Präsentation war spektakulär. Aber hilft Tesla das langfristig? Eine Analyse von Tobias Költzsch ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e58137e55afb0a8d5bb3797d",
+      "title": "Sonntag Energy baut nachgeführte Agri-Photovoltaik-Anlage über Erdbeeren",
+      "url": "https://www.pv-magazine.de/2026/10/16/sonntag-energy-baut-nachgefuehrte-agri-photovoltaik-anlage-ueber-erdbeeren/",
+      "published_at": "2026-10-16T11:34:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sonntag Energy baut nachgeführte Agri-Photovoltaik-Anlage über Erdbeeren Am Bodensee entsteht eine Agri-Photovoltaik-Anlage mit einem Megawatt Leistung und einem Batteriespeicher mit fünf Megawattstunden Kapazität. Die nachgeführten Solarmodule sollen zugleich die Erdbeerkulturen vor starker Sonneneinstrahlung und Witterungseinflüssen schützen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "db85c1188e6266d85ebcdbc0",
+      "title": "Volkswagen bereitet Rückruf für verschiedene Elektroautos vor",
+      "url": "https://www.heise.de/news/Volkswagen-bereitet-Rueckruf-fuer-verschiedene-Elektroautos-vor-11490694.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-16T10:32:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Volkswagen bereitet Rückruf für verschiedene Elektroautos vor In diversen Elektroautos der Baujahre 2023 bis 2025 kann es durch einen Zelldefekt in der Batterie zu einem Brand kommen. Ein Rückruf ist in Vorbereitung.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "35d75d3133268177b77939ef",
+      "title": "Elektroauto: Einfach durchrutschen im Smart #2",
+      "url": "https://www.golem.de/news/elektroauto-einfach-durchrutschen-im-smart-2-2610-214177.html",
+      "published_at": "2026-10-16T10:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Einfach durchrutschen im Smart #2 Der kleine Smart kehrt als Elektroauto zurück. Auf dem Pariser Autosalon überraschen praktische Details, doch die Ladeangaben werfen Fragen auf. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "61843e320957615ef8c8b05f",
       "title": "90 statt 100 Prozent: Europa kann nicht vom Verbrennungsmotor lassen",
@@ -31,17 +108,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "heise+ | Elektroautos für Familien: Sechs neue und gebrauchte Modelle im Vergleich Wer auf der Suche nach einem Familienauto auch junge Gebrauchte berücksichtigt, erweitert die Auswahl beträchtlich. Ein Vergleich von Modellen bis 50.000 Euro.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "82c386301d39aefdaf7f339d",
-      "title": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen",
-      "url": "https://www.rnd.de/wirtschaft/schon-wieder-ein-rueckruf-bei-volkswagen-dieses-mal-sind-es-die-batteriezellen-XFKR3GZHSBG4HLW6MAD4MZGZFI.html",
-      "published_at": "2026-10-16T08:47:09Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen Volkswagen ruft weltweit mehrere Tausend Elektroautos der ID-Familie zurück. Grund sind fehlerhafte Batteriezellen eines Zulieferers. Im Extremfall können die Fahrzeuge in Brand geraten.",
       "tags": [],
       "regions": []
     },
@@ -4488,77 +4554,6 @@
       "source_id": "rp-online-wirtschaft",
       "language": "de",
       "summary": "Milliardenschweres Programm: Schon mehr als 100.000 Anträge auf E-Auto-Förderung Seit dem 19. Mai kann man beim Staat Zuschüsse für Elektroautos beantragen. Das Interesse ist groß. Laut Bundesamt für Wirtschaft und Ausfuhrkontrolle haben schon über 100.000 Menschen die Möglichkeit genutzt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3e30c5c07c6dfcfa0d221a56",
-      "title": "Bafa: Elektroautoprämie wird vornehmlich von Geringverdienern genutzt",
-      "url": "https://www.golem.de/news/bafa-elektroautopraemie-wird-vornehmlich-von-geringverdienern-genutzt-2608-211605.html",
-      "published_at": "2026-08-05T05:46:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Bafa: Elektroautoprämie wird vornehmlich von Geringverdienern genutzt Neue Zahlen des Bafa zeigen erstmals, welche Einkommensgruppen die staatliche Kaufprämie für Elektroautos bislang am häufigsten nutzen. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a575190af908aaf0bc6f5871",
-      "title": "heise+ | Laden von Elektroautos: Die C-Rate schafft Vergleichbarkeit",
-      "url": "https://www.heise.de/hintergrund/Laden-von-Elektroautos-Die-C-Rate-schafft-Vergleichbarkeit-11360771.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-08-05T05:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Laden von Elektroautos: Die C-Rate schafft Vergleichbarkeit Zur Einschätzung der Ladegeschwindigkeit von E-Auto-Akkus spielt die sogenannte C-Rate eine entscheidende Rolle. Was ist das?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8e2206d5ccb950443e268074",
-      "title": "Landau: Minister Ebling besucht „Zero Carbon Lithium“ von Vulcan Energy",
-      "url": "https://www.pfalz-express.de/landau-minister-ebling-besucht-zero-carbon-lithium-von-vulcan-energy/",
-      "published_at": "2026-08-04T20:47:34Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Landau: Minister Ebling besucht „Zero Carbon Lithium“ von Vulcan Energy Landau – Wirtschafts- und Energieminister Michael Ebling (SPD) hat das Unternehmen Vulcan Energie Ressourcen GmbH in Landau besucht. Im Mittelpunkt stand das EU-Innovationsprojekt „Zero Carbon Lithium“, das auf die CO₂-neutrale Gewinnung des Zukunftsrohstoffs Lithium setzt. Rheinland-Pfalz beteiligt sich mit bis zu 17,2 Millio",
-      "tags": [
-        "industrie",
-        "politik"
-      ],
-      "regions": [
-        "DE-RP"
-      ]
-    },
-    {
-      "id": "9ab84980549864a223998a5a",
-      "title": "Batteriespeicher: Ein Heimspeicher, der nicht zu Hause installiert wird",
-      "url": "https://www.golem.de/news/batteriespeicher-ein-heimspeicher-der-nicht-zu-hause-installiert-wird-2608-211584.html",
-      "published_at": "2026-08-04T11:44:04Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Batteriespeicher: Ein Heimspeicher, der nicht zu Hause installiert wird Batteriehersteller in den USA vertreiben Akkus, die außerhalb des eigenen Stromzählers angeschlossen werden. Das ergibt gleich mehrfach Sinn. ( Energiewende , Akku )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "af76cbb72941496dcf4e34cc",
-      "title": "Brandprävention bei Großspeichern: Vorlaufzeit statt Aktionismus",
-      "url": "https://www.pv-magazine.de/2026/08/04/brandpraevention-bei-grossspeichern-vorlaufzeit-statt-aktionismus/",
-      "published_at": "2026-08-04T08:11:27Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Brandprävention bei Großspeichern: Vorlaufzeit statt Aktionismus Nach dem Brand eines Batteriespeichers in Bautzen wächst der Druck, Konsequenzen zu ziehen. In der Praxis richtet sich der Blick dann häufig zuerst auf zusätzliche Sensorik, Löschtechnik und weitere Hardware. Claudius Jehle warnt vor einem verkürzten Reflex: Für echte, vorbeugende Prävention ist meist bereits vieles vorhanden, was es",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8b7e41c9c89885f47dd51d86",
-      "title": "Elektroauto: Audi präsentiert erste Verbrauchszahl zum A2 E-Tron",
-      "url": "https://www.golem.de/news/elektroauto-audi-praesentiert-erste-verbrauchszahl-zum-a2-e-tron-2608-211566.html",
-      "published_at": "2026-08-04T08:10:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Audi präsentiert erste Verbrauchszahl zum A2 E-Tron Der A2 E-Tron soll wie sein Vorgänger sparsam sein. Dafür trimmt Audi die Karosserie und verwendet einen effizienten Antrieb. ( Audi , Elektroauto )",
       "tags": [],
       "regions": []
     }

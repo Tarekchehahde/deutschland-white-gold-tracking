@@ -2,24 +2,24 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "61843e320957615ef8c8b05f",
-      "title": "90 statt 100 Prozent: Europa kann nicht vom Verbrennungsmotor lassen",
-      "url": "https://www.golem.de/news/90-statt-100-prozent-europa-kann-nicht-vom-verbrennungsmotor-lassen-2610-214178.html",
-      "published_at": "2026-10-16T09:20:02Z",
-      "source_id": "golem-rss",
+      "id": "cd15ae2a967b91978e1bfdc5",
+      "title": "Tesla Roadster fliegt durch die Luft: Elon Musk hat die Bodenhaftung verloren. Buchstäblich",
+      "url": "https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich-a-ed7a0234-7b5c-4c95-8744-5e4575995ecb",
+      "published_at": "2026-10-16T14:47:00Z",
+      "source_id": "spiegel-schlagzeilen",
       "language": "de",
-      "summary": "90 statt 100 Prozent: Europa kann nicht vom Verbrennungsmotor lassen Frankreich und Deutschland haben sich im Streit um das EU-weite Verbrennerverbot geeinigt. Jede Seite bekommt ihren Willen. ( Verbrennerverbot , Elektroauto )",
+      "summary": "Tesla Roadster fliegt durch die Luft: Elon Musk hat die Bodenhaftung verloren. Buchstäblich Tesla stellt 20 Jahre nach seinem ersten Elektroauto den Nachfolger vor. Der Roadster ist Elon Musks aktuelle Vision eines Zukunftsautos: Es soll von 0 auf 100 in weniger als einer Sekunde beschleunigen – und fliegen können.",
       "tags": [],
       "regions": []
     },
     {
-      "id": "f1619a1f6892da612d1c9d77",
-      "title": "heise+ | Elektroautos für Familien: Sechs neue und gebrauchte Modelle im Vergleich",
-      "url": "https://www.heise.de/ratgeber/Elektroautos-fuer-Familien-Sechs-neue-und-gebrauchte-Modelle-im-Vergleich-11421382.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-10-16T08:50:00Z",
-      "source_id": "heise-news",
+      "id": "475dc6db4a833ac96a92e85a",
+      "title": "AfD-Antrag zu Technologieoffenheit im mVerkehrsbereich",
+      "url": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5240419",
+      "published_at": "2026-10-16T13:21:00Z",
+      "source_id": "zdf-nachrichten",
       "language": "de",
-      "summary": "heise+ | Elektroautos für Familien: Sechs neue und gebrauchte Modelle im Vergleich Wer auf der Suche nach einem Familienauto auch junge Gebrauchte berücksichtigt, erweitert die Auswahl beträchtlich. Ein Vergleich von Modellen bis 50.000 Euro.",
+      "summary": "AfD-Antrag zu Technologieoffenheit im mVerkehrsbereich AfD-Fraktion mit dem Titel „Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden“",
       "tags": [],
       "regions": []
     },
@@ -27,10 +27,65 @@
       "id": "82c386301d39aefdaf7f339d",
       "title": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen",
       "url": "https://www.rnd.de/wirtschaft/schon-wieder-ein-rueckruf-bei-volkswagen-dieses-mal-sind-es-die-batteriezellen-XFKR3GZHSBG4HLW6MAD4MZGZFI.html",
-      "published_at": "2026-10-16T08:47:09Z",
+      "published_at": "2026-10-16T12:49:05Z",
       "source_id": "rnd-wirtschaft",
       "language": "de",
       "summary": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen Volkswagen ruft weltweit mehrere Tausend Elektroautos der ID-Familie zurück. Grund sind fehlerhafte Batteriezellen eines Zulieferers. Im Extremfall können die Fahrzeuge in Brand geraten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "bcd7f39f3b793a304c5652bb",
+      "title": "Tesla Roadster: Raketenshow statt preiswertem Auto für alle",
+      "url": "https://www.golem.de/news/tesla-roadster-raketenshow-statt-preiswertem-auto-fuer-alle-2610-214187.html",
+      "published_at": "2026-10-16T11:53:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla Roadster: Raketenshow statt preiswertem Auto für alle Teslas neuer Roadster ist zweifellos eine technische Meisterleistung, die Präsentation war spektakulär. Aber hilft Tesla das langfristig? Eine Analyse von Tobias Költzsch ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e58137e55afb0a8d5bb3797d",
+      "title": "Sonntag Energy baut nachgeführte Agri-Photovoltaik-Anlage über Erdbeeren",
+      "url": "https://www.pv-magazine.de/2026/10/16/sonntag-energy-baut-nachgefuehrte-agri-photovoltaik-anlage-ueber-erdbeeren/",
+      "published_at": "2026-10-16T11:34:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sonntag Energy baut nachgeführte Agri-Photovoltaik-Anlage über Erdbeeren Am Bodensee entsteht eine Agri-Photovoltaik-Anlage mit einem Megawatt Leistung und einem Batteriespeicher mit fünf Megawattstunden Kapazität. Die nachgeführten Solarmodule sollen zugleich die Erdbeerkulturen vor starker Sonneneinstrahlung und Witterungseinflüssen schützen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "db85c1188e6266d85ebcdbc0",
+      "title": "Volkswagen bereitet Rückruf für verschiedene Elektroautos vor",
+      "url": "https://www.heise.de/news/Volkswagen-bereitet-Rueckruf-fuer-verschiedene-Elektroautos-vor-11490694.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-16T10:32:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Volkswagen bereitet Rückruf für verschiedene Elektroautos vor In diversen Elektroautos der Baujahre 2023 bis 2025 kann es durch einen Zelldefekt in der Batterie zu einem Brand kommen. Ein Rückruf ist in Vorbereitung.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "35d75d3133268177b77939ef",
+      "title": "Elektroauto: Einfach durchrutschen im Smart #2",
+      "url": "https://www.golem.de/news/elektroauto-einfach-durchrutschen-im-smart-2-2610-214177.html",
+      "published_at": "2026-10-16T10:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Einfach durchrutschen im Smart #2 Der kleine Smart kehrt als Elektroauto zurück. Auf dem Pariser Autosalon überraschen praktische Details, doch die Ladeangaben werfen Fragen auf. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "61843e320957615ef8c8b05f",
+      "title": "90 statt 100 Prozent: Europa kann nicht vom Verbrennungsmotor lassen",
+      "url": "https://www.golem.de/news/90-statt-100-prozent-europa-kann-nicht-vom-verbrennungsmotor-lassen-2610-214178.html",
+      "published_at": "2026-10-16T09:20:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "90 statt 100 Prozent: Europa kann nicht vom Verbrennungsmotor lassen Frankreich und Deutschland haben sich im Streit um das EU-weite Verbrennerverbot geeinigt. Jede Seite bekommt ihren Willen. ( Verbrennerverbot , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -83,17 +138,6 @@
       "regions": []
     },
     {
-      "id": "57cc10461a64039cf394232c",
-      "title": "Neuzulassungen 2026: In manchen Regionen boomen Elektroautos ganz besonders",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/elektroautos-wo-die-meisten-neuzulassungen-mit-strom-fahren-accg-201458988.html",
-      "published_at": "2026-10-16T04:58:15Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Neuzulassungen 2026: In manchen Regionen boomen Elektroautos ganz besonders E-Autos sind in Großstädten beliebt? Offizielle Zahlen zeigen ein anderes Bild. In zwei ländlich geprägten Bundesländern fahren mehr als 30 Prozent der Neuzulassungen mit Strom – in einem Stadtstaat besonders wenige.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "a50ca94cb7f741f06f6d19e5",
       "title": "Elektromobilität: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor",
       "url": "https://www.zeit.de/wirtschaft/2026-10/vw-rueckruf-batterie-elektroautos-id3-id4-gxe",
@@ -137,39 +181,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "398e0cdafd3049740bad4c1e",
-      "title": "Rabot Energy erhält Finanzierung über 50 Millionen Euro",
-      "url": "https://www.pv-magazine.de/2026/10/15/rabot-energy-erhaelt-finanzierung-ueber-50-millionen-euro/",
-      "published_at": "2026-10-15T13:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Rabot Energy erhält Finanzierung über 50 Millionen Euro An der Series-B-Finanzierungsrunde beteiligt sich neben Bestandsinvestoren auch ein neuer Lead Investor. Mit dem Kapital will Rabot Energy seinen Kundenstamm verfünffachen und seine Technologieplattform zu erweitern. Im Fokus steht dabei die Vernetzung von Batteriespeichern in Haushalten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5b586791020878b2123f7f2d",
-      "title": "NASA entwickelt Feststoffbatterie für Einsatz in extremer Kälte und Hitze",
-      "url": "https://www.heise.de/news/NASA-entwickelt-Feststoffbatterie-fuer-Einsatz-in-extremer-Kaelte-und-Hitze-11488875.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-10-15T08:07:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "NASA entwickelt Feststoffbatterie für Einsatz in extremer Kälte und Hitze Herkömmliche Batterien können extremer Hitze und Kälte auf dem Mond nicht standhalten. Die NASA hat Prototypen von Feststoffbatterien entwickelt, die es können.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9f78ab9413275168829e6b7c",
-      "title": "Bruchsal macht Ernst: Fernwärme aus Tiefengeothermie ab sofort im Netz",
-      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-bruchsal-macht-ernst-fernwaerme-aus-tiefengeothermie-ab-sofort-im-netz-100.html",
-      "published_at": "2026-10-14T05:17:00Z",
-      "source_id": "tagesschau-bw",
-      "language": "de",
-      "summary": "Bruchsal macht Ernst: Fernwärme aus Tiefengeothermie ab sofort im Netz Das Geothermiekraftwerk Bruchsal setzt Maßstäbe: Als erste Anlage im Land beliefert sie in der nächsten Heizperiode das kommunale Fernwärmenetz. Aber die Bruchsaler Geothermie kann noch mehr.",
-      "tags": [],
       "regions": []
     }
   ]
