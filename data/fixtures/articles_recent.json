@@ -2,13 +2,116 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "61843e320957615ef8c8b05f",
+      "title": "90 statt 100 Prozent: Europa kann nicht vom Verbrennungsmotor lassen",
+      "url": "https://www.golem.de/news/90-statt-100-prozent-europa-kann-nicht-vom-verbrennungsmotor-lassen-2610-214178.html",
+      "published_at": "2026-10-16T09:20:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "90 statt 100 Prozent: Europa kann nicht vom Verbrennungsmotor lassen Frankreich und Deutschland haben sich im Streit um das EU-weite Verbrennerverbot geeinigt. Jede Seite bekommt ihren Willen. ( Verbrennerverbot , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f1619a1f6892da612d1c9d77",
+      "title": "heise+ | Elektroautos für Familien: Sechs neue und gebrauchte Modelle im Vergleich",
+      "url": "https://www.heise.de/ratgeber/Elektroautos-fuer-Familien-Sechs-neue-und-gebrauchte-Modelle-im-Vergleich-11421382.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-10-16T08:50:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Elektroautos für Familien: Sechs neue und gebrauchte Modelle im Vergleich Wer auf der Suche nach einem Familienauto auch junge Gebrauchte berücksichtigt, erweitert die Auswahl beträchtlich. Ein Vergleich von Modellen bis 50.000 Euro.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "82c386301d39aefdaf7f339d",
       "title": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen",
       "url": "https://www.rnd.de/wirtschaft/schon-wieder-ein-rueckruf-bei-volkswagen-dieses-mal-sind-es-die-batteriezellen-XFKR3GZHSBG4HLW6MAD4MZGZFI.html",
-      "published_at": "2026-10-15T17:32:40Z",
+      "published_at": "2026-10-16T08:47:09Z",
       "source_id": "rnd-wirtschaft",
       "language": "de",
-      "summary": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen Volkswagen ruft weltweit mehrere Tausend Elektroautos der ID.-Familie zurück. Grund sind fehlerhafte Batteriezellen eines Zulieferers. Im Extremfall können die Fahrzeuge in Brand geraten.",
+      "summary": "Schon wieder ein Rückruf bei Volkswagen – dieses Mal sind es die Batteriezellen Volkswagen ruft weltweit mehrere Tausend Elektroautos der ID-Familie zurück. Grund sind fehlerhafte Batteriezellen eines Zulieferers. Im Extremfall können die Fahrzeuge in Brand geraten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dcc732d4d94d4aa19c8700c6",
+      "title": "Tesla in Grünheide will wachsen: Werkschef Thierig nennt zwei zentrale Hürden",
+      "url": "https://www.rnd.de/wirtschaft/tesla-in-gruenheide-will-wachsen-werkschef-thierig-nennt-zwei-zentrale-huerden-7KJOAIZXFBFAPHN3Q3MCYE43PQ.html",
+      "published_at": "2026-10-16T07:30:22Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Tesla in Grünheide will wachsen: Werkschef Thierig nennt zwei zentrale Hürden Die Tesla-Fabrik in Grünheide ist auf Wachstumskurs. Kommendes Jahr startet die Batterieproduktion, der Antrag für eine große Werkserweiterung wird vorbereitet. Doch der Ausbau wird laut Werksleiter André Thierig durch Bürokratie ausgebremst.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "1b2564798f3d3d0187361ed2",
+      "title": "Regeln für Stromanschlüsse als Bremse für E-Autos",
+      "url": "https://www.rnd.de/wirtschaft/regeln-fuer-stromanschluesse-als-bremse-fuer-e-autos-DSWTN7I6GZAMDFYVZY3JBOHG3I.html",
+      "published_at": "2026-10-16T07:14:33Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Regeln für Stromanschlüsse als Bremse für E-Autos Die Elektromobilität boomt. Doch der notwendige Ausbau der Ladeinfrastruktur droht ins Stocken zu kommen. Protest gegen Restriktionen bei der Vergabe von Netzanschlüssen wird lauter.",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "76394c236f26d91d37221e76",
+      "title": "ID.3, ID.4 und Cupra Born: VW könnte 11.000 E-Autos zurückrufen",
+      "url": "https://www.golem.de/news/id-3-id-4-und-cupra-born-vw-ruft-tausende-e-autos-zurueck-2610-214165.html",
+      "published_at": "2026-10-16T06:00:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "ID.3, ID.4 und Cupra Born: VW könnte 11.000 E-Autos zurückrufen Rund 11.000 VW-Elektroautos in Deutschland könnten von einem Rückruf betroffen sein. Bis zur endgültigen Lösung gilt: Ladelimit auf 80 Prozent. ( VW , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ad2580430325015efea49ad3",
+      "title": "Grenzwerte: E-Auto-Boom macht CO2-Ziele erreichbar",
+      "url": "https://www.golem.de/news/grenzwerte-e-auto-boom-macht-co2-ziele-erreichbar-2610-214166.html",
+      "published_at": "2026-10-16T05:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Grenzwerte: E-Auto-Boom macht CO2-Ziele erreichbar Eine neue Analyse zeigt: Wenn der Elektroauto-Boom anhält, schaffen die Autobauer die strengen CO2-Ziele der EU auch ohne Nachbesserung. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "57cc10461a64039cf394232c",
+      "title": "Neuzulassungen 2026: In manchen Regionen boomen Elektroautos ganz besonders",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/elektroautos-wo-die-meisten-neuzulassungen-mit-strom-fahren-accg-201458988.html",
+      "published_at": "2026-10-16T04:58:15Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Neuzulassungen 2026: In manchen Regionen boomen Elektroautos ganz besonders E-Autos sind in Großstädten beliebt? Offizielle Zahlen zeigen ein anderes Bild. In zwei ländlich geprägten Bundesländern fahren mehr als 30 Prozent der Neuzulassungen mit Strom – in einem Stadtstaat besonders wenige.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a50ca94cb7f741f06f6d19e5",
+      "title": "Elektromobilität: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/vw-rueckruf-batterie-elektroautos-id3-id4-gxe",
+      "published_at": "2026-10-16T03:04:39Z",
+      "source_id": "zeit-wirtschaft",
+      "language": "de",
+      "summary": "Elektromobilität: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor Wegen Qualitätsmängeln plant Volkswagen den Rückruf einzelner E-Auto-Modelle. Betroffen sind einige Tausend Fahrzeuge. Im Extremfall könnte ein Brand entstehen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dc8ccb0240960b676a8b4124",
+      "title": "Hypersportwagen: Tesla Roadster kann fliegen",
+      "url": "https://www.golem.de/news/hypersportwagen-tesla-roadster-kann-fliegen-2610-214167.html",
+      "published_at": "2026-10-16T02:39:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Hypersportwagen: Tesla Roadster kann fliegen Tesla hat seinen neuen Roadster vorgestellt - mit rekordverdächtiger Beschleunigung, Kaltgastriebwerken und einer Show voller Stunts. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -48,19 +151,6 @@
       "regions": []
     },
     {
-      "id": "585e5d763115194500b2cb69",
-      "title": "Geothermie und Lithium in Insheim: Vulcan testet Rückleitung für Thermalwasser in den Untergrund",
-      "url": "https://www.pfalz-express.de/geothermie-und-lithium-in-insheim-vulcan-testet-rueckleitung-fuer-thermalwasser-in-den-untergrund/",
-      "published_at": "2026-10-15T09:08:19Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Geothermie und Lithium in Insheim: Vulcan testet Rückleitung für Thermalwasser in den Untergrund Insheim – Vulcan Energy hat am Bohrplatz Schleidberg getestet, ob sich Thermalwasser in einen stärker durchlässigen Gesteinsbereich zurückleiten lässt. Nach Angaben des Unternehmens hat das funktioniert. Der Test ist ein Schritt für das Projekt „Lionheart“, mit dem Vulcan Lithium und Wärme gewinnen wil",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
       "id": "5b586791020878b2123f7f2d",
       "title": "NASA entwickelt Feststoffbatterie für Einsatz in extremer Kälte und Hitze",
       "url": "https://www.heise.de/news/NASA-entwickelt-Feststoffbatterie-fuer-Einsatz-in-extremer-Kaelte-und-Hitze-11488875.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -68,39 +158,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "NASA entwickelt Feststoffbatterie für Einsatz in extremer Kälte und Hitze Herkömmliche Batterien können extremer Hitze und Kälte auf dem Mond nicht standhalten. Die NASA hat Prototypen von Feststoffbatterien entwickelt, die es können.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c5a9b43d0b8adf5b181b35fd",
-      "title": "Xpeng Next Generation Pilot: Fahrerlos durch Paris",
-      "url": "https://www.golem.de/news/xpeng-next-generation-pilot-fahrerlos-durch-paris-2610-214120.html",
-      "published_at": "2026-10-15T06:39:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Xpeng Next Generation Pilot: Fahrerlos durch Paris Xpeng zeigt seinen Next Generation Pilot im Praxistest. Während der Automesse in Paris findet der L03 mit seinem Level-2++-System den Weg durch Kreisverkehre. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1d844d3376a10a01f4440235",
-      "title": "Gebrauchte Elektroautos: Warum ein Batteriezertifikat wichtig ist",
-      "url": "https://www.heise.de/ratgeber/Gebrauchte-Elektroautos-Warum-ein-Batteriezertifikat-wichtig-ist-11488217.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-10-14T14:52:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Gebrauchte Elektroautos: Warum ein Batteriezertifikat wichtig ist Eine Förderung für gebrauchte Elektroautos gibt es nicht. Vielleicht wäre es sinnvoll, wenn der Staat etwas für ein Batteriezertifikat dazugibt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "161f54e34c68d4f0cc462ee2",
-      "title": "PPA-Preise steigen in Europa im September um fünf Prozent",
-      "url": "https://www.pv-magazine.de/2026/10/14/ppa-preise-steigen-in-europa-im-september-um-fuenf-prozent/",
-      "published_at": "2026-10-14T13:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "PPA-Preise steigen in Europa im September um fünf Prozent Das Plus ist vor allem auf höhere Terminpreise für Strom und Gas zurückzuführen. Die Zahl der Vertragsabschlüsse stieg auf 25 Transaktionen mit einem Gesamtvolumen von 1,2 Gigawatt. Das Interesse an hybriden Stromabnahmeverträgen und Vereinbarungen mit Batteriespeicher nahm zu.",
       "tags": [],
       "regions": []
     },
