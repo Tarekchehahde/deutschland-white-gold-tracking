@@ -1,17 +1,28 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-16T21:10:10Z",
+  "generated_at_utc": "2026-10-17T09:20:26Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 843,
+  "total_in_archive": 844,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 111
+    "2026-10": 112
   },
   "recent_for_ui": [
+    {
+      "id": "fe32ab3461aa62ce2d1ed67e",
+      "title": "Autosalon Paris: Europas Autobauer stecken in der China-Falle",
+      "url": "https://www.golem.de/news/autosalon-paris-europas-autobauer-stecken-in-der-china-falle-2610-214195.html",
+      "published_at": "2026-10-17T05:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autosalon Paris: Europas Autobauer stecken in der China-Falle Europas Autobauer wollen sich vor chinesischer Konkurrenz schützen. Doch auf dem Pariser Autosalon zeigt sich, wie abhängig sie von China sind. Eine Analyse von Dirk Kunde ( Auto , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "cd15ae2a967b91978e1bfdc5",
       "title": "Tesla Roadster fliegt durch die Luft: Elon Musk hat die Bodenhaftung verloren. Buchstäblich",
@@ -4543,17 +4554,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Leapmotor B05 im Test: Überraschend geringer Verbrauch zum überraschenden Preis Die ID.3-Alternative Leapmotor B05 macht Spaß beim Fahren, hat eine super Ausstattung, aber vor allem: einen niedrigen Verbrauch - und Preis. Ein Praxistest von Tobias Költzsch ( Leapmotor , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9aa8f2655bf6245575be35e7",
-      "title": "Milliardenschweres Programm: Schon mehr als 100.000 Anträge auf E-Auto-Förderung",
-      "url": "https://rp-online.de/wirtschaft/schon-mehr-als-100000-antraege-auf-e-auto-foerderung_aid-152636441",
-      "published_at": "2026-08-05T09:23:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Milliardenschweres Programm: Schon mehr als 100.000 Anträge auf E-Auto-Förderung Seit dem 19. Mai kann man beim Staat Zuschüsse für Elektroautos beantragen. Das Interesse ist groß. Laut Bundesamt für Wirtschaft und Ausfuhrkontrolle haben schon über 100.000 Menschen die Möglichkeit genutzt.",
       "tags": [],
       "regions": []
     }
