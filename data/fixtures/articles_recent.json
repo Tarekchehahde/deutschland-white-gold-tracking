@@ -2,13 +2,13 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "cd15ae2a967b91978e1bfdc5",
-      "title": "Tesla Roadster fliegt durch die Luft: Elon Musk hat die Bodenhaftung verloren. Buchstäblich",
-      "url": "https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich-a-ed7a0234-7b5c-4c95-8744-5e4575995ecb",
-      "published_at": "2026-10-16T14:47:00Z",
-      "source_id": "spiegel-schlagzeilen",
+      "id": "fe32ab3461aa62ce2d1ed67e",
+      "title": "Autosalon Paris: Europas Autobauer stecken in der China-Falle",
+      "url": "https://www.golem.de/news/autosalon-paris-europas-autobauer-stecken-in-der-china-falle-2610-214195.html",
+      "published_at": "2026-10-17T05:30:02Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "Tesla Roadster fliegt durch die Luft: Elon Musk hat die Bodenhaftung verloren. Buchstäblich Tesla stellt 20 Jahre nach seinem ersten Elektroauto den Nachfolger vor. Der Roadster ist Elon Musks aktuelle Vision eines Zukunftsautos: Es soll von 0 auf 100 in weniger als einer Sekunde beschleunigen – und fliegen können.",
+      "summary": "Autosalon Paris: Europas Autobauer stecken in der China-Falle Europas Autobauer wollen sich vor chinesischer Konkurrenz schützen. Doch auf dem Pariser Autosalon zeigt sich, wie abhängig sie von China sind. Eine Analyse von Dirk Kunde ( Auto , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -113,50 +113,6 @@
       "tags": [
         "umwelt"
       ],
-      "regions": []
-    },
-    {
-      "id": "76394c236f26d91d37221e76",
-      "title": "ID.3, ID.4 und Cupra Born: VW könnte 11.000 E-Autos zurückrufen",
-      "url": "https://www.golem.de/news/id-3-id-4-und-cupra-born-vw-ruft-tausende-e-autos-zurueck-2610-214165.html",
-      "published_at": "2026-10-16T06:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "ID.3, ID.4 und Cupra Born: VW könnte 11.000 E-Autos zurückrufen Rund 11.000 VW-Elektroautos in Deutschland könnten von einem Rückruf betroffen sein. Bis zur endgültigen Lösung gilt: Ladelimit auf 80 Prozent. ( VW , Akku )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ad2580430325015efea49ad3",
-      "title": "Grenzwerte: E-Auto-Boom macht CO2-Ziele erreichbar",
-      "url": "https://www.golem.de/news/grenzwerte-e-auto-boom-macht-co2-ziele-erreichbar-2610-214166.html",
-      "published_at": "2026-10-16T05:15:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Grenzwerte: E-Auto-Boom macht CO2-Ziele erreichbar Eine neue Analyse zeigt: Wenn der Elektroauto-Boom anhält, schaffen die Autobauer die strengen CO2-Ziele der EU auch ohne Nachbesserung. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a50ca94cb7f741f06f6d19e5",
-      "title": "Elektromobilität: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/vw-rueckruf-batterie-elektroautos-id3-id4-gxe",
-      "published_at": "2026-10-16T03:04:39Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "Elektromobilität: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor Wegen Qualitätsmängeln plant Volkswagen den Rückruf einzelner E-Auto-Modelle. Betroffen sind einige Tausend Fahrzeuge. Im Extremfall könnte ein Brand entstehen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dc8ccb0240960b676a8b4124",
-      "title": "Hypersportwagen: Tesla Roadster kann fliegen",
-      "url": "https://www.golem.de/news/hypersportwagen-tesla-roadster-kann-fliegen-2610-214167.html",
-      "published_at": "2026-10-16T02:39:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Hypersportwagen: Tesla Roadster kann fliegen Tesla hat seinen neuen Roadster vorgestellt - mit rekordverdächtiger Beschleunigung, Kaltgastriebwerken und einer Show voller Stunts. ( Tesla , Elektroauto )",
-      "tags": [],
       "regions": []
     },
     {

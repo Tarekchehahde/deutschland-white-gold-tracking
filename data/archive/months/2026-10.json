@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 111,
+  "article_count": 112,
   "articles": [
+    {
+      "id": "fe32ab3461aa62ce2d1ed67e",
+      "title": "Autosalon Paris: Europas Autobauer stecken in der China-Falle",
+      "url": "https://www.golem.de/news/autosalon-paris-europas-autobauer-stecken-in-der-china-falle-2610-214195.html",
+      "published_at": "2026-10-17T05:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autosalon Paris: Europas Autobauer stecken in der China-Falle Europas Autobauer wollen sich vor chinesischer Konkurrenz schützen. Doch auf dem Pariser Autosalon zeigt sich, wie abhängig sie von China sind. Eine Analyse von Dirk Kunde ( Auto , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "cd15ae2a967b91978e1bfdc5",
       "title": "Tesla Roadster fliegt durch die Luft: Elon Musk hat die Bodenhaftung verloren. Buchstäblich",
