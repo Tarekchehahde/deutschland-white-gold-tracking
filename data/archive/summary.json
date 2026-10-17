@@ -1,15 +1,15 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-17T09:20:26Z",
+  "generated_at_utc": "2026-10-17T20:37:43Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 844,
+  "total_in_archive": 845,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 112
+    "2026-10": 113
   },
   "recent_for_ui": [
     {
@@ -42,6 +42,17 @@
       "source_id": "zdf-nachrichten",
       "language": "de",
       "summary": "AfD-Antrag zu Technologieoffenheit im mVerkehrsbereich AfD-Fraktion mit dem Titel „Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden“",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8c12f973fb07d640d3379f08",
+      "title": "Schluss mit Batteriewechsel: Wie schlagende Herzzellen bald Implantate mit Strom versorgen könnten",
+      "url": "https://t3n.de/news/schluss-mit-batteriewechsel-herzschrittmacher-1767769/",
+      "published_at": "2026-10-16T12:55:00Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Schluss mit Batteriewechsel: Wie schlagende Herzzellen bald Implantate mit Strom versorgen könnten Medizinische Implantate benötigen zuverlässig Strom. Ein neuartiges System nutzt die natürliche Bewegung von Muskelzellen, um elektrische Energie zu gewinnen. Der Ansatz könnte riskante Eingriffe für Batteriewechsel künftig dauerhaft überflüssig machen. Bislang sind medizinische Geräte wie Herzschrit",
       "tags": [],
       "regions": []
     },
@@ -4544,17 +4555,6 @@
       "tags": [
         "umwelt"
       ],
-      "regions": []
-    },
-    {
-      "id": "ef791a1cbe315902054adf32",
-      "title": "Leapmotor B05 im Test: Überraschend geringer Verbrauch zum überraschenden Preis",
-      "url": "https://www.golem.de/news/leapmotor-b05-im-test-ueberraschend-geringer-verbrauch-zum-ueberraschenden-preis-2608-211548.html",
-      "published_at": "2026-08-05T10:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Leapmotor B05 im Test: Überraschend geringer Verbrauch zum überraschenden Preis Die ID.3-Alternative Leapmotor B05 macht Spaß beim Fahren, hat eine super Ausstattung, aber vor allem: einen niedrigen Verbrauch - und Preis. Ein Praxistest von Tobias Költzsch ( Leapmotor , Elektroauto )",
-      "tags": [],
       "regions": []
     }
   ]
