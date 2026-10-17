@@ -1,7 +1,7 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 112,
+  "article_count": 113,
   "articles": [
     {
       "id": "fe32ab3461aa62ce2d1ed67e",
@@ -33,6 +33,17 @@
       "source_id": "zdf-nachrichten",
       "language": "de",
       "summary": "AfD-Antrag zu Technologieoffenheit im mVerkehrsbereich AfD-Fraktion mit dem Titel „Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden“",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8c12f973fb07d640d3379f08",
+      "title": "Schluss mit Batteriewechsel: Wie schlagende Herzzellen bald Implantate mit Strom versorgen könnten",
+      "url": "https://t3n.de/news/schluss-mit-batteriewechsel-herzschrittmacher-1767769/",
+      "published_at": "2026-10-16T12:55:00Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Schluss mit Batteriewechsel: Wie schlagende Herzzellen bald Implantate mit Strom versorgen könnten Medizinische Implantate benötigen zuverlässig Strom. Ein neuartiges System nutzt die natürliche Bewegung von Muskelzellen, um elektrische Energie zu gewinnen. Der Ansatz könnte riskante Eingriffe für Batteriewechsel künftig dauerhaft überflüssig machen. Bislang sind medizinische Geräte wie Herzschrit",
       "tags": [],
       "regions": []
     },
