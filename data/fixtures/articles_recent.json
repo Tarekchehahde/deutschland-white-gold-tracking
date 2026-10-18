@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "350751647dc69df46b7e5ae7",
+      "title": "Elektroauto: Mercedes-AMG GT SUV lädt in 12 Minuten nach",
+      "url": "https://www.golem.de/news/elektroauto-mercedes-amg-gt-suv-laedt-in-12-minuten-nach-2610-214219.html",
+      "published_at": "2026-10-18T13:05:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Mercedes-AMG GT SUV lädt in 12 Minuten nach Der Mercedes-AMG GT SUV debütiert als Elektro-SUV mit bis zu 1.169 PS, 800-Volt-Technik und Schnellladen bis 710 kW. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "fe32ab3461aa62ce2d1ed67e",
       "title": "Autosalon Paris: Europas Autobauer stecken in der China-Falle",
       "url": "https://www.golem.de/news/autosalon-paris-europas-autobauer-stecken-in-der-china-falle-2610-214195.html",
@@ -31,17 +42,6 @@
       "source_id": "t3n-news",
       "language": "de",
       "summary": "Schluss mit Batteriewechsel: Wie schlagende Herzzellen bald Implantate mit Strom versorgen könnten Medizinische Implantate benötigen zuverlässig Strom. Ein neuartiges System nutzt die natürliche Bewegung von Muskelzellen, um elektrische Energie zu gewinnen. Der Ansatz könnte riskante Eingriffe für Batteriewechsel künftig dauerhaft überflüssig machen. Bislang sind medizinische Geräte wie Herzschrit",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bcd7f39f3b793a304c5652bb",
-      "title": "Tesla Roadster: Raketenshow statt preiswertem Auto für alle",
-      "url": "https://www.golem.de/news/tesla-roadster-raketenshow-statt-preiswertem-auto-fuer-alle-2610-214187.html",
-      "published_at": "2026-10-16T11:53:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla Roadster: Raketenshow statt preiswertem Auto für alle Teslas neuer Roadster ist zweifellos eine technische Meisterleistung, die Präsentation war spektakulär. Aber hilft Tesla das langfristig? Eine Analyse von Tobias Költzsch ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     },

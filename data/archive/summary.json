@@ -1,17 +1,28 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-18T09:37:06Z",
+  "generated_at_utc": "2026-10-18T20:44:59Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 845,
+  "total_in_archive": 846,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 113
+    "2026-10": 114
   },
   "recent_for_ui": [
+    {
+      "id": "350751647dc69df46b7e5ae7",
+      "title": "Elektroauto: Mercedes-AMG GT SUV lädt in 12 Minuten nach",
+      "url": "https://www.golem.de/news/elektroauto-mercedes-amg-gt-suv-laedt-in-12-minuten-nach-2610-214219.html",
+      "published_at": "2026-10-18T13:05:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Mercedes-AMG GT SUV lädt in 12 Minuten nach Der Mercedes-AMG GT SUV debütiert als Elektro-SUV mit bis zu 1.169 PS, 800-Volt-Technik und Schnellladen bis 710 kW. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "fe32ab3461aa62ce2d1ed67e",
       "title": "Autosalon Paris: Europas Autobauer stecken in der China-Falle",
@@ -4542,19 +4553,6 @@
       "language": "de",
       "summary": "Autorabatte 2026: Verbrenner mit 19 Prozent Nachlass – E-Autos deutlich weniger Autokäufer können derzeit kräftig sparen: Die Rabatte für Verbrenner sind auf durchschnittlich 19,4 Prozent gestiegen. Elektroautos werden dagegen mit nur noch 17,6 Prozent Nachlass angeboten. Und auch VW gewährt satte Rabatte.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "77eacb8eb5fad3654eb5dd65",
-      "title": "Stromknappheit in Ungarn: BMW hält iX3-Produktion mit Solarstrom aufrecht",
-      "url": "https://www.golem.de/news/stromknappheit-in-ungarn-bmw-haelt-ix3-produktion-mit-solarstrom-aufrecht-2608-211630.html",
-      "published_at": "2026-08-05T11:43:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Stromknappheit in Ungarn: BMW hält iX3-Produktion mit Solarstrom aufrecht Die Stromknappheit in Ungarn und Rumänien bedroht die Autoproduktion. Bei Ford und Mercedes kommen die Werksferien gelegen. ( Energie & Klima , Elektroauto )",
-      "tags": [
-        "umwelt"
-      ],
       "regions": []
     }
   ]
