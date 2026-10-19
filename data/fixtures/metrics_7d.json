@@ -1,17 +1,13 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-10-15": 2,
-    "2026-10-16": 4,
-    "2026-10-17": 1,
-    "2026-10-18": 1
+    "2026-10-16": 3,
+    "2026-10-18": 1,
+    "2026-10-19": 1
   },
-  "tag_counts": {
-    "industrie": 1
-  },
+  "tag_counts": {},
   "by_source_category": {
     "broadcast": 1,
-    "national": 6,
-    "regional": 1
+    "national": 4
   }
 }

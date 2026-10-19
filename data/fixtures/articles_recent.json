@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "0858db7dd03cd883a2646926",
+      "title": "Fahrbericht Lucid Gravity: Viel Platz und schnelles Laden, aber hoher Verbrauch",
+      "url": "https://www.golem.de/news/fahrbericht-lucid-gravity-2-7-tonnen-sieben-sitze-und-erstaunlich-schnell-2610-214018.html",
+      "published_at": "2026-10-19T07:45:06Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Fahrbericht Lucid Gravity: Viel Platz und schnelles Laden, aber hoher Verbrauch Der Lucid Gravity beeindruckt im Test mit viel Platz und seiner Beschleunigung. Doch im Alltag zeigen sich auch Schwächen. Von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "350751647dc69df46b7e5ae7",
       "title": "Elektroauto: Mercedes-AMG GT SUV lädt in 12 Minuten nach",
       "url": "https://www.golem.de/news/elektroauto-mercedes-amg-gt-suv-laedt-in-12-minuten-nach-2610-214219.html",
@@ -13,17 +24,6 @@
       "regions": []
     },
     {
-      "id": "fe32ab3461aa62ce2d1ed67e",
-      "title": "Autosalon Paris: Europas Autobauer stecken in der China-Falle",
-      "url": "https://www.golem.de/news/autosalon-paris-europas-autobauer-stecken-in-der-china-falle-2610-214195.html",
-      "published_at": "2026-10-17T05:30:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autosalon Paris: Europas Autobauer stecken in der China-Falle Europas Autobauer wollen sich vor chinesischer Konkurrenz schützen. Doch auf dem Pariser Autosalon zeigt sich, wie abhängig sie von China sind. Eine Analyse von Dirk Kunde ( Auto , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "475dc6db4a833ac96a92e85a",
       "title": "AfD-Antrag zu Technologieoffenheit im mVerkehrsbereich",
       "url": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5240419",
@@ -31,17 +31,6 @@
       "source_id": "zdf-nachrichten",
       "language": "de",
       "summary": "AfD-Antrag zu Technologieoffenheit im mVerkehrsbereich AfD-Fraktion mit dem Titel „Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden“",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8c12f973fb07d640d3379f08",
-      "title": "Schluss mit Batteriewechsel: Wie schlagende Herzzellen bald Implantate mit Strom versorgen könnten",
-      "url": "https://t3n.de/news/schluss-mit-batteriewechsel-herzschrittmacher-1767769/",
-      "published_at": "2026-10-16T12:55:00Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Schluss mit Batteriewechsel: Wie schlagende Herzzellen bald Implantate mit Strom versorgen könnten Medizinische Implantate benötigen zuverlässig Strom. Ein neuartiges System nutzt die natürliche Bewegung von Muskelzellen, um elektrische Energie zu gewinnen. Der Ansatz könnte riskante Eingriffe für Batteriewechsel künftig dauerhaft überflüssig machen. Bislang sind medizinische Geräte wie Herzschrit",
       "tags": [],
       "regions": []
     },
@@ -65,30 +54,6 @@
       "language": "de",
       "summary": "Volkswagen bereitet Rückruf für verschiedene Elektroautos vor In diversen Elektroautos der Baujahre 2023 bis 2025 kann es durch einen Zelldefekt in der Batterie zu einem Brand kommen. Ein Rückruf ist in Vorbereitung.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "00cb78155a7e905fc4935a5e",
-      "title": "Brandgefahr bei E-Autos: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor",
-      "url": "https://rp-online.de/wirtschaft/unternehmen/brandgefahr-vw-bereitet-rueckruf-wegen-fehlerhafter-batteriezellen-vor_aid-156638219",
-      "published_at": "2026-10-15T17:24:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Brandgefahr bei E-Autos: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor Der Rückruf von Millionen Fahrzeugen wegen einer fehlerhaften Schraube ist erst wenige Wochen her – nun muss VW den nächsten Mangel ausräumen. Betroffen sind dieses Mal E‑Autos. Was bislang bekannt ist.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "633323d77328f678f025cde0",
-      "title": "Schweizer Organisation präsentiert Mustervertrag für die Beschaffung von großen Batteriespeichern aus Käufersicht",
-      "url": "https://www.pv-magazine.de/2026/10/15/schweizer-organisation-praesentiert-mustervertrag-fuer-die-beschaffung-von-grossen-batteriespeichern-aus-kaeufersicht/",
-      "published_at": "2026-10-15T14:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Schweizer Organisation präsentiert Mustervertrag für die Beschaffung von großen Batteriespeichern aus Käufersicht Eine gemeinnützige Organisation aus der Schweiz hat einen Musterliefervertrag für Großspeicher aus Käufersicht vorgelegt. Dessen Kernklauseln können kostenlos heruntergeladen werden. Die Organisation wird von Unternehmen unterstützt, die Speicher im Umfang von insgesamt mehr als 40 Gig",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]

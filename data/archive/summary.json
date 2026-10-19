@@ -1,17 +1,28 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-18T20:44:59Z",
+  "generated_at_utc": "2026-10-19T10:45:50Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 846,
+  "total_in_archive": 847,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 114
+    "2026-10": 115
   },
   "recent_for_ui": [
+    {
+      "id": "0858db7dd03cd883a2646926",
+      "title": "Fahrbericht Lucid Gravity: Viel Platz und schnelles Laden, aber hoher Verbrauch",
+      "url": "https://www.golem.de/news/fahrbericht-lucid-gravity-2-7-tonnen-sieben-sitze-und-erstaunlich-schnell-2610-214018.html",
+      "published_at": "2026-10-19T07:45:06Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Fahrbericht Lucid Gravity: Viel Platz und schnelles Laden, aber hoher Verbrauch Der Lucid Gravity beeindruckt im Test mit viel Platz und seiner Beschleunigung. Doch im Alltag zeigen sich auch Schwächen. Von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "350751647dc69df46b7e5ae7",
       "title": "Elektroauto: Mercedes-AMG GT SUV lädt in 12 Minuten nach",
@@ -4541,17 +4552,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "China stellt Batteriespeicher in den Mittelpunkt seiner Erneuerbaren-Strategie Chinas jüngster Fünfjahresplan für die Erneuerbaren sieht bis 2030 eine Solar- und Windenergieleistung von zusammen mehr als 2,8 Terawatt vor. Der Plan verknüpft Energiespeicher mit Netzsicherheit, Grundlastkapazität, netzbildenden Technologien und neuen marktbasierten Erlösmechanismen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9529718507a52a2fa25bbdfc",
-      "title": "Autorabatte 2026: Verbrenner mit 19 Prozent Nachlass – E-Autos deutlich weniger",
-      "url": "https://www.rnd.de/wirtschaft/autorabatte-2026-verbrenner-mit-19-prozent-nachlass-e-autos-deutlich-weniger-7TJBFCUBXBGOZDBLJFOT7J6Y2U.html",
-      "published_at": "2026-08-05T11:43:58Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Autorabatte 2026: Verbrenner mit 19 Prozent Nachlass – E-Autos deutlich weniger Autokäufer können derzeit kräftig sparen: Die Rabatte für Verbrenner sind auf durchschnittlich 19,4 Prozent gestiegen. Elektroautos werden dagegen mit nur noch 17,6 Prozent Nachlass angeboten. Und auch VW gewährt satte Rabatte.",
       "tags": [],
       "regions": []
     }
