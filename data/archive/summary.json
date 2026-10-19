@@ -1,17 +1,39 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-19T10:45:50Z",
+  "generated_at_utc": "2026-10-19T22:22:13Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 847,
+  "total_in_archive": 849,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 115
+    "2026-10": 117
   },
   "recent_for_ui": [
+    {
+      "id": "f206d1912eabe30eef080b2e",
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "published_at": "2026-10-19T19:27:24Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "Startup taps underwater volcano as energy source in \"proof point\" test Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "117a08ecc05dbbc5d580e305",
+      "title": "Tesla: Schlafender Tesla-Fahrer rast mit FSD in abgesperrten Autobahn-Unfall",
+      "url": "https://www.golem.de/news/tesla-schlafender-tesla-fahrer-rast-mit-fsd-in-abgesperrten-autobahn-unfall-2610-214252.html",
+      "published_at": "2026-10-19T11:05:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Schlafender Tesla-Fahrer rast mit FSD in abgesperrten Autobahn-Unfall Ein Tesla-Fahrer in Kalifornien fährt nahezu ungebremst in ein Polizeiauto, das einen tödlichen Unfall abgesperrt hat. Der Fahrer soll geschlafen haben. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "0858db7dd03cd883a2646926",
       "title": "Fahrbericht Lucid Gravity: Viel Platz und schnelles Laden, aber hoher Verbrauch",
@@ -4530,28 +4552,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Schrottsammler: USA verbieten Lithium- und Wolfram-Exporte Die USA schützen ihre Rüstungsindustrie vor Rohstoffknappheit. Wer Akku- oder Wolframschrott sammelt, muss ihn künftig an heimische Käufer verkaufen. ( Lithium , Politik )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "aa71801483f2930c8a9cff99",
-      "title": "Hybrid-PPAs: Neuland für viele Projektentwickler",
-      "url": "https://www.pv-magazine.de/2026/08/05/hybrid-ppas-neuland-fur-viele-projektentwickler/",
-      "published_at": "2026-08-05T14:47:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Hybrid-PPAs: Neuland für viele Projektentwickler pv+: Photovoltaik-Projektentwickler kommen nicht mehr darum herum, auch Batteriespeicher einzusetzen und einen entsprechenden Abnahmevertrag abzuschließen. Rechtsanwältin Margarete von Oppen, Partnerin bei Orka, beantwortet Fragen, die sie in der Praxis im Zusammenhang mit solchen Hybrid-Photovoltaik-Speicher-PPAs oft hört.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5ace6bd6091632d34dad5e0c",
-      "title": "China stellt Batteriespeicher in den Mittelpunkt seiner Erneuerbaren-Strategie",
-      "url": "https://www.pv-magazine.de/2026/08/05/china-stellt-batteriespeicher-in-den-mittelpunkt-seiner-erneuerbaren-strategie/",
-      "published_at": "2026-08-05T12:15:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "China stellt Batteriespeicher in den Mittelpunkt seiner Erneuerbaren-Strategie Chinas jüngster Fünfjahresplan für die Erneuerbaren sieht bis 2030 eine Solar- und Windenergieleistung von zusammen mehr als 2,8 Terawatt vor. Der Plan verknüpft Energiespeicher mit Netzsicherheit, Grundlastkapazität, netzbildenden Technologien und neuen marktbasierten Erlösmechanismen.",
       "tags": [],
       "regions": []
     }

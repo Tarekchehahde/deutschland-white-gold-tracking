@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "f206d1912eabe30eef080b2e",
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "published_at": "2026-10-19T19:27:24Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "Startup taps underwater volcano as energy source in \"proof point\" test Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "117a08ecc05dbbc5d580e305",
+      "title": "Tesla: Schlafender Tesla-Fahrer rast mit FSD in abgesperrten Autobahn-Unfall",
+      "url": "https://www.golem.de/news/tesla-schlafender-tesla-fahrer-rast-mit-fsd-in-abgesperrten-autobahn-unfall-2610-214252.html",
+      "published_at": "2026-10-19T11:05:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Schlafender Tesla-Fahrer rast mit FSD in abgesperrten Autobahn-Unfall Ein Tesla-Fahrer in Kalifornien fährt nahezu ungebremst in ein Polizeiauto, das einen tödlichen Unfall abgesperrt hat. Der Fahrer soll geschlafen haben. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "0858db7dd03cd883a2646926",
       "title": "Fahrbericht Lucid Gravity: Viel Platz und schnelles Laden, aber hoher Verbrauch",
       "url": "https://www.golem.de/news/fahrbericht-lucid-gravity-2-7-tonnen-sieben-sitze-und-erstaunlich-schnell-2610-214018.html",
@@ -9,17 +31,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Fahrbericht Lucid Gravity: Viel Platz und schnelles Laden, aber hoher Verbrauch Der Lucid Gravity beeindruckt im Test mit viel Platz und seiner Beschleunigung. Doch im Alltag zeigen sich auch Schwächen. Von Dirk Kunde ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "350751647dc69df46b7e5ae7",
-      "title": "Elektroauto: Mercedes-AMG GT SUV lädt in 12 Minuten nach",
-      "url": "https://www.golem.de/news/elektroauto-mercedes-amg-gt-suv-laedt-in-12-minuten-nach-2610-214219.html",
-      "published_at": "2026-10-18T13:05:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Mercedes-AMG GT SUV lädt in 12 Minuten nach Der Mercedes-AMG GT SUV debütiert als Elektro-SUV mit bis zu 1.169 PS, 800-Volt-Technik und Schnellladen bis 710 kW. ( Elektroauto , Auto )",
       "tags": [],
       "regions": []
     },
@@ -42,17 +53,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Sonntag Energy baut nachgeführte Agri-Photovoltaik-Anlage über Erdbeeren Am Bodensee entsteht eine Agri-Photovoltaik-Anlage mit einem Megawatt Leistung und einem Batteriespeicher mit fünf Megawattstunden Kapazität. Die nachgeführten Solarmodule sollen zugleich die Erdbeerkulturen vor starker Sonneneinstrahlung und Witterungseinflüssen schützen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "db85c1188e6266d85ebcdbc0",
-      "title": "Volkswagen bereitet Rückruf für verschiedene Elektroautos vor",
-      "url": "https://www.heise.de/news/Volkswagen-bereitet-Rueckruf-fuer-verschiedene-Elektroautos-vor-11490694.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-10-16T10:32:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Volkswagen bereitet Rückruf für verschiedene Elektroautos vor In diversen Elektroautos der Baujahre 2023 bis 2025 kann es durch einen Zelldefekt in der Batterie zu einem Brand kommen. Ein Rückruf ist in Vorbereitung.",
       "tags": [],
       "regions": []
     }

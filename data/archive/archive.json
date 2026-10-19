@@ -2,6 +2,28 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "f206d1912eabe30eef080b2e",
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "published_at": "2026-10-19T19:27:24Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "Startup taps underwater volcano as energy source in \"proof point\" test Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "117a08ecc05dbbc5d580e305",
+      "title": "Tesla: Schlafender Tesla-Fahrer rast mit FSD in abgesperrten Autobahn-Unfall",
+      "url": "https://www.golem.de/news/tesla-schlafender-tesla-fahrer-rast-mit-fsd-in-abgesperrten-autobahn-unfall-2610-214252.html",
+      "published_at": "2026-10-19T11:05:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Schlafender Tesla-Fahrer rast mit FSD in abgesperrten Autobahn-Unfall Ein Tesla-Fahrer in Kalifornien fährt nahezu ungebremst in ein Polizeiauto, das einen tödlichen Unfall abgesperrt hat. Der Fahrer soll geschlafen haben. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "0858db7dd03cd883a2646926",
       "title": "Fahrbericht Lucid Gravity: Viel Platz und schnelles Laden, aber hoher Verbrauch",
       "url": "https://www.golem.de/news/fahrbericht-lucid-gravity-2-7-tonnen-sieben-sitze-und-erstaunlich-schnell-2610-214018.html",
