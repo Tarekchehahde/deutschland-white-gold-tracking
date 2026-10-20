@@ -1,16 +1,75 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 119,
+  "article_count": 124,
   "articles": [
     {
+      "id": "140b3231ab20e611b8c99337",
+      "title": "Batterie-Fehler: VW ruft mehr als 70.000 E-Autos zurück",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/volkswagen-e-auto-batterie-rueckruf-id-100.html",
+      "published_at": "2026-10-20T17:15:00Z",
+      "source_id": "zdf-nachrichten",
+      "language": "de",
+      "summary": "Batterie-Fehler: VW ruft mehr als 70.000 E-Autos zurück VW ruft weltweit zehntausende E-Autos wegen defekter Batteriezellen zurück. Mehrere Modelle sind betroffen. Autofahrer sollen ihr Ladeverhalten sofort anpassen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3e94ae89cf544db435db392b",
+      "title": "VW ruft 72.700 E-Autos zurück – Batteriefehler kann zu Bränden führen",
+      "url": "https://www.rnd.de/wirtschaft/vw-ruft-72-700-e-autos-zurueck-batteriefehler-kann-zu-braenden-fuehren-S7DRWAIUM5HRJOJV2OYRMFU3MA.html",
+      "published_at": "2026-10-20T14:51:56Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "VW ruft 72.700 E-Autos zurück – Batteriefehler kann zu Bränden führen Volkswagen ruft weltweit fast 72.700 E-Autos in die Werkstätten. Betroffen sind die Modelle ID.3, ID.4, ID.7, ID. Buzz und Cupra Born aus den Baujahren 2022 bis 2025. Fehlerhafte Batteriezellen könnten im Extremfall einen Brand verursachen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e69bbd90b562220275ca3f44",
+      "title": "Mit Vodafone: Hochtief will KI-Gigafactory bauen",
+      "url": "https://www.golem.de/news/megarechenzentren-hochtief-und-vodafone-planen-bewerbung-fuer-ki-gigafactory-2610-214311.html",
+      "published_at": "2026-10-20T14:19:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Mit Vodafone: Hochtief will KI-Gigafactory bauen Die EU fördert den Aufbau europäischer KI-Megarechenzentren mit Milliardensummen. Neben der Telekom, Schwarz Digits und Ionos bringt sich nun auch der Essener Baukonzern Hochtief zusammen mit Vodafone ein. ( Rechenzentrum , Vodafone )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1312600ee7711a4a633414fa",
+      "title": "Poweredge steigt in finnischen Großspeicher-Markt ein",
+      "url": "https://www.pv-magazine.de/2026/10/20/poweredge-steigt-in-finnischen-grossspeicher-markt-ein/",
+      "published_at": "2026-10-20T13:54:36Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Poweredge steigt in finnischen Großspeicher-Markt ein Das Schweizer Unternehmen realisiert in Pelkosenniemi einen Batteriespeicher mit 10 Megawatt Leistung und 37 Megawattstunden Kapazität. Für eine flexible Optimierung und Vermarktung wählte es „Gridle“ von Elisa Industriq aus.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8bc851ea7f5014d0e5d5780b",
+      "title": "Emaldo und KKI wollen 500 Gewerbespeicher in Europa realisieren",
+      "url": "https://www.pv-magazine.de/2026/10/20/emaldo-und-kki-wollen-500-gewerbespeicher-in-europa-realisieren/",
+      "published_at": "2026-10-20T10:28:55Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Emaldo und KKI wollen 500 Gewerbespeicher in Europa realisieren Die Unternehmen wollen den Ausbau von Batteriespeichern an Gewerbe- und Industriestandorten, darunter in Deutschland, vorantreiben. Die erste Installation könnte noch in diesem Jahr beginnen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "64a30eabf2db72dcba7eb117",
-      "title": "Toyota: Neuer Corolla wird auch elektrisch und kommt aus China",
+      "title": "Elektroauto: Toyota Corolla aus China wird auch elektrisch",
       "url": "https://www.golem.de/news/toyota-neuer-corolla-wird-auch-elektrisch-und-kommt-aus-china-2610-214291.html",
       "published_at": "2026-10-20T09:58:01Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Toyota: Neuer Corolla wird auch elektrisch und kommt aus China Toyota will seinen neuen Corolla als vollelektrische Version anbieten - aber auch als Verbrenner und Hybrid. ( Toyota , Elektroauto )",
+      "summary": "Elektroauto: Toyota Corolla aus China wird auch elektrisch Toyota will seinen neuen Corolla als vollelektrische Version anbieten - aber auch als Verbrenner und Hybrid. ( Toyota , Elektroauto )",
       "tags": [],
       "regions": []
     },
