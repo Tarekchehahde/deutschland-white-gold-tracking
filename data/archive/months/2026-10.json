@@ -1,8 +1,56 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 115,
+  "article_count": 119,
   "articles": [
+    {
+      "id": "64a30eabf2db72dcba7eb117",
+      "title": "Toyota: Neuer Corolla wird auch elektrisch und kommt aus China",
+      "url": "https://www.golem.de/news/toyota-neuer-corolla-wird-auch-elektrisch-und-kommt-aus-china-2610-214291.html",
+      "published_at": "2026-10-20T09:58:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Toyota: Neuer Corolla wird auch elektrisch und kommt aus China Toyota will seinen neuen Corolla als vollelektrische Version anbieten - aber auch als Verbrenner und Hybrid. ( Toyota , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1fad821894d78f19a8676b73",
+      "title": "Rabot Energy startet im November sein Direktvermarktungsangebot für kleine Photovoltaik-Anlagen",
+      "url": "https://www.pv-magazine.de/2026/10/20/rabot-energy-startet-im-november-sein-direktvermarktungsangebot-fuer-kleine-photovoltaik-anlagen/",
+      "published_at": "2026-10-20T09:22:13Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Rabot Energy startet im November sein Direktvermarktungsangebot für kleine Photovoltaik-Anlagen Das Unternehmen bietet einen Festpreis für den Strombezug und eine feste Vergütung für eingespeisten Solarstrom, wobei Energiemanagementsystem und Batteriespeicher vorhanden sein müssen. Mit 12 Cent pro Kilowattstunde liegt die zugesagte Zahlung sogar über der aktuellen EEG-Vergütung für die Überschusse",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "c0474fc935650326fb3ef026",
+      "title": "Chemiewerk als Langzeitspeicher",
+      "url": "https://www.pv-magazine.de/2026/10/20/chemiewerk-als-langzeitspeicher/",
+      "published_at": "2026-10-20T07:07:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Chemiewerk als Langzeitspeicher Flow-Batterien, bei denen sich Leistung und Kapazität unabhängig voneinander skalieren lassen, gelten als geeignete Kandidaten für Langzeitspeicher. Für ein Extra an Resilienz hat ein Unternehmen kritische Rohstoffe, die sich in Europa nicht abbauen lassen, durch günstige und ohne einseitige Lieferketten behaftete Materialien ersetzt. Die Batterie hat mittlerweile i",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "f206d1912eabe30eef080b2e",
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "published_at": "2026-10-19T19:27:24Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "Startup taps underwater volcano as energy source in \"proof point\" test Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "0858db7dd03cd883a2646926",
       "title": "Fahrbericht Lucid Gravity: Viel Platz und schnelles Laden, aber hoher Verbrauch",
