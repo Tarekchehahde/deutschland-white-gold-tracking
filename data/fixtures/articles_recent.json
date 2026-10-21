@@ -2,6 +2,63 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "f28ebaaddd9353f54fbc4ab5",
+      "title": "Elektroautos: Tesla mit Gewinneinbruch und stagnierendem Umsatz",
+      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/tesla-mit-gewinneinbruch-und-stagnierendem-umsatz_aid-156997095",
+      "published_at": "2026-10-21T20:41:22Z",
+      "source_id": "volksfreund",
+      "language": "de",
+      "summary": "Elektroautos: Tesla mit Gewinneinbruch und stagnierendem Umsatz Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Aktuell muss das Geld aber noch mit dem Verkauf von Elektroautos verdient werden - und da gab es zuletzt Rückgänge.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f44db16975dff434aae7f53b",
+      "title": "Verbrauch von E-Autos: Wahre Werte",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/verbrauch-reichweite-und-ladeleistung-von-elektroautos-im-vergleich-201311776.html",
+      "published_at": "2026-10-21T13:06:18Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Verbrauch von E-Autos: Wahre Werte Das Elektroauto fährt weit, verbraucht wenig, lädt schnell. In der Werbung, unter Idealbedingungen. Die Realität zeigen unsere Fahrberichte. Wir haben einige ausgewertet.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "691a72af31a5c2115725fac2",
+      "title": "Österreichisches Forschungsprojekt soll Batteriespeicher und Wärmepumpen für Flexibilitätsmärkte vernetzen",
+      "url": "https://www.pv-magazine.de/2026/10/21/oesterreichisches-forschungsprojekt-soll-batteriespeicher-und-waermepumpen-fuer-flexibilitaetsmaerkte-vernetzen/",
+      "published_at": "2026-10-21T12:14:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Österreichisches Forschungsprojekt soll Batteriespeicher und Wärmepumpen für Flexibilitätsmärkte vernetzen Batteriespeicher, Wärmepumpen und Elektroautos können Stromnetze entlasten und zusätzliche Erlöse ermöglichen, wenn sie sich herstellerübergreifend steuern lassen. Ein österreichisches Forschungskonsortium mit 18 Partnern will dafür eine offene Software-Infrastruktur entwickeln und in der Pra",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8b60ebef8ed28622a8310dab",
+      "title": "Siliziumreiche Zellen des Fraunhofer ISE behalten nach 1000 Zyklen über 83 Prozent ihrer Kapazität",
+      "url": "https://www.pv-magazine.de/2026/10/21/siliziumreiche-zellen-des-fraunhofer-ise-behalten-nach-1000-zyklen-ueber-83-prozent-ihrer-kapazitaet/",
+      "published_at": "2026-10-21T11:04:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Siliziumreiche Zellen des Fraunhofer ISE behalten nach 1000 Zyklen über 83 Prozent ihrer Kapazität Forschende des Fraunhofer ISE haben Pouch-Batteriezellen mit siliziumreichen Anoden hergestellt, die nach mehr als 1000 Lade- und Entladezyklen noch über 83 Prozent ihrer ursprünglichen Kapazität aufweisen. Entscheidend für das Ergebnis war ein hoher mechanischer Anpressdruck.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "47e4042b9be458486e45c4d7",
+      "title": "Endurance Energy gewinnt erstmals geothermische Energie aus Unterwasservulkan",
+      "url": "https://www.heise.de/news/Endurance-Energy-gewinnt-erstmals-geothermische-Energie-aus-Unterwasservulkan-11495268.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-21T10:11:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Endurance Energy gewinnt erstmals geothermische Energie aus Unterwasservulkan Ein geothermisches Kraftwerk auf einem Vulkan unter Wasser liefert Strom. Der Testbetrieb endete jedoch vorzeitig.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "0d80d99875710772db078f9a",
       "title": "ID und Cupra: VW ruft weltweit 70.000 Elektroautos zurück",
       "url": "https://www.golem.de/news/id-und-cupra-vw-ruft-weltweit-70-000-elektroautos-zurueck-2610-214345.html",
@@ -35,17 +92,6 @@
       "regions": []
     },
     {
-      "id": "e69bbd90b562220275ca3f44",
-      "title": "Mit Vodafone: Hochtief will KI-Gigafactory bauen",
-      "url": "https://www.golem.de/news/megarechenzentren-hochtief-und-vodafone-planen-bewerbung-fuer-ki-gigafactory-2610-214311.html",
-      "published_at": "2026-10-20T14:19:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Mit Vodafone: Hochtief will KI-Gigafactory bauen Die EU fördert den Aufbau europäischer KI-Megarechenzentren mit Milliardensummen. Neben der Telekom, Schwarz Digits und Ionos bringt sich nun auch der Essener Baukonzern Hochtief zusammen mit Vodafone ein. ( Rechenzentrum , Vodafone )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "1312600ee7711a4a633414fa",
       "title": "Poweredge steigt in finnischen Großspeicher-Markt ein",
       "url": "https://www.pv-magazine.de/2026/10/20/poweredge-steigt-in-finnischen-grossspeicher-markt-ein/",
@@ -66,32 +112,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Emaldo und KKI wollen 500 Gewerbespeicher in Europa realisieren Die Unternehmen wollen den Ausbau von Batteriespeichern an Gewerbe- und Industriestandorten, darunter in Deutschland, vorantreiben. Die erste Installation könnte noch in diesem Jahr beginnen.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "1fad821894d78f19a8676b73",
-      "title": "Rabot Energy startet im November sein Direktvermarktungsangebot für kleine Photovoltaik-Anlagen",
-      "url": "https://www.pv-magazine.de/2026/10/20/rabot-energy-startet-im-november-sein-direktvermarktungsangebot-fuer-kleine-photovoltaik-anlagen/",
-      "published_at": "2026-10-20T09:22:13Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Rabot Energy startet im November sein Direktvermarktungsangebot für kleine Photovoltaik-Anlagen Das Unternehmen bietet einen Festpreis für den Strombezug und eine feste Vergütung für eingespeisten Solarstrom, wobei Energiemanagementsystem und Batteriespeicher vorhanden sein müssen. Mit 12 Cent pro Kilowattstunde liegt die zugesagte Zahlung sogar über der aktuellen EEG-Vergütung für die Überschusse",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "c0474fc935650326fb3ef026",
-      "title": "Chemiewerk als Langzeitspeicher",
-      "url": "https://www.pv-magazine.de/2026/10/20/chemiewerk-als-langzeitspeicher/",
-      "published_at": "2026-10-20T07:07:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Chemiewerk als Langzeitspeicher Flow-Batterien, bei denen sich Leistung und Kapazität unabhängig voneinander skalieren lassen, gelten als geeignete Kandidaten für Langzeitspeicher. Für ein Extra an Resilienz hat ein Unternehmen kritische Rohstoffe, die sich in Europa nicht abbauen lassen, durch günstige und ohne einseitige Lieferketten behaftete Materialien ersetzt. Die Batterie hat mittlerweile i",
       "tags": [
         "industrie"
       ],

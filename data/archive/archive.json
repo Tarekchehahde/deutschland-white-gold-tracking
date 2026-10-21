@@ -2,6 +2,63 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "f28ebaaddd9353f54fbc4ab5",
+      "title": "Elektroautos: Tesla mit Gewinneinbruch und stagnierendem Umsatz",
+      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/tesla-mit-gewinneinbruch-und-stagnierendem-umsatz_aid-156997095",
+      "published_at": "2026-10-21T20:41:22Z",
+      "source_id": "volksfreund",
+      "language": "de",
+      "summary": "Elektroautos: Tesla mit Gewinneinbruch und stagnierendem Umsatz Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Aktuell muss das Geld aber noch mit dem Verkauf von Elektroautos verdient werden - und da gab es zuletzt Rückgänge.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f44db16975dff434aae7f53b",
+      "title": "Verbrauch von E-Autos: Wahre Werte",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/verbrauch-reichweite-und-ladeleistung-von-elektroautos-im-vergleich-201311776.html",
+      "published_at": "2026-10-21T13:06:18Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Verbrauch von E-Autos: Wahre Werte Das Elektroauto fährt weit, verbraucht wenig, lädt schnell. In der Werbung, unter Idealbedingungen. Die Realität zeigen unsere Fahrberichte. Wir haben einige ausgewertet.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "691a72af31a5c2115725fac2",
+      "title": "Österreichisches Forschungsprojekt soll Batteriespeicher und Wärmepumpen für Flexibilitätsmärkte vernetzen",
+      "url": "https://www.pv-magazine.de/2026/10/21/oesterreichisches-forschungsprojekt-soll-batteriespeicher-und-waermepumpen-fuer-flexibilitaetsmaerkte-vernetzen/",
+      "published_at": "2026-10-21T12:14:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Österreichisches Forschungsprojekt soll Batteriespeicher und Wärmepumpen für Flexibilitätsmärkte vernetzen Batteriespeicher, Wärmepumpen und Elektroautos können Stromnetze entlasten und zusätzliche Erlöse ermöglichen, wenn sie sich herstellerübergreifend steuern lassen. Ein österreichisches Forschungskonsortium mit 18 Partnern will dafür eine offene Software-Infrastruktur entwickeln und in der Pra",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "8b60ebef8ed28622a8310dab",
+      "title": "Siliziumreiche Zellen des Fraunhofer ISE behalten nach 1000 Zyklen über 83 Prozent ihrer Kapazität",
+      "url": "https://www.pv-magazine.de/2026/10/21/siliziumreiche-zellen-des-fraunhofer-ise-behalten-nach-1000-zyklen-ueber-83-prozent-ihrer-kapazitaet/",
+      "published_at": "2026-10-21T11:04:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Siliziumreiche Zellen des Fraunhofer ISE behalten nach 1000 Zyklen über 83 Prozent ihrer Kapazität Forschende des Fraunhofer ISE haben Pouch-Batteriezellen mit siliziumreichen Anoden hergestellt, die nach mehr als 1000 Lade- und Entladezyklen noch über 83 Prozent ihrer ursprünglichen Kapazität aufweisen. Entscheidend für das Ergebnis war ein hoher mechanischer Anpressdruck.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "47e4042b9be458486e45c4d7",
+      "title": "Endurance Energy gewinnt erstmals geothermische Energie aus Unterwasservulkan",
+      "url": "https://www.heise.de/news/Endurance-Energy-gewinnt-erstmals-geothermische-Energie-aus-Unterwasservulkan-11495268.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-10-21T10:11:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Endurance Energy gewinnt erstmals geothermische Energie aus Unterwasservulkan Ein geothermisches Kraftwerk auf einem Vulkan unter Wasser liefert Strom. Der Testbetrieb endete jedoch vorzeitig.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "0d80d99875710772db078f9a",
       "title": "ID und Cupra: VW ruft weltweit 70.000 Elektroautos zurück",
       "url": "https://www.golem.de/news/id-und-cupra-vw-ruft-weltweit-70-000-elektroautos-zurueck-2610-214345.html",
