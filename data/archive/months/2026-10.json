@@ -1,8 +1,30 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 124,
+  "article_count": 126,
   "articles": [
+    {
+      "id": "0d80d99875710772db078f9a",
+      "title": "ID und Cupra: VW ruft weltweit 70.000 Elektroautos zurück",
+      "url": "https://www.golem.de/news/id-und-cupra-vw-ruft-weltweit-70-000-elektroautos-zurueck-2610-214345.html",
+      "published_at": "2026-10-21T09:01:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "ID und Cupra: VW ruft weltweit 70.000 Elektroautos zurück Es hat sich angedeutet, nun hat das Kraftfahrt-Bundesamt Rückrufe für mehrere Elektroautos von VW veröffentlicht. Vorerst gilt ein Ladelimit. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b0e1ae2643f423025238d197",
+      "title": "Enovos beginnt Bau von Fünf-Stunden-Batteriespeicher im Saarland",
+      "url": "https://www.pv-magazine.de/2026/10/21/enovos-beginnt-bau-von-fuenf-stunden-batteriespeicher-im-saarland/",
+      "published_at": "2026-10-21T08:32:39Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enovos beginnt Bau von Fünf-Stunden-Batteriespeicher im Saarland In Karlsbrunn entsteht ein Batteriespeicher mit 6 Megawatt Leistung und 30 Megawattstunden Kapazität. Enovos Deutschland investiert rund 7,2 Millionen Euro in das Projekt. Die Inbetriebnahme ist für März 2027 geplant.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "140b3231ab20e611b8c99337",
       "title": "Batterie-Fehler: VW ruft mehr als 70.000 E-Autos zurück",

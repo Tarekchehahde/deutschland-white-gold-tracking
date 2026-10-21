@@ -1,17 +1,39 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-20T21:38:21Z",
+  "generated_at_utc": "2026-10-21T10:07:21Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 856,
+  "total_in_archive": 858,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 124
+    "2026-10": 126
   },
   "recent_for_ui": [
+    {
+      "id": "0d80d99875710772db078f9a",
+      "title": "ID und Cupra: VW ruft weltweit 70.000 Elektroautos zurück",
+      "url": "https://www.golem.de/news/id-und-cupra-vw-ruft-weltweit-70-000-elektroautos-zurueck-2610-214345.html",
+      "published_at": "2026-10-21T09:01:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "ID und Cupra: VW ruft weltweit 70.000 Elektroautos zurück Es hat sich angedeutet, nun hat das Kraftfahrt-Bundesamt Rückrufe für mehrere Elektroautos von VW veröffentlicht. Vorerst gilt ein Ladelimit. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b0e1ae2643f423025238d197",
+      "title": "Enovos beginnt Bau von Fünf-Stunden-Batteriespeicher im Saarland",
+      "url": "https://www.pv-magazine.de/2026/10/21/enovos-beginnt-bau-von-fuenf-stunden-batteriespeicher-im-saarland/",
+      "published_at": "2026-10-21T08:32:39Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enovos beginnt Bau von Fünf-Stunden-Batteriespeicher im Saarland In Karlsbrunn entsteht ein Batteriespeicher mit 6 Megawatt Leistung und 30 Megawattstunden Kapazität. Enovos Deutschland investiert rund 7,2 Millionen Euro in das Projekt. Die Inbetriebnahme ist für März 2027 geplant.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "140b3231ab20e611b8c99337",
       "title": "Batterie-Fehler: VW ruft mehr als 70.000 E-Autos zurück",
@@ -4535,28 +4557,6 @@
       "source_id": "t3n-news",
       "language": "de",
       "summary": "Direct Air Capture: Neues Verfahren macht aus Kohlendioxid direkt Batterie-Grafit Die Suche nach nachhaltigen Rohstoffen für die globale Batterieproduktion läuft weltweit auf Hochtouren. Ein neues Verfahren könnte gleich zwei drängende Probleme lösen, verlangt der Industrie bei der Skalierung aber einiges ab. Wie in einer im Wissenschaftsmagazin Nature Communications veröffentlichten Studie zu les",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "56871b807fcc5c4e0b6d26f5",
-      "title": "Co-Location-Projekt: Der lange Weg von Ready-to-build zum Commercial Operation Date",
-      "url": "https://www.pv-magazine.de/2026/08/07/co-location-projekt-der-lange-weg-von-ready-to-build-zum-commercial-operation-date/",
-      "published_at": "2026-08-07T14:17:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Co-Location-Projekt: Der lange Weg von Ready-to-build zum Commercial Operation Date pv+: Ein Batteriespeicher kann technisch baureif sein und trotzdem noch weit von der kommerziellen Inbetriebnahme entfernt. Ein fiktives Beispiel eines Batteriespeichers an einer Photovoltaikanlage zeigt, welche Verzögerungen, Kostenrisiken und Finanzierungsfragen zu lösen sind.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "78048eb5e1864b10e7bb0a0a",
-      "title": "Monatlicher Ladepreisindex vergleicht Kosten von Elektroautos und Verbrennern",
-      "url": "https://www.pv-magazine.de/2026/08/07/monatlicher-ladepreisindex-vergleicht-kosten-von-elektroautos-und-verbrennern/",
-      "published_at": "2026-08-07T08:06:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Monatlicher Ladepreisindex vergleicht Kosten von Elektroautos und Verbrennern Der Stromanbieter Tibber will ab sofort mit einem monatlichen Index darstellen, um wieviel günstiger sein „Smart Charging“-Angebot gegenüber Benzin oder Diesel ist. Für den Juli ergibt sich eine fast viermal höhere Kostenbelastung für Verbrenner.",
       "tags": [],
       "regions": []
     }

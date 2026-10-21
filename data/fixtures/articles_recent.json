@@ -2,13 +2,24 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "140b3231ab20e611b8c99337",
-      "title": "Batterie-Fehler: VW ruft mehr als 70.000 E-Autos zurück",
-      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/volkswagen-e-auto-batterie-rueckruf-id-100.html",
-      "published_at": "2026-10-20T17:15:00Z",
-      "source_id": "zdf-nachrichten",
+      "id": "0d80d99875710772db078f9a",
+      "title": "ID und Cupra: VW ruft weltweit 70.000 Elektroautos zurück",
+      "url": "https://www.golem.de/news/id-und-cupra-vw-ruft-weltweit-70-000-elektroautos-zurueck-2610-214345.html",
+      "published_at": "2026-10-21T09:01:01Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "Batterie-Fehler: VW ruft mehr als 70.000 E-Autos zurück VW ruft weltweit zehntausende E-Autos wegen defekter Batteriezellen zurück. Mehrere Modelle sind betroffen. Autofahrer sollen ihr Ladeverhalten sofort anpassen.",
+      "summary": "ID und Cupra: VW ruft weltweit 70.000 Elektroautos zurück Es hat sich angedeutet, nun hat das Kraftfahrt-Bundesamt Rückrufe für mehrere Elektroautos von VW veröffentlicht. Vorerst gilt ein Ladelimit. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b0e1ae2643f423025238d197",
+      "title": "Enovos beginnt Bau von Fünf-Stunden-Batteriespeicher im Saarland",
+      "url": "https://www.pv-magazine.de/2026/10/21/enovos-beginnt-bau-von-fuenf-stunden-batteriespeicher-im-saarland/",
+      "published_at": "2026-10-21T08:32:39Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enovos beginnt Bau von Fünf-Stunden-Batteriespeicher im Saarland In Karlsbrunn entsteht ein Batteriespeicher mit 6 Megawatt Leistung und 30 Megawattstunden Kapazität. Enovos Deutschland investiert rund 7,2 Millionen Euro in das Projekt. Die Inbetriebnahme ist für März 2027 geplant.",
       "tags": [],
       "regions": []
     },
@@ -61,17 +72,6 @@
       "regions": []
     },
     {
-      "id": "64a30eabf2db72dcba7eb117",
-      "title": "Elektroauto: Toyota Corolla aus China wird auch elektrisch",
-      "url": "https://www.golem.de/news/toyota-neuer-corolla-wird-auch-elektrisch-und-kommt-aus-china-2610-214291.html",
-      "published_at": "2026-10-20T09:58:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Toyota Corolla aus China wird auch elektrisch Toyota will seinen neuen Corolla als vollelektrische Version anbieten - aber auch als Verbrenner und Hybrid. ( Toyota , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "1fad821894d78f19a8676b73",
       "title": "Rabot Energy startet im November sein Direktvermarktungsangebot für kleine Photovoltaik-Anlagen",
       "url": "https://www.pv-magazine.de/2026/10/20/rabot-energy-startet-im-november-sein-direktvermarktungsangebot-fuer-kleine-photovoltaik-anlagen/",
@@ -95,17 +95,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "f206d1912eabe30eef080b2e",
-      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-      "published_at": "2026-10-19T19:27:24Z",
-      "source_id": "arstechnica-all",
-      "language": "en",
-      "summary": "Startup taps underwater volcano as energy source in \"proof point\" test Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
-      "tags": [],
       "regions": []
     }
   ]
