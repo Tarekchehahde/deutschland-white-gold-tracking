@@ -1,25 +1,60 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-22T10:09:56Z",
+  "generated_at_utc": "2026-10-22T21:36:58Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 872,
+  "total_in_archive": 875,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 140
+    "2026-10": 143
   },
   "recent_for_ui": [
     {
+      "id": "c6d0ceff4c6fe2c1fae60e3d",
+      "title": "Tesla: Echtes FSD soll 2027 kommen, diesmal wirklich",
+      "url": "https://www.golem.de/news/autonomes-fahren-tesla-macht-neue-versprechungen-zu-echtem-fsd-2610-214404.html",
+      "published_at": "2026-10-22T13:49:05Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Echtes FSD soll 2027 kommen, diesmal wirklich Mitte 2027 soll FSD ohne Aufsicht endlich kommen - mal wieder. Benutzen können es Tesla-Fahrer nur in Robotaxi-Zonen, auch mit einem eigenen Cybercab. ( Cybercab , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "e2c2643f1e92f5f24873fbe2",
+      "title": "Solarmonitor 2026: Schweizer Photovoltaik-Ausbau bleibt hinter politischen Zielen zurück",
+      "url": "https://www.pv-magazine.de/2026/10/22/solarmonitor-2026-schweizer-photovoltaik-ausbau-bleibt-hinter-politischen-zielen-zurueck/",
+      "published_at": "2026-10-22T12:45:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Solarmonitor 2026: Schweizer Photovoltaik-Ausbau bleibt hinter politischen Zielen zurück Die Schweiz dürfte ihr Solarstromziel für 2030 unter den derzeitigen Rahmenbedingungen um rund vier Terawattstunden verfehlen. Das geht aus dem neuen Solarmonitor von Swissolar hervor. Der Branchenverband hat seine Ausbauszenarien nach dem Rückgang der Photovoltaik-Neuinstallationen überarbeitet und berücksich",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "037d4f742ff3fa12a351f49c",
+      "title": "ID. Unyx 08: Warum sich Volkswagens China-Auto so schlecht verkauft",
+      "url": "https://www.sueddeutsche.de/wirtschaft/vw-id-unyx-08-china-elektroauto-xpeng-li.3567047",
+      "published_at": "2026-10-22T11:45:06Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "ID. Unyx 08: Warum sich Volkswagens China-Auto so schlecht verkauft Mit dem ID. Unyx 08 wollte VW beweisen, dass der Konzern aus seinen Fehlern gelernt hat. Doch die Verkaufszahlen des Elektroautos in China bleiben weit hinter den Erwartungen zurück. Was ist schiefgelaufen?",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "dc1cb616dd467f023bfeb748",
-      "title": "Autonomes Fahren: Mercedes bringt FSD-Konkurrenten nach Deutschland",
+      "title": "Autonomes Fahren: Selbstfahrassistent von Mercedes kommt nach Deutschland",
       "url": "https://www.golem.de/news/autonomes-fahren-mercedes-bringt-fsd-konkurrenten-nach-deutschland-2610-214388.html",
       "published_at": "2026-10-22T09:48:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Autonomes Fahren: Mercedes bringt FSD-Konkurrenten nach Deutschland Mercedes-Benz' Punkt-zu-Punkt-Fahrassistent kann ab Anfang 2027 gebucht werden - inklusive kostenlosem Probemonat. ( Mercedes Benz , Elektroauto )",
+      "summary": "Autonomes Fahren: Selbstfahrassistent von Mercedes kommt nach Deutschland Mercedes-Benz' Punkt-zu-Punkt-Fahrassistent kann ab Anfang 2027 gebucht werden - inklusive kostenlosem Probemonat. ( Mercedes Benz , Elektroauto )",
       "tags": [
         "exploration"
       ],
@@ -49,12 +84,12 @@
     },
     {
       "id": "4deaf59471669e1e3bb532bd",
-      "title": "Diesel verliert weiter Boden an Plug-in-Hybride in der EU",
+      "title": "EU: Elektroautos legen bei Neuzulassungen stark zu",
       "url": "https://www.heise.de/news/E-Auto-Zulassungen-in-der-EU-steigen-deutlich-11496336.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published_at": "2026-10-22T07:16:00Z",
       "source_id": "heise-news",
       "language": "de",
-      "summary": "Diesel verliert weiter Boden an Plug-in-Hybride in der EU Reine Elektroautos kommen in der EU in den ersten neun Monaten 2026 auf einen Marktanteil von 22,7 Prozent, während Benziner und Diesel weiter verlieren.",
+      "summary": "EU: Elektroautos legen bei Neuzulassungen stark zu Batterieelektrische Autos kommen in der EU in den ersten neun Monaten 2026 auf einen Marktanteil von 22,7 Prozent, während Benziner und Diesel weiter verlieren.",
       "tags": [],
       "regions": []
     },
@@ -4522,43 +4557,6 @@
       "summary": "Stromspeicher: Deutschlands größter Batterieverbund geht ans Netz Bei Leuna ist Deutschlands größter Batteriespeicherverbund eingeweiht worden. Er soll Strom aus Wind und Sonne flexibler nutzbar machen. ( Energiewende , Smart Meter )",
       "tags": [],
       "regions": []
-    },
-    {
-      "id": "f07f6185f86443f4e10810f7",
-      "title": "Strompreis: Mit Batteriespeichern wieder stabil und günstig?",
-      "url": "https://www.zdfheute.de/politik/batterie-speicher-strom-energie-100.html",
-      "published_at": "2026-08-13T21:36:00Z",
-      "source_id": "zdf-nachrichten",
-      "language": "de",
-      "summary": "Strompreis: Mit Batteriespeichern wieder stabil und günstig? Industrie und Privathaushalte ächzen unter den Strompreisen, obwohl mit den erneuerbaren Energien häufig Überschuss produziert wird. In Merseburg-Beuna werden Lösungen aufgezeigt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "42008513f0d1c9d6cfeae75b",
-      "title": "Tesla-Fabrik Grünheide: Neuer Bahnhof bedeutet Aus für den Giga-Train",
-      "url": "https://www.golem.de/news/tesla-fabrik-gruenheide-neuer-bahnhof-bedeutet-aus-fuer-den-giga-train-2608-211900.html",
-      "published_at": "2026-08-13T11:45:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla-Fabrik Grünheide: Neuer Bahnhof bedeutet Aus für den Giga-Train Die Deutsche Bahn eröffnet einen neuen Bahnhof direkt an der Gigafabrik Grünheide. Das verkürzt den Arbeitsweg für Tesla-Mitarbeiter deutlich. ( Gigafactory Berlin , Elektroauto )",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "0ccacc539b737d45cf96a962",
-      "title": "Batteriespeicher mit rund 500 Megawattstunden Kapazität in Sachsen-Anhalt eingeweiht",
-      "url": "https://www.pv-magazine.de/2026/08/13/batteriespeicher-mit-rund-500-megawattstunden-kapazitaet-in-sachsen-anhalt-eingeweiht/",
-      "published_at": "2026-08-13T11:40:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Batteriespeicher mit rund 500 Megawattstunden Kapazität in Sachsen-Anhalt eingeweiht Münch Energie hat das Projekt mit 250 Megawatt Leistung realisiert. Noch in diesem Jahr soll die verfügbare Speicherkapazität auf 800 Megawattstunden ausgebaut werden.",
-      "tags": [],
-      "regions": [
-        "DE-ST"
-      ]
     }
   ]
 }
