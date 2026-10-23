@@ -2,6 +2,33 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "67853fa8c7b8359f585bd3e6",
+      "title": "Grenzüberschreitende Zusammenarbeit: Geothermie am Oberrhein stärken",
+      "url": "https://www.pfalz-express.de/grenzueberschreitende-zusammenarbeit-geothermie-am-oberrhein-staerken/",
+      "published_at": "2026-10-23T08:24:40Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Grenzüberschreitende Zusammenarbeit: Geothermie am Oberrhein stärken Landau. Zur Besichtigung der Geothermie-Anlage in Landau traf sich Amaury de Saint-Quentin, Präsident der Oberrheinkonferenz (ORK) und Präfekt der Region Grand Est, am 22. Oktober 2026 mit Fritz Brechtel, rheinland-pfälzischer Beauftragter des Ministerpräsidenten für Grenzüberschreitende Zusammenarbeit, Hannes KOPF, Präsident der",
+      "tags": [
+        "politik"
+      ],
+      "regions": [
+        "DE-BW",
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "8dd9e3f0c7cbf759d0759515",
+      "title": "Illegales Tuning: Bei manchen E-Scootern reicht ein Haken in der App",
+      "url": "https://www.golem.de/news/illegales-tuning-bei-manchen-e-scootern-reicht-ein-haken-in-der-app-2610-214428.html",
+      "published_at": "2026-10-23T08:22:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Illegales Tuning: Bei manchen E-Scootern reicht ein Haken in der App Polizei und Unfallforscher warnen vor illegal getunten E-Scootern. Jugendliche verunglücken laut Landesverkehrswacht mit bis zu 80 km/h. ( Polizei , Elektromobilität )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "c6d0ceff4c6fe2c1fae60e3d",
       "title": "Tesla: Echtes FSD soll 2027 kommen, diesmal wirklich",
       "url": "https://www.golem.de/news/autonomes-fahren-tesla-macht-neue-versprechungen-zu-echtem-fsd-2610-214404.html",
