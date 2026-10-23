@@ -1,17 +1,50 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-23T10:02:39Z",
+  "generated_at_utc": "2026-10-23T21:25:36Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 877,
+  "total_in_archive": 880,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 145
+    "2026-10": 148
   },
   "recent_for_ui": [
+    {
+      "id": "3a1c0207f7fef7f7455aa489",
+      "title": "Energiekosten: Zubau von Batteriespeichern hat sich fast verdoppelt",
+      "url": "https://www.golem.de/news/energiekosten-zubau-von-batteriespeichern-hat-sich-fast-verdoppelt-2610-214460.html",
+      "published_at": "2026-10-23T15:11:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Energiekosten: Zubau von Batteriespeichern hat sich fast verdoppelt Im Vergleich zu 2025 ist die Kapazität neu installierter Akkuspeicher in Deutschland um 91 Prozent gestiegen. Weitere Maßnahmen könnten dies noch beschleunigen. ( Akku , Solarenergie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d42a7943d9188328606b26bd",
+      "title": "Megawatt-Lader: Chery lädt in 6 Minuten und 50 Sekunden auf 97 Prozent",
+      "url": "https://www.golem.de/news/megawatt-lader-chery-laedt-in-6-minuten-und-50-sekunden-auf-97-prozent-2610-214457.html",
+      "published_at": "2026-10-23T14:16:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Megawatt-Lader: Chery lädt in 6 Minuten und 50 Sekunden auf 97 Prozent Chery hat in China einen eigenen Megawatt-Charger für Elektroautos vorgestellt. Doch es gibt schnellere Konkurrenz. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fb690c97072ccc2c9bbe2ac1",
+      "title": "Baukastensystem: Mercedes will Autofertigung mit austauschbaren Modulen beschleunigen",
+      "url": "https://www.golem.de/news/baukastensystem-mercedes-will-autofertigung-mit-austauschbaren-modulen-beschleunigen-2610-214441.html",
+      "published_at": "2026-10-23T10:33:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Baukastensystem: Mercedes will Autofertigung mit austauschbaren Modulen beschleunigen Ein modulares Baukastensystem soll die Autofertigung bei Mercedes im kommenden Jahrzehnt vereinfachen und beschleunigen. ( Mercedes Benz , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "67853fa8c7b8359f585bd3e6",
       "title": "Grenzüberschreitende Zusammenarbeit: Geothermie am Oberrhein stärken",
@@ -4527,41 +4560,6 @@
       "summary": "IF Metall: Nach fast drei Jahren Streik gewinnt Tesla in Schweden Tesla hat am Ende mit allen Streikteilnehmern Abfindungen und Deals vereinbart. Es ist der längste Streik in der Geschichte Schwedens. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
-    },
-    {
-      "id": "7926c6f1e1a9a12934208002",
-      "title": "Norddeutsche Verteilnetzbetreiber für „Realisierungsnachweis“ bei Batteriespeicher-Netzanschlüssen",
-      "url": "https://www.pv-magazine.de/2026/08/14/norddeutsche-verteilnetzbetreiber-fuer-realisierungsnachweis-bei-batteriespeicher-netzanschluessen/",
-      "published_at": "2026-08-14T08:12:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Norddeutsche Verteilnetzbetreiber für „Realisierungsnachweis“ bei Batteriespeicher-Netzanschlüssen Weil Netzanschlussanfragen auch dann Kapazitäten blockieren, wenn keine verbindliche Umsetzungsabsicht dahintersteht, streben die norddeutschen Verteilnetzbetreiber – wie zuletzt Netze BW – ein Reifegradverfahren an.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f293689ba23ce31c4811903a",
-      "title": "Porsche: Kommt 2030 das Taycan-Ende?",
-      "url": "https://www.golem.de/news/porsche-kommt-2030-das-taycan-ende-2608-211931.html",
-      "published_at": "2026-08-14T08:04:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Porsche: Kommt 2030 das Taycan-Ende? Porsche will den Elektrosportwagen Taycan offenbar einstellen. Die Verkaufszahlen brechen ein. ( Porsche , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c52ff214123cb49126f1f2c2",
-      "title": "Lithium für 500.000 E-Autos jährlich: Altmark-Projekt geht in nächste Pilotphase",
-      "url": "https://www.heise.de/news/Deutschlands-groesste-Lithiumressource-Pilotprojekt-mit-Adsorptionstechnik-11413776.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-08-14T07:43:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Lithium für 500.000 E-Autos jährlich: Altmark-Projekt geht in nächste Pilotphase Neptune Energy will Lithium aus 4000 Metern Tiefe gewinnen. In Sachsen-Anhalt läuft jetzt eine weitere Pilotphase mit den Partnern Fraunhofer IEG und Evonik.",
-      "tags": [],
-      "regions": [
-        "DE-ST"
-      ]
     }
   ]
 }
