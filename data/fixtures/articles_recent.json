@@ -2,6 +2,33 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "67853fa8c7b8359f585bd3e6",
+      "title": "Grenzüberschreitende Zusammenarbeit: Geothermie am Oberrhein stärken",
+      "url": "https://www.pfalz-express.de/grenzueberschreitende-zusammenarbeit-geothermie-am-oberrhein-staerken/",
+      "published_at": "2026-10-23T08:24:40Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Grenzüberschreitende Zusammenarbeit: Geothermie am Oberrhein stärken Landau. Zur Besichtigung der Geothermie-Anlage in Landau traf sich Amaury de Saint-Quentin, Präsident der Oberrheinkonferenz (ORK) und Präfekt der Region Grand Est, am 22. Oktober 2026 mit Fritz Brechtel, rheinland-pfälzischer Beauftragter des Ministerpräsidenten für Grenzüberschreitende Zusammenarbeit, Hannes KOPF, Präsident der",
+      "tags": [
+        "politik"
+      ],
+      "regions": [
+        "DE-BW",
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "8dd9e3f0c7cbf759d0759515",
+      "title": "Illegales Tuning: Bei manchen E-Scootern reicht ein Haken in der App",
+      "url": "https://www.golem.de/news/illegales-tuning-bei-manchen-e-scootern-reicht-ein-haken-in-der-app-2610-214428.html",
+      "published_at": "2026-10-23T08:22:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Illegales Tuning: Bei manchen E-Scootern reicht ein Haken in der App Polizei und Unfallforscher warnen vor illegal getunten E-Scootern. Jugendliche verunglücken laut Landesverkehrswacht mit bis zu 80 km/h. ( Polizei , Elektromobilität )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "c6d0ceff4c6fe2c1fae60e3d",
       "title": "Tesla: Echtes FSD soll 2027 kommen, diesmal wirklich",
       "url": "https://www.golem.de/news/autonomes-fahren-tesla-macht-neue-versprechungen-zu-echtem-fsd-2610-214404.html",
@@ -37,30 +64,6 @@
       "regions": []
     },
     {
-      "id": "dc1cb616dd467f023bfeb748",
-      "title": "Autonomes Fahren: Selbstfahrassistent von Mercedes kommt nach Deutschland",
-      "url": "https://www.golem.de/news/autonomes-fahren-mercedes-bringt-fsd-konkurrenten-nach-deutschland-2610-214388.html",
-      "published_at": "2026-10-22T09:48:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Selbstfahrassistent von Mercedes kommt nach Deutschland Mercedes-Benz' Punkt-zu-Punkt-Fahrassistent kann ab Anfang 2027 gebucht werden - inklusive kostenlosem Probemonat. ( Mercedes Benz , Elektroauto )",
-      "tags": [
-        "exploration"
-      ],
-      "regions": []
-    },
-    {
-      "id": "8959effbae4a0d58635d1ebb",
-      "title": "Elektromobilität: Tesla verdient 43 Prozent weniger, Forschungskosten steigen",
-      "url": "https://www.golem.de/news/elektromobilitaet-tesla-verdient-43-prozent-weniger-forschungskosten-steigen-2610-214380.html",
-      "published_at": "2026-10-22T08:52:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektromobilität: Tesla verdient 43 Prozent weniger, Forschungskosten steigen Tesla hat im dritten Quartal 787 Millionen US-Dollar verdient. Der Umsatz stagniert und die Forschungskosten steigen um 69 Prozent. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "b14cf3e81ad61d7d94f64cc1",
       "title": "BSW-Solar: Batteriespeicher-Zubau in Deutschland erreicht in ersten neun Monaten 8,2 Gigawattstunden",
       "url": "https://www.pv-magazine.de/2026/10/22/bsw-solar-batteriespeicher-zubau-in-deutschland-erreicht-in-ersten-neun-monaten-82-gigawattstunden/",
@@ -83,17 +86,6 @@
       "regions": []
     },
     {
-      "id": "9cd9542f7a8a903430936d07",
-      "title": "Neuzulassungen: E-Autos holen in der EU 22,7 Prozent Marktanteil",
-      "url": "https://www.golem.de/news/neuzulassungen-e-autos-holen-in-der-eu-22-7-prozent-marktanteil-2610-214375.html",
-      "published_at": "2026-10-22T07:13:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Neuzulassungen: E-Autos holen in der EU 22,7 Prozent Marktanteil Elektroautos kommen in der EU auf 22,7 Prozent Marktanteil. Benziner und Diesel verlieren jeweils rund 19 Prozent. ( Auto , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "df31531e0ca96c245c79157d",
       "title": "„Das größte Produkt auf der Welt“: Musk schwärmt nach Tesla-Gewinneinbruch von Robotern",
       "url": "https://rp-online.de/digitales/musk-schwaermt-nach-tesla-gewinneinbruch-von-robotern_aid-157018607",
@@ -101,17 +93,6 @@
       "source_id": "rp-online-wirtschaft",
       "language": "de",
       "summary": "„Das größte Produkt auf der Welt“: Musk schwärmt nach Tesla-Gewinneinbruch von Robotern Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Aktuell muss das Geld aber noch mit dem Verkauf von Elektroautos verdient werden - und da gab es zuletzt Rückgänge.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "367cff8781f7097a7606a7af",
-      "title": "Abhängigkeit von China: Merz fordert EU-Vorräte für kritische Rohstoffe",
-      "url": "https://www.faz.net/premium/weltwirtschaft/klima-ressourcen/abhaengigkeit-von-china-friedrich-merz-fordert-eu-vorraete-fuer-seltene-erden-accg-201609187.html",
-      "published_at": "2026-10-22T04:50:00Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Abhängigkeit von China: Merz fordert EU-Vorräte für kritische Rohstoffe Bundeskanzler Friedrich Merz warnt vor Chinas Griff auf Seltene Erden und wirbt für EU-Reserven. Ein neues Zentrum soll Lagerbestände aufbauen und Engpässe abfedern.",
       "tags": [],
       "regions": []
     },
@@ -145,30 +126,6 @@
       "source_id": "faz-aktuell",
       "language": "de",
       "summary": "Verbrauch von E-Autos: Wahre Werte Das Elektroauto fährt weit, verbraucht wenig, lädt schnell. In der Werbung, unter Idealbedingungen. Die Realität zeigen unsere Fahrberichte. Wir haben einige ausgewertet.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "691a72af31a5c2115725fac2",
-      "title": "Österreichisches Forschungsprojekt soll Batteriespeicher und Wärmepumpen für Flexibilitätsmärkte vernetzen",
-      "url": "https://www.pv-magazine.de/2026/10/21/oesterreichisches-forschungsprojekt-soll-batteriespeicher-und-waermepumpen-fuer-flexibilitaetsmaerkte-vernetzen/",
-      "published_at": "2026-10-21T12:14:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Österreichisches Forschungsprojekt soll Batteriespeicher und Wärmepumpen für Flexibilitätsmärkte vernetzen Batteriespeicher, Wärmepumpen und Elektroautos können Stromnetze entlasten und zusätzliche Erlöse ermöglichen, wenn sie sich herstellerübergreifend steuern lassen. Ein österreichisches Forschungskonsortium mit 18 Partnern will dafür eine offene Software-Infrastruktur entwickeln und in der Pra",
-      "tags": [
-        "exploration"
-      ],
-      "regions": []
-    },
-    {
-      "id": "8b60ebef8ed28622a8310dab",
-      "title": "Siliziumreiche Zellen des Fraunhofer ISE behalten nach 1000 Zyklen über 83 Prozent ihrer Kapazität",
-      "url": "https://www.pv-magazine.de/2026/10/21/siliziumreiche-zellen-des-fraunhofer-ise-behalten-nach-1000-zyklen-ueber-83-prozent-ihrer-kapazitaet/",
-      "published_at": "2026-10-21T11:04:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Siliziumreiche Zellen des Fraunhofer ISE behalten nach 1000 Zyklen über 83 Prozent ihrer Kapazität Forschende des Fraunhofer ISE haben Pouch-Batteriezellen mit siliziumreichen Anoden hergestellt, die nach mehr als 1000 Lade- und Entladezyklen noch über 83 Prozent ihrer ursprünglichen Kapazität aufweisen. Entscheidend für das Ergebnis war ein hoher mechanischer Anpressdruck.",
       "tags": [],
       "regions": []
     }

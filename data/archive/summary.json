@@ -1,17 +1,44 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-22T21:36:58Z",
+  "generated_at_utc": "2026-10-23T10:02:39Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 875,
+  "total_in_archive": 877,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 143
+    "2026-10": 145
   },
   "recent_for_ui": [
+    {
+      "id": "67853fa8c7b8359f585bd3e6",
+      "title": "Grenzüberschreitende Zusammenarbeit: Geothermie am Oberrhein stärken",
+      "url": "https://www.pfalz-express.de/grenzueberschreitende-zusammenarbeit-geothermie-am-oberrhein-staerken/",
+      "published_at": "2026-10-23T08:24:40Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Grenzüberschreitende Zusammenarbeit: Geothermie am Oberrhein stärken Landau. Zur Besichtigung der Geothermie-Anlage in Landau traf sich Amaury de Saint-Quentin, Präsident der Oberrheinkonferenz (ORK) und Präfekt der Region Grand Est, am 22. Oktober 2026 mit Fritz Brechtel, rheinland-pfälzischer Beauftragter des Ministerpräsidenten für Grenzüberschreitende Zusammenarbeit, Hannes KOPF, Präsident der",
+      "tags": [
+        "politik"
+      ],
+      "regions": [
+        "DE-BW",
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "8dd9e3f0c7cbf759d0759515",
+      "title": "Illegales Tuning: Bei manchen E-Scootern reicht ein Haken in der App",
+      "url": "https://www.golem.de/news/illegales-tuning-bei-manchen-e-scootern-reicht-ein-haken-in-der-app-2610-214428.html",
+      "published_at": "2026-10-23T08:22:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Illegales Tuning: Bei manchen E-Scootern reicht ein Haken in der App Polizei und Unfallforscher warnen vor illegal getunten E-Scootern. Jugendliche verunglücken laut Landesverkehrswacht mit bis zu 80 km/h. ( Polizei , Elektromobilität )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c6d0ceff4c6fe2c1fae60e3d",
       "title": "Tesla: Echtes FSD soll 2027 kommen, diesmal wirklich",
@@ -4535,28 +4562,6 @@
       "regions": [
         "DE-ST"
       ]
-    },
-    {
-      "id": "f576a4286efa8655e816cd7c",
-      "title": "Wenn Hitze zum Stresstest wird: Was extreme Temperaturen für Photovoltaik-Anlagen und Batteriespeicher bedeuten",
-      "url": "https://www.pv-magazine.de/2026/08/14/wenn-hitze-zum-stresstest-wird-was-extreme-temperaturen-fuer-photovoltaik-anlagen-und-batteriespeicher-bedeuten/",
-      "published_at": "2026-08-14T07:05:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Wenn Hitze zum Stresstest wird: Was extreme Temperaturen für Photovoltaik-Anlagen und Batteriespeicher bedeuten Photovoltaik lebt von Sonneneinstrahlung. Batteriespeicher leben davon, Energie genau dann aufzunehmen und abzugeben, wenn das Stromsystem sie braucht. Beides klingt nach einer idealen Kombination für heiße Sommertage: viel Sonne, hohe Erzeugung, steigender Strombedarf durch Kühlung und ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "43500ded2c793458eff6316e",
-      "title": "Stromspeicher: Deutschlands größter Batterieverbund geht ans Netz",
-      "url": "https://www.golem.de/news/stromspeicher-deutschlands-groesster-batterieverbund-geht-ans-netz-2608-211924.html",
-      "published_at": "2026-08-14T06:14:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Stromspeicher: Deutschlands größter Batterieverbund geht ans Netz Bei Leuna ist Deutschlands größter Batteriespeicherverbund eingeweiht worden. Er soll Strom aus Wind und Sonne flexibler nutzbar machen. ( Energiewende , Smart Meter )",
-      "tags": [],
-      "regions": []
     }
   ]
 }
