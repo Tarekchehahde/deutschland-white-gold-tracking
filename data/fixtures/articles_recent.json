@@ -2,20 +2,37 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "67853fa8c7b8359f585bd3e6",
-      "title": "Grenzüberschreitende Zusammenarbeit: Geothermie am Oberrhein stärken",
-      "url": "https://www.pfalz-express.de/grenzueberschreitende-zusammenarbeit-geothermie-am-oberrhein-staerken/",
-      "published_at": "2026-10-23T08:24:40Z",
-      "source_id": "pfalz-express",
+      "id": "3a1c0207f7fef7f7455aa489",
+      "title": "Energiekosten: Zubau von Batteriespeichern hat sich fast verdoppelt",
+      "url": "https://www.golem.de/news/energiekosten-zubau-von-batteriespeichern-hat-sich-fast-verdoppelt-2610-214460.html",
+      "published_at": "2026-10-23T15:11:01Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "Grenzüberschreitende Zusammenarbeit: Geothermie am Oberrhein stärken Landau. Zur Besichtigung der Geothermie-Anlage in Landau traf sich Amaury de Saint-Quentin, Präsident der Oberrheinkonferenz (ORK) und Präfekt der Region Grand Est, am 22. Oktober 2026 mit Fritz Brechtel, rheinland-pfälzischer Beauftragter des Ministerpräsidenten für Grenzüberschreitende Zusammenarbeit, Hannes KOPF, Präsident der",
-      "tags": [
-        "politik"
-      ],
-      "regions": [
-        "DE-BW",
-        "DE-RP"
-      ]
+      "summary": "Energiekosten: Zubau von Batteriespeichern hat sich fast verdoppelt Im Vergleich zu 2025 ist die Kapazität neu installierter Akkuspeicher in Deutschland um 91 Prozent gestiegen. Weitere Maßnahmen könnten dies noch beschleunigen. ( Akku , Solarenergie )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d42a7943d9188328606b26bd",
+      "title": "Megawatt-Lader: Chery lädt in 6 Minuten und 50 Sekunden auf 97 Prozent",
+      "url": "https://www.golem.de/news/megawatt-lader-chery-laedt-in-6-minuten-und-50-sekunden-auf-97-prozent-2610-214457.html",
+      "published_at": "2026-10-23T14:16:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Megawatt-Lader: Chery lädt in 6 Minuten und 50 Sekunden auf 97 Prozent Chery hat in China einen eigenen Megawatt-Charger für Elektroautos vorgestellt. Doch es gibt schnellere Konkurrenz. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fb690c97072ccc2c9bbe2ac1",
+      "title": "Baukastensystem: Mercedes will Autofertigung mit austauschbaren Modulen beschleunigen",
+      "url": "https://www.golem.de/news/baukastensystem-mercedes-will-autofertigung-mit-austauschbaren-modulen-beschleunigen-2610-214441.html",
+      "published_at": "2026-10-23T10:33:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Baukastensystem: Mercedes will Autofertigung mit austauschbaren Modulen beschleunigen Ein modulares Baukastensystem soll die Autofertigung bei Mercedes im kommenden Jahrzehnt vereinfachen und beschleunigen. ( Mercedes Benz , Elektroauto )",
+      "tags": [],
+      "regions": []
     },
     {
       "id": "8dd9e3f0c7cbf759d0759515",
@@ -26,19 +43,6 @@
       "language": "de",
       "summary": "Illegales Tuning: Bei manchen E-Scootern reicht ein Haken in der App Polizei und Unfallforscher warnen vor illegal getunten E-Scootern. Jugendliche verunglücken laut Landesverkehrswacht mit bis zu 80 km/h. ( Polizei , Elektromobilität )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c6d0ceff4c6fe2c1fae60e3d",
-      "title": "Tesla: Echtes FSD soll 2027 kommen, diesmal wirklich",
-      "url": "https://www.golem.de/news/autonomes-fahren-tesla-macht-neue-versprechungen-zu-echtem-fsd-2610-214404.html",
-      "published_at": "2026-10-22T13:49:05Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla: Echtes FSD soll 2027 kommen, diesmal wirklich Mitte 2027 soll FSD ohne Aufsicht endlich kommen - mal wieder. Benutzen können es Tesla-Fahrer nur in Robotaxi-Zonen, auch mit einem eigenen Cybercab. ( Cybercab , Elektroauto )",
-      "tags": [
-        "politik"
-      ],
       "regions": []
     },
     {
@@ -53,39 +57,6 @@
       "regions": []
     },
     {
-      "id": "037d4f742ff3fa12a351f49c",
-      "title": "ID. Unyx 08: Warum sich Volkswagens China-Auto so schlecht verkauft",
-      "url": "https://www.sueddeutsche.de/wirtschaft/vw-id-unyx-08-china-elektroauto-xpeng-li.3567047",
-      "published_at": "2026-10-22T11:45:06Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "ID. Unyx 08: Warum sich Volkswagens China-Auto so schlecht verkauft Mit dem ID. Unyx 08 wollte VW beweisen, dass der Konzern aus seinen Fehlern gelernt hat. Doch die Verkaufszahlen des Elektroautos in China bleiben weit hinter den Erwartungen zurück. Was ist schiefgelaufen?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b14cf3e81ad61d7d94f64cc1",
-      "title": "BSW-Solar: Batteriespeicher-Zubau in Deutschland erreicht in ersten neun Monaten 8,2 Gigawattstunden",
-      "url": "https://www.pv-magazine.de/2026/10/22/bsw-solar-batteriespeicher-zubau-in-deutschland-erreicht-in-ersten-neun-monaten-82-gigawattstunden/",
-      "published_at": "2026-10-22T08:36:40Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "BSW-Solar: Batteriespeicher-Zubau in Deutschland erreicht in ersten neun Monaten 8,2 Gigawattstunden Die bislang im Jahr 2026 neu installierte Speicherkapazität liegt 91 Prozent über dem Vorjahreswert. Besonders stark wächst das Segment der Großspeicher. Der BSW-Solar fordert 15 Reformmaßnahmen, um den weiteren Ausbau zu beschleunigen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4deaf59471669e1e3bb532bd",
-      "title": "EU: Elektroautos legen bei Neuzulassungen stark zu",
-      "url": "https://www.heise.de/news/E-Auto-Zulassungen-in-der-EU-steigen-deutlich-11496336.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-10-22T07:16:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "EU: Elektroautos legen bei Neuzulassungen stark zu Batterieelektrische Autos kommen in der EU in den ersten neun Monaten 2026 auf einen Marktanteil von 22,7 Prozent, während Benziner und Diesel weiter verlieren.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "df31531e0ca96c245c79157d",
       "title": "„Das größte Produkt auf der Welt“: Musk schwärmt nach Tesla-Gewinneinbruch von Robotern",
       "url": "https://rp-online.de/digitales/musk-schwaermt-nach-tesla-gewinneinbruch-von-robotern_aid-157018607",
@@ -93,17 +64,6 @@
       "source_id": "rp-online-wirtschaft",
       "language": "de",
       "summary": "„Das größte Produkt auf der Welt“: Musk schwärmt nach Tesla-Gewinneinbruch von Robotern Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Aktuell muss das Geld aber noch mit dem Verkauf von Elektroautos verdient werden - und da gab es zuletzt Rückgänge.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3a2f9e458fa4c05d75cbfdcb",
-      "title": "Stromversorgung: Eine halbe Million neuer Batteriespeicher treiben Energiewende voran",
-      "url": "https://rp-online.de/wirtschaft/stromversorgung-eine-halbe-million-neuer-batteriespeicher-in-deutschland_aid-157016835",
-      "published_at": "2026-10-22T02:14:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Stromversorgung: Eine halbe Million neuer Batteriespeicher treiben Energiewende voran Die Dunkelflaute schreckt niemanden mehr, wenn der Strom in Batterien lagert. Deutschland hat seine Speicherkapazität gegenüber 2025 fast verdoppelt. Vor allem eine Sorte Batteriespeicher boomt.",
       "tags": [],
       "regions": []
     },
