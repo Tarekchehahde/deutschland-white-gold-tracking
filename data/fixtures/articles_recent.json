@@ -2,17 +2,6 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "b5d9211035268013ab198ecd",
-      "title": "Elektroauto kaufen: Hohe Spritpreise treiben Nachfrage nach E-Autos an",
-      "url": "https://www.spiegel.de/wirtschaft/elektroautos-ueberwinden-ihr-image-als-ladenhueter-a-cace86c9-12db-477d-b80b-a363847a00c9",
-      "published_at": "2026-10-25T08:18:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Elektroauto kaufen: Hohe Spritpreise treiben Nachfrage nach E-Autos an Die anhaltend hohen Spritpreise haben die Nachfrage nach Elektroautos angekurbelt. Die negative Begleiterscheinung: Die Verkäufer geizen zunehmend mit Rabatten.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "3a1c0207f7fef7f7455aa489",
       "title": "Energiekosten: Zubau von Batteriespeichern hat sich fast verdoppelt",
       "url": "https://www.golem.de/news/energiekosten-zubau-von-batteriespeichern-hat-sich-fast-verdoppelt-2610-214460.html",
@@ -42,17 +31,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Solarmonitor 2026: Schweizer Photovoltaik-Ausbau bleibt hinter politischen Zielen zurück Die Schweiz dürfte ihr Solarstromziel für 2030 unter den derzeitigen Rahmenbedingungen um rund vier Terawattstunden verfehlen. Das geht aus dem neuen Solarmonitor von Swissolar hervor. Der Branchenverband hat seine Ausbauszenarien nach dem Rückgang der Photovoltaik-Neuinstallationen überarbeitet und berücksich",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "df31531e0ca96c245c79157d",
-      "title": "„Das größte Produkt auf der Welt“: Musk schwärmt nach Tesla-Gewinneinbruch von Robotern",
-      "url": "https://rp-online.de/digitales/musk-schwaermt-nach-tesla-gewinneinbruch-von-robotern_aid-157018607",
-      "published_at": "2026-10-22T06:04:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "„Das größte Produkt auf der Welt“: Musk schwärmt nach Tesla-Gewinneinbruch von Robotern Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Aktuell muss das Geld aber noch mit dem Verkauf von Elektroautos verdient werden - und da gab es zuletzt Rückgänge.",
       "tags": [],
       "regions": []
     },
