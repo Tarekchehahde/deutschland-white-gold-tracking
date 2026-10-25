@@ -2,6 +2,17 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "b5d9211035268013ab198ecd",
+      "title": "Elektroauto kaufen: Hohe Spritpreise treiben Nachfrage nach E-Autos an",
+      "url": "https://www.spiegel.de/wirtschaft/elektroautos-ueberwinden-ihr-image-als-ladenhueter-a-cace86c9-12db-477d-b80b-a363847a00c9",
+      "published_at": "2026-10-25T08:18:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto kaufen: Hohe Spritpreise treiben Nachfrage nach E-Autos an Die anhaltend hohen Spritpreise haben die Nachfrage nach Elektroautos angekurbelt. Die negative Begleiterscheinung: Die Verkäufer geizen zunehmend mit Rabatten.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "3a1c0207f7fef7f7455aa489",
       "title": "Energiekosten: Zubau von Batteriespeichern hat sich fast verdoppelt",
       "url": "https://www.golem.de/news/energiekosten-zubau-von-batteriespeichern-hat-sich-fast-verdoppelt-2610-214460.html",

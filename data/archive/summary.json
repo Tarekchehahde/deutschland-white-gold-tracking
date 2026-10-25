@@ -1,17 +1,28 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-24T20:51:19Z",
+  "generated_at_utc": "2026-10-25T09:48:11Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 880,
+  "total_in_archive": 881,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 148
+    "2026-10": 149
   },
   "recent_for_ui": [
+    {
+      "id": "b5d9211035268013ab198ecd",
+      "title": "Elektroauto kaufen: Hohe Spritpreise treiben Nachfrage nach E-Autos an",
+      "url": "https://www.spiegel.de/wirtschaft/elektroautos-ueberwinden-ihr-image-als-ladenhueter-a-cace86c9-12db-477d-b80b-a363847a00c9",
+      "published_at": "2026-10-25T08:18:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto kaufen: Hohe Spritpreise treiben Nachfrage nach E-Autos an Die anhaltend hohen Spritpreise haben die Nachfrage nach Elektroautos angekurbelt. Die negative Begleiterscheinung: Die Verkäufer geizen zunehmend mit Rabatten.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "3a1c0207f7fef7f7455aa489",
       "title": "Energiekosten: Zubau von Batteriespeichern hat sich fast verdoppelt",
@@ -4548,17 +4559,6 @@
       "tags": [
         "umwelt"
       ],
-      "regions": []
-    },
-    {
-      "id": "ec19896bbfc9ab400297b26c",
-      "title": "IF Metall: Nach fast drei Jahren Streik gewinnt Tesla in Schweden",
-      "url": "https://www.golem.de/news/if-metall-nach-fast-drei-jahren-streik-gewinnt-tesla-in-schweden-2608-211943.html",
-      "published_at": "2026-08-14T09:48:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "IF Metall: Nach fast drei Jahren Streik gewinnt Tesla in Schweden Tesla hat am Ende mit allen Streikteilnehmern Abfindungen und Deals vereinbart. Es ist der längste Streik in der Geschichte Schwedens. ( Tesla , Elektroauto )",
-      "tags": [],
       "regions": []
     }
   ]

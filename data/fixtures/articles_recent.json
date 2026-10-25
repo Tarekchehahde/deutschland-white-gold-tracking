@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "b5d9211035268013ab198ecd",
+      "title": "Elektroauto kaufen: Hohe Spritpreise treiben Nachfrage nach E-Autos an",
+      "url": "https://www.spiegel.de/wirtschaft/elektroautos-ueberwinden-ihr-image-als-ladenhueter-a-cace86c9-12db-477d-b80b-a363847a00c9",
+      "published_at": "2026-10-25T08:18:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto kaufen: Hohe Spritpreise treiben Nachfrage nach E-Autos an Die anhaltend hohen Spritpreise haben die Nachfrage nach Elektroautos angekurbelt. Die negative Begleiterscheinung: Die Verkäufer geizen zunehmend mit Rabatten.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "3a1c0207f7fef7f7455aa489",
       "title": "Energiekosten: Zubau von Batteriespeichern hat sich fast verdoppelt",
       "url": "https://www.golem.de/news/energiekosten-zubau-von-batteriespeichern-hat-sich-fast-verdoppelt-2610-214460.html",
@@ -20,17 +31,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Megawatt-Lader: Chery lädt in 6 Minuten und 50 Sekunden auf 97 Prozent Chery hat in China einen eigenen Megawatt-Charger für Elektroautos vorgestellt. Doch es gibt schnellere Konkurrenz. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fb690c97072ccc2c9bbe2ac1",
-      "title": "Baukastensystem: Mercedes will Autofertigung mit austauschbaren Modulen beschleunigen",
-      "url": "https://www.golem.de/news/baukastensystem-mercedes-will-autofertigung-mit-austauschbaren-modulen-beschleunigen-2610-214441.html",
-      "published_at": "2026-10-23T10:33:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Baukastensystem: Mercedes will Autofertigung mit austauschbaren Modulen beschleunigen Ein modulares Baukastensystem soll die Autofertigung bei Mercedes im kommenden Jahrzehnt vereinfachen und beschleunigen. ( Mercedes Benz , Elektroauto )",
       "tags": [],
       "regions": []
     },
