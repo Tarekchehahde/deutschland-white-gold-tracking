@@ -2,35 +2,13 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "3a1c0207f7fef7f7455aa489",
-      "title": "Energiekosten: Zubau von Batteriespeichern hat sich fast verdoppelt",
-      "url": "https://www.golem.de/news/energiekosten-zubau-von-batteriespeichern-hat-sich-fast-verdoppelt-2610-214460.html",
-      "published_at": "2026-10-23T15:11:01Z",
+      "id": "8bbf17bac395d37117e08dd0",
+      "title": "Sicherheit: Polizei stoppt Cybertruck auf der A99",
+      "url": "https://www.golem.de/news/sicherheit-polizei-stoppt-cybertruck-auf-der-a99-2610-214491.html",
+      "published_at": "2026-10-26T06:31:01Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Energiekosten: Zubau von Batteriespeichern hat sich fast verdoppelt Im Vergleich zu 2025 ist die Kapazität neu installierter Akkuspeicher in Deutschland um 91 Prozent gestiegen. Weitere Maßnahmen könnten dies noch beschleunigen. ( Akku , Solarenergie )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d42a7943d9188328606b26bd",
-      "title": "Megawatt-Lader: Chery lädt in 6 Minuten und 50 Sekunden auf 97 Prozent",
-      "url": "https://www.golem.de/news/megawatt-lader-chery-laedt-in-6-minuten-und-50-sekunden-auf-97-prozent-2610-214457.html",
-      "published_at": "2026-10-23T14:16:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Megawatt-Lader: Chery lädt in 6 Minuten und 50 Sekunden auf 97 Prozent Chery hat in China einen eigenen Megawatt-Charger für Elektroautos vorgestellt. Doch es gibt schnellere Konkurrenz. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e2c2643f1e92f5f24873fbe2",
-      "title": "Solarmonitor 2026: Schweizer Photovoltaik-Ausbau bleibt hinter politischen Zielen zurück",
-      "url": "https://www.pv-magazine.de/2026/10/22/solarmonitor-2026-schweizer-photovoltaik-ausbau-bleibt-hinter-politischen-zielen-zurueck/",
-      "published_at": "2026-10-22T12:45:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Solarmonitor 2026: Schweizer Photovoltaik-Ausbau bleibt hinter politischen Zielen zurück Die Schweiz dürfte ihr Solarstromziel für 2030 unter den derzeitigen Rahmenbedingungen um rund vier Terawattstunden verfehlen. Das geht aus dem neuen Solarmonitor von Swissolar hervor. Der Branchenverband hat seine Ausbauszenarien nach dem Rückgang der Photovoltaik-Neuinstallationen überarbeitet und berücksich",
+      "summary": "Sicherheit: Polizei stoppt Cybertruck auf der A99 Ein 50-jähriger Schwede hat einen Tesla Cybertruck mit polnischem Kennzeichen über die A99 gelenkt - allerdings nicht lange. ( Tesla Cybertruck , Elektroauto )",
       "tags": [],
       "regions": []
     },

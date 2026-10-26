@@ -1,17 +1,28 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-25T20:52:07Z",
+  "generated_at_utc": "2026-10-26T11:06:09Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 881,
+  "total_in_archive": 882,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 149
+    "2026-10": 150
   },
   "recent_for_ui": [
+    {
+      "id": "8bbf17bac395d37117e08dd0",
+      "title": "Sicherheit: Polizei stoppt Cybertruck auf der A99",
+      "url": "https://www.golem.de/news/sicherheit-polizei-stoppt-cybertruck-auf-der-a99-2610-214491.html",
+      "published_at": "2026-10-26T06:31:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Sicherheit: Polizei stoppt Cybertruck auf der A99 Ein 50-jähriger Schwede hat einen Tesla Cybertruck mit polnischem Kennzeichen über die A99 gelenkt - allerdings nicht lange. ( Tesla Cybertruck , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "b5d9211035268013ab198ecd",
       "title": "Elektroauto kaufen: Hohe Spritpreise treiben Nachfrage nach E-Autos an",
@@ -4546,19 +4557,6 @@
       "language": "de",
       "summary": "Anzeige: Mobile Wallbox 11 kW mit App und Zubehör zum Aktionspreis für nur rund 160 Euro bei Amazon Die Mobile Wallbox von dé 11 kW mit App-Steuerung lädt mit bis zu 11 kW über CEE-Stecker und ist bei Amazon aktuell reduziert. ( Elektromobilität , Elektroauto )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ad86b6b2f089bd8842e9ed3c",
-      "title": "Hansesun Austria schlägt neues Modell für Photovoltaik-Förderung vor",
-      "url": "https://www.pv-magazine.de/2026/08/14/hansesun-austria-schlaegt-neues-modell-fuer-photovoltaik-foerderung-vor/",
-      "published_at": "2026-08-14T12:57:26Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Hansesun Austria schlägt neues Modell für Photovoltaik-Förderung vor Anstelle eines Investitionszuschusses sollte es für die Förderung von Photovoltaik-Dachanlagen und Batteriespeicher einen Klima-Investitionsfreibetrag geben. Die Steuerersparnis für eine typische Eigenheimanlage würde sich über fünf Jahre auf 2500 Euro summieren.",
-      "tags": [
-        "umwelt"
-      ],
       "regions": []
     }
   ]
