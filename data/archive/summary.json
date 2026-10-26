@@ -1,17 +1,65 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-26T11:06:09Z",
+  "generated_at_utc": "2026-10-26T22:40:50Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 882,
+  "total_in_archive": 886,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 150
+    "2026-10": 154
   },
   "recent_for_ui": [
+    {
+      "id": "76773a75d1de24ac2aa07d31",
+      "title": "Stromverbrauch durch KI: Wer KI-Rechenzentren baut, soll auch für neuen Ökostrom sorgen",
+      "url": "https://www.golem.de/news/rechenzentren-ki-ausbau-nur-weiter-mit-strengen-umweltauflagen-2610-214528.html",
+      "published_at": "2026-10-26T17:36:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Stromverbrauch durch KI: Wer KI-Rechenzentren baut, soll auch für neuen Ökostrom sorgen Ein Elektrotechnikprofessor fordert zusätzliche erneuerbare Energien als Voraussetzung für neue Rechenzentren. Auch Abwärme und Stromspeicher sollen genutzt werden. ( Energie & Klima , GreenIT )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "1a9fc119f10927fdd2a72892",
+      "title": "Beschränkungen auch bei Batteriezellen drohen",
+      "url": "https://www.pv-magazine.de/2026/10/26/beschraenkungen-auch-bei-batteriezellen-drohen/",
+      "published_at": "2026-10-26T14:49:43Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Beschränkungen auch bei Batteriezellen drohen Die EU-Kommission hat die Photovoltaik- und Speicherbranche dieses Jahr mit weiteren geplanten Cybersecurity-Verordnungen aufgeschreckt. Mit dem Industrial Accelerator Act könnten die „Made in EU“-Anforderungen steigen. Solarpower Europe macht sich hingegen dafür stark, hinreichend Anreize für ein resilientes Batteriespeicher-Ökosystem zu schaffen, ohn",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "1c19e76ac47221ad69376c9e",
+      "title": "RWE und Borussia Dortmund nehmen Batteriespeicher am Signal Iduna Park in Betrieb",
+      "url": "https://www.pv-magazine.de/2026/10/26/rwe-und-borussia-dortmund-nehmen-batteriespeicher-am-signal-iduna-park-in-betrieb/",
+      "published_at": "2026-10-26T11:17:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "RWE und Borussia Dortmund nehmen Batteriespeicher am Signal Iduna Park in Betrieb Der Speicher mit 3,7 Megawatt Leistung ergänzt die bereits installierte Photovoltaik-Anlage auf dem Stadiondach. Damit ist das gemeinsame Energiekonzept von RWE und Borussia Dortmund vollständig umgesetzt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5ef8297bb35201895eb42894",
+      "title": "Pumpspeicherwerk: Australiens riesiger Stromspeicher wird sechsmal so teuer",
+      "url": "https://www.golem.de/news/pumpspeicherwerk-australiens-energiewendeprojekt-wird-sechsmal-so-teuer-2610-214502.html",
+      "published_at": "2026-10-26T09:28:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Pumpspeicherwerk: Australiens riesiger Stromspeicher wird sechsmal so teuer Eines der größten Pumpspeicherwerke der Welt kostet jetzt sechsmal so viel wie bei Projektbeginn eingeplant. Fraglich, ob der Aufwand sich lohnt. ( Energiewende , Solarenergie )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "8bbf17bac395d37117e08dd0",
       "title": "Sicherheit: Polizei stoppt Cybertruck auf der A99",
@@ -4509,53 +4557,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Sigenenergy bringt kleinen Batteriespeicher mit KI-gestütztem Managementsystem auf den Markt In der Basisversion hat der Speicher eine Kapazität von 2,68 Kilowattstunden. Das Steuersystem unterstützt dynamische Stromtarife. Sigenenergy gewährt bis Ende August einen Rabatt auf den Kaufpreis.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d80abfb3cb02410906506aa7",
-      "title": "Speyer: Elektrofahrzeug gerät an Ladesäule in Brand",
-      "url": "https://www.pfalz-express.de/speyer-elektrofahrzeug-geraet-an-ladesaeule-in-brand/",
-      "published_at": "2026-08-16T17:32:24Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Speyer: Elektrofahrzeug gerät an Ladesäule in Brand Speyer – Ein Elektroauto hat am Sonntagmorgen auf einem Parkplatz während des Ladevorgangs Feuer gefangen. Auch die Ladesäule brannte. Die Feuerwehr löschte den Wagen unter Atemschutz und kühlte die Hochvoltbatterie über längere Zeit. Als die Temperatur der Batterie wieder anstieg, setzten die Einsatzkräfte zusätzlich ein sogenanntes Fognail-Syst",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "868f20acabe2dbdd16c3c128",
-      "title": "Autonomes Fahren: Waymo darf in Kalifornien deutlich expandieren",
-      "url": "https://www.golem.de/news/autonomes-fahren-waymo-darf-in-kalifornien-deutlich-expandieren-2608-211974.html",
-      "published_at": "2026-08-15T12:05:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Waymo darf in Kalifornien deutlich expandieren Der Robotaxi-Betreiber Waymo darf seinen Dienst in Kalifornien deutlich ausweiten. Es gibt nur wenige Einschränkungen für die autonomen Autos. ( Waymo , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "439fed94ab98875d58242fda",
-      "title": "Tesla-Fabrik Grünheide: Deutsche Bahn verschiebt Eröffnung von neuem Bahnhof",
-      "url": "https://www.golem.de/news/tesla-fabrik-gruenheide-deutsche-bahn-verschiebt-eroeffnung-von-neuem-bahnhof-2608-211973.html",
-      "published_at": "2026-08-15T11:21:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla-Fabrik Grünheide: Deutsche Bahn verschiebt Eröffnung von neuem Bahnhof Die geplante Eröffnung eines neuen Bahnhofs bei der Tesla-Fabrik Grünheide wird kurzfristig verschoben. Brandenburgs Verkehrsminister ist verärgert. ( Gigafactory Berlin , Elektroauto )",
-      "tags": [
-        "industrie",
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "4f217110acbe11380785c369",
-      "title": "Anzeige: Mobile Wallbox 11 kW mit App und Zubehör zum Aktionspreis für nur rund 160 Euro bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-11-kw-mit-app-und-zubehoer-zum-aktionspreis-fuer-nur-rund-160-euro-bei-amazon-2608-211960.html",
-      "published_at": "2026-08-15T08:40:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Mobile Wallbox 11 kW mit App und Zubehör zum Aktionspreis für nur rund 160 Euro bei Amazon Die Mobile Wallbox von dé 11 kW mit App-Steuerung lädt mit bis zu 11 kW über CEE-Stecker und ist bei Amazon aktuell reduziert. ( Elektromobilität , Elektroauto )",
       "tags": [],
       "regions": []
     }
