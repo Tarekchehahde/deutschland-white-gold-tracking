@@ -1,17 +1,28 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-26T22:40:50Z",
+  "generated_at_utc": "2026-10-27T10:32:47Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 886,
+  "total_in_archive": 887,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 154
+    "2026-10": 155
   },
   "recent_for_ui": [
+    {
+      "id": "b56c22bbdb0564e805ffb6f5",
+      "title": "Anzeige: Intelligente Stromspeicher auch für die sonnenarme Zeit",
+      "url": "https://www.golem.de/news/anzeige-intelligente-stromspeicher-auch-fuer-die-sonnenarme-zeit-2610-214399.html",
+      "published_at": "2026-10-27T08:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Intelligente Stromspeicher auch für die sonnenarme Zeit Solarstrom lässt sich nicht immer dann gewinnen, wenn der Verbrauch am höchsten ist. Flexible Speicher können diese zeitliche Lücke schließen- ein Vorteil, der in Herbst und Winter besonders relevant wird. ( Anker , Technik/Hardware )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "76773a75d1de24ac2aa07d31",
       "title": "Stromverbrauch durch KI: Wer KI-Rechenzentren baut, soll auch für neuen Ökostrom sorgen",
@@ -4546,17 +4557,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "IAB-Fähigkeit von Photovoltaik-Direktinvestments mit Grünstromspeicher Photovoltaik-Direktinvestments werden zunehmend mit Batteriespeichern kombiniert. Doch genau diese Konstellation birgt steuerliche Risiken. Steuerberater Sören Steuber erläutert, wann für PV-Anlagen und Grünstromspeicher ein Investitionsabzugsbetrag möglich ist und weshalb im ungünstigsten Fall sogar die Steuerförderung für das",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "94140b52b7fc3450de6aac41",
-      "title": "Sigenenergy bringt kleinen Batteriespeicher mit KI-gestütztem Managementsystem auf den Markt",
-      "url": "https://www.pv-magazine.de/2026/08/17/sigenenergy-bringt-kleinen-batteriespeicher-mit-ki-gestuetztem-managementsystem-auf-den-markt/",
-      "published_at": "2026-08-17T07:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Sigenenergy bringt kleinen Batteriespeicher mit KI-gestütztem Managementsystem auf den Markt In der Basisversion hat der Speicher eine Kapazität von 2,68 Kilowattstunden. Das Steuersystem unterstützt dynamische Stromtarife. Sigenenergy gewährt bis Ende August einen Rabatt auf den Kaufpreis.",
       "tags": [],
       "regions": []
     }
