@@ -2,13 +2,10 @@
   "schema_version": "0.2.0",
   "articles_per_day": {
     "2026-10-21": 1,
-    "2026-10-26": 1,
-    "2026-10-27": 1
+    "2026-10-27": 3
   },
-  "tag_counts": {
-    "umwelt": 1
-  },
+  "tag_counts": {},
   "by_source_category": {
-    "national": 3
+    "national": 4
   }
 }
