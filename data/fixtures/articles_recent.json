@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "b56c22bbdb0564e805ffb6f5",
+      "title": "Anzeige: Intelligente Stromspeicher auch für die sonnenarme Zeit",
+      "url": "https://www.golem.de/news/anzeige-intelligente-stromspeicher-auch-fuer-die-sonnenarme-zeit-2610-214399.html",
+      "published_at": "2026-10-27T08:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Intelligente Stromspeicher auch für die sonnenarme Zeit Solarstrom lässt sich nicht immer dann gewinnen, wenn der Verbrauch am höchsten ist. Flexible Speicher können diese zeitliche Lücke schließen- ein Vorteil, der in Herbst und Winter besonders relevant wird. ( Anker , Technik/Hardware )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "76773a75d1de24ac2aa07d31",
       "title": "Stromverbrauch durch KI: Wer KI-Rechenzentren baut, soll auch für neuen Ökostrom sorgen",
       "url": "https://www.golem.de/news/rechenzentren-ki-ausbau-nur-weiter-mit-strengen-umweltauflagen-2610-214528.html",
@@ -12,52 +23,6 @@
       "tags": [
         "umwelt"
       ],
-      "regions": []
-    },
-    {
-      "id": "1a9fc119f10927fdd2a72892",
-      "title": "Beschränkungen auch bei Batteriezellen drohen",
-      "url": "https://www.pv-magazine.de/2026/10/26/beschraenkungen-auch-bei-batteriezellen-drohen/",
-      "published_at": "2026-10-26T14:49:43Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Beschränkungen auch bei Batteriezellen drohen Die EU-Kommission hat die Photovoltaik- und Speicherbranche dieses Jahr mit weiteren geplanten Cybersecurity-Verordnungen aufgeschreckt. Mit dem Industrial Accelerator Act könnten die „Made in EU“-Anforderungen steigen. Solarpower Europe macht sich hingegen dafür stark, hinreichend Anreize für ein resilientes Batteriespeicher-Ökosystem zu schaffen, ohn",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "1c19e76ac47221ad69376c9e",
-      "title": "RWE und Borussia Dortmund nehmen Batteriespeicher am Signal Iduna Park in Betrieb",
-      "url": "https://www.pv-magazine.de/2026/10/26/rwe-und-borussia-dortmund-nehmen-batteriespeicher-am-signal-iduna-park-in-betrieb/",
-      "published_at": "2026-10-26T11:17:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "RWE und Borussia Dortmund nehmen Batteriespeicher am Signal Iduna Park in Betrieb Der Speicher mit 3,7 Megawatt Leistung ergänzt die bereits installierte Photovoltaik-Anlage auf dem Stadiondach. Damit ist das gemeinsame Energiekonzept von RWE und Borussia Dortmund vollständig umgesetzt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5ef8297bb35201895eb42894",
-      "title": "Pumpspeicherwerk: Australiens riesiger Stromspeicher wird sechsmal so teuer",
-      "url": "https://www.golem.de/news/pumpspeicherwerk-australiens-energiewendeprojekt-wird-sechsmal-so-teuer-2610-214502.html",
-      "published_at": "2026-10-26T09:28:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Pumpspeicherwerk: Australiens riesiger Stromspeicher wird sechsmal so teuer Eines der größten Pumpspeicherwerke der Welt kostet jetzt sechsmal so viel wie bei Projektbeginn eingeplant. Fraglich, ob der Aufwand sich lohnt. ( Energiewende , Solarenergie )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8bbf17bac395d37117e08dd0",
-      "title": "Sicherheit: Polizei stoppt Cybertruck auf der A99",
-      "url": "https://www.golem.de/news/sicherheit-polizei-stoppt-cybertruck-auf-der-a99-2610-214491.html",
-      "published_at": "2026-10-26T06:31:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Sicherheit: Polizei stoppt Cybertruck auf der A99 Ein 50-jähriger Schwede hat einen Tesla Cybertruck mit polnischem Kennzeichen über die A99 gelenkt - allerdings nicht lange. ( Tesla Cybertruck , Elektroauto )",
-      "tags": [],
       "regions": []
     },
     {
