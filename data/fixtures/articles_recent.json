@@ -2,48 +2,46 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "ba22fa28d3f00b78dd68e766",
-      "title": "Vatikan: Ausstellung dokumentiert Wandel der Papamobile seit 100 Jahren",
-      "url": "https://www.spiegel.de/panorama/vatikan-ausstellung-dokumentiert-wandel-der-papamobile-seit-100-jahren-a-74496e1c-d649-48b6-a9a4-9f142985b248",
-      "published_at": "2026-10-28T19:39:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Vatikan: Ausstellung dokumentiert Wandel der Papamobile seit 100 Jahren Vom Luxuswagen bis zum Elektroauto: Die Vatikanischen Museen zeigen acht Papamobile aus der Geschichte der vergangenen 100 Jahre. Die Ausstellung dokumentiert die Anpassung der Fahrzeuge an die Bedürfnisse der Päpste.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "70c637dc8fce36078ece76a9",
-      "title": "Offenbach: Firma vancom arbeitet an der Mobilität der Zukunft – Landrat Seefeldt zu Besuch",
-      "url": "https://www.pfalz-express.de/offenbach-firma-vancom-arbeitet-an-der-mobilitaet-der-zukunft-landrat-seefeldt-zu-besuch/",
-      "published_at": "2026-10-28T14:39:22Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Offenbach: Firma vancom arbeitet an der Mobilität der Zukunft – Landrat Seefeldt zu Besuch Elektromobilität, neue Ladetechnik und mehr als 70 Patentanmeldungen seit 2008: Die Firma vancom aus Offenbach an der Queich arbeitet an technischen Lösungen für die Mobilität der Zukunft. Bei einem Unternehmensbesuch hat sich Landrat Dietmar Seefeldt gemeinsam mit Wirtschaftsförderer Uwe König einen Einblic",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "ebd1e12ae9a8aa74f9969628",
-      "title": "Robotaxis: Musk sieht Konkurrenz mit Waymo als \"keinen echten Wettkampf\"",
-      "url": "https://www.golem.de/news/robotaxis-musk-sieht-konkurrenz-mit-waymo-als-keinen-echten-wettkampf-2610-214591.html",
-      "published_at": "2026-10-28T10:43:01Z",
+      "id": "af5f5af233e97c34f65ca902",
+      "title": "Wegen Porsche und China: Volkswagen meldet 5,82 Milliarden Euro Verlust",
+      "url": "https://www.golem.de/news/wegen-porsche-und-china-volkswagen-meldet-5-82-milliarden-euro-verlust-2610-214630.html",
+      "published_at": "2026-10-29T10:24:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Robotaxis: Musk sieht Konkurrenz mit Waymo als \"keinen echten Wettkampf\" Eine Grafik zu Fahrdaten von Teslas Robotaxis und Waymos Fahrzeugen in Austin wird von Tesla-Fans gefeiert. Zur Wahrheit gehört aber mehr. ( Cybercab , Elektroauto )",
+      "summary": "Wegen Porsche und China: Volkswagen meldet 5,82 Milliarden Euro Verlust Bei Europas größtem Autohersteller läuft es schlechter als erwartet. Was hinter den roten Zahlen von VW steckt. ( VW , Elektroauto )",
       "tags": [],
       "regions": []
     },
     {
-      "id": "e8ca880bc170d6e898bbf7a3",
-      "title": "Elektroautos Q3: Ölpreis und Prämien treiben Europas E-Auto-Absatz",
-      "url": "https://www.faz.net/premium/digitalwirtschaft/mobility/elektroauto-boom-in-europa-oelpreis-und-praemien-treiben-den-absatz-accg-201622368.html",
-      "published_at": "2026-10-28T05:50:00Z",
-      "source_id": "faz-aktuell",
+      "id": "d42ca1102fc5de8317f886de",
+      "title": "Elektro-Mobilität: Europa treibt weltweite Neuzulassungen auf Rekordniveau",
+      "url": "https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau-a-0feecb11-5132-4036-ba30-fe7a22ced433",
+      "published_at": "2026-10-29T06:34:00Z",
+      "source_id": "spiegel-schlagzeilen",
       "language": "de",
-      "summary": "Elektroautos Q3: Ölpreis und Prämien treiben Europas E-Auto-Absatz Der Absatz reiner Elektroautos gewinnt an Tempo. In Deutschland fuhr im September erstmals mehr als jeder dritte Neuwagen elektrisch, und auch in China wächst das Geschäft nach dem Einbruch zu Jahresbeginn wieder. Nur die USA fallen zurück.",
+      "summary": "Elektro-Mobilität: Europa treibt weltweite Neuzulassungen auf Rekordniveau In Europa wurden seit Jahresbeginn laut einer Analyse 2,5 Millionen Elektroautos verkauft. Ein Plus von 42 Prozent. Auch Deutschland holt deutlich auf. Ein Land folgt diesem Trend jedoch nicht.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "da11dcbac8f95b6f33633619",
+      "title": "Sattelschlepper: Tesla Semi geht in Flammen auf",
+      "url": "https://www.golem.de/news/sattelschlepper-tesla-semi-geht-in-flammen-auf-2610-214618.html",
+      "published_at": "2026-10-29T06:26:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Sattelschlepper: Tesla Semi geht in Flammen auf Ein Tesla Semi ist auf der Interstate 880 in Kalifornien in Brand geraten, der Fahrer blieb unverletzt. Die Brandursache ist noch ungeklärt. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9c5b37f8dc98b8bf7182d0b2",
+      "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+      "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+      "published_at": "2026-10-28T22:51:15Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "ULA's Vulcan rocket is set to return to flight on Friday the 13th This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
       "tags": [],
       "regions": []
     },

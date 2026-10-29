@@ -1,17 +1,61 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-28T22:36:09Z",
+  "generated_at_utc": "2026-10-29T11:30:48Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 894,
+  "total_in_archive": 898,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 162
+    "2026-10": 166
   },
   "recent_for_ui": [
+    {
+      "id": "af5f5af233e97c34f65ca902",
+      "title": "Wegen Porsche und China: Volkswagen meldet 5,82 Milliarden Euro Verlust",
+      "url": "https://www.golem.de/news/wegen-porsche-und-china-volkswagen-meldet-5-82-milliarden-euro-verlust-2610-214630.html",
+      "published_at": "2026-10-29T10:24:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Wegen Porsche und China: Volkswagen meldet 5,82 Milliarden Euro Verlust Bei Europas größtem Autohersteller läuft es schlechter als erwartet. Was hinter den roten Zahlen von VW steckt. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d42ca1102fc5de8317f886de",
+      "title": "Elektro-Mobilität: Europa treibt weltweite Neuzulassungen auf Rekordniveau",
+      "url": "https://www.spiegel.de/wirtschaft/elektroautos-europa-treibt-weltweite-neuzulassungen-auf-rekordniveau-a-0feecb11-5132-4036-ba30-fe7a22ced433",
+      "published_at": "2026-10-29T06:34:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektro-Mobilität: Europa treibt weltweite Neuzulassungen auf Rekordniveau In Europa wurden seit Jahresbeginn laut einer Analyse 2,5 Millionen Elektroautos verkauft. Ein Plus von 42 Prozent. Auch Deutschland holt deutlich auf. Ein Land folgt diesem Trend jedoch nicht.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "da11dcbac8f95b6f33633619",
+      "title": "Sattelschlepper: Tesla Semi geht in Flammen auf",
+      "url": "https://www.golem.de/news/sattelschlepper-tesla-semi-geht-in-flammen-auf-2610-214618.html",
+      "published_at": "2026-10-29T06:26:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Sattelschlepper: Tesla Semi geht in Flammen auf Ein Tesla Semi ist auf der Interstate 880 in Kalifornien in Brand geraten, der Fahrer blieb unverletzt. Die Brandursache ist noch ungeklärt. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9c5b37f8dc98b8bf7182d0b2",
+      "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+      "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+      "published_at": "2026-10-28T22:51:15Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "ULA's Vulcan rocket is set to return to flight on Friday the 13th This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "ba22fa28d3f00b78dd68e766",
       "title": "Vatikan: Ausstellung dokumentiert Wandel der Papamobile seit 100 Jahren",
@@ -4512,53 +4556,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "PV&B Austria veröffentlicht aktualisierten Brandschutzleitfaden Der österreichische Branchenverband PV&#38;B Austria hat seinen Leitfaden zum Brandschutz bei Photovoltaik-Anlagen und Batteriespeichern überarbeitet. Neu aufgenommen wurden unter anderem die technischen Richtlinien für Photovoltaik-Freiflächenanlagen sowie für Batteriespeichersysteme ab 250 Kilowattstunden. Auch neue Erkenntnisse aus",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bda5fdf49d62a75fd627143e",
-      "title": "heise+ | Elektroautos laden: Welche Vor- und Nachteile das induktive Laden hat",
-      "url": "https://www.heise.de/hintergrund/Elektroautos-laden-Welche-Vor-und-Nachteile-das-induktive-Laden-hat-11375342.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-08-19T05:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Elektroautos laden: Welche Vor- und Nachteile das induktive Laden hat Das kabellose Laden fürs E-Auto funktioniert technisch schon lange, doch nur Porsche bietet das für einen hohen Aufpreis an. Kommt in Zukunft mehr?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dc4ee792cffb1c648f8e3ef4",
-      "title": "DUH und Green Planet Energy legen EU-Beschwerde gegen StromVKG ein",
-      "url": "https://www.pv-magazine.de/2026/08/18/duh-und-green-planet-energy-legen-eu-beschwerde-gegen-stromvkg-ein/",
-      "published_at": "2026-08-18T09:47:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "DUH und Green Planet Energy legen EU-Beschwerde gegen StromVKG ein Die Deutsche Umwelthilfe und Green Planet Energy haben bei der EU-Kommission Beschwerde gegen das Stromversorgungssicherheits- und Kapazitätsgesetz eingereicht. Sie kritisieren, dass die Ausschreibungen für gesicherte Langzeitkapazitäten zwar formal technologieoffen sind, die technischen Anforderungen jedoch unter anderem Batteries",
-      "tags": [
-        "politik",
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "3c4320c29e6e788313161ee5",
-      "title": "Phosgo Go 5: Dieses E-Bike lädt sich selbst über Solarpaneele in den Felgen",
-      "url": "https://www.golem.de/news/phosgo-go-5-dieses-e-bike-laedt-sich-selbst-ueber-solarpaneele-in-den-felgen-2608-212030.html",
-      "published_at": "2026-08-18T08:31:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Phosgo Go 5: Dieses E-Bike lädt sich selbst über Solarpaneele in den Felgen Das Phosgo Go 5 soll sich pro Tag für 27 Kilometer Reichweite selbst aufladen können. Es wehen aber einige rote Flaggen über dem E-Bike. ( E-Bike , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e4a7ffaee0f04b5254fce754",
-      "title": "Photovoltaik stabilisiert das französische Stromnetz bei Hitzewellen und sinkender Kernkraftleistung",
-      "url": "https://www.pv-magazine.de/2026/08/18/photovoltaik-stabilisiert-das-franzoesische-stromnetz-bei-hitzewellen-und-sinkender-kernkraftleistung/",
-      "published_at": "2026-08-18T07:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Photovoltaik stabilisiert das französische Stromnetz bei Hitzewellen und sinkender Kernkraftleistung Hitzewellen und Dürre haben zur Abschaltung mehrerer französischer Kernreaktoren geführt, während eine starke Solarstromerzeugung zur Stabilisierung des Netzes beigetragen hat. Da die Photovoltaik-Leistung nach Sonnenuntergang zurückgeht, könnten Batteriespeicher helfen, den hohen Abendbedarf zu de",
       "tags": [],
       "regions": []
     }
