@@ -1,8 +1,30 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 166,
+  "article_count": 169,
   "articles": [
+    {
+      "id": "35748c960e11e94d0de89850",
+      "title": "1Komma5° und 2G Energy verkünden Technologiepartnerschaft – Heartbeat AI für KI-Rechenzentren",
+      "url": "https://www.pv-magazine.de/2026/10/29/1komma5-und-2g-energy-verkuenden-technologiepartnerschaft-heartbeat-ai-fuer-ki-rechenzentren/",
+      "published_at": "2026-10-29T19:14:13Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "1Komma5° und 2G Energy verkünden Technologiepartnerschaft – Heartbeat AI für KI-Rechenzentren Das Hamburger Start-up und 2G Energy wollen gemeinsam die Stromversorgung von KI-Rechenzentren übernehmen. Dabei soll Heartbeat AI Gasmotoren, Photovoltaikanlagen und Batteriespeicher steuern und die Stromvermarktung optimieren. Auch Solarkunden von 1Komma5° könnten davon profitieren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9d5799ee52e52937ba31466f",
+      "title": "Vom Handelsasset zur Systemressource",
+      "url": "https://www.pv-magazine.de/2026/10/29/vom-handelsasset-zur-systemressource/",
+      "published_at": "2026-10-29T13:59:14Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Vom Handelsasset zur Systemressource Großbatteriespeicher können wesentliche Funktionen für den resilienten Systembetrieb konventioneller Kraftwerke ergänzen oder teilweise übernehmen. Ob sie dabei zu belastbaren Systemressourcen werden, entscheidet sich jedoch nicht an der Zahl installierter Megawattstunden, sondern an ihrer technischen Auslegung, ihrer Einbindung in Netz- und Systemdienstleistun",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "af5f5af233e97c34f65ca902",
       "title": "Wegen Porsche und China: Volkswagen meldet 5,82 Milliarden Euro Verlust",
@@ -43,7 +65,7 @@
       "published_at": "2026-10-28T22:51:15Z",
       "source_id": "arstechnica-all",
       "language": "en",
-      "summary": "ULA's Vulcan rocket is set to return to flight on Friday the 13th This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+      "summary": "ULA's Vulcan rocket is set to return to flight on Friday the 13th This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
       "tags": [],
       "regions": []
     },
@@ -69,6 +91,17 @@
       "tags": [
         "industrie"
       ],
+      "regions": []
+    },
+    {
+      "id": "fd0c053294cdfa66c29c7c93",
+      "title": "Aufschwung am Großhandelsmarkt: Batterieerlöse im September",
+      "url": "https://www.pv-magazine.de/2026/10/28/aufschwung-am-grosshandelsmarkt-batterieerloese-im-september/",
+      "published_at": "2026-10-28T12:43:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Aufschwung am Großhandelsmarkt: Batterieerlöse im September Im September erholten sich die Großhandelserlöse deutlich. Steigende Strompreise und größere Preisspannen eröffneten Batteriespeichern wieder attraktivere Handelsmöglichkeiten. Dr. Lennard Wilkening, CEO und Mitgründer von Suena Energy, beleuchtet die Entwicklungen am deutschen Strommarkt und ihre Auswirkungen auf die Speichererlöse.",
+      "tags": [],
       "regions": []
     },
     {
