@@ -1,17 +1,39 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-29T11:30:48Z",
+  "generated_at_utc": "2026-10-29T22:45:38Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 898,
+  "total_in_archive": 901,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 166
+    "2026-10": 169
   },
   "recent_for_ui": [
+    {
+      "id": "35748c960e11e94d0de89850",
+      "title": "1Komma5° und 2G Energy verkünden Technologiepartnerschaft – Heartbeat AI für KI-Rechenzentren",
+      "url": "https://www.pv-magazine.de/2026/10/29/1komma5-und-2g-energy-verkuenden-technologiepartnerschaft-heartbeat-ai-fuer-ki-rechenzentren/",
+      "published_at": "2026-10-29T19:14:13Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "1Komma5° und 2G Energy verkünden Technologiepartnerschaft – Heartbeat AI für KI-Rechenzentren Das Hamburger Start-up und 2G Energy wollen gemeinsam die Stromversorgung von KI-Rechenzentren übernehmen. Dabei soll Heartbeat AI Gasmotoren, Photovoltaikanlagen und Batteriespeicher steuern und die Stromvermarktung optimieren. Auch Solarkunden von 1Komma5° könnten davon profitieren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "9d5799ee52e52937ba31466f",
+      "title": "Vom Handelsasset zur Systemressource",
+      "url": "https://www.pv-magazine.de/2026/10/29/vom-handelsasset-zur-systemressource/",
+      "published_at": "2026-10-29T13:59:14Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Vom Handelsasset zur Systemressource Großbatteriespeicher können wesentliche Funktionen für den resilienten Systembetrieb konventioneller Kraftwerke ergänzen oder teilweise übernehmen. Ob sie dabei zu belastbaren Systemressourcen werden, entscheidet sich jedoch nicht an der Zahl installierter Megawattstunden, sondern an ihrer technischen Auslegung, ihrer Einbindung in Netz- und Systemdienstleistun",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "af5f5af233e97c34f65ca902",
       "title": "Wegen Porsche und China: Volkswagen meldet 5,82 Milliarden Euro Verlust",
@@ -52,7 +74,7 @@
       "published_at": "2026-10-28T22:51:15Z",
       "source_id": "arstechnica-all",
       "language": "en",
-      "summary": "ULA's Vulcan rocket is set to return to flight on Friday the 13th This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+      "summary": "ULA's Vulcan rocket is set to return to flight on Friday the 13th This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
       "tags": [],
       "regions": []
     },
@@ -78,6 +100,17 @@
       "tags": [
         "industrie"
       ],
+      "regions": []
+    },
+    {
+      "id": "fd0c053294cdfa66c29c7c93",
+      "title": "Aufschwung am Großhandelsmarkt: Batterieerlöse im September",
+      "url": "https://www.pv-magazine.de/2026/10/28/aufschwung-am-grosshandelsmarkt-batterieerloese-im-september/",
+      "published_at": "2026-10-28T12:43:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Aufschwung am Großhandelsmarkt: Batterieerlöse im September Im September erholten sich die Großhandelserlöse deutlich. Steigende Strompreise und größere Preisspannen eröffneten Batteriespeichern wieder attraktivere Handelsmöglichkeiten. Dr. Lennard Wilkening, CEO und Mitgründer von Suena Energy, beleuchtet die Entwicklungen am deutschen Strommarkt und ihre Auswirkungen auf die Speichererlöse.",
+      "tags": [],
       "regions": []
     },
     {
@@ -4523,39 +4556,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Bayernwerk definiert neue Kriterien für den Netzanschluss großer Speicher und Verbraucher Das neue Verfahren gilt für nur Graustrom-Batteriespeicher mit mehr als 300 Kilowatt Leistung sowie für Bezugskunden mit einem Leistungsbedarf von mehr als 1.000 Kilowatt. Neben dem Reifegrad berücksichtigt das Bayernwerk unter anderem eine effiziente Netznutzung, etwa der Flexibilitätsbereitschaft sowie der ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f3515f6e147527cb797bd266",
-      "title": "Model Y L: Hinweise auf europäischen Start des längeren Tesla Model Y",
-      "url": "https://www.golem.de/news/model-y-l-hinweise-deuten-auf-europaeischen-start-des-laengeren-tesla-model-y-2608-212083.html",
-      "published_at": "2026-08-19T09:26:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Model Y L: Hinweise auf europäischen Start des längeren Tesla Model Y Drei Sitzreihen, ein großer Akku und noch länger: Das Tesla Model Y L wird wohl bald auch in Europa verkauft. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8544ef296699e79e7ecd3013",
-      "title": "Förderung von Elektroautos: Wie muss die Kaufprämie reformiert werden?",
-      "url": "https://www.golem.de/news/foerderung-von-elektroautos-wie-muss-die-kaufpraemie-reformiert-werden-2608-212068.html",
-      "published_at": "2026-08-19T08:30:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Förderung von Elektroautos: Wie muss die Kaufprämie reformiert werden? Geförderte Luxusautos und viele Fahrzeuge aus chinesischer Produktion: An den Modalitäten der Kaufprämie für E-Autos wächst die Kritik. Eine Analyse von Friedhelm Greis ( Elektroauto , Politik )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e2e91380ee66d10875c84f41",
-      "title": "PV&B Austria veröffentlicht aktualisierten Brandschutzleitfaden",
-      "url": "https://www.pv-magazine.de/2026/08/19/pvb-austria-veroeffentlicht-aktualisierten-brandschutzleitfaden/",
-      "published_at": "2026-08-19T07:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "PV&B Austria veröffentlicht aktualisierten Brandschutzleitfaden Der österreichische Branchenverband PV&#38;B Austria hat seinen Leitfaden zum Brandschutz bei Photovoltaik-Anlagen und Batteriespeichern überarbeitet. Neu aufgenommen wurden unter anderem die technischen Richtlinien für Photovoltaik-Freiflächenanlagen sowie für Batteriespeichersysteme ab 250 Kilowattstunden. Auch neue Erkenntnisse aus",
       "tags": [],
       "regions": []
     }
