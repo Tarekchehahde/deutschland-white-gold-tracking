@@ -2,6 +2,28 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "eaf1bfb18bd7191a495155e6",
+      "title": "Quartalszahlen: Audi-Gewinn bricht ein",
+      "url": "https://www.golem.de/news/quartalszahlen-audi-gewinn-bricht-ein-2610-214678.html",
+      "published_at": "2026-10-30T11:19:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Quartalszahlen: Audi-Gewinn bricht ein Im dritten Quartal 2026 hat Audi nur 13,2 Prozent des Gewinns aus dem Vorjahresquartal erzielt. Die Prognose fürs gesamte Jahr wird angepasst. ( Audi , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "bac6ba18686a235e6d50520d",
+      "title": "EP Cube bereitet Batteriespeicher auf Direktvermarktung in der EEG-Novelle vor",
+      "url": "https://www.pv-magazine.de/2026/10/30/ep-cube-bereitet-batteriespeicher-auf-direktvermarktung-in-der-eeg-novelle-vor/",
+      "published_at": "2026-10-30T09:31:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "EP Cube bereitet Batteriespeicher auf Direktvermarktung in der EEG-Novelle vor Mit der derzeit diskutierten EEG-Novelle wird die Direktvermarktung vermutlich auch für kleine Photovoltaik-Anlagen zum Normalfall. Susanne Pflug, Chief Commercial Officer von Eternal Planet, erläutert im Interview, was das für die EP Cube-Batteriespeicher bedeutet und warum sie intelligente Lösungen gegenüber der gepla",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "35748c960e11e94d0de89850",
       "title": "1Komma5° und 2G Energy verkünden Technologiepartnerschaft – Heartbeat AI für KI-Rechenzentren",
       "url": "https://www.pv-magazine.de/2026/10/29/1komma5-und-2g-energy-verkuenden-technologiepartnerschaft-heartbeat-ai-fuer-ki-rechenzentren/",
@@ -24,17 +46,6 @@
       "regions": []
     },
     {
-      "id": "af5f5af233e97c34f65ca902",
-      "title": "Wegen Porsche und China: Volkswagen meldet 5,82 Milliarden Euro Verlust",
-      "url": "https://www.golem.de/news/wegen-porsche-und-china-volkswagen-meldet-5-82-milliarden-euro-verlust-2610-214630.html",
-      "published_at": "2026-10-29T10:24:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Wegen Porsche und China: Volkswagen meldet 5,82 Milliarden Euro Verlust Bei Europas größtem Autohersteller läuft es schlechter als erwartet. Was hinter den roten Zahlen von VW steckt. ( VW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "9c5b37f8dc98b8bf7182d0b2",
       "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
       "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
@@ -42,17 +53,6 @@
       "source_id": "arstechnica-all",
       "language": "en",
       "summary": "ULA's Vulcan rocket is set to return to flight on Friday the 13th This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fd0c053294cdfa66c29c7c93",
-      "title": "Aufschwung am Großhandelsmarkt: Batterieerlöse im September",
-      "url": "https://www.pv-magazine.de/2026/10/28/aufschwung-am-grosshandelsmarkt-batterieerloese-im-september/",
-      "published_at": "2026-10-28T12:43:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Aufschwung am Großhandelsmarkt: Batterieerlöse im September Im September erholten sich die Großhandelserlöse deutlich. Steigende Strompreise und größere Preisspannen eröffneten Batteriespeichern wieder attraktivere Handelsmöglichkeiten. Dr. Lennard Wilkening, CEO und Mitgründer von Suena Energy, beleuchtet die Entwicklungen am deutschen Strommarkt und ihre Auswirkungen auf die Speichererlöse.",
       "tags": [],
       "regions": []
     },
