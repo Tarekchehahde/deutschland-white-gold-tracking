@@ -2,6 +2,28 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "6f1914f193e5840704b7b1a9",
+      "title": "Sparmaßname: VW pausiert Entwicklung des ID.Golf",
+      "url": "https://www.golem.de/news/sparmassname-vw-pausiert-entwicklung-des-id-golf-2610-214693.html",
+      "published_at": "2026-10-30T14:16:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Sparmaßname: VW pausiert Entwicklung des ID.Golf Erst wurde der ID.Golf auf das nächste Jahrzehnt verschoben, jetzt wird die Entwicklung vorerst pausiert. Der Grund: VW muss sparen. ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "77b21849ee3529c786cfba27",
+      "title": "Uniper und Stadtwerke Lippstadt schließen Tolling-Vertrag für 42-Megawattstunden-Speicher",
+      "url": "https://www.pv-magazine.de/2026/10/30/uniper-und-stadtwerke-lippstadt-schliessen-tolling-vertrag-fuer-42-megawattstunden-speicher/",
+      "published_at": "2026-10-30T12:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Uniper und Stadtwerke Lippstadt schließen Tolling-Vertrag für 42-Megawattstunden-Speicher Die Laufzeit der Vereinbarung beträgt sieben Jahre. Uniper übernimmt die Vermarktung und Optimierung des 20-Megawatt-Batteriespeichers in Roßfeld, der 2027 ans Netz gehen soll.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "eaf1bfb18bd7191a495155e6",
       "title": "Quartalszahlen: Audi-Gewinn bricht ein",
       "url": "https://www.golem.de/news/quartalszahlen-audi-gewinn-bricht-ein-2610-214678.html",
@@ -9,6 +31,17 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Quartalszahlen: Audi-Gewinn bricht ein Im dritten Quartal 2026 hat Audi nur 13,2 Prozent des Gewinns aus dem Vorjahresquartal erzielt. Die Prognose fürs gesamte Jahr wird angepasst. ( Audi , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5ba2be4ee7a1688b0156bff2",
+      "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+      "published_at": "2026-10-30T11:00:35Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
       "tags": [],
       "regions": []
     },
