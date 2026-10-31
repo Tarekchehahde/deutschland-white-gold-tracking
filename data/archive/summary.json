@@ -1,17 +1,50 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-10-30T22:21:17Z",
+  "generated_at_utc": "2026-10-31T10:55:16Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 906,
+  "total_in_archive": 909,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 174
+    "2026-10": 177
   },
   "recent_for_ui": [
+    {
+      "id": "e71a000d926bff242c8deb2f",
+      "title": "Robotaxi: Waymos verstopfen öffentliche Ladestationen und nerven Anwohner",
+      "url": "https://www.golem.de/news/robotaxi-waymos-verstopfen-oeffentliche-ladestationen-und-nerven-anwohner-2610-214714.html",
+      "published_at": "2026-10-31T10:32:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Robotaxi: Waymos verstopfen öffentliche Ladestationen und nerven Anwohner Waymo verwendet eigene Ladedepots für seine Robotaxis, weicht aber auch auf öffentliche Ladestationen aus - und nervt damit andere Elektroautofahrer. ( Waymo , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1d113e479eaf6fd67e83cfb1",
+      "title": "Xpeng L05: China zeigt, was Europa erwartet",
+      "url": "https://www.golem.de/news/xpeng-l05-china-zeigt-was-europa-erwartet-2610-214696.html",
+      "published_at": "2026-10-31T09:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Xpeng L05: China zeigt, was Europa erwartet In China läuft das neue Familien-SUV Xpeng L05 bereits vom Band. Das E-Fahrzeug soll im Januar in Deutschland vorgestellt werden. ( Xpeng , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "999f4bb47f3747cb63e61c57",
+      "title": "Weniger Diesel: Der Bodensee soll seine erste Elektro-Fähre bekommen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/neue-tabor-bodensee-soll-erste-elektro-faehre-kriegen-accg-201638853.html",
+      "published_at": "2026-10-31T08:49:12Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Weniger Diesel: Der Bodensee soll seine erste Elektro-Fähre bekommen Batterien statt Diesel: Die Stadtwerke Konstanz möchten eine ihrer Bodensee-Autofähren umrüsten und neue Ladepunkte schaffen. Darum geht es.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "6f1914f193e5840704b7b1a9",
       "title": "Sparmaßname: VW pausiert Entwicklung des ID.Golf",
@@ -4523,39 +4556,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Inoffizielle Importe nach Deutschland: Importeur vertreibt China-Stromer von Audi Ein Händler bietet die China-Modelle Audi E5 Sportback und E7X in Deutschland an. Der Vertrieb birgt aber rechtliche Risiken. ( Audi , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3f9cea4d49afc824b0a68f8c",
-      "title": "Streit über E-Autos: Veraltete Emissionsregeln",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/emissionsregeln-droht-volkswagen-eine-milliardenstrafe-201144192.html",
-      "published_at": "2026-08-20T19:41:31Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Streit über E-Autos: Veraltete Emissionsregeln Dass der Ausbau der Elektromobilität viel länger dauert, als Politiker und Bürokraten das einst geplant haben, ist bekannt. Das muss Konsequenzen für die Strafzahlungen haben.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "66bcc0cd927c800b26495304",
-      "title": "Flottenemissionen: Volkswagen drohen Milliardenstrafen der EU",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/co-emissionen-volkswagen-drohen-milliardenstrafen-der-eu-201143540.html",
-      "published_at": "2026-08-20T17:04:30Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Flottenemissionen: Volkswagen drohen Milliardenstrafen der EU Weil Volkswagen zu wenig Elektroautos verkauft, werden die europäischen Grenzwerte für CO₂-Emissionen nicht eingehalten. Das kann teuer werden. Für die Tochtergesellschaft Porsche deutet sich eine Lösung unter chinesischer Beteiligung an.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "33c301edbe65aa20a164b6fa",
-      "title": "Autonomes Fahren: Tesla-Robotaxi durchbricht detektierte Poller-Barriere",
-      "url": "https://www.golem.de/news/autonomes-fahren-tesla-robotaxi-durchbricht-detektierte-poller-barriere-2608-212129.html",
-      "published_at": "2026-08-20T10:41:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Tesla-Robotaxi durchbricht detektierte Poller-Barriere Angeblich will Tesla sein autonomes Cybercab noch in August 2026 in Betrieb nehmen. Doch die Software trifft bisweilen merkwürdige Entscheidungen. ( Cybercab , Elektroauto )",
       "tags": [],
       "regions": []
     }
