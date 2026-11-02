@@ -1,7 +1,7 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-10",
-  "article_count": 177,
+  "article_count": 176,
   "articles": [
     {
       "id": "e71a000d926bff242c8deb2f",
@@ -1982,17 +1982,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Bundesnetzagentur beschließt MiSpeL-Regeln für Speicher und bidirektionales Laden Die Bundesnetzagentur hat am Donnerstag die Festlegung zur Marktintegration von Stromspeichern und Ladepunkten beschlossen. Damit können Speicher künftig Solar- und Netzstrom aufnehmen, ohne dass für den zwischengespeicherten Solarstrom die EEG-Förderung verloren geht. Für Haushalte mit Photovoltaik-Anlagen bis 30 Ki",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3ab4245e98f00ae20f34625c",
-      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-10-01T07:50:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
       "tags": [],
       "regions": []
     },

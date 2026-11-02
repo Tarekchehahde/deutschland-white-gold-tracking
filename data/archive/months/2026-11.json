@@ -1,0 +1,75 @@
+{
+  "schema_version": "0.3.0",
+  "month": "2026-11",
+  "article_count": 6,
+  "articles": [
+    {
+      "id": "8930b7bf238404731ae165bc",
+      "title": "Ein Kompass für den Vorschriftendschungel rund um Elektromobilität",
+      "url": "https://www.pv-magazine.de/2026/11/02/ein-kompass-fuer-den-vorschriftendschungel-rund-um-elektromobilitaet/",
+      "published_at": "2026-11-02T13:19:04Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Ein Kompass für den Vorschriftendschungel rund um Elektromobilität Der neue „Vorschriftenkompass“ der eMobile Academy bündelt mehr als 60 Gesetze, Vorschriften und Richtlinien. Er soll bei Planung und Betrieb von Ladeinfrastruktur rechtliche Orientierung geben und die Verantwortlichen vor unwissentlichen Rechtsverstößen bewahren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e6ee31c7abfe20ae447fd70f",
+      "title": "Keine Degradation: Batteriespeicher aus vermeintlichem Elektroschrott",
+      "url": "https://www.golem.de/news/keine-degradation-batteriespeicher-aus-vermeintlichem-elektroschrott-2611-214753.html",
+      "published_at": "2026-11-02T12:16:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Keine Degradation: Batteriespeicher aus vermeintlichem Elektroschrott Ein Freiburger Start-up vertreibt stationäre Speicher, die aus alten E-Scootern stammen. Die Kapazität wird zehn Jahre lang garantiert, ohne Verlust. ( Energiewende , GreenIT )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "424e22200e3e4206a428ba8a",
+      "title": "Spotmyenergy bietet Bonustarif mit Festpreis für Wärmepumpen, Wallboxen und Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/11/02/spotmyenergy-bietet-bonustarif-mit-festpreis-fuer-waermepumpen-wallboxen-und-batteriespeicher/",
+      "published_at": "2026-11-02T10:27:10Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Spotmyenergy bietet Bonustarif mit Festpreis für Wärmepumpen, Wallboxen und Batteriespeicher Nach Angaben des Unternehmens ist der vor allem für Besitzer von Wärmepumpen, Elektroautos und Batteriespeichern gedachte Bonustarif der erste seiner Art. Kunden sollen von günstigen Stromhandelspreisen profitieren, zahlen aber einen festen Arbeitspreis.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "6dbce46a8dda15c03d93eaee",
+      "title": "Elektro-Lkw: Elektromobilität benötigt bessere Stromvermarktung",
+      "url": "https://www.golem.de/news/elektro-lkw-elektromobilitaet-benoetigt-bessere-stromvermarktung-2611-214747.html",
+      "published_at": "2026-11-02T10:27:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektro-Lkw: Elektromobilität benötigt bessere Stromvermarktung Der Umstieg auf batteriebetriebene Lkw-Flotten kann die Energiekosten noch stärker senken, wenn das ganze Potenzial der Stromspeicher genutzt wird. ( Elektromobilität , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "33ea8bfd102777d256f80272",
+      "title": "Symbiotic Drive: Auch BMW stellt Selbstfahrassistenten vor",
+      "url": "https://www.golem.de/news/symbiotic-drive-auch-bmw-stellt-selbstfahrassistenten-vor-2611-214746.html",
+      "published_at": "2026-11-02T09:57:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Symbiotic Drive: Auch BMW stellt Selbstfahrassistenten vor Nach Mercedes-Benz bringt auch BMW einen neuen Fahrassistenten nach Deutschland. Symbiotic Drive soll auch in der Stadt abbiegen können. ( BMW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3ab4245e98f00ae20f34625c",
+      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-11-02T09:01:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
+      "tags": [],
+      "regions": []
+    }
+  ]
+}

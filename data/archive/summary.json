@@ -1,17 +1,86 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-01T22:03:01Z",
+  "generated_at_utc": "2026-11-02T13:29:23Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 909,
+  "total_in_archive": 914,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
     "2026-07": 170,
     "2026-08": 125,
     "2026-09": 175,
-    "2026-10": 177
+    "2026-10": 176,
+    "2026-11": 6
   },
   "recent_for_ui": [
+    {
+      "id": "8930b7bf238404731ae165bc",
+      "title": "Ein Kompass für den Vorschriftendschungel rund um Elektromobilität",
+      "url": "https://www.pv-magazine.de/2026/11/02/ein-kompass-fuer-den-vorschriftendschungel-rund-um-elektromobilitaet/",
+      "published_at": "2026-11-02T13:19:04Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Ein Kompass für den Vorschriftendschungel rund um Elektromobilität Der neue „Vorschriftenkompass“ der eMobile Academy bündelt mehr als 60 Gesetze, Vorschriften und Richtlinien. Er soll bei Planung und Betrieb von Ladeinfrastruktur rechtliche Orientierung geben und die Verantwortlichen vor unwissentlichen Rechtsverstößen bewahren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e6ee31c7abfe20ae447fd70f",
+      "title": "Keine Degradation: Batteriespeicher aus vermeintlichem Elektroschrott",
+      "url": "https://www.golem.de/news/keine-degradation-batteriespeicher-aus-vermeintlichem-elektroschrott-2611-214753.html",
+      "published_at": "2026-11-02T12:16:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Keine Degradation: Batteriespeicher aus vermeintlichem Elektroschrott Ein Freiburger Start-up vertreibt stationäre Speicher, die aus alten E-Scootern stammen. Die Kapazität wird zehn Jahre lang garantiert, ohne Verlust. ( Energiewende , GreenIT )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "424e22200e3e4206a428ba8a",
+      "title": "Spotmyenergy bietet Bonustarif mit Festpreis für Wärmepumpen, Wallboxen und Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/11/02/spotmyenergy-bietet-bonustarif-mit-festpreis-fuer-waermepumpen-wallboxen-und-batteriespeicher/",
+      "published_at": "2026-11-02T10:27:10Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Spotmyenergy bietet Bonustarif mit Festpreis für Wärmepumpen, Wallboxen und Batteriespeicher Nach Angaben des Unternehmens ist der vor allem für Besitzer von Wärmepumpen, Elektroautos und Batteriespeichern gedachte Bonustarif der erste seiner Art. Kunden sollen von günstigen Stromhandelspreisen profitieren, zahlen aber einen festen Arbeitspreis.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "6dbce46a8dda15c03d93eaee",
+      "title": "Elektro-Lkw: Elektromobilität benötigt bessere Stromvermarktung",
+      "url": "https://www.golem.de/news/elektro-lkw-elektromobilitaet-benoetigt-bessere-stromvermarktung-2611-214747.html",
+      "published_at": "2026-11-02T10:27:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektro-Lkw: Elektromobilität benötigt bessere Stromvermarktung Der Umstieg auf batteriebetriebene Lkw-Flotten kann die Energiekosten noch stärker senken, wenn das ganze Potenzial der Stromspeicher genutzt wird. ( Elektromobilität , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "33ea8bfd102777d256f80272",
+      "title": "Symbiotic Drive: Auch BMW stellt Selbstfahrassistenten vor",
+      "url": "https://www.golem.de/news/symbiotic-drive-auch-bmw-stellt-selbstfahrassistenten-vor-2611-214746.html",
+      "published_at": "2026-11-02T09:57:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Symbiotic Drive: Auch BMW stellt Selbstfahrassistenten vor Nach Mercedes-Benz bringt auch BMW einen neuen Fahrassistenten nach Deutschland. Symbiotic Drive soll auch in der Stadt abbiegen können. ( BMW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3ab4245e98f00ae20f34625c",
+      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-11-02T09:01:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e71a000d926bff242c8deb2f",
       "title": "Robotaxi: Waymos verstopfen öffentliche Ladestationen und nerven Anwohner",
@@ -1991,17 +2060,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Bundesnetzagentur beschließt MiSpeL-Regeln für Speicher und bidirektionales Laden Die Bundesnetzagentur hat am Donnerstag die Festlegung zur Marktintegration von Stromspeichern und Ladepunkten beschlossen. Damit können Speicher künftig Solar- und Netzstrom aufnehmen, ohne dass für den zwischengespeicherten Solarstrom die EEG-Förderung verloren geht. Für Haushalte mit Photovoltaik-Anlagen bis 30 Ki",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3ab4245e98f00ae20f34625c",
-      "title": "heise+ | Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-10-01T07:50:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Ladetarife für Elektroautos im Vergleich Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
       "tags": [],
       "regions": []
     },
@@ -4495,67 +4553,6 @@
       "source_id": "dw-wirtschaft",
       "language": "de",
       "summary": "Tesla ruft in China fast drei Millionen Autos zurück Probleme mit der Notentriegelung der Türen zwingen Tesla zu einer groß angelegten Rückrufaktion in China. Die chinesischen Behörden verschärfen zugleich die Sicherheitsvorgaben für alle Elektroautos.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "494cfe9bfd90387b28fe4130",
-      "title": "Heidelberg bekräftigt Partnerschaft mit Phenogy zur Produktion von Natrium-Ionen-Batteriespeichern",
-      "url": "https://www.pv-magazine.de/2026/08/21/heidelberg-bekraeftigt-partnerschaft-mit-phenogy-zur-produktion-von-natrium-ionen-batteriespeichern/",
-      "published_at": "2026-08-21T13:05:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Heidelberg bekräftigt Partnerschaft mit Phenogy zur Produktion von Natrium-Ionen-Batteriespeichern Das Technologieunternehmen bestätigt zum Auftakt seines neuen Geschäftsjahrs das Ziel, gemeinsam mit seinem Schweizer Partner Batteriespeichersysteme zu fertigen und perspektivisch Natrium-Ionen-Batteriezellen auf Basis der Phenogy-Zellchemie aufzubauen.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "adeab26c05af51a09d6b6953",
-      "title": "Österreichs Wirtschaftsministerium kündigt Speicher-Offensive an und umreißt Pläne für neue Solarförderung",
-      "url": "https://www.pv-magazine.de/2026/08/21/oesterreichs-wirtschaftsministerium-kuendigt-speicher-offensive-an-und-umreisst-plaene-fuer-neue-solarfoerderung/",
-      "published_at": "2026-08-21T12:23:46Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Österreichs Wirtschaftsministerium kündigt Speicher-Offensive an und umreißt Pläne für neue Solarförderung Ein Entwurf zur Neugestaltung der Photovoltaik-Förderung soll in den nächsten Wochen vorgelegt werden. Batteriespeicher werden dann in den Fokus rücken. Zudem will die Regierung weitere Maßnahmen ergreifen, um den notwendigen Speicherausbau anzukurbeln. Beim Bundesverband PV&#38;B Austria hof",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "3590180c49d4cd5a3cbe2c0f",
-      "title": "Probefahrt im C 400 4Matic: Ein Kandidat für das klassische Mercedes-Taxi",
-      "url": "https://www.golem.de/news/probefahrt-im-c-400-4matic-ein-kandidat-fuer-das-klassische-mercedes-taxi-2608-212147.html",
-      "published_at": "2026-08-21T10:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Probefahrt im C 400 4Matic: Ein Kandidat für das klassische Mercedes-Taxi Die neue elektrische C-Klasse hat so viel PS wie die stärkste AMG-Version. Der KI-Assistent äußert sich subtil zu Kanzler Merz und empfiehlt den Dacia Spring. Ein Bericht von Friedhelm Greis ( Elektroauto , Auto )",
-      "tags": [
-        "exploration"
-      ],
-      "regions": []
-    },
-    {
-      "id": "cdf6a084cb0f7df425d7e864",
-      "title": "Kostal startet Verkauf seines neuen Batterie-Wechselrichters",
-      "url": "https://www.pv-magazine.de/2026/08/21/kostal-startet-verkauf-seines-neuen-batterie-wechselrichters/",
-      "published_at": "2026-08-21T09:27:07Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Kostal startet Verkauf seines neuen Batterie-Wechselrichters Mit einer Leistung von 25 Kilowatt ist das Produkt für größere Batteriespeicher gedacht. Der AC-gekoppelte Wechselrichter eignet sich sowohl für Bestands- als auch Neuanlagen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5b311999be6402afc91ebc3c",
-      "title": "Inoffizielle Importe nach Deutschland: Importeur vertreibt China-Stromer von Audi",
-      "url": "https://www.golem.de/news/inoffizielle-importe-nach-deutschland-importeur-vertreibt-china-stromer-von-audi-2608-212157.html",
-      "published_at": "2026-08-21T07:54:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Inoffizielle Importe nach Deutschland: Importeur vertreibt China-Stromer von Audi Ein Händler bietet die China-Modelle Audi E5 Sportback und E7X in Deutschland an. Der Vertrieb birgt aber rechtliche Risiken. ( Audi , Elektroauto )",
       "tags": [],
       "regions": []
     }
