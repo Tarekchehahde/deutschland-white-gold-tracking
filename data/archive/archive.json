@@ -2,6 +2,30 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "9b3138fe4bf6ab8ac8ec208a",
+      "title": "Welche Risiken bei der Versicherung von Großspeicherprojekten frühzeitig berücksichtigt werden sollten",
+      "url": "https://www.pv-magazine.de/2026/11/02/welche-risiken-bei-der-versicherung-von-grossspeicherprojekten-fruehzeitig-beruecksichtigt-werden-sollten/",
+      "published_at": "2026-11-02T15:46:04Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Welche Risiken bei der Versicherung von Großspeicherprojekten frühzeitig berücksichtigt werden sollten Bei Großbatteriespeichern wird derzeit viel über Bankability gesprochen. Netzanschluss, Genehmigung, Investitionskosten, Vermarktung und Finanzierung entscheiden darüber, ob aus einer Projektidee eine umsetzbare Anlage wird. Ein weiterer Punkt wird häufig erst spät geprüft: Passt die technische u",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "14e48e8ce798373a39dc8c11",
+      "title": "Freiburger bauen Batteriespeicher aus ausrangierten E-Bike-Akkus",
+      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-freiburger-bauen-batteriespeicher-aus-ausrangierten-e-bike-akkus-100.html",
+      "published_at": "2026-11-02T14:05:11Z",
+      "source_id": "tagesschau-bw",
+      "language": "de",
+      "summary": "Freiburger bauen Batteriespeicher aus ausrangierten E-Bike-Akkus Das Freiburger Start-up EDENenergy macht aus gebrauchten Zweirad-Akkus Batterien für die Industrie. Das Verfahren dafür wurde am Institut für Solare Energiesysteme entwickelt.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "8930b7bf238404731ae165bc",
       "title": "Ein Kompass für den Vorschriftendschungel rund um Elektromobilität",
       "url": "https://www.pv-magazine.de/2026/11/02/ein-kompass-fuer-den-vorschriftendschungel-rund-um-elektromobilitaet/",
