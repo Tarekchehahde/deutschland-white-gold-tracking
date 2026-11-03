@@ -1,8 +1,65 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 10,
+  "article_count": 15,
   "articles": [
+    {
+      "id": "b7448f126699677e5bda8cff",
+      "title": "Verbrenner-Aus vom Tisch: Was bedeutet das für Auto-Preise und Jobs?",
+      "url": "https://www.rnd.de/wirtschaft/verbrenner-aus-vom-tisch-was-bedeutet-das-fuer-auto-preise-und-jobs-VJTLAEVAMRHIHJIWOTTO6R7A7E.html",
+      "published_at": "2026-11-03T23:00:00Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Verbrenner-Aus vom Tisch: Was bedeutet das für Auto-Preise und Jobs? Auch die Befürworter einer Lockerung sind überzeugt: Dem Elektroauto gehört die Zukunft. Trotzdem wollen sie den Verkauf neuer Verbrenner nach 2035 ermöglichen – mit Ausnahmen, die den Umstieg deutlich bremsen könnten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1c1f5aa7a79232cd1492a376",
+      "title": "Elektroautos: Mercedes verkauft Schnellladenetzwerk in Europa",
+      "url": "https://www.golem.de/news/elektroautos-mercedes-verkauft-schnellladenetzwerk-in-europa-2611-214814.html",
+      "published_at": "2026-11-03T17:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: Mercedes verkauft Schnellladenetzwerk in Europa Erst seit 2023 hat Mercedes eigene Schnellladestationen aufgebaut. Nun gibt es für die europäischen Standorte einen Käufer. ( Ladesäule , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "65b1252b0a6df38bc8c6d2ef",
+      "title": "Mysteriöses Zucken im Stromnetz: Forscher lösen Rätsel um USV-Selbsttests",
+      "url": "https://www.heise.de/news/Mysterioeses-Zucken-im-Stromnetz-Forscher-loesen-Raetsel-um-USV-Selbsttests-11510323.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-11-03T16:54:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Mysteriöses Zucken im Stromnetz: Forscher lösen Rätsel um USV-Selbsttests Jede Minute zucken Stromnetze weltweit kurz. Forscher finden heraus: Gleichzeitige Selbsttests von USVs und Batteriespeichern sind dafür verantwortlich.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0237f26a69f2ecc772d03722",
+      "title": "Sax Power meldet 60 Prozent mehr Umsatz und will Batteriespeicher-Produktion stark ausbauen",
+      "url": "https://www.pv-magazine.de/2026/11/03/sax-power-meldet-60-prozent-mehr-umsatz-und-will-batteriespeicher-produktion-stark-ausbauen/",
+      "published_at": "2026-11-03T15:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sax Power meldet 60 Prozent mehr Umsatz und will Batteriespeicher-Produktion stark ausbauen Das Erbacher Unternehmen nennt das Wachstum in Österreich, der Schweiz, den Niederlanden und Belgien, den Ausbau des Vertriebs sowie die generell steigende Nachfrage nach Batteriespeichern aus europäischer Produktion als Gründe für das Absatzplus.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "818bab74926dc2a9cfe2a30d",
+      "title": "Autozulieferer: Schaeffler zwischen den Mühlsteinen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/schaeffler-zwischen-den-muehlsteinen-201647394.html",
+      "published_at": "2026-11-03T13:56:52Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Autozulieferer: Schaeffler zwischen den Mühlsteinen Der Zulieferer steckt in einem strukturellen Dilemma: Das Geschäft mit dem Verbrennungsmotor bricht ein, und die Elektromobilität gleicht den Rückgang nicht aus.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "2aac012dce2301b937898be1",
       "title": "Fraunhofer ISE-Spinoff nutzt gebrauchte E-Scooter-Akkus für Gewerbe-Batteriespeicher",
