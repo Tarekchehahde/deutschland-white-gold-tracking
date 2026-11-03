@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-03T12:46:47Z",
+  "generated_at_utc": "2026-11-03T23:24:34Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 918,
+  "total_in_archive": 923,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,66 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 10
+    "2026-11": 15
   },
   "recent_for_ui": [
+    {
+      "id": "b7448f126699677e5bda8cff",
+      "title": "Verbrenner-Aus vom Tisch: Was bedeutet das für Auto-Preise und Jobs?",
+      "url": "https://www.rnd.de/wirtschaft/verbrenner-aus-vom-tisch-was-bedeutet-das-fuer-auto-preise-und-jobs-VJTLAEVAMRHIHJIWOTTO6R7A7E.html",
+      "published_at": "2026-11-03T23:00:00Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Verbrenner-Aus vom Tisch: Was bedeutet das für Auto-Preise und Jobs? Auch die Befürworter einer Lockerung sind überzeugt: Dem Elektroauto gehört die Zukunft. Trotzdem wollen sie den Verkauf neuer Verbrenner nach 2035 ermöglichen – mit Ausnahmen, die den Umstieg deutlich bremsen könnten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1c1f5aa7a79232cd1492a376",
+      "title": "Elektroautos: Mercedes verkauft Schnellladenetzwerk in Europa",
+      "url": "https://www.golem.de/news/elektroautos-mercedes-verkauft-schnellladenetzwerk-in-europa-2611-214814.html",
+      "published_at": "2026-11-03T17:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: Mercedes verkauft Schnellladenetzwerk in Europa Erst seit 2023 hat Mercedes eigene Schnellladestationen aufgebaut. Nun gibt es für die europäischen Standorte einen Käufer. ( Ladesäule , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "65b1252b0a6df38bc8c6d2ef",
+      "title": "Mysteriöses Zucken im Stromnetz: Forscher lösen Rätsel um USV-Selbsttests",
+      "url": "https://www.heise.de/news/Mysterioeses-Zucken-im-Stromnetz-Forscher-loesen-Raetsel-um-USV-Selbsttests-11510323.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-11-03T16:54:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Mysteriöses Zucken im Stromnetz: Forscher lösen Rätsel um USV-Selbsttests Jede Minute zucken Stromnetze weltweit kurz. Forscher finden heraus: Gleichzeitige Selbsttests von USVs und Batteriespeichern sind dafür verantwortlich.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0237f26a69f2ecc772d03722",
+      "title": "Sax Power meldet 60 Prozent mehr Umsatz und will Batteriespeicher-Produktion stark ausbauen",
+      "url": "https://www.pv-magazine.de/2026/11/03/sax-power-meldet-60-prozent-mehr-umsatz-und-will-batteriespeicher-produktion-stark-ausbauen/",
+      "published_at": "2026-11-03T15:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sax Power meldet 60 Prozent mehr Umsatz und will Batteriespeicher-Produktion stark ausbauen Das Erbacher Unternehmen nennt das Wachstum in Österreich, der Schweiz, den Niederlanden und Belgien, den Ausbau des Vertriebs sowie die generell steigende Nachfrage nach Batteriespeichern aus europäischer Produktion als Gründe für das Absatzplus.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "818bab74926dc2a9cfe2a30d",
+      "title": "Autozulieferer: Schaeffler zwischen den Mühlsteinen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/schaeffler-zwischen-den-muehlsteinen-201647394.html",
+      "published_at": "2026-11-03T13:56:52Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Autozulieferer: Schaeffler zwischen den Mühlsteinen Der Zulieferer steckt in einem strukturellen Dilemma: Das Geschäft mit dem Verbrennungsmotor bricht ein, und die Elektromobilität gleicht den Rückgang nicht aus.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "2aac012dce2301b937898be1",
       "title": "Fraunhofer ISE-Spinoff nutzt gebrauchte E-Scooter-Akkus für Gewerbe-Batteriespeicher",
@@ -4497,67 +4554,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "0b620c1392d7f5c2c740d1ab",
-      "title": "EU beschließt Leitlinien für mehr Flexibilität bei Förderung von Photovoltaik, Wärmepumpen und Batteriespeichern",
-      "url": "https://www.pv-magazine.de/2026/08/25/eu-beschliesst-leitlinien-fuer-mehr-flexibilitaet-bei-foerderung-von-photovoltaik-waermepumpen-und-batteriespeichern/",
-      "published_at": "2026-08-25T07:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "EU beschließt Leitlinien für mehr Flexibilität bei Förderung von Photovoltaik, Wärmepumpen und Batteriespeichern Die EU-Kommission gibt den Mitgliedstaaten die Möglichkeit, die Flexibilität der nationalen Ausnahmeregelung für Verteidigungszwecke auch zur Förderung von Maßnahmen für Energiesicherheit und Energiewende zu nutzen. Dies ist auf den Zeitraum von 2026 bis 2028 begrenzt. Zu den förderfähi",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "fdbd882af806b90cef648ab7",
-      "title": "Bidirektionales Laden: Autoindustrie kritisiert Strombremse für PV-Anlagen",
-      "url": "https://www.golem.de/news/bidirektionales-laden-autoindustrie-kritisiert-strombremse-fuer-pv-anlagen-2608-212239.html",
-      "published_at": "2026-08-24T14:25:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Bidirektionales Laden: Autoindustrie kritisiert Strombremse für PV-Anlagen Wirtschaftsministerin Reiche will die Einspeisung kleiner Solaranlagen pauschal deckeln. Das würde auch für Elektroautos gelten. ( Solarenergie , Elektroauto )",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "7307f7b498bc7f88bdb4d566",
-      "title": "Tesla: Chinas Elektroautos haben ein Türgriffproblem",
-      "url": "https://www.sueddeutsche.de/wirtschaft/china-elektroautos-tesla-rueckruf-tuergriffproblemen-li.3536024",
-      "published_at": "2026-08-24T13:27:30Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "Tesla: Chinas Elektroautos haben ein Türgriffproblem Mehr als vier Millionen Elektroautos müssen in China nachgebessert werden, fast drei Millionen davon stammen von Tesla. Der Anlass wirkt banal. Doch hinter dem Rückruf steckt ein grundlegender Kurswechsel Pekings.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a2d656a4be53fd2432336419",
-      "title": "Behörde erteilt Baugenehmigung für schottischen Langzeit-Batteriespeicher mit 3,6-Gigawattstunden Kapazität",
-      "url": "https://www.pv-magazine.de/2026/08/24/behoerde-erteilt-baugenehmigung-fuer-schottischen-langzeit-batteriespeicher-mit-36-gigawattstunden-kapazitaet/",
-      "published_at": "2026-08-24T12:30:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Behörde erteilt Baugenehmigung für schottischen Langzeit-Batteriespeicher mit 3,6-Gigawattstunden Kapazität Der Speicher namens „Rigifa“ hat eine Leistung von 200 Megawatt. Er ist Teil der Liste von elf Batteriespeichern, die die britische Regulierungsbehörde Ofgem für eine „Cap-and-Floor“-Förderung ausgewählt hat.",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "312aa9b97b83fadace82cb93",
-      "title": "Bodenschätze in der Mongolei",
-      "url": "https://www.zdfheute.de/video/zdf-mittagsmagazin/mongolei-rohstoffe-exporte-100.html",
-      "published_at": "2026-08-24T10:00:00Z",
-      "source_id": "zdf-nachrichten",
-      "language": "de",
-      "summary": "Bodenschätze in der Mongolei Die Mongolei setzt auf Kohle, Kupfer und Gold, um sich zwischen China, Russland und dem Westen zu behaupten. Neue Handelswege sollen den Export steigern.",
-      "tags": [],
       "regions": []
     }
   ]
