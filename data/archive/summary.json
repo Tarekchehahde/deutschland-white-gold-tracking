@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-03T00:59:08Z",
+  "generated_at_utc": "2026-11-03T12:46:47Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 916,
+  "total_in_archive": 918,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,33 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 8
+    "2026-11": 10
   },
   "recent_for_ui": [
+    {
+      "id": "2aac012dce2301b937898be1",
+      "title": "Fraunhofer ISE-Spinoff nutzt gebrauchte E-Scooter-Akkus für Gewerbe-Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/11/03/fraunhofer-ise-spinoff-nutzt-gebrauchte-e-scooter-akkus-fuer-gewerbe-batteriespeicher/",
+      "published_at": "2026-11-03T08:08:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fraunhofer ISE-Spinoff nutzt gebrauchte E-Scooter-Akkus für Gewerbe-Batteriespeicher Mit einer am ISE entwickelten Leistungselektronik können Batterien mit ganz unterschiedlichen Eigenschaften zu einem System verschaltet werden. So lassen sich auch die vielfältigen – und offenbar meist viel zu früh entsorgten – Batterien von Elektrorollern und E-Bikes weiter nutzen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6868a5f9534d3bd6030c1d3e",
+      "title": "heise+ | Wie bleibt der Akku im Elektroauto lange leistungsfähig?",
+      "url": "https://www.heise.de/hintergrund/Wie-bleibt-Akku-im-Elektroauto-lange-leistungsfaehig-11496499.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-11-03T06:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Wie bleibt der Akku im Elektroauto lange leistungsfähig? Zellchemie, Zellformat und Ladeverhalten bestimmen, wie schnell ein E-Auto-Akku altert. Ein Überblick über die Batterietypen und was ihnen schadet.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "9b3138fe4bf6ab8ac8ec208a",
       "title": "Welche Risiken bei der Versicherung von Großspeicherprojekten frühzeitig berücksichtigt werden sollten",
@@ -4533,28 +4557,6 @@
       "source_id": "zdf-nachrichten",
       "language": "de",
       "summary": "Bodenschätze in der Mongolei Die Mongolei setzt auf Kohle, Kupfer und Gold, um sich zwischen China, Russland und dem Westen zu behaupten. Neue Handelswege sollen den Export steigern.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1926a271da9e60f7e6eaf025",
-      "title": "Tesla, Xiaomi, Leapmotor: China ruft Millionen Autos wegen Türgriffen zurück",
-      "url": "https://www.golem.de/news/tesla-xiaomi-leapmotor-china-ruft-millionen-autos-wegen-tuergriffen-zurueck-2608-212211.html",
-      "published_at": "2026-08-24T08:15:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla, Xiaomi, Leapmotor: China ruft Millionen Autos wegen Türgriffen zurück Allein in China sollen 3 Millionen Teslas in die Werkstatt. Deutsche Hersteller sind von der Türgriff-Problematik offenbar nicht betroffen. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "75142394b0cf5eca9fb721ae",
-      "title": "MG Cyberster: 225 Kilo für zwei Passagiere und Gepäck",
-      "url": "https://www.golem.de/news/mg-cyberster-150-kilo-fuer-zwei-passagiere-und-gepaeck-2608-212181.html",
-      "published_at": "2026-08-24T07:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "MG Cyberster: 225 Kilo für zwei Passagiere und Gepäck Elektrische Roadster sind schwer zu bauen. Dass sich die Herausforderung meistern lässt, zeigt MG mit seinem Cyberster. Zwei Dinge daran nerven allerdings. Von Dirk Kunde ( Elektroauto , Auto )",
       "tags": [],
       "regions": []
     }

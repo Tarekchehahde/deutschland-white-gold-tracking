@@ -1,8 +1,32 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 8,
+  "article_count": 10,
   "articles": [
+    {
+      "id": "2aac012dce2301b937898be1",
+      "title": "Fraunhofer ISE-Spinoff nutzt gebrauchte E-Scooter-Akkus für Gewerbe-Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/11/03/fraunhofer-ise-spinoff-nutzt-gebrauchte-e-scooter-akkus-fuer-gewerbe-batteriespeicher/",
+      "published_at": "2026-11-03T08:08:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Fraunhofer ISE-Spinoff nutzt gebrauchte E-Scooter-Akkus für Gewerbe-Batteriespeicher Mit einer am ISE entwickelten Leistungselektronik können Batterien mit ganz unterschiedlichen Eigenschaften zu einem System verschaltet werden. So lassen sich auch die vielfältigen – und offenbar meist viel zu früh entsorgten – Batterien von Elektrorollern und E-Bikes weiter nutzen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6868a5f9534d3bd6030c1d3e",
+      "title": "heise+ | Wie bleibt der Akku im Elektroauto lange leistungsfähig?",
+      "url": "https://www.heise.de/hintergrund/Wie-bleibt-Akku-im-Elektroauto-lange-leistungsfaehig-11496499.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-11-03T06:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Wie bleibt der Akku im Elektroauto lange leistungsfähig? Zellchemie, Zellformat und Ladeverhalten bestimmen, wie schnell ein E-Auto-Akku altert. Ein Überblick über die Batterietypen und was ihnen schadet.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "9b3138fe4bf6ab8ac8ec208a",
       "title": "Welche Risiken bei der Versicherung von Großspeicherprojekten frühzeitig berücksichtigt werden sollten",
