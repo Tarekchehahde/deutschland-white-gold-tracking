@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-04T12:58:53Z",
+  "generated_at_utc": "2026-11-04T23:40:48Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 927,
+  "total_in_archive": 932,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,66 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 19
+    "2026-11": 24
   },
   "recent_for_ui": [
+    {
+      "id": "f3e53534a71beba9eb57bc69",
+      "title": "Ladenetzbetreiber: VW-Tochter Elli streicht Jobs und stellt Wallboxverkauf ein",
+      "url": "https://www.golem.de/news/ladenetzbetreiber-vw-tochter-elli-streicht-jobs-und-stellt-wallboxverkauf-ein-2611-214861.html",
+      "published_at": "2026-11-04T15:58:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ladenetzbetreiber: VW-Tochter Elli streicht Jobs und stellt Wallboxverkauf ein Die Sparpläne bei VW treffen auch den Ladeserviceanbieter Elli. Künftig werden keine Wallboxen mehr angeboten, ein Verkauf der Firma ist möglich. ( Ladesäule , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6d8fce8a34194905bb470926",
+      "title": "Huawei plant Preiserhöhungen von 5 bis 15 Prozent für Photovoltaik- und Speicherprodukte",
+      "url": "https://www.pv-magazine.de/2026/11/04/huawei-plant-preiserhoehungen-von-5-bis-15-prozent-fuer-photovoltaik-und-speicherprodukte/",
+      "published_at": "2026-11-04T15:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Huawei plant Preiserhöhungen von 5 bis 15 Prozent für Photovoltaik- und Speicherprodukte Der Geschäftsbereich Energietechnik von Huawei hat seine Kunden über geplante Preiserhöhungen für sein gesamtes Portfolio an Photovoltaik-Wechselrichtern und Energiespeichern informiert. Das Unternehmen verweist dabei auf steigende Kosten für Kupfer, Leiterplatten und elektronische Bauteile. Dieser Schritt fol",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "eba7a2f28ce70bed5dd28e25",
+      "title": "KBA-Statistik: Neuer Rekordanteil von Elektroautos bei Neuwagen",
+      "url": "https://www.golem.de/news/kba-statistik-neuer-rekordanteil-von-elektroautos-bei-neuwagen-2611-214853.html",
+      "published_at": "2026-11-04T14:51:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "KBA-Statistik: Neuer Rekordanteil von Elektroautos bei Neuwagen Der Anteil von E-Autos an den Neuzulassungen nimmt weiter zu. Reine Verbrenner machen nicht einmal mehr ein Viertel der Neuwagen aus. ( Elektroauto , Tesla )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fe0704eccdbcfe512d6434fd",
+      "title": "Whitepaper von Voltfang beschreibt Planung von Co-Location-Batteriespeichern an einem praktischen Beispiel",
+      "url": "https://www.pv-magazine.de/2026/11/04/whitepaper-von-voltfang-beschreibt-planung-von-co-location-batteriespeichern-an-einem-praktischen-beispiel/",
+      "published_at": "2026-11-04T14:42:06Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Whitepaper von Voltfang beschreibt Planung von Co-Location-Batteriespeichern an einem praktischen Beispiel Beim beschriebenen Projekt geht es zwar um die Kombination von Speicher und Windkraft, doch auch Co-Location mit Photovoltaik-Anlagen ist Thema des Whitepaper. Neben den beiden Optionen Grün- und Graustromspeicher geht es auch um das mit MiSpeL mögliche Hybridmodell.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b1f28ddba3b5bebb01fbc3c2",
+      "title": "Recht: Betrunken im Tesla geschlafen - Führerschein weg?",
+      "url": "https://www.golem.de/news/recht-betrunken-im-tesla-geschlafen-fuehrerschein-weg-2611-214846.html",
+      "published_at": "2026-11-04T13:52:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Recht: Betrunken im Tesla geschlafen - Führerschein weg? Ein Autofahrer hat in einem Tesla seinen Rausch auf dem Fahrersitz ausgeschlafen. Er verlor seinen Führerschein - und wehrte sich dagegen. ( Elektroauto , Tesla )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "66542d7ea13f56679389380f",
       "title": "BEE übernimmt Umspannwerk von Bayernwerk Netz – Bau des 268 Megawatt-Solarparks voll im Zeitplan",
@@ -44,7 +101,7 @@
       "published_at": "2026-11-04T09:17:29Z",
       "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "BW ESS bringt Batteriespeicher „Hams Hall“ innerhalb von 20 Tagen von der Inbetriebnahme bis zum kommerziellen Betrieb Es gehört mit 1,24 Gigawattstunden Kapazität zu den größten Speicher-Projekten Europas. Der Batteriespeicher ist nun ans britische Stromnetz angeschlossen und in Betrieb.",
+      "summary": "BW ESS bringt Batteriespeicher „Hams Hall“ innerhalb von 20 Tagen von der Inbetriebnahme bis zum kommerziellen Betrieb Das Projekt gehört mit 1,24 Gigawattstunden Kapazität zu den größten Europas. Der Batteriespeicher ist nun ans britische Stromnetz angeschlossen und in Betrieb.",
       "tags": [],
       "regions": []
     },
@@ -4495,63 +4552,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "heise+ | Elektroautos laden: Den rollenden Speicher wirtschaftlich nutzen Den Energiegehalt von Batterien wirtschaftlich nutzen, um mit dem E-Auto am Strommarkt teilzunehmen? Der Rollout ist zäh, doch das dürfte sich rasch ändern.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3685686cafa7bafe1c73baec",
-      "title": "Bis zu 115.000 Stellen: VW-Betriebsrat befürchtet hohe Jobverluste in Deutschland",
-      "url": "https://www.golem.de/news/bis-zu-115-000-stellen-vw-betriebsrat-befuerchtet-hohe-jobverluste-in-deutschland-2608-212289.html",
-      "published_at": "2026-08-25T16:40:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Bis zu 115.000 Stellen: VW-Betriebsrat befürchtet hohe Jobverluste in Deutschland VW-Chef Oliver Blume deutet die Streichung von weiteren 25.000 Stellen bei VW in Deutschland an. Die Schließung von vier Werken ist nicht vom Tisch. ( VW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5b8f51476a6702573e341d91",
-      "title": "Autonomes Fahren: Waymo bringt Robotaxi-Dienst nach München",
-      "url": "https://www.golem.de/news/autonomes-fahren-waymo-bringt-robotaxi-dienst-nach-muenchen-2608-212286.html",
-      "published_at": "2026-08-25T15:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Waymo bringt Robotaxi-Dienst nach München Die Google-Schwesterfirma Waymo bietet ihren Robotaxi-Dienst künftig in München an. Vor dem Start werden zunächst ein Jahr lang Daten gesammelt. ( Waymo , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b9753db2325bed9c0264f96a",
-      "title": "Ausgeträumt: Dreame stoppt Pläne für elektrischen Luxuswagen",
-      "url": "https://www.golem.de/news/ausgetraeumt-dreame-stoppt-plaene-fuer-elektrische-luxuswagen-2608-212282.html",
-      "published_at": "2026-08-25T14:18:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Ausgeträumt: Dreame stoppt Pläne für elektrischen Luxuswagen Der Staubsaugerhersteller Dreame fährt seine ambitionierten Pläne für E-Autos zurück. Das betrifft auch eine mögliche Fabrik in Brandenburg. ( Elektroauto , Wirtschaft )",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "62d1746bfd7712e2b729ecaa",
-      "title": "TÜV-Studie zur Mobilität: Jeder Zweite bevorzugt Elektroauto oder Hybrid",
-      "url": "https://rp-online.de/panorama/deutschland/tuev-studie-jeder-zweite-will-e-auto-oder-hybrid-kaufen_aid-153697311",
-      "published_at": "2026-08-25T14:06:08Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "TÜV-Studie zur Mobilität: Jeder Zweite bevorzugt Elektroauto oder Hybrid Elektroautos und Hybride gewinnen einer TÜV-Studie zufolge an Zustimmung. Trotzdem nennen viele Befragte hohe Anschaffungskosten und geringe Reichweiten als Hürden. Gleichzeitig fordern 76 Prozent mehr Investitionen in den ÖPNV. Was folgt daraus?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f591c2a5961e6a61934ddb28",
-      "title": "Netzanschlüsse für Batteriespeicher: 574 Gigawatt angefragt, 54 Gigawatt zugesagt",
-      "url": "https://www.pv-magazine.de/2026/08/25/netzanschluesse-fuer-batteriespeicher-574-gigawatt-angefragt-54-gigawatt-zugesagt/",
-      "published_at": "2026-08-25T13:45:30Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Netzanschlüsse für Batteriespeicher: 574 Gigawatt angefragt, 54 Gigawatt zugesagt Die Zahl der Netzanschlussbegehren für Batteriespeicher ist 2025 stark gestiegen. Bei den Verteil- und Übertragungsnetzbetreibern gingen insgesamt 18.158 Anfragen über rund 574 Gigawatt Leistung und 1583 Gigawattstunden Kapazität ein. Anschlusszusagen erteilten die Netzbetreiber im Jahresverlauf für insgesamt gut 54 ",
       "tags": [],
       "regions": []
     }
