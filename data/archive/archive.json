@@ -2,6 +2,63 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "f3e53534a71beba9eb57bc69",
+      "title": "Ladenetzbetreiber: VW-Tochter Elli streicht Jobs und stellt Wallboxverkauf ein",
+      "url": "https://www.golem.de/news/ladenetzbetreiber-vw-tochter-elli-streicht-jobs-und-stellt-wallboxverkauf-ein-2611-214861.html",
+      "published_at": "2026-11-04T15:58:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ladenetzbetreiber: VW-Tochter Elli streicht Jobs und stellt Wallboxverkauf ein Die Sparpläne bei VW treffen auch den Ladeserviceanbieter Elli. Künftig werden keine Wallboxen mehr angeboten, ein Verkauf der Firma ist möglich. ( Ladesäule , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6d8fce8a34194905bb470926",
+      "title": "Huawei plant Preiserhöhungen von 5 bis 15 Prozent für Photovoltaik- und Speicherprodukte",
+      "url": "https://www.pv-magazine.de/2026/11/04/huawei-plant-preiserhoehungen-von-5-bis-15-prozent-fuer-photovoltaik-und-speicherprodukte/",
+      "published_at": "2026-11-04T15:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Huawei plant Preiserhöhungen von 5 bis 15 Prozent für Photovoltaik- und Speicherprodukte Der Geschäftsbereich Energietechnik von Huawei hat seine Kunden über geplante Preiserhöhungen für sein gesamtes Portfolio an Photovoltaik-Wechselrichtern und Energiespeichern informiert. Das Unternehmen verweist dabei auf steigende Kosten für Kupfer, Leiterplatten und elektronische Bauteile. Dieser Schritt fol",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "eba7a2f28ce70bed5dd28e25",
+      "title": "KBA-Statistik: Neuer Rekordanteil von Elektroautos bei Neuwagen",
+      "url": "https://www.golem.de/news/kba-statistik-neuer-rekordanteil-von-elektroautos-bei-neuwagen-2611-214853.html",
+      "published_at": "2026-11-04T14:51:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "KBA-Statistik: Neuer Rekordanteil von Elektroautos bei Neuwagen Der Anteil von E-Autos an den Neuzulassungen nimmt weiter zu. Reine Verbrenner machen nicht einmal mehr ein Viertel der Neuwagen aus. ( Elektroauto , Tesla )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fe0704eccdbcfe512d6434fd",
+      "title": "Whitepaper von Voltfang beschreibt Planung von Co-Location-Batteriespeichern an einem praktischen Beispiel",
+      "url": "https://www.pv-magazine.de/2026/11/04/whitepaper-von-voltfang-beschreibt-planung-von-co-location-batteriespeichern-an-einem-praktischen-beispiel/",
+      "published_at": "2026-11-04T14:42:06Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Whitepaper von Voltfang beschreibt Planung von Co-Location-Batteriespeichern an einem praktischen Beispiel Beim beschriebenen Projekt geht es zwar um die Kombination von Speicher und Windkraft, doch auch Co-Location mit Photovoltaik-Anlagen ist Thema des Whitepaper. Neben den beiden Optionen Grün- und Graustromspeicher geht es auch um das mit MiSpeL mögliche Hybridmodell.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b1f28ddba3b5bebb01fbc3c2",
+      "title": "Recht: Betrunken im Tesla geschlafen - Führerschein weg?",
+      "url": "https://www.golem.de/news/recht-betrunken-im-tesla-geschlafen-fuehrerschein-weg-2611-214846.html",
+      "published_at": "2026-11-04T13:52:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Recht: Betrunken im Tesla geschlafen - Führerschein weg? Ein Autofahrer hat in einem Tesla seinen Rausch auf dem Fahrersitz ausgeschlafen. Er verlor seinen Führerschein - und wehrte sich dagegen. ( Elektroauto , Tesla )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "66542d7ea13f56679389380f",
       "title": "BEE übernimmt Umspannwerk von Bayernwerk Netz – Bau des 268 Megawatt-Solarparks voll im Zeitplan",
       "url": "https://www.pv-magazine.de/2026/11/04/bee-uebernimmt-umspannwerk-von-bayernwerk-netz-bau-des-268-megawatt-solarparks-voll-im-zeitplan/",
@@ -32,7 +89,7 @@
       "published_at": "2026-11-04T09:17:29Z",
       "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "BW ESS bringt Batteriespeicher „Hams Hall“ innerhalb von 20 Tagen von der Inbetriebnahme bis zum kommerziellen Betrieb Es gehört mit 1,24 Gigawattstunden Kapazität zu den größten Speicher-Projekten Europas. Der Batteriespeicher ist nun ans britische Stromnetz angeschlossen und in Betrieb.",
+      "summary": "BW ESS bringt Batteriespeicher „Hams Hall“ innerhalb von 20 Tagen von der Inbetriebnahme bis zum kommerziellen Betrieb Das Projekt gehört mit 1,24 Gigawattstunden Kapazität zu den größten Europas. Der Batteriespeicher ist nun ans britische Stromnetz angeschlossen und in Betrieb.",
       "tags": [],
       "regions": []
     },
