@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-03T23:24:34Z",
+  "generated_at_utc": "2026-11-04T12:58:53Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 923,
+  "total_in_archive": 927,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,18 +10,67 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 15
+    "2026-11": 19
   },
   "recent_for_ui": [
+    {
+      "id": "66542d7ea13f56679389380f",
+      "title": "BEE übernimmt Umspannwerk von Bayernwerk Netz – Bau des 268 Megawatt-Solarparks voll im Zeitplan",
+      "url": "https://www.pv-magazine.de/2026/11/04/bee-uebernimmt-umspannwerk-von-bayernwerk-netz-bau-des-268-megawatt-solarparks-voll-im-zeitplan/",
+      "published_at": "2026-11-04T12:09:46Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "BEE übernimmt Umspannwerk von Bayernwerk Netz – Bau des 268 Megawatt-Solarparks voll im Zeitplan Blue Elephant Energy will das Photovoltaik-Kraftwerk bis nächsten Sommer ans Netz bringen. Zudem bereitet das Unternehmen nun die Hybridisierung des Standorts vor, wobei zunächst ein Grün-, später dann ein Graustromspeicher geplant ist.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "e4efd45710ae3a087e02c58d",
+      "title": "Europas nächste Abhängigkeit entsteht jetzt. Und wir schauen zu.",
+      "url": "https://www.pv-magazine.de/2026/11/04/europas-naechste-abhaengigkeit-entsteht-jetzt-und-wir-schauen-zu/",
+      "published_at": "2026-11-04T10:13:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Europas nächste Abhängigkeit entsteht jetzt. Und wir schauen zu. Warum Europa bei Batteriespeichern auf Krisenmodus umschalten muss – und Natrium-Ionen-Technologie eine industrielle Chance bietet, die wir entschlossen nutzen sollten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c2afe32f3775520b5c5594c3",
+      "title": "BW ESS bringt Batteriespeicher „Hams Hall“ innerhalb von 20 Tagen von der Inbetriebnahme bis zum kommerziellen Betrieb",
+      "url": "https://www.pv-magazine.de/2026/11/04/bw-ess-bringt-das-batteriespeicher-hams-hall-innerhalb-von-20-tagen-von-der-inbetriebnahme-bis-zum-kommerziellen-betrieb/",
+      "published_at": "2026-11-04T09:17:29Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "BW ESS bringt Batteriespeicher „Hams Hall“ innerhalb von 20 Tagen von der Inbetriebnahme bis zum kommerziellen Betrieb Es gehört mit 1,24 Gigawattstunden Kapazität zu den größten Speicher-Projekten Europas. Der Batteriespeicher ist nun ans britische Stromnetz angeschlossen und in Betrieb.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "b7448f126699677e5bda8cff",
       "title": "Verbrenner-Aus vom Tisch: Was bedeutet das für Auto-Preise und Jobs?",
       "url": "https://www.rnd.de/wirtschaft/verbrenner-aus-vom-tisch-was-bedeutet-das-fuer-auto-preise-und-jobs-VJTLAEVAMRHIHJIWOTTO6R7A7E.html",
-      "published_at": "2026-11-03T23:00:00Z",
+      "published_at": "2026-11-04T07:27:13Z",
       "source_id": "rnd-wirtschaft",
       "language": "de",
       "summary": "Verbrenner-Aus vom Tisch: Was bedeutet das für Auto-Preise und Jobs? Auch die Befürworter einer Lockerung sind überzeugt: Dem Elektroauto gehört die Zukunft. Trotzdem wollen sie den Verkauf neuer Verbrenner nach 2035 ermöglichen – mit Ausnahmen, die den Umstieg deutlich bremsen könnten.",
       "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c83e4d1041f6b03eb2717812",
+      "title": "Aufholjagd: Umweltminister setzt weiter auf E-Autos",
+      "url": "https://www.golem.de/news/aufholjagd-umweltminister-setzt-weiter-auf-e-autos-2611-214821.html",
+      "published_at": "2026-11-04T06:19:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Aufholjagd: Umweltminister setzt weiter auf E-Autos Umweltminister Carsten Schneider ist überzeugt: E-Autos werden sich am Markt durchsetzen, unabhängig davon, wie die EU beim Verbrenner-Aus entscheide. ( Elektromobilität , Auto )",
+      "tags": [
+        "politik",
+        "umwelt"
+      ],
       "regions": []
     },
     {
@@ -4504,56 +4553,6 @@
       "language": "de",
       "summary": "Netzanschlüsse für Batteriespeicher: 574 Gigawatt angefragt, 54 Gigawatt zugesagt Die Zahl der Netzanschlussbegehren für Batteriespeicher ist 2025 stark gestiegen. Bei den Verteil- und Übertragungsnetzbetreibern gingen insgesamt 18.158 Anfragen über rund 574 Gigawatt Leistung und 1583 Gigawattstunden Kapazität ein. Anschlusszusagen erteilten die Netzbetreiber im Jahresverlauf für insgesamt gut 54 ",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bff070d443175a46fb95ea09",
-      "title": "Comax baut Batteriespeicher-Portfolio in Frankreich deutlich aus",
-      "url": "https://www.pv-magazine.de/2026/08/25/comax-baut-batteriespeicher-portfolio-in-frankreich-deutlich-aus/",
-      "published_at": "2026-08-25T12:36:37Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Comax baut Batteriespeicher-Portfolio in Frankreich deutlich aus Comax France hat an zehn Standorten Batteriespeicher mit insgesamt 57 Megawatt Leistung und 114 Megawattstunden Kapazität fertiggestellt und an das Verteilnetz angeschlossen. Damit steigt das operative Speicherportfolio des zur Schweizer MET Group gehörenden Unternehmens in Frankreich auf mehr als 86 Megawatt und 143 Megawattstunden.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "bc2055066cfd26441c72aa14",
-      "title": "Mit Südkorea und Japan: EU soll Allianz gegen Chinas Autoindustrie planen",
-      "url": "https://www.golem.de/news/mit-suedkorea-und-japan-eu-soll-allianz-gegen-chinas-autoindustrie-planen-2608-212263.html",
-      "published_at": "2026-08-25T09:53:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Mit Südkorea und Japan: EU soll Allianz gegen Chinas Autoindustrie planen Die Verkaufsanteile chinesischer Hersteller bei E-Autos und Plug-in-Hybriden nehmen stark zu. Das will die EU mit anderen Ländern eindämmen. ( Elektroauto , Politik )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b7fad5cadf342888ddc743c2",
-      "title": "Alpiq übernimmt Batteriespeicher von Eco Stor in Bollingstedt",
-      "url": "https://www.pv-magazine.de/2026/08/25/alpiq-uebernimmt-batteriespeicher-von-eco-stor-in-bollingstedt/",
-      "published_at": "2026-08-25T09:31:48Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Alpiq übernimmt Batteriespeicher von Eco Stor in Bollingstedt Das Schweizer Energieunternehmen neuer Eigentümer des Batteriespeichers Bollingstedt in Schleswig-Holstein. Eco Stor bleibt für die technische Betriebsführung der Anlage mit 238 Megawattstunden Kapazität verantwortlich. Für den Speicherbetrieb hat Eco Stor mit SH Netz einen FCA geschlossen, der die Grundlage für den Rollout einer solche",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "679bfd521c7ecebf37b83944",
-      "title": "Batterien aus Deutschland: Salzgitter gegen den Rest der Welt",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/vw-will-eigene-batteriezellen-produzieren-mit-hilfe-aus-china-accg-201139848.html",
-      "published_at": "2026-08-25T07:43:31Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Batterien aus Deutschland: Salzgitter gegen den Rest der Welt Volkswagen startet die Großserienproduktion von Batteriezellen für Elektroautos in Salzgitter. Exklusiver Rundgang durch die Zwei-Milliarden-Euro-Fabrik.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]
