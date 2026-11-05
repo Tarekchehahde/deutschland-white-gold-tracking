@@ -1,8 +1,34 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 29,
+  "article_count": 30,
   "articles": [
+    {
+      "id": "e7c072a792d3051603cea763",
+      "title": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich",
+      "url": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
+      "published_at": "2026-11-05T17:27:08Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich Günstiger parken und keine E-Kennzeichen-Pflicht mehr: Der Bundestag hat das reformierte Elektromobilitätsgesetz verabschiedet. Bisher nutzen allerdings nur wenige Kommunen den Spielraum des Gesetzes aus. Von Michael Eiden.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "aae26e1c81b0551042f4f243",
+      "title": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL",
+      "url": "https://www.pv-magazine.de/2026/11/05/das-ist-der-aktuelle-stand-bei-eeg-novelle-agnes-netzpaket-und-mispel/",
+      "published_at": "2026-11-05T16:35:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL Derzeit gibt es vier wichtige Vorhaben, die die erneuerbare Energiebranche, Erzeuger und Batteriespeicher stark beeinflussen werden. Die parallel vorangetriebenen Maßnahmen können leicht zu einer Überforderung führen. Wir fassen den aktuellen Stand vor den abschließenden Beratungen im Bundestag und Bundesrat zusammen.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
     {
       "id": "0f6d8660fa8dba4d30b024d9",
       "title": "Revolta installiert ersten Natrium-Ionen-Heimspeicher in Deutschland",
@@ -26,15 +52,15 @@
       "regions": []
     },
     {
-      "id": "aae26e1c81b0551042f4f243",
-      "title": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL",
-      "url": "https://www.pv-magazine.de/2026/11/05/das-ist-der-aktuelle-stand-bei-eeg-novelle-agnes-netzpaket-und-mispel/",
-      "published_at": "2026-11-05T10:35:00Z",
+      "id": "aed04968ea7a551fd19cd905",
+      "title": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland",
+      "url": "https://www.pv-magazine.de/2026/11/05/return-erhaelt-finanzierung-ueber-835-millionen-euro-fuer-grosse-batteriespeicher-in-deutschland/",
+      "published_at": "2026-11-05T10:36:12Z",
       "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL Derzeit gibt es vier wichtige Vorhaben, die die erneuerbare Energiebranche, Erzeuger und Batteriespeicher stark beeinflussen werden. Die parallel vorangetriebenen Maßnahmen können leicht zu einer Überforderung führen. Wir fassen den aktuellen Stand vor den abschließenden Beratungen im Bundestag und Bundesrat zusammen.",
+      "summary": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland Das Unternehmen will ab 2027 jährlich mindestens ein Gigawatt an Batteriespeichern in Deutschland ans Netz bringen. Aktuell befinden sich drei Anlagen mit insgesamt 117 Megawatt Leistung und 468 Megawattstunden Kapazität im Bau.",
       "tags": [
-        "politik"
+        "industrie"
       ],
       "regions": []
     },
@@ -47,19 +73,6 @@
       "language": "de",
       "summary": "Sponsored: „Atlas 6000 AC“ – Modularer Stromspeicher von Conow für die Nachrüstung Immer mehr Haushalte nutzen Solarstrom vom eigenen Dach. Conow bietet mit „Atlas 6000 AC“ einen AC-gekoppelter Plug-and-play-Speicher für die Nachrüstung bestehender Photovoltaik-Anlagen an.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "aed04968ea7a551fd19cd905",
-      "title": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland",
-      "url": "https://www.pv-magazine.de/2026/11/05/return-erhaelt-finanzierung-ueber-835-millionen-euro-fuer-grosse-batteriespeicher-in-deutschland/",
-      "published_at": "2026-11-05T09:36:12Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland Das Unternehmen will ab 2027 jährlich mindestens ein Gigawatt an Batteriespeichern in Deutschland ans Netz bringen. Aktuell befinden sich drei Anlagen mit insgesamt 117 Megawatt Leistung und 468 Megawattstunden Kapazität im Bau.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     },
     {
