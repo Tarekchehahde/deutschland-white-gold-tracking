@@ -1,8 +1,67 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 24,
+  "article_count": 29,
   "articles": [
+    {
+      "id": "0f6d8660fa8dba4d30b024d9",
+      "title": "Revolta installiert ersten Natrium-Ionen-Heimspeicher in Deutschland",
+      "url": "https://www.pv-magazine.de/2026/11/05/revolta-installiert-ersten-natrium-ionen-heimspeicher-in-deutschland/",
+      "published_at": "2026-11-05T11:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Revolta installiert ersten Natrium-Ionen-Heimspeicher in Deutschland Ein Batteriespeicher mit zehn Kilowattstunden Kapazität ist nahe Aschaffenburg bei einem Endkunden erfolgreich installiert und in Betrieb genommen worden. Dies soll der Startschuss für die kommerzielle Markteinführung der Revolta-Speicher sein.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "61a5b5cc9451e2892bff0857",
+      "title": "Anzeige: Praktischer Kofferraum-Organizer mit 68 Litern jetzt nur 22 Euro bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-praktischer-kofferraum-organizer-mit-68-litern-jetzt-nur-22-euro-bei-amazon-2611-214890.html",
+      "published_at": "2026-11-05T11:19:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Praktischer Kofferraum-Organizer mit 68 Litern jetzt nur 22 Euro bei Amazon Der Zovhyya Kofferraum-Organizer bändigt mit 68 Litern Einkäufe und Werkzeug, hält Getränke kühl und ist befristet deutlich günstiger. ( Mobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "aae26e1c81b0551042f4f243",
+      "title": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL",
+      "url": "https://www.pv-magazine.de/2026/11/05/das-ist-der-aktuelle-stand-bei-eeg-novelle-agnes-netzpaket-und-mispel/",
+      "published_at": "2026-11-05T10:35:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL Derzeit gibt es vier wichtige Vorhaben, die die erneuerbare Energiebranche, Erzeuger und Batteriespeicher stark beeinflussen werden. Die parallel vorangetriebenen Maßnahmen können leicht zu einer Überforderung führen. Wir fassen den aktuellen Stand vor den abschließenden Beratungen im Bundestag und Bundesrat zusammen.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "a25d58a2b40fe7540d52a1ca",
+      "title": "Sponsored: „Atlas 6000 AC“ – Modularer Stromspeicher von Conow für die Nachrüstung",
+      "url": "https://www.pv-magazine.de/2026/11/05/sponsored-atlas-6000-ac-modularer-stromspeicher-von-conow-fuer-die-nachruestung/",
+      "published_at": "2026-11-05T10:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sponsored: „Atlas 6000 AC“ – Modularer Stromspeicher von Conow für die Nachrüstung Immer mehr Haushalte nutzen Solarstrom vom eigenen Dach. Conow bietet mit „Atlas 6000 AC“ einen AC-gekoppelter Plug-and-play-Speicher für die Nachrüstung bestehender Photovoltaik-Anlagen an.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "aed04968ea7a551fd19cd905",
+      "title": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland",
+      "url": "https://www.pv-magazine.de/2026/11/05/return-erhaelt-finanzierung-ueber-835-millionen-euro-fuer-grosse-batteriespeicher-in-deutschland/",
+      "published_at": "2026-11-05T09:36:12Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland Das Unternehmen will ab 2027 jährlich mindestens ein Gigawatt an Batteriespeichern in Deutschland ans Netz bringen. Aktuell befinden sich drei Anlagen mit insgesamt 117 Megawatt Leistung und 468 Megawattstunden Kapazität im Bau.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "f3e53534a71beba9eb57bc69",
       "title": "Ladenetzbetreiber: VW-Tochter Elli streicht Jobs und stellt Wallboxverkauf ein",
