@@ -2,6 +2,65 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "0f6d8660fa8dba4d30b024d9",
+      "title": "Revolta installiert ersten Natrium-Ionen-Heimspeicher in Deutschland",
+      "url": "https://www.pv-magazine.de/2026/11/05/revolta-installiert-ersten-natrium-ionen-heimspeicher-in-deutschland/",
+      "published_at": "2026-11-05T11:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Revolta installiert ersten Natrium-Ionen-Heimspeicher in Deutschland Ein Batteriespeicher mit zehn Kilowattstunden Kapazität ist nahe Aschaffenburg bei einem Endkunden erfolgreich installiert und in Betrieb genommen worden. Dies soll der Startschuss für die kommerzielle Markteinführung der Revolta-Speicher sein.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "61a5b5cc9451e2892bff0857",
+      "title": "Anzeige: Praktischer Kofferraum-Organizer mit 68 Litern jetzt nur 22 Euro bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-praktischer-kofferraum-organizer-mit-68-litern-jetzt-nur-22-euro-bei-amazon-2611-214890.html",
+      "published_at": "2026-11-05T11:19:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Praktischer Kofferraum-Organizer mit 68 Litern jetzt nur 22 Euro bei Amazon Der Zovhyya Kofferraum-Organizer bändigt mit 68 Litern Einkäufe und Werkzeug, hält Getränke kühl und ist befristet deutlich günstiger. ( Mobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "aae26e1c81b0551042f4f243",
+      "title": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL",
+      "url": "https://www.pv-magazine.de/2026/11/05/das-ist-der-aktuelle-stand-bei-eeg-novelle-agnes-netzpaket-und-mispel/",
+      "published_at": "2026-11-05T10:35:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL Derzeit gibt es vier wichtige Vorhaben, die die erneuerbare Energiebranche, Erzeuger und Batteriespeicher stark beeinflussen werden. Die parallel vorangetriebenen Maßnahmen können leicht zu einer Überforderung führen. Wir fassen den aktuellen Stand vor den abschließenden Beratungen im Bundestag und Bundesrat zusammen.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "a25d58a2b40fe7540d52a1ca",
+      "title": "Sponsored: „Atlas 6000 AC“ – Modularer Stromspeicher von Conow für die Nachrüstung",
+      "url": "https://www.pv-magazine.de/2026/11/05/sponsored-atlas-6000-ac-modularer-stromspeicher-von-conow-fuer-die-nachruestung/",
+      "published_at": "2026-11-05T10:30:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Sponsored: „Atlas 6000 AC“ – Modularer Stromspeicher von Conow für die Nachrüstung Immer mehr Haushalte nutzen Solarstrom vom eigenen Dach. Conow bietet mit „Atlas 6000 AC“ einen AC-gekoppelter Plug-and-play-Speicher für die Nachrüstung bestehender Photovoltaik-Anlagen an.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "aed04968ea7a551fd19cd905",
+      "title": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland",
+      "url": "https://www.pv-magazine.de/2026/11/05/return-erhaelt-finanzierung-ueber-835-millionen-euro-fuer-grosse-batteriespeicher-in-deutschland/",
+      "published_at": "2026-11-05T09:36:12Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland Das Unternehmen will ab 2027 jährlich mindestens ein Gigawatt an Batteriespeichern in Deutschland ans Netz bringen. Aktuell befinden sich drei Anlagen mit insgesamt 117 Megawatt Leistung und 468 Megawattstunden Kapazität im Bau.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "f3e53534a71beba9eb57bc69",
       "title": "Ladenetzbetreiber: VW-Tochter Elli streicht Jobs und stellt Wallboxverkauf ein",
       "url": "https://www.golem.de/news/ladenetzbetreiber-vw-tochter-elli-streicht-jobs-und-stellt-wallboxverkauf-ein-2611-214861.html",
@@ -26,17 +85,6 @@
       "regions": []
     },
     {
-      "id": "eba7a2f28ce70bed5dd28e25",
-      "title": "KBA-Statistik: Neuer Rekordanteil von Elektroautos bei Neuwagen",
-      "url": "https://www.golem.de/news/kba-statistik-neuer-rekordanteil-von-elektroautos-bei-neuwagen-2611-214853.html",
-      "published_at": "2026-11-04T14:51:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "KBA-Statistik: Neuer Rekordanteil von Elektroautos bei Neuwagen Der Anteil von E-Autos an den Neuzulassungen nimmt weiter zu. Reine Verbrenner machen nicht einmal mehr ein Viertel der Neuwagen aus. ( Elektroauto , Tesla )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "fe0704eccdbcfe512d6434fd",
       "title": "Whitepaper von Voltfang beschreibt Planung von Co-Location-Batteriespeichern an einem praktischen Beispiel",
       "url": "https://www.pv-magazine.de/2026/11/04/whitepaper-von-voltfang-beschreibt-planung-von-co-location-batteriespeichern-an-einem-praktischen-beispiel/",
@@ -48,52 +96,6 @@
       "regions": []
     },
     {
-      "id": "b1f28ddba3b5bebb01fbc3c2",
-      "title": "Recht: Betrunken im Tesla geschlafen - Führerschein weg?",
-      "url": "https://www.golem.de/news/recht-betrunken-im-tesla-geschlafen-fuehrerschein-weg-2611-214846.html",
-      "published_at": "2026-11-04T13:52:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Recht: Betrunken im Tesla geschlafen - Führerschein weg? Ein Autofahrer hat in einem Tesla seinen Rausch auf dem Fahrersitz ausgeschlafen. Er verlor seinen Führerschein - und wehrte sich dagegen. ( Elektroauto , Tesla )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "66542d7ea13f56679389380f",
-      "title": "BEE übernimmt Umspannwerk von Bayernwerk Netz – Bau des 268 Megawatt-Solarparks voll im Zeitplan",
-      "url": "https://www.pv-magazine.de/2026/11/04/bee-uebernimmt-umspannwerk-von-bayernwerk-netz-bau-des-268-megawatt-solarparks-voll-im-zeitplan/",
-      "published_at": "2026-11-04T12:09:46Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "BEE übernimmt Umspannwerk von Bayernwerk Netz – Bau des 268 Megawatt-Solarparks voll im Zeitplan Blue Elephant Energy will das Photovoltaik-Kraftwerk bis nächsten Sommer ans Netz bringen. Zudem bereitet das Unternehmen nun die Hybridisierung des Standorts vor, wobei zunächst ein Grün-, später dann ein Graustromspeicher geplant ist.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "e4efd45710ae3a087e02c58d",
-      "title": "Europas nächste Abhängigkeit entsteht jetzt. Und wir schauen zu.",
-      "url": "https://www.pv-magazine.de/2026/11/04/europas-naechste-abhaengigkeit-entsteht-jetzt-und-wir-schauen-zu/",
-      "published_at": "2026-11-04T10:13:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Europas nächste Abhängigkeit entsteht jetzt. Und wir schauen zu. Warum Europa bei Batteriespeichern auf Krisenmodus umschalten muss – und Natrium-Ionen-Technologie eine industrielle Chance bietet, die wir entschlossen nutzen sollten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c2afe32f3775520b5c5594c3",
-      "title": "BW ESS bringt Batteriespeicher „Hams Hall“ innerhalb von 20 Tagen von der Inbetriebnahme bis zum kommerziellen Betrieb",
-      "url": "https://www.pv-magazine.de/2026/11/04/bw-ess-bringt-das-batteriespeicher-hams-hall-innerhalb-von-20-tagen-von-der-inbetriebnahme-bis-zum-kommerziellen-betrieb/",
-      "published_at": "2026-11-04T09:17:29Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "BW ESS bringt Batteriespeicher „Hams Hall“ innerhalb von 20 Tagen von der Inbetriebnahme bis zum kommerziellen Betrieb Das Projekt gehört mit 1,24 Gigawattstunden Kapazität zu den größten Europas. Der Batteriespeicher ist nun ans britische Stromnetz angeschlossen und in Betrieb.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "b7448f126699677e5bda8cff",
       "title": "Verbrenner-Aus vom Tisch: Was bedeutet das für Auto-Preise und Jobs?",
       "url": "https://www.rnd.de/wirtschaft/verbrenner-aus-vom-tisch-was-bedeutet-das-fuer-auto-preise-und-jobs-VJTLAEVAMRHIHJIWOTTO6R7A7E.html",
@@ -101,41 +103,6 @@
       "source_id": "rnd-wirtschaft",
       "language": "de",
       "summary": "Verbrenner-Aus vom Tisch: Was bedeutet das für Auto-Preise und Jobs? Auch die Befürworter einer Lockerung sind überzeugt: Dem Elektroauto gehört die Zukunft. Trotzdem wollen sie den Verkauf neuer Verbrenner nach 2035 ermöglichen – mit Ausnahmen, die den Umstieg deutlich bremsen könnten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "65b1252b0a6df38bc8c6d2ef",
-      "title": "Mysteriöses Zucken im Stromnetz: Forscher lösen Rätsel um USV-Selbsttests",
-      "url": "https://www.heise.de/news/Mysterioeses-Zucken-im-Stromnetz-Forscher-loesen-Raetsel-um-USV-Selbsttests-11510323.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-11-03T16:54:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Mysteriöses Zucken im Stromnetz: Forscher lösen Rätsel um USV-Selbsttests Jede Minute zucken Stromnetze weltweit kurz. Forscher finden heraus: Gleichzeitige Selbsttests von USVs und Batteriespeichern sind dafür verantwortlich.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0237f26a69f2ecc772d03722",
-      "title": "Sax Power meldet 60 Prozent mehr Umsatz und will Batteriespeicher-Produktion stark ausbauen",
-      "url": "https://www.pv-magazine.de/2026/11/03/sax-power-meldet-60-prozent-mehr-umsatz-und-will-batteriespeicher-produktion-stark-ausbauen/",
-      "published_at": "2026-11-03T15:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Sax Power meldet 60 Prozent mehr Umsatz und will Batteriespeicher-Produktion stark ausbauen Das Erbacher Unternehmen nennt das Wachstum in Österreich, der Schweiz, den Niederlanden und Belgien, den Ausbau des Vertriebs sowie die generell steigende Nachfrage nach Batteriespeichern aus europäischer Produktion als Gründe für das Absatzplus.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "14e48e8ce798373a39dc8c11",
-      "title": "Freiburger bauen Batteriespeicher aus ausrangierten E-Bike-Akkus",
-      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-freiburger-bauen-batteriespeicher-aus-ausrangierten-e-bike-akkus-100.html",
-      "published_at": "2026-11-02T14:05:11Z",
-      "source_id": "tagesschau-bw",
-      "language": "de",
-      "summary": "Freiburger bauen Batteriespeicher aus ausrangierten E-Bike-Akkus Das Freiburger Start-up EDENenergy macht aus gebrauchten Zweirad-Akkus Batterien für die Industrie. Das Verfahren dafür wurde am Institut für Solare Energiesysteme entwickelt.",
       "tags": [],
       "regions": []
     }
