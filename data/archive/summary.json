@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-05T13:11:13Z",
+  "generated_at_utc": "2026-11-05T23:39:02Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 937,
+  "total_in_archive": 938,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,35 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 29
+    "2026-11": 30
   },
   "recent_for_ui": [
+    {
+      "id": "e7c072a792d3051603cea763",
+      "title": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich",
+      "url": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
+      "published_at": "2026-11-05T17:27:08Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich Günstiger parken und keine E-Kennzeichen-Pflicht mehr: Der Bundestag hat das reformierte Elektromobilitätsgesetz verabschiedet. Bisher nutzen allerdings nur wenige Kommunen den Spielraum des Gesetzes aus. Von Michael Eiden.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "aae26e1c81b0551042f4f243",
+      "title": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL",
+      "url": "https://www.pv-magazine.de/2026/11/05/das-ist-der-aktuelle-stand-bei-eeg-novelle-agnes-netzpaket-und-mispel/",
+      "published_at": "2026-11-05T16:35:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL Derzeit gibt es vier wichtige Vorhaben, die die erneuerbare Energiebranche, Erzeuger und Batteriespeicher stark beeinflussen werden. Die parallel vorangetriebenen Maßnahmen können leicht zu einer Überforderung führen. Wir fassen den aktuellen Stand vor den abschließenden Beratungen im Bundestag und Bundesrat zusammen.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
     {
       "id": "0f6d8660fa8dba4d30b024d9",
       "title": "Revolta installiert ersten Natrium-Ionen-Heimspeicher in Deutschland",
@@ -36,15 +62,15 @@
       "regions": []
     },
     {
-      "id": "aae26e1c81b0551042f4f243",
-      "title": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL",
-      "url": "https://www.pv-magazine.de/2026/11/05/das-ist-der-aktuelle-stand-bei-eeg-novelle-agnes-netzpaket-und-mispel/",
-      "published_at": "2026-11-05T10:35:00Z",
+      "id": "aed04968ea7a551fd19cd905",
+      "title": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland",
+      "url": "https://www.pv-magazine.de/2026/11/05/return-erhaelt-finanzierung-ueber-835-millionen-euro-fuer-grosse-batteriespeicher-in-deutschland/",
+      "published_at": "2026-11-05T10:36:12Z",
       "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL Derzeit gibt es vier wichtige Vorhaben, die die erneuerbare Energiebranche, Erzeuger und Batteriespeicher stark beeinflussen werden. Die parallel vorangetriebenen Maßnahmen können leicht zu einer Überforderung führen. Wir fassen den aktuellen Stand vor den abschließenden Beratungen im Bundestag und Bundesrat zusammen.",
+      "summary": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland Das Unternehmen will ab 2027 jährlich mindestens ein Gigawatt an Batteriespeichern in Deutschland ans Netz bringen. Aktuell befinden sich drei Anlagen mit insgesamt 117 Megawatt Leistung und 468 Megawattstunden Kapazität im Bau.",
       "tags": [
-        "politik"
+        "industrie"
       ],
       "regions": []
     },
@@ -57,19 +83,6 @@
       "language": "de",
       "summary": "Sponsored: „Atlas 6000 AC“ – Modularer Stromspeicher von Conow für die Nachrüstung Immer mehr Haushalte nutzen Solarstrom vom eigenen Dach. Conow bietet mit „Atlas 6000 AC“ einen AC-gekoppelter Plug-and-play-Speicher für die Nachrüstung bestehender Photovoltaik-Anlagen an.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "aed04968ea7a551fd19cd905",
-      "title": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland",
-      "url": "https://www.pv-magazine.de/2026/11/05/return-erhaelt-finanzierung-ueber-835-millionen-euro-fuer-grosse-batteriespeicher-in-deutschland/",
-      "published_at": "2026-11-05T09:36:12Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland Das Unternehmen will ab 2027 jährlich mindestens ein Gigawatt an Batteriespeichern in Deutschland ans Netz bringen. Aktuell befinden sich drei Anlagen mit insgesamt 117 Megawatt Leistung und 468 Megawattstunden Kapazität im Bau.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     },
     {
@@ -4543,19 +4556,6 @@
       "summary": "KfW-Umfrage: Bereitschaft zu Investitionen in Photovoltaik, Wärmepumpen und Elektroautos steigt Fünf Prozent der Haushalten wollen innerhalb des nächsten Jahres in eine Energiewende-Technologie investieren, zeigt die Umfrage. Insgesamt 18 Prozent der befragten Haushalte besitzen eine Photovoltaik-Dachanlage, fünf Prozent ein Balkonkraftwerk.",
       "tags": [],
       "regions": []
-    },
-    {
-      "id": "9258253b71bac8303b78d7d3",
-      "title": "Batterierecycling ist derzeit nicht wirtschaftlich",
-      "url": "https://www.pv-magazine.de/2026/08/27/batterierecycling-ist-derzeit-nicht-wirtschaftlich/",
-      "published_at": "2026-08-27T09:15:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Batterierecycling ist derzeit nicht wirtschaftlich Ausgediente Elektroauto-Batterien müssen als Gefahrgut transportiert werden. Einer Studie der HHL Leipzig Graduate School of Management zufolge macht das deren Recycling unwirtschaftlich. Batterien werden daher teurer, wenn sie ab 2031 wiederverwertete Materialien enthalten müssen.",
-      "tags": [],
-      "regions": [
-        "DE-SN"
-      ]
     }
   ]
 }
