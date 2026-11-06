@@ -1,8 +1,65 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 30,
+  "article_count": 35,
   "articles": [
+    {
+      "id": "d7d5973033200a807c3f13d3",
+      "title": "Tesla: Elon Musk kündigt Aus für Cybertruck an",
+      "url": "https://www.golem.de/news/tesla-elon-musk-kuendigt-aus-fuer-cybertruck-an-2611-214938.html",
+      "published_at": "2026-11-06T12:37:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Elon Musk kündigt Aus für Cybertruck an Der Cybertruck sollte Teslas nächstes großes Ding werden, gut verkauft hat sich der elektrische Pickup nie. Jetzt wird die Produktion eingestellt. ( Tesla Cybertruck , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c5caecaf251cdf8d87b89e3d",
+      "title": "Akku-Vorheizung und mehr Komfort: VW bringt wichtiges Update für ältere ID.-Modelle",
+      "url": "https://www.golem.de/news/akku-vorheizung-und-mehr-komfort-vw-bringt-wichtiges-update-fuer-aeltere-id-modelle-2611-214935.html",
+      "published_at": "2026-11-06T11:43:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Akku-Vorheizung und mehr Komfort: VW bringt wichtiges Update für ältere ID.-Modelle Mehr Ladekomfort, höhere Sicherheit: Volkswagen verteilt das Software-Update 3.9.1 für ausgewählte E-Autos. ( Volkswagen ID. , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3f29e8d9c9951e6d0430a5a9",
+      "title": "Elektromobilitätsgesetz: Bundestag verlängert Sonderrechte für E-Autos bis 2035",
+      "url": "https://www.golem.de/news/elektromobilitaetsgesetz-bundestag-verlaengert-sonderrechte-fuer-e-autos-bis-2035-2611-214931.html",
+      "published_at": "2026-11-06T11:19:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilitätsgesetz: Bundestag verlängert Sonderrechte für E-Autos bis 2035 Der Bundestag hat der Verlängerung der Sonderrechte für E-Autos zugestimmt. Die bisherigen Regelungen wären Ende 2026 ausgelaufen. ( Elektromobilität , Auto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "47a2889a34515b5ae12b1e1c",
+      "title": "FSD: Wieder schlafender Tesla-Fahrer in Kanada gefilmt",
+      "url": "https://www.golem.de/news/fsd-wieder-schlafender-tesla-fahrer-in-kanada-gefilmt-2611-214933.html",
+      "published_at": "2026-11-06T10:51:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "FSD: Wieder schlafender Tesla-Fahrer in Kanada gefilmt Teslas FSD Supervised funktioniert gut - so gut, dass manche Fahrer nicht mehr aufpassen. In Kanada ist offenbar erneut ein Pärchen am Steuer eingeschlafen. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a7d7f7a61cf71cdd4dda3d5b",
+      "title": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet",
+      "url": "https://www.pv-magazine.de/2026/11/06/steuerstundungsmodell-und-investitionsabzugsbetrag-was-paragraf-15b-estg-fuer-photovoltaik-und-batteriespeicher-direktinvestments-wirklich-bedeutet/",
+      "published_at": "2026-11-06T09:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet Seit dem Gerichtsbescheid IV R 14/23 des Bundesfinanzhofs steht fest: Auch Verluste aus einem Investitionsabzugsbetrag können ein Steuerstundungsmodell nach Paragraf 15b Einkommensteuergesetz begründen. Ein Pauschalurteil über Photovoltaik- und Batter",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e7c072a792d3051603cea763",
       "title": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich",
