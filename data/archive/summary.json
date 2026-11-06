@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-05T23:39:02Z",
+  "generated_at_utc": "2026-11-06T12:56:32Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 938,
+  "total_in_archive": 943,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,66 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 30
+    "2026-11": 35
   },
   "recent_for_ui": [
+    {
+      "id": "d7d5973033200a807c3f13d3",
+      "title": "Tesla: Elon Musk kündigt Aus für Cybertruck an",
+      "url": "https://www.golem.de/news/tesla-elon-musk-kuendigt-aus-fuer-cybertruck-an-2611-214938.html",
+      "published_at": "2026-11-06T12:37:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Elon Musk kündigt Aus für Cybertruck an Der Cybertruck sollte Teslas nächstes großes Ding werden, gut verkauft hat sich der elektrische Pickup nie. Jetzt wird die Produktion eingestellt. ( Tesla Cybertruck , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c5caecaf251cdf8d87b89e3d",
+      "title": "Akku-Vorheizung und mehr Komfort: VW bringt wichtiges Update für ältere ID.-Modelle",
+      "url": "https://www.golem.de/news/akku-vorheizung-und-mehr-komfort-vw-bringt-wichtiges-update-fuer-aeltere-id-modelle-2611-214935.html",
+      "published_at": "2026-11-06T11:43:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Akku-Vorheizung und mehr Komfort: VW bringt wichtiges Update für ältere ID.-Modelle Mehr Ladekomfort, höhere Sicherheit: Volkswagen verteilt das Software-Update 3.9.1 für ausgewählte E-Autos. ( Volkswagen ID. , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3f29e8d9c9951e6d0430a5a9",
+      "title": "Elektromobilitätsgesetz: Bundestag verlängert Sonderrechte für E-Autos bis 2035",
+      "url": "https://www.golem.de/news/elektromobilitaetsgesetz-bundestag-verlaengert-sonderrechte-fuer-e-autos-bis-2035-2611-214931.html",
+      "published_at": "2026-11-06T11:19:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektromobilitätsgesetz: Bundestag verlängert Sonderrechte für E-Autos bis 2035 Der Bundestag hat der Verlängerung der Sonderrechte für E-Autos zugestimmt. Die bisherigen Regelungen wären Ende 2026 ausgelaufen. ( Elektromobilität , Auto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "47a2889a34515b5ae12b1e1c",
+      "title": "FSD: Wieder schlafender Tesla-Fahrer in Kanada gefilmt",
+      "url": "https://www.golem.de/news/fsd-wieder-schlafender-tesla-fahrer-in-kanada-gefilmt-2611-214933.html",
+      "published_at": "2026-11-06T10:51:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "FSD: Wieder schlafender Tesla-Fahrer in Kanada gefilmt Teslas FSD Supervised funktioniert gut - so gut, dass manche Fahrer nicht mehr aufpassen. In Kanada ist offenbar erneut ein Pärchen am Steuer eingeschlafen. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a7d7f7a61cf71cdd4dda3d5b",
+      "title": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet",
+      "url": "https://www.pv-magazine.de/2026/11/06/steuerstundungsmodell-und-investitionsabzugsbetrag-was-paragraf-15b-estg-fuer-photovoltaik-und-batteriespeicher-direktinvestments-wirklich-bedeutet/",
+      "published_at": "2026-11-06T09:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet Seit dem Gerichtsbescheid IV R 14/23 des Bundesfinanzhofs steht fest: Auch Verluste aus einem Investitionsabzugsbetrag können ein Steuerstundungsmodell nach Paragraf 15b Einkommensteuergesetz begründen. Ein Pauschalurteil über Photovoltaik- und Batter",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e7c072a792d3051603cea763",
       "title": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich",
@@ -4499,61 +4556,6 @@
       "source_id": "faz-aktuell",
       "language": "de",
       "summary": "Venezuela: Am Ende geht es doch ums Öl Präsident Trump greift nach Venezuelas Bodenschätzen. Die Zyniker hatten recht – und die Demokratie muss warten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4478abfd219cd83af56fa82c",
-      "title": "Anzeige: Turtle Beach Vulcan II-RGB-Tactile-Gaming-Tastatur jetzt zum Tiefpreis bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-turtle-beach-vulcan-ii-rgb-tactile-gaming-tastatur-jetzt-zum-tiefpreis-bei-amazon-2608-212400.html",
-      "published_at": "2026-08-28T11:40:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Turtle Beach Vulcan II-RGB-Tactile-Gaming-Tastatur jetzt zum Tiefpreis bei Amazon Anders als viele mechanische Tastaturen setzt die Turtle Beach Vulcan II Tactile auf besonders schnelle und langlebige TITAN-Schalter. ( Technik/Hardware )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "637c9ce099b6ff16e0ddd797",
-      "title": "Enervis-Batteriespeicher-Index: Batteriespeicher-Erlöse in Deutschland bleiben im Juli auf hohem Niveau – starke Photovoltaik-Einspeisung und hohe Preise zu Spitzenlastzeiten, getrieben durch erneut gestiegene Gaspreise",
-      "url": "https://www.pv-magazine.de/2026/08/28/enervis-batteriespeicher-index-batteriespeicher-erloese-in-deutschland-bleiben-im-juli-auf-hohem-niveau-starke-photovoltaik-einspeisung-und-hohe-preise-zu-spitzenlastzeiten-getrieben-durch/",
-      "published_at": "2026-08-28T09:51:47Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Enervis-Batteriespeicher-Index: Batteriespeicher-Erlöse in Deutschland bleiben im Juli auf hohem Niveau – starke Photovoltaik-Einspeisung und hohe Preise zu Spitzenlastzeiten, getrieben durch erneut gestiegene Gaspreise Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "52cb96efbd2cefcf92d14edd",
-      "title": "Elektromobilität bei der Polizei: Metropolitan Police setzt auf E-Motorräder",
-      "url": "https://www.golem.de/news/elektromobilitaet-bei-der-polizei-metropolitan-police-setzt-auf-e-motorraeder-2608-212382.html",
-      "published_at": "2026-08-28T06:26:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektromobilität bei der Polizei: Metropolitan Police setzt auf E-Motorräder Die Metropolitan Police stockt ihre Flotte von 5 auf 25 E-Motorräder auf, um Smartphone-Diebstähle in London zu bekämpfen. ( Elektromotorrad , Elektromobilität )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "31e30319ed8a648e1342a4d7",
-      "title": "Während VW in Emden bangt, stapeln sich in Wilhelmshaven tausende China-Autos",
-      "url": "https://www.rnd.de/wirtschaft/waehrend-vw-in-emden-bangt-stapeln-sich-in-wilhelmshaven-tausende-china-autos-UMT743YC3NEZ3MR2I2UIF4JRNQ.html",
-      "published_at": "2026-08-27T13:35:21Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Während VW in Emden bangt, stapeln sich in Wilhelmshaven tausende China-Autos Im Jade-Weser-Port in Wilhelmshaven werden zunehmend chinesische Elektroautos umgeschlagen, während 60 Kilometer entfernt in Emden VW-Mitarbeiter um ihre Zukunft bangen. Besuch bei einem Symbol für den Wandel der deutschen Automobilindustrie.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "439966a77b71cee509260c59",
-      "title": "KfW-Umfrage: Bereitschaft zu Investitionen in Photovoltaik, Wärmepumpen und Elektroautos steigt",
-      "url": "https://www.pv-magazine.de/2026/08/27/kfw-umfrage-bereitschaft-zu-investitionen-in-photovoltaik-waermepumpen-und-elektroautos-steigt/",
-      "published_at": "2026-08-27T11:15:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "KfW-Umfrage: Bereitschaft zu Investitionen in Photovoltaik, Wärmepumpen und Elektroautos steigt Fünf Prozent der Haushalten wollen innerhalb des nächsten Jahres in eine Energiewende-Technologie investieren, zeigt die Umfrage. Insgesamt 18 Prozent der befragten Haushalte besitzen eine Photovoltaik-Dachanlage, fünf Prozent ein Balkonkraftwerk.",
       "tags": [],
       "regions": []
     }
