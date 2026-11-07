@@ -2,6 +2,17 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "2f257ee822e0bc7cb500b893",
+      "title": "Elektroauto: Yangwang U9 Xtreme durchbricht die 500-km/h-Grenze",
+      "url": "https://www.golem.de/news/elektroauto-yangwang-u9-xtreme-durchbricht-die-500-km-h-grenze-2611-214962.html",
+      "published_at": "2026-11-07T12:27:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroauto: Yangwang U9 Xtreme durchbricht die 500-km/h-Grenze Das elektrische Hypercar von Yangwang U9 Xtreme hat in Abu Dhabi 503,17 km/h erreicht. Die FIA hat den Wert offiziell anerkannt. ( BYD , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "7ddfba1af29eb4c6b85c5caf",
       "title": "RIP Cybertruck: Elons Traummobil wurde nur vier Jahre alt",
       "url": "https://www.golem.de/news/rip-cybertruck-elons-traummobil-wurde-nur-vier-jahre-alt-2611-214960.html",
@@ -29,7 +40,7 @@
       "id": "a7d7f7a61cf71cdd4dda3d5b",
       "title": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet",
       "url": "https://www.pv-magazine.de/2026/11/06/steuerstundungsmodell-und-investitionsabzugsbetrag-was-paragraf-15b-estg-fuer-photovoltaik-und-batteriespeicher-direktinvestments-wirklich-bedeutet/",
-      "published_at": "2026-11-06T14:15:00Z",
+      "published_at": "2026-11-06T16:15:00Z",
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet Seit dem Gerichtsbescheid IV R 14/23 des Bundesfinanzhofs steht fest: Auch Verluste aus einem Investitionsabzugsbetrag können ein Steuerstundungsmodell nach Paragraf 15b Einkommensteuergesetz begründen. Ein Pauschalurteil über Photovoltaik- und Batter",
