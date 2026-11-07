@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-06T12:56:32Z",
+  "generated_at_utc": "2026-11-07T11:43:39Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 943,
+  "total_in_archive": 946,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,55 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 35
+    "2026-11": 38
   },
   "recent_for_ui": [
+    {
+      "id": "7ddfba1af29eb4c6b85c5caf",
+      "title": "RIP Cybertruck: Elons Traummobil wurde nur vier Jahre alt",
+      "url": "https://www.golem.de/news/rip-cybertruck-elons-traummobil-wurde-nur-vier-jahre-alt-2611-214960.html",
+      "published_at": "2026-11-07T11:22:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "RIP Cybertruck: Elons Traummobil wurde nur vier Jahre alt 2027 ist Schluss mit dem Cybertruck - Elon Musks Auto, das nur Fans oder Hater zu haben scheint. Die Geschichte eines Fahrzeugs, das stets auf der Suche nach einer Zielgruppe war. Ein IMHO von Tobias Költzsch ( Tesla Cybertruck , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b0297e86cdf4d537bafe3925",
+      "title": "Cybercab statt Cybertruck: Elon Musk kündigt Aus für den E-Pickup-Truck in Texas an",
+      "url": "https://t3n.de/news/cybertruck-musk-aus-1772173/",
+      "published_at": "2026-11-06T20:47:44Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Cybercab statt Cybertruck: Elon Musk kündigt Aus für den E-Pickup-Truck in Texas an Tesla-Chef Elon Musk hat das Aus für den Cybertruck in der Gigafactory in Texas angekündigt. Der E-Pickup-Truck gilt als größter Flop in der Autogeschichte. In den freiwerdenden Produktionskapazitäten sollen ab Mitte 2027 Cybercabs hergestellt werden. Eine Million Vorbestellungen und eine eigens ausgebaute Fabrik, ",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "a7d7f7a61cf71cdd4dda3d5b",
+      "title": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet",
+      "url": "https://www.pv-magazine.de/2026/11/06/steuerstundungsmodell-und-investitionsabzugsbetrag-was-paragraf-15b-estg-fuer-photovoltaik-und-batteriespeicher-direktinvestments-wirklich-bedeutet/",
+      "published_at": "2026-11-06T14:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet Seit dem Gerichtsbescheid IV R 14/23 des Bundesfinanzhofs steht fest: Auch Verluste aus einem Investitionsabzugsbetrag können ein Steuerstundungsmodell nach Paragraf 15b Einkommensteuergesetz begründen. Ein Pauschalurteil über Photovoltaik- und Batter",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "caf5fae01e55f5bd1d010890",
+      "title": "Tesla will Cybertruck-Produktion in Texas einstellen",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html",
+      "published_at": "2026-11-06T13:09:10Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Tesla will Cybertruck-Produktion in Texas einstellen Der Cybertruck sollte Teslas Antwort auf die beliebten US-Pickups sein. Doch das Elektroauto blieb hinter den Erwartungen zurück. Nun will Elon Musk die Produktion in Texas beenden und Platz für ein anderes Produkt schaffen.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "d7d5973033200a807c3f13d3",
       "title": "Tesla: Elon Musk kündigt Aus für Cybertruck an",
@@ -56,17 +102,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "FSD: Wieder schlafender Tesla-Fahrer in Kanada gefilmt Teslas FSD Supervised funktioniert gut - so gut, dass manche Fahrer nicht mehr aufpassen. In Kanada ist offenbar erneut ein Pärchen am Steuer eingeschlafen. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a7d7f7a61cf71cdd4dda3d5b",
-      "title": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet",
-      "url": "https://www.pv-magazine.de/2026/11/06/steuerstundungsmodell-und-investitionsabzugsbetrag-was-paragraf-15b-estg-fuer-photovoltaik-und-batteriespeicher-direktinvestments-wirklich-bedeutet/",
-      "published_at": "2026-11-06T09:15:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet Seit dem Gerichtsbescheid IV R 14/23 des Bundesfinanzhofs steht fest: Auch Verluste aus einem Investitionsabzugsbetrag können ein Steuerstundungsmodell nach Paragraf 15b Einkommensteuergesetz begründen. Ein Pauschalurteil über Photovoltaik- und Batter",
       "tags": [],
       "regions": []
     },
@@ -4524,39 +4559,6 @@
         "politik",
         "umwelt"
       ],
-      "regions": []
-    },
-    {
-      "id": "01a4224c20a7160e8e7781d7",
-      "title": "Cellforce: Betriebsrat erhebt Vorwürfe",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/cellforce-vorwuerfe-betriebsrat-an-porsche-100.html",
-      "published_at": "2026-08-28T16:19:14Z",
-      "source_id": "swr-aktuell-rss",
-      "language": "de",
-      "summary": "Cellforce: Betriebsrat erhebt Vorwürfe Der Betriebsrat der Porsche-Tochter Cellforce mit Sitz in Kirchentellinsfurt ist unzufrieden. Denn Porsche, heißt es, lasse den Batteriezellenhersteller fallen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0a139166529bc66f8d5fef1e",
-      "title": "Cellforce: Betriebsrat erhebt Vorwürfe",
-      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-cellforce-betriebsrat-erhebt-vorwuerfe-100.html",
-      "published_at": "2026-08-28T13:55:44Z",
-      "source_id": "tagesschau-bw",
-      "language": "de",
-      "summary": "Cellforce: Betriebsrat erhebt Vorwürfe Der Betriebsrat der Porsche-Tochter Cellforce mit Sitz in Kirchentellinsfurt ist unzufrieden. Denn Porsche, heißt es, lasse den Batteriezellenhersteller fallen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1f7685c6c93e83a8b220b6bd",
-      "title": "Venezuela: Am Ende geht es doch ums Öl",
-      "url": "https://www.faz.net/aktuell/wirtschaft/venezuela-donald-trump-greift-nach-dem-oel-des-landes-201168478.html",
-      "published_at": "2026-08-28T13:54:02Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Venezuela: Am Ende geht es doch ums Öl Präsident Trump greift nach Venezuelas Bodenschätzen. Die Zyniker hatten recht – und die Demokratie muss warten.",
-      "tags": [],
       "regions": []
     }
   ]

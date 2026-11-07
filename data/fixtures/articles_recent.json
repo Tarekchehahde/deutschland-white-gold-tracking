@@ -2,6 +2,52 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "7ddfba1af29eb4c6b85c5caf",
+      "title": "RIP Cybertruck: Elons Traummobil wurde nur vier Jahre alt",
+      "url": "https://www.golem.de/news/rip-cybertruck-elons-traummobil-wurde-nur-vier-jahre-alt-2611-214960.html",
+      "published_at": "2026-11-07T11:22:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "RIP Cybertruck: Elons Traummobil wurde nur vier Jahre alt 2027 ist Schluss mit dem Cybertruck - Elon Musks Auto, das nur Fans oder Hater zu haben scheint. Die Geschichte eines Fahrzeugs, das stets auf der Suche nach einer Zielgruppe war. Ein IMHO von Tobias Költzsch ( Tesla Cybertruck , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b0297e86cdf4d537bafe3925",
+      "title": "Cybercab statt Cybertruck: Elon Musk kündigt Aus für den E-Pickup-Truck in Texas an",
+      "url": "https://t3n.de/news/cybertruck-musk-aus-1772173/",
+      "published_at": "2026-11-06T20:47:44Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Cybercab statt Cybertruck: Elon Musk kündigt Aus für den E-Pickup-Truck in Texas an Tesla-Chef Elon Musk hat das Aus für den Cybertruck in der Gigafactory in Texas angekündigt. Der E-Pickup-Truck gilt als größter Flop in der Autogeschichte. In den freiwerdenden Produktionskapazitäten sollen ab Mitte 2027 Cybercabs hergestellt werden. Eine Million Vorbestellungen und eine eigens ausgebaute Fabrik, ",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "a7d7f7a61cf71cdd4dda3d5b",
+      "title": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet",
+      "url": "https://www.pv-magazine.de/2026/11/06/steuerstundungsmodell-und-investitionsabzugsbetrag-was-paragraf-15b-estg-fuer-photovoltaik-und-batteriespeicher-direktinvestments-wirklich-bedeutet/",
+      "published_at": "2026-11-06T14:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet Seit dem Gerichtsbescheid IV R 14/23 des Bundesfinanzhofs steht fest: Auch Verluste aus einem Investitionsabzugsbetrag können ein Steuerstundungsmodell nach Paragraf 15b Einkommensteuergesetz begründen. Ein Pauschalurteil über Photovoltaik- und Batter",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "caf5fae01e55f5bd1d010890",
+      "title": "Tesla will Cybertruck-Produktion in Texas einstellen",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html",
+      "published_at": "2026-11-06T13:09:10Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Tesla will Cybertruck-Produktion in Texas einstellen Der Cybertruck sollte Teslas Antwort auf die beliebten US-Pickups sein. Doch das Elektroauto blieb hinter den Erwartungen zurück. Nun will Elon Musk die Produktion in Texas beenden und Platz für ein anderes Produkt schaffen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "d7d5973033200a807c3f13d3",
       "title": "Tesla: Elon Musk kündigt Aus für Cybertruck an",
       "url": "https://www.golem.de/news/tesla-elon-musk-kuendigt-aus-fuer-cybertruck-an-2611-214938.html",
@@ -48,17 +94,6 @@
       "regions": []
     },
     {
-      "id": "a7d7f7a61cf71cdd4dda3d5b",
-      "title": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet",
-      "url": "https://www.pv-magazine.de/2026/11/06/steuerstundungsmodell-und-investitionsabzugsbetrag-was-paragraf-15b-estg-fuer-photovoltaik-und-batteriespeicher-direktinvestments-wirklich-bedeutet/",
-      "published_at": "2026-11-06T09:15:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet Seit dem Gerichtsbescheid IV R 14/23 des Bundesfinanzhofs steht fest: Auch Verluste aus einem Investitionsabzugsbetrag können ein Steuerstundungsmodell nach Paragraf 15b Einkommensteuergesetz begründen. Ein Pauschalurteil über Photovoltaik- und Batter",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "e7c072a792d3051603cea763",
       "title": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich",
       "url": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
@@ -81,30 +116,6 @@
       "summary": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL Derzeit gibt es vier wichtige Vorhaben, die die erneuerbare Energiebranche, Erzeuger und Batteriespeicher stark beeinflussen werden. Die parallel vorangetriebenen Maßnahmen können leicht zu einer Überforderung führen. Wir fassen den aktuellen Stand vor den abschließenden Beratungen im Bundestag und Bundesrat zusammen.",
       "tags": [
         "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "0f6d8660fa8dba4d30b024d9",
-      "title": "Revolta installiert ersten Natrium-Ionen-Heimspeicher in Deutschland",
-      "url": "https://www.pv-magazine.de/2026/11/05/revolta-installiert-ersten-natrium-ionen-heimspeicher-in-deutschland/",
-      "published_at": "2026-11-05T11:25:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Revolta installiert ersten Natrium-Ionen-Heimspeicher in Deutschland Ein Batteriespeicher mit zehn Kilowattstunden Kapazität ist nahe Aschaffenburg bei einem Endkunden erfolgreich installiert und in Betrieb genommen worden. Dies soll der Startschuss für die kommerzielle Markteinführung der Revolta-Speicher sein.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "aed04968ea7a551fd19cd905",
-      "title": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland",
-      "url": "https://www.pv-magazine.de/2026/11/05/return-erhaelt-finanzierung-ueber-835-millionen-euro-fuer-grosse-batteriespeicher-in-deutschland/",
-      "published_at": "2026-11-05T10:36:12Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Return erhält Finanzierung über 835 Millionen Euro für große Batteriespeicher in Deutschland Das Unternehmen will ab 2027 jährlich mindestens ein Gigawatt an Batteriespeichern in Deutschland ans Netz bringen. Aktuell befinden sich drei Anlagen mit insgesamt 117 Megawatt Leistung und 468 Megawattstunden Kapazität im Bau.",
-      "tags": [
-        "industrie"
       ],
       "regions": []
     }
