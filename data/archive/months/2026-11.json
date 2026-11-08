@@ -1,8 +1,22 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 39,
+  "article_count": 40,
   "articles": [
+    {
+      "id": "9ec8f646f1488b767a357e59",
+      "title": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel",
+      "url": "https://www.golem.de/news/privatfahrzeug-umweltminister-carsten-schneider-faehrt-13-jahre-alten-diesel-2611-214971.html",
+      "published_at": "2026-11-08T14:17:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel Umweltminister Carsten Schneider setzt auf bezahlbare Alternativen statt moralischer Appelle und fährt selbst einen alten Diesel. ( Elektroauto , Auto )",
+      "tags": [
+        "politik",
+        "umwelt"
+      ],
+      "regions": []
+    },
     {
       "id": "2f257ee822e0bc7cb500b893",
       "title": "Elektroauto: Yangwang U9 Xtreme durchbricht die 500-km/h-Grenze",

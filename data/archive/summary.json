@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-08T11:55:44Z",
+  "generated_at_utc": "2026-11-08T22:06:52Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 947,
+  "total_in_archive": 948,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,23 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 39
+    "2026-11": 40
   },
   "recent_for_ui": [
+    {
+      "id": "9ec8f646f1488b767a357e59",
+      "title": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel",
+      "url": "https://www.golem.de/news/privatfahrzeug-umweltminister-carsten-schneider-faehrt-13-jahre-alten-diesel-2611-214971.html",
+      "published_at": "2026-11-08T14:17:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel Umweltminister Carsten Schneider setzt auf bezahlbare Alternativen statt moralischer Appelle und fährt selbst einen alten Diesel. ( Elektroauto , Auto )",
+      "tags": [
+        "politik",
+        "umwelt"
+      ],
+      "regions": []
+    },
     {
       "id": "2f257ee822e0bc7cb500b893",
       "title": "Elektroauto: Yangwang U9 Xtreme durchbricht die 500-km/h-Grenze",
@@ -4543,19 +4557,6 @@
       "language": "de",
       "summary": "Armin Lutzke (FWG): Bürgerbeteiligung am geplanten Großbatteriespeicher prüfen Germersheim &#8211; Der Germersheimer FWG-Stadtrat Armin Lutzke regt an, beim geplanten Großbatteriespeicher am Umspannwerk Germersheim eine direkte Beteiligung der Bürger zu prüfen. Denkbar sei nach seiner Auffassung beispielsweise ein genossenschaftliches Modell. Die Stadtwerke Germersheim planen gemeinsam mit den Sta",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9356afc66fa897bb4a020f65",
-      "title": "PowerCo-Chef Frank Blome: Macht dieser Mann Volkswagen zum Batterie-Champion?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/frank-blome-wird-vw-zum-batterie-champion-in-salzgitter-accg-201157590.html",
-      "published_at": "2026-08-29T08:05:05Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "PowerCo-Chef Frank Blome: Macht dieser Mann Volkswagen zum Batterie-Champion? VW bereitet das größte Sparprogramm seiner Geschichte vor – und investiert zugleich Milliarden in neue Batteriefabriken. Frank Blome ist der Kopf hinter dem wagemutigsten Projekt der europäischen Autoindustrie.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]
