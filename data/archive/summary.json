@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-08T22:06:52Z",
+  "generated_at_utc": "2026-11-09T13:53:15Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 948,
+  "total_in_archive": 954,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,75 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 40
+    "2026-11": 46
   },
   "recent_for_ui": [
+    {
+      "id": "50bc88e65f245eb4973967fc",
+      "title": "Österreichs größter Batteriespeicher mit 1,2 Gigawattstunden soll in Molln entstehen",
+      "url": "https://www.pv-magazine.de/2026/11/09/oesterreichs-groesster-batteriespeicher-mit-12-gigawattstunden-soll-in-molln-entstehen/",
+      "published_at": "2026-11-09T13:29:45Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Österreichs größter Batteriespeicher mit 1,2 Gigawattstunden soll in Molln entstehen Das Projekt ist noch in der Frühphase, Standort und Größe sind aber bestätigt. Demnach wird der international tätige britische Stromerzeuger Contour Global 300 Megawatt Leistung und 1,2 Gigawattstunden Kapazität voraussichtlich 2029 ans Netz bringen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0915bf56f44f5e2ccf7d108e",
+      "title": "PV5 Crew: Kias Bulli-Konkurrent lässt sich von Fünfsitzer in Transporter umwandeln",
+      "url": "https://www.golem.de/news/pv5-crew-kias-bulli-konkurrent-laesst-sich-von-fuenfsitzer-in-transporter-umwandeln-2611-214996.html",
+      "published_at": "2026-11-09T13:29:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "PV5 Crew: Kias Bulli-Konkurrent lässt sich von Fünfsitzer in Transporter umwandeln Kia bringt den Elektro-Minibus PV5 in der interessanten Crew-Variante: Diese kombiniert einen Fünfsitzer mit der Cargo-Version. ( Kia , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8f0e7b52f8bc9b8d0b8e6640",
+      "title": "Natrium-Ionen-Batteriezellen nähern sich der Kostenparität mit Lithium-Eisenphosphat",
+      "url": "https://www.pv-magazine.de/2026/11/09/natrium-ionen-batteriezellen-naehern-sich-der-kostenparitaet-mit-lithium-eisenphosphat/",
+      "published_at": "2026-11-09T11:24:23Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Natrium-Ionen-Batteriezellen nähern sich der Kostenparität mit Lithium-Eisenphosphat Auf Zellenebene haben Natrium-Ionen-Batteriespeicher der Kostenparität mit der Lithium-Eisenphosphat-Technologie fast erreicht, wobei weltweit Lieferverträge über 70 Gigawattstunden abgeschlossen wurden. Trotz höherer Anschaffungskosten könnten sie laut Wood Mackenzie über einen Zeitraum von 20 Jahren um 21 Prozen",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "306bd6f6c1a1e4c31f4f2b22",
+      "title": "Lithium-Luft: CATL erforscht Akku für theoretisch 2.000 km Reichweite",
+      "url": "https://www.golem.de/news/lithium-luft-catl-erforscht-akku-fuer-theoretisch-2-000-km-reichweite-2611-214980.html",
+      "published_at": "2026-11-09T10:06:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Lithium-Luft: CATL erforscht Akku für theoretisch 2.000 km Reichweite CATL sieht in Lithium-Luft-Akkus ein Langzeitziel. Sie könnten bis zu fünfmal so viel Energie speichern wie Festkörperakkus. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e0abb6c2093ab39b2cf75516",
+      "title": "Bankability und Erlössicherheit bei Co-Location von Photovoltaik und Grünstrom-Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/11/09/bankability-und-erloessicherheit-bei-co-location-von-photovoltaik-und-gruenstrom-batteriespeicher/",
+      "published_at": "2026-11-09T09:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bankability und Erlössicherheit bei Co-Location von Photovoltaik und Grünstrom-Batteriespeicher Mit Grünstromspeichern können Photovoltaikprojekte den Wert des erzeugten Solarstroms deutlich steigern. Damit Banken solche Projekte finanzieren, müssen Erlöse jedoch häufig vertraglich abgesichert werden. Julien Demoustier von Energy2market erklärt anhand der Renditezahlen eines 20-Megawatt-Projekts u",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a76447582ff7b71fa823bab7",
+      "title": "Neue Klasse: BMW kauft Akkuzellen künftig näher an seinen Werken",
+      "url": "https://www.heise.de/news/Local-for-Local-BMW-regionalisiert-die-Zellbeschaffung-fuer-E-Autos-11516951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-11-09T09:14:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Neue Klasse: BMW kauft Akkuzellen künftig näher an seinen Werken Neue Bezugsquellen für die Gen6-Batterien seiner „Neue-Klasse“-Plattform: BMW bezieht künftig auch Zellen von Samsung SDI aus Europa und von LG aus den USA.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "9ec8f646f1488b767a357e59",
       "title": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel",
@@ -20,7 +86,7 @@
       "published_at": "2026-11-08T14:17:01Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel Umweltminister Carsten Schneider setzt auf bezahlbare Alternativen statt moralischer Appelle und fährt selbst einen alten Diesel. ( Elektroauto , Auto )",
+      "summary": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel Bei der Energiewende setzt Schneider auf bezahlbare Alternativen statt moralischer Appelle - auch privat. ( Elektroauto , Auto )",
       "tags": [
         "politik",
         "umwelt"
@@ -4490,72 +4556,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Leag startet Bau des 1,6 Gigawattstunden-Speichers in Sachsen Am sächsischen Kraftwerksstandort Boxberg entsteht der Batteriespeicher mit 400 Megawatt Leistung und 1600 Megawattstunden Kapazität. Neben Leag Clean Power sind Hyperstrong und Siemens Energy an dem Bau der „GigaBattery Boxberg 400“ beteiligt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ce563e6b11d73778401a1c76",
-      "title": "VDA: Deutschland kommt beim Lkw-Ladenetz kaum voran",
-      "url": "https://www.golem.de/news/vda-deutschland-kommt-beim-lkw-ladenetz-kaum-voran-2608-212456.html",
-      "published_at": "2026-08-31T11:51:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "VDA: Deutschland kommt beim Lkw-Ladenetz kaum voran Deutschland braucht in Zukunft Ladepunkte für Elektro-Lkw - der Ausbau stockt aber. Die VDA-Präsidentin fordert einen \"Ausbauturbo\". ( Lkw , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "72f8dca7f8aeefd0a3765db7",
-      "title": "VW ID.California Cruise: Elektrischer Camper startet bei 60.761 Euro",
-      "url": "https://www.golem.de/news/vw-id-california-cruise-elektrischer-camper-startet-bei-60-761-euro-2608-212446.html",
-      "published_at": "2026-08-31T10:03:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "VW ID.California Cruise: Elektrischer Camper startet bei 60.761 Euro VW bringt eine Campingversion des ID.Buzz auf den Markt. Der Aufpreis beträgt 4.700 Euro. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "be8937190aa53dbe85056d5f",
-      "title": "heise+ | Elektroauto Mercedes GLC 400 im Test: E-SUV lässt Verbrenner alt aussehen",
-      "url": "https://www.heise.de/tests/Elektroauto-Mercedes-GLC-400-im-Test-E-SUV-laesst-Verbrenner-alt-aussehen-11425170.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-08-31T05:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Elektroauto Mercedes GLC 400 im Test: E-SUV lässt Verbrenner alt aussehen Der elektrische GLC überzeugt mit viel Komfort, hoher Reichweite und schnellem Laden. Er stellt den weiterhin angebotenen GLC mit Verbrenner in den Schatten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "efaa6c459bf9526326e74e30",
-      "title": "ID.1: VWs 20.000-Euro-Elektroauto soll ID.Up heißen",
-      "url": "https://www.golem.de/news/id-1-vws-20-000-euro-elektroauto-soll-id-up-heissen-2608-212422.html",
-      "published_at": "2026-08-30T08:33:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "ID.1: VWs 20.000-Euro-Elektroauto soll ID.Up heißen Volkswagen hat sich wohl bei der Benennung des Kleinwagens für eine bekannte Marke entschieden. Der ID.Up soll weiterhin günstiger bleiben. ( Volkswagen ID. , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d07e70574952b30978234eb3",
-      "title": "Audi Q6 e-tron und XPeng P7+: Deutsches und chinesisches Elektroauto im Technik-Test",
-      "url": "https://www.spiegel.de/mobilitaet/auto/audi-q6-e-tron-und-xpeng-p7-deutsches-und-chinesisches-elektroauto-im-technik-test-a-b488b831-49dd-4538-8a8f-a94e7638e59e",
-      "published_at": "2026-08-29T15:28:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Audi Q6 e-tron und XPeng P7+: Deutsches und chinesisches Elektroauto im Technik-Test Chinesische Elektroautos sind günstiger als deutsche. Aber sind sie tatsächlich auch technisch überlegen? Ein Vergleichstest zwischen einem Audi und einem XPeng in fünf Disziplinen gibt Aufschluss.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4d8585c6a201313510aac9b9",
-      "title": "Armin Lutzke (FWG): Bürgerbeteiligung am geplanten Großbatteriespeicher prüfen",
-      "url": "https://www.pfalz-express.de/armin-lutzke-fwg-buergerbeteiligung-am-geplanten-grossbatteriespeicher-pruefen/",
-      "published_at": "2026-08-29T10:25:58Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Armin Lutzke (FWG): Bürgerbeteiligung am geplanten Großbatteriespeicher prüfen Germersheim &#8211; Der Germersheimer FWG-Stadtrat Armin Lutzke regt an, beim geplanten Großbatteriespeicher am Umspannwerk Germersheim eine direkte Beteiligung der Bürger zu prüfen. Denkbar sei nach seiner Auffassung beispielsweise ein genossenschaftliches Modell. Die Stadtwerke Germersheim planen gemeinsam mit den Sta",
       "tags": [],
       "regions": []
     }

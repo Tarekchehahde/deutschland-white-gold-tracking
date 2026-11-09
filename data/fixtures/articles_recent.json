@@ -2,51 +2,82 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "50bc88e65f245eb4973967fc",
+      "title": "Österreichs größter Batteriespeicher mit 1,2 Gigawattstunden soll in Molln entstehen",
+      "url": "https://www.pv-magazine.de/2026/11/09/oesterreichs-groesster-batteriespeicher-mit-12-gigawattstunden-soll-in-molln-entstehen/",
+      "published_at": "2026-11-09T13:29:45Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Österreichs größter Batteriespeicher mit 1,2 Gigawattstunden soll in Molln entstehen Das Projekt ist noch in der Frühphase, Standort und Größe sind aber bestätigt. Demnach wird der international tätige britische Stromerzeuger Contour Global 300 Megawatt Leistung und 1,2 Gigawattstunden Kapazität voraussichtlich 2029 ans Netz bringen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0915bf56f44f5e2ccf7d108e",
+      "title": "PV5 Crew: Kias Bulli-Konkurrent lässt sich von Fünfsitzer in Transporter umwandeln",
+      "url": "https://www.golem.de/news/pv5-crew-kias-bulli-konkurrent-laesst-sich-von-fuenfsitzer-in-transporter-umwandeln-2611-214996.html",
+      "published_at": "2026-11-09T13:29:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "PV5 Crew: Kias Bulli-Konkurrent lässt sich von Fünfsitzer in Transporter umwandeln Kia bringt den Elektro-Minibus PV5 in der interessanten Crew-Variante: Diese kombiniert einen Fünfsitzer mit der Cargo-Version. ( Kia , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8f0e7b52f8bc9b8d0b8e6640",
+      "title": "Natrium-Ionen-Batteriezellen nähern sich der Kostenparität mit Lithium-Eisenphosphat",
+      "url": "https://www.pv-magazine.de/2026/11/09/natrium-ionen-batteriezellen-naehern-sich-der-kostenparitaet-mit-lithium-eisenphosphat/",
+      "published_at": "2026-11-09T11:24:23Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Natrium-Ionen-Batteriezellen nähern sich der Kostenparität mit Lithium-Eisenphosphat Auf Zellenebene haben Natrium-Ionen-Batteriespeicher der Kostenparität mit der Lithium-Eisenphosphat-Technologie fast erreicht, wobei weltweit Lieferverträge über 70 Gigawattstunden abgeschlossen wurden. Trotz höherer Anschaffungskosten könnten sie laut Wood Mackenzie über einen Zeitraum von 20 Jahren um 21 Prozen",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "306bd6f6c1a1e4c31f4f2b22",
+      "title": "Lithium-Luft: CATL erforscht Akku für theoretisch 2.000 km Reichweite",
+      "url": "https://www.golem.de/news/lithium-luft-catl-erforscht-akku-fuer-theoretisch-2-000-km-reichweite-2611-214980.html",
+      "published_at": "2026-11-09T10:06:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Lithium-Luft: CATL erforscht Akku für theoretisch 2.000 km Reichweite CATL sieht in Lithium-Luft-Akkus ein Langzeitziel. Sie könnten bis zu fünfmal so viel Energie speichern wie Festkörperakkus. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e0abb6c2093ab39b2cf75516",
+      "title": "Bankability und Erlössicherheit bei Co-Location von Photovoltaik und Grünstrom-Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/11/09/bankability-und-erloessicherheit-bei-co-location-von-photovoltaik-und-gruenstrom-batteriespeicher/",
+      "published_at": "2026-11-09T09:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bankability und Erlössicherheit bei Co-Location von Photovoltaik und Grünstrom-Batteriespeicher Mit Grünstromspeichern können Photovoltaikprojekte den Wert des erzeugten Solarstroms deutlich steigern. Damit Banken solche Projekte finanzieren, müssen Erlöse jedoch häufig vertraglich abgesichert werden. Julien Demoustier von Energy2market erklärt anhand der Renditezahlen eines 20-Megawatt-Projekts u",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a76447582ff7b71fa823bab7",
+      "title": "Neue Klasse: BMW kauft Akkuzellen künftig näher an seinen Werken",
+      "url": "https://www.heise.de/news/Local-for-Local-BMW-regionalisiert-die-Zellbeschaffung-fuer-E-Autos-11516951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-11-09T09:14:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Neue Klasse: BMW kauft Akkuzellen künftig näher an seinen Werken Neue Bezugsquellen für die Gen6-Batterien seiner „Neue-Klasse“-Plattform: BMW bezieht künftig auch Zellen von Samsung SDI aus Europa und von LG aus den USA.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "9ec8f646f1488b767a357e59",
       "title": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel",
       "url": "https://www.golem.de/news/privatfahrzeug-umweltminister-carsten-schneider-faehrt-13-jahre-alten-diesel-2611-214971.html",
       "published_at": "2026-11-08T14:17:01Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel Umweltminister Carsten Schneider setzt auf bezahlbare Alternativen statt moralischer Appelle und fährt selbst einen alten Diesel. ( Elektroauto , Auto )",
+      "summary": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel Bei der Energiewende setzt Schneider auf bezahlbare Alternativen statt moralischer Appelle - auch privat. ( Elektroauto , Auto )",
       "tags": [
         "politik",
         "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "2f257ee822e0bc7cb500b893",
-      "title": "Elektroauto: Yangwang U9 Xtreme durchbricht die 500-km/h-Grenze",
-      "url": "https://www.golem.de/news/elektroauto-yangwang-u9-xtreme-durchbricht-die-500-km-h-grenze-2611-214962.html",
-      "published_at": "2026-11-07T12:27:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Yangwang U9 Xtreme durchbricht die 500-km/h-Grenze Das elektrische Hypercar von Yangwang U9 Xtreme hat in Abu Dhabi 503,17 km/h erreicht. Die FIA hat den Wert offiziell anerkannt. ( BYD , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7ddfba1af29eb4c6b85c5caf",
-      "title": "RIP Cybertruck: Elons Traummobil wurde nur vier Jahre alt",
-      "url": "https://www.golem.de/news/rip-cybertruck-elons-traummobil-wurde-nur-vier-jahre-alt-2611-214960.html",
-      "published_at": "2026-11-07T11:22:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "RIP Cybertruck: Elons Traummobil wurde nur vier Jahre alt 2027 ist Schluss mit dem Cybertruck - Elon Musks Auto, das nur Fans oder Hater zu haben scheint. Die Geschichte eines Fahrzeugs, das stets auf der Suche nach einer Zielgruppe war. Ein IMHO von Tobias Költzsch ( Tesla Cybertruck , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b0297e86cdf4d537bafe3925",
-      "title": "Cybercab statt Cybertruck: Elon Musk kündigt Aus für den E-Pickup-Truck in Texas an",
-      "url": "https://t3n.de/news/cybertruck-musk-aus-1772173/",
-      "published_at": "2026-11-06T20:47:44Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Cybercab statt Cybertruck: Elon Musk kündigt Aus für den E-Pickup-Truck in Texas an Tesla-Chef Elon Musk hat das Aus für den Cybertruck in der Gigafactory in Texas angekündigt. Der E-Pickup-Truck gilt als größter Flop in der Autogeschichte. In den freiwerdenden Produktionskapazitäten sollen ab Mitte 2027 Cybercabs hergestellt werden. Eine Million Vorbestellungen und eine eigens ausgebaute Fabrik, ",
-      "tags": [
-        "industrie"
       ],
       "regions": []
     },
@@ -73,28 +104,6 @@
       "regions": []
     },
     {
-      "id": "d7d5973033200a807c3f13d3",
-      "title": "Tesla: Elon Musk kündigt Aus für Cybertruck an",
-      "url": "https://www.golem.de/news/tesla-elon-musk-kuendigt-aus-fuer-cybertruck-an-2611-214938.html",
-      "published_at": "2026-11-06T12:37:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla: Elon Musk kündigt Aus für Cybertruck an Der Cybertruck sollte Teslas nächstes großes Ding werden, gut verkauft hat sich der elektrische Pickup nie. Jetzt wird die Produktion eingestellt. ( Tesla Cybertruck , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c5caecaf251cdf8d87b89e3d",
-      "title": "Akku-Vorheizung und mehr Komfort: VW bringt wichtiges Update für ältere ID.-Modelle",
-      "url": "https://www.golem.de/news/akku-vorheizung-und-mehr-komfort-vw-bringt-wichtiges-update-fuer-aeltere-id-modelle-2611-214935.html",
-      "published_at": "2026-11-06T11:43:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Akku-Vorheizung und mehr Komfort: VW bringt wichtiges Update für ältere ID.-Modelle Mehr Ladekomfort, höhere Sicherheit: Volkswagen verteilt das Software-Update 3.9.1 für ausgewählte E-Autos. ( Volkswagen ID. , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "e7c072a792d3051603cea763",
       "title": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich",
       "url": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
@@ -102,19 +111,6 @@
       "source_id": "tagesschau-wirtschaft",
       "language": "de",
       "summary": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich Günstiger parken und keine E-Kennzeichen-Pflicht mehr: Der Bundestag hat das reformierte Elektromobilitätsgesetz verabschiedet. Bisher nutzen allerdings nur wenige Kommunen den Spielraum des Gesetzes aus. Von Michael Eiden.",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "aae26e1c81b0551042f4f243",
-      "title": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL",
-      "url": "https://www.pv-magazine.de/2026/11/05/das-ist-der-aktuelle-stand-bei-eeg-novelle-agnes-netzpaket-und-mispel/",
-      "published_at": "2026-11-05T16:35:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Das ist der aktuelle Stand bei EEG-Novelle, AgNes, Netzpaket und MiSpeL Derzeit gibt es vier wichtige Vorhaben, die die erneuerbare Energiebranche, Erzeuger und Batteriespeicher stark beeinflussen werden. Die parallel vorangetriebenen Maßnahmen können leicht zu einer Überforderung führen. Wir fassen den aktuellen Stand vor den abschließenden Beratungen im Bundestag und Bundesrat zusammen.",
       "tags": [
         "politik"
       ],
