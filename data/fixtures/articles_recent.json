@@ -2,6 +2,56 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "a6f0e27efc8efc7087b5361c",
+      "title": "Bundesregierung meldet milliardenschwere Mehrausgaben für den Haushalt 2027",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/bundesregierung-meldet-milliardenschwere-mehrausgaben-fuer-den-haushalt-2027-a-b3c6d481-3700-4ddb-886c-2d0adeb6e46b",
+      "published_at": "2026-11-10T00:32:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Bundesregierung meldet milliardenschwere Mehrausgaben für den Haushalt 2027 Die Bundesregierung benötigt mehr Geld für den Haushalt des kommenden Jahres – unter anderem für Elektroautoprämien. Die höchste Mehrausgabe geht laut der dem SPIEGEL vorliegenden Liste an die Bundesagentur für Arbeit.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "c4a8dce3d9f3815d2902146b",
+      "title": "17 Megawatt Agri-Photovoltaik-Anlage samt Batteriespeicher auf 26 Hektar",
+      "url": "https://www.pv-magazine.de/2026/11/09/17-megawatt-agri-photovoltaik-anlage-samt-batteriespeicher-auf-26-hektar/",
+      "published_at": "2026-11-09T18:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "17 Megawatt Agri-Photovoltaik-Anlage samt Batteriespeicher auf 26 Hektar Zehn Flächeneigentümer und Landwirte haben sich in Unterfranken zusammengeschlossen, um das Projekt zu realisieren. 90 Prozent der Fläche können dabei weiterhin landwirtschaftlich genutzt werden. Realisiert hat die Agri-Photovoltaik-Anlage mit angeschlossenem 25-Megawattstunden-Batteriespeicher das Münchner Unternehmen Feldwe",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "c4755d0469cc2eed49c46ef5",
+      "title": "Telekom rüstet KI-Fabrik in München nach, Gigafactory bleibt Option",
+      "url": "https://www.heise.de/news/Telekom-ruestet-KI-Fabrik-in-Muenchen-nach-Gigafactory-bleibt-Option-11517926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-11-09T17:17:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Telekom rüstet KI-Fabrik in München nach, Gigafactory bleibt Option Mit viel Politprominenz hat die Telekom am Montag den Startschuss für ihre „KI-Fabrik 2.0“ gegeben. Zu einer möglichen Gigafactory blieb Tim Höttges vage.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "885e56e22a8bc3a9d8cfa6c3",
+      "title": "ZF: Neuer Elektroautomotor liefert bis zu 30.000 U/min und spart Platz und Gewicht",
+      "url": "https://www.golem.de/news/zf-neuer-elektroautomotor-liefert-bis-zu-30-000-u-min-und-spart-platz-und-gewicht-2611-215005.html",
+      "published_at": "2026-11-09T16:08:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "ZF: Neuer Elektroautomotor liefert bis zu 30.000 U/min und spart Platz und Gewicht Der ZF High Revolution Drive liefert hohe Drehzahlen bei weniger Geräuschen, geringerem Gewicht und kleinerem Bauraum. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "50bc88e65f245eb4973967fc",
       "title": "Österreichs größter Batteriespeicher mit 1,2 Gigawattstunden soll in Molln entstehen",
       "url": "https://www.pv-magazine.de/2026/11/09/oesterreichs-groesster-batteriespeicher-mit-12-gigawattstunden-soll-in-molln-entstehen/",
@@ -30,7 +80,7 @@
       "published_at": "2026-11-09T11:24:23Z",
       "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "Natrium-Ionen-Batteriezellen nähern sich der Kostenparität mit Lithium-Eisenphosphat Auf Zellenebene haben Natrium-Ionen-Batteriespeicher der Kostenparität mit der Lithium-Eisenphosphat-Technologie fast erreicht, wobei weltweit Lieferverträge über 70 Gigawattstunden abgeschlossen wurden. Trotz höherer Anschaffungskosten könnten sie laut Wood Mackenzie über einen Zeitraum von 20 Jahren um 21 Prozen",
+      "summary": "Natrium-Ionen-Batteriezellen nähern sich der Kostenparität mit Lithium-Eisenphosphat Auf Zellenebene haben Natrium-Ionen-Batteriespeicher die Kostenparität mit der Lithium-Eisenphosphat-Technologie fast erreicht, wobei weltweit Lieferverträge über 70 Gigawattstunden abgeschlossen wurden. Trotz höherer Anschaffungskosten könnten sie laut Wood Mackenzie über einen Zeitraum von 20 Jahren um 21 Prozen",
       "tags": [],
       "regions": []
     },
