@@ -2,6 +2,74 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "5970f9da77fb541f82814611",
+      "title": "Spionage: Bundeswehr sperrt DJI-Drohnen und chinesische Autos aus",
+      "url": "https://www.golem.de/news/spionage-bundeswehr-sperrt-dji-drohnen-und-chinesische-autos-aus-2611-215061.html",
+      "published_at": "2026-11-10T18:44:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Spionage: Bundeswehr sperrt DJI-Drohnen und chinesische Autos aus Aus Sorge vor möglicher Spionage dürfen chinesische Drohnen und Autos nicht mehr in Bundeswehr-Kasernen. ( Bundeswehr , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "606a310de806e4b66f63521d",
+      "title": "Formula 2030: Polestar holt physische Tasten ins Auto zurück",
+      "url": "https://www.golem.de/news/formula-2030-polestar-holt-physische-tasten-ins-auto-zurueck-2611-215059.html",
+      "published_at": "2026-11-10T18:10:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Formula 2030: Polestar holt physische Tasten ins Auto zurück Die flache Designstudie Formula 2030 gibt Hinweise auf Polestars kommende E-Autos. Im Innenraum kehren zudem physische Bedienelemente zurück. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0afc3b0845baf89661d80315",
+      "title": "Hohe Nachfrage: Bund plant 2027 deutlich mehr Geld für E-Auto-Prämie ein",
+      "url": "https://www.golem.de/news/hohe-nachfrage-bund-plant-2027-deutlich-mehr-geld-fuer-e-auto-praemie-ein-2611-215056.html",
+      "published_at": "2026-11-10T16:51:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Hohe Nachfrage: Bund plant 2027 deutlich mehr Geld für E-Auto-Prämie ein Die Bundesregierung korrigiert ihre Haushaltspläne für die Kaufprämie. Die Mittel für 2027 sollen für rund 400.000 geförderte E-Autos reichen. ( Elektroauto , Tesla )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "6d40935d2d31e1655eea2d42",
+      "title": "Polestar Formula 2030: Vorschau auf die kommenden Elektroautos",
+      "url": "https://www.heise.de/news/Polestar-Formula-2030-Designstudie-als-Vorschau-auf-Polestar-2-und-Polestar-7-11519208.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-11-10T14:51:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Polestar Formula 2030: Vorschau auf die kommenden Elektroautos Mit dem Formula 2030 gibt Polestar einen Ausblick auf das Design des neuen Polestar 2 und des Kompakt-SUV Polestar 7, noch ohne technische Daten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6918d407af22c0c2213bb2e7",
+      "title": "Klarstellung zum 25-prozentigen Vermögensschaden bleibt vage",
+      "url": "https://www.pv-magazine.de/2026/11/10/klarstellung-zum-25-prozentigen-vermoegensschaden-bleibt-vage/",
+      "published_at": "2026-11-10T14:10:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Klarstellung zum 25-prozentigen Vermögensschaden bleibt vage Ab wann eine Batteriespeicherbestellung verbindlich genug ist, um sich den Vertrauensschutz gegenüber den neuen Netzentgelten zu sichern, ist weiterhin umstritten. Die Klarstellung, die die Bundesnetzagentur nun dazu veröffentlicht hat, hilft Projektentwicklern in der Praxis wenig, erläutert Christof Aha, Rechtsanwalt bei Advant Beiten. ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8bdf649e135a7cc7808b617d",
+      "title": "heise+ | Seltene Erden und Lithium: Wie Biotechnologie das Metallrecycling verändert",
+      "url": "https://www.heise.de/hintergrund/Seltene-Erden-und-Lithium-Wie-Biotechnologie-das-Metallrecycling-veraendert-11434134.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-11-10T14:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Seltene Erden und Lithium: Wie Biotechnologie das Metallrecycling verändert Europa forscht an neuen Verfahren, um mit Mikroorganismen, metallbindenden Molekülen und Wasserstoff wertvolle Rohstoffe aus Elektroschrott zu recyceln.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "ac8413fa89928db6da45737a",
       "title": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher",
       "url": "https://www.pv-magazine.de/2026/11/10/elements-green-erhaelt-von-tennet-netzanschlusszusage-fuer-16-gigawattstunden-batteriespeicher/",
