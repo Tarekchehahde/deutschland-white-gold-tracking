@@ -2,16 +2,69 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "a6f0e27efc8efc7087b5361c",
-      "title": "Bundesregierung meldet milliardenschwere Mehrausgaben für den Haushalt 2027",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/bundesregierung-meldet-milliardenschwere-mehrausgaben-fuer-den-haushalt-2027-a-b3c6d481-3700-4ddb-886c-2d0adeb6e46b",
-      "published_at": "2026-11-10T00:32:00Z",
-      "source_id": "spiegel-schlagzeilen",
+      "id": "ac8413fa89928db6da45737a",
+      "title": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/11/10/elements-green-erhaelt-von-tennet-netzanschlusszusage-fuer-16-gigawattstunden-batteriespeicher/",
+      "published_at": "2026-11-10T13:22:00Z",
+      "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "Bundesregierung meldet milliardenschwere Mehrausgaben für den Haushalt 2027 Die Bundesregierung benötigt mehr Geld für den Haushalt des kommenden Jahres – unter anderem für Elektroautoprämien. Die höchste Mehrausgabe geht laut der dem SPIEGEL vorliegenden Liste an die Bundesagentur für Arbeit.",
-      "tags": [
-        "politik"
-      ],
+      "summary": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher Die Anlage soll im niedersächsischen Stadorf gebaut werden. Der 400-Megawatt-Speicher hat eine Speicherdauer von vier Stunden. Damit gehört das Projekt des britischen Photovoltaik- und Speicher-Projektierers zu den größten Speicherprojekten Deutschlands.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3d35ba7dd3d9d16a61f82fdf",
+      "title": "Bayernwerk Netz schreibt zweiten netzdienlichen Batteriespeicher aus",
+      "url": "https://www.pv-magazine.de/2026/11/10/bayernwerk-netz-schreibt-zweiten-netzdienlichen-batteriespeicher-aus/",
+      "published_at": "2026-11-10T11:49:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bayernwerk Netz schreibt zweiten netzdienlichen Batteriespeicher aus Der Speicher soll ein Umspannwerk im Landkreis Bayreuth entlasten. Damit will Bayernwerk Netz eine Netzausbaumaßnahme überflüssig machen. Ausgeschrieben sind eine Leistung von 20 Megawatt und eine Kapazität von mindestens 80 Megawattstunden. Ein weiterer netzdienlicher Speicher soll demnächst in Betrieb gehen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ea56e959b72325d4010327a6",
+      "title": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html",
+      "published_at": "2026-11-10T08:53:53Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke Peking setzt weiter voll auf Export - und knackt auch dank umstrittener Subventionen erneut eine Rekordmarke: Der Handelsüberschuss von mehr als einer Billion Dollar wurde vor allem durch Technologiegüter und Elektroautos erzielt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1ecfc85edfcf46b37a53c123",
+      "title": "Cybertruck-Aus: Tesla fehlen laut Musk die Leute für zwei Autoprogramme",
+      "url": "https://www.golem.de/news/cybertruck-aus-tesla-fehlen-laut-musk-die-leute-fuer-zwei-autoprogramme-2611-215021.html",
+      "published_at": "2026-11-10T08:24:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Cybertruck-Aus: Tesla fehlen laut Musk die Leute für zwei Autoprogramme Musk führt das Auslaufen des Cybertruck auf Personalmangel zurück. Sieben von 14 Managern des Investor Days 2023 haben Tesla anscheinend verlassen. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "903d4a32476696604d5eb54a",
+      "title": "Einer der größten in Europa: Was steckt hinter dem geplanten XXL-Batteriespeicher?",
+      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-einer-der-groessten-in-europa-was-steckt-hinter-dem-geplanten-xxl-batteriespeicher-100.html",
+      "published_at": "2026-11-10T07:54:00Z",
+      "source_id": "tagesschau-bw",
+      "language": "de",
+      "summary": "Einer der größten in Europa: Was steckt hinter dem geplanten XXL-Batteriespeicher? Im Kreis Ludwigsburg soll einer der größten Batteriespeicher Europas entstehen. Warum wird er dort gebaut? Was kostet das Projekt? Muss dafür Natur weichen? Alle Infos im Überblick.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dae09f4d184218f90d5a2a8e",
+      "title": "Yangwang Altior: BYD macht Rolls Royce mit Luxus-Limousine Konkurrenz",
+      "url": "https://www.golem.de/news/yangwang-altior-byd-greift-rolls-royce-mit-elektrischem-luxusauto-an-2611-215017.html",
+      "published_at": "2026-11-10T07:34:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Yangwang Altior: BYD macht Rolls Royce mit Luxus-Limousine Konkurrenz Der Yangwang Altior ist noch länger als der Rolls Royce Spectre und soll bis zu 1.000 km weit kommen. Der Preis ist auch kein Schnäppchen. ( BYD , Elektroauto )",
+      "tags": [],
       "regions": []
     },
     {
@@ -63,17 +116,6 @@
       "regions": []
     },
     {
-      "id": "0915bf56f44f5e2ccf7d108e",
-      "title": "PV5 Crew: Kias Bulli-Konkurrent lässt sich von Fünfsitzer in Transporter umwandeln",
-      "url": "https://www.golem.de/news/pv5-crew-kias-bulli-konkurrent-laesst-sich-von-fuenfsitzer-in-transporter-umwandeln-2611-214996.html",
-      "published_at": "2026-11-09T13:29:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "PV5 Crew: Kias Bulli-Konkurrent lässt sich von Fünfsitzer in Transporter umwandeln Kia bringt den Elektro-Minibus PV5 in der interessanten Crew-Variante: Diese kombiniert einen Fünfsitzer mit der Cargo-Version. ( Kia , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "8f0e7b52f8bc9b8d0b8e6640",
       "title": "Natrium-Ionen-Batteriezellen nähern sich der Kostenparität mit Lithium-Eisenphosphat",
       "url": "https://www.pv-magazine.de/2026/11/09/natrium-ionen-batteriezellen-naehern-sich-der-kostenparitaet-mit-lithium-eisenphosphat/",
@@ -81,64 +123,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Natrium-Ionen-Batteriezellen nähern sich der Kostenparität mit Lithium-Eisenphosphat Auf Zellenebene haben Natrium-Ionen-Batteriespeicher die Kostenparität mit der Lithium-Eisenphosphat-Technologie fast erreicht, wobei weltweit Lieferverträge über 70 Gigawattstunden abgeschlossen wurden. Trotz höherer Anschaffungskosten könnten sie laut Wood Mackenzie über einen Zeitraum von 20 Jahren um 21 Prozen",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "306bd6f6c1a1e4c31f4f2b22",
-      "title": "Lithium-Luft: CATL erforscht Akku für theoretisch 2.000 km Reichweite",
-      "url": "https://www.golem.de/news/lithium-luft-catl-erforscht-akku-fuer-theoretisch-2-000-km-reichweite-2611-214980.html",
-      "published_at": "2026-11-09T10:06:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Lithium-Luft: CATL erforscht Akku für theoretisch 2.000 km Reichweite CATL sieht in Lithium-Luft-Akkus ein Langzeitziel. Sie könnten bis zu fünfmal so viel Energie speichern wie Festkörperakkus. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e0abb6c2093ab39b2cf75516",
-      "title": "Bankability und Erlössicherheit bei Co-Location von Photovoltaik und Grünstrom-Batteriespeicher",
-      "url": "https://www.pv-magazine.de/2026/11/09/bankability-und-erloessicherheit-bei-co-location-von-photovoltaik-und-gruenstrom-batteriespeicher/",
-      "published_at": "2026-11-09T09:15:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Bankability und Erlössicherheit bei Co-Location von Photovoltaik und Grünstrom-Batteriespeicher Mit Grünstromspeichern können Photovoltaikprojekte den Wert des erzeugten Solarstroms deutlich steigern. Damit Banken solche Projekte finanzieren, müssen Erlöse jedoch häufig vertraglich abgesichert werden. Julien Demoustier von Energy2market erklärt anhand der Renditezahlen eines 20-Megawatt-Projekts u",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a76447582ff7b71fa823bab7",
-      "title": "Neue Klasse: BMW kauft Akkuzellen künftig näher an seinen Werken",
-      "url": "https://www.heise.de/news/Local-for-Local-BMW-regionalisiert-die-Zellbeschaffung-fuer-E-Autos-11516951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-11-09T09:14:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Neue Klasse: BMW kauft Akkuzellen künftig näher an seinen Werken Neue Bezugsquellen für die Gen6-Batterien seiner „Neue-Klasse“-Plattform: BMW bezieht künftig auch Zellen von Samsung SDI aus Europa und von LG aus den USA.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9ec8f646f1488b767a357e59",
-      "title": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel",
-      "url": "https://www.golem.de/news/privatfahrzeug-umweltminister-carsten-schneider-faehrt-13-jahre-alten-diesel-2611-214971.html",
-      "published_at": "2026-11-08T14:17:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel Bei der Energiewende setzt Schneider auf bezahlbare Alternativen statt moralischer Appelle - auch privat. ( Elektroauto , Auto )",
-      "tags": [
-        "politik",
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "a7d7f7a61cf71cdd4dda3d5b",
-      "title": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet",
-      "url": "https://www.pv-magazine.de/2026/11/06/steuerstundungsmodell-und-investitionsabzugsbetrag-was-paragraf-15b-estg-fuer-photovoltaik-und-batteriespeicher-direktinvestments-wirklich-bedeutet/",
-      "published_at": "2026-11-06T16:15:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet Seit dem Gerichtsbescheid IV R 14/23 des Bundesfinanzhofs steht fest: Auch Verluste aus einem Investitionsabzugsbetrag können ein Steuerstundungsmodell nach Paragraf 15b Einkommensteuergesetz begründen. Ein Pauschalurteil über Photovoltaik- und Batter",
       "tags": [],
       "regions": []
     },

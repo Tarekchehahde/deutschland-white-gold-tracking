@@ -1,8 +1,74 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 50,
+  "article_count": 56,
   "articles": [
+    {
+      "id": "ac8413fa89928db6da45737a",
+      "title": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/11/10/elements-green-erhaelt-von-tennet-netzanschlusszusage-fuer-16-gigawattstunden-batteriespeicher/",
+      "published_at": "2026-11-10T13:22:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher Die Anlage soll im niedersächsischen Stadorf gebaut werden. Der 400-Megawatt-Speicher hat eine Speicherdauer von vier Stunden. Damit gehört das Projekt des britischen Photovoltaik- und Speicher-Projektierers zu den größten Speicherprojekten Deutschlands.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3d35ba7dd3d9d16a61f82fdf",
+      "title": "Bayernwerk Netz schreibt zweiten netzdienlichen Batteriespeicher aus",
+      "url": "https://www.pv-magazine.de/2026/11/10/bayernwerk-netz-schreibt-zweiten-netzdienlichen-batteriespeicher-aus/",
+      "published_at": "2026-11-10T11:49:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bayernwerk Netz schreibt zweiten netzdienlichen Batteriespeicher aus Der Speicher soll ein Umspannwerk im Landkreis Bayreuth entlasten. Damit will Bayernwerk Netz eine Netzausbaumaßnahme überflüssig machen. Ausgeschrieben sind eine Leistung von 20 Megawatt und eine Kapazität von mindestens 80 Megawattstunden. Ein weiterer netzdienlicher Speicher soll demnächst in Betrieb gehen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ea56e959b72325d4010327a6",
+      "title": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html",
+      "published_at": "2026-11-10T08:53:53Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke Peking setzt weiter voll auf Export - und knackt auch dank umstrittener Subventionen erneut eine Rekordmarke: Der Handelsüberschuss von mehr als einer Billion Dollar wurde vor allem durch Technologiegüter und Elektroautos erzielt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1ecfc85edfcf46b37a53c123",
+      "title": "Cybertruck-Aus: Tesla fehlen laut Musk die Leute für zwei Autoprogramme",
+      "url": "https://www.golem.de/news/cybertruck-aus-tesla-fehlen-laut-musk-die-leute-fuer-zwei-autoprogramme-2611-215021.html",
+      "published_at": "2026-11-10T08:24:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Cybertruck-Aus: Tesla fehlen laut Musk die Leute für zwei Autoprogramme Musk führt das Auslaufen des Cybertruck auf Personalmangel zurück. Sieben von 14 Managern des Investor Days 2023 haben Tesla anscheinend verlassen. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "903d4a32476696604d5eb54a",
+      "title": "Einer der größten in Europa: Was steckt hinter dem geplanten XXL-Batteriespeicher?",
+      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-einer-der-groessten-in-europa-was-steckt-hinter-dem-geplanten-xxl-batteriespeicher-100.html",
+      "published_at": "2026-11-10T07:54:00Z",
+      "source_id": "tagesschau-bw",
+      "language": "de",
+      "summary": "Einer der größten in Europa: Was steckt hinter dem geplanten XXL-Batteriespeicher? Im Kreis Ludwigsburg soll einer der größten Batteriespeicher Europas entstehen. Warum wird er dort gebaut? Was kostet das Projekt? Muss dafür Natur weichen? Alle Infos im Überblick.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dae09f4d184218f90d5a2a8e",
+      "title": "Yangwang Altior: BYD macht Rolls Royce mit Luxus-Limousine Konkurrenz",
+      "url": "https://www.golem.de/news/yangwang-altior-byd-greift-rolls-royce-mit-elektrischem-luxusauto-an-2611-215017.html",
+      "published_at": "2026-11-10T07:34:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Yangwang Altior: BYD macht Rolls Royce mit Luxus-Limousine Konkurrenz Der Yangwang Altior ist noch länger als der Rolls Royce Spectre und soll bis zu 1.000 km weit kommen. Der Preis ist auch kein Schnäppchen. ( BYD , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "a6f0e27efc8efc7087b5361c",
       "title": "Bundesregierung meldet milliardenschwere Mehrausgaben für den Haushalt 2027",
