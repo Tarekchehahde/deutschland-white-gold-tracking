@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-10T01:32:17Z",
+  "generated_at_utc": "2026-11-10T13:27:47Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 958,
+  "total_in_archive": 964,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,75 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 50
+    "2026-11": 56
   },
   "recent_for_ui": [
+    {
+      "id": "ac8413fa89928db6da45737a",
+      "title": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/11/10/elements-green-erhaelt-von-tennet-netzanschlusszusage-fuer-16-gigawattstunden-batteriespeicher/",
+      "published_at": "2026-11-10T13:22:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher Die Anlage soll im niedersächsischen Stadorf gebaut werden. Der 400-Megawatt-Speicher hat eine Speicherdauer von vier Stunden. Damit gehört das Projekt des britischen Photovoltaik- und Speicher-Projektierers zu den größten Speicherprojekten Deutschlands.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "3d35ba7dd3d9d16a61f82fdf",
+      "title": "Bayernwerk Netz schreibt zweiten netzdienlichen Batteriespeicher aus",
+      "url": "https://www.pv-magazine.de/2026/11/10/bayernwerk-netz-schreibt-zweiten-netzdienlichen-batteriespeicher-aus/",
+      "published_at": "2026-11-10T11:49:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bayernwerk Netz schreibt zweiten netzdienlichen Batteriespeicher aus Der Speicher soll ein Umspannwerk im Landkreis Bayreuth entlasten. Damit will Bayernwerk Netz eine Netzausbaumaßnahme überflüssig machen. Ausgeschrieben sind eine Leistung von 20 Megawatt und eine Kapazität von mindestens 80 Megawattstunden. Ein weiterer netzdienlicher Speicher soll demnächst in Betrieb gehen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ea56e959b72325d4010327a6",
+      "title": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html",
+      "published_at": "2026-11-10T08:53:53Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke Peking setzt weiter voll auf Export - und knackt auch dank umstrittener Subventionen erneut eine Rekordmarke: Der Handelsüberschuss von mehr als einer Billion Dollar wurde vor allem durch Technologiegüter und Elektroautos erzielt.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1ecfc85edfcf46b37a53c123",
+      "title": "Cybertruck-Aus: Tesla fehlen laut Musk die Leute für zwei Autoprogramme",
+      "url": "https://www.golem.de/news/cybertruck-aus-tesla-fehlen-laut-musk-die-leute-fuer-zwei-autoprogramme-2611-215021.html",
+      "published_at": "2026-11-10T08:24:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Cybertruck-Aus: Tesla fehlen laut Musk die Leute für zwei Autoprogramme Musk führt das Auslaufen des Cybertruck auf Personalmangel zurück. Sieben von 14 Managern des Investor Days 2023 haben Tesla anscheinend verlassen. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "903d4a32476696604d5eb54a",
+      "title": "Einer der größten in Europa: Was steckt hinter dem geplanten XXL-Batteriespeicher?",
+      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-einer-der-groessten-in-europa-was-steckt-hinter-dem-geplanten-xxl-batteriespeicher-100.html",
+      "published_at": "2026-11-10T07:54:00Z",
+      "source_id": "tagesschau-bw",
+      "language": "de",
+      "summary": "Einer der größten in Europa: Was steckt hinter dem geplanten XXL-Batteriespeicher? Im Kreis Ludwigsburg soll einer der größten Batteriespeicher Europas entstehen. Warum wird er dort gebaut? Was kostet das Projekt? Muss dafür Natur weichen? Alle Infos im Überblick.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "dae09f4d184218f90d5a2a8e",
+      "title": "Yangwang Altior: BYD macht Rolls Royce mit Luxus-Limousine Konkurrenz",
+      "url": "https://www.golem.de/news/yangwang-altior-byd-greift-rolls-royce-mit-elektrischem-luxusauto-an-2611-215017.html",
+      "published_at": "2026-11-10T07:34:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Yangwang Altior: BYD macht Rolls Royce mit Luxus-Limousine Konkurrenz Der Yangwang Altior ist noch länger als der Rolls Royce Spectre und soll bis zu 1.000 km weit kommen. Der Preis ist auch kein Schnäppchen. ( BYD , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "a6f0e27efc8efc7087b5361c",
       "title": "Bundesregierung meldet milliardenschwere Mehrausgaben für den Haushalt 2027",
@@ -4490,74 +4556,6 @@
       "source_id": "faz-aktuell",
       "language": "de",
       "summary": "Fast 40 Prozent E-Autos: Frankreich eilt Deutschland voraus Auf Frankreichs Straßen fahren immer mehr Elektroautos. Die gestiegenen Spritpreise gelten als ein Kaufargument – entscheidend dürfte aber etwas anderes sein.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a7f668026256d114988dd672",
-      "title": "Klimabilanz von E-Autos: Die Auto-Lüge der EU gibt es nicht",
-      "url": "https://www.golem.de/news/papier-der-tu-muenchen-die-auto-luege-der-eu-gibt-es-nicht-2609-212513.html",
-      "published_at": "2026-09-01T15:19:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Klimabilanz von E-Autos: Die Auto-Lüge der EU gibt es nicht Schon vor der Veröffentlichung hat ein Papier zur Klimabilanz von E-Autos politischen Wirbel verursacht. Die Erkenntnisse sind aber nicht neu und eher trivial. Ein Bericht von Friedhelm Greis ( Elektroauto , Politik )",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "caaf436fdc5ad02f74bc89a6",
-      "title": "Übertragungsnetzbetreiber verdoppeln Annahmen für große Batteriespeicher bis 2040",
-      "url": "https://www.pv-magazine.de/2026/09/01/uebertragungsnetzbetreiber-verdoppeln-annahmen-fuer-grosse-batteriespeicher-bis-2040/",
-      "published_at": "2026-09-01T14:54:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Übertragungsnetzbetreiber verdoppeln Annahmen für große Batteriespeicher bis 2040 Die Konsultation der Netzentwicklungspläne der Übertragungsnetzbetreiber läuft bis zum 28. September. In den aktualisierten Szenariorahmen wird von deutlich mehr großen Batteriespeichern, aber etwas weniger Heimspeichern bis 2040 ausgegangen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "14c37dcd79e105140cb9830b",
-      "title": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht",
-      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-strom-aus-wind-und-sonne-wie-in-philippsburg-ein-riesiger-batteriespeicher-entsteht-100.html",
-      "published_at": "2026-09-01T14:21:50Z",
-      "source_id": "tagesschau-bw",
-      "language": "de",
-      "summary": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht Die EnBW baut derzeit in Philippsburg einen der größten Batteriespeicher in Deutschland. Er soll 100.000 Haushalte versorgen. Die ersten Batterie-Container werden jetzt installiert.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "72e1150ae88af75b1094a355",
-      "title": "E-Autos: Wenn ihr euch komplett abschaffen wollt, baut halt weiter Verbrenner",
-      "url": "https://www.zeit.de/wirtschaft/2026-09/e-autos-elektrombilitaet-markus-soeder-studie-verbrenner-autos",
-      "published_at": "2026-09-01T13:24:26Z",
-      "source_id": "zeit-wirtschaft",
-      "language": "de",
-      "summary": "E-Autos: Wenn ihr euch komplett abschaffen wollt, baut halt weiter Verbrenner Laut einer Studie stoßen Elektroautos »nur« 41 Prozent weniger CO₂ aus. Und Markus Söder fordert wieder das Ende vom Verbrenner-Aus. Das Problem nur ist ein anderes.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "80943c4f6095bbe9d38644ca",
-      "title": "Elektroauto: Niedervolt-Batterie mit Natrium statt Blei geht in Serie",
-      "url": "https://www.heise.de/news/Elektroauto-Niedervolt-Batterie-mit-Natrium-statt-Blei-geht-in-Serie-11436145.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-01T08:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Elektroauto: Niedervolt-Batterie mit Natrium statt Blei geht in Serie Xupai liefert 12-Volt-Natrium-Ionen-Batterien für das Bordnetz von E-Autos der BAIC-Marke Arcfox. Die Technik hat das Zeug, Bleiakkus langfristig abzulösen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1c6a2af6c4e5c5fdf8485663",
-      "title": "Chiles Batteriespeicher-Boom: Warum Netzengpässe den Markt antreiben",
-      "url": "https://www.pv-magazine.de/2026/09/01/chiles-batteriespeicher-boom-warum-netzengpaesse-den-markt-antreiben/",
-      "published_at": "2026-09-01T07:45:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Chiles Batteriespeicher-Boom: Warum Netzengpässe den Markt antreiben Chile entwickelt sich zu einem der dynamischsten Batteriespeichermärkte Lateinamerikas. Treiber ist der schnelle Ausbau erneuerbarer Energien bei gleichzeitig begrenzter Netzkapazität und einer zunehmenden zeitlichen Verschiebung zwischen Erzeugung und Verbrauch. Für deutsche Technologieanbieter wird damit insbesondere die techni",
       "tags": [],
       "regions": []
     }
