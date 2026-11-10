@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-10T13:27:47Z",
+  "generated_at_utc": "2026-11-10T23:23:45Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 964,
+  "total_in_archive": 970,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,77 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 56
+    "2026-11": 62
   },
   "recent_for_ui": [
+    {
+      "id": "5970f9da77fb541f82814611",
+      "title": "Spionage: Bundeswehr sperrt DJI-Drohnen und chinesische Autos aus",
+      "url": "https://www.golem.de/news/spionage-bundeswehr-sperrt-dji-drohnen-und-chinesische-autos-aus-2611-215061.html",
+      "published_at": "2026-11-10T18:44:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Spionage: Bundeswehr sperrt DJI-Drohnen und chinesische Autos aus Aus Sorge vor möglicher Spionage dürfen chinesische Drohnen und Autos nicht mehr in Bundeswehr-Kasernen. ( Bundeswehr , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "606a310de806e4b66f63521d",
+      "title": "Formula 2030: Polestar holt physische Tasten ins Auto zurück",
+      "url": "https://www.golem.de/news/formula-2030-polestar-holt-physische-tasten-ins-auto-zurueck-2611-215059.html",
+      "published_at": "2026-11-10T18:10:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Formula 2030: Polestar holt physische Tasten ins Auto zurück Die flache Designstudie Formula 2030 gibt Hinweise auf Polestars kommende E-Autos. Im Innenraum kehren zudem physische Bedienelemente zurück. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0afc3b0845baf89661d80315",
+      "title": "Hohe Nachfrage: Bund plant 2027 deutlich mehr Geld für E-Auto-Prämie ein",
+      "url": "https://www.golem.de/news/hohe-nachfrage-bund-plant-2027-deutlich-mehr-geld-fuer-e-auto-praemie-ein-2611-215056.html",
+      "published_at": "2026-11-10T16:51:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Hohe Nachfrage: Bund plant 2027 deutlich mehr Geld für E-Auto-Prämie ein Die Bundesregierung korrigiert ihre Haushaltspläne für die Kaufprämie. Die Mittel für 2027 sollen für rund 400.000 geförderte E-Autos reichen. ( Elektroauto , Tesla )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "6d40935d2d31e1655eea2d42",
+      "title": "Polestar Formula 2030: Vorschau auf die kommenden Elektroautos",
+      "url": "https://www.heise.de/news/Polestar-Formula-2030-Designstudie-als-Vorschau-auf-Polestar-2-und-Polestar-7-11519208.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-11-10T14:51:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Polestar Formula 2030: Vorschau auf die kommenden Elektroautos Mit dem Formula 2030 gibt Polestar einen Ausblick auf das Design des neuen Polestar 2 und des Kompakt-SUV Polestar 7, noch ohne technische Daten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6918d407af22c0c2213bb2e7",
+      "title": "Klarstellung zum 25-prozentigen Vermögensschaden bleibt vage",
+      "url": "https://www.pv-magazine.de/2026/11/10/klarstellung-zum-25-prozentigen-vermoegensschaden-bleibt-vage/",
+      "published_at": "2026-11-10T14:10:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Klarstellung zum 25-prozentigen Vermögensschaden bleibt vage Ab wann eine Batteriespeicherbestellung verbindlich genug ist, um sich den Vertrauensschutz gegenüber den neuen Netzentgelten zu sichern, ist weiterhin umstritten. Die Klarstellung, die die Bundesnetzagentur nun dazu veröffentlicht hat, hilft Projektentwicklern in der Praxis wenig, erläutert Christof Aha, Rechtsanwalt bei Advant Beiten. ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8bdf649e135a7cc7808b617d",
+      "title": "heise+ | Seltene Erden und Lithium: Wie Biotechnologie das Metallrecycling verändert",
+      "url": "https://www.heise.de/hintergrund/Seltene-Erden-und-Lithium-Wie-Biotechnologie-das-Metallrecycling-veraendert-11434134.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-11-10T14:00:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "heise+ | Seltene Erden und Lithium: Wie Biotechnologie das Metallrecycling verändert Europa forscht an neuen Verfahren, um mit Mikroorganismen, metallbindenden Molekülen und Wasserstoff wertvolle Rohstoffe aus Elektroschrott zu recyceln.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "ac8413fa89928db6da45737a",
       "title": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher",
@@ -4490,72 +4558,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel Wenn die MiSpeL-Regelung im Oktober in Kraft tritt, wird Arbitragehandel mit Batteriespeichern auch hinter dem Zähler deutlich wirtschaftlicher. Minimum Energy hat durchgerechnet, wie sich Auslegung und Betrieb unter den neuen Bedingungen ändern. Im Beispiel steigert der Speicher die Einsparungen bei den Strombeschaffungskosten um ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "cd13d0dfa72bfdaee183af84",
-      "title": "Dienstwagen-Check 2026: Das 800-Volt-Problem der elektrischen Luxusklasse",
-      "url": "https://www.golem.de/news/dienstwagen-check-2026-das-800-volt-problem-der-elektrischen-luxusklasse-2609-212550.html",
-      "published_at": "2026-09-02T12:15:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Dienstwagen-Check 2026: Das 800-Volt-Problem der elektrischen Luxusklasse Der Anteil von Elektroautos bei Dienstwagen von Spitzenpolitikern ist wieder gesunken. Das könnte auch an zu langen Ladezeiten liegen. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "102cae453328d07ec6d754ae",
-      "title": "Ioniq 3: Hyundais ID.Cross-Konkurrent kostet ab 28.950 Euro",
-      "url": "https://www.golem.de/news/ioniq-3-hyundais-id-cross-konkurrent-kostet-ab-28-950-euro-2609-212531.html",
-      "published_at": "2026-09-02T09:01:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Ioniq 3: Hyundais ID.Cross-Konkurrent kostet ab 28.950 Euro Ab sofort kann Hyundais Ioniq 3 vorbestellt werden. Die Preise starten bei unter 30.000 Euro und liegen damit auf dem Niveau von VWs ID.Cross. ( Hyundai , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a7393f988a1a7dee9d5a16e6",
-      "title": "Wer bei Batteriespeichern nur auf 2029 schaut, übersieht den entscheidenden zweiten Stichtag",
-      "url": "https://www.pv-magazine.de/2026/09/02/wer-bei-batteriespeichern-nur-auf-2029-schaut-uebersieht-den-entscheidenden-zweiten-stichtag/",
-      "published_at": "2026-09-02T07:42:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Wer bei Batteriespeichern nur auf 2029 schaut, übersieht den entscheidenden zweiten Stichtag Wer von der Netzentgeltbefreiung für große Batteriespeicher profitieren will, muss mehrere Daten im Blick behalten, erklärt Marvin Großkrüger von Green BESS.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ca4b21d8b58eb1d2863451c9",
-      "title": "heise+ | Elektroautos mit Wechselstrom laden: Langsam, aber bewährt",
-      "url": "https://www.heise.de/hintergrund/Elektroautos-mit-Wechselstrom-laden-Langsam-aber-bewaehrt-11385092.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-09-02T05:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Elektroautos mit Wechselstrom laden: Langsam, aber bewährt Beim Hype um hohe DC-Ladeleistungen wird das AC-Laden häufig vergessen. Dabei ist es günstiger, es gibt deutlich mehr Ladesäulen und weitere Vorteile.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d96d91749f23165ff4c9f65d",
-      "title": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/batteriespeicher-enbw-philippsburg-104.html",
-      "published_at": "2026-09-01T18:22:48Z",
-      "source_id": "swr-aktuell-rss",
-      "language": "de",
-      "summary": "Strom aus Wind und Sonne: Wie in Philippsburg ein riesiger Batteriespeicher entsteht Die EnBW baut derzeit in Philippsburg einen der größten Batteriespeicher in Deutschland. Er soll 100.000 Haushalte versorgen. Die ersten Batterie-Container werden jetzt installiert.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "da07a2753f2673464ff5bfd1",
-      "title": "Fast 40 Prozent E-Autos: Frankreich eilt Deutschland voraus",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/frankreich-fuehrt-bei-elektroautos-was-deutschland-fehlt-201178150.html",
-      "published_at": "2026-09-01T17:04:25Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Fast 40 Prozent E-Autos: Frankreich eilt Deutschland voraus Auf Frankreichs Straßen fahren immer mehr Elektroautos. Die gestiegenen Spritpreise gelten als ein Kaufargument – entscheidend dürfte aber etwas anderes sein.",
       "tags": [],
       "regions": []
     }
