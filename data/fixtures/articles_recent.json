@@ -2,6 +2,41 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "e85a2823c322357159629b2c",
+      "title": "Bestellstopp für EQE und EQS SUV: Mercedes lässt elektrische Oberklasse-Modelle auslaufen",
+      "url": "https://www.golem.de/news/bestellstopp-fuer-eqe-und-eqs-suv-mercedes-laesst-elektrische-oberklasse-modelle-auslaufen-2611-215080.html",
+      "published_at": "2026-11-11T11:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Bestellstopp für EQE und EQS SUV: Mercedes lässt elektrische Oberklasse-Modelle auslaufen Mit EQE und EQS setzte Mercedes auf effiziente Elektromobilität in der Oberklasse. Doch von vier Modellen ist nur noch eines bestellbar. ( Elektroauto , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "76d24eae109edd054dbede9b",
+      "title": "Informationskampagne „Speichern statt Abregeln“ will über Nutzen von großen Batteriespeichern aufklären",
+      "url": "https://www.pv-magazine.de/2026/11/11/informationskampagne-speichern-statt-abregeln-will-ueber-nutzen-von-grossen-batteriespeichern-aufklaeren/",
+      "published_at": "2026-11-11T09:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Informationskampagne „Speichern statt Abregeln“ will über Nutzen von großen Batteriespeichern aufklären Unterstützt vom BVES wollen Eco Stor und Fluence über den systemischen und wirtschaftlichen Nutzen von Batteriespeichern aufklären, vor allem in der Politik. Die Technologie ist da, der Wille der Speicherprojektierer auch – was fehlt ist ein passender politischer Rahmen, der die großen Batteries",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fb29d0bc2eb8a106715c3861",
+      "title": "Polestar 4 SUV: Polestar muss raus aus der Premium-Nische",
+      "url": "https://www.golem.de/news/polestar-4-suv-polestar-muss-raus-aus-der-premium-nische-2611-214999.html",
+      "published_at": "2026-11-11T07:50:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Polestar 4 SUV: Polestar muss raus aus der Premium-Nische Als Absatzmarkt bleibt Polestar nur Europa. Es müssen schnell Modelle folgen, die sich in hohen Stückzahlen verkaufen, sonst fressen die Schulden das Unternehmen auf. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "5970f9da77fb541f82814611",
       "title": "Spionage: Bundeswehr sperrt DJI-Drohnen und chinesische Autos aus",
       "url": "https://www.golem.de/news/spionage-bundeswehr-sperrt-dji-drohnen-und-chinesische-autos-aus-2611-215061.html",
@@ -100,56 +135,6 @@
       "language": "de",
       "summary": "Einer der größten in Europa: Was steckt hinter dem geplanten XXL-Batteriespeicher? Im Kreis Ludwigsburg soll einer der größten Batteriespeicher Europas entstehen. Warum wird er dort gebaut? Was kostet das Projekt? Muss dafür Natur weichen? Alle Infos im Überblick.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c4a8dce3d9f3815d2902146b",
-      "title": "17 Megawatt Agri-Photovoltaik-Anlage samt Batteriespeicher auf 26 Hektar",
-      "url": "https://www.pv-magazine.de/2026/11/09/17-megawatt-agri-photovoltaik-anlage-samt-batteriespeicher-auf-26-hektar/",
-      "published_at": "2026-11-09T18:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "17 Megawatt Agri-Photovoltaik-Anlage samt Batteriespeicher auf 26 Hektar Zehn Flächeneigentümer und Landwirte haben sich in Unterfranken zusammengeschlossen, um das Projekt zu realisieren. 90 Prozent der Fläche können dabei weiterhin landwirtschaftlich genutzt werden. Realisiert hat die Agri-Photovoltaik-Anlage mit angeschlossenem 25-Megawattstunden-Batteriespeicher das Münchner Unternehmen Feldwe",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "c4755d0469cc2eed49c46ef5",
-      "title": "Telekom rüstet KI-Fabrik in München nach, Gigafactory bleibt Option",
-      "url": "https://www.heise.de/news/Telekom-ruestet-KI-Fabrik-in-Muenchen-nach-Gigafactory-bleibt-Option-11517926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-11-09T17:17:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Telekom rüstet KI-Fabrik in München nach, Gigafactory bleibt Option Mit viel Politprominenz hat die Telekom am Montag den Startschuss für ihre „KI-Fabrik 2.0“ gegeben. Zu einer möglichen Gigafactory blieb Tim Höttges vage.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "caf5fae01e55f5bd1d010890",
-      "title": "Tesla will Cybertruck-Produktion in Texas einstellen",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html",
-      "published_at": "2026-11-06T13:09:10Z",
-      "source_id": "tagesschau-wirtschaft",
-      "language": "de",
-      "summary": "Tesla will Cybertruck-Produktion in Texas einstellen Der Cybertruck sollte Teslas Antwort auf die beliebten US-Pickups sein. Doch das Elektroauto blieb hinter den Erwartungen zurück. Nun will Elon Musk die Produktion in Texas beenden und Platz für ein anderes Produkt schaffen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e7c072a792d3051603cea763",
-      "title": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich",
-      "url": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
-      "published_at": "2026-11-05T17:27:08Z",
-      "source_id": "tagesschau-wirtschaft",
-      "language": "de",
-      "summary": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich Günstiger parken und keine E-Kennzeichen-Pflicht mehr: Der Bundestag hat das reformierte Elektromobilitätsgesetz verabschiedet. Bisher nutzen allerdings nur wenige Kommunen den Spielraum des Gesetzes aus. Von Michael Eiden.",
-      "tags": [
-        "politik"
-      ],
       "regions": []
     }
   ]

@@ -1,8 +1,43 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 62,
+  "article_count": 65,
   "articles": [
+    {
+      "id": "e85a2823c322357159629b2c",
+      "title": "Bestellstopp für EQE und EQS SUV: Mercedes lässt elektrische Oberklasse-Modelle auslaufen",
+      "url": "https://www.golem.de/news/bestellstopp-fuer-eqe-und-eqs-suv-mercedes-laesst-elektrische-oberklasse-modelle-auslaufen-2611-215080.html",
+      "published_at": "2026-11-11T11:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Bestellstopp für EQE und EQS SUV: Mercedes lässt elektrische Oberklasse-Modelle auslaufen Mit EQE und EQS setzte Mercedes auf effiziente Elektromobilität in der Oberklasse. Doch von vier Modellen ist nur noch eines bestellbar. ( Elektroauto , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "76d24eae109edd054dbede9b",
+      "title": "Informationskampagne „Speichern statt Abregeln“ will über Nutzen von großen Batteriespeichern aufklären",
+      "url": "https://www.pv-magazine.de/2026/11/11/informationskampagne-speichern-statt-abregeln-will-ueber-nutzen-von-grossen-batteriespeichern-aufklaeren/",
+      "published_at": "2026-11-11T09:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Informationskampagne „Speichern statt Abregeln“ will über Nutzen von großen Batteriespeichern aufklären Unterstützt vom BVES wollen Eco Stor und Fluence über den systemischen und wirtschaftlichen Nutzen von Batteriespeichern aufklären, vor allem in der Politik. Die Technologie ist da, der Wille der Speicherprojektierer auch – was fehlt ist ein passender politischer Rahmen, der die großen Batteries",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fb29d0bc2eb8a106715c3861",
+      "title": "Polestar 4 SUV: Polestar muss raus aus der Premium-Nische",
+      "url": "https://www.golem.de/news/polestar-4-suv-polestar-muss-raus-aus-der-premium-nische-2611-214999.html",
+      "published_at": "2026-11-11T07:50:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Polestar 4 SUV: Polestar muss raus aus der Premium-Nische Als Absatzmarkt bleibt Polestar nur Europa. Es müssen schnell Modelle folgen, die sich in hohen Stückzahlen verkaufen, sonst fressen die Schulden das Unternehmen auf. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "5970f9da77fb541f82814611",
       "title": "Spionage: Bundeswehr sperrt DJI-Drohnen und chinesische Autos aus",

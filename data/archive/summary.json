@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-10T23:23:45Z",
+  "generated_at_utc": "2026-11-11T12:42:42Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 970,
+  "total_in_archive": 973,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,44 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 62
+    "2026-11": 65
   },
   "recent_for_ui": [
+    {
+      "id": "e85a2823c322357159629b2c",
+      "title": "Bestellstopp für EQE und EQS SUV: Mercedes lässt elektrische Oberklasse-Modelle auslaufen",
+      "url": "https://www.golem.de/news/bestellstopp-fuer-eqe-und-eqs-suv-mercedes-laesst-elektrische-oberklasse-modelle-auslaufen-2611-215080.html",
+      "published_at": "2026-11-11T11:14:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Bestellstopp für EQE und EQS SUV: Mercedes lässt elektrische Oberklasse-Modelle auslaufen Mit EQE und EQS setzte Mercedes auf effiziente Elektromobilität in der Oberklasse. Doch von vier Modellen ist nur noch eines bestellbar. ( Elektroauto , Akku )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "76d24eae109edd054dbede9b",
+      "title": "Informationskampagne „Speichern statt Abregeln“ will über Nutzen von großen Batteriespeichern aufklären",
+      "url": "https://www.pv-magazine.de/2026/11/11/informationskampagne-speichern-statt-abregeln-will-ueber-nutzen-von-grossen-batteriespeichern-aufklaeren/",
+      "published_at": "2026-11-11T09:00:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Informationskampagne „Speichern statt Abregeln“ will über Nutzen von großen Batteriespeichern aufklären Unterstützt vom BVES wollen Eco Stor und Fluence über den systemischen und wirtschaftlichen Nutzen von Batteriespeichern aufklären, vor allem in der Politik. Die Technologie ist da, der Wille der Speicherprojektierer auch – was fehlt ist ein passender politischer Rahmen, der die großen Batteries",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "fb29d0bc2eb8a106715c3861",
+      "title": "Polestar 4 SUV: Polestar muss raus aus der Premium-Nische",
+      "url": "https://www.golem.de/news/polestar-4-suv-polestar-muss-raus-aus-der-premium-nische-2611-214999.html",
+      "published_at": "2026-11-11T07:50:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Polestar 4 SUV: Polestar muss raus aus der Premium-Nische Als Absatzmarkt bleibt Polestar nur Europa. Es müssen schnell Modelle folgen, die sich in hohen Stückzahlen verkaufen, sonst fressen die Schulden das Unternehmen auf. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "5970f9da77fb541f82814611",
       "title": "Spionage: Bundeswehr sperrt DJI-Drohnen und chinesische Autos aus",
@@ -4521,43 +4556,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Horizonte Group, Metelligent und Einklang kooperieren bei MiSpeL-konformen C&I-Batteriespeichern Installation, Messtechnik und Vermarktung von Batteriespeichern aus einer Hand ist das Ziel eines gemeinsamen Angebots für Gewerbe- und Industriekunden, das die neuen Möglichkeiten der MiSpeL-Vorgaben nutzen soll. Für das erste Jahr streben die Partner 50 gemeinsame Projekte an.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "05198baae54774b0d1398e9f",
-      "title": "Vulcan Energy legt Vormachbarkeitsstudie für Lithium- und Geothermieprojekt „Ludwig“ vor",
-      "url": "https://www.pfalz-express.de/vulcan-energy-legt-vormachbarkeitsstudie-fuer-lithium-und-geothermieprojekt-ludwig-vor/",
-      "published_at": "2026-09-03T07:31:59Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Vulcan Energy legt Vormachbarkeitsstudie für Lithium- und Geothermieprojekt „Ludwig“ vor Karlsruhe/Ludwigshafen. Das Unternehmen Vulcan Energy hat eine erste umfassende Untersuchung (Vormachbarkeitsstudie) für sein geplantes Projekt „Ludwig“ in der Region Ludwigshafen veröffentlicht. Es ist das zweite Vorhaben des Konzerns, bei dem Lithium und Erdwärme gemeinsam im Oberrheingraben gewonnen werden ",
-      "tags": [
-        "industrie"
-      ],
-      "regions": [
-        "DE-RP"
-      ]
-    },
-    {
-      "id": "6f41da5497e824ac72d2e078",
-      "title": "Autonomes Fahren: Uber startet erste Robotaxis in London",
-      "url": "https://www.golem.de/news/autonomes-fahren-uber-startet-erste-robotaxis-in-london-2609-212577.html",
-      "published_at": "2026-09-03T06:31:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Uber startet erste Robotaxis in London In Kooperation mit Wayve bringt Uber autonome Fahrzeuge nach London. Am Steuer sitzt aber vorerst weiterhin menschliches Sicherheitspersonal. ( Autonomes Fahren , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dd430d8cb46d82b20d350265",
-      "title": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel",
-      "url": "https://www.pv-magazine.de/2026/09/02/mispel-25-prozent-rendite-fuer-gewerbespeicher-mit-arbitragehandel/",
-      "published_at": "2026-09-02T13:27:52Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "MiSpeL: 25 Prozent Rendite für Gewerbespeicher mit Arbitragehandel Wenn die MiSpeL-Regelung im Oktober in Kraft tritt, wird Arbitragehandel mit Batteriespeichern auch hinter dem Zähler deutlich wirtschaftlicher. Minimum Energy hat durchgerechnet, wie sich Auslegung und Betrieb unter den neuen Bedingungen ändern. Im Beispiel steigert der Speicher die Einsparungen bei den Strombeschaffungskosten um ",
       "tags": [],
       "regions": []
     }
