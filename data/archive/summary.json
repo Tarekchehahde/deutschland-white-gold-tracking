@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-12T00:45:06Z",
+  "generated_at_utc": "2026-11-12T13:45:37Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 974,
+  "total_in_archive": 981,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,88 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 66
+    "2026-11": 73
   },
   "recent_for_ui": [
+    {
+      "id": "9d43356ba528f756869eca6a",
+      "title": "Dunkle Wolken am Photovoltaik-Himmel",
+      "url": "https://www.pv-magazine.de/2026/11/12/dunkle-wolken-am-photovoltaik-himmel/",
+      "published_at": "2026-11-12T12:40:58Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Dunkle Wolken am Photovoltaik-Himmel Die Modulpreise stagnieren, bei Batteriespeichern hingegen sind erstmals Steigerungen zu erwarten. So oder so droht aber der gesamte Markt ins Trudeln zu geraten, wenn die politisch Verantwortlichen die EEG-Novelle nicht rechtzeitig hinbekommen, meint Martin Schachinger von pvXchange.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5cbaf62c7290f8550c25d086",
+      "title": "Bundeshaushalt 2027: Stromsteuer wird doch nicht gesenkt",
+      "url": "https://www.golem.de/news/bundeshaushalt-2027-stromsteuer-wird-doch-nicht-gesenkt-2611-215133.html",
+      "published_at": "2026-11-12T11:57:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Bundeshaushalt 2027: Stromsteuer wird doch nicht gesenkt Noch vor einem Monat hat Bundeskanzler Merz eine Senkung der Stromsteuer angekündigt. Doch dafür gibt es doch kein Geld im Haushalt. ( Elektroauto , Politik )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0a072e75540c286ca53fdf45",
+      "title": "Pumpspeicherwerk: Gravitationskraftwerk für den Meeresgrund entwickelt",
+      "url": "https://www.golem.de/news/pumpspeicherwerk-gravitationskraftwerk-fuer-den-meeresgrund-entwickelt-2611-215131.html",
+      "published_at": "2026-11-12T11:43:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Pumpspeicherwerk: Gravitationskraftwerk für den Meeresgrund entwickelt Mit flexiblen Reservoirs und minimalem Aufwand bei der Installation soll das System weltweit zur Stromspeicherung eingesetzt werden können. ( Energiewende , Rechenzentrum )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4db2bd7402db4adc7805d886",
+      "title": "Ausbau der Gigafactory: Tesla würde weiteres Elektroauto-Modell in Grünheide bauen",
+      "url": "https://www.golem.de/news/ausbau-der-gigafactory-tesla-wuerde-weiteres-elektroauto-modell-in-gruenheide-bauen-2611-215127.html",
+      "published_at": "2026-11-12T11:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ausbau der Gigafactory: Tesla würde weiteres Elektroauto-Modell in Grünheide bauen Die Kapazitäten der Gigafactory in Grünheide stoßen an ihr Limit. Eine mögliche Erweiterung ist jedoch nicht für das Tesla Model Y geplant. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4bcf70f3c44fd1972de47500",
+      "title": "Probefahrt DS No. 7: Unterwegs in der französischen Kuschelkiste",
+      "url": "https://www.golem.de/news/probefahrt-ds-no-7-unterwegs-in-der-franzoesischen-kuschelkiste-2611-215083.html",
+      "published_at": "2026-11-12T11:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt DS No. 7: Unterwegs in der französischen Kuschelkiste Der DS 7 ist das bislang erfolgreichste Fahrzeug von DS. Das Auto wird als No. 7 neu aufgelegt - und setzt auf Komfort und Elektroantrieb. Von Tobias Költzsch ( Elektroauto , Auto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "0d8dc2522fec3a9437534846",
+      "title": "Stadtwerke Gaggenau planen Zink-Bromid-Batteriespeicher mit 30 Megawattstunden Kapazität",
+      "url": "https://www.pv-magazine.de/2026/11/12/stadtwerke-gaggenau-planen-zink-bromid-batteriespeicher-mit-30-megawattstunden-kapazitaet/",
+      "published_at": "2026-11-12T08:09:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Stadtwerke Gaggenau planen Zink-Bromid-Batteriespeicher mit 30 Megawattstunden Kapazität Den Speicher liefert der US-Hersteller Eos, Capac ist Generalunternehmer. Die Anlage soll 2028 in Betrieb gehen. Zink-Bromid-Speicher zeichnen sich unter anderem dadurch aus, dass sie nicht brennbar sind.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b40d50d32a3646295da58e52",
+      "title": "Sicherheit: Auch Tesla muss bei der Bundeswehr draußen bleiben",
+      "url": "https://www.golem.de/news/sicherheit-auch-tesla-muss-bei-der-bundeswehr-draussen-bleiben-2611-215111.html",
+      "published_at": "2026-11-12T06:28:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Sicherheit: Auch Tesla muss bei der Bundeswehr draußen bleiben Die neuen Einschränkungen von smarten Autos auf Bundeswehrgelände betreffen grundsätzlich alle Hersteller, auch Tesla. ( Bundeswehr , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "3dbf261e348fa59b7e001c5e",
       "title": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg",
@@ -4477,85 +4556,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Auto: Einführung von Xiaomis Elektroautos in Deutschland rückt näher Mit Rundenrekorden am Nürburgring und starken Verkaufszahlen in China bereitet Xiaomi den Markteintritt seiner Elektroautos in Europa vor. ( Ifa 2026 , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "43b11c209d108fe928d81377",
-      "title": "Münchner Kirche mit Photovoltaik-Anlage und Batteriespeicher ausgestattet",
-      "url": "https://www.pv-magazine.de/2026/09/03/muenchner-kirche-mit-photovoltaik-anlage-und-batteriespeicher-ausgestattet/",
-      "published_at": "2026-09-03T14:26:54Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Münchner Kirche mit Photovoltaik-Anlage und Batteriespeicher ausgestattet Auf dem 95 Jahre alten Kirchendach sind komplett schwarze Solarmodule mit 65 Kilowatt Leistung installiert. Im Keller stehen zwei Batteriespeicher mit je knapp 30 Kilowattstunden Kapazität. So will die Kirche möglichst viel Solarstrom selbst verbrauchen. Auch eine Wärmepumpe ist noch in Planung.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e5c32a28d7542ddef6019901",
-      "title": "Pilotprojekt von Furo und Luox Energy zur Viertelstunden-Optimierung gewerblicher Batteriespeicher",
-      "url": "https://www.pv-magazine.de/2026/09/03/pilotprojekt-von-furo-und-luox-energy-zur-viertelstunden-optimierung-gewerblicher-batteriespeicher/",
-      "published_at": "2026-09-03T12:15:36Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Pilotprojekt von Furo und Luox Energy zur Viertelstunden-Optimierung gewerblicher Batteriespeicher Die Unternehmen kombinieren ihre Lösungen, um zusätzliche Einnahmen für Speicher in Industrie und Gewerbe zu schaffen. In Pilotprojekten soll die Viertelstunden-Optimierung nun unter realen Bedingungen getestet werden.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "8c553d275261527cc4e2bc11",
-      "title": "Zulassungsstatistik: Fast jeder dritte Neuwagen ist vollelektrisch",
-      "url": "https://www.golem.de/news/zulassungsstatistik-fast-jeder-dritte-neuwagen-ist-vollelektrisch-2609-212605.html",
-      "published_at": "2026-09-03T11:12:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Zulassungsstatistik: Fast jeder dritte Neuwagen ist vollelektrisch Die Kaufprämie zeigt weiter Wirkung. Der Anteil der Elektroautos an den Neuzulassungen steigt deutlich an. ( Elektroauto , Tesla )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d0e1721f2c5f7403fe0e6b28",
-      "title": "Elektroauto Polestar 4 SUV: Neue Variante ab September bestellbar",
-      "url": "https://www.heise.de/news/Elektroauto-Polestar-4-SUV-Neue-Variante-ab-September-bestellbar-11439661.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-03T10:52:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Elektroauto Polestar 4 SUV: Neue Variante ab September bestellbar Polestar kündigt eine SUV-Variante seines kompakten Elektroauto-Modells Polestar 4 mit bis zu 630 km Reichweite an. Es ist ab sofort bestellbar.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "cdf2c2919dfff6f885c63935",
-      "title": "Auto-Markt: E-Auto-Boom setzt sich fort",
-      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/e-auto-boom-setzt-sich-fort_aid-154187997",
-      "published_at": "2026-09-03T09:18:34Z",
-      "source_id": "volksfreund",
-      "language": "de",
-      "summary": "Auto-Markt: E-Auto-Boom setzt sich fort Reine Elektroautos erreichten im August einen Marktanteil von 32,4 Prozent. Was sind die Gründe für das starke Wachstum?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fed7b570b781a887852f6596",
-      "title": "Lichtblick nimmt seinen bislang größten Solarpark mit 44,1 Megawatt in Thüringen in Betrieb",
-      "url": "https://www.pv-magazine.de/2026/09/03/lichtblick-nimmt-seinen-bislang-groessten-solarpark-mit-441-megawatt-in-thueringen-in-betrieb/",
-      "published_at": "2026-09-03T08:45:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Lichtblick nimmt seinen bislang größten Solarpark mit 44,1 Megawatt in Thüringen in Betrieb Der Ökostromversorger will das Photovoltaik-Kraftwerk im Eigenbestand halten. Ob ein Batteriespeicher zur Anlage ergänzt wird und der Solarstrom teilweise über einen PPA vermarktet wird, prüft Lichtblick derzeit noch.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "82a47c85869c0ab00b170a19",
-      "title": "Elektroauto: 94 Prozent befragter E-Auto-Fahrer wollen nicht zurück zum Verbrenner",
-      "url": "https://www.golem.de/news/elektroauto-94-prozent-befragter-e-auto-fahrer-wollen-nicht-zurueck-zum-verbrenner-2609-212586.html",
-      "published_at": "2026-09-03T08:35:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: 94 Prozent befragter E-Auto-Fahrer wollen nicht zurück zum Verbrenner Eine Umfrage zeigt: Wer Elektroauto fährt, will dabei bleiben. Angstthemen wie Reichweite und die Ladesituation spielen nach dem Kauf keine Rolle mehr. ( Elektroauto , Auto )",
       "tags": [],
       "regions": []
     }

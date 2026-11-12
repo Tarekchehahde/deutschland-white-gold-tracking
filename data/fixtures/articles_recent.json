@@ -2,6 +2,85 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "9d43356ba528f756869eca6a",
+      "title": "Dunkle Wolken am Photovoltaik-Himmel",
+      "url": "https://www.pv-magazine.de/2026/11/12/dunkle-wolken-am-photovoltaik-himmel/",
+      "published_at": "2026-11-12T12:40:58Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Dunkle Wolken am Photovoltaik-Himmel Die Modulpreise stagnieren, bei Batteriespeichern hingegen sind erstmals Steigerungen zu erwarten. So oder so droht aber der gesamte Markt ins Trudeln zu geraten, wenn die politisch Verantwortlichen die EEG-Novelle nicht rechtzeitig hinbekommen, meint Martin Schachinger von pvXchange.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "5cbaf62c7290f8550c25d086",
+      "title": "Bundeshaushalt 2027: Stromsteuer wird doch nicht gesenkt",
+      "url": "https://www.golem.de/news/bundeshaushalt-2027-stromsteuer-wird-doch-nicht-gesenkt-2611-215133.html",
+      "published_at": "2026-11-12T11:57:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Bundeshaushalt 2027: Stromsteuer wird doch nicht gesenkt Noch vor einem Monat hat Bundeskanzler Merz eine Senkung der Stromsteuer angekündigt. Doch dafür gibt es doch kein Geld im Haushalt. ( Elektroauto , Politik )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "0a072e75540c286ca53fdf45",
+      "title": "Pumpspeicherwerk: Gravitationskraftwerk für den Meeresgrund entwickelt",
+      "url": "https://www.golem.de/news/pumpspeicherwerk-gravitationskraftwerk-fuer-den-meeresgrund-entwickelt-2611-215131.html",
+      "published_at": "2026-11-12T11:43:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Pumpspeicherwerk: Gravitationskraftwerk für den Meeresgrund entwickelt Mit flexiblen Reservoirs und minimalem Aufwand bei der Installation soll das System weltweit zur Stromspeicherung eingesetzt werden können. ( Energiewende , Rechenzentrum )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4db2bd7402db4adc7805d886",
+      "title": "Ausbau der Gigafactory: Tesla würde weiteres Elektroauto-Modell in Grünheide bauen",
+      "url": "https://www.golem.de/news/ausbau-der-gigafactory-tesla-wuerde-weiteres-elektroauto-modell-in-gruenheide-bauen-2611-215127.html",
+      "published_at": "2026-11-12T11:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ausbau der Gigafactory: Tesla würde weiteres Elektroauto-Modell in Grünheide bauen Die Kapazitäten der Gigafactory in Grünheide stoßen an ihr Limit. Eine mögliche Erweiterung ist jedoch nicht für das Tesla Model Y geplant. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4bcf70f3c44fd1972de47500",
+      "title": "Probefahrt DS No. 7: Unterwegs in der französischen Kuschelkiste",
+      "url": "https://www.golem.de/news/probefahrt-ds-no-7-unterwegs-in-der-franzoesischen-kuschelkiste-2611-215083.html",
+      "published_at": "2026-11-12T11:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt DS No. 7: Unterwegs in der französischen Kuschelkiste Der DS 7 ist das bislang erfolgreichste Fahrzeug von DS. Das Auto wird als No. 7 neu aufgelegt - und setzt auf Komfort und Elektroantrieb. Von Tobias Költzsch ( Elektroauto , Auto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "0d8dc2522fec3a9437534846",
+      "title": "Stadtwerke Gaggenau planen Zink-Bromid-Batteriespeicher mit 30 Megawattstunden Kapazität",
+      "url": "https://www.pv-magazine.de/2026/11/12/stadtwerke-gaggenau-planen-zink-bromid-batteriespeicher-mit-30-megawattstunden-kapazitaet/",
+      "published_at": "2026-11-12T08:09:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Stadtwerke Gaggenau planen Zink-Bromid-Batteriespeicher mit 30 Megawattstunden Kapazität Den Speicher liefert der US-Hersteller Eos, Capac ist Generalunternehmer. Die Anlage soll 2028 in Betrieb gehen. Zink-Bromid-Speicher zeichnen sich unter anderem dadurch aus, dass sie nicht brennbar sind.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b40d50d32a3646295da58e52",
+      "title": "Sicherheit: Auch Tesla muss bei der Bundeswehr draußen bleiben",
+      "url": "https://www.golem.de/news/sicherheit-auch-tesla-muss-bei-der-bundeswehr-draussen-bleiben-2611-215111.html",
+      "published_at": "2026-11-12T06:28:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Sicherheit: Auch Tesla muss bei der Bundeswehr draußen bleiben Die neuen Einschränkungen von smarten Autos auf Bundeswehrgelände betreffen grundsätzlich alle Hersteller, auch Tesla. ( Bundeswehr , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "3dbf261e348fa59b7e001c5e",
       "title": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg",
       "url": "https://www.golem.de/news/produktion-des-id-golf-vw-stoppt-projekt-gamechanger-fuer-wolfsburg-2611-215105.html",
@@ -9,28 +88,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg Aus Kostengründen verzichtet VW auf ein neues Gussverfahren für den Elektro-Golf. Verwirrung gibt es um die ID.3-Produktion. ( Volkswagen ID. , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e85a2823c322357159629b2c",
-      "title": "Bestellstopp für EQE und EQS SUV: Mercedes lässt elektrische Oberklasse-Modelle auslaufen",
-      "url": "https://www.golem.de/news/bestellstopp-fuer-eqe-und-eqs-suv-mercedes-laesst-elektrische-oberklasse-modelle-auslaufen-2611-215080.html",
-      "published_at": "2026-11-11T11:14:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Bestellstopp für EQE und EQS SUV: Mercedes lässt elektrische Oberklasse-Modelle auslaufen Mit EQE und EQS setzte Mercedes auf effiziente Elektromobilität in der Oberklasse. Doch von vier Modellen ist nur noch eines bestellbar. ( Elektroauto , Akku )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "76d24eae109edd054dbede9b",
-      "title": "Informationskampagne „Speichern statt Abregeln“ will über Nutzen von großen Batteriespeichern aufklären",
-      "url": "https://www.pv-magazine.de/2026/11/11/informationskampagne-speichern-statt-abregeln-will-ueber-nutzen-von-grossen-batteriespeichern-aufklaeren/",
-      "published_at": "2026-11-11T09:00:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Informationskampagne „Speichern statt Abregeln“ will über Nutzen von großen Batteriespeichern aufklären Unterstützt vom BVES wollen Eco Stor und Fluence über den systemischen und wirtschaftlichen Nutzen von Batteriespeichern aufklären, vor allem in der Politik. Die Technologie ist da, der Wille der Speicherprojektierer auch – was fehlt ist ein passender politischer Rahmen, der die großen Batteries",
       "tags": [],
       "regions": []
     },
