@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-11T12:42:42Z",
+  "generated_at_utc": "2026-11-12T00:45:06Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 973,
+  "total_in_archive": 974,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,20 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 65
+    "2026-11": 66
   },
   "recent_for_ui": [
+    {
+      "id": "3dbf261e348fa59b7e001c5e",
+      "title": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg",
+      "url": "https://www.golem.de/news/produktion-des-id-golf-vw-stoppt-projekt-gamechanger-fuer-wolfsburg-2611-215105.html",
+      "published_at": "2026-11-11T17:13:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg Aus Kostengründen verzichtet VW auf ein neues Gussverfahren für den Elektro-Golf. Verwirrung gibt es um die ID.3-Produktion. ( Volkswagen ID. , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e85a2823c322357159629b2c",
       "title": "Bestellstopp für EQE und EQS SUV: Mercedes lässt elektrische Oberklasse-Modelle auslaufen",
@@ -4545,17 +4556,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektroauto: 94 Prozent befragter E-Auto-Fahrer wollen nicht zurück zum Verbrenner Eine Umfrage zeigt: Wer Elektroauto fährt, will dabei bleiben. Angstthemen wie Reichweite und die Ladesituation spielen nach dem Kauf keine Rolle mehr. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "dc299087fda4b2f33c78d814",
-      "title": "Horizonte Group, Metelligent und Einklang kooperieren bei MiSpeL-konformen C&I-Batteriespeichern",
-      "url": "https://www.pv-magazine.de/2026/09/03/horizonte-group-metelligent-und-einklang-kooperieren-bei-mispel-konformen-ci-batteriespeichern/",
-      "published_at": "2026-09-03T08:07:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Horizonte Group, Metelligent und Einklang kooperieren bei MiSpeL-konformen C&I-Batteriespeichern Installation, Messtechnik und Vermarktung von Batteriespeichern aus einer Hand ist das Ziel eines gemeinsamen Angebots für Gewerbe- und Industriekunden, das die neuen Möglichkeiten der MiSpeL-Vorgaben nutzen soll. Für das erste Jahr streben die Partner 50 gemeinsame Projekte an.",
       "tags": [],
       "regions": []
     }
