@@ -14,12 +14,12 @@
     },
     {
       "id": "5cbaf62c7290f8550c25d086",
-      "title": "Bundeshaushalt 2027: Stromsteuer wird doch nicht gesenkt",
+      "title": "Bundeshaushalt 2027: Koalition will Stromsteuer doch nicht senken",
       "url": "https://www.golem.de/news/bundeshaushalt-2027-stromsteuer-wird-doch-nicht-gesenkt-2611-215133.html",
       "published_at": "2026-11-12T11:57:01Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Bundeshaushalt 2027: Stromsteuer wird doch nicht gesenkt Noch vor einem Monat hat Bundeskanzler Merz eine Senkung der Stromsteuer angekündigt. Doch dafür gibt es doch kein Geld im Haushalt. ( Elektroauto , Politik )",
+      "summary": "Bundeshaushalt 2027: Koalition will Stromsteuer doch nicht senken Noch vor einem Monat hat Bundeskanzler Merz eine Senkung der Stromsteuer angekündigt. Daraus wird aber nichts. ( Elektroauto , Politik )",
       "tags": [],
       "regions": []
     },
@@ -36,13 +36,15 @@
     },
     {
       "id": "4db2bd7402db4adc7805d886",
-      "title": "Ausbau der Gigafactory: Tesla würde weiteres Elektroauto-Modell in Grünheide bauen",
+      "title": "Ausbau der Gigafactory: Zweite Tesla-Fabrik in Grünheide soll kein Model Y produzieren",
       "url": "https://www.golem.de/news/ausbau-der-gigafactory-tesla-wuerde-weiteres-elektroauto-modell-in-gruenheide-bauen-2611-215127.html",
       "published_at": "2026-11-12T11:15:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Ausbau der Gigafactory: Tesla würde weiteres Elektroauto-Modell in Grünheide bauen Die Kapazitäten der Gigafactory in Grünheide stoßen an ihr Limit. Eine mögliche Erweiterung ist jedoch nicht für das Tesla Model Y geplant. ( Gigafactory Berlin , Elektroauto )",
-      "tags": [],
+      "summary": "Ausbau der Gigafactory: Zweite Tesla-Fabrik in Grünheide soll kein Model Y produzieren Die Kapazitäten der Gigafactory in Grünheide stoßen an ihr Limit. Eine mögliche Erweiterung ist jedoch nicht für das Tesla Model Y geplant. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [
+        "industrie"
+      ],
       "regions": []
     },
     {

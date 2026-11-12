@@ -14,12 +14,12 @@
     },
     {
       "id": "5cbaf62c7290f8550c25d086",
-      "title": "Bundeshaushalt 2027: Stromsteuer wird doch nicht gesenkt",
+      "title": "Bundeshaushalt 2027: Koalition will Stromsteuer doch nicht senken",
       "url": "https://www.golem.de/news/bundeshaushalt-2027-stromsteuer-wird-doch-nicht-gesenkt-2611-215133.html",
       "published_at": "2026-11-12T11:57:01Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Bundeshaushalt 2027: Stromsteuer wird doch nicht gesenkt Noch vor einem Monat hat Bundeskanzler Merz eine Senkung der Stromsteuer angekündigt. Doch dafür gibt es doch kein Geld im Haushalt. ( Elektroauto , Politik )",
+      "summary": "Bundeshaushalt 2027: Koalition will Stromsteuer doch nicht senken Noch vor einem Monat hat Bundeskanzler Merz eine Senkung der Stromsteuer angekündigt. Daraus wird aber nichts. ( Elektroauto , Politik )",
       "tags": [],
       "regions": []
     },
@@ -36,13 +36,15 @@
     },
     {
       "id": "4db2bd7402db4adc7805d886",
-      "title": "Ausbau der Gigafactory: Tesla würde weiteres Elektroauto-Modell in Grünheide bauen",
+      "title": "Ausbau der Gigafactory: Zweite Tesla-Fabrik in Grünheide soll kein Model Y produzieren",
       "url": "https://www.golem.de/news/ausbau-der-gigafactory-tesla-wuerde-weiteres-elektroauto-modell-in-gruenheide-bauen-2611-215127.html",
       "published_at": "2026-11-12T11:15:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Ausbau der Gigafactory: Tesla würde weiteres Elektroauto-Modell in Grünheide bauen Die Kapazitäten der Gigafactory in Grünheide stoßen an ihr Limit. Eine mögliche Erweiterung ist jedoch nicht für das Tesla Model Y geplant. ( Gigafactory Berlin , Elektroauto )",
-      "tags": [],
+      "summary": "Ausbau der Gigafactory: Zweite Tesla-Fabrik in Grünheide soll kein Model Y produzieren Die Kapazitäten der Gigafactory in Grünheide stoßen an ihr Limit. Eine mögliche Erweiterung ist jedoch nicht für das Tesla Model Y geplant. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [
+        "industrie"
+      ],
       "regions": []
     },
     {
@@ -66,28 +68,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Stadtwerke Gaggenau planen Zink-Bromid-Batteriespeicher mit 30 Megawattstunden Kapazität Den Speicher liefert der US-Hersteller Eos, Capac ist Generalunternehmer. Die Anlage soll 2028 in Betrieb gehen. Zink-Bromid-Speicher zeichnen sich unter anderem dadurch aus, dass sie nicht brennbar sind.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b40d50d32a3646295da58e52",
-      "title": "Sicherheit: Auch Tesla muss bei der Bundeswehr draußen bleiben",
-      "url": "https://www.golem.de/news/sicherheit-auch-tesla-muss-bei-der-bundeswehr-draussen-bleiben-2611-215111.html",
-      "published_at": "2026-11-12T06:28:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Sicherheit: Auch Tesla muss bei der Bundeswehr draußen bleiben Die neuen Einschränkungen von smarten Autos auf Bundeswehrgelände betreffen grundsätzlich alle Hersteller, auch Tesla. ( Bundeswehr , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3dbf261e348fa59b7e001c5e",
-      "title": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg",
-      "url": "https://www.golem.de/news/produktion-des-id-golf-vw-stoppt-projekt-gamechanger-fuer-wolfsburg-2611-215105.html",
-      "published_at": "2026-11-11T17:13:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg Aus Kostengründen verzichtet VW auf ein neues Gussverfahren für den Elektro-Golf. Verwirrung gibt es um die ID.3-Produktion. ( Volkswagen ID. , Elektroauto )",
       "tags": [],
       "regions": []
     },
