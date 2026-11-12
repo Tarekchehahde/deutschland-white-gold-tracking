@@ -1,8 +1,19 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 65,
+  "article_count": 66,
   "articles": [
+    {
+      "id": "3dbf261e348fa59b7e001c5e",
+      "title": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg",
+      "url": "https://www.golem.de/news/produktion-des-id-golf-vw-stoppt-projekt-gamechanger-fuer-wolfsburg-2611-215105.html",
+      "published_at": "2026-11-11T17:13:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg Aus Kostengründen verzichtet VW auf ein neues Gussverfahren für den Elektro-Golf. Verwirrung gibt es um die ID.3-Produktion. ( Volkswagen ID. , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e85a2823c322357159629b2c",
       "title": "Bestellstopp für EQE und EQS SUV: Mercedes lässt elektrische Oberklasse-Modelle auslaufen",
