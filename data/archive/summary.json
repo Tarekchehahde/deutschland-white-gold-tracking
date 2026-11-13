@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-13T13:05:42Z",
+  "generated_at_utc": "2026-11-13T23:35:18Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 991,
+  "total_in_archive": 994,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,31 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 83
+    "2026-11": 86
   },
   "recent_for_ui": [
+    {
+      "id": "ec002ba60e26134d17acf9fd",
+      "title": "Netzanschlussverhältnis: Was darf der Netzbetreiber und was nicht?",
+      "url": "https://www.pv-magazine.de/2026/11/13/netzanschlussverhaeltnis-was-darf-der-netzbetreiber-und-was-nicht/",
+      "published_at": "2026-11-13T15:27:53Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Netzanschlussverhältnis: Was darf der Netzbetreiber und was nicht? Die von den Netzbetreibern gestellten Bedingungen für den Anschluss von Erneuerbare-Energien-Anlagen und Batteriespeichern werden unter anderem durch FCA oftmals nachträglich angepasst. Rechtsanwalt Florian Brahms erläutert die für Art, Umfang und Zeitpunkt solcher Änderungen geltenden Grenzen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1cf4c5ea7e1ab6c9eba86ec8",
+      "title": "Elektroautos: China setzt bei Elektromotoren auf Magneten und leichtes Magnesium",
+      "url": "https://www.golem.de/news/elektroautos-china-setzt-bei-elektromotoren-auf-magneten-und-leichtes-magnesium-2611-215192.html",
+      "published_at": "2026-11-13T14:12:04Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: China setzt bei Elektromotoren auf Magneten und leichtes Magnesium Die RWTH Aachen hat 115 Elektromotoren für Autos miteinander verglichen - von chinesischen, europäischen und amerikanischen Herstellern. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "0130858ee42c4dcf588c0e9e",
       "title": "Tool „Grid4Energy“ will Netzanschlüsse beschleunigen",
@@ -72,6 +94,19 @@
       "language": "de",
       "summary": "BNEF prognostiziert 209 Gigawatt neue Batteriespeicher-Leistung weltweit 2027 Zu den Märkten, die den Ausbau werden beschleunigen werden, gehören Spanien, die Vereinigten Arabischen Emirate, Chile und Japan. Bis 2036 könnte die kumulierte weltweite Kapazität drei Terawatt/elf Terawattstunden erreichen, was etwa dem Zehnfachen des Niveaus von 2025 entspricht.",
       "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ddc5aafd6412b33cde96b309",
+      "title": "Batteriezellen: Überwindet Schleswig-Holstein sein Batterie-Trauma?",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/batteriezellen-fabrik-northvolt-kiel-daniel-guenther-e786640/",
+      "published_at": "2026-11-13T10:00:00Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Batteriezellen: Überwindet Schleswig-Holstein sein Batterie-Trauma? Für Europa, in Europa – mit diesem Versprechen wurde Univercell gegründet. Nun eröffnet der Batteriehersteller schon die zweite Fabrik. Doch kann sich das norddeutsche Unternehmen gegen die chinesische Konkurrenz behaupten?",
+      "tags": [
+        "industrie"
+      ],
       "regions": []
     },
     {
@@ -4529,39 +4564,6 @@
       "source_id": "rnd-wirtschaft",
       "language": "de",
       "summary": "Elektromobilität: Neue E-Autos laden schneller – Infrastruktur muss nachziehen Neue E-Autos können immer höhere Ladeleistungen aufnehmen, viele Ladeparks müssen deshalb modernisiert werden. Doch stärkere Netzanschlüsse dauern teils Jahre. Wo die Branche jetzt nachbessern will.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d66b0055ef14f10b83771a2f",
-      "title": "Ohne Fahrerwunsch: Tesla FSD übernimmt in Gefahrensituationen das Steuer",
-      "url": "https://www.golem.de/news/ohne-fahrerwunsch-tesla-fsd-uebernimmt-in-gefahrensituationen-das-steuer-2609-212703.html",
-      "published_at": "2026-09-07T08:22:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Ohne Fahrerwunsch: Tesla FSD übernimmt in Gefahrensituationen das Steuer Teslas neues FSD-Update kann das Steuer übernehmen, selbst wenn der Fahrer das System gar nicht aktiviert hat. Das wirft Fragen auf. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4696f6ee0dcdaf7f8a6c13a3",
-      "title": "China-E-Autos: Volle Punktzahl beim Crashtest Euro NCAP",
-      "url": "https://www.golem.de/news/china-e-autos-volle-punktzahl-beim-crashtest-euro-ncap-2609-212700.html",
-      "published_at": "2026-09-07T08:15:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "China-E-Autos: Volle Punktzahl beim Crashtest Euro NCAP Drei Elektroautos aus China, der GAC Aion UT, der Geely E2 und der Leapmotor B05, erreichen bei Euro NCAP jeweils fünf Sterne. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "87dffa6610e2ded784f67941",
-      "title": "Energy Hubs: Mehr Energieautonomie für Gewerbestandorte",
-      "url": "https://www.pv-magazine.de/2026/09/07/energy-hubs-mehr-energieautonomie-fuer-gewerbestandorte/",
-      "published_at": "2026-09-07T07:50:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Energy Hubs: Mehr Energieautonomie für Gewerbestandorte Netzengpässe bremsen die Elektrifizierung von Industrie und Logistik. Die Antwort darauf liegt hinter dem Netzanschlusspunkt: Ein sogenannter Energy Hub verbindet Photovoltaik, Batteriespeicher, Verbraucher, Ladeinfrastruktur und Energiemanagement und macht den lokal erzeugten Strom bedarfsgerecht verfügbar. Zusätzlich können leichte Montages",
       "tags": [],
       "regions": []
     }
