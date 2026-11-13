@@ -2,6 +2,124 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "0130858ee42c4dcf588c0e9e",
+      "title": "Tool „Grid4Energy“ will Netzanschlüsse beschleunigen",
+      "url": "https://www.pv-magazine.de/2026/11/13/tool-grid4energy-will-netzanschluesse-beschleunigen/",
+      "published_at": "2026-11-13T11:57:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Tool „Grid4Energy“ will Netzanschlüsse beschleunigen Die Landesgesellschaft für Energie und Klimaschutz bringt digital Projektierer und Betreiber von Erneuerbaren-Anlagen oder Batteriespeichern sowie Industrieunternehmen zusammen, um gemeinsam Netzanschlussanfragen zu stellen. Vorhaben in räumlicher Nähe werden über ein Tool abgeglichen.",
+      "tags": [
+        "industrie",
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "af3875573411697e1546a5b2",
+      "title": "Photovoltaik-Großanlagen mit Speicher: Warum die Betriebsstrategie vor der Speichergröße feststehen muss",
+      "url": "https://www.pv-magazine.de/2026/11/13/photovoltaik-grossanlagen-mit-speicher-warum-die-betriebsstrategie-vor-der-speichergroesse-feststehen-muss/",
+      "published_at": "2026-11-13T11:35:40Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Photovoltaik-Großanlagen mit Speicher: Warum die Betriebsstrategie vor der Speichergröße feststehen muss Ein Batteriespeicher am Solarpark kann Erzeugungsspitzen aufnehmen oder Strom in wirtschaftlich attraktivere Stunden verschieben. Beide Aufgaben konkurrieren um dieselbe Kapazität. Welche Leistung und Größe sinnvoll sind, entscheidet sich deshalb erst mit der Betriebsstrategie.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ed333bcc9e2a368a567463ff",
+      "title": "Auto: Elektroautoprämie könnte schon Ende 2027 aufgebraucht sein",
+      "url": "https://www.golem.de/news/auto-elektroautopraemie-koennte-schon-ende-2027-aufgebraucht-sein-2611-215182.html",
+      "published_at": "2026-11-13T11:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Auto: Elektroautoprämie könnte schon Ende 2027 aufgebraucht sein Die Elektroautoprämie ist ein Erfolg. Das Umweltministerium geht aber offenbar von einem deutlich früheren Ende der Förderung aus. ( Elektroauto , Politik )",
+      "tags": [
+        "politik",
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "281bb2ae96d354f72b1123cf",
+      "title": "Strommarktintegration immer verbreiteter – 5 neue Angebote in der pv magazine Marktübersicht Gewerbe-Energiemanagement",
+      "url": "https://www.pv-magazine.de/2026/11/13/strommarktintegration-immer-verbreiteter-5-neue-angebote-in-der-pv-magazine-marktuebersicht-gewerbe-energiemanagement/",
+      "published_at": "2026-11-13T11:02:13Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Strommarktintegration immer verbreiteter – 5 neue Angebote in der pv magazine Marktübersicht Gewerbe-Energiemanagement Die pv magazine Marktübersicht hat Zuwachs bekommen. Wegen der zunehmenden Relevanz des Marktes für Photovoltaik-Anlagen und Batteriespeicher in Gewerbe und Industrie und weil die Integration in den Strommarkt durch die MiSpeL-Festlegung attraktiv wird, haben wir im Juni begonnen,",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "76ffd9d6994e5bcf35d910a9",
+      "title": "BNEF prognostiziert 209 Gigawatt neue Batteriespeicher-Leistung weltweit 2027",
+      "url": "https://www.pv-magazine.de/2026/11/13/bnef-prognostiziert-209-gigawatt-neue-batteriespeicher-leistung-weltweit-2027/",
+      "published_at": "2026-11-13T10:15:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "BNEF prognostiziert 209 Gigawatt neue Batteriespeicher-Leistung weltweit 2027 Zu den Märkten, die den Ausbau werden beschleunigen werden, gehören Spanien, die Vereinigten Arabischen Emirate, Chile und Japan. Bis 2036 könnte die kumulierte weltweite Kapazität drei Terawatt/elf Terawattstunden erreichen, was etwa dem Zehnfachen des Niveaus von 2025 entspricht.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c693a0044254fbab038a69b5",
+      "title": "Anzeige: Zendure Solarspeicher bei Mini Power mit exklusivem Golem-Rabatt sichern",
+      "url": "https://www.golem.de/news/anzeige-zendure-solarspeicher-bei-mini-power-mit-exklusivem-golem-rabatt-sichern-2611-215148.html",
+      "published_at": "2026-11-13T09:40:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Anzeige: Zendure Solarspeicher bei Mini Power mit exklusivem Golem-Rabatt sichern Beim Händler Mini Power gibt es im Rahmen der Winter Sales Rabatte auf Batteriespeichersysteme von Zendure. Es winkt ein exklusiver Golem-Rabatt. ( Energie & Klima , Technik/Hardware )",
+      "tags": [
+        "umwelt"
+      ],
+      "regions": []
+    },
+    {
+      "id": "68bfa02f35130fda4a466f6e",
+      "title": "Tesla: Cybertruck wird ein paar Monate länger produziert",
+      "url": "https://www.golem.de/news/tesla-cybertruck-wird-ein-paar-monate-laenger-produziert-2611-215169.html",
+      "published_at": "2026-11-13T08:56:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Cybertruck wird ein paar Monate länger produziert Um mehr Vorbestellungen zu bedienen, will Elon Musk den Cybertruck bis zum Ende des Sommers 2027 produzieren. ( Tesla Cybertruck , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "b1dc019f20cdc426392e724f",
+      "title": "Wattmanufactur platziert Anleihe für Batteriespeicher- und Freiflächenprojekte über vier Millionen Euro",
+      "url": "https://www.pv-magazine.de/2026/11/13/wattmanufactur-platziert-anleihe-fur-batteriespeicher-und-freiflachenprojekte-uber-vier-millionen-euro/",
+      "published_at": "2026-11-13T08:01:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wattmanufactur platziert Anleihe für Batteriespeicher- und Freiflächenprojekte über vier Millionen Euro 519 Anleger haben die Anleihe zur Finanzierung von Photovoltaik- und Batteriespeicherprojekten gezeichnet. Die fest verzinsten Wertpapiere haben eine Laufzeit von vier Jahren.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1fe35e578100452c5d44b787",
+      "title": "Thüringer Verfassungsschutz warnt vor Spionage durch Tesla-Autos",
+      "url": "https://www.pfalz-express.de/thueringer-verfassungsschutz-warnt-vor-spionage-durch-tesla-autos/",
+      "published_at": "2026-11-13T07:59:45Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Thüringer Verfassungsschutz warnt vor Spionage durch Tesla-Autos Erfurt &#8211; Der Thüringer Verfassungsschutzpräsident Stephan Kramer warnt vor Spionagerisiken durch vernetzte Fahrzeuge des US-Elektroautobauers Tesla. Auch Hersteller aus verbündeten Staaten dürften bei Sicherheitsprüfungen keinen Vertrauensvorschuss erhalten. &#8222;Wir sollten uns nicht darauf verlassen, dass unter Freunden nic",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "ca75ba47b489cdb7299d9140",
+      "title": "Warum chinesische Elektroautos in der Vollkasko fast doppelt so teuer sind",
+      "url": "https://www.rnd.de/wirtschaft/warum-chinesische-elektroautos-in-der-vollkasko-fast-doppelt-so-teuer-sind-LQOMYMS6CBCNDJ2HD3MUNRYMHA.html",
+      "published_at": "2026-11-13T06:30:46Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Warum chinesische Elektroautos in der Vollkasko fast doppelt so teuer sind Chinesische Elektroautos kosten in der Vollkaskoversicherung fast doppelt so viel wie vergleichbare Neuwagen aus Europa, USA, Japan und Korea. Je nach Modell liegt der Preisunterschied bei bis zu 870 Euro pro Jahr. Warum Versicherer die Fahrzeuge aus der Volksrepublik höher einstufen.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "9d43356ba528f756869eca6a",
       "title": "Dunkle Wolken am Photovoltaik-Himmel",
       "url": "https://www.pv-magazine.de/2026/11/12/dunkle-wolken-am-photovoltaik-himmel/",
@@ -9,87 +127,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Dunkle Wolken am Photovoltaik-Himmel Die Modulpreise stagnieren, bei Batteriespeichern hingegen sind erstmals Steigerungen zu erwarten. So oder so droht aber der gesamte Markt ins Trudeln zu geraten, wenn die politisch Verantwortlichen die EEG-Novelle nicht rechtzeitig hinbekommen, meint Martin Schachinger von pvXchange.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5cbaf62c7290f8550c25d086",
-      "title": "Bundeshaushalt 2027: Koalition will Stromsteuer doch nicht senken",
-      "url": "https://www.golem.de/news/bundeshaushalt-2027-stromsteuer-wird-doch-nicht-gesenkt-2611-215133.html",
-      "published_at": "2026-11-12T11:57:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Bundeshaushalt 2027: Koalition will Stromsteuer doch nicht senken Noch vor einem Monat hat Bundeskanzler Merz eine Senkung der Stromsteuer angekündigt. Daraus wird aber nichts. ( Elektroauto , Politik )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0a072e75540c286ca53fdf45",
-      "title": "Pumpspeicherwerk: Gravitationskraftwerk für den Meeresgrund entwickelt",
-      "url": "https://www.golem.de/news/pumpspeicherwerk-gravitationskraftwerk-fuer-den-meeresgrund-entwickelt-2611-215131.html",
-      "published_at": "2026-11-12T11:43:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Pumpspeicherwerk: Gravitationskraftwerk für den Meeresgrund entwickelt Mit flexiblen Reservoirs und minimalem Aufwand bei der Installation soll das System weltweit zur Stromspeicherung eingesetzt werden können. ( Energiewende , Rechenzentrum )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4db2bd7402db4adc7805d886",
-      "title": "Ausbau der Gigafactory: Zweite Tesla-Fabrik in Grünheide soll kein Model Y produzieren",
-      "url": "https://www.golem.de/news/ausbau-der-gigafactory-tesla-wuerde-weiteres-elektroauto-modell-in-gruenheide-bauen-2611-215127.html",
-      "published_at": "2026-11-12T11:15:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Ausbau der Gigafactory: Zweite Tesla-Fabrik in Grünheide soll kein Model Y produzieren Die Kapazitäten der Gigafactory in Grünheide stoßen an ihr Limit. Eine mögliche Erweiterung ist jedoch nicht für das Tesla Model Y geplant. ( Gigafactory Berlin , Elektroauto )",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "4bcf70f3c44fd1972de47500",
-      "title": "Probefahrt DS No. 7: Unterwegs in der französischen Kuschelkiste",
-      "url": "https://www.golem.de/news/probefahrt-ds-no-7-unterwegs-in-der-franzoesischen-kuschelkiste-2611-215083.html",
-      "published_at": "2026-11-12T11:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Probefahrt DS No. 7: Unterwegs in der französischen Kuschelkiste Der DS 7 ist das bislang erfolgreichste Fahrzeug von DS. Das Auto wird als No. 7 neu aufgelegt - und setzt auf Komfort und Elektroantrieb. Von Tobias Költzsch ( Elektroauto , Auto )",
-      "tags": [
-        "exploration"
-      ],
-      "regions": []
-    },
-    {
-      "id": "0d8dc2522fec3a9437534846",
-      "title": "Stadtwerke Gaggenau planen Zink-Bromid-Batteriespeicher mit 30 Megawattstunden Kapazität",
-      "url": "https://www.pv-magazine.de/2026/11/12/stadtwerke-gaggenau-planen-zink-bromid-batteriespeicher-mit-30-megawattstunden-kapazitaet/",
-      "published_at": "2026-11-12T08:09:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Stadtwerke Gaggenau planen Zink-Bromid-Batteriespeicher mit 30 Megawattstunden Kapazität Den Speicher liefert der US-Hersteller Eos, Capac ist Generalunternehmer. Die Anlage soll 2028 in Betrieb gehen. Zink-Bromid-Speicher zeichnen sich unter anderem dadurch aus, dass sie nicht brennbar sind.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ea56e959b72325d4010327a6",
-      "title": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html",
-      "published_at": "2026-11-10T08:53:53Z",
-      "source_id": "tagesschau-wirtschaft",
-      "language": "de",
-      "summary": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke Peking setzt weiter voll auf Export - und knackt auch dank umstrittener Subventionen erneut eine Rekordmarke: Der Handelsüberschuss von mehr als einer Billion Dollar wurde vor allem durch Technologiegüter und Elektroautos erzielt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "903d4a32476696604d5eb54a",
-      "title": "Einer der größten in Europa: Was steckt hinter dem geplanten XXL-Batteriespeicher?",
-      "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-einer-der-groessten-in-europa-was-steckt-hinter-dem-geplanten-xxl-batteriespeicher-100.html",
-      "published_at": "2026-11-10T07:54:00Z",
-      "source_id": "tagesschau-bw",
-      "language": "de",
-      "summary": "Einer der größten in Europa: Was steckt hinter dem geplanten XXL-Batteriespeicher? Im Kreis Ludwigsburg soll einer der größten Batteriespeicher Europas entstehen. Warum wird er dort gebaut? Was kostet das Projekt? Muss dafür Natur weichen? Alle Infos im Überblick.",
       "tags": [],
       "regions": []
     }
