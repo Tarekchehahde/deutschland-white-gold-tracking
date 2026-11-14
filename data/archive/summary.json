@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-13T23:35:18Z",
+  "generated_at_utc": "2026-11-14T12:10:02Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 994,
+  "total_in_archive": 997,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,42 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 86
+    "2026-11": 89
   },
   "recent_for_ui": [
+    {
+      "id": "f4262c24e1a63863dcb4c682",
+      "title": "Batteriespeicher: Netzbetreiber fordert Notbremse bei Stromanschlüssen",
+      "url": "https://www.golem.de/news/batteriespeicher-netzbetreiber-fordert-notbremse-bei-stromanschluessen-2611-215223.html",
+      "published_at": "2026-11-14T12:05:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Batteriespeicher: Netzbetreiber fordert Notbremse bei Stromanschlüssen Unrentable Batteriespeicher drohen laut 50Hertz, die Netzanschlüsse der Industrie zu blockieren. Neue rechtliche Vorgaben seien erforderlich. ( Akku , Rechenzentrum )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e94bd5d15ec0666465227265",
+      "title": "Essen, trinken, Strom tanken: Neues Bistro eröffnet in Hermeskeil – und setzt auf erprobtes Konzept",
+      "url": "https://www.volksfreund.de/region/konz-saarburg-hochwald/hermeskeil-nur-bistro-im-ehemaligen-jay-und-jay-oeffnet-bald_aid-158197337",
+      "published_at": "2026-11-14T10:00:00Z",
+      "source_id": "volksfreund",
+      "language": "de",
+      "summary": "Essen, trinken, Strom tanken: Neues Bistro eröffnet in Hermeskeil – und setzt auf erprobtes Konzept Das Jay &amp; Jay in Hermeskeil ist Geschichte. Doch ein neuer Inhaber ist am Start. Und Ladesäulen für Elektroautos sind bereits in Betrieb.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d4318c6aa12864f0a2ec4d42",
+      "title": "Autonomes Fahren: Tesla verkauft Cybercab an erste Privatkunden",
+      "url": "https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html",
+      "published_at": "2026-11-14T09:45:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Tesla verkauft Cybercab an erste Privatkunden Mit Tesla verkauft erstmals ein Hersteller sein Robotaxi an Privatpersonen. Doch der Nutzen des Cybercab ist stark eingeschränkt. ( Cybercab , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "ec002ba60e26134d17acf9fd",
       "title": "Netzanschlussverhältnis: Was darf der Netzbetreiber und was nicht?",
@@ -4531,39 +4564,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektroauto: Audi A2 ist bestellbar zu Preisen bis 51.200 Euro Der Audi A2 E-Tron ist offiziell, die Auslieferung ist ab Dezember 2026 geplant. Das Elektroauto kommt in insgesamt vier Leistungsvarianten. ( Audi , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f0d694d3cc9e70d851ced682",
-      "title": "Auto: Elektroautos im Betrieb günstiger als Benziner",
-      "url": "https://www.golem.de/news/auto-elektroautos-im-betrieb-guenstiger-als-benziner-2609-212707.html",
-      "published_at": "2026-09-07T09:12:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Auto: Elektroautos im Betrieb günstiger als Benziner Fallende Batteriepreise und steigende Treibstoffkosten machen Elektroautos im Betrieb zur günstigeren Alternative. Auch die Anschaffungskosten sinken. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "16b7aceaabded3d9646b79a7",
-      "title": "Audi lässt den A2 als effizientes Elektroauto wiederaufleben",
-      "url": "https://www.heise.de/news/Elektroauto-Audi-A2-e-tron-Weltpremiere-des-Effizienzmodells-11436465.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-07T09:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Audi lässt den A2 als effizientes Elektroauto wiederaufleben Audi stellt mit dem A2 e-tron seinen sparsamsten Stromer vor: 12,8 kWh/100 km, LFP-Batterie und bis zu 500 km Reichweite. Gebaut wird er in Ingolstadt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3d5f01178aceb1f62f5d33f3",
-      "title": "Elektromobilität: Neue E-Autos laden schneller – Infrastruktur muss nachziehen",
-      "url": "https://www.rnd.de/wirtschaft/elektromobilitaet-neue-e-autos-laden-schneller-infrastruktur-muss-nachziehen-VXZVHFJJNNASVH6VB5L2HM2UUI.html",
-      "published_at": "2026-09-07T08:26:38Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Elektromobilität: Neue E-Autos laden schneller – Infrastruktur muss nachziehen Neue E-Autos können immer höhere Ladeleistungen aufnehmen, viele Ladeparks müssen deshalb modernisiert werden. Doch stärkere Netzanschlüsse dauern teils Jahre. Wo die Branche jetzt nachbessern will.",
       "tags": [],
       "regions": []
     }
