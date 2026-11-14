@@ -1,8 +1,41 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 86,
+  "article_count": 89,
   "articles": [
+    {
+      "id": "f4262c24e1a63863dcb4c682",
+      "title": "Batteriespeicher: Netzbetreiber fordert Notbremse bei Stromanschlüssen",
+      "url": "https://www.golem.de/news/batteriespeicher-netzbetreiber-fordert-notbremse-bei-stromanschluessen-2611-215223.html",
+      "published_at": "2026-11-14T12:05:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Batteriespeicher: Netzbetreiber fordert Notbremse bei Stromanschlüssen Unrentable Batteriespeicher drohen laut 50Hertz, die Netzanschlüsse der Industrie zu blockieren. Neue rechtliche Vorgaben seien erforderlich. ( Akku , Rechenzentrum )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e94bd5d15ec0666465227265",
+      "title": "Essen, trinken, Strom tanken: Neues Bistro eröffnet in Hermeskeil – und setzt auf erprobtes Konzept",
+      "url": "https://www.volksfreund.de/region/konz-saarburg-hochwald/hermeskeil-nur-bistro-im-ehemaligen-jay-und-jay-oeffnet-bald_aid-158197337",
+      "published_at": "2026-11-14T10:00:00Z",
+      "source_id": "volksfreund",
+      "language": "de",
+      "summary": "Essen, trinken, Strom tanken: Neues Bistro eröffnet in Hermeskeil – und setzt auf erprobtes Konzept Das Jay &amp; Jay in Hermeskeil ist Geschichte. Doch ein neuer Inhaber ist am Start. Und Ladesäulen für Elektroautos sind bereits in Betrieb.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d4318c6aa12864f0a2ec4d42",
+      "title": "Autonomes Fahren: Tesla verkauft Cybercab an erste Privatkunden",
+      "url": "https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html",
+      "published_at": "2026-11-14T09:45:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Tesla verkauft Cybercab an erste Privatkunden Mit Tesla verkauft erstmals ein Hersteller sein Robotaxi an Privatpersonen. Doch der Nutzen des Cybercab ist stark eingeschränkt. ( Cybercab , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "ec002ba60e26134d17acf9fd",
       "title": "Netzanschlussverhältnis: Was darf der Netzbetreiber und was nicht?",
