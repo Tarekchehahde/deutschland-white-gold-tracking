@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "4902acb612234817894fdf07",
+      "title": "VW ID. Polo im Test: Taugt der neue Elektro-Polo im Alltag?",
+      "url": "https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag-a-50ee1751-c3e4-4641-8152-bef8fdde5dd3",
+      "published_at": "2026-11-15T06:45:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "VW ID. Polo im Test: Taugt der neue Elektro-Polo im Alltag? Mit dem ID. Polo will Volkswagen zeigen: Ein bezahlbares Elektroauto kann in allen Lebenslagen genügen. Unser Autor hat es ausprobiert.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "f4262c24e1a63863dcb4c682",
       "title": "Batteriespeicher: Netzbetreiber fordert Notbremse bei Stromanschlüssen",
       "url": "https://www.golem.de/news/batteriespeicher-netzbetreiber-fordert-notbremse-bei-stromanschluessen-2611-215223.html",
@@ -71,20 +82,6 @@
       "regions": []
     },
     {
-      "id": "ed333bcc9e2a368a567463ff",
-      "title": "Auto: Elektroautoprämie könnte schon Ende 2027 aufgebraucht sein",
-      "url": "https://www.golem.de/news/auto-elektroautopraemie-koennte-schon-ende-2027-aufgebraucht-sein-2611-215182.html",
-      "published_at": "2026-11-13T11:15:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Auto: Elektroautoprämie könnte schon Ende 2027 aufgebraucht sein Die Elektroautoprämie ist ein Erfolg. Das Umweltministerium geht aber offenbar von einem deutlich früheren Ende der Förderung aus. ( Elektroauto , Politik )",
-      "tags": [
-        "politik",
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
       "id": "281bb2ae96d354f72b1123cf",
       "title": "Strommarktintegration immer verbreiteter – 5 neue Angebote in der pv magazine Marktübersicht Gewerbe-Energiemanagement",
       "url": "https://www.pv-magazine.de/2026/11/13/strommarktintegration-immer-verbreiteter-5-neue-angebote-in-der-pv-magazine-marktuebersicht-gewerbe-energiemanagement/",
@@ -107,19 +104,6 @@
       "regions": []
     },
     {
-      "id": "ddc5aafd6412b33cde96b309",
-      "title": "Batteriezellen: Überwindet Schleswig-Holstein sein Batterie-Trauma?",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/batteriezellen-fabrik-northvolt-kiel-daniel-guenther-e786640/",
-      "published_at": "2026-11-13T10:00:00Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "Batteriezellen: Überwindet Schleswig-Holstein sein Batterie-Trauma? Für Europa, in Europa – mit diesem Versprechen wurde Univercell gegründet. Nun eröffnet der Batteriehersteller schon die zweite Fabrik. Doch kann sich das norddeutsche Unternehmen gegen die chinesische Konkurrenz behaupten?",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
       "id": "b1dc019f20cdc426392e724f",
       "title": "Wattmanufactur platziert Anleihe für Batteriespeicher- und Freiflächenprojekte über vier Millionen Euro",
       "url": "https://www.pv-magazine.de/2026/11/13/wattmanufactur-platziert-anleihe-fur-batteriespeicher-und-freiflachenprojekte-uber-vier-millionen-euro/",
@@ -127,17 +111,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Wattmanufactur platziert Anleihe für Batteriespeicher- und Freiflächenprojekte über vier Millionen Euro 519 Anleger haben die Anleihe zur Finanzierung von Photovoltaik- und Batteriespeicherprojekten gezeichnet. Die fest verzinsten Wertpapiere haben eine Laufzeit von vier Jahren.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ca75ba47b489cdb7299d9140",
-      "title": "Warum chinesische Elektroautos in der Vollkasko fast doppelt so teuer sind",
-      "url": "https://www.rnd.de/wirtschaft/warum-chinesische-elektroautos-in-der-vollkasko-fast-doppelt-so-teuer-sind-LQOMYMS6CBCNDJ2HD3MUNRYMHA.html",
-      "published_at": "2026-11-13T06:30:46Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Warum chinesische Elektroautos in der Vollkasko fast doppelt so teuer sind Chinesische Elektroautos kosten in der Vollkaskoversicherung fast doppelt so viel wie vergleichbare Neuwagen aus Europa, USA, Japan und Korea. Je nach Modell liegt der Preisunterschied bei bis zu 870 Euro pro Jahr. Warum Versicherer die Fahrzeuge aus der Volksrepublik höher einstufen.",
       "tags": [],
       "regions": []
     }

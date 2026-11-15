@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-14T22:25:32Z",
+  "generated_at_utc": "2026-11-15T12:43:57Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 997,
+  "total_in_archive": 998,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,20 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 89
+    "2026-11": 90
   },
   "recent_for_ui": [
+    {
+      "id": "4902acb612234817894fdf07",
+      "title": "VW ID. Polo im Test: Taugt der neue Elektro-Polo im Alltag?",
+      "url": "https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag-a-50ee1751-c3e4-4641-8152-bef8fdde5dd3",
+      "published_at": "2026-11-15T06:45:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "VW ID. Polo im Test: Taugt der neue Elektro-Polo im Alltag? Mit dem ID. Polo will Volkswagen zeigen: Ein bezahlbares Elektroauto kann in allen Lebenslagen genügen. Unser Autor hat es ausprobiert.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "f4262c24e1a63863dcb4c682",
       "title": "Batteriespeicher: Netzbetreiber fordert Notbremse bei Stromanschlüssen",
@@ -4553,17 +4564,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektromobilität: VW ID.Polo und Skoda Epiq auf Monate ausverkauft Die günstigen E-Autos aus dem VW-Konzern stoßen auf eine große Nachfrage. Bislang werden über die Kaufprämie eher asiatische Kleinwagen gefördert. Ein Bericht von Friedhelm Greis ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "46ae3c33842522c6bca20dab",
-      "title": "Elektroauto: Audi A2 ist bestellbar zu Preisen bis 51.200 Euro",
-      "url": "https://www.golem.de/news/elektroauto-audi-a2-ist-bestellbar-zu-preisen-bis-51-200-euro-2609-212721.html",
-      "published_at": "2026-09-07T10:54:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Audi A2 ist bestellbar zu Preisen bis 51.200 Euro Der Audi A2 E-Tron ist offiziell, die Auslieferung ist ab Dezember 2026 geplant. Das Elektroauto kommt in insgesamt vier Leistungsvarianten. ( Audi , Elektroauto )",
       "tags": [],
       "regions": []
     }
