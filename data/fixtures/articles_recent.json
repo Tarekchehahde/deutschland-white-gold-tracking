@@ -2,35 +2,105 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "4902acb612234817894fdf07",
-      "title": "VW ID. Polo im Test: Taugt der neue Elektro-Polo im Alltag?",
-      "url": "https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag-a-50ee1751-c3e4-4641-8152-bef8fdde5dd3",
-      "published_at": "2026-11-15T14:30:00Z",
-      "source_id": "spiegel-schlagzeilen",
+      "id": "6d752b35f89fd9283391f490",
+      "title": "Speicherkapazität mit Regelungsbedarf",
+      "url": "https://www.pv-magazine.de/2026/11/16/speicherkapazitaet-mit-regelungsbedarf/",
+      "published_at": "2026-11-16T13:02:32Z",
+      "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "VW ID. Polo im Test: Taugt der neue Elektro-Polo im Alltag? Mit dem ID. Polo will Volkswagen zeigen: Ein bezahlbares Elektroauto kann in allen Lebenslagen genügen. Unser Autor hat es ausprobiert.",
+      "summary": "Speicherkapazität mit Regelungsbedarf Großbatteriespeicher haben die Rolle des reinen „Puffers“ in der Energiewende längst verlassen. Sie übernehmen mehr und mehr die netzstabilisierenden Funktionen konventioneller Kraftwerke – und stellen Planer, Betreiber und Investoren vor große Herausforderungen. Wir bei TÜV Süd begleiten die Gratwanderung zwischen technischer Machbarkeit, normativer Absicheru",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "1437b2410655816e68791475",
+      "title": "Flower plant 2-Gigawattstunden-Batteriespeicher im Spreewald",
+      "url": "https://www.pv-magazine.de/2026/11/16/flower-plant-2-gigawattstunden-batteriespeicher-im-spreewald/",
+      "published_at": "2026-11-16T12:25:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Flower plant 2-Gigawattstunden-Batteriespeicher im Spreewald Die Baureife für den 4-Stunden-Speicher soll noch in diesem Jahr erreicht werden. Die kommerzielle Inbetriebnahme ist für 2029 vorgesehen.",
       "tags": [],
       "regions": []
     },
     {
-      "id": "f4262c24e1a63863dcb4c682",
-      "title": "Batteriespeicher: Netzbetreiber fordert Notbremse bei Stromanschlüssen",
-      "url": "https://www.golem.de/news/batteriespeicher-netzbetreiber-fordert-notbremse-bei-stromanschluessen-2611-215223.html",
-      "published_at": "2026-11-14T12:05:01Z",
-      "source_id": "golem-rss",
+      "id": "ceb028c5778c64fe78ef6e65",
+      "title": "Konkurrenz zu SpaceX: Rückschlag für Amazon – Rakete mit 40 Satelliten explodiert",
+      "url": "https://rp-online.de/wirtschaft/unternehmen/amazon-verliert-bei-missgluecktem-ula-raketenstart-40-satelliten_aid-158459667",
+      "published_at": "2026-11-16T11:37:00Z",
+      "source_id": "rp-online-wirtschaft",
       "language": "de",
-      "summary": "Batteriespeicher: Netzbetreiber fordert Notbremse bei Stromanschlüssen Unrentable Batteriespeicher drohen laut 50Hertz, die Netzanschlüsse der Industrie zu blockieren. Neue rechtliche Vorgaben seien erforderlich. ( Akku , Rechenzentrum )",
+      "summary": "Konkurrenz zu SpaceX: Rückschlag für Amazon – Rakete mit 40 Satelliten explodiert Der Start einer Vulcan-Rakete des Raumfahrtunternehmens United Launch Alliance ist am Sonntag in Florida gescheitert. Dabei wurden 40 Satelliten für den Internetdienst Leo von Amazon zerstört. Das dürfte den Engpass bei Raketenstarts verschärfen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "fe5fc19e7d84178b181bdd17",
+      "title": "EnBW ergänzt Pumpspeicherstandort mit 170 Megawattstunden-Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/11/16/enbw-ergaenzt-pumpspeicherstandort-mit-170-megawattstunden-batteriespeicher/",
+      "published_at": "2026-11-16T10:57:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "EnBW ergänzt Pumpspeicherstandort mit 170 Megawattstunden-Batteriespeicher Den 4-Stunden-Speicher will der Energiekonzern ab 2028 errichten und noch 2029 in Betrieb nehmen. Er ergänzt das neue Pumpspeicherkraftwerk, das EnBW am Standort Forbach derzeit errichtet.",
       "tags": [],
       "regions": []
     },
     {
-      "id": "d4318c6aa12864f0a2ec4d42",
-      "title": "Autonomes Fahren: Tesla verkauft Cybercab an erste Privatkunden",
-      "url": "https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html",
-      "published_at": "2026-11-14T09:45:02Z",
+      "id": "ca07aa8bf2fc18b1b53d684b",
+      "title": "Panne bei Vulcan-Rakete: Amazon verliert 40 Breitband-Satelliten",
+      "url": "https://www.golem.de/news/vulcan-rakete-amazon-verliert-40-breitband-satelliten-2611-215250.html",
+      "published_at": "2026-11-16T09:39:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Autonomes Fahren: Tesla verkauft Cybercab an erste Privatkunden Mit Tesla verkauft erstmals ein Hersteller sein Robotaxi an Privatpersonen. Doch der Nutzen des Cybercab ist stark eingeschränkt. ( Cybercab , Elektroauto )",
+      "summary": "Panne bei Vulcan-Rakete: Amazon verliert 40 Breitband-Satelliten Doppelter Rückschlag für die Konkurrenz von SpaceX: Der Transport von 40 Kommunikationssatelliten für Amazon ist gescheitert. ( Rakete , Amazon )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7e8204b42d7c0868bf69e47c",
+      "title": "Elektromobilität: Fast 220.000 Ladepunkte in Deutschland",
+      "url": "https://www.heise.de/news/Elektromobilitaet-Fast-220-000-Ladepunkte-in-Deutschland-11525759.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-11-16T08:23:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Elektromobilität: Fast 220.000 Ladepunkte in Deutschland Der Ausbau der Ladeinfrastruktur kommt weiter voran. Knapp 58.000 der rund 220.000 Ladepunkte arbeiten mit Gleichstrom – und gelten damit als schnell.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "93521dfca94dbd749e89f49c",
+      "title": "BMW iX5 60e: Der Elektroantrieb schlägt den Sechszylinder",
+      "url": "https://www.golem.de/news/bmw-ix5-60e-der-elektroantrieb-schlaegt-den-sechszylinder-2611-214859.html",
+      "published_at": "2026-11-16T08:20:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "BMW iX5 60e: Der Elektroantrieb schlägt den Sechszylinder Fast drei Tonnen wiegt BMWs erster elektrischer X5. Trotzdem fährt er erstaunlich agil. Auch die Reichweite beeindruckt. Ebenso der Preis. Ein Bericht von Fabian Hoberg ( Elektroauto , Brennstoffzelle )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8c31ea0c2f458141e2ed81f5",
+      "title": "Vulcan-Trägerrakete verliert nach Problem Amazon-Satelliten im All",
+      "url": "https://www.heise.de/news/Amazon-Satelliten-nach-Problem-einer-Vulcan-Traegerrakete-im-All-verloren-11525671.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-11-16T04:05:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Vulcan-Trägerrakete verliert nach Problem Amazon-Satelliten im All Eine Vulcan-Rakete sollte 40 Satelliten für Amazon Leo in den Orbit bringen. Doch diese wurden nicht ausgesetzt - ein Rückschlag für den Starlink-Konkurrenten.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2bc3d8d01ae5971453ec6680",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "published_at": "2026-11-15T23:11:54Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors This was the first total mission failure in United Launch Alliance's 20-year history.",
       "tags": [],
       "regions": []
     },
@@ -46,17 +116,6 @@
       "regions": []
     },
     {
-      "id": "1cf4c5ea7e1ab6c9eba86ec8",
-      "title": "Elektroautos: China setzt bei Elektromotoren auf Magneten und leichtes Magnesium",
-      "url": "https://www.golem.de/news/elektroautos-china-setzt-bei-elektromotoren-auf-magneten-und-leichtes-magnesium-2611-215192.html",
-      "published_at": "2026-11-13T14:12:04Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroautos: China setzt bei Elektromotoren auf Magneten und leichtes Magnesium Die RWTH Aachen hat 115 Elektromotoren für Autos miteinander verglichen - von chinesischen, europäischen und amerikanischen Herstellern. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "0130858ee42c4dcf588c0e9e",
       "title": "Tool „Grid4Energy“ will Netzanschlüsse beschleunigen",
       "url": "https://www.pv-magazine.de/2026/11/13/tool-grid4energy-will-netzanschluesse-beschleunigen/",
@@ -68,50 +127,6 @@
         "industrie",
         "umwelt"
       ],
-      "regions": []
-    },
-    {
-      "id": "af3875573411697e1546a5b2",
-      "title": "Photovoltaik-Großanlagen mit Speicher: Warum die Betriebsstrategie vor der Speichergröße feststehen muss",
-      "url": "https://www.pv-magazine.de/2026/11/13/photovoltaik-grossanlagen-mit-speicher-warum-die-betriebsstrategie-vor-der-speichergroesse-feststehen-muss/",
-      "published_at": "2026-11-13T11:35:40Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Photovoltaik-Großanlagen mit Speicher: Warum die Betriebsstrategie vor der Speichergröße feststehen muss Ein Batteriespeicher am Solarpark kann Erzeugungsspitzen aufnehmen oder Strom in wirtschaftlich attraktivere Stunden verschieben. Beide Aufgaben konkurrieren um dieselbe Kapazität. Welche Leistung und Größe sinnvoll sind, entscheidet sich deshalb erst mit der Betriebsstrategie.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "281bb2ae96d354f72b1123cf",
-      "title": "Strommarktintegration immer verbreiteter – 5 neue Angebote in der pv magazine Marktübersicht Gewerbe-Energiemanagement",
-      "url": "https://www.pv-magazine.de/2026/11/13/strommarktintegration-immer-verbreiteter-5-neue-angebote-in-der-pv-magazine-marktuebersicht-gewerbe-energiemanagement/",
-      "published_at": "2026-11-13T11:02:13Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Strommarktintegration immer verbreiteter – 5 neue Angebote in der pv magazine Marktübersicht Gewerbe-Energiemanagement Die pv magazine Marktübersicht hat Zuwachs bekommen. Wegen der zunehmenden Relevanz des Marktes für Photovoltaik-Anlagen und Batteriespeicher in Gewerbe und Industrie und weil die Integration in den Strommarkt durch die MiSpeL-Festlegung attraktiv wird, haben wir im Juni begonnen,",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "76ffd9d6994e5bcf35d910a9",
-      "title": "BNEF prognostiziert 209 Gigawatt neue Batteriespeicher-Leistung weltweit 2027",
-      "url": "https://www.pv-magazine.de/2026/11/13/bnef-prognostiziert-209-gigawatt-neue-batteriespeicher-leistung-weltweit-2027/",
-      "published_at": "2026-11-13T10:15:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "BNEF prognostiziert 209 Gigawatt neue Batteriespeicher-Leistung weltweit 2027 Zu den Märkten, die den Ausbau werden beschleunigen werden, gehören Spanien, die Vereinigten Arabischen Emirate, Chile und Japan. Bis 2036 könnte die kumulierte weltweite Kapazität drei Terawatt/elf Terawattstunden erreichen, was etwa dem Zehnfachen des Niveaus von 2025 entspricht.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b1dc019f20cdc426392e724f",
-      "title": "Wattmanufactur platziert Anleihe für Batteriespeicher- und Freiflächenprojekte über vier Millionen Euro",
-      "url": "https://www.pv-magazine.de/2026/11/13/wattmanufactur-platziert-anleihe-fur-batteriespeicher-und-freiflachenprojekte-uber-vier-millionen-euro/",
-      "published_at": "2026-11-13T08:01:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Wattmanufactur platziert Anleihe für Batteriespeicher- und Freiflächenprojekte über vier Millionen Euro 519 Anleger haben die Anleihe zur Finanzierung von Photovoltaik- und Batteriespeicherprojekten gezeichnet. Die fest verzinsten Wertpapiere haben eine Laufzeit von vier Jahren.",
-      "tags": [],
       "regions": []
     }
   ]
