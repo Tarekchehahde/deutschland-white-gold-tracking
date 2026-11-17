@@ -2,6 +2,94 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "167359771eb30e3d3d9352be",
+      "title": "US-Elektroautobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
+      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/tesla-will-drei-milliarden-euro-in-werk-in-gruenheide-stecken_aid-158467195",
+      "published_at": "2026-11-16T21:10:43Z",
+      "source_id": "volksfreund",
+      "language": "de",
+      "summary": "US-Elektroautobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken Pläne für einen Ausbau der Tesla-Fabrik in Grünheide bei Berlin gibt es schon länger. Nun nennt das Unternehmen konkrete Zahlen. In ein paar Jahren sollen autonome Cybercabs vom Band rollen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "7f356078e727069fb076e920",
+      "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
+      "url": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
+      "published_at": "2026-11-16T20:48:40Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f8f305ac885978973f5233cb",
+      "title": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut",
+      "url": "https://www.rnd.de/wirtschaft/tesla-investiert-drei-milliarden-euro-cybercab-wird-in-brandenburger-gigafactory-gebaut-7UC65FSWYZGFBACKNN2OO4PH6E.html",
+      "published_at": "2026-11-16T17:51:55Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut Die Gigafactory in Grünheide soll im Jahr bis zu eine Million des neuen Modells produzieren. Das hat das Unternehmen am Nachmittag bekannt gegeben. Brandenburgs Ministerpräsident Dietmar Woidke (SPD) spricht von einem „großen Tag für Brandenburg“.",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "a6c7acd6821a2d04513965c5",
+      "title": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/11/16/elements-green-erhaelt-von-tennet-netzanschlusszusage-fuer-16-gigawattstunden-batteriespeicher/",
+      "published_at": "2026-11-16T15:22:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher Die Anlage soll im niedersächsischen Stadorf gebaut werden. Der 400-Megawatt-Speicher hat eine Speicherdauer von vier Stunden. Damit gehört das Projekt des britischen Photovoltaik- und Speicher-Projektierers zu den größten Speicherprojekten Deutschlands.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "98da6906a100c29c60627fb9",
+      "title": "Drei Milliarden Euro für Grünheide: Tesla baut neue Autofabrik für das Cybercab",
+      "url": "https://www.golem.de/news/drei-milliarden-euro-fuer-gruenheide-tesla-baut-neue-autofabrik-fuer-das-cybercab-2611-215268.html",
+      "published_at": "2026-11-16T14:27:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Drei Milliarden Euro für Grünheide: Tesla baut neue Autofabrik für das Cybercab Während deutsche Autohersteller mit Investitionen knausern, baut Tesla in Grünheide eine weitere Fabrik. Ab 2029 sollen Cybercabs vom Band rollen. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "04f9ffe9bea1ce52cb54b70e",
+      "title": "Cybercabs aus Deutschland: Tesla will Werk in Grünheide für 3 Milliarden Euro ausbauen",
+      "url": "https://t3n.de/news/cybercab-deutschland-tesla-gruenheide-3-milliarden-euro-1773847/",
+      "published_at": "2026-11-16T14:15:59Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Cybercabs aus Deutschland: Tesla will Werk in Grünheide für 3 Milliarden Euro ausbauen Die Pläne für einen Ausbau der Tesla-Fabrik in Grünheide bei Berlin liegen schon länger vor. Nun nennt das Unternehmen von Elon Musk konkrete Zahlen. Der US-Elektroautobauer Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide bei Berlin ausgeben. Damit soll zunächst ein neues Produktionsgebäude",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "f7870979640a9b8d823feb4c",
+      "title": "Haushaltsstreit mit SPD: Merz und Söder beharren auf Stromsteuersenkung",
+      "url": "https://www.golem.de/news/haushaltsstreit-mit-spd-merz-und-soeder-beharren-auf-stromsteuersenkung-2611-215266.html",
+      "published_at": "2026-11-16T13:48:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Haushaltsstreit mit SPD: Merz und Söder beharren auf Stromsteuersenkung Das Hin und Her um die Stromsteuer geht weiter. Bundeskanzler Merz sieht dafür Spielraum im Bundeshalt 2027. ( Bundesregierung , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
       "id": "6d752b35f89fd9283391f490",
       "title": "Speicherkapazität mit Regelungsbedarf",
       "url": "https://www.pv-magazine.de/2026/11/16/speicherkapazitaet-mit-regelungsbedarf/",
@@ -113,20 +201,6 @@
       "language": "de",
       "summary": "Netzanschlussverhältnis: Was darf der Netzbetreiber und was nicht? Die von den Netzbetreibern gestellten Bedingungen für den Anschluss von Erneuerbare-Energien-Anlagen und Batteriespeichern werden unter anderem durch FCA oftmals nachträglich angepasst. Rechtsanwalt Florian Brahms erläutert die für Art, Umfang und Zeitpunkt solcher Änderungen geltenden Grenzen.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0130858ee42c4dcf588c0e9e",
-      "title": "Tool „Grid4Energy“ will Netzanschlüsse beschleunigen",
-      "url": "https://www.pv-magazine.de/2026/11/13/tool-grid4energy-will-netzanschluesse-beschleunigen/",
-      "published_at": "2026-11-13T11:57:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Tool „Grid4Energy“ will Netzanschlüsse beschleunigen Die Landesgesellschaft für Energie und Klimaschutz bringt digital Projektierer und Betreiber von Erneuerbaren-Anlagen oder Batteriespeichern sowie Industrieunternehmen zusammen, um gemeinsam Netzanschlussanfragen zu stellen. Vorhaben in räumlicher Nähe werden über ein Tool abgeglichen.",
-      "tags": [
-        "industrie",
-        "umwelt"
-      ],
       "regions": []
     }
   ]
