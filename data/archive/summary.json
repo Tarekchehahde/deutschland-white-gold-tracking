@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-17T01:52:18Z",
+  "generated_at_utc": "2026-11-17T14:22:45Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1014,
+  "total_in_archive": 1018,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,71 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 106
+    "2026-11": 110
   },
   "recent_for_ui": [
+    {
+      "id": "c0cda0cdb1419efe9befc8d6",
+      "title": "Redispatch, Stand-alone- und Co-Location-Batteriespeicher: BNE macht Vorschläge zum Systembetrieb 2030",
+      "url": "https://www.pv-magazine.de/2026/11/17/redispatch-stand-alone-und-co-location-batteriespeicher-bne-macht-vorschlaege-zum-systembetrieb-2030/",
+      "published_at": "2026-11-17T13:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Redispatch, Stand-alone- und Co-Location-Batteriespeicher: BNE macht Vorschläge zum Systembetrieb 2030 Der Verband wendet sich gegen die beim „Branchendialog Systembetrieb 2030“ gemachten Vorschläge der Übertragungsnetzbetreiber, künftig Fahrplandaten für alle Erneuerbare-Energien-Anlagen bereitzustellen. Um das große Problem der mangelnden Netzanschlüsse zu bekämpfen, sollten zunächst die Möglich",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "abbae2c2be6ee751e3cab520",
+      "title": "Verkehrsministerium: Förderung für Ladeinfrastruktur in Mehrparteienhäusern stark nachgefragt",
+      "url": "https://www.golem.de/news/verkehrsministerium-foerderung-fuer-ladeinfrastruktur-in-mehrparteienhaeusern-stark-nachgefragt-2611-215311.html",
+      "published_at": "2026-11-17T13:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Verkehrsministerium: Förderung für Ladeinfrastruktur in Mehrparteienhäusern stark nachgefragt Das Aufladen von Elektroautos in Mehrparteienhäusern in Städten ist aktuell oft unmöglich. Eine Förderung wird gut angenommen. ( Elektromobilität , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "f99eb14f4c42e68dd84c98e8",
+      "title": "Tesla: Berliner Polizei stellt Cybertruck mitten in Berlin sicher",
+      "url": "https://www.golem.de/news/tesla-berliner-polizei-stellt-cybertruck-mitten-in-berlin-sicher-2611-215297.html",
+      "published_at": "2026-11-17T09:27:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Berliner Polizei stellt Cybertruck mitten in Berlin sicher Teslas Cybertruck hat keine EU-weite Typenzulassung - entsprechend selten ist er. Mitten in Berlin wurde nun einer von der Polizei einkassiert. ( Tesla Cybertruck , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f8f305ac885978973f5233cb",
+      "title": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut",
+      "url": "https://www.rnd.de/wirtschaft/tesla-investiert-drei-milliarden-euro-cybercab-wird-in-brandenburger-gigafactory-gebaut-7UC65FSWYZGFBACKNN2OO4PH6E.html",
+      "published_at": "2026-11-17T08:27:07Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut Die Gigafactory in Grünheide soll im Jahr bis zu eine Million des neuen Modells produzieren. Das hat das Unternehmen am Nachmittag bekannt gegeben. Brandenburgs Ministerpräsident Dietmar Woidke (SPD) spricht von einem „großen Tag für Brandenburg“.",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "fde01a89a5ab2199c6654ee6",
+      "title": "Dhybrid liefert Batteriespeicher und Steuerungsplattform für 24-Stunden-Solarkraftwerk in Afrikas größter Kupfermine",
+      "url": "https://www.pv-magazine.de/2026/11/17/dhybrid-liefert-batteriespeicher-und-steuerungsplattform-fuer-24-stunden-solarkraftwerk-in-afrikas-groesster-kupfermine/",
+      "published_at": "2026-11-17T08:05:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Dhybrid liefert Batteriespeicher und Steuerungsplattform für 24-Stunden-Solarkraftwerk in Afrikas größter Kupfermine Der Kamoa-Kakula-Komplex, ein Standort zur Förderung und Verarbeitung von Kupfer in der Demokratischen Republik Kongo, will einen möglichst großen Teil seines Energiebedarfs mit Photovoltaik decken. 433 Megawatt Leistung sind bereits installiert, ein Teil davon soll rund um die Uhr ",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "167359771eb30e3d3d9352be",
       "title": "US-Elektroautobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
@@ -35,20 +97,6 @@
       "language": "de",
       "summary": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f8f305ac885978973f5233cb",
-      "title": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut",
-      "url": "https://www.rnd.de/wirtschaft/tesla-investiert-drei-milliarden-euro-cybercab-wird-in-brandenburger-gigafactory-gebaut-7UC65FSWYZGFBACKNN2OO4PH6E.html",
-      "published_at": "2026-11-16T17:51:55Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut Die Gigafactory in Grünheide soll im Jahr bis zu eine Million des neuen Modells produzieren. Das hat das Unternehmen am Nachmittag bekannt gegeben. Brandenburgs Ministerpräsident Dietmar Woidke (SPD) spricht von einem „großen Tag für Brandenburg“.",
-      "tags": [
-        "industrie",
-        "politik"
-      ],
       "regions": []
     },
     {
@@ -4529,52 +4577,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Finale Investitionsentscheidung für 254-Megawatt-Batteriespeicher in Brunsbüttel Vattenfall errichtet am ehemaligen Kernkraftwerksstandort einen der bislang größten Batteriespeicher Deutschlands. Als 4-Stunden-Speicher ist die Anlage auf 1000 Megawattstunden Kapazität ausgelegt.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "61aeb92574e5064cd0cdcc85",
-      "title": "Spatenstich für 400 Megawattstunden-Batteriespeicher in Hamburg",
-      "url": "https://www.pv-magazine.de/2026/09/10/spatenstich-fuer-400-megawattstunden-batteriespeicher-in-hamburg/",
-      "published_at": "2026-09-10T08:28:53Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Spatenstich für 400 Megawattstunden-Batteriespeicher in Hamburg Das schwedische Unternehmen Flower will den bislang größten Speicher in einer deutschen Großstadt realisieren. Er soll voraussichtlich Ende 2028 in Betrieb gehen, wobei dann Engie die Vermarktung übernimmt. Ein entsprechendes Flexibility Purchase Agreement ist bereits geschlossen.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "ffbf334188652e9956988b2d",
-      "title": "V2G: Was Kunden wollen und was der Markt anbietet",
-      "url": "https://www.pv-magazine.de/2026/09/10/v2g-was-kunden-wollen-und-was-der-markt-anbietet/",
-      "published_at": "2026-09-10T07:45:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "V2G: Was Kunden wollen und was der Markt anbietet pv+: Die ersten kommerziellen Vehicle-to-Grid-Angebote sind gestartet. BMW, Ford, Renault oder Octopus Energy versprechen Einnahmen für angeschlossene Elektroautos und machen Fahrzeugbatterien zu einem Teil des Energiesystems. Doch die Modelle unterscheiden sich bei Vergütung und Transparenz. Für Installateure entsteht damit ein neues Beratungsfeld",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f7ed6c0c30ba100bf97c536f",
-      "title": "Enerparc-Schwestergesellschaft meldet Insolvenz in Eigenverwaltung an",
-      "url": "https://www.pv-magazine.de/2026/09/09/enerparc-schwestergesellschaft-meldet-insolvenz-in-eigenverwaltung-an/",
-      "published_at": "2026-09-09T15:41:59Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Enerparc-Schwestergesellschaft meldet Insolvenz in Eigenverwaltung an Pvwerk ist auf die Installation von Photovoltaik-Kraftwerken und Batteriespeichern spezialisiert. Mit Hilfe des Verfahrens sollen möglichst viele der etwa 100 im Bau befindliche Solarparks und Batteriespeicher, die im Auftrag der Enerparc AG errichtet werden, ans Netz gebracht werden.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "069debd98eede04f622fcb61",
-      "title": "Fraunhofer ISE optimiert Batteriezellen – mehr Energie bei gleichem Gewicht",
-      "url": "https://www.pv-magazine.de/2026/09/09/fraunhofer-ise-optimiert-batteriezellen-mehr-energie-bei-gleichem-gewicht/",
-      "published_at": "2026-09-09T13:40:36Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Fraunhofer ISE optimiert Batteriezellen – mehr Energie bei gleichem Gewicht Die Freiburger Forscher haben den Aufbau der Elektroden so verändert, dass 10 bis 15 Prozent mehr Energie gespeichert werden können. Die Erfolge konnten auch auf Zink- und Natrium-Ionen-Batteriezellen übertragen werden. Die Forscher sehen zudem gute Perspektiven für eine Batteriezellfertigung in Deutschland.",
       "tags": [],
       "regions": []
     }

@@ -2,6 +2,68 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "c0cda0cdb1419efe9befc8d6",
+      "title": "Redispatch, Stand-alone- und Co-Location-Batteriespeicher: BNE macht Vorschläge zum Systembetrieb 2030",
+      "url": "https://www.pv-magazine.de/2026/11/17/redispatch-stand-alone-und-co-location-batteriespeicher-bne-macht-vorschlaege-zum-systembetrieb-2030/",
+      "published_at": "2026-11-17T13:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Redispatch, Stand-alone- und Co-Location-Batteriespeicher: BNE macht Vorschläge zum Systembetrieb 2030 Der Verband wendet sich gegen die beim „Branchendialog Systembetrieb 2030“ gemachten Vorschläge der Übertragungsnetzbetreiber, künftig Fahrplandaten für alle Erneuerbare-Energien-Anlagen bereitzustellen. Um das große Problem der mangelnden Netzanschlüsse zu bekämpfen, sollten zunächst die Möglich",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "abbae2c2be6ee751e3cab520",
+      "title": "Verkehrsministerium: Förderung für Ladeinfrastruktur in Mehrparteienhäusern stark nachgefragt",
+      "url": "https://www.golem.de/news/verkehrsministerium-foerderung-fuer-ladeinfrastruktur-in-mehrparteienhaeusern-stark-nachgefragt-2611-215311.html",
+      "published_at": "2026-11-17T13:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Verkehrsministerium: Förderung für Ladeinfrastruktur in Mehrparteienhäusern stark nachgefragt Das Aufladen von Elektroautos in Mehrparteienhäusern in Städten ist aktuell oft unmöglich. Eine Förderung wird gut angenommen. ( Elektromobilität , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "f99eb14f4c42e68dd84c98e8",
+      "title": "Tesla: Berliner Polizei stellt Cybertruck mitten in Berlin sicher",
+      "url": "https://www.golem.de/news/tesla-berliner-polizei-stellt-cybertruck-mitten-in-berlin-sicher-2611-215297.html",
+      "published_at": "2026-11-17T09:27:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Berliner Polizei stellt Cybertruck mitten in Berlin sicher Teslas Cybertruck hat keine EU-weite Typenzulassung - entsprechend selten ist er. Mitten in Berlin wurde nun einer von der Polizei einkassiert. ( Tesla Cybertruck , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f8f305ac885978973f5233cb",
+      "title": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut",
+      "url": "https://www.rnd.de/wirtschaft/tesla-investiert-drei-milliarden-euro-cybercab-wird-in-brandenburger-gigafactory-gebaut-7UC65FSWYZGFBACKNN2OO4PH6E.html",
+      "published_at": "2026-11-17T08:27:07Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut Die Gigafactory in Grünheide soll im Jahr bis zu eine Million des neuen Modells produzieren. Das hat das Unternehmen am Nachmittag bekannt gegeben. Brandenburgs Ministerpräsident Dietmar Woidke (SPD) spricht von einem „großen Tag für Brandenburg“.",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "fde01a89a5ab2199c6654ee6",
+      "title": "Dhybrid liefert Batteriespeicher und Steuerungsplattform für 24-Stunden-Solarkraftwerk in Afrikas größter Kupfermine",
+      "url": "https://www.pv-magazine.de/2026/11/17/dhybrid-liefert-batteriespeicher-und-steuerungsplattform-fuer-24-stunden-solarkraftwerk-in-afrikas-groesster-kupfermine/",
+      "published_at": "2026-11-17T08:05:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Dhybrid liefert Batteriespeicher und Steuerungsplattform für 24-Stunden-Solarkraftwerk in Afrikas größter Kupfermine Der Kamoa-Kakula-Komplex, ein Standort zur Förderung und Verarbeitung von Kupfer in der Demokratischen Republik Kongo, will einen möglichst großen Teil seines Energiebedarfs mit Photovoltaik decken. 433 Megawatt Leistung sind bereits installiert, ein Teil davon soll rund um die Uhr ",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "167359771eb30e3d3d9352be",
       "title": "US-Elektroautobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
       "url": "https://www.volksfreund.de/nachrichten/wirtschaft/tesla-will-drei-milliarden-euro-in-werk-in-gruenheide-stecken_aid-158467195",
@@ -23,20 +85,6 @@
       "language": "de",
       "summary": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f8f305ac885978973f5233cb",
-      "title": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut",
-      "url": "https://www.rnd.de/wirtschaft/tesla-investiert-drei-milliarden-euro-cybercab-wird-in-brandenburger-gigafactory-gebaut-7UC65FSWYZGFBACKNN2OO4PH6E.html",
-      "published_at": "2026-11-16T17:51:55Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut Die Gigafactory in Grünheide soll im Jahr bis zu eine Million des neuen Modells produzieren. Das hat das Unternehmen am Nachmittag bekannt gegeben. Brandenburgs Ministerpräsident Dietmar Woidke (SPD) spricht von einem „großen Tag für Brandenburg“.",
-      "tags": [
-        "industrie",
-        "politik"
-      ],
       "regions": []
     },
     {

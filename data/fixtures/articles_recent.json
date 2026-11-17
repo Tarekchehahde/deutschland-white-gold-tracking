@@ -2,13 +2,62 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "167359771eb30e3d3d9352be",
-      "title": "US-Elektroautobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
-      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/tesla-will-drei-milliarden-euro-in-werk-in-gruenheide-stecken_aid-158467195",
-      "published_at": "2026-11-16T21:10:43Z",
-      "source_id": "volksfreund",
+      "id": "c0cda0cdb1419efe9befc8d6",
+      "title": "Redispatch, Stand-alone- und Co-Location-Batteriespeicher: BNE macht Vorschläge zum Systembetrieb 2030",
+      "url": "https://www.pv-magazine.de/2026/11/17/redispatch-stand-alone-und-co-location-batteriespeicher-bne-macht-vorschlaege-zum-systembetrieb-2030/",
+      "published_at": "2026-11-17T13:20:00Z",
+      "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "US-Elektroautobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken Pläne für einen Ausbau der Tesla-Fabrik in Grünheide bei Berlin gibt es schon länger. Nun nennt das Unternehmen konkrete Zahlen. In ein paar Jahren sollen autonome Cybercabs vom Band rollen.",
+      "summary": "Redispatch, Stand-alone- und Co-Location-Batteriespeicher: BNE macht Vorschläge zum Systembetrieb 2030 Der Verband wendet sich gegen die beim „Branchendialog Systembetrieb 2030“ gemachten Vorschläge der Übertragungsnetzbetreiber, künftig Fahrplandaten für alle Erneuerbare-Energien-Anlagen bereitzustellen. Um das große Problem der mangelnden Netzanschlüsse zu bekämpfen, sollten zunächst die Möglich",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "abbae2c2be6ee751e3cab520",
+      "title": "Verkehrsministerium: Förderung für Ladeinfrastruktur in Mehrparteienhäusern stark nachgefragt",
+      "url": "https://www.golem.de/news/verkehrsministerium-foerderung-fuer-ladeinfrastruktur-in-mehrparteienhaeusern-stark-nachgefragt-2611-215311.html",
+      "published_at": "2026-11-17T13:00:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Verkehrsministerium: Förderung für Ladeinfrastruktur in Mehrparteienhäusern stark nachgefragt Das Aufladen von Elektroautos in Mehrparteienhäusern in Städten ist aktuell oft unmöglich. Eine Förderung wird gut angenommen. ( Elektromobilität , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "f99eb14f4c42e68dd84c98e8",
+      "title": "Tesla: Berliner Polizei stellt Cybertruck mitten in Berlin sicher",
+      "url": "https://www.golem.de/news/tesla-berliner-polizei-stellt-cybertruck-mitten-in-berlin-sicher-2611-215297.html",
+      "published_at": "2026-11-17T09:27:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla: Berliner Polizei stellt Cybertruck mitten in Berlin sicher Teslas Cybertruck hat keine EU-weite Typenzulassung - entsprechend selten ist er. Mitten in Berlin wurde nun einer von der Polizei einkassiert. ( Tesla Cybertruck , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f8f305ac885978973f5233cb",
+      "title": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut",
+      "url": "https://www.rnd.de/wirtschaft/tesla-investiert-drei-milliarden-euro-cybercab-wird-in-brandenburger-gigafactory-gebaut-7UC65FSWYZGFBACKNN2OO4PH6E.html",
+      "published_at": "2026-11-17T08:27:07Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut Die Gigafactory in Grünheide soll im Jahr bis zu eine Million des neuen Modells produzieren. Das hat das Unternehmen am Nachmittag bekannt gegeben. Brandenburgs Ministerpräsident Dietmar Woidke (SPD) spricht von einem „großen Tag für Brandenburg“.",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "fde01a89a5ab2199c6654ee6",
+      "title": "Dhybrid liefert Batteriespeicher und Steuerungsplattform für 24-Stunden-Solarkraftwerk in Afrikas größter Kupfermine",
+      "url": "https://www.pv-magazine.de/2026/11/17/dhybrid-liefert-batteriespeicher-und-steuerungsplattform-fuer-24-stunden-solarkraftwerk-in-afrikas-groesster-kupfermine/",
+      "published_at": "2026-11-17T08:05:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Dhybrid liefert Batteriespeicher und Steuerungsplattform für 24-Stunden-Solarkraftwerk in Afrikas größter Kupfermine Der Kamoa-Kakula-Komplex, ein Standort zur Förderung und Verarbeitung von Kupfer in der Demokratischen Republik Kongo, will einen möglichst großen Teil seines Energiebedarfs mit Photovoltaik decken. 433 Megawatt Leistung sind bereits installiert, ein Teil davon soll rund um die Uhr ",
       "tags": [
         "industrie"
       ],
@@ -26,20 +75,6 @@
       "regions": []
     },
     {
-      "id": "f8f305ac885978973f5233cb",
-      "title": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut",
-      "url": "https://www.rnd.de/wirtschaft/tesla-investiert-drei-milliarden-euro-cybercab-wird-in-brandenburger-gigafactory-gebaut-7UC65FSWYZGFBACKNN2OO4PH6E.html",
-      "published_at": "2026-11-16T17:51:55Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut Die Gigafactory in Grünheide soll im Jahr bis zu eine Million des neuen Modells produzieren. Das hat das Unternehmen am Nachmittag bekannt gegeben. Brandenburgs Ministerpräsident Dietmar Woidke (SPD) spricht von einem „großen Tag für Brandenburg“.",
-      "tags": [
-        "industrie",
-        "politik"
-      ],
-      "regions": []
-    },
-    {
       "id": "a6c7acd6821a2d04513965c5",
       "title": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher",
       "url": "https://www.pv-magazine.de/2026/11/16/elements-green-erhaelt-von-tennet-netzanschlusszusage-fuer-16-gigawattstunden-batteriespeicher/",
@@ -48,19 +83,6 @@
       "language": "de",
       "summary": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher Die Anlage soll im niedersächsischen Stadorf gebaut werden. Der 400-Megawatt-Speicher hat eine Speicherdauer von vier Stunden. Damit gehört das Projekt des britischen Photovoltaik- und Speicher-Projektierers zu den größten Speicherprojekten Deutschlands.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "98da6906a100c29c60627fb9",
-      "title": "Drei Milliarden Euro für Grünheide: Tesla baut neue Autofabrik für das Cybercab",
-      "url": "https://www.golem.de/news/drei-milliarden-euro-fuer-gruenheide-tesla-baut-neue-autofabrik-fuer-das-cybercab-2611-215268.html",
-      "published_at": "2026-11-16T14:27:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Drei Milliarden Euro für Grünheide: Tesla baut neue Autofabrik für das Cybercab Während deutsche Autohersteller mit Investitionen knausern, baut Tesla in Grünheide eine weitere Fabrik. Ab 2029 sollen Cybercabs vom Band rollen. ( Gigafactory Berlin , Elektroauto )",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     },
     {
@@ -73,19 +95,6 @@
       "summary": "Cybercabs aus Deutschland: Tesla will Werk in Grünheide für 3 Milliarden Euro ausbauen Die Pläne für einen Ausbau der Tesla-Fabrik in Grünheide bei Berlin liegen schon länger vor. Nun nennt das Unternehmen von Elon Musk konkrete Zahlen. Der US-Elektroautobauer Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide bei Berlin ausgeben. Damit soll zunächst ein neues Produktionsgebäude",
       "tags": [
         "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "f7870979640a9b8d823feb4c",
-      "title": "Haushaltsstreit mit SPD: Merz und Söder beharren auf Stromsteuersenkung",
-      "url": "https://www.golem.de/news/haushaltsstreit-mit-spd-merz-und-soeder-beharren-auf-stromsteuersenkung-2611-215266.html",
-      "published_at": "2026-11-16T13:48:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Haushaltsstreit mit SPD: Merz und Söder beharren auf Stromsteuersenkung Das Hin und Her um die Stromsteuer geht weiter. Bundeskanzler Merz sieht dafür Spielraum im Bundeshalt 2027. ( Bundesregierung , Elektroauto )",
-      "tags": [
-        "politik"
       ],
       "regions": []
     },
@@ -127,61 +136,6 @@
       "regions": []
     },
     {
-      "id": "fe5fc19e7d84178b181bdd17",
-      "title": "EnBW ergänzt Pumpspeicherstandort mit 170 Megawattstunden-Batteriespeicher",
-      "url": "https://www.pv-magazine.de/2026/11/16/enbw-ergaenzt-pumpspeicherstandort-mit-170-megawattstunden-batteriespeicher/",
-      "published_at": "2026-11-16T10:57:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "EnBW ergänzt Pumpspeicherstandort mit 170 Megawattstunden-Batteriespeicher Den 4-Stunden-Speicher will der Energiekonzern ab 2028 errichten und noch 2029 in Betrieb nehmen. Er ergänzt das neue Pumpspeicherkraftwerk, das EnBW am Standort Forbach derzeit errichtet.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ca07aa8bf2fc18b1b53d684b",
-      "title": "Panne bei Vulcan-Rakete: Amazon verliert 40 Breitband-Satelliten",
-      "url": "https://www.golem.de/news/vulcan-rakete-amazon-verliert-40-breitband-satelliten-2611-215250.html",
-      "published_at": "2026-11-16T09:39:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Panne bei Vulcan-Rakete: Amazon verliert 40 Breitband-Satelliten Doppelter Rückschlag für die Konkurrenz von SpaceX: Der Transport von 40 Kommunikationssatelliten für Amazon ist gescheitert. ( Rakete , Amazon )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7e8204b42d7c0868bf69e47c",
-      "title": "Elektromobilität: Fast 220.000 Ladepunkte in Deutschland",
-      "url": "https://www.heise.de/news/Elektromobilitaet-Fast-220-000-Ladepunkte-in-Deutschland-11525759.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-11-16T08:23:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Elektromobilität: Fast 220.000 Ladepunkte in Deutschland Der Ausbau der Ladeinfrastruktur kommt weiter voran. Knapp 58.000 der rund 220.000 Ladepunkte arbeiten mit Gleichstrom – und gelten damit als schnell.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "93521dfca94dbd749e89f49c",
-      "title": "BMW iX5 60e: Der Elektroantrieb schlägt den Sechszylinder",
-      "url": "https://www.golem.de/news/bmw-ix5-60e-der-elektroantrieb-schlaegt-den-sechszylinder-2611-214859.html",
-      "published_at": "2026-11-16T08:20:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "BMW iX5 60e: Der Elektroantrieb schlägt den Sechszylinder Fast drei Tonnen wiegt BMWs erster elektrischer X5. Trotzdem fährt er erstaunlich agil. Auch die Reichweite beeindruckt. Ebenso der Preis. Ein Bericht von Fabian Hoberg ( Elektroauto , Brennstoffzelle )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8c31ea0c2f458141e2ed81f5",
-      "title": "Vulcan-Trägerrakete verliert nach Problem Amazon-Satelliten im All",
-      "url": "https://www.heise.de/news/Amazon-Satelliten-nach-Problem-einer-Vulcan-Traegerrakete-im-All-verloren-11525671.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-11-16T04:05:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Vulcan-Trägerrakete verliert nach Problem Amazon-Satelliten im All Eine Vulcan-Rakete sollte 40 Satelliten für Amazon Leo in den Orbit bringen. Doch diese wurden nicht ausgesetzt - ein Rückschlag für den Starlink-Konkurrenten.",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "2bc3d8d01ae5971453ec6680",
       "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
       "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
@@ -189,17 +143,6 @@
       "source_id": "arstechnica-all",
       "language": "en",
       "summary": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors This was the first total mission failure in United Launch Alliance's 20-year history.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ec002ba60e26134d17acf9fd",
-      "title": "Netzanschlussverhältnis: Was darf der Netzbetreiber und was nicht?",
-      "url": "https://www.pv-magazine.de/2026/11/13/netzanschlussverhaeltnis-was-darf-der-netzbetreiber-und-was-nicht/",
-      "published_at": "2026-11-13T15:27:53Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Netzanschlussverhältnis: Was darf der Netzbetreiber und was nicht? Die von den Netzbetreibern gestellten Bedingungen für den Anschluss von Erneuerbare-Energien-Anlagen und Batteriespeichern werden unter anderem durch FCA oftmals nachträglich angepasst. Rechtsanwalt Florian Brahms erläutert die für Art, Umfang und Zeitpunkt solcher Änderungen geltenden Grenzen.",
       "tags": [],
       "regions": []
     }
