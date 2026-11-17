@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-16T13:38:35Z",
+  "generated_at_utc": "2026-11-17T01:52:18Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1007,
+  "total_in_archive": 1014,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,97 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 99
+    "2026-11": 106
   },
   "recent_for_ui": [
+    {
+      "id": "167359771eb30e3d3d9352be",
+      "title": "US-Elektroautobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
+      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/tesla-will-drei-milliarden-euro-in-werk-in-gruenheide-stecken_aid-158467195",
+      "published_at": "2026-11-16T21:10:43Z",
+      "source_id": "volksfreund",
+      "language": "de",
+      "summary": "US-Elektroautobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken Pläne für einen Ausbau der Tesla-Fabrik in Grünheide bei Berlin gibt es schon länger. Nun nennt das Unternehmen konkrete Zahlen. In ein paar Jahren sollen autonome Cybercabs vom Band rollen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "7f356078e727069fb076e920",
+      "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
+      "url": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
+      "published_at": "2026-11-16T20:48:40Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f8f305ac885978973f5233cb",
+      "title": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut",
+      "url": "https://www.rnd.de/wirtschaft/tesla-investiert-drei-milliarden-euro-cybercab-wird-in-brandenburger-gigafactory-gebaut-7UC65FSWYZGFBACKNN2OO4PH6E.html",
+      "published_at": "2026-11-16T17:51:55Z",
+      "source_id": "rnd-wirtschaft",
+      "language": "de",
+      "summary": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut Die Gigafactory in Grünheide soll im Jahr bis zu eine Million des neuen Modells produzieren. Das hat das Unternehmen am Nachmittag bekannt gegeben. Brandenburgs Ministerpräsident Dietmar Woidke (SPD) spricht von einem „großen Tag für Brandenburg“.",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "a6c7acd6821a2d04513965c5",
+      "title": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher",
+      "url": "https://www.pv-magazine.de/2026/11/16/elements-green-erhaelt-von-tennet-netzanschlusszusage-fuer-16-gigawattstunden-batteriespeicher/",
+      "published_at": "2026-11-16T15:22:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Elements Green erhält von Tennet Netzanschlusszusage für 1,6-Gigawattstunden-Batteriespeicher Die Anlage soll im niedersächsischen Stadorf gebaut werden. Der 400-Megawatt-Speicher hat eine Speicherdauer von vier Stunden. Damit gehört das Projekt des britischen Photovoltaik- und Speicher-Projektierers zu den größten Speicherprojekten Deutschlands.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "98da6906a100c29c60627fb9",
+      "title": "Drei Milliarden Euro für Grünheide: Tesla baut neue Autofabrik für das Cybercab",
+      "url": "https://www.golem.de/news/drei-milliarden-euro-fuer-gruenheide-tesla-baut-neue-autofabrik-fuer-das-cybercab-2611-215268.html",
+      "published_at": "2026-11-16T14:27:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Drei Milliarden Euro für Grünheide: Tesla baut neue Autofabrik für das Cybercab Während deutsche Autohersteller mit Investitionen knausern, baut Tesla in Grünheide eine weitere Fabrik. Ab 2029 sollen Cybercabs vom Band rollen. ( Gigafactory Berlin , Elektroauto )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "04f9ffe9bea1ce52cb54b70e",
+      "title": "Cybercabs aus Deutschland: Tesla will Werk in Grünheide für 3 Milliarden Euro ausbauen",
+      "url": "https://t3n.de/news/cybercab-deutschland-tesla-gruenheide-3-milliarden-euro-1773847/",
+      "published_at": "2026-11-16T14:15:59Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "Cybercabs aus Deutschland: Tesla will Werk in Grünheide für 3 Milliarden Euro ausbauen Die Pläne für einen Ausbau der Tesla-Fabrik in Grünheide bei Berlin liegen schon länger vor. Nun nennt das Unternehmen von Elon Musk konkrete Zahlen. Der US-Elektroautobauer Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide bei Berlin ausgeben. Damit soll zunächst ein neues Produktionsgebäude",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "f7870979640a9b8d823feb4c",
+      "title": "Haushaltsstreit mit SPD: Merz und Söder beharren auf Stromsteuersenkung",
+      "url": "https://www.golem.de/news/haushaltsstreit-mit-spd-merz-und-soeder-beharren-auf-stromsteuersenkung-2611-215266.html",
+      "published_at": "2026-11-16T13:48:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Haushaltsstreit mit SPD: Merz und Söder beharren auf Stromsteuersenkung Das Hin und Her um die Stromsteuer geht weiter. Bundeskanzler Merz sieht dafür Spielraum im Bundeshalt 2027. ( Bundesregierung , Elektroauto )",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
     {
       "id": "6d752b35f89fd9283391f490",
       "title": "Speicherkapazität mit Regelungsbedarf",
@@ -4487,85 +4575,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Fraunhofer ISE optimiert Batteriezellen – mehr Energie bei gleichem Gewicht Die Freiburger Forscher haben den Aufbau der Elektroden so verändert, dass 10 bis 15 Prozent mehr Energie gespeichert werden können. Die Erfolge konnten auch auf Zink- und Natrium-Ionen-Batteriezellen übertragen werden. Die Forscher sehen zudem gute Perspektiven für eine Batteriezellfertigung in Deutschland.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bf28dc0348f9a202ba5de842",
-      "title": "Größter Batteriespeicher der Schweiz geht ans Netz",
-      "url": "https://www.pv-magazine.de/2026/09/09/groesster-batteriespeicher-der-schweiz-geht-ans-netz/",
-      "published_at": "2026-09-09T10:30:23Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Größter Batteriespeicher der Schweiz geht ans Netz Axpo und Energie Uri haben in Plattischachen unmittelbarer Nähe zwei Speicherprojekte realisiert, die zusammen auf 58,4 Megawatt Leistung kommen. Axpo hat in Frankreich, Deutschland, Italien, Polen und Rumänien zudem weitere 300 Megawatt an Speicherprojekten im Bau.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "45586e7ee5c195b1935f20e5",
-      "title": "Tesla: Cybercabs haben Touchscreen-Steuerung zum Fahren",
-      "url": "https://www.golem.de/news/tesla-cybercabs-haben-touchscreen-steuerung-zum-fahren-2609-212817.html",
-      "published_at": "2026-09-09T10:29:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla: Cybercabs haben Touchscreen-Steuerung zum Fahren Teslas Cybercabs haben kein Lenkrad - und können doch manuell gesteuert werden. Einem Kunden wurde eine Touchscreen-Steuerung angezeigt. ( Cybercab , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "042c5e722c485abaf3887415",
-      "title": "BMW iX3 im Praxistest: Ein gutes Argument für das Verbrennerverbot",
-      "url": "https://www.golem.de/news/bmw-ix3-im-praxistest-ein-gutes-argument-fuer-das-verbrennerverbot-2609-212787.html",
-      "published_at": "2026-09-09T10:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "BMW iX3 im Praxistest: Ein gutes Argument für das Verbrennerverbot BMW liefert mit dem iX3 gute Argumente gegen die Technologieoffenheit. Allerdings ist der Verbrauch auf der Autobahn nicht so niedrig wie erwartet. Ein Test von Friedhelm Greis ( Elektroauto , Test )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9db15c8279c880cd1a9e83c7",
-      "title": "Sonntag Energy übernimmt Agri-Photovoltaik-Geschäftsbereich von Grid Parity",
-      "url": "https://www.pv-magazine.de/2026/09/09/sonntag-energy-uebernimmt-agri-photovoltaik-geschaeftsbereich-von-grid-parity/",
-      "published_at": "2026-09-09T09:34:13Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Sonntag Energy übernimmt Agri-Photovoltaik-Geschäftsbereich von Grid Parity Das Unternehmen will die bestehenden Agri-Photovoltaik-Anlagen weiterentwickeln. Sonntag Energy bringt dafür Photovoltaik, Batteriespeicher und Energiehandel zusammen.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "1be0452b864a909d880d1d15",
-      "title": "Boom der Batteriespeicher",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/batterie-speicher-108.html",
-      "published_at": "2026-09-09T09:26:04Z",
-      "source_id": "tagesschau-wirtschaft-technologie",
-      "language": "de",
-      "summary": "Boom der Batteriespeicher In Deutschland entstehen immer mehr große Batteriespeicher, die Schwankungen im Stromnetz ausgleichen. Jüngstes Beispiel ist Aachen. Wo einst Elektronik produziert wurde, werden Riesen-Akkus errichtet. Von Philipp Wundersee.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "df220f71434da4ebb129641a",
-      "title": "Jetzt mit Allrad: Mercedes-Benz VLE mit größerer Modellpalette",
-      "url": "https://www.golem.de/news/jetzt-mit-allrad-mercedes-benz-vle-mit-groesserer-modellpalette-2609-212796.html",
-      "published_at": "2026-09-09T07:23:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Jetzt mit Allrad: Mercedes-Benz VLE mit größerer Modellpalette Der elektrische VLE von Mercedes-Benz ist ab sofort auch mit Allradantrieb bestellbar. Neu sind zudem günstigere Preise sowie mehr Ausstattungs- und Paketoptionen. ( Mercedes Benz , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3e85704525f3cfc638b558c1",
-      "title": "Tim Höttges: Telekom bereitet sich auf Bewerbung für KI-Gigafactory vor",
-      "url": "https://www.golem.de/news/tim-hoettges-telekom-bereitet-sich-auf-bewerbung-fuer-ki-gigafactory-vor-2609-212783.html",
-      "published_at": "2026-09-08T15:18:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tim Höttges: Telekom bereitet sich auf Bewerbung für KI-Gigafactory vor Telekom-Chef Tim Höttges verhandelt um massive Subventionen und staatliche Energierabatte. Es geht um das Aufteilen öffentlicher Fördergelder. ( Telekom , Wirtschaft )",
       "tags": [],
       "regions": []
     }
