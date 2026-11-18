@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-17T14:22:45Z",
+  "generated_at_utc": "2026-11-18T00:57:54Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1018,
+  "total_in_archive": 1019,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,20 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 110
+    "2026-11": 111
   },
   "recent_for_ui": [
+    {
+      "id": "e4193279e2147efd6841dec5",
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "published_at": "2026-11-17T18:00:51Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c0cda0cdb1419efe9befc8d6",
       "title": "Redispatch, Stand-alone- und Co-Location-Batteriespeicher: BNE macht Vorschläge zum Systembetrieb 2030",
@@ -4566,17 +4577,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Anzeige: Anker SOLIX Solarbank zum Amazon-Sparpreis Mit einem Batteriespeicher lässt sich die Effizienz eines Balkonkraftwerks steigern. Amazon bietet die Anker SOLIX 2 Plus Solarbank aktuell mit rund 50 Euro Rabatt an. ( Technik/Hardware , Powerstation )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "83adb1c087a4d2ae70ff0e56",
-      "title": "Finale Investitionsentscheidung für 254-Megawatt-Batteriespeicher in Brunsbüttel",
-      "url": "https://www.pv-magazine.de/2026/09/10/finale-investitionsentscheidung-fuer-254-megawatt-batteriespeicher-in-brunsbuettel/",
-      "published_at": "2026-09-10T10:42:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Finale Investitionsentscheidung für 254-Megawatt-Batteriespeicher in Brunsbüttel Vattenfall errichtet am ehemaligen Kernkraftwerksstandort einen der bislang größten Batteriespeicher Deutschlands. Als 4-Stunden-Speicher ist die Anlage auf 1000 Megawattstunden Kapazität ausgelegt.",
       "tags": [],
       "regions": []
     }

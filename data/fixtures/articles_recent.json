@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "e4193279e2147efd6841dec5",
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "published_at": "2026-11-17T18:00:51Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "c0cda0cdb1419efe9befc8d6",
       "title": "Redispatch, Stand-alone- und Co-Location-Batteriespeicher: BNE macht Vorschläge zum Systembetrieb 2030",
       "url": "https://www.pv-magazine.de/2026/11/17/redispatch-stand-alone-und-co-location-batteriespeicher-bne-macht-vorschlaege-zum-systembetrieb-2030/",
@@ -96,54 +107,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "6d752b35f89fd9283391f490",
-      "title": "Speicherkapazität mit Regelungsbedarf",
-      "url": "https://www.pv-magazine.de/2026/11/16/speicherkapazitaet-mit-regelungsbedarf/",
-      "published_at": "2026-11-16T13:02:32Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Speicherkapazität mit Regelungsbedarf Großbatteriespeicher haben die Rolle des reinen „Puffers“ in der Energiewende längst verlassen. Sie übernehmen mehr und mehr die netzstabilisierenden Funktionen konventioneller Kraftwerke – und stellen Planer, Betreiber und Investoren vor große Herausforderungen. Wir bei TÜV Süd begleiten die Gratwanderung zwischen technischer Machbarkeit, normativer Absicheru",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "1437b2410655816e68791475",
-      "title": "Flower plant 2-Gigawattstunden-Batteriespeicher im Spreewald",
-      "url": "https://www.pv-magazine.de/2026/11/16/flower-plant-2-gigawattstunden-batteriespeicher-im-spreewald/",
-      "published_at": "2026-11-16T12:25:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Flower plant 2-Gigawattstunden-Batteriespeicher im Spreewald Die Baureife für den 4-Stunden-Speicher soll noch in diesem Jahr erreicht werden. Die kommerzielle Inbetriebnahme ist für 2029 vorgesehen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ceb028c5778c64fe78ef6e65",
-      "title": "Konkurrenz zu SpaceX: Rückschlag für Amazon – Rakete mit 40 Satelliten explodiert",
-      "url": "https://rp-online.de/wirtschaft/unternehmen/amazon-verliert-bei-missgluecktem-ula-raketenstart-40-satelliten_aid-158459667",
-      "published_at": "2026-11-16T11:37:00Z",
-      "source_id": "rp-online-wirtschaft",
-      "language": "de",
-      "summary": "Konkurrenz zu SpaceX: Rückschlag für Amazon – Rakete mit 40 Satelliten explodiert Der Start einer Vulcan-Rakete des Raumfahrtunternehmens United Launch Alliance ist am Sonntag in Florida gescheitert. Dabei wurden 40 Satelliten für den Internetdienst Leo von Amazon zerstört. Das dürfte den Engpass bei Raketenstarts verschärfen.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "2bc3d8d01ae5971453ec6680",
-      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-      "published_at": "2026-11-15T23:11:54Z",
-      "source_id": "arstechnica-all",
-      "language": "en",
-      "summary": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors This was the first total mission failure in United Launch Alliance's 20-year history.",
-      "tags": [],
       "regions": []
     }
   ]

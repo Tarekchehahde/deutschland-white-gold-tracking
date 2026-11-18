@@ -1,16 +1,14 @@
 {
   "schema_version": "0.2.0",
   "articles_per_day": {
-    "2026-11-15": 1,
-    "2026-11-16": 6,
-    "2026-11-17": 5
+    "2026-11-16": 3,
+    "2026-11-17": 6
   },
   "tag_counts": {
-    "industrie": 4,
-    "politik": 3
+    "industrie": 3,
+    "politik": 2
   },
   "by_source_category": {
-    "national": 11,
-    "regional": 1
+    "national": 9
   }
 }
