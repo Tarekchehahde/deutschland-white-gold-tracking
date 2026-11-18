@@ -1,8 +1,44 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 111,
+  "article_count": 114,
   "articles": [
+    {
+      "id": "f8907519c0295ad834b45d75",
+      "title": "Vulcan plant großflächige Untersuchungen in der Vorderpfalz für Geothermie-Projekt",
+      "url": "https://www.pfalz-express.de/vulcan-plant-grossflaechige-untersuchungen-in-der-vorderpfalz-fuer-geothermie-projekt/",
+      "published_at": "2026-11-18T13:10:34Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Vulcan plant großflächige Untersuchungen in der Vorderpfalz für Geothermie-Projekt Ludwigshafen / Mannheim -Das Energieunternehmen Vulcan Energy will im Sommer 2027 den Untergrund in der Vorderpfalz und im Raum Mannheim großflächig untersuchen. Mit den Messungen soll geklärt werden, wo sich Erdwärme und lithiumhaltiges Thermalwasser wirtschaftlich erschließen lassen. Die Vorbereitungen und Genehmi",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "bb4d43d4d39c4d470de27382",
+      "title": "Green Flexibility startet Bau von Batteriespeichern mit insgesamt 480 Megawattstunden in Niedersachsen",
+      "url": "https://www.pv-magazine.de/2026/11/18/green-flexibility-startet-bau-von-batteriespeichern-mit-insgesamt-480-megawattstunden-in-niedersachsen/",
+      "published_at": "2026-11-18T13:08:29Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Green Flexibility startet Bau von Batteriespeichern mit insgesamt 480 Megawattstunden in Niedersachsen Die Gesamtinvestition liegt bei rund 150 Millionen Euro. Während der erste von sechs Batteriespeicher in dem Bundesland nun gebaut wird, öffnete Green Flexibility seinen fertiggestellten Speicher in Obergünzburg kurz vor der Inbetriebnahme nochmal für die Öffentlichkeit.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "cafa8d8894b2b8a32e9c1fe0",
+      "title": "Elektroautos: Falsche Gerüchte zu Elektromobilität als größte Kaufhürde",
+      "url": "https://www.golem.de/news/elektroautos-falsche-geruechte-zu-elektromobilitaet-als-groesste-kaufhuerde-2611-215358.html",
+      "published_at": "2026-11-18T11:56:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: Falsche Gerüchte zu Elektromobilität als größte Kaufhürde Eine weltweite Umfrage zeigt, dass Mythen zur Elektromobilität für die meisten Elektroauto-Fahrer die größte Einstiegshürde gewesen sind. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e4193279e2147efd6841dec5",
       "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
