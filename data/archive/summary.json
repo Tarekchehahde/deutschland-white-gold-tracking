@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-18T00:57:54Z",
+  "generated_at_utc": "2026-11-18T13:57:13Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1019,
+  "total_in_archive": 1022,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,45 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 111
+    "2026-11": 114
   },
   "recent_for_ui": [
+    {
+      "id": "f8907519c0295ad834b45d75",
+      "title": "Vulcan plant großflächige Untersuchungen in der Vorderpfalz für Geothermie-Projekt",
+      "url": "https://www.pfalz-express.de/vulcan-plant-grossflaechige-untersuchungen-in-der-vorderpfalz-fuer-geothermie-projekt/",
+      "published_at": "2026-11-18T13:10:34Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Vulcan plant großflächige Untersuchungen in der Vorderpfalz für Geothermie-Projekt Ludwigshafen / Mannheim -Das Energieunternehmen Vulcan Energy will im Sommer 2027 den Untergrund in der Vorderpfalz und im Raum Mannheim großflächig untersuchen. Mit den Messungen soll geklärt werden, wo sich Erdwärme und lithiumhaltiges Thermalwasser wirtschaftlich erschließen lassen. Die Vorbereitungen und Genehmi",
+      "tags": [
+        "industrie",
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "bb4d43d4d39c4d470de27382",
+      "title": "Green Flexibility startet Bau von Batteriespeichern mit insgesamt 480 Megawattstunden in Niedersachsen",
+      "url": "https://www.pv-magazine.de/2026/11/18/green-flexibility-startet-bau-von-batteriespeichern-mit-insgesamt-480-megawattstunden-in-niedersachsen/",
+      "published_at": "2026-11-18T13:08:29Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Green Flexibility startet Bau von Batteriespeichern mit insgesamt 480 Megawattstunden in Niedersachsen Die Gesamtinvestition liegt bei rund 150 Millionen Euro. Während der erste von sechs Batteriespeicher in dem Bundesland nun gebaut wird, öffnete Green Flexibility seinen fertiggestellten Speicher in Obergünzburg kurz vor der Inbetriebnahme nochmal für die Öffentlichkeit.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "cafa8d8894b2b8a32e9c1fe0",
+      "title": "Elektroautos: Falsche Gerüchte zu Elektromobilität als größte Kaufhürde",
+      "url": "https://www.golem.de/news/elektroautos-falsche-geruechte-zu-elektromobilitaet-als-groesste-kaufhuerde-2611-215358.html",
+      "published_at": "2026-11-18T11:56:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: Falsche Gerüchte zu Elektromobilität als größte Kaufhürde Eine weltweite Umfrage zeigt, dass Mythen zur Elektromobilität für die meisten Elektroauto-Fahrer die größte Einstiegshürde gewesen sind. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "e4193279e2147efd6841dec5",
       "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
@@ -4544,39 +4580,6 @@
       "source_id": "arstechnica-all",
       "language": "en",
       "summary": "Could United Launch Alliance's money problems finally force its owners to sell? ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "df4126cb512f31ec866d01ad",
-      "title": "Elektromobilität: Ungleichgewicht in Batterien verkürzt Lebenszeit deutlich",
-      "url": "https://www.golem.de/news/elektromobilitaet-ungleichgewicht-in-batterien-verkuerzt-lebenszeit-deutlich-2609-212920.html",
-      "published_at": "2026-09-11T10:45:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektromobilität: Ungleichgewicht in Batterien verkürzt Lebenszeit deutlich Weisen einzelne Batteriezellen Fehler auf, kann das die gesamte Laufzeit der E-Auto-Batterie um ein Viertel verkürzen. Dabei wäre die Kapazität noch vorhanden. ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "65547e2d2962482f31085093",
-      "title": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
-      "url": "https://www.heise.de/hintergrund/Auswahl-bei-der-Zellchemie-im-gleichen-E-Auto-Oft-ist-die-solide-Basis-besser-11441132.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-09-10T17:00:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | E-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich Hersteller bieten E-Autos oft mit unterschiedlichen Batterietypen an. LFP-Zellen sind langlebiger und günstiger, NMC-Zellen bieten mehr Reichweite.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "a6488f6986e4226ee7ab0ce0",
-      "title": "Anzeige: Anker SOLIX Solarbank zum Amazon-Sparpreis",
-      "url": "https://www.golem.de/news/anzeige-anker-solix-solarbank-zum-amazon-sparpreis-2609-212890.html",
-      "published_at": "2026-09-10T15:23:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Anzeige: Anker SOLIX Solarbank zum Amazon-Sparpreis Mit einem Batteriespeicher lässt sich die Effizienz eines Balkonkraftwerks steigern. Amazon bietet die Anker SOLIX 2 Plus Solarbank aktuell mit rund 50 Euro Rabatt an. ( Technik/Hardware , Powerstation )",
       "tags": [],
       "regions": []
     }
