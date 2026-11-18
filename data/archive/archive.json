@@ -2,6 +2,17 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "e4193279e2147efd6841dec5",
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "published_at": "2026-11-17T18:00:51Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "c0cda0cdb1419efe9befc8d6",
       "title": "Redispatch, Stand-alone- und Co-Location-Batteriespeicher: BNE macht Vorschläge zum Systembetrieb 2030",
       "url": "https://www.pv-magazine.de/2026/11/17/redispatch-stand-alone-und-co-location-batteriespeicher-bne-macht-vorschlaege-zum-systembetrieb-2030/",
