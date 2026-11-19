@@ -2,6 +2,50 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "84d178093d4c2f6e8e80dc56",
+      "title": "AI Gigafactory im Norden: Nokia und Partner planen europäische KI-Infrastruktur",
+      "url": "https://www.heise.de/news/AI-Gigafactory-im-Norden-Nokia-und-Partner-planen-europaeische-KI-Infrastruktur-11530042.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-11-18T17:14:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "AI Gigafactory im Norden: Nokia und Partner planen europäische KI-Infrastruktur Ein nordisch-baltisches Konsortium will mit einer souveränen Cloud, grünem Strom und schnellen Netzen den EU-Wettbewerb für KI-Gigafactories aufmischen.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7e951cdca9bc19bccc53da03",
+      "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
+      "published_at": "2026-11-18T16:58:32Z",
+      "source_id": "arstechnica-all",
+      "language": "en",
+      "summary": "Vulcan failure caused by inadequate fuel supply to engines, ULA says \"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "8a0217c795c1811db9c3bc2b",
+      "title": "FCA-Rechner: Je nach Modell sinken Batteriespeicher-Erlöse bis zu 29 Prozent",
+      "url": "https://www.pv-magazine.de/2026/11/18/fca-rechner-je-nach-modell-sinken-batteriespeicher-erloese-bis-zu-29-prozent/",
+      "published_at": "2026-11-18T16:02:13Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "FCA-Rechner: Je nach Modell sinken Batteriespeicher-Erlöse bis zu 29 Prozent Die Plattform „Regelenergie Online“ hat verschiedene Modelle flexibler Netzanschlussvereinbarungen und ihre Auswirkungen auf die Erlöse für Batteriespeicher berechnet. Bei 2-Stunden-Speichern können die Erlöse um 15 bis 29 Prozent niedriger ausfallen; bei 4-Stunden-Speichern sind es aktuell eher zwischen 11 und 20 Prozent",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "1a7789f29b8b55ad7cb031e6",
+      "title": "Den FCA-Standard wird es nicht geben",
+      "url": "https://www.pv-magazine.de/2026/11/18/den-fca-standard-wird-es-nicht-geben/",
+      "published_at": "2026-11-18T15:03:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Den FCA-Standard wird es nicht geben Flexible Netzanschlussvereinbarungen werden aktuell heiß diskutiert. Eon kam just zur Intersolar mit einer Vorlage für einen Standard-FCA bei seinen Verteilnetzbetreibern heraus und hat damit erst einmal für Empörung gesorgt. Mit dem Blueprint von Green Flexibility gibt es mittlerweile ein standardisiertes Alternativmodell. Doch es zeigt sich: Vieles spricht me",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "f8907519c0295ad834b45d75",
       "title": "Vulcan plant großflächige Untersuchungen in der Vorderpfalz für Geothermie-Projekt",
       "url": "https://www.pfalz-express.de/vulcan-plant-grossflaechige-untersuchungen-in-der-vorderpfalz-fuer-geothermie-projekt/",
@@ -28,49 +72,13 @@
     },
     {
       "id": "cafa8d8894b2b8a32e9c1fe0",
-      "title": "Elektroautos: Falsche Gerüchte zu Elektromobilität als größte Kaufhürde",
+      "title": "Elektroautos: Falsche Gerüchte zu Elektromobilität sind die größte Kaufhürde",
       "url": "https://www.golem.de/news/elektroautos-falsche-geruechte-zu-elektromobilitaet-als-groesste-kaufhuerde-2611-215358.html",
       "published_at": "2026-11-18T11:56:01Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Elektroautos: Falsche Gerüchte zu Elektromobilität als größte Kaufhürde Eine weltweite Umfrage zeigt, dass Mythen zur Elektromobilität für die meisten Elektroauto-Fahrer die größte Einstiegshürde gewesen sind. ( Elektromobilität , Elektroauto )",
+      "summary": "Elektroautos: Falsche Gerüchte zu Elektromobilität sind die größte Kaufhürde Eine weltweite Umfrage zeigt, dass Mythen zur Elektromobilität den Einstieg ins Elektroauto am meisten verzögert haben. ( Elektromobilität , Elektroauto )",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e4193279e2147efd6841dec5",
-      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
-      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
-      "published_at": "2026-11-17T18:00:51Z",
-      "source_id": "arstechnica-all",
-      "language": "en",
-      "summary": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c0cda0cdb1419efe9befc8d6",
-      "title": "Redispatch, Stand-alone- und Co-Location-Batteriespeicher: BNE macht Vorschläge zum Systembetrieb 2030",
-      "url": "https://www.pv-magazine.de/2026/11/17/redispatch-stand-alone-und-co-location-batteriespeicher-bne-macht-vorschlaege-zum-systembetrieb-2030/",
-      "published_at": "2026-11-17T13:20:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Redispatch, Stand-alone- und Co-Location-Batteriespeicher: BNE macht Vorschläge zum Systembetrieb 2030 Der Verband wendet sich gegen die beim „Branchendialog Systembetrieb 2030“ gemachten Vorschläge der Übertragungsnetzbetreiber, künftig Fahrplandaten für alle Erneuerbare-Energien-Anlagen bereitzustellen. Um das große Problem der mangelnden Netzanschlüsse zu bekämpfen, sollten zunächst die Möglich",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f8f305ac885978973f5233cb",
-      "title": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut",
-      "url": "https://www.rnd.de/wirtschaft/tesla-investiert-drei-milliarden-euro-cybercab-wird-in-brandenburger-gigafactory-gebaut-7UC65FSWYZGFBACKNN2OO4PH6E.html",
-      "published_at": "2026-11-17T08:27:07Z",
-      "source_id": "rnd-wirtschaft",
-      "language": "de",
-      "summary": "Tesla investiert drei Milliarden Euro: Cybercab wird in Brandenburger Gigafactory gebaut Die Gigafactory in Grünheide soll im Jahr bis zu eine Million des neuen Modells produzieren. Das hat das Unternehmen am Nachmittag bekannt gegeben. Brandenburgs Ministerpräsident Dietmar Woidke (SPD) spricht von einem „großen Tag für Brandenburg“.",
-      "tags": [
-        "industrie",
-        "politik"
-      ],
       "regions": []
     },
     {
