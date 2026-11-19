@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-19T00:23:50Z",
+  "generated_at_utc": "2026-11-19T14:25:17Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1026,
+  "total_in_archive": 1034,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,106 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 118
+    "2026-11": 126
   },
   "recent_for_ui": [
+    {
+      "id": "00d48178b4f37f52646d749e",
+      "title": "Stromsteuersenkung: Ein Nullsummenspiel für die Verbraucher",
+      "url": "https://www.golem.de/news/stromsteuersenkung-ein-nullsummenspiel-fuer-die-verbraucher-2611-215411.html",
+      "published_at": "2026-11-19T13:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Stromsteuersenkung: Ein Nullsummenspiel für die Verbraucher Die Koalition hat sich auf eine Senkung der Stromsteuer geeinigt. Das liegt jedoch vor allem an höheren Strompreisen und bringt E-Autofahrern wenig. Eine Analyse von Friedhelm Greis ( Strom , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c2372db040d41339809c047f",
+      "title": "Einigung im EU-Trilog zu Kundenanlage, schnelleren Genehmigungen und Netzanschlussverfahren",
+      "url": "https://www.pv-magazine.de/2026/11/19/einigung-im-eu-trilog-zu-kundenanlage-schnelleren-genehmigungen-und-netzanschlussverfahren/",
+      "published_at": "2026-11-19T12:50:35Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Einigung im EU-Trilog zu Kundenanlage, schnelleren Genehmigungen und Netzanschlussverfahren Parlament, Rat und Kommission formulieren Vorgaben für schnellere und einfachere Genehmigungs- und Netzanschlussverfahren für Erneuerbare-Energien-Anlagen, Batteriespeicher und Elektroauto-Ladeinfrastruktur. Und fast nebenbei zeigen sie einen Weg zur langfristigen Rechtssicherheit für Kundenanlagen auf – be",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "c56930c7f27902e18c197bcf",
+      "title": "Milliardenprojekt in Frankreich: Eine neue Gigafactory für Solarzellen – im Elsass",
+      "url": "https://www.faz.net/aktuell/wirtschaft/holosolis-neue-solar-gigafactory-im-elsass-soll-europa-unabhaengiger-von-china-machen-accg-201668873.html",
+      "published_at": "2026-11-19T12:29:11Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Milliardenprojekt in Frankreich: Eine neue Gigafactory für Solarzellen – im Elsass In der Photovoltaik ist Europa abhängig von China. Jetzt wird eine große neue Solarzellenfabrik geplant. Hinter dem Projekt steht ein Topmanager der französischen Industrie.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "284edcdafb1a2049f47f337b",
+      "title": "EWZ bietet 12,91 Rappen pro Kilowattstunde für Überschusseinspeisung aus Photovoltaik-Anlagen ab 2027",
+      "url": "https://www.pv-magazine.de/2026/11/19/ewz-bietet-1291-rappen-pro-kilowattstunde-fuer-ueberschusseinspeisung-aus-photovoltaik-anlagen-ab-2027/",
+      "published_at": "2026-11-19T11:48:22Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "EWZ bietet 12,91 Rappen pro Kilowattstunde für Überschusseinspeisung aus Photovoltaik-Anlagen ab 2027 Der Schweizer Energiekonzern will Betreiber von Photovoltaik-Anlagen auch zur Installation eines Batteriespeichers motivieren und bietet dafür eine Förderung. Der erzeugte Solarstrom sollte zudem vorwiegend für den Eigenverbrauch oder die Quartiersversorgung genutzt werden, für die EWZ sogar 14 Ra",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "bbb4f6ccbc8eafcd3c58a74e",
+      "title": "CMBLU errichtet 10-Stunden-Flowspeicher in Kalifornien",
+      "url": "https://www.pv-magazine.de/2026/11/19/cmblu-errichtet-10-stunden-flowspeicher-in-kalifornien/",
+      "published_at": "2026-11-19T10:46:47Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "CMBLU errichtet 10-Stunden-Flowspeicher in Kalifornien Das „SolidFlow-Batteriesystem wird im Auftrag der öffentlichen Wasser- und Energieversorgungsbehörde Imperial Irrigation District (IID) des US-Bundesstaats errichtet. Der Batteriespeicher wird eine Leistung von 10 Megawatt und eine Kapazität von 100 Megawattstunden haben.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a9f9dfb3f7ded56902b8a51d",
+      "title": "Lithiumförderung bei Landau könnte ausgeweitet werden – Vulcan Energy erhält neue Lizenz",
+      "url": "https://www.pfalz-express.de/lithiumfoerderung-bei-landau-koennte-ausgeweitet-werden-vulcan-energy-erhaelt-neue-lizenz/",
+      "published_at": "2026-11-19T10:44:54Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Lithiumförderung bei Landau könnte ausgeweitet werden – Vulcan Energy erhält neue Lizenz Neue Pläne für die Lithiumgewinnung und Wärmeversorgung in der Südpfalz. Das Unternehmen Vulcan Energy hat eine weitere Aufsuchungslizenz für Geothermie und Lithium erhalten. Das Gebiet „Landau-Ost“ reicht vom Süden des gleichnamigen Industriegebiets bis westlich von Offenbach an der Queich. Damit könnte die F",
+      "tags": [
+        "exploration",
+        "industrie"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "bb608c27055df610bc4e9e72",
+      "title": "Wann ein Batteriespeicher wirklich baureif ist",
+      "url": "https://www.pv-magazine.de/2026/11/19/wann-ein-batteriespeicher-wirklich-baureif-ist/",
+      "published_at": "2026-11-19T08:54:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wann ein Batteriespeicher wirklich baureif ist Viele Großspeicherprojekte werden derzeit als „Ready to Build“ verkauft. Dahinter stecken sehr unterschiedliche Reifegrade, erklären Constantin Ernst und Martin Davidsen von P3. Sie schlagen drei Stufen vor, die Käufern und Investoren mehr Klarheit geben.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6daced1e1ed03473461d85c8",
+      "title": "ADAC: E-Autos erzielen im TÜV-Report sehr unterschiedliche Ergebnisse",
+      "url": "https://www.golem.de/news/adac-e-autos-erzielen-im-tuev-report-sehr-unterschiedliche-ergebnisse-2611-215383.html",
+      "published_at": "2026-11-19T06:39:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "ADAC: E-Autos erzielen im TÜV-Report sehr unterschiedliche Ergebnisse Der TÜV-Report 2027 zeigt bei E-Autos große Qualitätsunterschiede. Einige schneiden stark ab, andere fallen bei der HU auffallend oft durch. ( ADAC , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "84d178093d4c2f6e8e80dc56",
       "title": "AI Gigafactory im Norden: Nokia und Partner planen europäische KI-Infrastruktur",
@@ -42,7 +139,7 @@
       "published_at": "2026-11-18T16:02:13Z",
       "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "FCA-Rechner: Je nach Modell sinken Batteriespeicher-Erlöse bis zu 29 Prozent Die Plattform „Regelenergie Online“ hat verschiedene Modelle flexibler Netzanschlussvereinbarungen und ihre Auswirkungen auf die Erlöse für Batteriespeicher berechnet. Bei 2-Stunden-Speichern können die Erlöse um 15 bis 29 Prozent niedriger ausfallen; bei 4-Stunden-Speichern sind es aktuell eher zwischen 11 und 20 Prozent",
+      "summary": "FCA-Rechner: Je nach Modell sinken Batteriespeicher-Erlöse bis zu 29 Prozent Die Plattform „Regelleistung Online“ hat verschiedene Modelle flexibler Netzanschlussvereinbarungen und ihre Auswirkungen auf die Erlöse für Batteriespeicher berechnet. Bei 2-Stunden-Speichern können die Erlöse um 15 bis 29 Prozent niedriger ausfallen; bei 4-Stunden-Speichern sind es aktuell eher zwischen 11 und 20 Prozen",
       "tags": [],
       "regions": []
     },
@@ -4490,94 +4587,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Youtube: Elon Musk teilt erneut Verstoß gegen FSD-Nutzungsregeln Ein 98-jähriger Mann erklärt in einem Video, dass er in seinem Tesla nicht mehr auf den Verkehr achten müsse. Elon Musk findet das gut - für Tesla ein Problem. ( Elon Musk , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f7f972669f0a0957d6bf9f69",
-      "title": "EU-Staaten wollen Interessen in der Arktis schützen",
-      "url": "https://www.tagesschau.de/ausland/europa/arktis-gipfel-eu-100.html",
-      "published_at": "2026-09-14T13:43:23Z",
-      "source_id": "tagesschau-europa",
-      "language": "de",
-      "summary": "EU-Staaten wollen Interessen in der Arktis schützen Schifffahrtsrouten, Bodenschätze und Sicherheitspolitik: Deutschland und weitere europäische Staaten fordern eine stärkere Rolle der EU in der Arktis - vor allem wegen der Bedrohung aus Moskau.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "9b826d5ab3365a56f81f9c4e",
-      "title": "Engie und Return erweitern Flexibilitätsvereinbarung für Speicher in Deutschland auf 400 Megawatt",
-      "url": "https://www.pv-magazine.de/2026/09/14/engie-und-return-erweitern-flexibilitaetsvereinbarung-fuer-speicher-in-deutschland-auf-400-megawatt/",
-      "published_at": "2026-09-14T12:32:36Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Engie und Return erweitern Flexibilitätsvereinbarung für Speicher in Deutschland auf 400 Megawatt Die Verträge werden nicht für einzelne Batteriespeicher-Standorte geschlossen, sondern über verschiedene Anlagen, die in einem Virtual Flexibility Portfolio gebündelt werden. Die erste Vereinbarung dieser Art schlossen Engie und Return im Februar.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "eae98c587b6622959d1e2178",
-      "title": "Warum Rabot Energy einen 2-Kilowattstunden-AC-Batteriespeicher ohne Photovoltaik-Anlage verkauft",
-      "url": "https://www.pv-magazine.de/2026/09/14/warum-rabot-energy-einen-2-kilowattstunden-ac-batteriespeicher-ohne-photovoltaik-anlage-verkauft/",
-      "published_at": "2026-09-14T09:23:53Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Warum Rabot Energy einen 2-Kilowattstunden-AC-Batteriespeicher ohne Photovoltaik-Anlage verkauft Der deutsche Energieversorger kann auf diesem Weg einen dynamischen Tarif mit garantierten Einsparungen anbieten, ohne dass ein intelligenter Stromzähler benötigt wird. Die Marstek-Speicher verkauft Rabot Energy dabei zum Selbstkostenpreis an seine Kunden.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "187f59f292d806761129b8d9",
-      "title": "heise+ | Batteriespeicher mit dynamischem Tarif für Mieter: Rabot Flow im Praxis-Check",
-      "url": "https://www.heise.de/ratgeber/Batteriespeicher-mit-dynamischem-Tarif-fuer-Mieter-Rabot-Flow-im-Praxis-Check-11347989.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published_at": "2026-09-14T05:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "heise+ | Batteriespeicher mit dynamischem Tarif für Mieter: Rabot Flow im Praxis-Check Speichern und verdienen: Rabot Energy vermarktet seinen Batteriespeicher an Mieter ohne Balkonkraftwerk. Wir probieren, ob sich der 400-Euro-Speicher rechnet.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "cc6bb28f2b6d117f270fea05",
-      "title": "Elektromobilität: Der Umbauer",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/e-mobilitaet-heiko-fleck-verbrennerautos-bastler-elektromobilitaet-umbau-e263291/",
-      "published_at": "2026-09-13T13:39:00Z",
-      "source_id": "sueddeutsche-wirtschaft",
-      "language": "de",
-      "summary": "Elektromobilität: Der Umbauer Heiko Fleck rüstet alte Verbrennerfahrzeuge auf Elektro um. Warum gerade immer mehr Landwirte zu ihm kommen und wie ausgerechnet der Erfolg der E-Mobilität sein Geschäftsmodell bedroht.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "103cdb47811eacb1fd8c8696",
-      "title": "Elon Musk: Teslas neuer Roadster soll mit Raketentechnik abheben",
-      "url": "https://www.golem.de/news/elon-musk-teslas-neuer-roadster-soll-mit-raketentechnik-abheben-2609-212955.html",
-      "published_at": "2026-09-13T09:52:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elon Musk: Teslas neuer Roadster soll mit Raketentechnik abheben Neun Jahre nach der ersten Vorstellung soll Teslas neuer Roadster wieder öffentlich gezeigt werden. Elon Musk deutet eine außergewöhnliche Vorführung an. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8120a88a4a5b589085e4404e",
-      "title": "eActros 600: Amazon lässt Mercedes-E-Lkw auf deutschen Straßen fahren",
-      "url": "https://www.golem.de/news/eactros-600-amazon-laesst-mercedes-e-lkw-auf-deutschen-strassen-fahren-2609-212948.html",
-      "published_at": "2026-09-12T13:08:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "eActros 600: Amazon lässt Mercedes-E-Lkw auf deutschen Straßen fahren Amazon setzt über 50 batterieelektrische eActros 600 in Deutschland ein. ( Amazon , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "4233931183f429df9cf801bd",
-      "title": "Elektromobilität: Tesla bringt den Semi nach Europa",
-      "url": "https://www.golem.de/news/elektromobilitaet-tesla-bringt-den-semi-nach-europa-2609-212943.html",
-      "published_at": "2026-09-12T08:42:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektromobilität: Tesla bringt den Semi nach Europa Tesla hat konkrete Leistungsdaten zum elektrischen Semi für Europa veröffentlicht. Der Marktstart erfolgt jedoch erst im Jahr 2027. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     }
