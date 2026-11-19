@@ -2,6 +2,103 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "00d48178b4f37f52646d749e",
+      "title": "Stromsteuersenkung: Ein Nullsummenspiel für die Verbraucher",
+      "url": "https://www.golem.de/news/stromsteuersenkung-ein-nullsummenspiel-fuer-die-verbraucher-2611-215411.html",
+      "published_at": "2026-11-19T13:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Stromsteuersenkung: Ein Nullsummenspiel für die Verbraucher Die Koalition hat sich auf eine Senkung der Stromsteuer geeinigt. Das liegt jedoch vor allem an höheren Strompreisen und bringt E-Autofahrern wenig. Eine Analyse von Friedhelm Greis ( Strom , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "c2372db040d41339809c047f",
+      "title": "Einigung im EU-Trilog zu Kundenanlage, schnelleren Genehmigungen und Netzanschlussverfahren",
+      "url": "https://www.pv-magazine.de/2026/11/19/einigung-im-eu-trilog-zu-kundenanlage-schnelleren-genehmigungen-und-netzanschlussverfahren/",
+      "published_at": "2026-11-19T12:50:35Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Einigung im EU-Trilog zu Kundenanlage, schnelleren Genehmigungen und Netzanschlussverfahren Parlament, Rat und Kommission formulieren Vorgaben für schnellere und einfachere Genehmigungs- und Netzanschlussverfahren für Erneuerbare-Energien-Anlagen, Batteriespeicher und Elektroauto-Ladeinfrastruktur. Und fast nebenbei zeigen sie einen Weg zur langfristigen Rechtssicherheit für Kundenanlagen auf – be",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "c56930c7f27902e18c197bcf",
+      "title": "Milliardenprojekt in Frankreich: Eine neue Gigafactory für Solarzellen – im Elsass",
+      "url": "https://www.faz.net/aktuell/wirtschaft/holosolis-neue-solar-gigafactory-im-elsass-soll-europa-unabhaengiger-von-china-machen-accg-201668873.html",
+      "published_at": "2026-11-19T12:29:11Z",
+      "source_id": "faz-aktuell",
+      "language": "de",
+      "summary": "Milliardenprojekt in Frankreich: Eine neue Gigafactory für Solarzellen – im Elsass In der Photovoltaik ist Europa abhängig von China. Jetzt wird eine große neue Solarzellenfabrik geplant. Hinter dem Projekt steht ein Topmanager der französischen Industrie.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "284edcdafb1a2049f47f337b",
+      "title": "EWZ bietet 12,91 Rappen pro Kilowattstunde für Überschusseinspeisung aus Photovoltaik-Anlagen ab 2027",
+      "url": "https://www.pv-magazine.de/2026/11/19/ewz-bietet-1291-rappen-pro-kilowattstunde-fuer-ueberschusseinspeisung-aus-photovoltaik-anlagen-ab-2027/",
+      "published_at": "2026-11-19T11:48:22Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "EWZ bietet 12,91 Rappen pro Kilowattstunde für Überschusseinspeisung aus Photovoltaik-Anlagen ab 2027 Der Schweizer Energiekonzern will Betreiber von Photovoltaik-Anlagen auch zur Installation eines Batteriespeichers motivieren und bietet dafür eine Förderung. Der erzeugte Solarstrom sollte zudem vorwiegend für den Eigenverbrauch oder die Quartiersversorgung genutzt werden, für die EWZ sogar 14 Ra",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "bbb4f6ccbc8eafcd3c58a74e",
+      "title": "CMBLU errichtet 10-Stunden-Flowspeicher in Kalifornien",
+      "url": "https://www.pv-magazine.de/2026/11/19/cmblu-errichtet-10-stunden-flowspeicher-in-kalifornien/",
+      "published_at": "2026-11-19T10:46:47Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "CMBLU errichtet 10-Stunden-Flowspeicher in Kalifornien Das „SolidFlow-Batteriesystem wird im Auftrag der öffentlichen Wasser- und Energieversorgungsbehörde Imperial Irrigation District (IID) des US-Bundesstaats errichtet. Der Batteriespeicher wird eine Leistung von 10 Megawatt und eine Kapazität von 100 Megawattstunden haben.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "a9f9dfb3f7ded56902b8a51d",
+      "title": "Lithiumförderung bei Landau könnte ausgeweitet werden – Vulcan Energy erhält neue Lizenz",
+      "url": "https://www.pfalz-express.de/lithiumfoerderung-bei-landau-koennte-ausgeweitet-werden-vulcan-energy-erhaelt-neue-lizenz/",
+      "published_at": "2026-11-19T10:44:54Z",
+      "source_id": "pfalz-express",
+      "language": "de",
+      "summary": "Lithiumförderung bei Landau könnte ausgeweitet werden – Vulcan Energy erhält neue Lizenz Neue Pläne für die Lithiumgewinnung und Wärmeversorgung in der Südpfalz. Das Unternehmen Vulcan Energy hat eine weitere Aufsuchungslizenz für Geothermie und Lithium erhalten. Das Gebiet „Landau-Ost“ reicht vom Süden des gleichnamigen Industriegebiets bis westlich von Offenbach an der Queich. Damit könnte die F",
+      "tags": [
+        "exploration",
+        "industrie"
+      ],
+      "regions": [
+        "DE-RP"
+      ]
+    },
+    {
+      "id": "bb608c27055df610bc4e9e72",
+      "title": "Wann ein Batteriespeicher wirklich baureif ist",
+      "url": "https://www.pv-magazine.de/2026/11/19/wann-ein-batteriespeicher-wirklich-baureif-ist/",
+      "published_at": "2026-11-19T08:54:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Wann ein Batteriespeicher wirklich baureif ist Viele Großspeicherprojekte werden derzeit als „Ready to Build“ verkauft. Dahinter stecken sehr unterschiedliche Reifegrade, erklären Constantin Ernst und Martin Davidsen von P3. Sie schlagen drei Stufen vor, die Käufern und Investoren mehr Klarheit geben.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6daced1e1ed03473461d85c8",
+      "title": "ADAC: E-Autos erzielen im TÜV-Report sehr unterschiedliche Ergebnisse",
+      "url": "https://www.golem.de/news/adac-e-autos-erzielen-im-tuev-report-sehr-unterschiedliche-ergebnisse-2611-215383.html",
+      "published_at": "2026-11-19T06:39:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "ADAC: E-Autos erzielen im TÜV-Report sehr unterschiedliche Ergebnisse Der TÜV-Report 2027 zeigt bei E-Autos große Qualitätsunterschiede. Einige schneiden stark ab, andere fallen bei der HU auffallend oft durch. ( ADAC , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "84d178093d4c2f6e8e80dc56",
       "title": "AI Gigafactory im Norden: Nokia und Partner planen europäische KI-Infrastruktur",
       "url": "https://www.heise.de/news/AI-Gigafactory-im-Norden-Nokia-und-Partner-planen-europaeische-KI-Infrastruktur-11530042.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -30,7 +127,7 @@
       "published_at": "2026-11-18T16:02:13Z",
       "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "FCA-Rechner: Je nach Modell sinken Batteriespeicher-Erlöse bis zu 29 Prozent Die Plattform „Regelenergie Online“ hat verschiedene Modelle flexibler Netzanschlussvereinbarungen und ihre Auswirkungen auf die Erlöse für Batteriespeicher berechnet. Bei 2-Stunden-Speichern können die Erlöse um 15 bis 29 Prozent niedriger ausfallen; bei 4-Stunden-Speichern sind es aktuell eher zwischen 11 und 20 Prozent",
+      "summary": "FCA-Rechner: Je nach Modell sinken Batteriespeicher-Erlöse bis zu 29 Prozent Die Plattform „Regelleistung Online“ hat verschiedene Modelle flexibler Netzanschlussvereinbarungen und ihre Auswirkungen auf die Erlöse für Batteriespeicher berechnet. Bei 2-Stunden-Speichern können die Erlöse um 15 bis 29 Prozent niedriger ausfallen; bei 4-Stunden-Speichern sind es aktuell eher zwischen 11 und 20 Prozen",
       "tags": [],
       "regions": []
     },
