@@ -2,6 +2,30 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "1030e6e6394e972bdf128826",
+      "title": "Xpeng L03 mit 1.000 km Reichweite: Weiterer China-Hersteller bietet Range Extender",
+      "url": "https://www.golem.de/news/xpeng-l03-mit-1-000-km-reichweite-weiterer-china-hersteller-bietet-range-extender-2611-215434.html",
+      "published_at": "2026-11-19T16:49:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Xpeng L03 mit 1.000 km Reichweite: Weiterer China-Hersteller bietet Range Extender Mit zusätzlichem Benzinmotor soll der Xpeng L03 mehr als 1.000 km weit kommen. Die elektrische Reichweite ist jedoch recht klein. ( Xpeng , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "72050b55955dc9cc30b8f501",
+      "title": "Voltwise baut 125 Megawattstunden-Speicher in Nordrhein-Westfalen",
+      "url": "https://www.pv-magazine.de/2026/11/19/voltwise-baut-125-megawattstunden-speicher-in-nordrhein-westfalen/",
+      "published_at": "2026-11-19T15:10:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Voltwise baut 125 Megawattstunden-Speicher in Nordrhein-Westfalen Der Batteriespeicher mit 56 Megawatt Leistung soll in der zweiten Jahreshälfte 2027 in Betrieb gehen. Es ist der erste große Batteriespeicher des Unternehmens in Deutschland.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "00d48178b4f37f52646d749e",
       "title": "Stromsteuersenkung: Ein Nullsummenspiel für die Verbraucher",
       "url": "https://www.golem.de/news/stromsteuersenkung-ein-nullsummenspiel-fuer-die-verbraucher-2611-215411.html",
