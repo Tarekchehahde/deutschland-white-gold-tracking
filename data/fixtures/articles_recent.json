@@ -2,13 +2,35 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "c23fb59ab512a6b4021e5d94",
-      "title": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche",
-      "url": "https://www.swr3.de/aktuell/nachrichten/selbstfahrendes-elektroauto-parkversuch-100.html",
-      "published_at": "2026-11-20T11:26:03Z",
-      "source_id": "swr-aktuell-rss",
+      "id": "fb08557945205c12d02afbd8",
+      "title": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren",
+      "url": "https://www.golem.de/news/tesla-assisted-driving-tesla-darf-in-italien-schon-autonom-fahren-2611-215496.html",
+      "published_at": "2026-11-20T18:46:01Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche Ein selbstfahrendes Elektroauto irrt stundenlang durch ein Parkhaus und findet keine passende Lücke. Erst nach 868 Parkversuchen kommt es endlich zum Stehen. Parkt ihr besser? 😂",
+      "summary": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren Italien lässt Teslas Fahrasssistenzsystem als erstes großes EU-Land zu. Damit wächst der Druck auf die EU vor der Abstimmung im Dezember. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "30c9525f0f7fef6404b366f0",
+      "title": "KBA: Neue Webseite bietet interaktiven Überblick zur Elektromobilität",
+      "url": "https://www.golem.de/news/kba-neue-webseite-bietet-interaktiven-ueberblick-zur-elektromobilitaet-2611-215490.html",
+      "published_at": "2026-11-20T16:11:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "KBA: Neue Webseite bietet interaktiven Überblick zur Elektromobilität Das KBA will Interessenten einen Einstieg in Daten und Analysen zur Elektromobilität anbieten. Dafür gibt es eine neue Webseite. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "52dd0317bba75b9a8f94eaf4",
+      "title": "Autonomes Fahren: Mercedes-Benz bekommt Zulassung für Selbstfahrassistenten",
+      "url": "https://www.golem.de/news/autonomes-fahren-mercedes-benz-bekommt-zulassung-fuer-selbstfahrassistenten-2611-215487.html",
+      "published_at": "2026-11-20T15:54:04Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Mercedes-Benz bekommt Zulassung für Selbstfahrassistenten Der neue Punkt-zu-Punkt-Fahrassistent von Mercedes-Benz hat die Zulassung des KBA erhalten. ( Mercedes Benz , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -46,17 +68,6 @@
       "regions": []
     },
     {
-      "id": "90a8d9964145d59aa2e708f7",
-      "title": "Nach Abhörvorwurf vor Betriebsratswahl: Strafbefehl gegen Tesla-Werkschef in Grünheide erlassen",
-      "url": "https://www.golem.de/news/nach-abhoervorwurf-bei-betriebsratswahl-strafbefehl-gegen-tesla-werkschef-in-gruenheide-erlassen-2611-215442.html",
-      "published_at": "2026-11-20T06:20:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Nach Abhörvorwurf vor Betriebsratswahl: Strafbefehl gegen Tesla-Werkschef in Grünheide erlassen Der Autohersteller Tesla wirft der IG Metall vor, sie habe eine Betriebsratssitzung heimlich mitgeschnitten, und erhält dafür einen Strafbefehl. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "72050b55955dc9cc30b8f501",
       "title": "Voltwise baut 125 Megawattstunden-Speicher in Nordrhein-Westfalen",
       "url": "https://www.pv-magazine.de/2026/11/19/voltwise-baut-125-megawattstunden-speicher-in-nordrhein-westfalen/",
@@ -67,30 +78,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "c2372db040d41339809c047f",
-      "title": "Einigung im EU-Trilog zu Kundenanlage, schnelleren Genehmigungen und Netzanschlussverfahren",
-      "url": "https://www.pv-magazine.de/2026/11/19/einigung-im-eu-trilog-zu-kundenanlage-schnelleren-genehmigungen-und-netzanschlussverfahren/",
-      "published_at": "2026-11-19T12:50:35Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Einigung im EU-Trilog zu Kundenanlage, schnelleren Genehmigungen und Netzanschlussverfahren Parlament, Rat und Kommission formulieren Vorgaben für schnellere und einfachere Genehmigungs- und Netzanschlussverfahren für Erneuerbare-Energien-Anlagen, Batteriespeicher und Elektroauto-Ladeinfrastruktur. Und fast nebenbei zeigen sie einen Weg zur langfristigen Rechtssicherheit für Kundenanlagen auf – be",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "284edcdafb1a2049f47f337b",
-      "title": "EWZ bietet 12,91 Rappen pro Kilowattstunde für Überschusseinspeisung aus Photovoltaik-Anlagen ab 2027",
-      "url": "https://www.pv-magazine.de/2026/11/19/ewz-bietet-1291-rappen-pro-kilowattstunde-fuer-ueberschusseinspeisung-aus-photovoltaik-anlagen-ab-2027/",
-      "published_at": "2026-11-19T11:48:22Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "EWZ bietet 12,91 Rappen pro Kilowattstunde für Überschusseinspeisung aus Photovoltaik-Anlagen ab 2027 Der Schweizer Energiekonzern will Betreiber von Photovoltaik-Anlagen auch zur Installation eines Batteriespeichers motivieren und bietet dafür eine Förderung. Der erzeugte Solarstrom sollte zudem vorwiegend für den Eigenverbrauch oder die Quartiersversorgung genutzt werden, für die EWZ sogar 14 Ra",
-      "tags": [],
       "regions": []
     }
   ]

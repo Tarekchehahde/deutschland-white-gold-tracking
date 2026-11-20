@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-20T14:00:03Z",
+  "generated_at_utc": "2026-11-20T23:59:26Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1041,
+  "total_in_archive": 1044,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,42 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 133
+    "2026-11": 136
   },
   "recent_for_ui": [
+    {
+      "id": "fb08557945205c12d02afbd8",
+      "title": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren",
+      "url": "https://www.golem.de/news/tesla-assisted-driving-tesla-darf-in-italien-schon-autonom-fahren-2611-215496.html",
+      "published_at": "2026-11-20T18:46:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren Italien lässt Teslas Fahrasssistenzsystem als erstes großes EU-Land zu. Damit wächst der Druck auf die EU vor der Abstimmung im Dezember. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "30c9525f0f7fef6404b366f0",
+      "title": "KBA: Neue Webseite bietet interaktiven Überblick zur Elektromobilität",
+      "url": "https://www.golem.de/news/kba-neue-webseite-bietet-interaktiven-ueberblick-zur-elektromobilitaet-2611-215490.html",
+      "published_at": "2026-11-20T16:11:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "KBA: Neue Webseite bietet interaktiven Überblick zur Elektromobilität Das KBA will Interessenten einen Einstieg in Daten und Analysen zur Elektromobilität anbieten. Dafür gibt es eine neue Webseite. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "52dd0317bba75b9a8f94eaf4",
+      "title": "Autonomes Fahren: Mercedes-Benz bekommt Zulassung für Selbstfahrassistenten",
+      "url": "https://www.golem.de/news/autonomes-fahren-mercedes-benz-bekommt-zulassung-fuer-selbstfahrassistenten-2611-215487.html",
+      "published_at": "2026-11-20T15:54:04Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Mercedes-Benz bekommt Zulassung für Selbstfahrassistenten Der neue Punkt-zu-Punkt-Fahrassistent von Mercedes-Benz hat die Zulassung des KBA erhalten. ( Mercedes Benz , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c23fb59ab512a6b4021e5d94",
       "title": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche",
@@ -4550,45 +4583,6 @@
       "summary": "Gescheiterte Finanzierung löste Enerparc-Insolvenz aus – Investorenprozess soll bald starten Der Insolvenzverwalter des Hamburger Photovoltaik-Unternehmens äußerte sich erstmals zu den Hintergründen des Verfahrens. Er will in Kürze einen Investorenprozess eröffnen. 90 Photovoltaik-Anlagen, teilweise mit Batteriespeichern, befinden sich aktuell im Bau. Oberste Priorität hat derzeit, bei den am weit",
       "tags": [
         "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "62f007d0638f918c0f0f23c4",
-      "title": "Bahnverkehr in der Pfalz: Neue Akku-Züge kommen – Reisezentrum Landau bleibt",
-      "url": "https://www.pfalz-express.de/bahnverkehr-in-der-pfalz-neue-akku-zuege-kommen-reisezentrum-landau-bleibt/",
-      "published_at": "2026-09-15T10:31:22Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Bahnverkehr in der Pfalz: Neue Akku-Züge kommen – Reisezentrum Landau bleibt Auf mehreren Bahnstrecken in der Pfalz beginnt am Montag, 21. September 2026, der Fahrgastbetrieb mit den neuen Akku-Zügen. Zwischen Landau und Neustadt sollen sie schrittweise die bisherigen Dieselzüge ersetzen. Gleichzeitig ist der langfristige Erhalt des Reisezentrums im Landauer Hauptbahnhof gesichert. Nach Verzögerun",
-      "tags": [
-        "exploration"
-      ],
-      "regions": [
-        "DE-RP"
-      ]
-    },
-    {
-      "id": "f7e1c448613c23bfb3b99327",
-      "title": "Batteriespeicher-Investoren unter Zeitdruck",
-      "url": "https://www.pv-magazine.de/2026/09/15/investieren-unter-zeitdruck/",
-      "published_at": "2026-09-15T10:10:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Batteriespeicher-Investoren unter Zeitdruck AgNes und FID: Wer von der bislang noch geltenden Netzentgeltbefreiung für Batteriespeicher profitieren will, muss schnell eine finale Investitionsentscheidung treffen. Rechtsanwältin Leonie Meltendorf erläutert, welche Bedingungen hierfür gelten – und welche Fragen noch immer nicht exakt geklärt sind.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d490fb893109237802a41566",
-      "title": "Probefahrt VW ID.Polo: Ein Stromer für fast alle",
-      "url": "https://www.golem.de/news/probefahrt-vw-id-polo-ein-stromer-fuer-fast-alle-2609-213017.html",
-      "published_at": "2026-09-15T10:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Probefahrt VW ID.Polo: Ein Stromer für fast alle Der neue VW ID.Polo glänzt mit agilem Fahrverhalten, Golf-Komfort und großem Nutzwert. Ein Elektroauto für beinahe Jedermann, aber kein Billigheimer. Ein Bericht von Franz W. Rother ( Elektroauto , Auto )",
-      "tags": [
-        "exploration"
       ],
       "regions": []
     }
