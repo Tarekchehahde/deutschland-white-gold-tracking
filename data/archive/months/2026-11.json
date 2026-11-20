@@ -1,8 +1,41 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 133,
+  "article_count": 136,
   "articles": [
+    {
+      "id": "fb08557945205c12d02afbd8",
+      "title": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren",
+      "url": "https://www.golem.de/news/tesla-assisted-driving-tesla-darf-in-italien-schon-autonom-fahren-2611-215496.html",
+      "published_at": "2026-11-20T18:46:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren Italien lässt Teslas Fahrasssistenzsystem als erstes großes EU-Land zu. Damit wächst der Druck auf die EU vor der Abstimmung im Dezember. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "30c9525f0f7fef6404b366f0",
+      "title": "KBA: Neue Webseite bietet interaktiven Überblick zur Elektromobilität",
+      "url": "https://www.golem.de/news/kba-neue-webseite-bietet-interaktiven-ueberblick-zur-elektromobilitaet-2611-215490.html",
+      "published_at": "2026-11-20T16:11:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "KBA: Neue Webseite bietet interaktiven Überblick zur Elektromobilität Das KBA will Interessenten einen Einstieg in Daten und Analysen zur Elektromobilität anbieten. Dafür gibt es eine neue Webseite. ( Elektromobilität , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "52dd0317bba75b9a8f94eaf4",
+      "title": "Autonomes Fahren: Mercedes-Benz bekommt Zulassung für Selbstfahrassistenten",
+      "url": "https://www.golem.de/news/autonomes-fahren-mercedes-benz-bekommt-zulassung-fuer-selbstfahrassistenten-2611-215487.html",
+      "published_at": "2026-11-20T15:54:04Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Autonomes Fahren: Mercedes-Benz bekommt Zulassung für Selbstfahrassistenten Der neue Punkt-zu-Punkt-Fahrassistent von Mercedes-Benz hat die Zulassung des KBA erhalten. ( Mercedes Benz , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c23fb59ab512a6b4021e5d94",
       "title": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche",
