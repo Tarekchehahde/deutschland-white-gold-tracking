@@ -2,6 +2,30 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "1030e6e6394e972bdf128826",
+      "title": "Xpeng L03 mit 1.000 km Reichweite: Weiterer China-Hersteller bietet Range Extender",
+      "url": "https://www.golem.de/news/xpeng-l03-mit-1-000-km-reichweite-weiterer-china-hersteller-bietet-range-extender-2611-215434.html",
+      "published_at": "2026-11-19T16:49:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Xpeng L03 mit 1.000 km Reichweite: Weiterer China-Hersteller bietet Range Extender Mit zusätzlichem Benzinmotor soll der Xpeng L03 mehr als 1.000 km weit kommen. Die elektrische Reichweite ist jedoch recht klein. ( Xpeng , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "72050b55955dc9cc30b8f501",
+      "title": "Voltwise baut 125 Megawattstunden-Speicher in Nordrhein-Westfalen",
+      "url": "https://www.pv-magazine.de/2026/11/19/voltwise-baut-125-megawattstunden-speicher-in-nordrhein-westfalen/",
+      "published_at": "2026-11-19T15:10:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Voltwise baut 125 Megawattstunden-Speicher in Nordrhein-Westfalen Der Batteriespeicher mit 56 Megawatt Leistung soll in der zweiten Jahreshälfte 2027 in Betrieb gehen. Es ist der erste große Batteriespeicher des Unternehmens in Deutschland.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "00d48178b4f37f52646d749e",
       "title": "Stromsteuersenkung: Ein Nullsummenspiel für die Verbraucher",
       "url": "https://www.golem.de/news/stromsteuersenkung-ein-nullsummenspiel-fuer-die-verbraucher-2611-215411.html",
@@ -22,19 +46,6 @@
       "summary": "Einigung im EU-Trilog zu Kundenanlage, schnelleren Genehmigungen und Netzanschlussverfahren Parlament, Rat und Kommission formulieren Vorgaben für schnellere und einfachere Genehmigungs- und Netzanschlussverfahren für Erneuerbare-Energien-Anlagen, Batteriespeicher und Elektroauto-Ladeinfrastruktur. Und fast nebenbei zeigen sie einen Weg zur langfristigen Rechtssicherheit für Kundenanlagen auf – be",
       "tags": [
         "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "c56930c7f27902e18c197bcf",
-      "title": "Milliardenprojekt in Frankreich: Eine neue Gigafactory für Solarzellen – im Elsass",
-      "url": "https://www.faz.net/aktuell/wirtschaft/holosolis-neue-solar-gigafactory-im-elsass-soll-europa-unabhaengiger-von-china-machen-accg-201668873.html",
-      "published_at": "2026-11-19T12:29:11Z",
-      "source_id": "faz-aktuell",
-      "language": "de",
-      "summary": "Milliardenprojekt in Frankreich: Eine neue Gigafactory für Solarzellen – im Elsass In der Photovoltaik ist Europa abhängig von China. Jetzt wird eine große neue Solarzellenfabrik geplant. Hinter dem Projekt steht ein Topmanager der französischen Industrie.",
-      "tags": [
-        "industrie"
       ],
       "regions": []
     },
@@ -61,22 +72,6 @@
       "regions": []
     },
     {
-      "id": "a9f9dfb3f7ded56902b8a51d",
-      "title": "Lithiumförderung bei Landau könnte ausgeweitet werden – Vulcan Energy erhält neue Lizenz",
-      "url": "https://www.pfalz-express.de/lithiumfoerderung-bei-landau-koennte-ausgeweitet-werden-vulcan-energy-erhaelt-neue-lizenz/",
-      "published_at": "2026-11-19T10:44:54Z",
-      "source_id": "pfalz-express",
-      "language": "de",
-      "summary": "Lithiumförderung bei Landau könnte ausgeweitet werden – Vulcan Energy erhält neue Lizenz Neue Pläne für die Lithiumgewinnung und Wärmeversorgung in der Südpfalz. Das Unternehmen Vulcan Energy hat eine weitere Aufsuchungslizenz für Geothermie und Lithium erhalten. Das Gebiet „Landau-Ost“ reicht vom Süden des gleichnamigen Industriegebiets bis westlich von Offenbach an der Queich. Damit könnte die F",
-      "tags": [
-        "exploration",
-        "industrie"
-      ],
-      "regions": [
-        "DE-RP"
-      ]
-    },
-    {
       "id": "bb608c27055df610bc4e9e72",
       "title": "Wann ein Batteriespeicher wirklich baureif ist",
       "url": "https://www.pv-magazine.de/2026/11/19/wann-ein-batteriespeicher-wirklich-baureif-ist/",
@@ -88,17 +83,6 @@
       "regions": []
     },
     {
-      "id": "6daced1e1ed03473461d85c8",
-      "title": "ADAC: E-Autos erzielen im TÜV-Report sehr unterschiedliche Ergebnisse",
-      "url": "https://www.golem.de/news/adac-e-autos-erzielen-im-tuev-report-sehr-unterschiedliche-ergebnisse-2611-215383.html",
-      "published_at": "2026-11-19T06:39:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "ADAC: E-Autos erzielen im TÜV-Report sehr unterschiedliche Ergebnisse Der TÜV-Report 2027 zeigt bei E-Autos große Qualitätsunterschiede. Einige schneiden stark ab, andere fallen bei der HU auffallend oft durch. ( ADAC , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "84d178093d4c2f6e8e80dc56",
       "title": "AI Gigafactory im Norden: Nokia und Partner planen europäische KI-Infrastruktur",
       "url": "https://www.heise.de/news/AI-Gigafactory-im-Norden-Nokia-und-Partner-planen-europaeische-KI-Infrastruktur-11530042.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -106,17 +90,6 @@
       "source_id": "heise-news",
       "language": "de",
       "summary": "AI Gigafactory im Norden: Nokia und Partner planen europäische KI-Infrastruktur Ein nordisch-baltisches Konsortium will mit einer souveränen Cloud, grünem Strom und schnellen Netzen den EU-Wettbewerb für KI-Gigafactories aufmischen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7e951cdca9bc19bccc53da03",
-      "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
-      "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
-      "published_at": "2026-11-18T16:58:32Z",
-      "source_id": "arstechnica-all",
-      "language": "en",
-      "summary": "Vulcan failure caused by inadequate fuel supply to engines, ULA says \"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
       "tags": [],
       "regions": []
     },
@@ -151,19 +124,6 @@
       "language": "de",
       "summary": "Green Flexibility startet Bau von Batteriespeichern mit insgesamt 480 Megawattstunden in Niedersachsen Die Gesamtinvestition liegt bei rund 150 Millionen Euro. Während der erste von sechs Batteriespeicher in dem Bundesland nun gebaut wird, öffnete Green Flexibility seinen fertiggestellten Speicher in Obergünzburg kurz vor der Inbetriebnahme nochmal für die Öffentlichkeit.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "04f9ffe9bea1ce52cb54b70e",
-      "title": "Cybercabs aus Deutschland: Tesla will Werk in Grünheide für 3 Milliarden Euro ausbauen",
-      "url": "https://t3n.de/news/cybercab-deutschland-tesla-gruenheide-3-milliarden-euro-1773847/",
-      "published_at": "2026-11-16T14:15:59Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Cybercabs aus Deutschland: Tesla will Werk in Grünheide für 3 Milliarden Euro ausbauen Die Pläne für einen Ausbau der Tesla-Fabrik in Grünheide bei Berlin liegen schon länger vor. Nun nennt das Unternehmen von Elon Musk konkrete Zahlen. Der US-Elektroautobauer Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide bei Berlin ausgeben. Damit soll zunächst ein neues Produktionsgebäude",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]

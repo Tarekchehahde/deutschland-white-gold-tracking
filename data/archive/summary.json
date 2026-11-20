@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-19T14:25:17Z",
+  "generated_at_utc": "2026-11-20T00:37:04Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1034,
+  "total_in_archive": 1036,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,33 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 126
+    "2026-11": 128
   },
   "recent_for_ui": [
+    {
+      "id": "1030e6e6394e972bdf128826",
+      "title": "Xpeng L03 mit 1.000 km Reichweite: Weiterer China-Hersteller bietet Range Extender",
+      "url": "https://www.golem.de/news/xpeng-l03-mit-1-000-km-reichweite-weiterer-china-hersteller-bietet-range-extender-2611-215434.html",
+      "published_at": "2026-11-19T16:49:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Xpeng L03 mit 1.000 km Reichweite: Weiterer China-Hersteller bietet Range Extender Mit zusätzlichem Benzinmotor soll der Xpeng L03 mehr als 1.000 km weit kommen. Die elektrische Reichweite ist jedoch recht klein. ( Xpeng , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "72050b55955dc9cc30b8f501",
+      "title": "Voltwise baut 125 Megawattstunden-Speicher in Nordrhein-Westfalen",
+      "url": "https://www.pv-magazine.de/2026/11/19/voltwise-baut-125-megawattstunden-speicher-in-nordrhein-westfalen/",
+      "published_at": "2026-11-19T15:10:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Voltwise baut 125 Megawattstunden-Speicher in Nordrhein-Westfalen Der Batteriespeicher mit 56 Megawatt Leistung soll in der zweiten Jahreshälfte 2027 in Betrieb gehen. Es ist der erste große Batteriespeicher des Unternehmens in Deutschland.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "00d48178b4f37f52646d749e",
       "title": "Stromsteuersenkung: Ein Nullsummenspiel für die Verbraucher",
@@ -4565,28 +4589,6 @@
       "source_id": "rp-online-wirtschaft",
       "language": "de",
       "summary": "Größter chinesischer Fahrzeughersteller: BYD will jetzt auch seine Lkw in Europa produzieren Der chinesische Elektroautobauer BYD will im kommenden Jahr seinen ersten Schwerlaster „ETT 44“ in Europa einführen und plant langfristig auch eine Lkw-Produktion.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "0a40ec158c6a31946171e87f",
-      "title": "NGEN nimmt 170 Megawattstunden-Speicher in Österreich in Betrieb",
-      "url": "https://www.pv-magazine.de/2026/09/14/ngen-nimmt-170-megawattstunden-speicher-in-oesterreich-in-betrieb/",
-      "published_at": "2026-09-14T14:38:49Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "NGEN nimmt 170 Megawattstunden-Speicher in Österreich in Betrieb Es soll sich um den bislang größten Batteriespeicher des Landes handeln. Es ist ein Zwei-Stunden-Batteriespeicher nahe der Grenze zu Deutschland.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d4828907e6dc006267729dae",
-      "title": "Youtube: Elon Musk teilt erneut Verstoß gegen FSD-Nutzungsregeln",
-      "url": "https://www.golem.de/news/youtube-elon-musk-teilt-erneut-verstoss-gegen-fsd-nutzungsregeln-2609-212990.html",
-      "published_at": "2026-09-14T14:01:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Youtube: Elon Musk teilt erneut Verstoß gegen FSD-Nutzungsregeln Ein 98-jähriger Mann erklärt in einem Video, dass er in seinem Tesla nicht mehr auf den Verkehr achten müsse. Elon Musk findet das gut - für Tesla ein Problem. ( Elon Musk , Elektroauto )",
       "tags": [],
       "regions": []
     }
