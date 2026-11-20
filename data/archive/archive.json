@@ -2,6 +2,61 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "c23fb59ab512a6b4021e5d94",
+      "title": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche",
+      "url": "https://www.swr3.de/aktuell/nachrichten/selbstfahrendes-elektroauto-parkversuch-100.html",
+      "published_at": "2026-11-20T11:26:03Z",
+      "source_id": "swr-aktuell-rss",
+      "language": "de",
+      "summary": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche Ein selbstfahrendes Elektroauto irrt stundenlang durch ein Parkhaus und findet keine passende Lücke. Erst nach 868 Parkversuchen kommt es endlich zum Stehen. Parkt ihr besser? 😂",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6037482beac724fec58341e9",
+      "title": "EV1: Kias kompaktes Elektroauto soll weniger als 22.000 Euro kosten",
+      "url": "https://www.golem.de/news/ev1-kias-kompaktes-elektroauto-soll-weniger-als-22-000-euro-kosten-2611-215461.html",
+      "published_at": "2026-11-20T11:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "EV1: Kias kompaktes Elektroauto soll weniger als 22.000 Euro kosten Kias Elektro-Lineup beginnt beim EV2 - ein kleineres Auto soll 2027 fertig sein. Dabei dürfte es sich um den EV1 handeln. ( Kia , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "15b50c62e7910798bb31a70e",
+      "title": "Batteriehersteller Eternity eröffnet Werk in Thale: Bis zu 140 Jobs im Harz geplant",
+      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/eternity-batterien,batteriehersteller-thale-100.html",
+      "published_at": "2026-11-20T09:59:14Z",
+      "source_id": "tagesschau-st",
+      "language": "de",
+      "summary": "Batteriehersteller Eternity eröffnet Werk in Thale: Bis zu 140 Jobs im Harz geplant Mit Blick auf die kriselnde Automobilindustrie will der Landkreis Harz auch verstärkt auf andere Branchen setzen. Nun hat der Batteriehersteller Eternity seinen neuen Standort in Thale eröffnet.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d9a89156e5955b3bf13d5464",
+      "title": "Pulsa will öffentliches Laden mit der privaten Wallbox etablieren",
+      "url": "https://www.pv-magazine.de/2026/11/20/pulsa-will-oeffentliches-laden-mit-der-privaten-wallbox-etablieren/",
+      "published_at": "2026-11-20T08:05:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Pulsa will öffentliches Laden mit der privaten Wallbox etablieren Pulsa will – zunächst in den Niederlanden, Belgien und Deutschland – die private Ladeinfrastruktur öffentlich zugänglich machen. Wer eine Wallbox besitzt, kann sie anderen Elektroautofahrern zu selbst gewählten Konditionen und Zeitpunkten überlassen, die Abrechnung erfolgt automatisch. Nicht nur, aber ganz besonders interessant ist ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "90a8d9964145d59aa2e708f7",
+      "title": "Nach Abhörvorwurf vor Betriebsratswahl: Strafbefehl gegen Tesla-Werkschef in Grünheide erlassen",
+      "url": "https://www.golem.de/news/nach-abhoervorwurf-bei-betriebsratswahl-strafbefehl-gegen-tesla-werkschef-in-gruenheide-erlassen-2611-215442.html",
+      "published_at": "2026-11-20T06:20:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Nach Abhörvorwurf vor Betriebsratswahl: Strafbefehl gegen Tesla-Werkschef in Grünheide erlassen Der Autohersteller Tesla wirft der IG Metall vor, sie habe eine Betriebsratssitzung heimlich mitgeschnitten, und erhält dafür einen Strafbefehl. ( Tesla , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "1030e6e6394e972bdf128826",
       "title": "Xpeng L03 mit 1.000 km Reichweite: Weiterer China-Hersteller bietet Range Extender",
       "url": "https://www.golem.de/news/xpeng-l03-mit-1-000-km-reichweite-weiterer-china-hersteller-bietet-range-extender-2611-215434.html",

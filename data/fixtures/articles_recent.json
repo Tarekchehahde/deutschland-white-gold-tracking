@@ -2,13 +2,57 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "1030e6e6394e972bdf128826",
-      "title": "Xpeng L03 mit 1.000 km Reichweite: Weiterer China-Hersteller bietet Range Extender",
-      "url": "https://www.golem.de/news/xpeng-l03-mit-1-000-km-reichweite-weiterer-china-hersteller-bietet-range-extender-2611-215434.html",
-      "published_at": "2026-11-19T16:49:02Z",
+      "id": "c23fb59ab512a6b4021e5d94",
+      "title": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche",
+      "url": "https://www.swr3.de/aktuell/nachrichten/selbstfahrendes-elektroauto-parkversuch-100.html",
+      "published_at": "2026-11-20T11:26:03Z",
+      "source_id": "swr-aktuell-rss",
+      "language": "de",
+      "summary": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche Ein selbstfahrendes Elektroauto irrt stundenlang durch ein Parkhaus und findet keine passende Lücke. Erst nach 868 Parkversuchen kommt es endlich zum Stehen. Parkt ihr besser? 😂",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6037482beac724fec58341e9",
+      "title": "EV1: Kias kompaktes Elektroauto soll weniger als 22.000 Euro kosten",
+      "url": "https://www.golem.de/news/ev1-kias-kompaktes-elektroauto-soll-weniger-als-22-000-euro-kosten-2611-215461.html",
+      "published_at": "2026-11-20T11:15:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Xpeng L03 mit 1.000 km Reichweite: Weiterer China-Hersteller bietet Range Extender Mit zusätzlichem Benzinmotor soll der Xpeng L03 mehr als 1.000 km weit kommen. Die elektrische Reichweite ist jedoch recht klein. ( Xpeng , Elektroauto )",
+      "summary": "EV1: Kias kompaktes Elektroauto soll weniger als 22.000 Euro kosten Kias Elektro-Lineup beginnt beim EV2 - ein kleineres Auto soll 2027 fertig sein. Dabei dürfte es sich um den EV1 handeln. ( Kia , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "15b50c62e7910798bb31a70e",
+      "title": "Batteriehersteller Eternity eröffnet Werk in Thale: Bis zu 140 Jobs im Harz geplant",
+      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/eternity-batterien,batteriehersteller-thale-100.html",
+      "published_at": "2026-11-20T09:59:14Z",
+      "source_id": "tagesschau-st",
+      "language": "de",
+      "summary": "Batteriehersteller Eternity eröffnet Werk in Thale: Bis zu 140 Jobs im Harz geplant Mit Blick auf die kriselnde Automobilindustrie will der Landkreis Harz auch verstärkt auf andere Branchen setzen. Nun hat der Batteriehersteller Eternity seinen neuen Standort in Thale eröffnet.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d9a89156e5955b3bf13d5464",
+      "title": "Pulsa will öffentliches Laden mit der privaten Wallbox etablieren",
+      "url": "https://www.pv-magazine.de/2026/11/20/pulsa-will-oeffentliches-laden-mit-der-privaten-wallbox-etablieren/",
+      "published_at": "2026-11-20T08:05:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Pulsa will öffentliches Laden mit der privaten Wallbox etablieren Pulsa will – zunächst in den Niederlanden, Belgien und Deutschland – die private Ladeinfrastruktur öffentlich zugänglich machen. Wer eine Wallbox besitzt, kann sie anderen Elektroautofahrern zu selbst gewählten Konditionen und Zeitpunkten überlassen, die Abrechnung erfolgt automatisch. Nicht nur, aber ganz besonders interessant ist ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "90a8d9964145d59aa2e708f7",
+      "title": "Nach Abhörvorwurf vor Betriebsratswahl: Strafbefehl gegen Tesla-Werkschef in Grünheide erlassen",
+      "url": "https://www.golem.de/news/nach-abhoervorwurf-bei-betriebsratswahl-strafbefehl-gegen-tesla-werkschef-in-gruenheide-erlassen-2611-215442.html",
+      "published_at": "2026-11-20T06:20:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Nach Abhörvorwurf vor Betriebsratswahl: Strafbefehl gegen Tesla-Werkschef in Grünheide erlassen Der Autohersteller Tesla wirft der IG Metall vor, sie habe eine Betriebsratssitzung heimlich mitgeschnitten, und erhält dafür einen Strafbefehl. ( Tesla , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -23,17 +67,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "00d48178b4f37f52646d749e",
-      "title": "Stromsteuersenkung: Ein Nullsummenspiel für die Verbraucher",
-      "url": "https://www.golem.de/news/stromsteuersenkung-ein-nullsummenspiel-fuer-die-verbraucher-2611-215411.html",
-      "published_at": "2026-11-19T13:30:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Stromsteuersenkung: Ein Nullsummenspiel für die Verbraucher Die Koalition hat sich auf eine Senkung der Stromsteuer geeinigt. Das liegt jedoch vor allem an höheren Strompreisen und bringt E-Autofahrern wenig. Eine Analyse von Friedhelm Greis ( Strom , Elektroauto )",
-      "tags": [],
       "regions": []
     },
     {
@@ -57,72 +90,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "EWZ bietet 12,91 Rappen pro Kilowattstunde für Überschusseinspeisung aus Photovoltaik-Anlagen ab 2027 Der Schweizer Energiekonzern will Betreiber von Photovoltaik-Anlagen auch zur Installation eines Batteriespeichers motivieren und bietet dafür eine Förderung. Der erzeugte Solarstrom sollte zudem vorwiegend für den Eigenverbrauch oder die Quartiersversorgung genutzt werden, für die EWZ sogar 14 Ra",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bbb4f6ccbc8eafcd3c58a74e",
-      "title": "CMBLU errichtet 10-Stunden-Flowspeicher in Kalifornien",
-      "url": "https://www.pv-magazine.de/2026/11/19/cmblu-errichtet-10-stunden-flowspeicher-in-kalifornien/",
-      "published_at": "2026-11-19T10:46:47Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "CMBLU errichtet 10-Stunden-Flowspeicher in Kalifornien Das „SolidFlow-Batteriesystem wird im Auftrag der öffentlichen Wasser- und Energieversorgungsbehörde Imperial Irrigation District (IID) des US-Bundesstaats errichtet. Der Batteriespeicher wird eine Leistung von 10 Megawatt und eine Kapazität von 100 Megawattstunden haben.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bb608c27055df610bc4e9e72",
-      "title": "Wann ein Batteriespeicher wirklich baureif ist",
-      "url": "https://www.pv-magazine.de/2026/11/19/wann-ein-batteriespeicher-wirklich-baureif-ist/",
-      "published_at": "2026-11-19T08:54:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Wann ein Batteriespeicher wirklich baureif ist Viele Großspeicherprojekte werden derzeit als „Ready to Build“ verkauft. Dahinter stecken sehr unterschiedliche Reifegrade, erklären Constantin Ernst und Martin Davidsen von P3. Sie schlagen drei Stufen vor, die Käufern und Investoren mehr Klarheit geben.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "84d178093d4c2f6e8e80dc56",
-      "title": "AI Gigafactory im Norden: Nokia und Partner planen europäische KI-Infrastruktur",
-      "url": "https://www.heise.de/news/AI-Gigafactory-im-Norden-Nokia-und-Partner-planen-europaeische-KI-Infrastruktur-11530042.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-11-18T17:14:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "AI Gigafactory im Norden: Nokia und Partner planen europäische KI-Infrastruktur Ein nordisch-baltisches Konsortium will mit einer souveränen Cloud, grünem Strom und schnellen Netzen den EU-Wettbewerb für KI-Gigafactories aufmischen.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8a0217c795c1811db9c3bc2b",
-      "title": "FCA-Rechner: Je nach Modell sinken Batteriespeicher-Erlöse bis zu 29 Prozent",
-      "url": "https://www.pv-magazine.de/2026/11/18/fca-rechner-je-nach-modell-sinken-batteriespeicher-erloese-bis-zu-29-prozent/",
-      "published_at": "2026-11-18T16:02:13Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "FCA-Rechner: Je nach Modell sinken Batteriespeicher-Erlöse bis zu 29 Prozent Die Plattform „Regelleistung Online“ hat verschiedene Modelle flexibler Netzanschlussvereinbarungen und ihre Auswirkungen auf die Erlöse für Batteriespeicher berechnet. Bei 2-Stunden-Speichern können die Erlöse um 15 bis 29 Prozent niedriger ausfallen; bei 4-Stunden-Speichern sind es aktuell eher zwischen 11 und 20 Prozen",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1a7789f29b8b55ad7cb031e6",
-      "title": "Den FCA-Standard wird es nicht geben",
-      "url": "https://www.pv-magazine.de/2026/11/18/den-fca-standard-wird-es-nicht-geben/",
-      "published_at": "2026-11-18T15:03:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Den FCA-Standard wird es nicht geben Flexible Netzanschlussvereinbarungen werden aktuell heiß diskutiert. Eon kam just zur Intersolar mit einer Vorlage für einen Standard-FCA bei seinen Verteilnetzbetreibern heraus und hat damit erst einmal für Empörung gesorgt. Mit dem Blueprint von Green Flexibility gibt es mittlerweile ein standardisiertes Alternativmodell. Doch es zeigt sich: Vieles spricht me",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "bb4d43d4d39c4d470de27382",
-      "title": "Green Flexibility startet Bau von Batteriespeichern mit insgesamt 480 Megawattstunden in Niedersachsen",
-      "url": "https://www.pv-magazine.de/2026/11/18/green-flexibility-startet-bau-von-batteriespeichern-mit-insgesamt-480-megawattstunden-in-niedersachsen/",
-      "published_at": "2026-11-18T13:08:29Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Green Flexibility startet Bau von Batteriespeichern mit insgesamt 480 Megawattstunden in Niedersachsen Die Gesamtinvestition liegt bei rund 150 Millionen Euro. Während der erste von sechs Batteriespeicher in dem Bundesland nun gebaut wird, öffnete Green Flexibility seinen fertiggestellten Speicher in Obergünzburg kurz vor der Inbetriebnahme nochmal für die Öffentlichkeit.",
       "tags": [],
       "regions": []
     }
