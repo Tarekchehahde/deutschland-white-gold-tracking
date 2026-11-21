@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "c23fb59ab512a6b4021e5d94",
+      "title": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche",
+      "url": "https://www.swr3.de/aktuell/nachrichten/selbstfahrendes-elektroauto-parkversuch-100.html",
+      "published_at": "2026-11-21T10:00:41Z",
+      "source_id": "swr-aktuell-rss",
+      "language": "de",
+      "summary": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche Ein selbstfahrendes Elektroauto irrt stundenlang durch ein Parkhaus und findet keine passende Lücke. Erst nach 868 Parkversuchen kommt es endlich zum Stehen. Parkt ihr besser?",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "fb08557945205c12d02afbd8",
       "title": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren",
       "url": "https://www.golem.de/news/tesla-assisted-driving-tesla-darf-in-italien-schon-autonom-fahren-2611-215496.html",
@@ -31,17 +42,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Autonomes Fahren: Mercedes-Benz bekommt Zulassung für Selbstfahrassistenten Der neue Punkt-zu-Punkt-Fahrassistent von Mercedes-Benz hat die Zulassung des KBA erhalten. ( Mercedes Benz , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6037482beac724fec58341e9",
-      "title": "EV1: Kias kompaktes Elektroauto soll weniger als 22.000 Euro kosten",
-      "url": "https://www.golem.de/news/ev1-kias-kompaktes-elektroauto-soll-weniger-als-22-000-euro-kosten-2611-215461.html",
-      "published_at": "2026-11-20T11:15:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "EV1: Kias kompaktes Elektroauto soll weniger als 22.000 Euro kosten Kias Elektro-Lineup beginnt beim EV2 - ein kleineres Auto soll 2027 fertig sein. Dabei dürfte es sich um den EV1 handeln. ( Kia , Elektroauto )",
       "tags": [],
       "regions": []
     },
