@@ -1,6 +1,6 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-20T23:59:26Z",
+  "generated_at_utc": "2026-11-21T13:27:51Z",
   "archive_article_cap": 3500,
   "total_in_archive": 1044,
   "articles_per_month": {
@@ -13,6 +13,17 @@
     "2026-11": 136
   },
   "recent_for_ui": [
+    {
+      "id": "c23fb59ab512a6b4021e5d94",
+      "title": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche",
+      "url": "https://www.swr3.de/aktuell/nachrichten/selbstfahrendes-elektroauto-parkversuch-100.html",
+      "published_at": "2026-11-21T10:00:41Z",
+      "source_id": "swr-aktuell-rss",
+      "language": "de",
+      "summary": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche Ein selbstfahrendes Elektroauto irrt stundenlang durch ein Parkhaus und findet keine passende Lücke. Erst nach 868 Parkversuchen kommt es endlich zum Stehen. Parkt ihr besser?",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "fb08557945205c12d02afbd8",
       "title": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren",
@@ -43,17 +54,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Autonomes Fahren: Mercedes-Benz bekommt Zulassung für Selbstfahrassistenten Der neue Punkt-zu-Punkt-Fahrassistent von Mercedes-Benz hat die Zulassung des KBA erhalten. ( Mercedes Benz , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c23fb59ab512a6b4021e5d94",
-      "title": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche",
-      "url": "https://www.swr3.de/aktuell/nachrichten/selbstfahrendes-elektroauto-parkversuch-100.html",
-      "published_at": "2026-11-20T11:26:03Z",
-      "source_id": "swr-aktuell-rss",
-      "language": "de",
-      "summary": "Selbstfahrendes Elektroauto braucht mehr als 800 Parkversuche Ein selbstfahrendes Elektroauto irrt stundenlang durch ein Parkhaus und findet keine passende Lücke. Erst nach 868 Parkversuchen kommt es endlich zum Stehen. Parkt ihr besser? 😂",
       "tags": [],
       "regions": []
     },
