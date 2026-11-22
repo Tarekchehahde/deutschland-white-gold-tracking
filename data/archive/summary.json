@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-22T13:19:58Z",
+  "generated_at_utc": "2026-11-22T23:37:04Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1044,
+  "total_in_archive": 1045,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,20 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 136
+    "2026-11": 137
   },
   "recent_for_ui": [
+    {
+      "id": "7b8dd5a7a87109734c6e392f",
+      "title": "Gebrauchte Elektroautos: Alternative oder Schrott?",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
+      "published_at": "2026-11-22T15:36:15Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Gebrauchte Elektroautos: Alternative oder Schrott? Elektroautos sind gefragter denn je - auch angesichts steigender Kraftstoffpreise. Mit Verzögerung zeigt sich der Boom nun bei Gebrauchtwagenhändlern, allerdings mit Einschränkungen. Von Jörn Kersten.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c23fb59ab512a6b4021e5d94",
       "title": "Selbstfahrendes E-Auto versucht mehr als 800 Mal einzuparken ...",
@@ -4571,19 +4582,6 @@
       "language": "de",
       "summary": "Elektroauto gebraucht kaufen: Spritpreis-Schock verknappt das Angebot günstiger Stromer Sprit ist teuer wie nie – viele Autofahrer wollen rasch auf einen Elektro-Pkw umsteigen. Doch auf Neuwagen müssen sie lange warten, die Preise für Gebrauchte heben ab. Welche Modelle noch relativ gut zu haben sind.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "2f424a606f3a109f392ea1cc",
-      "title": "Gescheiterte Finanzierung löste Enerparc-Insolvenz aus – Investorenprozess soll bald starten",
-      "url": "https://www.pv-magazine.de/2026/09/15/gescheiterte-finanzierung-loeste-enerparc-insolvenz-aus-investorenprozess-soll-bald-starten/",
-      "published_at": "2026-09-15T15:27:21Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Gescheiterte Finanzierung löste Enerparc-Insolvenz aus – Investorenprozess soll bald starten Der Insolvenzverwalter des Hamburger Photovoltaik-Unternehmens äußerte sich erstmals zu den Hintergründen des Verfahrens. Er will in Kürze einen Investorenprozess eröffnen. 90 Photovoltaik-Anlagen, teilweise mit Batteriespeichern, befinden sich aktuell im Bau. Oberste Priorität hat derzeit, bei den am weit",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]
