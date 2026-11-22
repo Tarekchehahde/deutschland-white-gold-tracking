@@ -2,6 +2,17 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "7b8dd5a7a87109734c6e392f",
+      "title": "Gebrauchte Elektroautos: Alternative oder Schrott?",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
+      "published_at": "2026-11-22T15:36:15Z",
+      "source_id": "tagesschau-wirtschaft",
+      "language": "de",
+      "summary": "Gebrauchte Elektroautos: Alternative oder Schrott? Elektroautos sind gefragter denn je - auch angesichts steigender Kraftstoffpreise. Mit Verzögerung zeigt sich der Boom nun bei Gebrauchtwagenhändlern, allerdings mit Einschränkungen. Von Jörn Kersten.",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "fb08557945205c12d02afbd8",
       "title": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren",
       "url": "https://www.golem.de/news/tesla-assisted-driving-tesla-darf-in-italien-schon-autonom-fahren-2611-215496.html",
