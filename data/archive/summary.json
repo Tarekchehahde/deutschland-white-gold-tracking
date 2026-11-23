@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-22T23:37:04Z",
+  "generated_at_utc": "2026-11-23T15:57:41Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1045,
+  "total_in_archive": 1047,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,33 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 137
+    "2026-11": 139
   },
   "recent_for_ui": [
+    {
+      "id": "2c264aac752b31bd86d9be46",
+      "title": "Probefahrt mit Mercedes GLA: Wie hinter einem Atomtransport",
+      "url": "https://www.golem.de/news/probefahrt-mit-mercedes-gla-wie-hinter-einem-atomtransport-2611-215546.html",
+      "published_at": "2026-11-23T15:13:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt mit Mercedes GLA: Wie hinter einem Atomtransport Mercedes-Benz zieht einen Schlussstrich unter seine EQ-Phase. Der EQA-Nachfolger GLA überzeugt mit niedrigem Verbrauch. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "7f7f80a498449599a501506e",
+      "title": "China: Elektroautos parken Hunderte Male ein und aus wegen Park-Wettbewerb",
+      "url": "https://www.golem.de/news/china-elektroautos-parken-hunderte-male-ein-und-aus-wegen-park-wettbewerb-2611-215520.html",
+      "published_at": "2026-11-23T09:09:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "China: Elektroautos parken Hunderte Male ein und aus wegen Park-Wettbewerb Elektroautos in China haben in den vergangenen Tagen über Nacht Hunderte eigenständige Parkmanöver durchgeführt - was war da los? ( Elektroauto , Huawei )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "7b8dd5a7a87109734c6e392f",
       "title": "Gebrauchte Elektroautos: Alternative oder Schrott?",
@@ -4560,28 +4584,6 @@
       "tags": [
         "politik"
       ],
-      "regions": []
-    },
-    {
-      "id": "e649556fac2a26c35b0b260b",
-      "title": "VW ID.Neo GTI: Alter Wein in roten Schläuchen",
-      "url": "https://www.golem.de/news/vw-id-neo-gti-alter-wein-in-roten-schlaeuchen-2609-213066.html",
-      "published_at": "2026-09-16T08:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "VW ID.Neo GTI: Alter Wein in roten Schläuchen VW bringt erstmals eine GTI-Version des ID.3 auf den Markt. Die Leistungsdaten erinnern stark an ein früheres Elektroauto-Modell. Ein Bericht von Friedhelm Greis ( Volkswagen ID. , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fa4696115c277ddee81d323d",
-      "title": "Elektroauto gebraucht kaufen: Spritpreis-Schock verknappt das Angebot günstiger Stromer",
-      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-gebraucht-kaufen-spritpreis-schock-verknappt-das-angebot-guenstiger-stromer-a-262c2b77-6293-4fb7-ab1b-fdf1e9356e9b",
-      "published_at": "2026-09-15T17:36:00Z",
-      "source_id": "spiegel-schlagzeilen",
-      "language": "de",
-      "summary": "Elektroauto gebraucht kaufen: Spritpreis-Schock verknappt das Angebot günstiger Stromer Sprit ist teuer wie nie – viele Autofahrer wollen rasch auf einen Elektro-Pkw umsteigen. Doch auf Neuwagen müssen sie lange warten, die Preise für Gebrauchte heben ab. Welche Modelle noch relativ gut zu haben sind.",
-      "tags": [],
       "regions": []
     }
   ]
