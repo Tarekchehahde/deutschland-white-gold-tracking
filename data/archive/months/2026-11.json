@@ -1,8 +1,32 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 137,
+  "article_count": 139,
   "articles": [
+    {
+      "id": "2c264aac752b31bd86d9be46",
+      "title": "Probefahrt mit Mercedes GLA: Wie hinter einem Atomtransport",
+      "url": "https://www.golem.de/news/probefahrt-mit-mercedes-gla-wie-hinter-einem-atomtransport-2611-215546.html",
+      "published_at": "2026-11-23T15:13:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt mit Mercedes GLA: Wie hinter einem Atomtransport Mercedes-Benz zieht einen Schlussstrich unter seine EQ-Phase. Der EQA-Nachfolger GLA überzeugt mit niedrigem Verbrauch. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "7f7f80a498449599a501506e",
+      "title": "China: Elektroautos parken Hunderte Male ein und aus wegen Park-Wettbewerb",
+      "url": "https://www.golem.de/news/china-elektroautos-parken-hunderte-male-ein-und-aus-wegen-park-wettbewerb-2611-215520.html",
+      "published_at": "2026-11-23T09:09:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "China: Elektroautos parken Hunderte Male ein und aus wegen Park-Wettbewerb Elektroautos in China haben in den vergangenen Tagen über Nacht Hunderte eigenständige Parkmanöver durchgeführt - was war da los? ( Elektroauto , Huawei )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "7b8dd5a7a87109734c6e392f",
       "title": "Gebrauchte Elektroautos: Alternative oder Schrott?",

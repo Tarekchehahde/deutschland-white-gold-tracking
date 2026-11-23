@@ -2,6 +2,30 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "2c264aac752b31bd86d9be46",
+      "title": "Probefahrt mit Mercedes GLA: Wie hinter einem Atomtransport",
+      "url": "https://www.golem.de/news/probefahrt-mit-mercedes-gla-wie-hinter-einem-atomtransport-2611-215546.html",
+      "published_at": "2026-11-23T15:13:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt mit Mercedes GLA: Wie hinter einem Atomtransport Mercedes-Benz zieht einen Schlussstrich unter seine EQ-Phase. Der EQA-Nachfolger GLA überzeugt mit niedrigem Verbrauch. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "7f7f80a498449599a501506e",
+      "title": "China: Elektroautos parken Hunderte Male ein und aus wegen Park-Wettbewerb",
+      "url": "https://www.golem.de/news/china-elektroautos-parken-hunderte-male-ein-und-aus-wegen-park-wettbewerb-2611-215520.html",
+      "published_at": "2026-11-23T09:09:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "China: Elektroautos parken Hunderte Male ein und aus wegen Park-Wettbewerb Elektroautos in China haben in den vergangenen Tagen über Nacht Hunderte eigenständige Parkmanöver durchgeführt - was war da los? ( Elektroauto , Huawei )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "7b8dd5a7a87109734c6e392f",
       "title": "Gebrauchte Elektroautos: Alternative oder Schrott?",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
@@ -9,39 +33,6 @@
       "source_id": "tagesschau-wirtschaft",
       "language": "de",
       "summary": "Gebrauchte Elektroautos: Alternative oder Schrott? Elektroautos sind gefragter denn je - auch angesichts steigender Kraftstoffpreise. Mit Verzögerung zeigt sich der Boom nun bei Gebrauchtwagenhändlern, allerdings mit Einschränkungen. Von Jörn Kersten.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "fb08557945205c12d02afbd8",
-      "title": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren",
-      "url": "https://www.golem.de/news/tesla-assisted-driving-tesla-darf-in-italien-schon-autonom-fahren-2611-215496.html",
-      "published_at": "2026-11-20T18:46:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren Italien lässt Teslas Fahrasssistenzsystem als erstes großes EU-Land zu. Damit wächst der Druck auf die EU vor der Abstimmung im Dezember. ( Tesla , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "30c9525f0f7fef6404b366f0",
-      "title": "KBA: Neue Webseite bietet interaktiven Überblick zur Elektromobilität",
-      "url": "https://www.golem.de/news/kba-neue-webseite-bietet-interaktiven-ueberblick-zur-elektromobilitaet-2611-215490.html",
-      "published_at": "2026-11-20T16:11:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "KBA: Neue Webseite bietet interaktiven Überblick zur Elektromobilität Das KBA will Interessenten einen Einstieg in Daten und Analysen zur Elektromobilität anbieten. Dafür gibt es eine neue Webseite. ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "52dd0317bba75b9a8f94eaf4",
-      "title": "Autonomes Fahren: Mercedes-Benz bekommt Zulassung für Selbstfahrassistenten",
-      "url": "https://www.golem.de/news/autonomes-fahren-mercedes-benz-bekommt-zulassung-fuer-selbstfahrassistenten-2611-215487.html",
-      "published_at": "2026-11-20T15:54:04Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Autonomes Fahren: Mercedes-Benz bekommt Zulassung für Selbstfahrassistenten Der neue Punkt-zu-Punkt-Fahrassistent von Mercedes-Benz hat die Zulassung des KBA erhalten. ( Mercedes Benz , Elektroauto )",
       "tags": [],
       "regions": []
     },
@@ -54,30 +45,6 @@
       "language": "de",
       "summary": "Batteriehersteller Eternity eröffnet Werk in Thale: Bis zu 140 Jobs im Harz geplant Mit Blick auf die kriselnde Automobilindustrie will der Landkreis Harz auch verstärkt auf andere Branchen setzen. Nun hat der Batteriehersteller Eternity seinen neuen Standort in Thale eröffnet.",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d9a89156e5955b3bf13d5464",
-      "title": "Pulsa will öffentliches Laden mit der privaten Wallbox etablieren",
-      "url": "https://www.pv-magazine.de/2026/11/20/pulsa-will-oeffentliches-laden-mit-der-privaten-wallbox-etablieren/",
-      "published_at": "2026-11-20T08:05:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Pulsa will öffentliches Laden mit der privaten Wallbox etablieren Pulsa will – zunächst in den Niederlanden, Belgien und Deutschland – die private Ladeinfrastruktur öffentlich zugänglich machen. Wer eine Wallbox besitzt, kann sie anderen Elektroautofahrern zu selbst gewählten Konditionen und Zeitpunkten überlassen, die Abrechnung erfolgt automatisch. Nicht nur, aber ganz besonders interessant ist ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "72050b55955dc9cc30b8f501",
-      "title": "Voltwise baut 125 Megawattstunden-Speicher in Nordrhein-Westfalen",
-      "url": "https://www.pv-magazine.de/2026/11/19/voltwise-baut-125-megawattstunden-speicher-in-nordrhein-westfalen/",
-      "published_at": "2026-11-19T15:10:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Voltwise baut 125 Megawattstunden-Speicher in Nordrhein-Westfalen Der Batteriespeicher mit 56 Megawatt Leistung soll in der zweiten Jahreshälfte 2027 in Betrieb gehen. Es ist der erste große Batteriespeicher des Unternehmens in Deutschland.",
-      "tags": [
-        "industrie"
-      ],
       "regions": []
     }
   ]
