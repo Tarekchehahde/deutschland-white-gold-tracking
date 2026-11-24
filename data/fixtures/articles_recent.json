@@ -2,26 +2,52 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "2c264aac752b31bd86d9be46",
-      "title": "Probefahrt mit Mercedes GLA: Wie hinter einem Atomtransport",
-      "url": "https://www.golem.de/news/probefahrt-mit-mercedes-gla-wie-hinter-einem-atomtransport-2611-215546.html",
-      "published_at": "2026-11-23T15:13:01Z",
+      "id": "abaae39b60d29f8b89815e1f",
+      "title": "Nahe deutscher Grenze: BYD will Automobilwerk in Frankreich übernehmen",
+      "url": "https://www.golem.de/news/nahe-deutscher-grenze-byd-will-automobilwerk-in-frankreich-uebernehmen-2611-215592.html",
+      "published_at": "2026-11-24T14:38:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Probefahrt mit Mercedes GLA: Wie hinter einem Atomtransport Mercedes-Benz zieht einen Schlussstrich unter seine EQ-Phase. Der EQA-Nachfolger GLA überzeugt mit niedrigem Verbrauch. Ein Bericht von Dirk Kunde ( Elektroauto , Auto )",
+      "summary": "Nahe deutscher Grenze: BYD will Automobilwerk in Frankreich übernehmen Unweit der Grenze zu Deutschland will BYD eine Autofabrik kaufen. Mit in der EU produzierten Fahrzeugen würden Zölle umgangen. ( BYD , Elektroauto )",
       "tags": [
-        "exploration"
+        "industrie"
       ],
       "regions": []
     },
     {
-      "id": "7f7f80a498449599a501506e",
-      "title": "China: Elektroautos parken Hunderte Male ein und aus wegen Park-Wettbewerb",
-      "url": "https://www.golem.de/news/china-elektroautos-parken-hunderte-male-ein-und-aus-wegen-park-wettbewerb-2611-215520.html",
-      "published_at": "2026-11-23T09:09:01Z",
-      "source_id": "golem-rss",
+      "id": "a8d240139327a99792de78be",
+      "title": "Cylib übernimmt Batterierecycling-Geschäft von BASF",
+      "url": "https://www.pv-magazine.de/2026/11/24/cylib-uebernimmt-batterierecycling-geschaeft-von-basf/",
+      "published_at": "2026-11-24T10:20:00Z",
+      "source_id": "pv-magazine-de",
       "language": "de",
-      "summary": "China: Elektroautos parken Hunderte Male ein und aus wegen Park-Wettbewerb Elektroautos in China haben in den vergangenen Tagen über Nacht Hunderte eigenständige Parkmanöver durchgeführt - was war da los? ( Elektroauto , Huawei )",
+      "summary": "Cylib übernimmt Batterierecycling-Geschäft von BASF Mit dem Zukauf will das Aachener Unternehmen seine Aktivitäten in Europa erweitern und den nordamerikanischen Markt erschließen. BASF konzentriert sein Batteriematerialgeschäft künftig auf Kathodenmaterialien. Die Transaktion soll im zweiten oder dritten Quartal 2027 abgeschlossen werden.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "e89b2df59c03f5071b74b654",
+      "title": "Kyon Energy startet technische Inbetriebnahme von 203-Megawattstunden-Batteriespeicher in Nordrhein-Westfalen",
+      "url": "https://www.pv-magazine.de/2026/11/24/kyon-energy-startet-technische-inbetriebnahme-von-203-megawattstunden-batteriespeicher-in-nordrhein-westfalen/",
+      "published_at": "2026-11-24T09:30:26Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Kyon Energy startet technische Inbetriebnahme von 203-Megawattstunden-Batteriespeicher in Nordrhein-Westfalen Der in Dahlem errichtete Großspeicher mit 100 Megawatt Leistung befindet sich nun in der technischen Test- und Prüfphase. Der kommerzielle Betrieb soll dem Unternehmen zufolge in Kürze beginnen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "d89ac0deafe2b41f96901b6c",
+      "title": "Dataforce: Skoda Elroq überholt im Oktober kurzzeitig Teslas Model Y",
+      "url": "https://www.heise.de/news/Dataforce-Skoda-Elroq-ueberholt-im-Oktober-kurzzeitig-Teslas-Model-Y-11534964.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-11-24T06:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Dataforce: Skoda Elroq überholt im Oktober kurzzeitig Teslas Model Y Im Oktober war der Skoda Elroq laut vorläufigen Dataforce-Daten Europas kurz meistzugelassenes Elektroauto. Den Ausschlag gab vor allem Teslas Quartalsrhythmus.",
       "tags": [],
       "regions": []
     },

@@ -3,13 +3,13 @@
   "articles_per_day": {
     "2026-11-20": 1,
     "2026-11-22": 1,
-    "2026-11-23": 2
+    "2026-11-24": 4
   },
   "tag_counts": {
-    "exploration": 1
+    "industrie": 3
   },
   "by_source_category": {
-    "national": 3,
+    "national": 5,
     "regional": 1
   }
 }
