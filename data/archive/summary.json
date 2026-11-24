@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-24T03:57:52Z",
+  "generated_at_utc": "2026-11-24T15:52:35Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1047,
+  "total_in_archive": 1051,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,59 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 139
+    "2026-11": 143
   },
   "recent_for_ui": [
+    {
+      "id": "abaae39b60d29f8b89815e1f",
+      "title": "Nahe deutscher Grenze: BYD will Automobilwerk in Frankreich übernehmen",
+      "url": "https://www.golem.de/news/nahe-deutscher-grenze-byd-will-automobilwerk-in-frankreich-uebernehmen-2611-215592.html",
+      "published_at": "2026-11-24T14:38:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Nahe deutscher Grenze: BYD will Automobilwerk in Frankreich übernehmen Unweit der Grenze zu Deutschland will BYD eine Autofabrik kaufen. Mit in der EU produzierten Fahrzeugen würden Zölle umgangen. ( BYD , Elektroauto )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "a8d240139327a99792de78be",
+      "title": "Cylib übernimmt Batterierecycling-Geschäft von BASF",
+      "url": "https://www.pv-magazine.de/2026/11/24/cylib-uebernimmt-batterierecycling-geschaeft-von-basf/",
+      "published_at": "2026-11-24T10:20:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Cylib übernimmt Batterierecycling-Geschäft von BASF Mit dem Zukauf will das Aachener Unternehmen seine Aktivitäten in Europa erweitern und den nordamerikanischen Markt erschließen. BASF konzentriert sein Batteriematerialgeschäft künftig auf Kathodenmaterialien. Die Transaktion soll im zweiten oder dritten Quartal 2027 abgeschlossen werden.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "e89b2df59c03f5071b74b654",
+      "title": "Kyon Energy startet technische Inbetriebnahme von 203-Megawattstunden-Batteriespeicher in Nordrhein-Westfalen",
+      "url": "https://www.pv-magazine.de/2026/11/24/kyon-energy-startet-technische-inbetriebnahme-von-203-megawattstunden-batteriespeicher-in-nordrhein-westfalen/",
+      "published_at": "2026-11-24T09:30:26Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Kyon Energy startet technische Inbetriebnahme von 203-Megawattstunden-Batteriespeicher in Nordrhein-Westfalen Der in Dahlem errichtete Großspeicher mit 100 Megawatt Leistung befindet sich nun in der technischen Test- und Prüfphase. Der kommerzielle Betrieb soll dem Unternehmen zufolge in Kürze beginnen.",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "d89ac0deafe2b41f96901b6c",
+      "title": "Dataforce: Skoda Elroq überholt im Oktober kurzzeitig Teslas Model Y",
+      "url": "https://www.heise.de/news/Dataforce-Skoda-Elroq-ueberholt-im-Oktober-kurzzeitig-Teslas-Model-Y-11534964.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-11-24T06:30:00Z",
+      "source_id": "heise-news",
+      "language": "de",
+      "summary": "Dataforce: Skoda Elroq überholt im Oktober kurzzeitig Teslas Model Y Im Oktober war der Skoda Elroq laut vorläufigen Dataforce-Daten Europas kurz meistzugelassenes Elektroauto. Den Ausschlag gab vor allem Teslas Quartalsrhythmus.",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "2c264aac752b31bd86d9be46",
       "title": "Probefahrt mit Mercedes GLA: Wie hinter einem Atomtransport",
@@ -4538,52 +4588,6 @@
       "language": "de",
       "summary": "IAB aus 2023: Warum der Dezember für die Speicherbranche zu spät ist Auch für Batteriespeicher läuft bei kalendergleichem Wirtschaftsjahr zum 31. Dezember 2026 die Investitionsfrist für Investitionsabzugsbeträge aus dem Jahr 2023 ab. Wer bis dahin keine ausreichende begünstigte Investition vorgenommen und den IAB nicht entsprechend verwendet hat, muss ihn rückwirkend für 2023 rückgängig machen. Da",
       "tags": [],
-      "regions": []
-    },
-    {
-      "id": "1d88866ea1c9196a758d2db0",
-      "title": "Elektroauto: Audi A4 E-Tron kommt offenbar erst 2029",
-      "url": "https://www.golem.de/news/elektroauto-audi-a4-e-tron-kommt-offenbar-erst-2029-2609-213127.html",
-      "published_at": "2026-09-17T05:42:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Elektroauto: Audi A4 E-Tron kommt offenbar erst 2029 Der elektrische Audi A4 verzögert sich nach Konzerninformationen um fast ein Jahr. Die neue SSP-Plattform gerät insgesamt rund drei Jahre in Verzug. ( Audi , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "276b760e5c59c38ce2cc485c",
-      "title": "Selbstzertifizierung: Tesla muss Verkehrssicherheit seiner Cybercabs nachweisen - unter Eid",
-      "url": "https://www.golem.de/news/selbstzertifizierung-tesla-muss-verkehrssicherheit-seiner-cybercabs-nachweisen-unter-eid-2609-213115.html",
-      "published_at": "2026-09-16T14:23:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Selbstzertifizierung: Tesla muss Verkehrssicherheit seiner Cybercabs nachweisen - unter Eid Die US-amerikanische Verkehrsbehörde verlangt, dass Tesla Beweise für die legale Zulassung seiner Cybercabs vorlegt. Das dürfte Tesla nicht gelingen. ( Cybercab , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "5a2bcce09c40a680a64cd4ea",
-      "title": "Zelestra und Salzgitter Flachstahl unterzeichnen Hybrid-PPA für Photovoltaik und Batteriespeicher",
-      "url": "https://www.pv-magazine.de/2026/09/16/zelestra-und-salzgitter-flachstahl-unterzeichnen-hybrid-ppa-fuer-photovoltaik-und-batteriespeicher/",
-      "published_at": "2026-09-16T13:40:07Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Zelestra und Salzgitter Flachstahl unterzeichnen Hybrid-PPA für Photovoltaik und Batteriespeicher Der hybride kommerzielle PPA kombiniert 147 Megawatt Photovoltaik mit 237 Megawattstunden Speicherkapazität für die Umstellung auf grünen Stahl.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "559de5f630b79339da0680ab",
-      "title": "Mobilität: Bau des bundesweiten E-Lkw-Ladenetzes an Autobahnen startet",
-      "url": "https://www.golem.de/news/mobilitaet-bau-des-bundesweiten-e-lkw-ladenetzes-an-autobahnen-startet-2609-213106.html",
-      "published_at": "2026-09-16T13:24:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Mobilität: Bau des bundesweiten E-Lkw-Ladenetzes an Autobahnen startet Verkehrsminister Bilger hat den Start des Ausbaus eines bundesweiten E-Lkw-Ladenetzwerks verkündet. Zunächst werden 124 Ladepunkte eingerichtet. ( Lkw , Elektroauto )",
-      "tags": [
-        "politik"
-      ],
       "regions": []
     }
   ]
