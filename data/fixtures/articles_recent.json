@@ -2,38 +2,75 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "c7986762e85275f744ca6aaf",
-      "title": "Kilow La Bagnole: Elektrischer Mini-Jeep aus Frankreich kostet ab 10.800 Euro",
-      "url": "https://www.golem.de/news/kilow-la-bagnole-elektrischer-mini-jeep-aus-frankreich-kostet-ab-10-800-euro-2611-215603.html",
-      "published_at": "2026-11-24T16:55:02Z",
+      "id": "9d7f7bde2c500df5e4491038",
+      "title": "Elektroautos: \"Geisterfabrik\" in China kostet Audi Hunderte Millionen",
+      "url": "https://www.golem.de/news/elektroautos-geisterfabrik-in-china-kostet-audi-hunderte-millionen-2611-215657.html",
+      "published_at": "2026-11-25T15:30:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Kilow La Bagnole: Elektrischer Mini-Jeep aus Frankreich kostet ab 10.800 Euro Der La Bagnole von Kilow ist ein vielseitiger kleiner Elektro-Jeep, der als Pritschen- oder als Kastenwagen genutzt werden kann. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f6418ece04cd543cebc2407f",
-      "title": "Einfuhrkontrolle: EU legt Importzahlen für chinesische Hybride fest",
-      "url": "https://www.golem.de/news/einfuhrkontrolle-eu-legt-importzahlen-fuer-chinesische-hybride-fest-2611-215599.html",
-      "published_at": "2026-11-24T16:05:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Einfuhrkontrolle: EU legt Importzahlen für chinesische Hybride fest Hybridfahrzeuge aus chinesischer Produktion überschwemmen den europäischen Markt. Das soll im kommenden Jahr anders werden. ( Plugin-Hybrid , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "abaae39b60d29f8b89815e1f",
-      "title": "Nahe deutscher Grenze: BYD will Automobilwerk in Frankreich übernehmen",
-      "url": "https://www.golem.de/news/nahe-deutscher-grenze-byd-will-automobilwerk-in-frankreich-uebernehmen-2611-215592.html",
-      "published_at": "2026-11-24T14:38:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Nahe deutscher Grenze: BYD will Automobilwerk in Frankreich übernehmen Unweit der Grenze zu Deutschland will BYD eine Autofabrik kaufen. Mit in der EU produzierten Fahrzeugen würden Zölle umgangen. ( BYD , Elektroauto )",
+      "summary": "Elektroautos: \"Geisterfabrik\" in China kostet Audi Hunderte Millionen Audis neue Fabrik für Elektroautos in China ist kaum ausgelastet. E-Tron-Modelle wie der Q6 oder A6 verkaufen sich sehr schlecht. ( Audi , Technologie )",
       "tags": [
         "industrie"
       ],
+      "regions": []
+    },
+    {
+      "id": "04b0cbe79be81aaedff0544e",
+      "title": "Marktkonzentration bei steuerbarer Stromerzeugung nach wie vor hoch",
+      "url": "https://www.pv-magazine.de/2026/11/25/marktkonzentration-bei-steuerbarer-stromerzeugung-nach-wie-vor-hoch/",
+      "published_at": "2026-11-25T11:38:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Marktkonzentration bei steuerbarer Stromerzeugung nach wie vor hoch Der neue Monitoringbericht von Bundesnetzagentur und Bundeskartellamt zeigt, dass 2025 rund 53 Prozent der Stromerzeugung aus steuerbaren Anlagen auf fünf Unternehmen entfielen. Batteriespeicher sollten bei den kommenden Ausschreibungen für steuerbare Kraftwerkskapazitäten nicht behindert werden, so die Behörden – sie können die S",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "9ed41abf4ede316dcf8b01f8",
+      "title": "Sitzheizung: New York verbietet zahlreiche Abofunktionen in Autos",
+      "url": "https://www.golem.de/news/sitzheizung-new-york-verbietet-zahlreiche-abofunktionen-in-autos-2611-215637.html",
+      "published_at": "2026-11-25T10:22:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Sitzheizung: New York verbietet zahlreiche Abofunktionen in Autos Sitzheizung, erweiterte Navigation oder Fahrassistenzfunktionen dürfen im US-Bundesstaat New York künftig kein Abo mehr sein. ( Auto , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f8ded38342bc07471be7a79f",
+      "title": "Steigende Preise, schrumpfende Preisspannen: Batterieerlöse im Oktober",
+      "url": "https://www.pv-magazine.de/2026/11/25/steigende-preise-schrumpfende-preisspannen-batterieerloese-im-oktober/",
+      "published_at": "2026-11-25T09:22:06Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Steigende Preise, schrumpfende Preisspannen: Batterieerlöse im Oktober Obwohl die Strompreise im Oktober erneut deutlich anzogen, gingen die Erlöse für Batteriespeicher sowohl an den Großhandels- als auch an den Regelenergiemärkten zurück. Lennard Wilkening, CEO und Mitgründer von Suena Energy, beleuchtet die Hintergründe dieser Entwicklung und ordnet ein, was sie für den Batteriehandel in den kom",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6a69ae6530c541f0bfcb7c7c",
+      "title": "Probefahrt mit dem Slate Truck: Der Billig-Pick-up für 25.000 US-Dollar",
+      "url": "https://www.golem.de/news/probefahrt-mit-dem-slate-truck-der-billig-pick-up-fuer-25-000-us-dollar-2611-215536.html",
+      "published_at": "2026-11-25T09:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt mit dem Slate Truck: Der Billig-Pick-up für 25.000 US-Dollar Ein Elektro-Pick-up für nur 25.000 Dollar, fast ohne Komfort: Das von Jeff Bezos mitfinanzierte Start-up Slate will mit einem Billigmodell punkten. Golem ist den Truck gefahren. Ein Bericht von Stefan Grundhoff ( Elektroauto , Auto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "c0bbc29209bb2263b33c919a",
+      "title": "Vehicle-to-Grid: VW zahlt bis zu 720 Euro fürs Einstecken des E-Autos",
+      "url": "https://www.golem.de/news/vehicle-to-grid-vw-zahlt-bis-zu-720-euro-fuers-einstecken-des-e-autos-2611-215622.html",
+      "published_at": "2026-11-25T07:43:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Vehicle-to-Grid: VW zahlt bis zu 720 Euro fürs Einstecken des E-Autos Elli startet im Dezember V2G für VW, Cupra und Skoda. Der Bonus beträgt bis zu 720 Euro, die Wallbox kostet 1.995 Euro. ( Wallbox , Elektroauto )",
+      "tags": [],
       "regions": []
     },
     {
@@ -47,41 +84,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "e89b2df59c03f5071b74b654",
-      "title": "Kyon Energy startet technische Inbetriebnahme von 203-Megawattstunden-Batteriespeicher in Nordrhein-Westfalen",
-      "url": "https://www.pv-magazine.de/2026/11/24/kyon-energy-startet-technische-inbetriebnahme-von-203-megawattstunden-batteriespeicher-in-nordrhein-westfalen/",
-      "published_at": "2026-11-24T09:30:26Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Kyon Energy startet technische Inbetriebnahme von 203-Megawattstunden-Batteriespeicher in Nordrhein-Westfalen Der in Dahlem errichtete Großspeicher mit 100 Megawatt Leistung befindet sich nun in der technischen Test- und Prüfphase. Der kommerzielle Betrieb soll dem Unternehmen zufolge in Kürze beginnen.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "d89ac0deafe2b41f96901b6c",
-      "title": "Dataforce: Skoda Elroq überholt im Oktober kurzzeitig Teslas Model Y",
-      "url": "https://www.heise.de/news/Dataforce-Skoda-Elroq-ueberholt-im-Oktober-kurzzeitig-Teslas-Model-Y-11534964.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-11-24T06:30:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Dataforce: Skoda Elroq überholt im Oktober kurzzeitig Teslas Model Y Im Oktober war der Skoda Elroq laut vorläufigen Dataforce-Daten Europas kurz meistzugelassenes Elektroauto. Den Ausschlag gab vor allem Teslas Quartalsrhythmus.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7b8dd5a7a87109734c6e392f",
-      "title": "Gebrauchte Elektroautos: Alternative oder Schrott?",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
-      "published_at": "2026-11-22T15:36:15Z",
-      "source_id": "tagesschau-wirtschaft",
-      "language": "de",
-      "summary": "Gebrauchte Elektroautos: Alternative oder Schrott? Elektroautos sind gefragter denn je - auch angesichts steigender Kraftstoffpreise. Mit Verzögerung zeigt sich der Boom nun bei Gebrauchtwagenhändlern, allerdings mit Einschränkungen. Von Jörn Kersten.",
-      "tags": [],
       "regions": []
     },
     {

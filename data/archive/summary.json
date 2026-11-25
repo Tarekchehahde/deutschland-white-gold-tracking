@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-25T02:30:12Z",
+  "generated_at_utc": "2026-11-25T15:35:07Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1053,
+  "total_in_archive": 1059,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,81 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 145
+    "2026-11": 151
   },
   "recent_for_ui": [
+    {
+      "id": "9d7f7bde2c500df5e4491038",
+      "title": "Elektroautos: \"Geisterfabrik\" in China kostet Audi Hunderte Millionen",
+      "url": "https://www.golem.de/news/elektroautos-geisterfabrik-in-china-kostet-audi-hunderte-millionen-2611-215657.html",
+      "published_at": "2026-11-25T15:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: \"Geisterfabrik\" in China kostet Audi Hunderte Millionen Audis neue Fabrik für Elektroautos in China ist kaum ausgelastet. E-Tron-Modelle wie der Q6 oder A6 verkaufen sich sehr schlecht. ( Audi , Technologie )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "04b0cbe79be81aaedff0544e",
+      "title": "Marktkonzentration bei steuerbarer Stromerzeugung nach wie vor hoch",
+      "url": "https://www.pv-magazine.de/2026/11/25/marktkonzentration-bei-steuerbarer-stromerzeugung-nach-wie-vor-hoch/",
+      "published_at": "2026-11-25T11:38:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Marktkonzentration bei steuerbarer Stromerzeugung nach wie vor hoch Der neue Monitoringbericht von Bundesnetzagentur und Bundeskartellamt zeigt, dass 2025 rund 53 Prozent der Stromerzeugung aus steuerbaren Anlagen auf fünf Unternehmen entfielen. Batteriespeicher sollten bei den kommenden Ausschreibungen für steuerbare Kraftwerkskapazitäten nicht behindert werden, so die Behörden – sie können die S",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "9ed41abf4ede316dcf8b01f8",
+      "title": "Sitzheizung: New York verbietet zahlreiche Abofunktionen in Autos",
+      "url": "https://www.golem.de/news/sitzheizung-new-york-verbietet-zahlreiche-abofunktionen-in-autos-2611-215637.html",
+      "published_at": "2026-11-25T10:22:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Sitzheizung: New York verbietet zahlreiche Abofunktionen in Autos Sitzheizung, erweiterte Navigation oder Fahrassistenzfunktionen dürfen im US-Bundesstaat New York künftig kein Abo mehr sein. ( Auto , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f8ded38342bc07471be7a79f",
+      "title": "Steigende Preise, schrumpfende Preisspannen: Batterieerlöse im Oktober",
+      "url": "https://www.pv-magazine.de/2026/11/25/steigende-preise-schrumpfende-preisspannen-batterieerloese-im-oktober/",
+      "published_at": "2026-11-25T09:22:06Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Steigende Preise, schrumpfende Preisspannen: Batterieerlöse im Oktober Obwohl die Strompreise im Oktober erneut deutlich anzogen, gingen die Erlöse für Batteriespeicher sowohl an den Großhandels- als auch an den Regelenergiemärkten zurück. Lennard Wilkening, CEO und Mitgründer von Suena Energy, beleuchtet die Hintergründe dieser Entwicklung und ordnet ein, was sie für den Batteriehandel in den kom",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6a69ae6530c541f0bfcb7c7c",
+      "title": "Probefahrt mit dem Slate Truck: Der Billig-Pick-up für 25.000 US-Dollar",
+      "url": "https://www.golem.de/news/probefahrt-mit-dem-slate-truck-der-billig-pick-up-fuer-25-000-us-dollar-2611-215536.html",
+      "published_at": "2026-11-25T09:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt mit dem Slate Truck: Der Billig-Pick-up für 25.000 US-Dollar Ein Elektro-Pick-up für nur 25.000 Dollar, fast ohne Komfort: Das von Jeff Bezos mitfinanzierte Start-up Slate will mit einem Billigmodell punkten. Golem ist den Truck gefahren. Ein Bericht von Stefan Grundhoff ( Elektroauto , Auto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "c0bbc29209bb2263b33c919a",
+      "title": "Vehicle-to-Grid: VW zahlt bis zu 720 Euro fürs Einstecken des E-Autos",
+      "url": "https://www.golem.de/news/vehicle-to-grid-vw-zahlt-bis-zu-720-euro-fuers-einstecken-des-e-autos-2611-215622.html",
+      "published_at": "2026-11-25T07:43:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Vehicle-to-Grid: VW zahlt bis zu 720 Euro fürs Einstecken des E-Autos Elli startet im Dezember V2G für VW, Cupra und Skoda. Der Bonus beträgt bis zu 720 Euro, die Wallbox kostet 1.995 Euro. ( Wallbox , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c7986762e85275f744ca6aaf",
       "title": "Kilow La Bagnole: Elektrischer Mini-Jeep aus Frankreich kostet ab 10.800 Euro",
@@ -4516,77 +4588,6 @@
       "source_id": "pfalz-express",
       "language": "de",
       "summary": "Germersheim: Tafel bekommt Photovoltaikanlage Germersheim – Die Tafel Germersheim will künftig einen Teil ihres Stroms selbst produzieren. Auf dem Dach des Gebäudes in der Waldstraße 15 soll eine Photovoltaikanlage entstehen. Dazu kommen ein Stromspeicher und drei Wallboxen für Elektrofahrzeuge. Am Donnerstag wurden dafür die entscheidenden Verträge unterzeichnet. Die Idee dahinter ist einfach: Di",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "74053ae2bd497155c6de3962",
-      "title": "Britische Regulierungsbehörde plant Gebühren für Batteriespeicher zur Verkürzung der Warteliste für Netzanschlüsse",
-      "url": "https://www.pv-magazine.de/2026/09/18/britische-regulierungsbehoerde-plant-gebuehren-fuer-batteriespeicher-zur-verkuerzung-der-warteliste-fuer-netzanschluesse/",
-      "published_at": "2026-09-18T10:25:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Britische Regulierungsbehörde plant Gebühren für Batteriespeicher zur Verkürzung der Warteliste für Netzanschlüsse Die finanzielle Verpflichtung für Batteriespeichersysteme steht kurz vor der Genehmigung, um die Überkapazitäten in der britischen Warteliste für Netzanschlüsse weiter abzubauen. Trotz der jüngsten Reformbemühungen bei den Netzanschlussverfahren ist die Warteliste immer noch mehr als ",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "c00a8c3a1085614d1bf01156",
-      "title": "Spritpreise: Umweltbundesamt schlägt Hilfen zum Umstieg auf E-Mobilität vor",
-      "url": "https://www.heise.de/news/Spritpreise-Umweltbundesamt-schlaegt-Hilfen-zum-Umstieg-auf-E-Mobilitaet-vor-11457843.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-18T07:09:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Spritpreise: Umweltbundesamt schlägt Hilfen zum Umstieg auf E-Mobilität vor Während die Bundesregierung Entlastungen bei den Spritpreisen plant, schlägt das Umweltbundesamt Hilfen zu einem schnelleren Umstieg auf Elektromobilität vor.",
-      "tags": [
-        "politik",
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "740ddeb2efb185d308fc1f8d",
-      "title": "Hohe Benzinpreise: Wie der Treibstoffmarkt in fünf Jahren aussehen könnte",
-      "url": "https://www.golem.de/news/hohe-benzinpreise-wie-der-treibstoffmarkt-in-fuenf-jahren-aussehen-koennte-2609-213142.html",
-      "published_at": "2026-09-18T06:30:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Hohe Benzinpreise: Wie der Treibstoffmarkt in fünf Jahren aussehen könnte Benzin und Diesel werden immer teurer, weil die Nachfrage das Angebot übersteigt, soweit ganz logisch. Kann der E-Auto-Boom daran etwas ändern? Eine Analyse von Mario Petzold ( Elektromobilität , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e0b9952e4c0c483c19e4506c",
-      "title": "Hybridkraftwerk mit 69 Megawatt Photovoltaik und 76,5 Megawattstunden Speicher geht ans Netz",
-      "url": "https://www.pv-magazine.de/2026/09/17/hybridkraftwerk-mit-69-megawatt-photovoltaik-und-765-megawattstunden-speicher-geht-ans-netz/",
-      "published_at": "2026-09-17T14:03:17Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Hybridkraftwerk mit 69 Megawatt Photovoltaik und 76,5 Megawattstunden Speicher geht ans Netz Nach rund vier Jahren Planung und Entwicklung steht das Projekt kurz vor der feierlichen Inbetriebnahme. Der Batteriespeicher mit 76,5 Megawattstunden Kapazität muss zunächst komplett als Grünstromspeicher betrieben werden, da Eon Edis die zunächst zusagte Bezugsleistung von 6 Megawatt wieder aus dem Ansch",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "b9f131ec3b4eceb7bb2b5c74",
-      "title": "Schnellladesäulen: Wenn der Ladestecker zickt",
-      "url": "https://www.golem.de/news/schnellladesaeulen-wenn-der-ladestecker-zickt-2609-213125.html",
-      "published_at": "2026-09-17T12:00:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Schnellladesäulen: Wenn der Ladestecker zickt Bei mehreren Autotests in diesem Sommer hatten wir Probleme mit Ladesteckern. Grund dafür ist unter anderem ein Fertigungsfehler. Ein Bericht von Friedhelm Greis ( Ladesäule , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e6e71ebfaf1418ecd0c7495d",
-      "title": "Eon bietet ab 2027 Photovoltaik-Komplettpaket mit Einspeisebonus an",
-      "url": "https://www.pv-magazine.de/2026/09/17/eon-bietet-ab-2027-photovoltaik-komplettpaket-mit-einspeisebonus-an/",
-      "published_at": "2026-09-17T11:23:11Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Eon bietet ab 2027 Photovoltaik-Komplettpaket mit Einspeisebonus an Bis zu 570 Euro Bonus jährlich und Ersparnisse durch smarte Solarstrom-Nutzung verspricht der Energiekonzern. Dies gilt für Privathaushalte mit einer 10 Kilowatt Photovoltaik-Anlage, Speicher, Elektroauto und Wärmepumpe. Der feste Einspeisebonus soll dabei das Risiko der schwankenden Börsenstrompreise für die Kunden kompensieren.",
       "tags": [],
       "regions": []
     }

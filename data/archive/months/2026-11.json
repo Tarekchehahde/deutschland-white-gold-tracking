@@ -1,8 +1,80 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 145,
+  "article_count": 151,
   "articles": [
+    {
+      "id": "9d7f7bde2c500df5e4491038",
+      "title": "Elektroautos: \"Geisterfabrik\" in China kostet Audi Hunderte Millionen",
+      "url": "https://www.golem.de/news/elektroautos-geisterfabrik-in-china-kostet-audi-hunderte-millionen-2611-215657.html",
+      "published_at": "2026-11-25T15:30:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Elektroautos: \"Geisterfabrik\" in China kostet Audi Hunderte Millionen Audis neue Fabrik für Elektroautos in China ist kaum ausgelastet. E-Tron-Modelle wie der Q6 oder A6 verkaufen sich sehr schlecht. ( Audi , Technologie )",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "04b0cbe79be81aaedff0544e",
+      "title": "Marktkonzentration bei steuerbarer Stromerzeugung nach wie vor hoch",
+      "url": "https://www.pv-magazine.de/2026/11/25/marktkonzentration-bei-steuerbarer-stromerzeugung-nach-wie-vor-hoch/",
+      "published_at": "2026-11-25T11:38:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Marktkonzentration bei steuerbarer Stromerzeugung nach wie vor hoch Der neue Monitoringbericht von Bundesnetzagentur und Bundeskartellamt zeigt, dass 2025 rund 53 Prozent der Stromerzeugung aus steuerbaren Anlagen auf fünf Unternehmen entfielen. Batteriespeicher sollten bei den kommenden Ausschreibungen für steuerbare Kraftwerkskapazitäten nicht behindert werden, so die Behörden – sie können die S",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "9ed41abf4ede316dcf8b01f8",
+      "title": "Sitzheizung: New York verbietet zahlreiche Abofunktionen in Autos",
+      "url": "https://www.golem.de/news/sitzheizung-new-york-verbietet-zahlreiche-abofunktionen-in-autos-2611-215637.html",
+      "published_at": "2026-11-25T10:22:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Sitzheizung: New York verbietet zahlreiche Abofunktionen in Autos Sitzheizung, erweiterte Navigation oder Fahrassistenzfunktionen dürfen im US-Bundesstaat New York künftig kein Abo mehr sein. ( Auto , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f8ded38342bc07471be7a79f",
+      "title": "Steigende Preise, schrumpfende Preisspannen: Batterieerlöse im Oktober",
+      "url": "https://www.pv-magazine.de/2026/11/25/steigende-preise-schrumpfende-preisspannen-batterieerloese-im-oktober/",
+      "published_at": "2026-11-25T09:22:06Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Steigende Preise, schrumpfende Preisspannen: Batterieerlöse im Oktober Obwohl die Strompreise im Oktober erneut deutlich anzogen, gingen die Erlöse für Batteriespeicher sowohl an den Großhandels- als auch an den Regelenergiemärkten zurück. Lennard Wilkening, CEO und Mitgründer von Suena Energy, beleuchtet die Hintergründe dieser Entwicklung und ordnet ein, was sie für den Batteriehandel in den kom",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "6a69ae6530c541f0bfcb7c7c",
+      "title": "Probefahrt mit dem Slate Truck: Der Billig-Pick-up für 25.000 US-Dollar",
+      "url": "https://www.golem.de/news/probefahrt-mit-dem-slate-truck-der-billig-pick-up-fuer-25-000-us-dollar-2611-215536.html",
+      "published_at": "2026-11-25T09:15:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Probefahrt mit dem Slate Truck: Der Billig-Pick-up für 25.000 US-Dollar Ein Elektro-Pick-up für nur 25.000 Dollar, fast ohne Komfort: Das von Jeff Bezos mitfinanzierte Start-up Slate will mit einem Billigmodell punkten. Golem ist den Truck gefahren. Ein Bericht von Stefan Grundhoff ( Elektroauto , Auto )",
+      "tags": [
+        "exploration"
+      ],
+      "regions": []
+    },
+    {
+      "id": "c0bbc29209bb2263b33c919a",
+      "title": "Vehicle-to-Grid: VW zahlt bis zu 720 Euro fürs Einstecken des E-Autos",
+      "url": "https://www.golem.de/news/vehicle-to-grid-vw-zahlt-bis-zu-720-euro-fuers-einstecken-des-e-autos-2611-215622.html",
+      "published_at": "2026-11-25T07:43:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Vehicle-to-Grid: VW zahlt bis zu 720 Euro fürs Einstecken des E-Autos Elli startet im Dezember V2G für VW, Cupra und Skoda. Der Bonus beträgt bis zu 720 Euro, die Wallbox kostet 1.995 Euro. ( Wallbox , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "c7986762e85275f744ca6aaf",
       "title": "Kilow La Bagnole: Elektrischer Mini-Jeep aus Frankreich kostet ab 10.800 Euro",
