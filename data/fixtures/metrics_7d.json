@@ -3,13 +3,13 @@
   "articles_per_day": {
     "2026-11-20": 1,
     "2026-11-22": 1,
-    "2026-11-24": 4
+    "2026-11-24": 6
   },
   "tag_counts": {
     "industrie": 3
   },
   "by_source_category": {
-    "national": 5,
+    "national": 7,
     "regional": 1
   }
 }
