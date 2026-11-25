@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-24T15:52:35Z",
+  "generated_at_utc": "2026-11-25T02:30:12Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1051,
+  "total_in_archive": 1053,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,31 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 143
+    "2026-11": 145
   },
   "recent_for_ui": [
+    {
+      "id": "c7986762e85275f744ca6aaf",
+      "title": "Kilow La Bagnole: Elektrischer Mini-Jeep aus Frankreich kostet ab 10.800 Euro",
+      "url": "https://www.golem.de/news/kilow-la-bagnole-elektrischer-mini-jeep-aus-frankreich-kostet-ab-10-800-euro-2611-215603.html",
+      "published_at": "2026-11-24T16:55:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Kilow La Bagnole: Elektrischer Mini-Jeep aus Frankreich kostet ab 10.800 Euro Der La Bagnole von Kilow ist ein vielseitiger kleiner Elektro-Jeep, der als Pritschen- oder als Kastenwagen genutzt werden kann. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f6418ece04cd543cebc2407f",
+      "title": "Einfuhrkontrolle: EU legt Importzahlen für chinesische Hybride fest",
+      "url": "https://www.golem.de/news/einfuhrkontrolle-eu-legt-importzahlen-fuer-chinesische-hybride-fest-2611-215599.html",
+      "published_at": "2026-11-24T16:05:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Einfuhrkontrolle: EU legt Importzahlen für chinesische Hybride fest Hybridfahrzeuge aus chinesischer Produktion überschwemmen den europäischen Markt. Das soll im kommenden Jahr anders werden. ( Plugin-Hybrid , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "abaae39b60d29f8b89815e1f",
       "title": "Nahe deutscher Grenze: BYD will Automobilwerk in Frankreich übernehmen",
@@ -4565,28 +4587,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Eon bietet ab 2027 Photovoltaik-Komplettpaket mit Einspeisebonus an Bis zu 570 Euro Bonus jährlich und Ersparnisse durch smarte Solarstrom-Nutzung verspricht der Energiekonzern. Dies gilt für Privathaushalte mit einer 10 Kilowatt Photovoltaik-Anlage, Speicher, Elektroauto und Wärmepumpe. Der feste Einspeisebonus soll dabei das Risiko der schwankenden Börsenstrompreise für die Kunden kompensieren.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "c3611b76e63ace653284ac2a",
-      "title": "Deutschland: E-Autos boomen, Energiesteuern schwinden",
-      "url": "https://www.dw.com/de/deutschland-e-autos-boomen-energiesteuern-schwinden/a-79293200?maca=de-rss-de-eco-1018-xml-mrss",
-      "published_at": "2026-09-17T10:27:00Z",
-      "source_id": "dw-wirtschaft",
-      "language": "de",
-      "summary": "Deutschland: E-Autos boomen, Energiesteuern schwinden Mit den Spritpreisen steigt auch das Interesse an Elektroautos. Doch Elektromobilität lässt nicht nur schädliche CO2-Emissionen sinken, sondern auch die Steuereinnahmen. Wie reagiert die Politik auf das Paradox?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "77429808de46c78dfa4dfa54",
-      "title": "IAB aus 2023: Warum der Dezember für die Speicherbranche zu spät ist",
-      "url": "https://www.pv-magazine.de/2026/09/17/iab-aus-2023-warum-der-dezember-fuer-die-speicherbranche-zu-spaet-ist/",
-      "published_at": "2026-09-17T08:13:02Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "IAB aus 2023: Warum der Dezember für die Speicherbranche zu spät ist Auch für Batteriespeicher läuft bei kalendergleichem Wirtschaftsjahr zum 31. Dezember 2026 die Investitionsfrist für Investitionsabzugsbeträge aus dem Jahr 2023 ab. Wer bis dahin keine ausreichende begünstigte Investition vorgenommen und den IAB nicht entsprechend verwendet hat, muss ihn rückwirkend für 2023 rückgängig machen. Da",
       "tags": [],
       "regions": []
     }
