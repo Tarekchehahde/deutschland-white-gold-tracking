@@ -2,16 +2,93 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "9d7f7bde2c500df5e4491038",
-      "title": "Elektroautos: Audis \"Geisterfabrik\" in China steht fast immer still",
-      "url": "https://www.golem.de/news/elektroautos-geisterfabrik-in-china-kostet-audi-hunderte-millionen-2611-215657.html",
-      "published_at": "2026-11-25T15:30:02Z",
+      "id": "1186b82c1414cf63be6792c2",
+      "title": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen",
+      "url": "https://www.tagesschau.de/inland/regional/sachsen/news-energiewende-dunkelflaute-stromversorgung,batterie-speicher-bau-100.html",
+      "published_at": "2026-11-26T14:19:17Z",
+      "source_id": "tagesschau-sn",
+      "language": "de",
+      "summary": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen Energiespeicher sichern vor allem in Zeiten, in denen Dunkelflaute herrscht, die Versorgung. In Freiberg ensteht jetzt einer der gröten Speicher Deutschlands.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "adde65083d6dcf3553f47e19",
+      "title": "Autoindustrie: Warum muss man ein Jahr auf sein Elektroauto warten?",
+      "url": "https://www.sueddeutsche.de/wirtschaft/elektroautos-lieferzeiten-volkswagen-id-polo-e-mobilitaet-li.3581346",
+      "published_at": "2026-11-26T12:53:25Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Autoindustrie: Warum muss man ein Jahr auf sein Elektroauto warten? Die Nachfrage nach E-Autos ist so groß wie nie. Doch immer öfter heißt es, der Wagen sei frühestens in zwölf Monaten lieferbar. Was läuft da schief?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2df98bbd7ffa449a4c674709",
+      "title": "Automotive: Was würde eine chinesische Übernahme für Volkswagen bedeuten?",
+      "url": "https://www.golem.de/news/automotive-was-wuerde-eine-chinesische-uebernahme-fuer-volkswagen-bedeuten-2611-215690.html",
+      "published_at": "2026-11-26T12:10:02Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Elektroautos: Audis \"Geisterfabrik\" in China steht fast immer still Audis neue Fabrik für Elektroautos in China läuft nur an wenigen Tagen im Monat. E-Tron-Modelle wie der Q6 oder A6 verkaufen sich sehr schlecht. ( Audi , Technologie )",
+      "summary": "Automotive: Was würde eine chinesische Übernahme für Volkswagen bedeuten? Ein Ökonom schlägt vor, VW an China zu verkaufen. Die Produktion könnte in Deutschland bleiben, die Entwicklung nach China wandern - mit Folgen für Arbeitsplätze und technologische Eigenständigkeit. Eine Analyse von Tobias Költzsch ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4a0d7071b527883207983d5c",
+      "title": "Baugenehmigung für 4-Stunden-Speicher mit 2800 Megawattstunden in Sachsen erteilt",
+      "url": "https://www.pv-magazine.de/2026/11/26/baugenehmigung-fuer-4-stunden-speicher-mit-2800-megawattstunden-in-sachsen-erteilt/",
+      "published_at": "2026-11-26T11:44:24Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Baugenehmigung für 4-Stunden-Speicher mit 2800 Megawattstunden in Sachsen erteilt Die Landesdirektion des Freistaats hat den Bau genehmigt. CI V Gigastar ProjectCo will den Batteriespeicher mit 700 Megawatt in zwei Stufen errichten.",
       "tags": [
-        "industrie"
+        "politik"
       ],
+      "regions": []
+    },
+    {
+      "id": "380ffa4a3eccab4ee73d5ee1",
+      "title": "Netzentgeltbefreiung für die „Schicksalsgemeinschaft“ Photovoltaik-Freiflächenanlagen mit Grünstromspeicher",
+      "url": "https://www.pv-magazine.de/2026/11/26/netzentgeltbefreiung-fuer-die-schicksalsgemeinschaft-photovoltaik-freiflaechenanlagen-mit-gruenstromspeicher/",
+      "published_at": "2026-11-26T09:44:42Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Netzentgeltbefreiung für die „Schicksalsgemeinschaft“ Photovoltaik-Freiflächenanlagen mit Grünstromspeicher Mit den AgNes-Festlegungen der Bundesnetzagentur endet ab 2029 die bisherige Netzentgeltbefreiung für viele Erzeugungsanlagen. Für Photovoltaik-Freiflächenanlagen und gekoppelte Grünstromspeicher gibt es jedoch unter bestimmten Voraussetzungen einen 20-jährigen Bestandsschutz. Rechtsanwalt C",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e1ee9fa4f0f89e5fc2adce0e",
+      "title": "DIW-Berlin: Lange Dunkelflauten sind sehr selten – und beherrschbar",
+      "url": "https://www.pv-magazine.de/2026/11/26/diw-berlin-lange-dunkelflauten-sind-sehr-selten-und-beherrschbar/",
+      "published_at": "2026-11-26T08:53:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "DIW-Berlin: Lange Dunkelflauten sind sehr selten – und beherrschbar Batteriespeicher können kurze Perioden mit sehr geringer Photovoltaik- und Windenergie-Erzeugung gut abfedern, so die Experten des Deutschen Instituts für Wirtschaftsforschung. Lange Phasen ließen sich vor allem mit gespeichertem grünem Wasserstoff überbrücken, der verstromt wird. Der Bau der dafür nötigen Infrastruktur müsse nun ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "badab569673839e3acefe563",
+      "title": "Musso EV im Test: Das Elektroauto für Extrovertierte",
+      "url": "https://www.golem.de/news/musso-ev-im-test-das-elektroauto-fuer-extrovertierte-2611-215645.html",
+      "published_at": "2026-11-26T08:08:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Musso EV im Test: Das Elektroauto für Extrovertierte Pick-up-Trucks sind in Deutschland nicht häufig - KGM bietet trotzdem einen E-Pick-up an. Aber braucht Deutschland so ein Fahrzeug? Ein Test von Tobias Költzsch ( Elektroauto , Test )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f3f2725578de4f0ac00a242b",
+      "title": "Kleinstwagen: Suzuki zeigt den elektrischen Ignis",
+      "url": "https://www.golem.de/news/kleinstwagen-suzuki-zeigt-den-elektrischen-ignis-2611-215671.html",
+      "published_at": "2026-11-26T06:46:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Kleinstwagen: Suzuki zeigt den elektrischen Ignis Mit dem neuen Ignis bringt Suzuki den ersten vollelektrischen Kleinstwagen der Marke an den Start. Die Markteinführung in Europa ist für Sommer 2027 geplant. ( Elektroauto , Auto )",
+      "tags": [],
       "regions": []
     },
     {
@@ -36,65 +113,6 @@
       "tags": [
         "industrie"
       ],
-      "regions": []
-    },
-    {
-      "id": "9ed41abf4ede316dcf8b01f8",
-      "title": "Sitzheizung: New York verbietet zahlreiche Abofunktionen in Autos",
-      "url": "https://www.golem.de/news/sitzheizung-new-york-verbietet-zahlreiche-abofunktionen-in-autos-2611-215637.html",
-      "published_at": "2026-11-25T10:22:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Sitzheizung: New York verbietet zahlreiche Abofunktionen in Autos Sitzheizung, erweiterte Navigation oder Fahrassistenzfunktionen dürfen im US-Bundesstaat New York künftig kein Abo mehr sein. ( Auto , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f8ded38342bc07471be7a79f",
-      "title": "Steigende Preise, schrumpfende Preisspannen: Batterieerlöse im Oktober",
-      "url": "https://www.pv-magazine.de/2026/11/25/steigende-preise-schrumpfende-preisspannen-batterieerloese-im-oktober/",
-      "published_at": "2026-11-25T09:22:06Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Steigende Preise, schrumpfende Preisspannen: Batterieerlöse im Oktober Obwohl die Strompreise im Oktober erneut deutlich anzogen, gingen die Erlöse für Batteriespeicher sowohl an den Großhandels- als auch an den Regelenergiemärkten zurück. Lennard Wilkening, CEO und Mitgründer von Suena Energy, beleuchtet die Hintergründe dieser Entwicklung und ordnet ein, was sie für den Batteriehandel in den kom",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6a69ae6530c541f0bfcb7c7c",
-      "title": "Probefahrt mit dem Slate Truck: Der Billig-Pick-up für 25.000 US-Dollar",
-      "url": "https://www.golem.de/news/probefahrt-mit-dem-slate-truck-der-billig-pick-up-fuer-25-000-us-dollar-2611-215536.html",
-      "published_at": "2026-11-25T09:15:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Probefahrt mit dem Slate Truck: Der Billig-Pick-up für 25.000 US-Dollar Ein Elektro-Pick-up für nur 25.000 Dollar, fast ohne Komfort: Das von Jeff Bezos mitfinanzierte Start-up Slate will mit einem Billigmodell punkten. Golem ist den Truck gefahren. Ein Bericht von Stefan Grundhoff ( Elektroauto , Auto )",
-      "tags": [
-        "exploration"
-      ],
-      "regions": []
-    },
-    {
-      "id": "a8d240139327a99792de78be",
-      "title": "Cylib übernimmt Batterierecycling-Geschäft von BASF",
-      "url": "https://www.pv-magazine.de/2026/11/24/cylib-uebernimmt-batterierecycling-geschaeft-von-basf/",
-      "published_at": "2026-11-24T10:20:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Cylib übernimmt Batterierecycling-Geschäft von BASF Mit dem Zukauf will das Aachener Unternehmen seine Aktivitäten in Europa erweitern und den nordamerikanischen Markt erschließen. BASF konzentriert sein Batteriematerialgeschäft künftig auf Kathodenmaterialien. Die Transaktion soll im zweiten oder dritten Quartal 2027 abgeschlossen werden.",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "15b50c62e7910798bb31a70e",
-      "title": "Batteriehersteller Eternity eröffnet Werk in Thale: Bis zu 140 Jobs im Harz geplant",
-      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/eternity-batterien,batteriehersteller-thale-100.html",
-      "published_at": "2026-11-20T09:59:14Z",
-      "source_id": "tagesschau-st",
-      "language": "de",
-      "summary": "Batteriehersteller Eternity eröffnet Werk in Thale: Bis zu 140 Jobs im Harz geplant Mit Blick auf die kriselnde Automobilindustrie will der Landkreis Harz auch verstärkt auf andere Branchen setzen. Nun hat der Batteriehersteller Eternity seinen neuen Standort in Thale eröffnet.",
-      "tags": [],
       "regions": []
     }
   ]

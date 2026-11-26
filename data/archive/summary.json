@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-26T01:47:01Z",
+  "generated_at_utc": "2026-11-26T15:13:42Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1060,
+  "total_in_archive": 1068,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,99 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 152
+    "2026-11": 160
   },
   "recent_for_ui": [
+    {
+      "id": "1186b82c1414cf63be6792c2",
+      "title": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen",
+      "url": "https://www.tagesschau.de/inland/regional/sachsen/news-energiewende-dunkelflaute-stromversorgung,batterie-speicher-bau-100.html",
+      "published_at": "2026-11-26T14:19:17Z",
+      "source_id": "tagesschau-sn",
+      "language": "de",
+      "summary": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen Energiespeicher sichern vor allem in Zeiten, in denen Dunkelflaute herrscht, die Versorgung. In Freiberg ensteht jetzt einer der gröten Speicher Deutschlands.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "adde65083d6dcf3553f47e19",
+      "title": "Autoindustrie: Warum muss man ein Jahr auf sein Elektroauto warten?",
+      "url": "https://www.sueddeutsche.de/wirtschaft/elektroautos-lieferzeiten-volkswagen-id-polo-e-mobilitaet-li.3581346",
+      "published_at": "2026-11-26T12:53:25Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Autoindustrie: Warum muss man ein Jahr auf sein Elektroauto warten? Die Nachfrage nach E-Autos ist so groß wie nie. Doch immer öfter heißt es, der Wagen sei frühestens in zwölf Monaten lieferbar. Was läuft da schief?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2df98bbd7ffa449a4c674709",
+      "title": "Automotive: Was würde eine chinesische Übernahme für Volkswagen bedeuten?",
+      "url": "https://www.golem.de/news/automotive-was-wuerde-eine-chinesische-uebernahme-fuer-volkswagen-bedeuten-2611-215690.html",
+      "published_at": "2026-11-26T12:10:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Automotive: Was würde eine chinesische Übernahme für Volkswagen bedeuten? Ein Ökonom schlägt vor, VW an China zu verkaufen. Die Produktion könnte in Deutschland bleiben, die Entwicklung nach China wandern - mit Folgen für Arbeitsplätze und technologische Eigenständigkeit. Eine Analyse von Tobias Költzsch ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4a0d7071b527883207983d5c",
+      "title": "Baugenehmigung für 4-Stunden-Speicher mit 2800 Megawattstunden in Sachsen erteilt",
+      "url": "https://www.pv-magazine.de/2026/11/26/baugenehmigung-fuer-4-stunden-speicher-mit-2800-megawattstunden-in-sachsen-erteilt/",
+      "published_at": "2026-11-26T11:44:24Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Baugenehmigung für 4-Stunden-Speicher mit 2800 Megawattstunden in Sachsen erteilt Die Landesdirektion des Freistaats hat den Bau genehmigt. CI V Gigastar ProjectCo will den Batteriespeicher mit 700 Megawatt in zwei Stufen errichten.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "380ffa4a3eccab4ee73d5ee1",
+      "title": "Netzentgeltbefreiung für die „Schicksalsgemeinschaft“ Photovoltaik-Freiflächenanlagen mit Grünstromspeicher",
+      "url": "https://www.pv-magazine.de/2026/11/26/netzentgeltbefreiung-fuer-die-schicksalsgemeinschaft-photovoltaik-freiflaechenanlagen-mit-gruenstromspeicher/",
+      "published_at": "2026-11-26T09:44:42Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Netzentgeltbefreiung für die „Schicksalsgemeinschaft“ Photovoltaik-Freiflächenanlagen mit Grünstromspeicher Mit den AgNes-Festlegungen der Bundesnetzagentur endet ab 2029 die bisherige Netzentgeltbefreiung für viele Erzeugungsanlagen. Für Photovoltaik-Freiflächenanlagen und gekoppelte Grünstromspeicher gibt es jedoch unter bestimmten Voraussetzungen einen 20-jährigen Bestandsschutz. Rechtsanwalt C",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e1ee9fa4f0f89e5fc2adce0e",
+      "title": "DIW-Berlin: Lange Dunkelflauten sind sehr selten – und beherrschbar",
+      "url": "https://www.pv-magazine.de/2026/11/26/diw-berlin-lange-dunkelflauten-sind-sehr-selten-und-beherrschbar/",
+      "published_at": "2026-11-26T08:53:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "DIW-Berlin: Lange Dunkelflauten sind sehr selten – und beherrschbar Batteriespeicher können kurze Perioden mit sehr geringer Photovoltaik- und Windenergie-Erzeugung gut abfedern, so die Experten des Deutschen Instituts für Wirtschaftsforschung. Lange Phasen ließen sich vor allem mit gespeichertem grünem Wasserstoff überbrücken, der verstromt wird. Der Bau der dafür nötigen Infrastruktur müsse nun ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "badab569673839e3acefe563",
+      "title": "Musso EV im Test: Das Elektroauto für Extrovertierte",
+      "url": "https://www.golem.de/news/musso-ev-im-test-das-elektroauto-fuer-extrovertierte-2611-215645.html",
+      "published_at": "2026-11-26T08:08:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Musso EV im Test: Das Elektroauto für Extrovertierte Pick-up-Trucks sind in Deutschland nicht häufig - KGM bietet trotzdem einen E-Pick-up an. Aber braucht Deutschland so ein Fahrzeug? Ein Test von Tobias Költzsch ( Elektroauto , Test )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f3f2725578de4f0ac00a242b",
+      "title": "Kleinstwagen: Suzuki zeigt den elektrischen Ignis",
+      "url": "https://www.golem.de/news/kleinstwagen-suzuki-zeigt-den-elektrischen-ignis-2611-215671.html",
+      "published_at": "2026-11-26T06:46:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Kleinstwagen: Suzuki zeigt den elektrischen Ignis Mit dem neuen Ignis bringt Suzuki den ersten vollelektrischen Kleinstwagen der Marke an den Start. Die Markteinführung in Europa ist für Sommer 2027 geplant. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "9d7f7bde2c500df5e4491038",
       "title": "Elektroautos: Audis \"Geisterfabrik\" in China steht fast immer still",
@@ -4496,98 +4586,6 @@
       "source_id": "pv-magazine-de",
       "language": "de",
       "summary": "Studie sieht Potenzial für 150 Gigawatt zusätzliche Photovoltaik an Umspannwerken Intelligent gesteuerte Batteriespeicher könnten die vorhandenen Transformatoren zwischen Mittel- und Hochspannung deutlich besser auslasten: Eine Fraunhofer-IEE-Studie ermittelt für eine Gruppe von 1.313 ländlichen, von erneuerbaren Energien geprägten Umspannwerken ein theoretisches Zubaupotenzial von rund 150 Gigawa",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "432283a19d7647489ea658b0",
-      "title": "Solarstrom: Verband fordert Batteriespeicher an 1.300 Umspannwerken",
-      "url": "https://www.golem.de/news/solarstrom-verband-fordert-batteriespeicher-an-1-300-umspannwerken-2609-213246.html",
-      "published_at": "2026-09-20T08:52:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Solarstrom: Verband fordert Batteriespeicher an 1.300 Umspannwerken Mit mehr Batteriespeichern sollen 150 Gigawatt zusätzliche Photovoltaikleistung erzeugt werden. Davon sollen alle Stromkunden profitieren. ( Solarenergie , Umweltschutz )",
-      "tags": [
-        "umwelt"
-      ],
-      "regions": []
-    },
-    {
-      "id": "2f6162be00a747a674e038d3",
-      "title": "Akku-Mythen im Check: So verlängern Sie die Akku-Lebensdauer",
-      "url": "https://www.zdfheute.de/ratgeber/akku-richtig-laden-schonen-handy-lithium-ionen-akku-tipps-100.html",
-      "published_at": "2026-09-20T04:31:00Z",
-      "source_id": "zdf-nachrichten",
-      "language": "de",
-      "summary": "Akku-Mythen im Check: So verlängern Sie die Akku-Lebensdauer Egal ob Nickel- oder Lithium-Ionen-Akku: Akkus sind ständige Begleiter im Alltag. Für ein langes Leben müssen sie richtig geladen werden. Welche Mythen rund ums Akkuladen stimmen?",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "3ed406ee617d58be289916d2",
-      "title": "Hohe Spritpreise: Tankrabatt kehrt zurück, Preisdeckel ab 2027 geplant",
-      "url": "https://www.golem.de/news/hohe-spritpreise-tankrabatt-kehrt-zurueck-preisdeckel-ab-2027-geplant-2609-213243.html",
-      "published_at": "2026-09-19T10:31:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Hohe Spritpreise: Tankrabatt kehrt zurück, Preisdeckel ab 2027 geplant Bund und Länder haben sich auf ein Paket gegen hohe Spritpreise geeinigt. Ab Oktober kommt der Tankrabatt zurück, 2027 soll eine Preisobergrenze folgen. ( Auto , Elektromobilität )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "ccebb39708468f4e2e61b789",
-      "title": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken",
-      "url": "https://www.heise.de/news/Stromnetze-vertragen-mehr-PV-Strom-mit-Batteriespeichern-an-Umspannwerken-11459047.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published_at": "2026-09-19T08:18:00Z",
-      "source_id": "heise-news",
-      "language": "de",
-      "summary": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken Einer Studie zufolge verkraften die Stromnetze durch Batteriespeicher an Umspannwerken deutlich mehr Solarstrom.",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "773bd187f64314557f25a92d",
-      "title": "USA installieren so viel Batteriespeicher wie nie – doch jetzt droht ein Problem",
-      "url": "https://t3n.de/news/usa-batteriespeicher-rekord-problem-china-1762957/",
-      "published_at": "2026-09-18T16:40:00Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "USA installieren so viel Batteriespeicher wie nie – doch jetzt droht ein Problem Batteriespeicher sind derzeit einer der wachstumsstärksten Bereiche der US-Energiewirtschaft. Doch fast alle neuen Systeme nutzen Zellen aus China — genau die will die Regierung nun aus sensiblen Netzprojekten verdrängen. Im zweiten Quartal dieses Jahres erreichten die Batteriespeicher-Installationen in den USA einen ",
-      "tags": [
-        "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "af9ae57469c8bef621b4efab",
-      "title": "Steer-by-Wire in der Praxis: Mit dem Jochlenker übers Penser Joch",
-      "url": "https://www.golem.de/news/steer-by-wire-in-der-praxis-mit-dem-jochlenker-uebers-penser-joch-2609-213186.html",
-      "published_at": "2026-09-18T16:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Steer-by-Wire in der Praxis: Mit dem Jochlenker übers Penser Joch Das elektronische Lenkrad geht bei Mercedes demnächst in Serie. Wie sich das System in der Praxis fährt, haben wir mit dem EQS in den Alpen ausprobiert. Ein Bericht von Friedhelm Greis ( Elektroauto , Tesla )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "8d43b5014028835eb27d3257",
-      "title": "Spritpreise steigen: ADAC und Handwerk fordern niedrigere Stromsteuer",
-      "url": "https://www.golem.de/news/spritpreise-steigen-adac-und-handwerk-fordern-niedrigere-stromsteuer-2609-213212.html",
-      "published_at": "2026-09-18T13:24:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Spritpreise steigen: ADAC und Handwerk fordern niedrigere Stromsteuer Der ADAC und Handwerksvertreter fordern eine Senkung der Stromsteuer. Dadurch soll der Umstieg auf Elektromobilität beschleunigt werden. ( Elektroauto , Politik )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "00bae3b375fb94d2395c5b40",
-      "title": "Batteriespeicher: Speicherschwarm senkt Preise und entlastet Stromnetz",
-      "url": "https://www.golem.de/news/batteriespeicher-speicherschwarm-senkt-preise-und-entlastet-stromnetz-2609-213214.html",
-      "published_at": "2026-09-18T13:06:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Batteriespeicher: Speicherschwarm senkt Preise und entlastet Stromnetz Ein Verbund aus Millionen Heimspeichern könnte nicht nur das Stromnetz flexibilisieren. Privathaushalte hätten damit auch Zugriff auf Notstrom. ( Akku , Energiewende )",
       "tags": [],
       "regions": []
     }
