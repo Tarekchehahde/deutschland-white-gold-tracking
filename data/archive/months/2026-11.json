@@ -1,8 +1,98 @@
 {
   "schema_version": "0.3.0",
   "month": "2026-11",
-  "article_count": 152,
+  "article_count": 160,
   "articles": [
+    {
+      "id": "1186b82c1414cf63be6792c2",
+      "title": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen",
+      "url": "https://www.tagesschau.de/inland/regional/sachsen/news-energiewende-dunkelflaute-stromversorgung,batterie-speicher-bau-100.html",
+      "published_at": "2026-11-26T14:19:17Z",
+      "source_id": "tagesschau-sn",
+      "language": "de",
+      "summary": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen Energiespeicher sichern vor allem in Zeiten, in denen Dunkelflaute herrscht, die Versorgung. In Freiberg ensteht jetzt einer der gröten Speicher Deutschlands.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "adde65083d6dcf3553f47e19",
+      "title": "Autoindustrie: Warum muss man ein Jahr auf sein Elektroauto warten?",
+      "url": "https://www.sueddeutsche.de/wirtschaft/elektroautos-lieferzeiten-volkswagen-id-polo-e-mobilitaet-li.3581346",
+      "published_at": "2026-11-26T12:53:25Z",
+      "source_id": "sueddeutsche-wirtschaft",
+      "language": "de",
+      "summary": "Autoindustrie: Warum muss man ein Jahr auf sein Elektroauto warten? Die Nachfrage nach E-Autos ist so groß wie nie. Doch immer öfter heißt es, der Wagen sei frühestens in zwölf Monaten lieferbar. Was läuft da schief?",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "2df98bbd7ffa449a4c674709",
+      "title": "Automotive: Was würde eine chinesische Übernahme für Volkswagen bedeuten?",
+      "url": "https://www.golem.de/news/automotive-was-wuerde-eine-chinesische-uebernahme-fuer-volkswagen-bedeuten-2611-215690.html",
+      "published_at": "2026-11-26T12:10:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Automotive: Was würde eine chinesische Übernahme für Volkswagen bedeuten? Ein Ökonom schlägt vor, VW an China zu verkaufen. Die Produktion könnte in Deutschland bleiben, die Entwicklung nach China wandern - mit Folgen für Arbeitsplätze und technologische Eigenständigkeit. Eine Analyse von Tobias Költzsch ( VW , Elektroauto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "4a0d7071b527883207983d5c",
+      "title": "Baugenehmigung für 4-Stunden-Speicher mit 2800 Megawattstunden in Sachsen erteilt",
+      "url": "https://www.pv-magazine.de/2026/11/26/baugenehmigung-fuer-4-stunden-speicher-mit-2800-megawattstunden-in-sachsen-erteilt/",
+      "published_at": "2026-11-26T11:44:24Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Baugenehmigung für 4-Stunden-Speicher mit 2800 Megawattstunden in Sachsen erteilt Die Landesdirektion des Freistaats hat den Bau genehmigt. CI V Gigastar ProjectCo will den Batteriespeicher mit 700 Megawatt in zwei Stufen errichten.",
+      "tags": [
+        "politik"
+      ],
+      "regions": []
+    },
+    {
+      "id": "380ffa4a3eccab4ee73d5ee1",
+      "title": "Netzentgeltbefreiung für die „Schicksalsgemeinschaft“ Photovoltaik-Freiflächenanlagen mit Grünstromspeicher",
+      "url": "https://www.pv-magazine.de/2026/11/26/netzentgeltbefreiung-fuer-die-schicksalsgemeinschaft-photovoltaik-freiflaechenanlagen-mit-gruenstromspeicher/",
+      "published_at": "2026-11-26T09:44:42Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Netzentgeltbefreiung für die „Schicksalsgemeinschaft“ Photovoltaik-Freiflächenanlagen mit Grünstromspeicher Mit den AgNes-Festlegungen der Bundesnetzagentur endet ab 2029 die bisherige Netzentgeltbefreiung für viele Erzeugungsanlagen. Für Photovoltaik-Freiflächenanlagen und gekoppelte Grünstromspeicher gibt es jedoch unter bestimmten Voraussetzungen einen 20-jährigen Bestandsschutz. Rechtsanwalt C",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "e1ee9fa4f0f89e5fc2adce0e",
+      "title": "DIW-Berlin: Lange Dunkelflauten sind sehr selten – und beherrschbar",
+      "url": "https://www.pv-magazine.de/2026/11/26/diw-berlin-lange-dunkelflauten-sind-sehr-selten-und-beherrschbar/",
+      "published_at": "2026-11-26T08:53:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "DIW-Berlin: Lange Dunkelflauten sind sehr selten – und beherrschbar Batteriespeicher können kurze Perioden mit sehr geringer Photovoltaik- und Windenergie-Erzeugung gut abfedern, so die Experten des Deutschen Instituts für Wirtschaftsforschung. Lange Phasen ließen sich vor allem mit gespeichertem grünem Wasserstoff überbrücken, der verstromt wird. Der Bau der dafür nötigen Infrastruktur müsse nun ",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "badab569673839e3acefe563",
+      "title": "Musso EV im Test: Das Elektroauto für Extrovertierte",
+      "url": "https://www.golem.de/news/musso-ev-im-test-das-elektroauto-fuer-extrovertierte-2611-215645.html",
+      "published_at": "2026-11-26T08:08:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Musso EV im Test: Das Elektroauto für Extrovertierte Pick-up-Trucks sind in Deutschland nicht häufig - KGM bietet trotzdem einen E-Pick-up an. Aber braucht Deutschland so ein Fahrzeug? Ein Test von Tobias Költzsch ( Elektroauto , Test )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f3f2725578de4f0ac00a242b",
+      "title": "Kleinstwagen: Suzuki zeigt den elektrischen Ignis",
+      "url": "https://www.golem.de/news/kleinstwagen-suzuki-zeigt-den-elektrischen-ignis-2611-215671.html",
+      "published_at": "2026-11-26T06:46:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Kleinstwagen: Suzuki zeigt den elektrischen Ignis Mit dem neuen Ignis bringt Suzuki den ersten vollelektrischen Kleinstwagen der Marke an den Start. Die Markteinführung in Europa ist für Sommer 2027 geplant. ( Elektroauto , Auto )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "9d7f7bde2c500df5e4491038",
       "title": "Elektroautos: Audis \"Geisterfabrik\" in China steht fast immer still",
