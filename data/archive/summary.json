@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-26T15:13:42Z",
+  "generated_at_utc": "2026-11-27T01:44:49Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1068,
+  "total_in_archive": 1072,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,55 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 160
+    "2026-11": 164
   },
   "recent_for_ui": [
+    {
+      "id": "f2db9335957228b80922f3a6",
+      "title": "Elektroauto kaufen: Rentner steigen besonders schnell auf E-Autos um",
+      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-rentner-steigen-besonders-schnell-auf-e-autos-um-a-da3f8f5a-1ba0-4615-8dd5-c56bc7e5653a",
+      "published_at": "2026-11-26T16:23:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto kaufen: Rentner steigen besonders schnell auf E-Autos um Stromer statt Verbrenner: Immer mehr Senioren fahren elektrisch. Die über 65-Jährigen hängen beim Umstieg derzeit alle anderen Altersgruppen ab. Das hat offenbar auch finanzielle Gründe.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "499d4f67150434f36d443807",
+      "title": "Batterien: Mit dem falschen Heimspeicher kann es teuer werden",
+      "url": "https://www.golem.de/news/batterien-mit-dem-falschen-heimspeicher-kann-es-teuer-werden-2611-215709.html",
+      "published_at": "2026-11-26T16:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Batterien: Mit dem falschen Heimspeicher kann es teuer werden Eine Studie zeigt gravierende Unterschiede bei Batteriespeichern für zu Hause. Mancher Gesamtwirkungsgrad liegt bei 60 Prozent. ( Akku , Smart Meter )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7ff26a83e91243f5636d7bdd",
+      "title": "Bundesnetzagentur plant weitere Änderungen in der finalen AgNes-Festlegung",
+      "url": "https://www.pv-magazine.de/2026/11/26/bundesnetzagentur-plant-weitere-aenderungen-in-der-finalen-agnes-festlegung/",
+      "published_at": "2026-11-26T16:10:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bundesnetzagentur plant weitere Änderungen in der finalen AgNes-Festlegung Bis zum Jahresende will die Behörde die finale Festlegung für die künftige Netzentgeltsystematik veröffentlichen, aber nach pv magazine Informationen wird die finale Fassung wohl nicht vor dem 22. Dezember vorliegen. Gegenüber dem bisher bekannten Entwurf scheinen noch Anpassungen geplant zu sein, die sich auf die Geschäfts",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f736a3ab4ccf2356bfc70ff5",
+      "title": "Chinesische Wechselrichter und Batteriezellen: Welche Beschränkungen Brüssel diskutiert",
+      "url": "https://www.pv-magazine.de/2026/11/26/chinesische-wechselrichter-und-batteriezellen-welche-beschraenkungen-bruessel-diskutiert/",
+      "published_at": "2026-11-26T15:37:56Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Chinesische Wechselrichter und Batteriezellen: Welche Beschränkungen Brüssel diskutiert Brüssel diskutiert zwei Verordnungen, die für Solar- und Speicherentwickler sehr relevant sind: den Cybersecurity Act 2 und den Industrial Accelerator Act. Ein kurzfristiger pauschaler Ausschluss chinesischer Anbieter, der überall greift, zeichnet sich zwar noch nicht ab. Doch die neuen Regeln könnten tief in L",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
     {
       "id": "1186b82c1414cf63be6792c2",
       "title": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen",
@@ -20,7 +66,7 @@
       "published_at": "2026-11-26T14:19:17Z",
       "source_id": "tagesschau-sn",
       "language": "de",
-      "summary": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen Energiespeicher sichern vor allem in Zeiten, in denen Dunkelflaute herrscht, die Versorgung. In Freiberg ensteht jetzt einer der gröten Speicher Deutschlands.",
+      "summary": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen Energiespeicher sichern vor allem in Zeiten, in denen Dunkelflaute herrscht, die Versorgung. In Freiberg entsteht jetzt einer der größten Speicher Deutschlands.",
       "tags": [],
       "regions": []
     },
@@ -4540,52 +4586,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Verbrenner nicht gefragt: E-Auto-Boom sorgt für lange Gesichter in Wolfsburg Die Nachfrage nach E-Autos zieht kräftig an, schneller als VW geplant hat. Während die Werke in Emden und Zwickau aufdrehen, streicht das Stammwerk Sonderschichten. ( VW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d6d81448bde1b4ca96b25976",
-      "title": "Forschungsprojekt erprobt Schwarm aus Kleinspeichern in Mehrfamilienhäusern",
-      "url": "https://www.pv-magazine.de/2026/09/21/forschungsprojekt-erprobt-schwarm-aus-kleinspeichern-in-mehrfamilienhaeusern/",
-      "published_at": "2026-09-21T11:37:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Forschungsprojekt erprobt Schwarm aus Kleinspeichern in Mehrfamilienhäusern Im Forschungsprojekt Naresys sollen Batteriespeicher mit jeweils rund zwei Kilowattstunden Kapazität in Wohnungen von Mehrfamilienhäusern zu einem zentral steuerbaren Schwarm zusammengeschlossen werden. Erprobt werden unter anderem die Vermarktung der Flexibilität am Strommarkt und der netzdienliche Einsatz. In einem Reall",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d5090f904fee387492c50a86",
-      "title": "Bauwo und Energy Partners starten Zusammenarbeit mit Photovoltaik-Speicher-Projekt in Rheinau",
-      "url": "https://www.pv-magazine.de/2026/09/21/bauwo-und-energy-partners-starten-zusammenarbeit-mit-photovoltaik-speicher-projekt-in-rheinau/",
-      "published_at": "2026-09-21T10:25:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Bauwo und Energy Partners starten Zusammenarbeit mit Photovoltaik-Speicher-Projekt in Rheinau Der Immobilienentwickler Bauwo Invest und Energy Partners haben ihr erstes gemeinsames Energieinfrastrukturprojekt gestartet. An einem Logistikstandort in Rheinau kombinieren die Unternehmen eine Photovoltaik-Anlage mit rund vier Megawatt, einen Batteriespeicher mit fünf Megawattstunden und Ladeinfrastruk",
-      "tags": [
-        "industrie"
-      ],
-      "regions": []
-    },
-    {
-      "id": "57fa5107fcd6e050d272da02",
-      "title": "Subaru Uncharted im Test: Das Elektroauto für Knopfliebhaber",
-      "url": "https://www.golem.de/news/subaru-uncharted-im-test-das-elektroauto-fuer-knopfliebhaber-2609-213098.html",
-      "published_at": "2026-09-21T10:00:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Subaru Uncharted im Test: Das Elektroauto für Knopfliebhaber Der Innenraum von Subarus Uncharted wirkt verglichen mit der Konkurrenz aus der Zeit gefallen. Das ändert nichts daran, dass das Elektroauto Spaß macht. Ein Test von Tobias Költzsch ( Subaru , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "7711aab94d5938bb35e713b9",
-      "title": "Studie sieht Potenzial für 150 Gigawatt zusätzliche Photovoltaik an Umspannwerken",
-      "url": "https://www.pv-magazine.de/2026/09/21/studie-sieht-potenzial-fuer-150-gigawatt-zusaetzliche-photovoltaik-an-umspannwerken/",
-      "published_at": "2026-09-21T08:44:20Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Studie sieht Potenzial für 150 Gigawatt zusätzliche Photovoltaik an Umspannwerken Intelligent gesteuerte Batteriespeicher könnten die vorhandenen Transformatoren zwischen Mittel- und Hochspannung deutlich besser auslasten: Eine Fraunhofer-IEE-Studie ermittelt für eine Gruppe von 1.313 ländlichen, von erneuerbaren Energien geprägten Umspannwerken ein theoretisches Zubaupotenzial von rund 150 Gigawa",
       "tags": [],
       "regions": []
     }

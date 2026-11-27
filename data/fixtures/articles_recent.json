@@ -2,13 +2,59 @@
   "schema_version": "0.2.0",
   "articles": [
     {
+      "id": "f2db9335957228b80922f3a6",
+      "title": "Elektroauto kaufen: Rentner steigen besonders schnell auf E-Autos um",
+      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-rentner-steigen-besonders-schnell-auf-e-autos-um-a-da3f8f5a-1ba0-4615-8dd5-c56bc7e5653a",
+      "published_at": "2026-11-26T16:23:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto kaufen: Rentner steigen besonders schnell auf E-Autos um Stromer statt Verbrenner: Immer mehr Senioren fahren elektrisch. Die über 65-Jährigen hängen beim Umstieg derzeit alle anderen Altersgruppen ab. Das hat offenbar auch finanzielle Gründe.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "499d4f67150434f36d443807",
+      "title": "Batterien: Mit dem falschen Heimspeicher kann es teuer werden",
+      "url": "https://www.golem.de/news/batterien-mit-dem-falschen-heimspeicher-kann-es-teuer-werden-2611-215709.html",
+      "published_at": "2026-11-26T16:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Batterien: Mit dem falschen Heimspeicher kann es teuer werden Eine Studie zeigt gravierende Unterschiede bei Batteriespeichern für zu Hause. Mancher Gesamtwirkungsgrad liegt bei 60 Prozent. ( Akku , Smart Meter )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7ff26a83e91243f5636d7bdd",
+      "title": "Bundesnetzagentur plant weitere Änderungen in der finalen AgNes-Festlegung",
+      "url": "https://www.pv-magazine.de/2026/11/26/bundesnetzagentur-plant-weitere-aenderungen-in-der-finalen-agnes-festlegung/",
+      "published_at": "2026-11-26T16:10:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bundesnetzagentur plant weitere Änderungen in der finalen AgNes-Festlegung Bis zum Jahresende will die Behörde die finale Festlegung für die künftige Netzentgeltsystematik veröffentlichen, aber nach pv magazine Informationen wird die finale Fassung wohl nicht vor dem 22. Dezember vorliegen. Gegenüber dem bisher bekannten Entwurf scheinen noch Anpassungen geplant zu sein, die sich auf die Geschäfts",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f736a3ab4ccf2356bfc70ff5",
+      "title": "Chinesische Wechselrichter und Batteriezellen: Welche Beschränkungen Brüssel diskutiert",
+      "url": "https://www.pv-magazine.de/2026/11/26/chinesische-wechselrichter-und-batteriezellen-welche-beschraenkungen-bruessel-diskutiert/",
+      "published_at": "2026-11-26T15:37:56Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Chinesische Wechselrichter und Batteriezellen: Welche Beschränkungen Brüssel diskutiert Brüssel diskutiert zwei Verordnungen, die für Solar- und Speicherentwickler sehr relevant sind: den Cybersecurity Act 2 und den Industrial Accelerator Act. Ein kurzfristiger pauschaler Ausschluss chinesischer Anbieter, der überall greift, zeichnet sich zwar noch nicht ab. Doch die neuen Regeln könnten tief in L",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "1186b82c1414cf63be6792c2",
       "title": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen",
       "url": "https://www.tagesschau.de/inland/regional/sachsen/news-energiewende-dunkelflaute-stromversorgung,batterie-speicher-bau-100.html",
       "published_at": "2026-11-26T14:19:17Z",
       "source_id": "tagesschau-sn",
       "language": "de",
-      "summary": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen Energiespeicher sichern vor allem in Zeiten, in denen Dunkelflaute herrscht, die Versorgung. In Freiberg ensteht jetzt einer der gröten Speicher Deutschlands.",
+      "summary": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen Energiespeicher sichern vor allem in Zeiten, in denen Dunkelflaute herrscht, die Versorgung. In Freiberg entsteht jetzt einer der größten Speicher Deutschlands.",
       "tags": [],
       "regions": []
     },
@@ -77,28 +123,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Musso EV im Test: Das Elektroauto für Extrovertierte Pick-up-Trucks sind in Deutschland nicht häufig - KGM bietet trotzdem einen E-Pick-up an. Aber braucht Deutschland so ein Fahrzeug? Ein Test von Tobias Költzsch ( Elektroauto , Test )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "f3f2725578de4f0ac00a242b",
-      "title": "Kleinstwagen: Suzuki zeigt den elektrischen Ignis",
-      "url": "https://www.golem.de/news/kleinstwagen-suzuki-zeigt-den-elektrischen-ignis-2611-215671.html",
-      "published_at": "2026-11-26T06:46:01Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Kleinstwagen: Suzuki zeigt den elektrischen Ignis Mit dem neuen Ignis bringt Suzuki den ersten vollelektrischen Kleinstwagen der Marke an den Start. Die Markteinführung in Europa ist für Sommer 2027 geplant. ( Elektroauto , Auto )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "6b57521f7e029570950ff842",
-      "title": "Black Friday fürs Balkonkraftwerk: Stromspeicher Solakon One für 519,99 Euro",
-      "url": "https://t3n.de/news/solakon-one-speicher-balkonkraftwerk-1774899/",
-      "published_at": "2026-11-25T14:00:00Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Black Friday fürs Balkonkraftwerk: Stromspeicher Solakon One für 519,99 Euro Der Solakon-One-Speicher nimmt vorhandene PV-Module direkt auf, läuft mit eigener App auf deutschen Servern und kostet im Black Month 370 Euro weniger. Zwei Module am Geländer, dahinter ein Mikrowechselrichter: So sehen viele Balkonkraftwerke aus, die in den vergangenen Jahren installiert wurden. Wer einen Stromspeicher n",
       "tags": [],
       "regions": []
     },
