@@ -2,13 +2,59 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "f2db9335957228b80922f3a6",
+      "title": "Elektroauto kaufen: Rentner steigen besonders schnell auf E-Autos um",
+      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-rentner-steigen-besonders-schnell-auf-e-autos-um-a-da3f8f5a-1ba0-4615-8dd5-c56bc7e5653a",
+      "published_at": "2026-11-26T16:23:00Z",
+      "source_id": "spiegel-schlagzeilen",
+      "language": "de",
+      "summary": "Elektroauto kaufen: Rentner steigen besonders schnell auf E-Autos um Stromer statt Verbrenner: Immer mehr Senioren fahren elektrisch. Die über 65-Jährigen hängen beim Umstieg derzeit alle anderen Altersgruppen ab. Das hat offenbar auch finanzielle Gründe.",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "499d4f67150434f36d443807",
+      "title": "Batterien: Mit dem falschen Heimspeicher kann es teuer werden",
+      "url": "https://www.golem.de/news/batterien-mit-dem-falschen-heimspeicher-kann-es-teuer-werden-2611-215709.html",
+      "published_at": "2026-11-26T16:15:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Batterien: Mit dem falschen Heimspeicher kann es teuer werden Eine Studie zeigt gravierende Unterschiede bei Batteriespeichern für zu Hause. Mancher Gesamtwirkungsgrad liegt bei 60 Prozent. ( Akku , Smart Meter )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7ff26a83e91243f5636d7bdd",
+      "title": "Bundesnetzagentur plant weitere Änderungen in der finalen AgNes-Festlegung",
+      "url": "https://www.pv-magazine.de/2026/11/26/bundesnetzagentur-plant-weitere-aenderungen-in-der-finalen-agnes-festlegung/",
+      "published_at": "2026-11-26T16:10:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Bundesnetzagentur plant weitere Änderungen in der finalen AgNes-Festlegung Bis zum Jahresende will die Behörde die finale Festlegung für die künftige Netzentgeltsystematik veröffentlichen, aber nach pv magazine Informationen wird die finale Fassung wohl nicht vor dem 22. Dezember vorliegen. Gegenüber dem bisher bekannten Entwurf scheinen noch Anpassungen geplant zu sein, die sich auf die Geschäfts",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "f736a3ab4ccf2356bfc70ff5",
+      "title": "Chinesische Wechselrichter und Batteriezellen: Welche Beschränkungen Brüssel diskutiert",
+      "url": "https://www.pv-magazine.de/2026/11/26/chinesische-wechselrichter-und-batteriezellen-welche-beschraenkungen-bruessel-diskutiert/",
+      "published_at": "2026-11-26T15:37:56Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Chinesische Wechselrichter und Batteriezellen: Welche Beschränkungen Brüssel diskutiert Brüssel diskutiert zwei Verordnungen, die für Solar- und Speicherentwickler sehr relevant sind: den Cybersecurity Act 2 und den Industrial Accelerator Act. Ein kurzfristiger pauschaler Ausschluss chinesischer Anbieter, der überall greift, zeichnet sich zwar noch nicht ab. Doch die neuen Regeln könnten tief in L",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
       "id": "1186b82c1414cf63be6792c2",
       "title": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen",
       "url": "https://www.tagesschau.de/inland/regional/sachsen/news-energiewende-dunkelflaute-stromversorgung,batterie-speicher-bau-100.html",
       "published_at": "2026-11-26T14:19:17Z",
       "source_id": "tagesschau-sn",
       "language": "de",
-      "summary": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen Energiespeicher sichern vor allem in Zeiten, in denen Dunkelflaute herrscht, die Versorgung. In Freiberg ensteht jetzt einer der gröten Speicher Deutschlands.",
+      "summary": "Landesdirektion genehmigt Bau von Mega-Batteriespeicher in Mittelsachsen Energiespeicher sichern vor allem in Zeiten, in denen Dunkelflaute herrscht, die Versorgung. In Freiberg entsteht jetzt einer der größten Speicher Deutschlands.",
       "tags": [],
       "regions": []
     },
