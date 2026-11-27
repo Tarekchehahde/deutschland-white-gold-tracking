@@ -2,24 +2,59 @@
   "schema_version": "0.2.0",
   "articles": [
     {
-      "id": "f2db9335957228b80922f3a6",
-      "title": "Elektroauto kaufen: Rentner steigen besonders schnell auf E-Autos um",
-      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-rentner-steigen-besonders-schnell-auf-e-autos-um-a-da3f8f5a-1ba0-4615-8dd5-c56bc7e5653a",
-      "published_at": "2026-11-26T16:23:00Z",
-      "source_id": "spiegel-schlagzeilen",
+      "id": "78857d720bcc5d6fafec5a5d",
+      "title": "Anzeige: Bestseller Nr. 1: mobile Wallbox mit App am Black Friday unter 160 Euro bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-bestseller-nr-1-mobile-wallbox-mit-app-am-black-friday-unter-160-euro-bei-amazon-2611-215750.html",
+      "published_at": "2026-11-27T13:44:01Z",
+      "source_id": "golem-rss",
       "language": "de",
-      "summary": "Elektroauto kaufen: Rentner steigen besonders schnell auf E-Autos um Stromer statt Verbrenner: Immer mehr Senioren fahren elektrisch. Die über 65-Jährigen hängen beim Umstieg derzeit alle anderen Altersgruppen ab. Das hat offenbar auch finanzielle Gründe.",
+      "summary": "Anzeige: Bestseller Nr. 1: mobile Wallbox mit App am Black Friday unter 160 Euro bei Amazon Die mobile Wallbox von dé lädt E-Autos mit bis zu 11 kW, lässt sich per App steuern und ist als Bestseller zum Black Friday reduziert. ( Elektromobilität , Elektroauto )",
       "tags": [],
       "regions": []
     },
     {
-      "id": "499d4f67150434f36d443807",
-      "title": "Batterien: Mit dem falschen Heimspeicher kann es teuer werden",
-      "url": "https://www.golem.de/news/batterien-mit-dem-falschen-heimspeicher-kann-es-teuer-werden-2611-215709.html",
-      "published_at": "2026-11-26T16:15:01Z",
+      "id": "cca2162d69e544b668f671e6",
+      "title": "Blackout-Test in Bayern: Batteriespeicher nach 45 Minuten fast leer",
+      "url": "https://www.golem.de/news/blackout-test-in-bayern-batteriespeicher-nach-45-minuten-fast-leer-2611-215752.html",
+      "published_at": "2026-11-27T13:39:01Z",
       "source_id": "golem-rss",
       "language": "de",
-      "summary": "Batterien: Mit dem falschen Heimspeicher kann es teuer werden Eine Studie zeigt gravierende Unterschiede bei Batteriespeichern für zu Hause. Mancher Gesamtwirkungsgrad liegt bei 60 Prozent. ( Akku , Smart Meter )",
+      "summary": "Blackout-Test in Bayern: Batteriespeicher nach 45 Minuten fast leer Ein Dorf sollte sich fünfeinhalb Stunden unabhängig vom europäischen Stromnetz versorgen, doch am Testtag fehlte der Wind. ( Energiewende , Windkraft )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "7f2bae56fe98c2c326179ffa",
+      "title": "MENNEKES Erfahrungen: Was Tests und Kundenstimmen über die Wallboxen vom Erfinder des Typ-2-Steckers zeigen",
+      "url": "https://t3n.de/news/mennekes-erfahrungen-was-tests-und-kundenstimmen-ueber-die-wallboxen-vom-erfinder-des-typ-2-steckers-zeigen-1775248/",
+      "published_at": "2026-11-27T12:30:54Z",
+      "source_id": "t3n-news",
+      "language": "de",
+      "summary": "MENNEKES Erfahrungen: Was Tests und Kundenstimmen über die Wallboxen vom Erfinder des Typ-2-Steckers zeigen Viele Fahrerinnen und Fahrer von Elektroautos kennen den Namen MENNEKES vom Ladekabel: Der Typ-2-Stecker, seit 2014 europäischer Ladestandard, ist als MENNEKES Stecker bekannt geworden. Entwickelt hat ihn das Familienunternehmen aus Kirchhundem im Sauerland, das heute auch Wallboxen für das ",
+      "tags": [
+        "industrie"
+      ],
+      "regions": []
+    },
+    {
+      "id": "dd4d29814e6e65f77ddb0457",
+      "title": "Co-Location: Wer bis Ende 2026 handeln muss",
+      "url": "https://www.pv-magazine.de/2026/11/27/co-location-wer-bis-ende-2026-handeln-muss/",
+      "published_at": "2026-11-27T10:56:00Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Co-Location: Wer bis Ende 2026 handeln muss Der Vertrauensschutz bei der geplanten AgNes-Reform bei einer rechtzeitigen finalen Investitionsentscheidung ist nicht nur für Stand-alone-Großspeicher relevant, sondern auch für Photovoltaikanlagen mit und ohne Batteriespeicher. Rechtsanwältin Margarete von Oppen, Partnerin bei Orka, beantwortet Fragen von Teilnehmern des pv magazine Webinar+ vom 28. Se",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "90f75941ee4dd96e8b70bfd1",
+      "title": "Enervis-Batteriespeicher-Index: Erlöse sinken im Oktober trotz weiterhin hoher Gaspreise deutlich",
+      "url": "https://www.pv-magazine.de/2026/11/27/enervis-batteriespeicher-index-erloese-sinken-im-oktober-trotz-weiterhin-hoher-gaspreise-deutlich/",
+      "published_at": "2026-11-27T09:08:13Z",
+      "source_id": "pv-magazine-de",
+      "language": "de",
+      "summary": "Enervis-Batteriespeicher-Index: Erlöse sinken im Oktober trotz weiterhin hoher Gaspreise deutlich Unabhängige Einschätzung von historischen und zukünftig erzielbaren Erlösen für Großbatteriespeicher",
       "tags": [],
       "regions": []
     },
@@ -70,17 +105,6 @@
       "regions": []
     },
     {
-      "id": "2df98bbd7ffa449a4c674709",
-      "title": "Automotive: Was würde eine chinesische Übernahme für Volkswagen bedeuten?",
-      "url": "https://www.golem.de/news/automotive-was-wuerde-eine-chinesische-uebernahme-fuer-volkswagen-bedeuten-2611-215690.html",
-      "published_at": "2026-11-26T12:10:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Automotive: Was würde eine chinesische Übernahme für Volkswagen bedeuten? Ein Ökonom schlägt vor, VW an China zu verkaufen. Die Produktion könnte in Deutschland bleiben, die Entwicklung nach China wandern - mit Folgen für Arbeitsplätze und technologische Eigenständigkeit. Eine Analyse von Tobias Költzsch ( VW , Elektroauto )",
-      "tags": [],
-      "regions": []
-    },
-    {
       "id": "4a0d7071b527883207983d5c",
       "title": "Baugenehmigung für 4-Stunden-Speicher mit 2800 Megawattstunden in Sachsen erteilt",
       "url": "https://www.pv-magazine.de/2026/11/26/baugenehmigung-fuer-4-stunden-speicher-mit-2800-megawattstunden-in-sachsen-erteilt/",
@@ -90,52 +114,6 @@
       "summary": "Baugenehmigung für 4-Stunden-Speicher mit 2800 Megawattstunden in Sachsen erteilt Die Landesdirektion des Freistaats hat den Bau genehmigt. CI V Gigastar ProjectCo will den Batteriespeicher mit 700 Megawatt in zwei Stufen errichten.",
       "tags": [
         "politik"
-      ],
-      "regions": []
-    },
-    {
-      "id": "380ffa4a3eccab4ee73d5ee1",
-      "title": "Netzentgeltbefreiung für die „Schicksalsgemeinschaft“ Photovoltaik-Freiflächenanlagen mit Grünstromspeicher",
-      "url": "https://www.pv-magazine.de/2026/11/26/netzentgeltbefreiung-fuer-die-schicksalsgemeinschaft-photovoltaik-freiflaechenanlagen-mit-gruenstromspeicher/",
-      "published_at": "2026-11-26T09:44:42Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Netzentgeltbefreiung für die „Schicksalsgemeinschaft“ Photovoltaik-Freiflächenanlagen mit Grünstromspeicher Mit den AgNes-Festlegungen der Bundesnetzagentur endet ab 2029 die bisherige Netzentgeltbefreiung für viele Erzeugungsanlagen. Für Photovoltaik-Freiflächenanlagen und gekoppelte Grünstromspeicher gibt es jedoch unter bestimmten Voraussetzungen einen 20-jährigen Bestandsschutz. Rechtsanwalt C",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "e1ee9fa4f0f89e5fc2adce0e",
-      "title": "DIW-Berlin: Lange Dunkelflauten sind sehr selten – und beherrschbar",
-      "url": "https://www.pv-magazine.de/2026/11/26/diw-berlin-lange-dunkelflauten-sind-sehr-selten-und-beherrschbar/",
-      "published_at": "2026-11-26T08:53:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "DIW-Berlin: Lange Dunkelflauten sind sehr selten – und beherrschbar Batteriespeicher können kurze Perioden mit sehr geringer Photovoltaik- und Windenergie-Erzeugung gut abfedern, so die Experten des Deutschen Instituts für Wirtschaftsforschung. Lange Phasen ließen sich vor allem mit gespeichertem grünem Wasserstoff überbrücken, der verstromt wird. Der Bau der dafür nötigen Infrastruktur müsse nun ",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "badab569673839e3acefe563",
-      "title": "Musso EV im Test: Das Elektroauto für Extrovertierte",
-      "url": "https://www.golem.de/news/musso-ev-im-test-das-elektroauto-fuer-extrovertierte-2611-215645.html",
-      "published_at": "2026-11-26T08:08:02Z",
-      "source_id": "golem-rss",
-      "language": "de",
-      "summary": "Musso EV im Test: Das Elektroauto für Extrovertierte Pick-up-Trucks sind in Deutschland nicht häufig - KGM bietet trotzdem einen E-Pick-up an. Aber braucht Deutschland so ein Fahrzeug? Ein Test von Tobias Költzsch ( Elektroauto , Test )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "04b0cbe79be81aaedff0544e",
-      "title": "Marktkonzentration bei steuerbarer Stromerzeugung nach wie vor hoch",
-      "url": "https://www.pv-magazine.de/2026/11/25/marktkonzentration-bei-steuerbarer-stromerzeugung-nach-wie-vor-hoch/",
-      "published_at": "2026-11-25T11:38:00Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Marktkonzentration bei steuerbarer Stromerzeugung nach wie vor hoch Der neue Monitoringbericht von Bundesnetzagentur und Bundeskartellamt zeigt, dass 2025 rund 53 Prozent der Stromerzeugung aus steuerbaren Anlagen auf fünf Unternehmen entfielen. Batteriespeicher sollten bei den kommenden Ausschreibungen für steuerbare Kraftwerkskapazitäten nicht behindert werden, so die Behörden – sie können die S",
-      "tags": [
-        "industrie"
       ],
       "regions": []
     }
