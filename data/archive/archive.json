@@ -2,6 +2,28 @@
   "schema_version": "0.3.0",
   "articles": [
     {
+      "id": "ebbae625d60dcce25e873864",
+      "title": "Ladepreise: ADAC rügt hohe Aufpreise an Schnellladern",
+      "url": "https://www.golem.de/news/ladepreise-adac-ruegt-hohe-aufpreise-an-schnellladern-2611-215782.html",
+      "published_at": "2026-11-28T13:06:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ladepreise: ADAC rügt hohe Aufpreise an Schnellladern Verglichen mit den Spritpreisen vom Oktober lädt es sich im Schnitt günstiger. Einige Schnelllader sind dennoch teurer. ( Elektromobilität , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d2849592024d60beebf109f3",
+      "title": "E-Barometer: VWs Anteil beim E-Auto-Umstieg mehr als halbiert",
+      "url": "https://www.golem.de/news/e-barometer-vws-anteil-beim-e-auto-umstieg-mehr-als-halbiert-2611-215777.html",
+      "published_at": "2026-11-28T10:55:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "E-Barometer: VWs Anteil beim E-Auto-Umstieg mehr als halbiert Tesla führt jetzt das HUK-Ranking an. Auch Skoda und BMW verlieren Anteile, während Opel zulegt. ( Elektroauto , Tesla )",
+      "tags": [],
+      "regions": []
+    },
+    {
       "id": "78857d720bcc5d6fafec5a5d",
       "title": "Anzeige: Bestseller Nr. 1: mobile Wallbox mit App am Black Friday unter 160 Euro bei Amazon",
       "url": "https://www.golem.de/news/anzeige-bestseller-nr-1-mobile-wallbox-mit-app-am-black-friday-unter-160-euro-bei-amazon-2611-215750.html",
