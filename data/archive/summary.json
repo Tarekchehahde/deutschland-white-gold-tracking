@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.0",
-  "generated_at_utc": "2026-11-28T01:28:05Z",
+  "generated_at_utc": "2026-11-28T14:11:08Z",
   "archive_article_cap": 3500,
-  "total_in_archive": 1077,
+  "total_in_archive": 1079,
   "articles_per_month": {
     "2026-05": 100,
     "2026-06": 162,
@@ -10,9 +10,31 @@
     "2026-08": 125,
     "2026-09": 175,
     "2026-10": 176,
-    "2026-11": 169
+    "2026-11": 171
   },
   "recent_for_ui": [
+    {
+      "id": "ebbae625d60dcce25e873864",
+      "title": "Ladepreise: ADAC rügt hohe Aufpreise an Schnellladern",
+      "url": "https://www.golem.de/news/ladepreise-adac-ruegt-hohe-aufpreise-an-schnellladern-2611-215782.html",
+      "published_at": "2026-11-28T13:06:02Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "Ladepreise: ADAC rügt hohe Aufpreise an Schnellladern Verglichen mit den Spritpreisen vom Oktober lädt es sich im Schnitt günstiger. Einige Schnelllader sind dennoch teurer. ( Elektromobilität , Auto )",
+      "tags": [],
+      "regions": []
+    },
+    {
+      "id": "d2849592024d60beebf109f3",
+      "title": "E-Barometer: VWs Anteil beim E-Auto-Umstieg mehr als halbiert",
+      "url": "https://www.golem.de/news/e-barometer-vws-anteil-beim-e-auto-umstieg-mehr-als-halbiert-2611-215777.html",
+      "published_at": "2026-11-28T10:55:01Z",
+      "source_id": "golem-rss",
+      "language": "de",
+      "summary": "E-Barometer: VWs Anteil beim E-Auto-Umstieg mehr als halbiert Tesla führt jetzt das HUK-Ranking an. Auch Skoda und BMW verlieren Anteile, während Opel zulegt. ( Elektroauto , Tesla )",
+      "tags": [],
+      "regions": []
+    },
     {
       "id": "78857d720bcc5d6fafec5a5d",
       "title": "Anzeige: Bestseller Nr. 1: mobile Wallbox mit App am Black Friday unter 160 Euro bei Amazon",
@@ -4566,28 +4588,6 @@
       "source_id": "golem-rss",
       "language": "de",
       "summary": "Elektro-SUV: Skoda Epiq macht den Umstieg leicht Mit dem Epiq rundet Skoda sein Angebot an Elektro-SUVs nach unten ab. Gegenüber dem ID.Polo kann er bei aller Familienähnlichkeit punkten. Ein Test von Franz W. Rother ( Elektroauto , Test )",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "23dd4607228d1ab207619e88",
-      "title": "Die größten Batteriespeicher Europas: Diese Anlagen wollen Lithium überflüssig machen",
-      "url": "https://t3n.de/news/batteriespeicher-europas-ohne-lithium-1754509/",
-      "published_at": "2026-09-22T15:55:00Z",
-      "source_id": "t3n-news",
-      "language": "de",
-      "summary": "Die größten Batteriespeicher Europas: Diese Anlagen wollen Lithium überflüssig machen Bei Großspeichern zur Stabilisierung des Stromnetzes jagt derzeit ein Superlativ den nächsten. Bei den größten Batterien Europas kommen neue Geschäftsmodelle sowie Techniken zum Einsatz, die ohne kritische Rohstoffe wie Lithium auskommen. Der größte Batteriespeicher Europas werde gerade in der Schweiz gebaut, mel",
-      "tags": [],
-      "regions": []
-    },
-    {
-      "id": "d57850e2397796f332043a12",
-      "title": "Förderfreie Anlagen: Der PPA-Markt kommt zurück",
-      "url": "https://www.pv-magazine.de/2026/09/22/foerderfreie-anlagen-der-ppa-markt-kommt-zurueck/",
-      "published_at": "2026-09-22T11:33:52Z",
-      "source_id": "pv-magazine-de",
-      "language": "de",
-      "summary": "Förderfreie Anlagen: Der PPA-Markt kommt zurück Die Schnelligkeit, mit der die Kannibalisierung des Solarstroms zugenommen hat, mag viele überrascht und den PPA-Markt nahezu zum Erliegen gebracht haben. Doch schon jetzt könnte es zu einem Revival des Segments kommen, wie ein Photovoltaik-Batteriespeicher-Projekt von Maxsolar zeigt, das mit dem Hybrid-PPA Solarstrom und Batterieflexibilität „Pay as",
       "tags": [],
       "regions": []
     }
